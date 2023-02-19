@@ -1,0 +1,1515 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+  <meta name="theme-color" content="#338855" />
+  <title>¡Arrr! Cthulhu - Aventuras de piratas en el Caribe de los mitos de Cthulhu</title>
+  <meta name="description"
+    content="¡Arrr! Cthulhu es una ambientación para SWADE con el que podras jugar aventuras de piratas en el Caribe de los mitos de Cthulhu." />
+  <meta property="og:title" content="¡Arrr! Cthulhu - Aventuras de piratas en el Caribe de los mitos de Cthulhu" />
+  <meta property="og:description"
+    content="¡Arrr! Cthulhu es una ambientación para SWADE con el que podras jugar aventuras de piratas en el Caribe de los mitos de Cthulhu." />
+  <meta property="og:image" content="https://arrrcthulhu.gwannon.com/images/portada.jpg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Jolly+Lodger&family=Open+Sans:wght@400;700&family=Oswald&display=swap"
+    rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+      font-family: 'Oswald', sans-serif;
+      font-weight: 500;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    body>section {
+      max-width: 800px;
+      box-sizing: border-box;
+      margin: auto;
+      padding: 25px;
+      background-color: #f7f7f7;
+    }
+
+    body>section:nth-of-type(1) {
+      height: 100vh;
+      display: flex;
+      background: #000000 url(./images/portada.jpg) center center no-repeat;
+      flex-direction: column;
+      justify-content: space-between;
+      background-size: cover;
+      color: #fff;
+      align-items: center;
+    }
+
+    body>section:nth-of-type(1)>div {
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 4em;
+      font-family: 'Jolly Lodger', cursive;
+    }
+
+    body>section:nth-of-type(1) img {
+      max-width: 150px;
+    }
+
+    .likeH1,
+    .likeH2,
+    .likeH3,
+    .likeH4 {
+      cursor: pointer;
+    }
+
+    .likeH1 {
+      font-size: 1.5em;
+      margin: 0 0 10px 0;
+      font-family: 'Oswald', sans-serif;
+    }
+
+    .likeH2 {
+      padding: 0 0 0 20px;
+      margin: 0 0 5px 0;
+      font-size: 1.2em;
+    }
+
+    .likeH3 {
+      padding: 0 0 0 40px;
+      margin: 0 0 5px 0;
+
+    }
+
+    .likeH4 {
+      padding: 0 0 0 60px;
+      margin: 0 0 5px 0;
+      font-size: .9em;
+    }
+
+    body>section:nth-of-type(3) h1 {
+      height: 60vh;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-content: stretch;
+      align-items: stretch;
+      flex-wrap: wrap;
+      justify-content: center;
+      background-color: #000000;
+      color: #ffffff;
+      margin: 0px -20px;
+    }
+
+    body>section:nth-of-type(3) h1:nth-of-type(1) {
+      background: #000000 url(./images/caribe.jpg) center bottom no-repeat;
+      background-size: cover;
+    }
+
+    body>section:nth-of-type(3) h1:nth-of-type(2) {
+      background: #000000 url(./images/ambientacion.jpg) center center no-repeat;
+      background-size: cover;
+    }
+
+    body>section:nth-of-type(3) h1:nth-of-type(3) {
+      background: #000000 url(./images/historias.jpg) left center no-repeat;
+      background-size: cover;
+    }
+    body>section:nth-of-type(3) h1:nth-of-type(4) {
+      background: #000000 url(./images/monstruos.jpg) center center no-repeat;
+      background-size: cover;
+    }
+    body>section:nth-of-type(3) h1:nth-of-type(5) {
+      background: #000000 url(./images/heroes.png) center center no-repeat;
+      background-size: cover;
+    }
+
+    table {
+      margin: 15px auto;
+
+    }
+
+    table thead {
+      background-color: #879f85;
+    }
+
+    table thead tr th {
+      padding: 10px;
+      font-family: 'Oswald', sans-serif;
+      font-size: 1.1em;
+      font-weight: 400;
+    }
+
+    table thead tr:first-child th {
+      font-size: 1.5em;
+    }
+
+    table tbody tr:nth-child(even) {
+      background-color: #d7d7d7;
+    }
+
+    table tbody tr:nth-child(odd) {
+      background-color: #c6cbc2;
+    }
+
+    table tbody tr>* {
+      padding: 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <section>
+    <div></div>
+    <div>
+      <h1>¡Arrr! Cthulhu</h1>
+      <h2>Ambientación para SWADE</h2>
+      <h3>Aventuras de piratas en el Caribe de los mitos de Cthulhu.</h3>
+    </div>
+    <div>
+      <img src="./images/pinnaclelogo.png" alt="" />
+      <p><small>This game references the Savage Worlds game system, available from Pinnacle Entertainment Group at
+          www.peginc.com. Savage Worlds and all associated logos and trademarks are copyrights of Pinnacle
+          Entertainment
+          Group. Used with permission. Pinnacle makes no representation or warranty as to the quality, viability, or
+          suitability for purpose of this product.</small></p>
+    </div>
+  </section>
+  <section>
+  </section>
+  <section>
+    <h1>El caribe de los Mitos</h1>
+    <h2>Bienvenidos al Caribe de 1720</h2>
+    <p>***</p>
+    <h2>Islas PIratas</h2>
+    <p>***</p>
+    <h2>La isla de Tortuga</h2>
+    <p>***</p>
+    <h2>Jamaica</h2>
+    <p>***</p>
+    <h2>Islas Caiman</h2>
+    <p>***</p>
+    <h2>La Real Compañía privilegiada del Caribe</h2>
+    <p>La Real Compañía Privilegiada del Caribe (RCPC) es una compañía española con privilegios en todos los territorios
+      del Caribe controlados por los españoles. Fue creada por Hernando de Villalba, un rico noble terrateniente
+      castellano, en 1700. Esta empresa tiene el control de todo el comercio entre España y el Caribe español. Nada
+      entra
+      o sale del Caribe sin pasar por sus barcos tras haber pagado diferentes impuestos y tasas.</p>
+    <p>Debido al apoyo del gobierno de España y a que controla la mayoría del comercio del Caribe tiene gran poder en la
+      zona pudiéndose considerar que el director de cada casa comercial que hay en cada isla del Caribe es casi más
+      poderoso que los propios gobernadores de las islas. Además debido a su apoyo por parte de la Corona de España
+      cuenta con el apoyo y la protección de la Armada Española.</p>
+    <h3>Edward Teach alias Barbanegra</h3>
+    <p>*** La mano ejecutora de la RCPC, el Darth Vader del juego.</p>
+    <h3>Mary Read</h3>
+    <p>Mary Read es mi homenaje a uno de mis personajes preferidos de 50 brazas, Tressa la Roja.</p>
+    <p>*** Es el grano en el culo de compañía privilegiada del Caribe y se dedica a sabotear sus planes de sacar a
+      Cthulhu de su tumba acuática en R’lyeh.</p>
+    <h2>Cthulhu y R'lyeh</h2>
+    <p>***</p>
+    <h3>Los profundos del Caribe</h3>
+    <p>No te vamos a mentir, esta es una ambientación acuática y como es normal debería haber profundos. Y sí, las
+      profundidades del Caribe están llenas de asentamientos acuáticos de los profundos y los héroes deberán
+      enfrentarse a ellos muchas veces.</p>
+
+    <p>Los profundos son los orcos de los juegos de rol ambientados en Lovecraft y te van a servir como, secuaces,
+      sirvientes, guardias, carne de cañón, … Pero puedes usarlos de otras formas creativas.</p>
+
+    <p>Un uso interesante que puedes darle es como fuerza de la naturaleza debido a su gran número, algo contra lo que
+      los héroes no podrán luchar, solo podrán ver como pasa ante sus ojos. Por poner unos ejemplos, puedes usarlos
+      para hundir flotas de barcos o arrasar ciudades como si de tornados y terremotos se tratarán.</p>
+
+    <p>Puedes hacer que tus villanos tengan faraónicas fortalezas construidas en pocas semanas y vigiladas por
+      profundos. Y quien dice fortalezas, dice flotas de barcos, caminos, puentes, … Si los héroes destruyeron algo
+      que no querías que lo destruyeran puedes usar un ejército de profundos que lo reconstruya en semanas.</p>
+
+    <p>Puedes hacer que los personajes tengan que huir de una localización y no volver en un tiempo ante la abrumadora
+      cantidad de profundos que hay en la zona. Tampoco es bueno abusar de este recurso porque perdería coherencia si
+      todo el Caribe está infestado de profundos.</p>
+
+    <p>Por último, como se pueden hibridar con humanos también podrás usarlos como marineros de barcos de la RCPC al
+      servicio de sus oscuros objetivos, como espías en las tabernas de los puertos, … Las opciones son muchas.</p>
+    <h1>Reglas de ambientación</h1>
+    <h2>Creación de personajes</h2>
+    <p>Hay una serie de reglas que modifican las normas generales de creación de personajes:</p>
+    <ul>
+      <li>Todos los personajes empiezan con la ventaja Trasfondo arcano (Hechicería primigenia).</li>
+      <li>Las ventajas de Nuevos poderes y Puntos de poder no pueden cogerse en la creación de personaje a no ser que
+        se tenga la ventaja Experiencia con los Mitos</li>
+      <li>Todos los personajes empiezan con un d4 gratis en Criollo. Esto los permitirá comunicarse minimamente 
+        cualquier persona en el Caribe. A elección del jugador puede adquirir en vez del criollo el Castellano, Francés o el Inglés, 
+        pero solo será util en las áreas de influencia de los respectivos paises.</li>
+    </ul>
+    <h2>Nuevas habilidades</h2>
+    <h3>Mitos de Cthulhu</h3>
+    <p>Mitos de Cthulhu representa los conocimientos que tiene el personaje sobre los Mitos de Cthulhu, los monstruos,
+      los hechizos, ritos, objetos, … y la historia que hay detrás de ellos.</p>
+    <p>Esta habilidad no se puede escoger en la creación del personaje. Solo mediante el estudio de libros prohibidos y
+      enfrentandote a los horrores de los mitos podrá subir está habilidad. Reglas especiales:</p>
+    <ul>
+      <li>No está basada en ningún atributo. Así que su coste es como si quisieramos subir una habilidad por encima de
+        un
+        atributo. Es decir, que cuesta un avance subir un nivel de la habilidad.</li>
+      <li>Solo puede subirse una vez por rango, como un atributo.</li>
+      <li>Para poder subir esta habilidad ha debido enfrentarse a al menos una TPC o haber leído un libro prohibido
+        durante las sesiones de ese rango.</li>
+    </ul>
+    <h2>Nuevas desventajas</h2>
+    <h3>La llamada Cthulhu (desventaja menor)</h3>
+    <p>La mente artística e imaginativa del personaje es muy susceptible a los ondas mentales del Gran Cthulhu, teniendo
+      terribles pesadillas sobre Cthulhu y su tumba acuática de R'lyeh.</p>
+    <p>Siempre que el jugador se duerma sin tener benis, tendrá unas horribles pesadillas que no le dejarán dormir y
+      tendrá
+      una penalización de menos -1 por cansancio hasta que descanse una noche entera teniendo un beni y por tanto sin
+      pesadillas. Durante las pesadillas podrá hacer uso de su habilidad de Mitos de Cthulhu para tratar de sacar
+      información, sobre Cthulhu, R’lyeh y sus adoradores y sus planes.</p>
+    <h2>Trastornos mentales (desventajas mentales)</h2>
+    <p>Además de estas desventajas listadas a continuación puedes usar como trastornos mentales Avaricioso, Hábito,
+      Delirio, Fobia y Mania.</p>
+    <h3>Amnesia y flashbacks</h3>
+    <p>***</p>
+    <h3>Depresión (mayor/menor)</h3>
+    <p>El héroe sufre depresión y todo se le hace cuesta arriba. Si es menor al principio de cada sesión deberá tirar un
+      d6. Si consigue un éxito, sobrelleva la depresión hasta la próxima sesión. Si falla pierde uno de sus bennis
+      hasta la próxima sesión. Si es mayor directamente cuenta con un beni menos.</p>
+    <h3>Trastorno de ansiedad generalizada</h3>
+    <p>***</p>
+    <h3>Terrores nocturnos</h3>
+    <p>***</p>
+    <h3>Obsesión</h3>
+    <p>***</p>
+    <h3>Obsesivo compulsivo</h3>
+    <p>***</p>
+    <h3>Paranoia (mayor/menor)</h3>
+    <p>El personaje está convencido de que los enemigos están en todas partes, y cree que todos están contra él.
+      Siempre está mirando a su espalda esperando una traición de sus compañeros o tratando de escuchar cómo conspiran
+      a sus espaldas.</p>
+
+    <p>Como desventaja menor, tiene un -1 en todas las tiradas de habilidad que exijan concentración
+      (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a su alrededor. Si se
+      toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción ya estará más preocupado de buscar
+      conspiraciones y enemigos ocultos que en vigilar o buscar.</p>
+    <h3>Episodios psicóticos</h3>
+    <p>***</p>
+    <h3>Tendencias sociópatas</h3>
+    <p>***</p>
+    <h3>Mente débil</h3>
+    <p>***</p>
+    <h2>Nuevas ventajas</h2>
+    <h3>Acostumbrado al horror (tipo de monstruo)</h3>
+    <p>A base de enfrentarte a un horror específico el héroe se ha acostumbrado y su cordura no sufre al estar en
+      su presencia. A efectos de juego baja 4 niveles el TPC de un monstruo. Si el TPC modificado baja por debajo de
+      d4 no necesita hacer tirada de TPC. Por ejemplo, un héroe acostumbrado a los profundos al ver un profundo (TPC
+      d4) no tendrá que tirar, pero si ven una horda de 1000 profundos (TCP d12+1) solo tendrá que enfrentarse a
+      un TPC (d6, 4 niveles menos).</p>
+    <h3>Experiencia con los Mitos</h3>
+    <p>El héroe ha tenido experiencias con los Mitos, quizas en su niñez o adolescencia. Puede ser que venga de un
+      linaje de
+      adoradores de Primigenios o que la sangre de profundo corra por sus venas. Puede ser que se enfrentara a un
+      monstruo de los
+      Mitos y consiguiera sobrevivir o que su abuela le transmitiera parte de los conocimientos prohibidos de su
+      akelarre de brujas.</p>
+    <p>A nivel de juego, el personaje podrá empezar con las ventajas Nuevos poderes y Puntos de poder. Es decir, podrá
+      empezar
+      sus aventuras con la capacidad de hacer hechizos. Ademas, podrá adquirir con puntos de creación la habilidad Mitos
+      de Cthulhu
+      a d4 y dispondrá de un libro de los Mitos generado aleatoriamente.</p>
+    <h3>Imán de lo extraño</h3>
+    <p>Todo lo extraño se siente atraído hacia tí para bien y para mal. Tu personaje abre y lee el libro maldito,
+      se pierde en el bosque y acaba encontrando la casa de la bruja o se le cae una probeta del laboratorio del
+      científico loco.</p>
+
+    <p>Todas las tiradas de botín en las que te veas involucrado podrás repetirlas gastando un beni y el grupo
+      podrá quedarse con el mejor resultado. En caso de no conseguir ningún éxito en ninguna de las tiradas el
+      imán de lo extraño deberá hacer una tirada en la tabla de maldiciones pero la duración solo será en
+      horas y recuperará el beni gastado.</p>
+
+    <p>En caso de que haya varios jugadores con esa ventaja cada jugador con la ventaja tendrá que gastarse un beni
+      y añadirá una tirada extra. En caso de maldición todos los jugadores con la ventaja serán maldecidos.</p>
+    <h2>Equipo</h2>
+    <p>***</p>
+    <h3>Armas</h3>
+    <p>***</p>
+    <h4>Arma lanzarrayos de la gran raza de Yith</h4>
+    <p>***</p>
+    <p>Usarla en público supone adquirir la desventaja de Buscado (por brujería)</p>
+    <h2>Horror y cordura</h2>
+    <p>El horror y la cordura sustituyen a las reglas de miedo de SWADE. Las ventajas y desventajas que afectan al
+      miedo
+      (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo
+      personaje
+      tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJs al servicio del DJ.</p>
+
+    <p>Cada vez que un personaje se enfrente a un ser los Mitos deberá hacer una tirada de enfrentada de
+      Inteligencia
+      contra la tirada de pérdida de cordura (TPC) del monstruo. Si pasa la tirada no ocurre nada, el personaje ha
+      racionalizado correctamente lo que ha ocurrido y puede actuar con normalidad.</p>
+
+    <p>Si falla la tirada deberá hacer una segunda tirada de espíritu, si saca más éxitos que la tirada TPC
+      simplemente
+      quedará aturdido. Si falla perderá un punto de cordura. Como ya hemos explicado, si pierde toda su cordura
+      cederá
+      ante el horror y la locura y pasará a ser un PNJ.</p>
+
+    <p>Puede evitarse la pérdida de puntos de cordura adquiriendo un trastorno mental permanente con un máximo de 3
+      trastornos permanentes o gastando un beni y adquiriendo un trastorno mental de forma temporal.</p>
+
+    <p>Los trastornos mentales son un tipo de desventaja y siguen sus mismas reglas. Para decidir el trastorno
+      deberá sacar
+      una carta y revisar la tabla de Trastornos. Si es temporal deberá consultar la tabla de Duración del
+      trastorno. Los
+      trastornos permanentes repetidos pueden apilarse si son menores convirtiéndose en un trastorno mayor. Si no
+      tendrá
+      que volver a coger una carta nueva. Los temporales simplemente ampliarán el tiempo.</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th colspan="5">Tabla de Trastornos</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>&hearts;</th>
+          <th>&clubs;</th>
+          <th>&spades;</th>
+          <th>&diams;</th>
+      </thead>
+      <tbody>
+        <tr>
+          <th>2</th>
+          <td>Paranoia (menor)</td>
+          <td></td>
+          <td></td>
+          <td>Manía (menor)</td>
+        </tr>
+        <tr>
+          <th>3</th>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>4</th>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>5</th>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>6</th>
+          <td>Fobia (menor)</td>
+          <td></td>
+          <td>Delirio (menor)</td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>7</th>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>8</th>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>9</th>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>10</th>
+          <td></td>
+          <td></td>
+          <td>Manía (mayor)</td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>J</th>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>Q</th>
+          <td></td>
+          <td>Avaricioso</td>
+          <td>Delirio (mayor)</td>
+          <td>Sanguinario</td>
+        </tr>
+        <tr>
+          <th>K</th>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>A</th>
+          <td>Fobia (mayor)</td>
+          <td>Paranoia (Mayor)</td>
+          <td>Hábito (mayor)</td>
+          <td>Depresión (mayor)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <table>
+      <thead>
+        <tr>
+          <th colspan="5">Tabla de Duración del trastorno</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>&hearts;</th>
+          <th>&clubs;</th>
+          <th>&spades;</th>
+          <th>&diams;</th>
+      </thead>
+      <tbody>
+        <tr>
+          <th>2 - 10</th>
+          <td>2 -10 turnos</td>
+          <td>2 -10 minutos</td>
+          <td>2 -10 horas</td>
+          <td>2 -10 días</td>
+        </tr>
+        <tr>
+          <th>J</th>
+          <td>11 turnos</td>
+          <td>11 minutos</td>
+          <td>11 horas</td>
+          <td>11 días</td>
+        </tr>
+        <tr>
+          <th>Q</th>
+          <td>12 turnos</td>
+          <td>12 minutos</td>
+          <td>12 horas</td>
+          <td>12 días</td>
+        </tr>
+        <tr>
+          <th>K</th>
+          <td>13 turnos</td>
+          <td>13 minutos</td>
+          <td>13 horas</td>
+          <td>13 días</td>
+        </tr>
+        <tr>
+          <th>As</th>
+          <td>14 turnos</td>
+          <td>14 minutos</td>
+          <td>14 horas</td>
+          <td>14 días</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p></p>La TPC del monstruo es específica para cada PJ, pero solo debe hacerse una tirada con cada tipo de monstruo,
+    aunque
+    la cantidad si puede modificar la TPC. Es decir, que si nos encontramos con 4 profundos y una docena de
+    gules. Cada
+    jugador deberá hacer una tirada enfrentada contra los profundos y otra contra los gules.
+    <h3>Modificaciones de las TPC</h3>
+    <p>Las TPCs pueden ser modificadas en determinadas situaciones.</p>
+    <ul>
+      <li><b>Grandes grupos:</b> Normalmente los monstruos de los Mitos son seres solitarios o como mucho viven en
+        grupos muy
+        pequeños, Sin embargo, hay monstruos que viven en grandes grupos y producen más o menos locura según su
+        número. No
+        es lo mismo encontrarse un profundo solitario en una cueva (TPC d4) que ver como cientos de ellos salen del
+        agua y
+        devoran a toda la tripulación y hunden el barco. (TPC d12). Para los monstruos que tengan manada en su TPC
+        deberás
+        consultar la tabla de Grandes grupos.</li>
+      <li><b>Acostumbrarse:</b> Cada vez que pasas la tirada enfrentada de Inteligencia contra TPC te vas acostumbrando
+        a ese
+        horror
+        en específico. Deberás apuntar las veces que ha pasado el TPC de determinado monstruo y hasta obtener 4
+        marcas con
+        lo que estará acostumbrado a ese horror y obtendrá la ventaja Acostumbrado al horror. Si falla la TPC y
+        pierde
+        puntos de cordura o adquiere un trastorno mental permanente o temporal, perderá una marca.</li>
+      <li><b>Pasame la jarra de ron:</b> Si el personaje puede prepararse para el horror al que se va a enfrentar, por
+        ejemplo,
+        trincandose un buen lingotazo de ron de su petaca antes de abrir la puerta del laboratorio donde los mi-go
+        experimentan con humanos, obtendrá un +1 a su tirada de TPC y durará toda la escena. Para poder prepararse,
+        deberá
+        ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo sabiendo que hay algo raro al
+        otro
+        lado de la puerta), no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, …
+        y deberá
+        poder pasar unas 3 rondas preparándose para el horror que se le viene encima.</li>
+      <li><b>Frenesí del combate:</b> Una vez empezado el combate los jugadores no tendrán necesidad de hacer TPC. La
+        adrenalina se
+        encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede pasar que el monstruo aparezca
+        por
+        sorpresa les deje aturdidos y los ataque a continuación.
+      </li>
+    </ul>
+    <table>
+      <thead>
+        <tr>
+          <th colspan="7">Tabla de modificación del TPC por grandes grupos</th>
+        </tr>
+        <tr>
+          <th>Tamaño de la manada</th>
+          <th>d4</th>
+          <th>d6</th>
+          <th>d8</th>
+          <th>d10</th>
+          <th>d12</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            < x2 el tamaño del grupo (0)</td> <td>d4
+          </td>
+          <td>d6</td>
+          <td>d8</td>
+          <td>d10</td>
+          <td>d12</td>
+        </tr>
+        <tr>
+          <td>x2 tamaño grupo de PJs (+1)</td>
+          <td>d6</td>
+          <td>d8</td>
+          <td>d10</td>
+          <td>d12</td>
+          <td>d12+1</td>
+        </tr>
+        <tr>
+          <td>x5 tamaño grupo de PJs (+2)</td>
+          <td>d8</td>
+          <td>d10</td>
+          <td>d12</td>
+          <td>d12+1</td>
+          <td>d12+2</td>
+        </tr>
+        <tr>
+          <td>x10 tamaño grupo de PJs (+3)</td>
+          <td>d10</td>
+          <td>d12</td>
+          <td>d12+1</td>
+          <td>d12+2</td>
+          <td>d12+3</td>
+        </tr>
+        <tr>
+          <td>x20 tamaño grupo de PJs (+5)</td>
+          <td>d12</td>
+          <td>d12+1</td>
+          <td>12+2</td>
+          <td>d12+3</td>
+          <td>d12+4</td>
+        </tr>
+        <tr>
+          <td>x50 tamaño grupo de PJs (+6)</td>
+          <td>d12+1</td>
+          <td>d12+2</td>
+          <td>d12+3</td>
+          <td>d12+4</td>
+          <td>d12+5 </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>Horror y secuaces</h3>
+    <p>Todos los secuaces tienen un
+      único punto de cordura y si lo pierden caerán incapacitados entre gritos de horror o saldrán corriendo presas
+      del miedo.</p>
+    <p>***</p>
+    <h3>Recuperar cordura</h3>
+    <p>La cordura solo se recupera entre campañas o en situaciones especiales de heroísmo excepcional. No hay
+      psicólogos ni psiquiatras que puedan reparar tu quebrada psique, sólo enfrentarse al horror y vencerlo
+      puede ayudar a sanar tu mente.</p>
+
+    <p>Normalmente estas situaciones vendrán marcadas en la campaña. Por ejemplo, puede establecerse que salvar
+      a un pueblo de pescadores de ser masacrado por una horda de profundos puede recuperar 1 punto de cordura.
+      Hacer que Cthulhu vuelva a yacer eternamente en R’lyeh podría devolver toda la cordura.</p>
+    <h2>Hechicería primigenia</h2>
+    <p>Todo héroe en esta ambientación tiene capacidades mágicas, pero debe saber las fórmulas, los rituales y
+      las recetas para poder activar las fuerzas oscuras y enfocarlas de la manera que le interesa. Y la única
+      forma de conocer nuevos hechizos es estudiar tomos de los mitos Cthulhu. A nivel de juego podríamos decir que
+      todo personaje tiene la ventaja Trasfondo arcano (Magia Primigenia).</p>
+    <h3>Trasfondo arcano (Hechicería primigenia)</h3>
+    <ul>
+      <li><b>Habilidad arcana:</b> Mitos de Cthulhu</li>
+      <li><b>Poderes iniciales:</b> 0</li>
+      <li><b>Puntos de poder:</b> Igual al nivel de Espíritu</li>
+    </ul>
+
+    <p>Todo personaje dispone de tantos puntos de poder diarios como su nivel de Espíritu que recupera tras una
+      noche de descanso (8 horas de descanso sin interrupciones).</p>
+    <p>Hay objetos y pociones mágicas que pueden dar puntos temporales de poder.</p>
+    <h3>Puntos de poder</h3>
+    <p>La ventaja Puntos de poder otorga tantos puntos de poder nuevos como el Espíritu del personaje. Si
+      aumenta el
+      espíritu (temporal o permanentemente) aumentan los puntos de poder.</p>
+    <h3>Nuevos poderes</h3>
+    <p>La ventaja de Nuevos poderes solo podrá adquirirse tras leer un libro de los mitos. Los libros a veces
+      dejan que
+      el jugador elija los hechizos para su personaje, pero a veces forzaran uno o dos hechizos específicos.</p>
+    <h3>Recuperación rápida</h3>
+    <p>Recuperación rápida supondrá que necesitará la mitad de tiempo de descanso para recuperar todos sus
+      puntos
+      de poder. Como ejemplo:</p>
+    <ul>
+      <li>Un personaje con Espíritu d6 y Puntos de poder, recuperará 12 puntos de poder tras dormir 8 horas.</li>
+      <li>Un personaje con Espíritu d6, Puntos de poder x3 y Recuperación rápida, recuperará 24 puntos de poder
+        tras
+        descansar 4 horas.</li>
+    </ul>
+    <h3>Otras ventajas mágicas</h3>
+    <p>Otras ventajas asociadas a la ventaja Trasfondo Arcano, como Canalización, funcionarán normalmente pero
+      puede
+      que haya ventajas de otras ambientaciones que quieras usar y que tengas que adaptar teniendo en cuenta
+      estas
+      reglas.</p>
+    <ul>
+      <li>Los puntos de poder se basan en Espíritu. Si una ventaja da/quita puntos de poder no será un valor fijo
+        sino
+        basado en el nivel de Espíritu del personaje.</li>
+      <li>Todos los héroes y villanos tienen la ventaja Trasfondo Arcano (Hechicería primigenia) con lo que
+        cumpliran
+        siempre ese requisito.</li>
+      <li>La adquisición de ventajas que den (como Nuevos poderes) o mejoren poderes debe estar asociadas al
+        estudio de
+        libros de los Mitos.</li>
+      <li>Los ornamentos siempre deberían tener un toque nigromántico, oscuro, extradimensional y elemental.</li>
+    </ul>
+    <h3>Ornamentos</h3>
+    <p>Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lovecraftiana, deberán tener
+      un
+      toque oscuro, nigromántico muchas veces y rozando la locura y el horror.</p>
+    <ul>
+      <li>Un objeto maldito que provoque ceguera, debería dejar los ojos del objetivo como cuencas vacías o hacer
+        que los
+        párpados parezcan cosidos.</li>
+      <li>Protección recubrirá al hechicero de grandes escamas reptilianas o de una estructura quitinosa que le
+        haga
+        parecer un insecto.</li>
+      <li>Invocar aliados debería traer aliados de entre los muertos o de otras dimensiones.</li>
+    </ul>
+    <h3>Poderes permitidos</h3>
+    No todos los poderes de SWADE son posibles en esta ambientación. Aquí tienes un listado de los poderes y
+    sus
+    versiones en hechizos que son posibles en ¡Arrr! Cthulhu.
+
+    <table>
+      <thead>
+        <tr>
+          <th colspan="3">Poderes permitidos</th>
+        </tr>
+        <tr>
+          <th>Poder</th>
+          <th>Hechizos</th>
+          <th>Ornamentos</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>***</td>
+          <td>Ajar un miembro</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <td>Ceguera</td>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <td>Confusión</td>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <td>Destierro</td>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <td>Drenaje de puntos de poder</td>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <td>Invocación de aliados</td>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <td>Protección</td>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>Libros de los Mitos</h3>
+    <p>Hay muchos ejemplos de tomos de conocimiento oscuros en los libros H. P. Lovecraft y sus seguidores,
+      como el Necronomicón o el Libro de Eibon. Sin embargo, para esta ambientación hemos decidido usar
+      libros con un toque diferente.</p>
+
+    <p>La idea es que los libros no sean los clásicos de los mitos de Cthulhu sino bitácoras de navegación,
+      diarios de marineros, recopilaciones de cartas de colonos, guías de exploradores del Caribe,
+      manuscritos de misioneros, …</p>
+    <p>Son libros más mundanos donde el autor cuenta sus experiencias con el horror y la locura de los mitos de
+      Cthulhu. Además, elementos como el formato, edición o estado de conversación puede hacerlos todavía más
+      únicos.</p>
+    <p>También hay que tener en cuenta que muchas veces puede que sean únicos y no haya más copias ya que, como hemos
+      dicho,
+      no sean libros en sí sino que sean correspondencia entre dos personas,
+      un diario personal o las notas de campo con las que luego se hizo un libro completo. Esto hará que se tengan
+      que conservar adecuadamente porque no hay más copias y si se pierden se acabo la información que contenían.
+      También son buenos regalos que pueden conseguirte favores y contactos si los entregas a las personas adecuadas.
+    </p>
+    <p>En cuanto a su valor monetario, los personajes no deberían poder venderlos facilmente porque los no iniciados en
+      el mundo de los Mitos no los encontrarán interesantes y con los iniciados es más interesante usarlos como moneda
+      de cambio para conseguir otros libros u objetos extraños. En caso de que necesitarán urgentemente dinero
+      para situaciones extremas, como pagar un rescate o sacar a un compañero de la carcel, hazles una tiradas de
+      botín usando el TPC del libro, pero solo pudiendo tirar luego en la tabla de riquezas.</p>
+    <h4>Leer libros</h4>
+    <p>Para poder leer un libro de los Mitos lo primero es que el personaje sea capaz de leer ese idioma. Si no sabe el
+      idioma deberá pedir una traducción, lo que llevará tanto tiempo como leerla.</p>
+      <p>Los libros de normal necesitan 1 semana en leerse. Realmente no tienen que ser 7 días exactos si no que 
+        representa una unidad de tiempo un poco larga que puede ser 2 a 10 días. Una semana puede ser:</p>
+     <ul>
+      <li>el tiempo que tardan en carenar el barco,</li>
+      <li>el tiempo de navegar de una isla a otra,</li>
+      <li>el tiempo que tarda un juicio,</li>
+    </ul> 
+    <p>Serían periodos de varios días de relativa tranquilidad en la que poder centrarte a leer y estudiar.</p>
+    <p>Si necesitan leer el libro para continuar y paran expresamente para leerlo necesitaran 7 días para leerlo y estudiarlo.</p>
+        <p>Durante esa semana podrá llevar una vida normal e incluso hacer pequeñas acciones, como visitar al 
+          gobernador, batirse en duelo, ... cosas rápidas y sencillas. No podrá hacer, por ejemplo, vigilancias, adentrarse en la jungla, 
+          construir algún artilugio o ayudar activamente en el barco (dando bonus a pilotaje o a combate).</p>
+        <p>Una vez leído el libro se marcará como leído y hara la TPC. Cuando pueda gastar avances podrá adquirir las ventajas, 
+          habilidades y demás elementos que exigen leer libros de los Mitos.</p>
+    <p>Los libros solo pueden ser leídos por una persona a la vez. Los libros que tardan medía semana podrán ser leídos por dos 
+      personajes en una misma semana. Y el personaje, si su cordura se lo permite, podrá leer dos libros cortos en esa semana.</p>
+      <p>Los libros que necesitan más de una semana, necesitaran varios periodos seguidos, por ejemplo la ida y vuelta a los Cayos de Florida.
+        Si se estudian intercala el estudio de un libro largo con la lectura de otro libro se pierde el avance hecho en ese libro largo.</p>
+    <h4>Bibliotecas de libros</h4>
+    <p>Los personajes irán acumulando libros a lo largo de sus aventuras. Estas pequeñas bibliotecas pueden ayudar a sus
+      tiradas de Mitos siempre que las tengan cerca y puedan dedicarles un día de estudio. Cada 5 libros darán un +1 a
+      la tirada de Mitos.</p>
+    <h4>Generación de libros</h4>
+    <p>Cada libro tiene una serie de características que se definen haciendo tiradas en un sistema de tablas:</p>
+    <ul>
+      <li>Título.</li>
+      <li>Idioma.</li>
+      <li>TPC.</li>
+      <li>Tamaño.</li>
+      <li>Estado de conservación.</li>
+    </ul>
+    <table>
+      <thead>
+        <tr>
+          <th colspan="4">Título del libro</th>
+        </tr>
+        <tr>
+          <th>1d20</th>
+          <th>Inicio del título</th>
+          <th>1d20</th>
+          <th>Final de título</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <td>El libro prohibido</td>
+          <th>1</th>
+          <td>[y|sobre|de] la magia negra</td>
+        </tr>
+        <tr>
+
+          <th>2</th>
+          <td>Las memorias de [Nombre]</td>
+          <th>2</th>
+          <td>[y|sobre|de] los grandes monstruos marinos</td>
+        </tr>
+        <tr>
+          <th>3</th>
+          <td>Informe del [Capitán|Sargento|Soldado] [Nombre]</td>
+          <th>3</th>
+          <td>***</td>
+        </tr>
+        <tr>
+          <th>4</th>
+          <td>Relatos de terror</td>
+          <th>4</th>
+          <td>[y|sobre|de] fantasmas y aparecidos</td>
+        </tr>
+        <tr>
+
+          <th>5</th>
+          <td>Las confesiones de [Nombre]</td>
+          <th>5</th>
+          <td>antes de morir</td>
+        </tr>
+        <tr>
+
+          <th>6</th>
+          <td>Historia apócrifa</td>
+          <th>6</th>
+          <td>en el Infierno</td>
+        </tr>
+        <tr>
+
+          <th>7</th>
+          <td>Diario de abordo del [Nombre barco]</td>
+          <th>7</th>
+          <td>[y|sobre|de] los que acechan en las sombras</td>
+        </tr>
+        <tr>
+
+          <th>8</th>
+          <td>Mis viajes</td>
+          <th>8</th>
+          <td>desde su lecho de muerte</td>
+        </tr>
+        <tr>
+
+          <th>9</th>
+          <td>Historia natural</td>
+          <th>9</th>
+          <td>[y|sobre|de] los demonios del mar</td>
+        </tr>
+        <tr>
+
+          <th>10</th>
+          <td>Aventuras fantásticas</td>
+          <th>10</th>
+          <td>***
+        </tr>
+        <tr>
+
+          <th>11</th>
+          <td>El descenso a la locura de [Nombre]
+          <th>11</th>
+          <td>[en|desde|hasta] el fondo del mar</td>
+        </tr>
+        <tr>
+
+          <th>12</th>
+          <td>Recetas de cocina</td>
+          <th>12</th>
+          <td>***</td>
+        </tr>
+        <tr>
+
+          <th>13</th>
+          <td>Cartas de [Nombre]</td>
+          <th>13</th>
+          <td>[y|sobre|de] los dioses paganos</td>
+        </tr>
+        <tr>
+
+          <th>14</th>
+          <td>Cuentos de miedo</td>
+          <th>14</th>
+          <td>***</td>
+        </tr>
+        <tr>
+
+          <th>15</th>
+          <td>Oscuros secretos</td>
+          <th>15</th>
+          <td>***</td>
+        </tr>
+        <tr>
+
+          <th>16</th>
+          <td>Historias inconfesables</td>
+          <th>16</th>
+          <td>[en|por] el Caribe</td>
+        </tr>
+        <tr>
+
+          <th>17</th>
+          <td>Extraños relatos eróticos</td>
+          <th>17</th>
+          <td>[en|por] [Isla del Caríbe]</td>
+        </tr>
+        <tr>
+
+          <th>18</th>
+          <td>El manuscrito perdido</td>
+          <th>18</th>
+          <td>en el fondo del mar</td>
+        </tr>
+        <tr>
+
+          <th>19</th>
+          <td>El diario perdido de [Nombre]</td>
+          <th>19</th>
+          <td>más allá del tiempo</td>
+        </tr>
+        <tr>
+
+          <th>20</th>
+          <td>El viejo cantar</td>
+          <th>20</th>
+          <td>mas allá de la muerte</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <table>
+      <thead>
+        <tr>
+          <th colspan="4">Idioma / TPC</th>
+        </tr>
+        <tr>
+          <th>1d20</th>
+          <th>Idioma</th>
+          <th>1d12</th>
+          <th>TPC</th>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1-8</th>
+          <td>Español</th>
+          <th>1-4</th>
+          <td>d4</td>
+        </tr>
+        <tr>
+          <th>9-12</td>
+          <td>Inglés</td>
+          <th>5-6</th>
+          <td>d6</td>
+        </tr>
+        <tr>
+          <th>13-15 </th>
+          <td>Francés</td>
+          <th>7-8</th>
+          <td>d8</td>
+        </tr>
+        <tr>
+          <th>16-17 </tdh>
+          <td>Criollo</td>
+          <th>9-10</th>
+          <td>d10</td>
+        </tr>
+        <tr>
+          <th>18-19 </th>
+          <td>Holandes</td>
+          <th>11</th>
+          <td>d12</td>
+        </tr>
+        <tr>
+          <th>20</th>
+          <td>Latín</td>
+          <th>12</th>
+          <td>d12 + 1</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <table>
+      <thead>
+        <tr>
+          <th colspan="4">Tamaño / Estado de conservación</th>
+        </tr>
+        <tr>
+          <th>1d10</th>
+          <th>Tamaño</th>
+          <th>1d10</th>
+          <th>Estado de conservación</th>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <td><b>Conjunto de notas.</b> Son un conjunto de notas tan inconexas que el horror que tratan de explicar no
+            se
+            puede
+            percibir bajando un nivel el TPC (valor mínimo d4).</td>
+          <th>1</th>
+          <td><b>Se cae a pedazos.</b> Solo podrá usarse una vez.</td>
+        </tr>
+        <tr>
+          <th>2</th>
+          <td><b>Relato corto.</b> Exige media semana leerlo en vez de 1 semana.</td>
+          <th>2</th>
+          <td><b>Mojado e ilegible.</b> Solo pueden extraerse dos hechizos, el resto son ilegibles. Se deben escoger
+            al
+            azar
+            al
+            encontrar el libro. Al leer este libro y coger la ventaja Nuevos poderes solo se pueden aprender esos
+            hechizos.</td>
+        </tr>
+        <tr>
+          <th>3</th>
+          <td><b>Libro por entregas.</b> ***</td>
+          <th>3</th>
+          <td><b>Muy usado y leído.</b> Está lleno de notas y apuntes de anteriores lectores ayudan a racionalizar lo
+            que hay
+            escrito
+            bajando un nivel el TPC (valor mínimo d4).</td>
+        </tr>
+        <tr>
+          <th>4-8</th>
+          <td><b>Libro.</b> Un libro de tamaño normal escrito a mano o impreso.</td>
+          <th>4-8</th>
+          <td><b>Usado y leído.</b> Ha pasado seguramente por algunas manos antes que tú pero no tiene ningún problema
+            de conversación.</td>
+        </tr>
+        <tr>
+          <th>9</th>
+          <td><b>Tomo de gran tamaño con diagramas y/o grabados.</b> Sus grabados y/o diagramas son tan precisos y
+            descriptivos que
+            suben un nivel al TPC.</td>
+          <th>9</th>
+          <td><b>Bien conservado.</b> Está en muy buen estado y seguro que puede ser un buen regalo para la persona
+            adecuada.</td>
+        </tr>
+        <tr>
+          <th>10</th>
+          <td><b>Varios tomos.</b> Exige 2 semanas para estudiarlo en vez de 1.</td>
+          <th>10</th>
+          <td><b>Recién impreso/escrito.</b> El autor/editor están vivos y se les podrá mandar cartas o entrevistar en
+            persona dudas sobre los Mitos. Pueden convertirse en Contactos. </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Botín y tesoro</h2>
+    <p>Todos sabemos que lo que mueve a los piratas es saquear barcos, conseguir un buen botín para gastarlo en una
+      taberna del puerto o enterrarlo en una isla desierta. Y estaba claro que en este juego ibamos a tener una buena
+      tabla de tesoro con tintes lovecraftianos.</p>
+
+    <p>Todos los seres que hacen perder cordura tienen botín si son derrotados. Después de vencer al monstruo
+      uno de los jugadores deberá lanzar la TPC básica del monstruo. Según los éxitos que
+      consigan podrán tirar en diferentes tablas:</p>
+    <ul>
+      <li>Tabla de riquezas (1 éxito).</li>
+      <li>Tabla de objetos extraordinarios (2 éxitos).</li>
+      <li>Tabla más allá del tiempo y el espacio (3 éxitos).</li>
+    </ul>
+
+    Si se consigue:
+    <ul>
+      <li>1 éxito puede tirar 1 vez en la tabla de riquezas.</li>
+      <li>2 éxitos puede tirar 2 veces en la tabla de riquezas o 1 en la tabla de objetos extraordinarios.</li>
+      <li>3 éxitos suponen, 3 tiradas en la tabla de riquezas, 1 en la de riqueza más 1 en la de objetos
+        extraordinarios o solo 1 en la tabla más allá del tiempo y el espacio.</li>
+    </ul>
+
+    <p>Puede haber situaciones, decisiones, trampas, misterios, PNJs, … que tengan tirada de botín que
+      deberemos usar como si fuera la tirada de pérdida de cordura, salvo que en esos casos no se podrán usar éxitos
+      en la tabla de más allá del tiempo y el espacio.</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th colspan="3">Tabla de riqueza (tira un 1D6)</th>
+        </tr>
+        <tr>
+          <th>Resultado</th>
+          <th>Descripción</th>
+          <th>Valor en doblones</th>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <td>Doblones y otras calderillas</td>
+          <td>1d10 x 10</td>
+        </tr>
+        <tr>
+          <th>2</th>
+          <td>Pequeños objetos de oro</td>
+          <td>2d10 x 20</td>
+        </tr>
+        <tr>
+          <th>3</th>
+          <td>Piedras preciosas de bajo valor</td>
+          <td>1d10 x 50</td>
+        </tr>
+        <tr>
+          <th>4</th>
+          <td>Buena cantidad de doblones y calderilla</td>
+          <td>1d10 x 100</td>
+        </tr>
+        <tr>
+          <th>5</th>
+          <td>Joyas de oro con piedras preciosas</td>
+          <td>1d10 x 200</td>
+        </tr>
+        <tr>
+          <th>6</th>
+          <td>Piedras preciosas de gran valor</td>
+          <td>1d10 x 500</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <table>
+      <thead>
+        <tr>
+          <th colspan="2">Tabla de objetos extraordinarios</th>
+        </tr>
+        <tr>
+          <th>1d6</th>
+          <th>Tipo</th>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <td>Arma</td>
+        </tr>
+        <tr>
+          <th>2</th>
+          <td>Protección</td>
+        </tr>
+        <tr>
+          <th>3</th>
+          <td>Hechizo</td>
+        </tr>
+        <tr>
+          <th>4</th>
+          <td>Alquimia</td>
+        </tr>
+        <tr>
+          <th>5</th>
+          <td>Libro prohibido.<br /><small>Vete a la sección de Generación de libros de los Mitos para crearlo.</small>
+          </td>
+        </tr>
+        <tr>
+          <th>6</th>
+          <td>Miscelánea</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <table>
+      <thead>
+        <tr>
+          <th colspan="3">Tabla de objetos extraordinarios alquímicos</th>
+        </tr>
+        <tr>
+          <th>1dX</th>
+          <th>Nombre</th>
+          <th>Descripción</th>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <td>Anestésico natural de la jungla</td>
+          <td>Este bebedizo hecho con extractos de misteriosas plantas de la jungla quita un nivel de penalización por
+            daño durante una escena. El recipiente tiene 1d6 usos.</td>
+        </tr>
+        <tr>
+          <th>***</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <th>***</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <th>***</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <table>
+      <thead>
+        <tr>
+          <th colspan="3">Tabla de objetos extraordinarios miscelánea</th>
+        </tr>
+        <tr>
+          <th>1dX</th>
+          <th>Nombre</th>
+          <th>Descripción</th>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <td>Campana de buceo de cristal</td>
+          <td>Esta campana de metal y cristal permite que hasta dos personas bajen al fondo marino, mientras otra opera
+            una bomba de agua. La campana tiene unos brazos mecánicos que permiten operar en el fondo marino. La campana
+            se puede desplazar muy lentamente y debido a su tamaño (+2) no podrá entrar en sitios pequeños.</td>
+        </tr>
+        <tr>
+          <th>2</th>
+          <td>Cometa de vigia</td>
+          <td>Una cometa de gran tamaño que se ata al barco cuando hay viento. Tiene un arnes de cuerdas que permite a
+            una persona elevarse
+            por los aires y vigilar desde alturas mayores que la cofa del barco. Otorga +2 a Notar a los vigías, es
+            especialmente útil en
+            altamar ya que permite ver los barcos que se acercan incluso antes de que ellos puedan verte. Si se corta la
+            cuerda
+            el vigía puede intentar planear y aterrizar con una tirada exitosa de Atletismo.</td>
+        </tr>
+        <tr>
+          <th>***</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <th>***</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <table>
+      <thead>
+        <tr>
+          <th colspan="3">Tabla más allá del tiempo y el espacio</th>
+        </tr>
+        <tr>
+          <th>1dX</th>
+          <th>Nombre</th>
+          <th>Descripción</th>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <td>Símbolo de protección</td>
+          <td>Este amuleto que puede tener muchas formas, desde amuletos de plata a saquito de polvos, ofrece a su
+            portada un +1 a todas las
+            tiradas enfrentadas de hechizos y habilidades especiales de los monstruos de los Mitos.</td>
+        </tr>
+        <tr>
+          <th>2</th>
+          <td>Polvo de Ibn-Ghazi</td>
+          <td>El polvo tiene la capacidad de volver visible por un momento a criaturas invisibles e inmateriales
+            cuando este se dispersa soplándolo hacia ellos. 1D6 uso</td>
+        </tr>
+        <tr>
+          <th>3</th>
+          <td>Arma lanzarrayos de la gran raza de Yith</td>
+          <td>Este arma de rayos parecida a una cámara de fotos de gran tamaño posee un gran poder destructivo.</td>
+        </tr>
+        <tr>
+          <th>4</th>
+          <td>Carta náutica de los profundos</td>
+          <td>Estos mapas hechos en piel curtida de tiburones y grandes cetáceos son muy detallados en temas de
+            corrientes, costas, arrecifes, … y otorgan +1 a las tiradas de pilotar (barcos) dentro de la zona
+            representada por
+            el mapa.</td>
+        </tr>
+        <tr>
+          <th>5</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <th>6</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <th>7</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <th>8</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <th>9</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <th>10</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <th>11</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+        <tr>
+          <th>12</th>
+          <td>Maldición</td>
+          <td>Tira en la tabla de maldiciones</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <table>
+      <thead>
+        <tr>
+          <th colspan="3">Tabla de maldiciones</th>
+        </tr>
+        <tr>
+          <th>1dX</th>
+          <th>Nombre</th>
+          <th>Descripción</th>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <td>Pestilencia de Soggoth</td>
+          <td>Esta repugnante maldición infesta a sus víctimas de terribles pústulas supurantes y malolientes. Mientras
+            dure el olor toda
+            interacción con otros personajes tendrá un -2. Los animales huyen del maldito y en caso de no poder huir
+            atacarán.</td>
+        </tr>
+        <tr>
+          <th>***</th>
+          <td>***</td>
+          <td>***</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h1>Historias salvajes</h1>
+    <h2>El cantar de los profundos</h2>
+    <p>***</p>
+    <h3>En el Carcosa</h3>
+    <p>***</p>
+    <h1>Monstruos de los mitos</h1>
+    <p>***</p>
+    <h2>Profundo (secuaz)</h2>
+    <p>***</p>
+    <ul>
+      <li><b>Atributos:</b> Agilidad d6, Astucia d8, Espíritu d6, Fuerza d8, Vigor d8</li>
+      <li><b>Habilidades:</b> Pelear d6, Notar d8, Sigilo d10</li>
+      <li><b>Paso:</b> 6; <b>Parada:</b> 6 (5); <b>Dureza:</b> 8 (2)</li>
+      <li><b>Capacidades especiales:</b>
+        <ul>
+          <li><b>Armadura +2:</b> Escamas y piel rugosa.</li>
+          <li><b>Garras:</b> Fue+d4</li>
+          <li><b>Lanza:</b> Fue+d6. +1 Parada, a dos manos.</li>
+        </ul>
+      <li><b>TPC:</b> d4 (manada).</li>
+    </ul>
+    <h2>Gules (secuaz)</h2>
+    <p>***</p>
+    <ul>
+      <li><b>Atributos:</b> Agilidad d8, Astucia d8, Espíritu d8, Fuerza d12, Vigor d8</li>
+      <li><b>Habilidades:</b> Pelear d6, Atletismo d12, Notar d6, Sigilo d12</li>
+      <li><b>Paso:</b> 8; <b>Parada:</b> 5; <b>Dureza:</b> 7 (1)</li>
+      <li><b>Capacidades especiales:</b>
+        <ul>
+          <li><b>Armadura +1:</b> Piel dura.</li>
+          <li><b>Garras/Mordisco:</b> Fue+d6</li>
+          <li><b>Excavar 6:</b> Los gules pueden excavar en tierra y piedras suelta y
+            reaparecer en el siguiente turno en cualquier sitio a 6 pasos.</li>
+          <li><b>Infección:</b> Cualquier personaje que sufra una herida de
+            un Gul debe hacer una tirada de Vigor inmediatamente. El éxito indica que está bien. El fracaso le otorga
+            un nivel inmediato de fatiga. Un fallo crítico indica que el personaje está infectado. El infectado tiene
+            un d6 meses antes de la transformación está completa en Gul (y el personaje se vuelve injugable).
+            Detalles sobre cómo curar la infección puede localizarse en ciertos tomos antiguos o preguntando a los
+            grupos de Guls.</li>
+        </ul>
+      <li><b>TPC:</b> d4 (manada).</li>
+    </ul>
+    <h1>Héroes y villanos</h1>
+    <h2>Mary Read (comodín)</h2>
+    <p>***</p>
+    <h2>Edward Teach alias Barbanegra (comodín)</h2>
+    <p>***</p>
+    <h2>Hernando de Villalba (comodín)</h2>
+    <p>***</p>
+    <h1>Epílogo</h1>
+    <h2>Notas del autor</h2>
+    <p>En esta ambientación, si bien tiene una pequeña base histórica, no es en absoluto realista e
+      históricamente correcta. No busquéis unos datos históricos correctos, aquí no los vas a encontrar.
+      Los hechos y
+      fechas que se narran en este juego han sido modificados (o tergiversados según otros) para crear una
+      ambientación
+      pirata de tintes Lovecraftianos divertida y llena de acción, más cerca de películas de aventuras y
+      de videojuegos
+      que de documentales del canal Historia.</p>
+    <p>Los trastornos mentales y la salud mental representados en esta ambientación no tratan de ser
+      realistas, solo
+      tratan de reflejar con las reglas de SWADE el horror y la locura tan característicos de Lovecraft y
+      cómo
+      estos afectan a las capacidades de los PJs.</p>
+    <p>Toda esta ambientación está muy influenciada por el juego de rol de “La Llamada de Cthulhu” de Sandy
+      Petersen
+      (Chaosium) y hay mecánicas de ese juego que han influenciado consciente o inconscientemente en las
+      reglas de
+      este juego. Toda la parte de piratería está muy basada en la ambientación de "50 brazas".</p>
+    <h2>Creative Commons</h2>
+    <ul>
+      <li><a
+          href="https://www.deviantart.com/artofragnar/art/A-pirate-night-618741314">portada.jpg</a>
+        por <a href="https://www.deviantart.com/artofragnar">ArtofRagnar</a></li>
+      <li><a
+          href="https://www.deviantart.com/skavenzverov/art/Into-The-Deep-325731829">caribe.jpg</a>
+        por <a href="https://www.deviantart.com/skavenzverov">SkavenZverov</a></li>
+        <li><a
+          href="https://www.deviantart.com/veronika/art/Dagon-306304950">historias.jpg</a>
+        por <a href="https://www.deviantart.com/veronika">veronika</a></li>
+
+        <li><a href="https://www.deviantart.com/badluckart/art/Pirate-Ship-The-Night-Cutter-420271502">ambientacion.jpg</a>
+          por <a href="https://www.deviantart.com/badluckart">BadLuckArt</a></li>
+
+
+          <li><a href="https://www.deviantart.com/skullbastard/art/Devious-Desktop-Horror-of-the-Deep-819632322">monstruos.jpg</a>
+            por <a href="https://www.deviantart.com/skullbastard">Skullbastard</a></li>
+
+
+
+          <li><a href="https://www.deviantart.com/irishfist123/art/Staring-Into-Madness-880109015">heroes.jpg</a>
+            por <a href="https://www.deviantart.com/irishfist123">irishfist123</a></li>
+    </ul>
+  </section>
+  <script src="https://code.jquery.com/jquery-3.6.3.min.js"
+    integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+  <script>
+    $(document).ready(function() {
+      var counter = 0;
+      var menu = $("body>section:nth-of-type(2)");
+      $("body>section:nth-of-type(3) h1, body>section:nth-of-type(3) h2, body>section:nth-of-type(3) h3, body>section:nth-of-type(3) h4, body>section:nth-of-type(3) h5")
+        .each(function() {
+          counter++;
+          $(this).attr('id', 'anchor' + counter);
+          menu.append('<p class="like' + $(this).prop("tagName") + '" data-scroll="#anchor' + counter + '">' +
+            this
+            .innerHTML + '</p>');
+        });
+      $(".likeH1,.likeH2,.likeH3,.likeH4,.likeH5").click(function() {
+        $('html,body').animate({
+          scrollTop: $($(this).data("scroll")).offset().top
+        }, 'fast');
+      });
+    });
+  </script>
+</body>
+
+</html>
