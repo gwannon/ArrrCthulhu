@@ -75,7 +75,8 @@
     .likeH1,
     .likeH2,
     .likeH3,
-    .likeH4 {
+    .likeH4,
+    .likeTH {
       cursor: pointer;
     }
 
@@ -99,6 +100,12 @@
 
     .likeH4 {
       padding: 0 0 0 60px;
+      margin: 0 0 5px 0;
+      font-size: .9em;
+    }
+
+    .likeTH {
+      padding: 0;
       margin: 0 0 5px 0;
       font-size: .9em;
     }
@@ -1565,7 +1572,17 @@
             this
             .innerHTML + '</p>');
         });
-      $(".likeH1,.likeH2,.likeH3,.likeH4,.likeH5").click(function() {
+      menu.append('<p><b>TABLAS</b></p>');
+      $("body>section:nth-of-type(3) table thead tr:first-of-type th:first-of-type")
+        .each(function() {
+          counter++;
+          $(this).attr('id', 'anchor' + counter);
+          menu.append('<p class="like' + $(this).prop("tagName") + '" data-scroll="#anchor' + counter + '">' +
+            this
+            .innerHTML + '</p>');
+        });
+
+      $(".likeH1,.likeH2,.likeH3,.likeH4,.likeH5,.likeTH").click(function() {
         $('html,body').animate({
           scrollTop: $($(this).data("scroll")).offset().top
         }, 'fast');
