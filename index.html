@@ -26,6 +26,12 @@
       scroll-behavior: smooth;
     }
 
+    a:link,
+    a:visited,
+    a:hover {
+			color: #000000;
+		}
+
     h1,
     h2,
     h3,
@@ -106,7 +112,7 @@
 
     .likeTH {
       padding: 0;
-      margin: 0 0 5px 0;
+      margin: 0 0 5px 20px;
       font-size: .9em;
     }
 
@@ -181,6 +187,7 @@
 
     body > a:last-of-type {
       display: block;
+      opacity: 0;
       position: fixed;
       bottom: 0px;
       right: 0px;
@@ -189,6 +196,11 @@
       color: #000000;
       text-decoration: none;
       font-size: 25px;
+      transition: opacity 0.3s;
+    }
+
+    body > a.show:last-of-type {
+      opacity: 1;
     }
   </style>
 </head>
@@ -1627,7 +1639,7 @@
             por <a href="https://www.deviantart.com/skullbastard">Skullbastard</a></li>
     </ul>
   </section>
-  <a href="#" title="Ir al indice">&#8593;</a>
+  <a href="#" title="Ir al indice">ヘ</a>
   <script src="https://code.jquery.com/jquery-3.6.3.min.js"
     integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
   <script>
@@ -1642,7 +1654,7 @@
             this
             .innerHTML + '</p>');
         });
-      menu.append('<p><b>TABLAS</b></p>');
+      menu.append('<p class="likeH1">Tablas</p>');
       $("body>section:nth-of-type(3) table thead tr:first-of-type th:first-of-type")
         .each(function() {
           counter++;
@@ -1662,6 +1674,16 @@
           scrollTop: $("body>section:nth-of-type(2)").offset().top
         }, 'fast');
       });
+
+      $(document).scroll(function() {
+        if ($(document).scrollTop() > $(window).height()) {
+          $("body>a:last-of-type").addClass("show");
+        } else {
+          $("body>a:last-of-type").removeClass("show");
+        }
+      });
+
+
     });
   </script>
   <link href="https://fonts.googleapis.com/css2?family=Jolly+Lodger&family=Open+Sans:wght@400;700&family=Oswald&display=swap"
