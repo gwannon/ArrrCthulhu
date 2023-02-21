@@ -16,14 +16,20 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
   <style>
-    body {
-      font-family: 'Open Sans', sans-serif;
-      margin: 0;
-      padding: 0;
+    :root {
+      --green-cthulhu: #879f85;
+      --green-deepone: #c6cbc2;
+      --green-gul: #d7d7d7;
     }
 
     html {
       scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Open Sans', sans-serif;
+      margin: 0;
+      padding: 0;
     }
 
     a:link,
@@ -32,17 +38,20 @@
       color: #000000;
     }
 
-    h1,
+    h1 {
+      font-size: 4em;
+      font-family: 'Jolly Lodger', Arial, Helvetica, sans-serif;
+      margin: 0;
+      text-align: center;
+      font-weight: 400;
+    }
+
     h2,
     h3,
     h4,
     h5 {
       font-family: 'Oswald', sans-serif;
       font-weight: 500;
-    }
-
-    h1 {
-      text-align: center;
     }
 
     body>section {
@@ -66,12 +75,6 @@
 
     body>section:nth-of-type(1)>div {
       text-align: center;
-    }
-
-    h1 {
-      font-size: 4em;
-      font-family: 'Jolly Lodger', Arial, Helvetica, sans-serif;
-      margin: 0;
     }
 
     body>section:nth-of-type(1) img {
@@ -111,8 +114,8 @@
     }
 
     .likeTH {
-      padding: 0;
-      margin: 0 0 5px 20px;
+      padding: 0 0 0 20px;
+      margin: 0 0 5px 0;
       font-size: .9em;
     }
 
@@ -155,13 +158,17 @@
       background-size: cover;
     }
 
+    body>section:nth-of-type(3) h1:nth-of-type(6) {
+      background: #000000 url(./images/epilogo.jpg) center center no-repeat;
+      background-size: cover;
+    }
+
     table {
       margin: 15px auto;
-
     }
 
     table thead {
-      background-color: #879f85;
+      background-color: var(--green-cthulhu);
     }
 
     table thead tr th {
@@ -176,11 +183,11 @@
     }
 
     table tbody tr:nth-child(even) {
-      background-color: #d7d7d7;
+      background-color: var(--green-gul);
     }
 
     table tbody tr:nth-child(odd) {
-      background-color: #c6cbc2;
+      background-color: var(--green-deepone);
     }
 
     table tbody tr>* {
@@ -194,7 +201,7 @@
       bottom: 0px;
       right: 0px;
       padding: 6px 12px;
-      background-color: #879f85;
+      background-color: var(--green-cthulhu);
       color: #000000;
       text-decoration: none;
       font-size: 25px;
@@ -1710,8 +1717,12 @@
             <h2>El cantar de los profundos</h2>
             <p>***</p>
             <h3>En el Carcosa</h3>
+            <p><b>Comienzo:</b> ***</p>
             <p>***</p>
             <h3>Devil came to me</h3>
+            <p><b>Comienzo:</b> ***</p>
+            <p>***</p>
+            <h2>Otras historias salvajes</h2>
             <p>***</p>
             <h1>Monstruos de los mitos</h1>
             <p>***</p>
@@ -1829,6 +1840,9 @@
 
               <li><a href="https://www.deviantart.com/skullbastard/art/The-Call-939586515">heroes.jpg</a>
                 por <a href="https://www.deviantart.com/skullbastard">Skullbastard</a></li>
+
+                <li><a href="https://www.deviantart.com/artofragnar/art/Caves-505169856">epilogo.jpg</a>
+                  por <a href="https://www.deviantart.com/artofragnar">ArtofRagnar</a></li>
             </ul>
   </section>
   <a href="#" title="Ir al indice">ヘ</a>
