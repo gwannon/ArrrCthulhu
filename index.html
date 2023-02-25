@@ -86,8 +86,10 @@
     .likeH3,
     .likeH4,
     .likeTH {
+      display: block;
       cursor: pointer;
       margin: 0 0 5px 0;
+      text-decoration: none;
     }
 
     .likeH1 {
@@ -156,6 +158,11 @@
 
     body>section:nth-of-type(3) h1:nth-of-type(6) {
       background: #000000 url(./images/epilogo.webp) center center no-repeat;
+      background-size: cover;
+    }
+
+    body>section:nth-of-type(3) h1:nth-of-type(7) {
+      background: #000000 url(./images/recursos.webp) center center no-repeat;
       background-size: cover;
     }
 
@@ -1441,8 +1448,9 @@
         </tr>
         <tr>
           <th>12</th>
-          <td>Piedras preciosas de gran valor</td>
-          <td>1d10 x 500</td>
+          <td>Piedras preciosas de gran valor y un barril de buen rón.</td>
+          <td>1d10 x 500<br/><small>Con buen rón y el bolsillo lleno de oro es obligatorio 
+            correrse una buena juerga. se pierden un día entero entre fiesta y resaca.</small></td>
         </tr>
       </tbody>
     </table>
@@ -1477,11 +1485,11 @@
         </tr>
         <tr>
           <th>11</th>
-          <td>Ciencia extraña</td>
+          <td>Objetos pequeños y útiles</td>
         </tr>
         <tr>
           <th>12</th>
-          <td>Miscelánea</td>
+          <td>Objetos de gran tamaño</td>
         </tr>
       </tbody>
     </table>
@@ -1489,7 +1497,7 @@
     <table>
       <thead>
         <tr>
-          <th colspan="3">Tabla de Objetos extraordinarios de ciencia extraña</th>
+          <th colspan="3">Tabla de Objetos pequeños y útiles</th>
         </tr>
         <tr>
           <th>1dX</th>
@@ -1562,7 +1570,7 @@
     <table>
       <thead>
         <tr>
-          <th colspan="3">Tabla de Objetos extraordinarios misceláneos</th>
+          <th colspan="3">Tabla de Objetos de gran tamaño</th>
         </tr>
         <tr>
           <th>1dX</th>
@@ -1953,36 +1961,59 @@
     <h1>Epílogo</h1>
     <h2>Dando color a las aventuras</h2>
     <p>Aquí os presentamos una serie de materiales para darle color a vuestras aventuras piratas.</p>
-    <h3>Supersticiones piratas</h3>
-    <p>Esta es una pequeña recopilación de supersticiones de marineros y piratas para darle sabor a las aventuras.</p>
+    <h3>Supersticiones marineras y piratas</h3>
+    <p>Esta es una pequeña recopilación de supersticiones de marineros y piratas para darle sabor pirata a las aventuras.</p>
     <ul>
-      <li>No puede haber dos personas con el mismo nombre en el barco. Si llega alguien nuevo a un barco y tiene el
+      <li>No podía haber dos personas con el mismo nombre en el barco. Si llegaba alguien nuevo a un barco y tenía el
         mismo
-        nombre que alguien del barco el contramaestre se encargará de buscarle un mote y nadie usará nunca su nombre
+        nombre que alguien del barco, el contramaestre se encargaba de buscarle un mote y nadie usaba nunca su nombre
         para referirse a él.</li>
       <li>Solía ser costumbre taparle los ojos al mascarón de proa cuando se acercaba una tormenta para evitar que el
         barco
         "tuviera miedo" y se hundiera.</li>
       <li>Cuando se vendía un barco el antiguo propietario solía cortarle la cabeza al mascarón de proa o destrozarlo a
         hachazos
-        para que el nuevo propietario tuviera que poner uno nuevo. De esa forma se aseguraba de que no se llevara
+        para que el nuevo propietario tuviera que poner uno nuevo. De esa forma se aseguraba de que no se llevaba
         su suerte.</li>
-      <li>En esta misma linea, si el barco tenía mala suerte el comprador le cambiaba el nombre y lo mantenía si tenía buena fario.</li>
-      <li>Los gatos en un barco además de cazar las ratas traen buena suerte.</li>
-      <li>Es 2023 y esto es juego de rol así que olvídate de la tontería de que las mujeres en los barcos traen mala
-        suerte.
-        Ya hay suficientes mierdas en la vida real como para tener que aguantarlas en tu mesa.</li>
-      <li>Nunca debes hacer daño a un ave marina que se posa en tu barco, esas aves llevan almas de marinos muertos.
-      </li>
-      <li>Hay diferentes supersticiones con el barquero Caronte y las monedas para pagarle. Desde ponerlas en los
-        ojos de los muertos a clavarlas en los mastiles para atraer la buena suerte.</li>
-      <li>Estaba prohibido silbar, ya que los silbidos atraían las tormentas. Sin embargo en momentos de "calma chicha"
-        el contramaestre hacia silbar al más joven de los marineros para atraer a los vientos.</li>
+      <li>En esta misma linea, si el barco tenía mala suerte el comprador le cambiaba el nombre y lo mantenía si tenía 
+        buena fario.</li>
+      <li>Los gatos en un barco además de cazar las ratas traián buena suerte.</li>
+      <li>Es 2023 y esto es juego de rol así que olvídate de la tontería de que las mujeres en los barcos traían mala
+        suerte. Ya hay suficientes mierdas en la vida real como para tener que aguantarlas en tu mesa.</li>
+      <li>No debías hacer daño a un ave marina que se posaba en tu barco, esas aves llevaban almas de marinos muertos.</li>
+      <li>Había diferentes supersticiones con el barquero Caronte y las monedas de plata para pagarle. Desde ponerlas en los
+        ojos de los muertos a clavarlas en los mastiles o esconderlas en el barco para atraer la buena suerte.</li>
+      <li>Estaba prohibido silbar, ya que los silbidos atraen a las tormentas. Sin embargo en momentos de "calma chicha"
+        el contramaestre hacía silbar al más joven de los marineros para atraer a los vientos.</li>
       <li>También se colgaba ropa interior de los mastiles para atraer los vientos.</li>
       <li>Los marineros solo se cortaban el pelo en tierra, nunca navegando.</li>
-      <li>Las gentes del mar usaban los tatuajes como amuletos de protección, no meros elementos decorativos.</li>
+      <li>Las gentes del mar usaban los tatuajes como amuletos de protección, no meros elementos estéticos.</li>
+    </ul>
+    <h3>Costumbres piratas</h3>
+    <p>No te cortes de meter estas costumbres piratas para crear ambiente en tus partidas, 
+      incluso pueden ser ganchos de aventuras.</p>
+    <ul>
       <li>Era muy común entre la piratería llevar joyería de oro como forma de tener dinero si se tenía
-        algún problema.</li>
+        algún problema y de pagar su entierro en caso de morir. Y la costumbre de llevar pendientes se debía en parte a que solián colgar de ellos 
+      tapones de cera para cuidar los oidos de grandes ruidos como los cañones.</li>
+      <li>No era raro que el cocinero del barco aderezará las recetas con polvora cuando andaba escaso de condimentos 
+        para sus platos.</li>
+      <li>El rón era la bebida por excelencia de los piratas y si se rebajaba con agua y se le echaban especias y limón
+        se convertía en grog.</li>
+      <li>El <em>matelotage</em> era común entre piratas. Era una unión formal y permanente entre dos varones adultos. 
+        Ambos unían sus propiedades, luchaban juntos y se cuidaban el uno al otro en caso de enfermedad. 
+        Esta práctica era común en las islas habitadas por piratas, como Tortuga y La Española, 
+        debido a que la población femenina es muy baja. <a href="https://es.wikipedia.org/wiki/Matelotage">Wikipedia</a></li>
+      <li>Abandonar a su suerte a personas en islotes perdidos con algo de comida y agua o <em>maroon</em> erá una práctica habitual, 
+        sobre todo, para capturados en batalla. Pocas veces se les dejaba con una pistola cargada para suicidarse ya que 
+        las pistolas eran escasas y preciadas.</li>
+    </ul>
+    <h3>Vida en un barco pirata</h3>
+    <p>Estas pinceladas de vida a bordo también pueden ayudarte a crear ambiente.</p>
+    <ul>
+      <li>Los piratas no erán muy buenos pescadores, pero era muy habitual pescar tortugas marinas como forma de 
+        tener carne fresca. También llevaban cabras y gallinas en los barcos, para tener huevos, leche y carne.</li>
+      <li>***</li>
     </ul>
     <h2>Notas del autor</h2>
     <p>En esta ambientación, si bien tiene una pequeña base histórica, no es en absoluto realista e
@@ -2048,6 +2079,8 @@
 
       <li><a href="https://www.deviantart.com/artofragnar/art/Caves-505169856">epilogo.jpg</a>
         por <a href="https://www.deviantart.com/artofragnar">ArtofRagnar</a></li>
+      <li><a href="https://www.deviantart.com/uoa7/art/Captain-s-Cabin-358478787">recursos.jpg</a> 
+        por <a href="https://www.deviantart.com/uoa7">uoa7</a></li>
     </ul>
 
   <h1>Recursos</h1>
@@ -2056,8 +2089,8 @@
   <h2>Hoja de biblioteca</h2>
   <table width="100%" style="font-size: 0.8em;">
     <tr>
-      <th colspan="2" style="font-size: 1.4em; padding: 10px;">Biblioteca de libros<br/>de los Mitos</th>
-      <th align="left" valign="top">Bono:</th>
+      <th colspan="2" style="font-size: 1.4em; padding: 10px;font-family: 'Oswald', sans-serif;">Biblioteca de libros<br/>de los Mitos</th>
+      <th valign="top">Bono:</th>
     </tr>
     <tr>
       <th colspan="2" align="left">Título:</th>
@@ -2150,6 +2183,26 @@
     </tr>
     <tr>
       <th colspan="3"></th>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">Título:</th>
+      <th rowspan="5" width="20%" valign="top">Leido por:</th>
+    </tr>
+
+    <tr>
+      <th width="40%" align="left">Idioma:<br /><br /></th>
+      <th width="40%" align="left">TPC:<br /><br /></th>
+    </tr>
+    <tr>
+      <th align="left">Tamaño:<br /><br /></th>
+      <th align="left">Estado de conservación:<br /><br /></th>
+    </tr>
+    <tr>
+      <th align="left">Hechizos:<br /><br /></th>
+      <th align="left">Tiempo de lectura:<br /><br /></th>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">Características especiales:<br /><br /><br /><br /></th>
     </tr>
   </table>
   </section>
@@ -2248,20 +2301,21 @@
         .each(function() {
           counter++;
           $(this).attr('id', 'anchor' + counter);
-          menu.append('<p class="like' + $(this).prop("tagName") + '" data-scroll="#anchor' + counter + '">' +
+          menu.append('<a href="#anchor' + counter + '" class="like' + $(this).prop("tagName") + '" data-scroll="#anchor' + counter + '">' +
             this
-            .innerHTML + '</p>');
+            .innerHTML + '</a>');
         });
       menu.append('<p class="likeH1">Tablas</p>');
       $("body>section:nth-of-type(3) table thead tr:first-of-type th:first-of-type")
         .each(function() {
           counter++;
           $(this).attr('id', 'anchor' + counter);
-          menu.append('<p class="like' + $(this).prop("tagName") + '" data-scroll="#anchor' + counter + '">' +
+          menu.append('<a href="#anchor' + counter + '" class="like' + $(this).prop("tagName") + '" data-scroll="#anchor' + counter + '">' +
             this
-            .innerHTML + '</p>');
+            .innerHTML + '</a>');
         });
-      $(".likeH1,.likeH2,.likeH3,.likeH4,.likeH5,.likeTH").click(function() {
+      $(".likeH1,.likeH2,.likeH3,.likeH4,.likeH5,.likeTH").click(function(e) {
+        e.preventDefault();
         $('html,body').animate({
           scrollTop: $($(this).data("scroll")).offset().top
         }, 'fast');
