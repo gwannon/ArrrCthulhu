@@ -149,7 +149,7 @@
       padding-left: 30px;
     }
 
-    ul li {
+    ul li:not(ul li ul li) {
       list-style-type: none;
       position: relative;
       min-height: 33px;
@@ -779,10 +779,10 @@
     <p>La magía es una parte fundamental de ¡Arrr! Cthulhu, tan fundamental como en los relatos de 
       los Mithos y como en estos tiene una mezcla de magía ritual y de ciencia extretarrestre y futurista. 
       Pero no se nos debe olvidar que tiene que ser oscura y maligna. Es por ello que es una magía que tira más 
-      de perversiones, acechadores en las sombres, velas y calices y rituales con sacrificios que de auras de luz, bolas de fuego, 
+      de perversiones, acechadores en las sombras, velas y calices y rituales con sacrificios que de auras de luz, bolas de fuego, 
       rayos eléctricos y bendiciones. Si revisitas los relatos de Lovecraft verás que no hay magos con cayados en mano 
       lanzando rayos fuego, si no de siniestros hechiceros que lanzan maldiciones y sombras asesinas a sus 
-      enemigos desde sus circulos de invoación.</p>
+      enemigos desde sus circulos de invocación.</p>
     <p>Es por ello que la santería o vudú (o por lo menos el vudú de las películas y series de miedo) casa tan bíen con la magia
       de ¡Arrr! Cthulhu. Es tenebroso, impuro, con sacrificios y muertos que se levantan. Como podrás ver más adelante, 
       muchos de los poderes de SWADE, toman forma en hechizos de inspiración vudú. Además como bien nos ha enseñado Monkey
@@ -3286,8 +3286,8 @@
       background-color: var(--green-deepone);
     }
 
-    ul li:before,
-    ul li:after {
+    ul li:not(ul li ul li):before,
+    ul li:not(ul li ul li):after {
       content: "";
       top: -2px;
       left: -24px;
@@ -3305,7 +3305,7 @@
       clip-path: polygon(50% 0%, 50% 50%, 45% 65%, 55% 65%, 50% 50%, 50% 0%, 87% 15%, 100% 50%, 75% 72%, 66% 96%, 60% 70%, 50% 100%, 40% 70%, 34% 96%, 25% 72%, 0 50%, 11% 17%);
     }
 
-    ul li:after {
+    ul li:not(ul li ul li):after {
       top: 10px;
       clip-path: polygon(13% 18%, 0 29%, 30% 50%, 0 68%, 15% 83%, 51% 59%, 80% 85%, 100% 66%, 70% 50%, 99% 27%, 83% 16%, 51% 42%);
     }
