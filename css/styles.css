@@ -996,7 +996,7 @@ body {
   body>section:nth-of-type(1),
   body>section:nth-of-type(5),
   .map {
-    height: calc(100vh - 5px);
+    height: calc(100vh - 25px);
     /*min-height: 1080px;*/
   }
 
