@@ -1013,7 +1013,7 @@ body>section:nth-of-type(1),
 body>section:nth-of-type(5),
 .map {
   height: calc(90vh - 25px);
-  width: 200px;
+  width: auto;
   /*min-height: 1080px;*/
 }
 
