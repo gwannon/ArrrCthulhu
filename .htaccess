@@ -74,7 +74,6 @@ RewriteBase /
 #RewriteRule ^pdf/$ /pdf.php [L]
 </IfModule>
 
-#Begin Really Simple Security
 <IfModule mod_rewrite.c>
 RewriteEngine on
 
@@ -83,8 +82,7 @@ RewriteEngine on
 RewriteCond %{HTTPS} !=on [NC]
 RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 
-RewriteCond %{HTTP_HOST} ^arrrcthulhu.gwannon.com [NC,OR]
-RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [L,R=301,NC]
+RewriteCond %{HTTP_HOST} ^arrrcthulhu.gwannon.com [NC]
+RewriteRule ^(.*)$ https://arrrcthulhu.com/$1 [L,R=301,NC]
 
 </IfModule>
-# END WordPress
