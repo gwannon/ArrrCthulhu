@@ -914,7 +914,10 @@ body {
   display: none;
 }
 
-
+.map-grid {
+  width: 100%;
+  height: auto;
+}
 
 @media print {
   .saltopagina {
@@ -996,9 +999,14 @@ body {
   body>section:nth-of-type(1),
   body>section:nth-of-type(5),
   .map {
-    height: calc(90vh - 25px);
-    width: 200px;
+    height: calc(100vh - 5px);
     /*min-height: 1080px;*/
+  }
+
+  .map-grid {
+    width: auto;
+    height: calc(100vh - 50px);
+    border: 1pc solid red:
   }
 
   .studio {
@@ -1007,14 +1015,6 @@ body {
     margin: 0px;
     border: 1px solid black;
   }
-}
-
-body>section:nth-of-type(1),
-body>section:nth-of-type(5),
-.map {
-  height: calc(90vh - 25px);
-  width: auto;
-  /*min-height: 1080px;*/
 }
 
 .ribbon {
