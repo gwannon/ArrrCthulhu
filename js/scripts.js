@@ -17,7 +17,7 @@ $(document).ready(function () {
 
 
   counter = 0;
-  step = 54;
+  step = 48;
   currentDiv = 1;
   $("body>section:nth-of-type(4) div:nth-of-type("+currentDiv+")").append('<p class="likeH1">Tablas</p>');
   $("body>section:nth-of-type(3) table thead tr:first-of-type th:first-of-type")
