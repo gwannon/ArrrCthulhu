@@ -8,7 +8,8 @@ $bots = [
   "SemrushBot/7~bl",
   "bingbot/2.0",
   "WhatsApp/2",
-  "BW/1.1"
+  "BW/1.1",
+  "Applebot/0.1"
 ];
 $json = [];
 $lines = explode("\n", file_get_contents (__DIR__."/log-".date("W").".txt"));
