@@ -90,6 +90,7 @@ Gracias por su documentación a:
 
 ### Ver. 0.6 En desarrollo
 * Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
+* Aventura "El as de picas" terminada 
 
 ### Ver. 0.5.7 01/08/2023
 * Nuevas localizaciones: Universidad Santo Tomás de Aquino, El queso Chester, Teatro Real, Agujero azul de Dean
