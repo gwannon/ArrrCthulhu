@@ -26,7 +26,6 @@ Gracias por su documentación a:
 ## Por hacer en Ambientación
 ### El caribe de los Mitos
 * Bienvenidos al Caribe de 1725
-* Profundos
 * Islas Piratas
 * Bahamas
 * Quisqueya y Cuba
@@ -49,12 +48,10 @@ Gracias por su documentación a:
 * Saint-Domingue
 * Jamaica
 * Bahamas
-* REVISAR QUE FALTA
 
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
 * El templo perdido
-* El as de picas
 * Madre de aguas
 * El yeho
 * Cazadores de huesos
@@ -62,7 +59,7 @@ Gracias por su documentación a:
 * Desaparecidos
 * Behike
 * El tesoro de la mansión Corbitt
-* Nunca me habián dado todo
+* Nunca me habían dado todo
 
 ## Por hacer en PNJs y monstruos
 
@@ -72,7 +69,6 @@ Gracias por su documentación a:
 * Lloigor
 * Polipos volantes
 * Perros de Tíndalos
-* Lengnitas
 
 ### Secuaces y criaturas
 * Embarcaciones avanzadas
@@ -82,7 +78,7 @@ Gracias por su documentación a:
 * Mary Read (comodín)
 * Edward Teach alias Barbanegra (comodín)
 * Hernando de Villalba (comodín)
-* Barón samedí (comodín)
+* Barón Samedí (comodín)
 * Ernesto Delapore (comodín)
 * Meter a todos los personajes Transfondo Arcano (Hechicería primigenia) y revisar sus idiomas
 
