@@ -88,7 +88,8 @@ Gracias por su documentación a:
 * Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
 * Aventura "El as de picas" terminada 
 * Aventura "En el Carcosa" terminada
-* Aventura "Devil came to me" terminada  
+* Aventura "Devil came to me" terminada
+* Aventura "El tesoro de la mansión Corbitt" terminada  
 
 ### Ver. 0.5.7 01/08/2023
 * Nuevas localizaciones: Universidad Santo Tomás de Aquino, El queso Chester, Teatro Real, Agujero azul de Dean
