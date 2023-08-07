@@ -94,7 +94,8 @@
       font-size: 18px; 
     }
 
-    body>section {
+    body>section,
+      .license {
       box-sizing: border-box;
       margin: auto;
       padding: 0px 15px 35px;
@@ -102,10 +103,19 @@
       background-color: #f7f7f7;
     }
 
+    .license {
+      padding: 35px 35px;
+    }
+
     @media (min-width: 900px) {
       body>section {
         max-width: calc(100vh * 0.7);
         padding: 0px 35px 35px;
+      }
+
+      .license {
+        max-width: calc(100vh * 0.7);
+        padding: 35px 35px;
       }
     }
 
@@ -322,6 +332,18 @@
         margin: 0px 0px 5px 5px;
       }
     }
+
+    
+
+    .license > * {
+      font-size: 0.8em;
+      line-height: 120%;
+      text-align: center;
+    }
+
+    .license > blockquote {
+      font-style: italic;
+    }
   </style>
 </head>
 
@@ -340,6 +362,18 @@
     </div>
   </section>
   <div class="saltopagina"></div>
+  <div class="license">
+    <p>El presente texto se encuentra bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)
+      (<a href="https://creativecommons.org/licenses/by/4.0/deed.es">https://creativecommons.org/licenses/by/4.0/deed.es</a>). Puedes usar este contenido en cualquier
+      forma que te permita la licencia siempre que incluyas el texto de atribución siguiente:</p>
+    <blockquote>Este trabajo está basado en la ambientación para SavageWorlds ¡Arr! Cthulhu creada por
+      Jorge Monclús Fernández (Gwannon) y está disponible de forma gratuita en <a
+        href="https://arrrcthulhu.com/">https://arrrcthulhu.com/</a>
+      y licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional
+      cuyo texto legal puede verse en <a
+        href="https://creativecommons.org/licenses/by/4.0/legalcode.es">https://creativecommons.org/licenses/by/4.0/legalcode.es</a>
+    </blockquote>
+  </div>
   <div class="saltopagina"></div>
   <section>
     <div></div>
@@ -8898,7 +8932,7 @@
       Cuando llegaron a Jamaica se dedicaron a plantaciones de caña de azucar y cuando amasaron una fortuna
       compraron la mansión Domingo y le cambiaron el nombre por Corbitt.</p>
     <p>Cuando el huraño Walter Corbitt heredo la casa todo empezo a torcerse. Se enemistó con los vecinos por su
-      excéntricos comportamientos, incluso hubo acusaciones de brujería. Cuando Walter desapareció, su sobrino, el padre
+      excéntricos comportamientos, incluso hubo acusaciones de brujería. Cuando Walter murió, su sobrino, el padre
       de Anya,
       intento alquilar o vender la casa pero no lo consiguió y como su economía era buena no se preocupó. Dejo la casa
       medio abandonada ya que se había trasladado a la prospera nueva capital de Jamaica, Kingston.</p>

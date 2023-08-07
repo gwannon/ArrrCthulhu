@@ -929,6 +929,14 @@ body {
     
   }
 
+  .license {
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
   .separator.print {
     display: block;
     background-color: var(--green-dark);
