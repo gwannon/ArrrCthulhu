@@ -67,7 +67,6 @@ Gracias por su documentación a:
 * Ordenar monstruos por orden alfabético
 * Revisar los tamaños de los seres
 * Lloigor
-* Polipos volantes
 * Perros de Tíndalos
 
 ### Secuaces y criaturas
@@ -89,7 +88,9 @@ Gracias por su documentación a:
 * Aventura "El as de picas" terminada 
 * Aventura "En el Carcosa" terminada
 * Aventura "Devil came to me" terminada
-* Aventura "El tesoro de la mansión Corbitt" terminada  
+* Aventura "El tesoro de la mansión Corbitt" terminada
+* Monstruo nuevo: Pólipos volantes
+* Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)
 
 ### Ver. 0.5.7 01/08/2023
 * Nuevas localizaciones: Universidad Santo Tomás de Aquino, El queso Chester, Teatro Real, Agujero azul de Dean
