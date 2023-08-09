@@ -114,7 +114,18 @@ $("button#generatebook").click(function (e) {
         }
         count++;
       });
-      $("#generatedbook").append("<p><b>"+label+":</b> "+title1+ " "+ title2+"</p>");
+      
+
+      var main_title = title1+ " "+ title2;
+      let randnombres = Math.floor(Math.random() * nombres.length);
+      let randbarcos = Math.floor(Math.random() * barcos.length);
+      let randislas = Math.floor(Math.random() * islas.length);
+      let randrangos = Math.floor(Math.random() * rangos.length);
+      main_title = main_title.replace("[Nombre]", nombres[randnombres]);
+      main_title = main_title.replace("[Nombre barco]", barcos[randbarcos]);
+      main_title = main_title.replace("[Isla del Caríbe]", islas[randislas]);
+      main_title = main_title.replace("[Rango]", islas[randrangos]);
+      $("#generatedbook").append("<p><b>"+label+":</b> "+main_title+"</p>");
 
       /*TODO Aleatorio de nombre de personas, barcos islas */
 
