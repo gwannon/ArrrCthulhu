@@ -919,6 +919,25 @@ body {
   height: auto;
 }
 
+#generatebook {
+  padding: 10px;
+  border: 1px solid var(--green-cthulhu);
+  background-color: var(--green-cthulhu);
+  color: #fff;
+  width: 100%;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1em;  
+  cursor: pointer;
+}
+
+#generatedbook {
+  padding: 20px; 
+  min-height: 200px; 
+  border: 1px solid var(--green-cthulhu); 
+  background-color: var(--green-deepone);
+}
+
 @media print {
 
   .nopdf {
