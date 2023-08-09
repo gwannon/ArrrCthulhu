@@ -83,7 +83,7 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 0.6 En desarrollo
+### Ver. 0.6.1 En desarrollo
 * Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
 * Aventura "El as de picas" terminada 
 * Aventura "En el Carcosa" terminada
@@ -91,6 +91,7 @@ Gracias por su documentación a:
 * Aventura "El tesoro de la mansión Corbitt" terminada
 * Monstruo nuevo: Pólipos volantes
 * Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)
+* Generador aleatorio de libros de los Mitos
 
 ### Ver. 0.5.7 01/08/2023
 * Nuevas localizaciones: Universidad Santo Tomás de Aquino, El queso Chester, Teatro Real, Agujero azul de Dean
