@@ -124,7 +124,7 @@ $("button#generatebook").click(function (e) {
       main_title = main_title.replace("[Nombre]", nombres[randnombres]);
       main_title = main_title.replace("[Nombre barco]", barcos[randbarcos]);
       main_title = main_title.replace("[Isla del Caríbe]", islas[randislas]);
-      main_title = main_title.replace("[Rango]", islas[randrangos]);
+      main_title = main_title.replace("[Rango]", rangos[randrangos]);
       $("#generatedbook").append("<p><b>"+label+":</b> "+main_title+"</p>");
 
       /*TODO Aleatorio de nombre de personas, barcos islas */
