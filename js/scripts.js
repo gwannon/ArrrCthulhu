@@ -92,6 +92,52 @@ $(document).ready(function () {
   });
 });
 
+/*Aleatorio de libros*/
+$("button#generatebook").click(function (e) {
+  $("#generatedbook").html("");
+  var special = false;
+  $("table[data-generatebook]").each(function() {
+    var label = $(this).data("generatebook");
+    if(label == 'Título') {
+      let rand1 = Math.floor(Math.random() * parseInt($("table[data-generatebook="+label+"]").data("dice")));
+      let rand2 = Math.floor(Math.random() * parseInt($("table[data-generatebook="+label+"]").data("dice")));
+      if(rand1 == rand2 || rand1 == 1 || rand1 == 20  || rand2 == 1 || rand2 == 20) special = true;
+      var title1 = "";
+      var title2 = "";
+      var count = 0;
+      $("table[data-generatebook="+label+"] tbody tr").each(function () {
+        if (rand1 == count) {
+          title1 = $(this).children("td:nth-child(2)").text();
+        }
+        if (rand2 == count) {
+          title2 = $(this).children("td:nth-child(4)").text();
+        }
+        count++;
+      });
+      $("#generatedbook").append("<p><b>"+label+":</b> "+title1+ " "+ title2+"</p>");
+
+      /*TODO Aleatorio de nombre de personas, barcos islas */
+
+    } else if((label == 'Especial' && special == true) || label != 'Especial') {
+      let rand = Math.floor(Math.random() * parseInt($("table[data-generatebook="+label+"]").data("dice")));
+      var count = 0;
+      $("table[data-generatebook="+label+"] tbody tr").each(function () {
+        if ($(this).data("dice")) {
+          if (rand >= count && rand < (count + parseInt($(this).data("dice")))) {
+            $("#generatedbook").append("<p><b>"+label+":</b> "+$(this).children("td:nth-child(2)").text()+"</p>");
+          }
+          count = count + parseInt($(this).data("dice"));
+        } else {
+          if (rand == count) {
+            $("#generatedbook").append("<p><b>"+label+":</b> "+$(this).children("td:nth-child(2)").text()+"</p>");
+          }
+          count++;
+        }
+      });
+    }
+  });
+});
+
 function ucfirst(string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }

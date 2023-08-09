@@ -3688,7 +3688,7 @@
       <li>Estado de conservación.</li>
     </ul>
     <div style="overflow-x:auto;">
-      <table data-dice="20">
+      <table data-dice="20" data-generatebook="Título">
         <thead>
           <tr>
             <th colspan="4">Tabla de Título para libro</th>
@@ -3842,11 +3842,12 @@
       </table>
     </div>
 
-    <p>Cuando un libro saca el mismo número en las partes de su título ... ¡bingo! tiene algo especial.
+    <p>Cuando un libro saca el mismo número en las partes de su título o saca un 1 o un 20 
+      en alguna de las partes del título ... ¡bingo! tiene algo especial.
       Tira en la siguiente tabla. Esta característica se aplicará a todo el que lo lea.</p>
 
     <div style="overflow-x:auto;">
-      <table data-dice="6">
+      <table data-dice="6" data-generatebook="Especial">
         <thead>
           <tr>
             <th colspan="2">Tabla de Características especiales de libro</th>
@@ -3893,7 +3894,7 @@
       </table>
     </div>
     <div style="overflow-x:auto;">
-      <table data-dice="20">
+      <table data-dice="20" data-generatebook="Idioma">
         <thead>
           <tr>
             <th colspan="2">Tabla de Idioma para libros</th>
@@ -3936,7 +3937,7 @@
       </table>
     </div>
     <div style="overflow-x:auto;">
-      <table data-dice="12">
+      <table data-dice="12" data-generatebook="TPC">
         <thead>
           <tr>
             <th colspan="2">Tabla de TPC para libros</th>
@@ -3975,7 +3976,7 @@
       </table>
     </div>
     <div style="overflow-x:auto;">
-      <table data-dice="10">
+      <table data-dice="10" data-generatebook="Tamaño">
         <thead>
           <tr>
             <th colspan="2">Tabla de Tamaño para libros</th>
@@ -4024,7 +4025,7 @@
       </table>
     </div>
     <div style="overflow-x:auto;">
-      <table data-dice="10">
+      <table data-dice="10" data-generatebook="Estado&nbsp;de&nbsp;conservación">
         <thead>
           <tr>
             <th colspan="2">Tabla de Estado de conservación para libros</th>
@@ -4049,7 +4050,7 @@
           <tr>
             <th>3</th>
             <td><b>Muy usado y leído.</b> Está lleno de notas y apuntes de anteriores
-              lectores 1e ayudan a racionalizar lo que hay escrito bajando un
+              lectores que ayudan a racionalizar lo que hay escrito bajando un
               nivel el TPC (valor mínimo d4).</td>
           </tr>
           <tr data-dice="5">
@@ -4072,6 +4073,11 @@
           </tr>
         </tbody>
       </table>
+    </div>
+    <div class="nopdf">
+      <div id="generatedbook" style="padding: 20px; min-height: 200px; border: 1px solid var(--green-cthulhu); background-color: var(--green-deepone);">
+      </div>
+      <button id="generatebook">Generar libro aleatorio de los Mitos</button>
     </div>
     <h4>Ojear libros</h4>
     <p>Si un lector destina medio día a ojear un libro y pasa una tirada del Idioma en que está escrito el libro,

@@ -920,6 +920,11 @@ body {
 }
 
 @media print {
+
+  .nopdf {
+    display: none;
+  }
+
   .saltopagina {
     display: block;
     page-break-before: always;
