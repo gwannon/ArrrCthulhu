@@ -426,7 +426,6 @@
       de la Orden del Gran Cthulhu. Estos valientes han creado la Hermandad del Sargazo que busca desbaratar los
       planes del culto y hacer que paguen por us multiples crímenes.</p>
     <img src="./images/mapa.webp" alt="" data-title="Antiguo mapa del Caribe">
-    <span class="separator print"></span>
     <div class="saltopagina"></div>
     <h2 class="ribbon">La Orden del Gran Cthulhu</h2>
     <p>***</p>
@@ -458,14 +457,18 @@
       de origen desconocido.</p>
     <p>***</p>
     <h4>La tentáculos de la RCPC</h4>
-    <p>***</p>
+    <p>La RCPC tiene cuatro ramas o más correctamente 4 tentáculos que se extienden por todo el Caribe. Cada una tiene 
+      unos recursos y unos métodos propios pero un único objetivo, la supremacia en la sombra de la Orden en todo el Caribe.</p>
+    <p>No todos los tentáculos tienen el mismo poder, según las zonas puede tener uno u otro más importancia o menos o incluso no existir.</p>
     <h5>El tentáculo comercial</h5>
     <p>***</p>
     <h5>El tentáculo científico y mágico</h5>
     <p>***</p>
-    <h5>El tentáculo militar</h5>
+    <h5>El tentáculo militar y de espionaje</h5>
     <p>***</p>
     <h5>El tentáculo propagandístico</h5>
+    <p>***</p>
+    <h3 class="ribbon">Organigrama de la empresa</h3>
     <p>***</p>
     <h3 class="ribbon">Edward Teach alias Barbanegra</h3>
     <p>***
@@ -478,6 +481,10 @@
         nace como una escisión de Cofradía de los Hermanos de la Costa
       -->
     </p>
+    <h3 class="ribbon">Miembros de la hermandad</h3>
+    <p>***</p>
+    <h3 class="ribbon">Derechos, deberes y obligaciones</h3>
+    <p>***</p>
     <h3 class="ribbon">Mary Read</h3>
     <p>***
       <!-- Mary Read es mi homenaje a uno de mis personajes preferidos de 50 brazas, Tressa la Roja. 
@@ -3731,7 +3738,7 @@
           </tr>
           <tr>
             <th>3</th>
-            <td>Informe del [Rango] [Nombre]</td>
+            <td>Informe [del|de la] [Rango] [Nombre]</td>
             <th>3</th>
             <td>para todos</td>
           </tr>
@@ -3742,112 +3749,96 @@
             <td>[y|sobre|de] fantasmas y aparecidos</td>
           </tr>
           <tr>
-
             <th>5</th>
             <td>Las confesiones de [Nombre]</td>
             <th>5</th>
             <td>antes de morir</td>
           </tr>
           <tr>
-
             <th>6</th>
             <td>Historia apócrifa</td>
             <th>6</th>
             <td>en el Infierno</td>
           </tr>
           <tr>
-
             <th>7</th>
             <td>Diario de abordo del [Nombre barco]</td>
             <th>7</th>
             <td>[y|sobre|de] los que acechan en las sombras</td>
           </tr>
           <tr>
-
             <th>8</th>
             <td>Mis viajes</td>
             <th>8</th>
             <td>desde su lecho de muerte</td>
           </tr>
           <tr>
-
             <th>9</th>
             <td>Historia natural</td>
             <th>9</th>
             <td>[y|sobre|de] los demonios del mar</td>
           </tr>
           <tr>
-
             <th>10</th>
             <td>Aventuras fantásticas</td>
             <th>10</th>
             <td>[en|de|para] la jungla</td>
           </tr>
           <tr>
-
             <th>11</th>
             <td>El descenso a la locura de [Nombre]</td>
             <th>11</th>
             <td>[en|desde|hasta] el fondo del mar</td>
           </tr>
           <tr>
-
             <th>12</th>
             <td>Recetas de cocina</td>
             <th>12</th>
             <td>de siempre</td>
           </tr>
           <tr>
-
             <th>13</th>
             <td>Cartas de [Nombre]</td>
             <th>13</th>
             <td>[y|sobre|de] los dioses paganos</td>
           </tr>
           <tr>
-
             <th>14</th>
             <td>Cuentos de miedo</td>
             <th>14</th>
             <td>[en|por] el viejo continente</td>
           </tr>
           <tr>
-
             <th>15</th>
             <td>Oscuros secretos</td>
             <th>15</th>
             <td>sin censura</td>
           </tr>
           <tr>
-
             <th>16</th>
             <td>Historias inconfesables</td>
             <th>16</th>
             <td>[en|por] el Caribe</td>
           </tr>
           <tr>
-
             <th>17</th>
             <td>Extraños relatos eróticos</td>
             <th>17</th>
-            <td>[en|por] [Isla del Caríbe]</td>
+            <td>[en|por] [Isla del Caribe]</td>
           </tr>
           <tr>
-
             <th>18</th>
             <td>El manuscrito perdido</td>
             <th>18</th>
             <td>en el fondo del mar</td>
           </tr>
           <tr>
-
             <th>19</th>
             <td>El diario perdido de [Nombre]</td>
             <th>19</th>
             <td>más allá del tiempo</td>
           </tr>
           <tr>
-
             <th>20</th>
             <td>El viejo cantar</td>
             <th>20</th>
@@ -4093,10 +4084,19 @@
       <div id="generatedbook"></div>
       <button id="generatebook">Generar libro aleatorio de los Mitos</button>
       <script>
-        var nombres = ["César", "Maestre Arturo Gandía", "Antonio García", "Salvador García", "Héctor García", "Maria Isabel García", "Johanna Ribeiro", "Antoine Delapore", "Ernesto Delapore", "Michelle LeCourt", "Isadora de la Guía y Arango", "Ifá", "George Jansen", "Adolfé", "Fabio Castelli", "Corozo", "Pando", "Dupont", "Calico Jack", "Anne Bonny", "Catania Jack", "Bartholomew Roberts", "Stede Bonnet", "Henry Morgan", "François l'Olonnais", "Henry Every", "Bartolomé de las Casas", "Arturo Fernández", "Asumpta Garriga"];
-        var islas = ["Cayos de Florida", "Cuba", "Jamaica", "Bahamas", "Puerto Rico", "La Española", "Gran Caimán", "Caimán Brac", "Pequeño Caimán", "Nueva Providencia", "Isla Larga", ""];
-        var barcos = ["Temerario", "Carcosa", "Nuestra señira de la Guía", "Santa Fé", "Vindicación", "El Orgullo", "Indomable", "Golpe de suerte", "Ranger", "Fortuna", "Venganza", "Nuestra señora de Atocha", "Sol naciente", "Delicias del Soltero", "Satisfacción"];
-        var rangos = ["Capitán", "Sargento", "Soldado", "Teniente", "Cabo", "Brigadier", "Contramaestre", "Primer oficial"];
+        var nombres = ["César", "Maestre Arturo Gandía", "Antonio García", "Salvador García", "Héctor García", 
+          "Maria Isabel García", "Johanna Ribeiro", "Antoine Delapore", "Ernesto Delapore", "Michelle LeCourt", 
+          "Isadora de la Guía y Arango", "Ifá", "George Jansen", "Adolfé", "Fabio Castelli", "Corozo", "Pando", 
+          "Dupont", "Calico Jack", "Anne Bonny", "Catania Jack", "Bartholomew Roberts", "Stede Bonnet", 
+          "Henry Morgan", "François l'Olonnais", "Henry Every", "Bartolomé de las Casas", "Arturo Fernández", 
+          "Asumpta Garriga"];
+        var islas = ["Cayos de Florida", "Cuba", "Jamaica", "Bahamas", "Puerto Rico", "La Española", 
+        "Gran Caimán", "Caimán Brac", "Pequeño Caimán", "Nueva Providencia", "Isla Larga"];
+        var barcos = ["Temerario", "Carcosa", "Nuestra señira de la Guía", "Santa Fé", "Vindicación", 
+        "El Orgullo", "Indomable", "Golpe de suerte", "Ranger", "Fortuna", "Venganza", "Nuestra señora de Atocha", 
+        "Sol naciente", "Delicias del Soltero", "Satisfacción"];
+        var rangos = ["Capitán", "Sargento", "Soldado", "Teniente", "Cabo", "Brigadier", 
+        "Contramaestre", "Primer oficial", "Alferez", ""];
       </script>
     </div>
     <h4>Ojear libros</h4>
@@ -8946,21 +8946,6 @@
       <li>***</li>
     </ul>
     <p>***</p>
-    <h3 class="ribbon">Behike</h3>
-    <p><b>Comienzo:</b> En una comunidad taina en mitad de la selva</p>
-    <p>El behike o chaman del poblado taino ha desaparecido sin dejar rastro y sus mascaras de concha de
-      caracol
-      <!-- https://indigenouscaribbean.ning.com/profiles/blogs/las-mascaras-de-caracol-tainas-taino-seashell-masks -->
-      marino gigante han sido destruidas. Los guerreos más jovenes de quieren adentrarse a buscarlo pero el cacique
-      cree que es una
-      trampa que busca dejar el poblado sin una importante parte de sus defensores. Quizas el grupo puede ayudar
-      buscando al behike en
-      vez de los guerreros locales o puede que se queden a ayudar a defender el asentamiento mientras la expedición
-      de
-      rescate del chamán está
-      fuera.
-    </p>
-    <p>***</p>
     <h3 class="ribbon">El tesoro de la mansión Corbitt</h3>
     <img src="./images/mansion.webp" alt="La mansión Corbitt">
     <p><b>Comienzo:</b> Port Royal</p>
@@ -9457,6 +9442,24 @@
     <p><b>Comienzo:</b> ***</p>
     <p>***</p>
     <p>***</p> -->
+    <div class="saltopagina"></div>
+    <h2 class="ribbon">Semillas de relatos salvajes</h2>
+    <p>***</p>
+    <h3 class="ribbon">Behike</h3>
+    <p><b>Comienzo:</b> En una comunidad taina en mitad de la selva</p>
+    <p>El behike o chaman del poblado taino ha desaparecido sin dejar rastro y sus mascaras de concha de
+      caracol
+      <!-- https://indigenouscaribbean.ning.com/profiles/blogs/las-mascaras-de-caracol-tainas-taino-seashell-masks -->
+      marino gigante han sido destruidas. Los guerreos más jovenes de quieren adentrarse a buscarlo pero el cacique
+      cree que es una
+      trampa que busca dejar el poblado sin una importante parte de sus defensores. Quizas el grupo puede ayudar
+      buscando al behike en
+      vez de los guerreros locales o puede que se queden a ayudar a defender el asentamiento mientras la expedición
+      de
+      rescate del chamán está
+      fuera.
+    </p>
+    <p>***</p>
     <div class="saltopagina"></div>
     <h1>Monstruos de los mitos</h1>
     <p>Aquí tienes un bestiario con las criaturas de los Mitos de Cthulhu más comunes que puedes encontrarte
@@ -12643,8 +12646,8 @@
     }
   </style>
   <script src="./js/jquery-3.6.3.min.js"></script>
-  <script src="./js/scripts.js?ver=0.6.1&hash=202230809"></script>
-  <link rel="stylesheet" href="./css/styles.css?ver=0.6.1&hash=202230809">
+  <script src="./js/scripts.js?ver=0.6.1&hash=20230810"></script>
+  <link rel="stylesheet" href="./css/styles.css?ver=0.6.1&hash=20230810">
 </body>
 
 </html>

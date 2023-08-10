@@ -123,7 +123,7 @@ $("button#generatebook").click(function (e) {
       let randrangos = Math.floor(Math.random() * rangos.length);
       main_title = main_title.replace("[Nombre]", nombres[randnombres]);
       main_title = main_title.replace("[Nombre barco]", barcos[randbarcos]);
-      main_title = main_title.replace("[Isla del Caríbe]", islas[randislas]);
+      main_title = main_title.replace("[Isla del Caribe]", islas[randislas]);
       main_title = main_title.replace("[Rango]", rangos[randrangos]);
       $("#generatedbook").append("<p><b>"+label+":</b> "+main_title+"</p>");
 
