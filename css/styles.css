@@ -1284,3 +1284,16 @@ h2.ribbon + p + ul {
   top: auto;
   bottom: -10px;
 }
+
+a.download {
+  display: inline-block; 
+  padding: 10px 20px; 
+  text-decoration: none; 
+  color: #fff; 
+  background-color: var(--green-cthulhu);
+  transition: background 0.3s;
+}
+
+a.download:hover {
+  background-color: var(--green-dark);
+}
