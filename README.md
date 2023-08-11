@@ -88,6 +88,7 @@ Gracias por su documentación a:
 * Aventura "En el Carcosa" terminada
 * Aventura "Devil came to me" terminada
 * Aventura "El tesoro de la mansión Corbitt" terminada
+* Aventura "Cazadores de huesos" terminada
 * Monstruo nuevo: Pólipos volantes
 * Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)
 * Generador aleatorio de libros de los Mitos
