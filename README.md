@@ -58,7 +58,6 @@ Gracias por su documentación a:
 * Cuando la tierra tiembla
 * Desaparecidos
 * Behike
-* El tesoro de la mansión Corbitt
 * Nunca me habían dado todo
 
 ## Por hacer en PNJs y monstruos
