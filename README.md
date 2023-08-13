@@ -82,14 +82,16 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 0.6.1 En desarrollo
+### Ver. 0.6.2 En desarrollo
+* Aventura "La parte del rey" terminada
+
+### Ver. 0.6.1 13/08/2023
 * Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
 * Aventura "El as de picas" terminada 
-* Aventura "En el Carcosa" terminada
-* Aventura "Devil came to me" terminada
 * Aventura "El tesoro de la mansión Corbitt" terminada
 * Aventura "Cazadores de huesos" terminada
 * Monstruo nuevo: Pólipos volantes
+* Personajes acabados: Ernesto Delapore, George Jansen, Onofre de las Torres/Balua'k
 * Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)
 * Generador aleatorio de libros de los Mitos
 
