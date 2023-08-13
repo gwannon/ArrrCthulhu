@@ -25,22 +25,20 @@ Gracias por su documentación a:
 
 ## Por hacer en Ambientación
 ### El caribe de los Mitos
-* Bienvenidos al Caribe de 1725
-* Islas Piratas
+* La Orden del Gran Cthulhu
+* La hermandad del sargazo
 * Bahamas
 * Quisqueya y Cuba
 * El Caribe español
 * El Caribe inglés
 * El Caribe francés
-* La hermandad del sargazo
-* Mary Read
-* La Real Compañía privilegiada del Caribe
+* El Caribe danés
+* Islas Piratas
 * Cthulhu y R'lyeh
-* Los profundos del Caribe
+* Religiones
 * REVISAR QUE FALTA
 
 ### Guía de viajes
-* Guía de viajes
 * Islas piratas
 * Cuba
 * Puerto Rico
@@ -51,14 +49,14 @@ Gracias por su documentación a:
 
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
+* La parte del rey
 * El templo perdido
 * Madre de aguas
 * El yeho
-* Cazadores de huesos
 * Cuando la tierra tiembla
 * Desaparecidos
-* Behike
 * Nunca me habían dado todo
+* Behike
 
 ## Por hacer en PNJs y monstruos
 
@@ -75,9 +73,10 @@ Gracias por su documentación a:
 * Ordenar personajes por orden alfabético
 * Mary Read (comodín)
 * Edward Teach alias Barbanegra (comodín)
+* Cesar (comodín) 
 * Hernando de Villalba (comodín)
 * Barón Samedí (comodín)
-* Ernesto Delapore (comodín)
+* Aurora y Flora (comodín)
 * Meter a todos los personajes Transfondo Arcano (Hechicería primigenia) y revisar sus idiomas
 
 ## Versiones

@@ -12,7 +12,8 @@ $bots = [
   "Applebot/0.1",
   "SeznamBot/4.0",
   "DataForSeoBot/1.0",
-  "AhrefsBot/7.0"
+  "AhrefsBot/7.0",
+  "YandexBot/3.0"
 ];
 $json = [];
 $lines = explode("\n", file_get_contents (__DIR__."/log-".date("W").".txt"));
