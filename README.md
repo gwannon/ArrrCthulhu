@@ -49,7 +49,6 @@ Gracias por su documentación a:
 
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
-* La parte del rey
 * El templo perdido
 * Madre de aguas
 * El yeho
