@@ -35,6 +35,7 @@ Gracias por su documentación a:
 * El Caribe danés
 * Islas Piratas
 * Cthulhu y R'lyeh
+* Esclavitud
 * Religiones
 * REVISAR QUE FALTA
 
@@ -52,7 +53,6 @@ Gracias por su documentación a:
 * El templo perdido
 * Madre de aguas
 * El yeho
-* Cuando la tierra tiembla
 * Desaparecidos
 * Nunca me habían dado todo
 * Behike
@@ -82,6 +82,7 @@ Gracias por su documentación a:
 
 ### Ver. 0.6.2 En desarrollo
 * Aventura "La parte del rey" terminada
+* Aventura "Cuando la tierra tiembla" terminada
 
 ### Ver. 0.6.1 13/08/2023
 * Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
