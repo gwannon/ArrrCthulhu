@@ -60,10 +60,7 @@ Gracias por su documentación a:
 ## Por hacer en PNJs y monstruos
 
 ### Monstruos de los mitos
-* Ordenar monstruos por orden alfabético
 * Revisar los tamaños de los seres
-* Lloigor
-* Perros de Tíndalos
 
 ### Secuaces y criaturas
 * Embarcaciones avanzadas
@@ -83,6 +80,7 @@ Gracias por su documentación a:
 ### Ver. 0.6.2 En desarrollo
 * Aventura "La parte del rey" terminada
 * Aventura "Cuando la tierra tiembla" terminada
+* Monstruo terminado: Sabuesos de Tíndalos, Lloigor
 
 ### Ver. 0.6.1 13/08/2023
 * Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
