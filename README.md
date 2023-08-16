@@ -32,7 +32,6 @@ Gracias por su documentación a:
 * El Caribe español
 * El Caribe inglés
 * El Caribe francés
-* El Caribe danés
 * Islas Piratas
 * Cthulhu y R'lyeh
 * Esclavitud
