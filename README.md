@@ -72,8 +72,8 @@ Gracias por su documentación a:
 * Cesar (comodín) 
 * Hernando de Villalba (comodín)
 * Barón Samedí (comodín)
-* Aurora y Flora (comodín)
-* Meter a todos los personajes Transfondo Arcano (Hechicería primigenia) y revisar sus idiomas
+*  (comodín)
+* Meter a todos los personajes Trasfondo Arcano (Hechicería primigenia) y revisar sus idiomas
 
 ## Versiones
 
@@ -81,6 +81,7 @@ Gracias por su documentación a:
 * Aventura "La parte del rey" terminada
 * Aventura "Cuando la tierra tiembla" terminada
 * Monstruo terminado: Sabuesos de Tíndalos, Lloigor
+* Personajes acabados: Aurora y Flora
 
 ### Ver. 0.6.1 13/08/2023
 * Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
@@ -117,7 +118,7 @@ Gracias por su documentación a:
 * Aventura "La tortuga" terminada
 * Aventura "Contrabando de ron" terminada
 * Aventura "El primogénito García" terminada
-* Aventura "El segundogenito García" terminada
+* Aventura "El segundogénito García" terminada
 * Personajes acabados: Ceiba
 * Monstruo nuevo: Zombi
 * Nuevas localizaciones: La Taberna, El retrato del capitán, Colegio de San José
@@ -125,7 +126,7 @@ Gracias por su documentación a:
 * Arreglos HTML
 
 ### Ver. 0.5.3 13/07/2023
-* Monstruos acabados: Lider profundo, Cacique profundo
+* Monstruos acabados: Líder profundo, Cacique profundo
 * Personajes acabados: Fabio Castelli, Cacique Pando, Cacique Corozo
 * Aventura "Muerte Súbita" terminada
 
