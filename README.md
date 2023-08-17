@@ -9,7 +9,7 @@ https://arrrcthulhu.com/pdf/ Versión PDF
 
 A "Bebe a Mordor" https://twitter.com/bebeamordor por sus consejos de lenguaje inclusivo https://bebeamordor.com/comunicacion-inclusiva-redaccion-manuales-juegos/.
 
-También a "Miss Launnister" https://twitter.com/Miss_Launnister por sus consejos https://bastionrolero.blogspot.com/2019/04/el-lenguaje-inclusivo-en-nuestros.html Entre ambos he tratado de hacer un mix y aplicarlo lo mejor posible a mis textos. No es facil pero merece la pena.
+También a "Miss Launnister" https://twitter.com/Miss_Launnister por sus consejos https://bastionrolero.blogspot.com/2019/04/el-lenguaje-inclusivo-en-nuestros.html Entre ambos he tratado de hacer un mix y aplicarlo lo mejor posible a mis textos. No es fácil pero merece la pena.
 
 Juan Carlos Albarracín https://twitter.com/VengadorT y sus audiolibros de relatos de H. P. Lovecraft que tantas ideas me han dado https://www.ivoox.com/podcast-cuentos-de-la-casa-de-la-bruja_sq_f1421745_1.html
 
@@ -70,20 +70,19 @@ Gracias por su documentación a:
 * Edward Teach alias Barbanegra (comodín)
 * Cesar (comodín) 
 * Hernando de Villalba (comodín)
-* Barón Samedí (comodín)
-*  (comodín)
 * Meter a todos los personajes Trasfondo Arcano (Hechicería primigenia) y revisar sus idiomas
 
 ## Versiones
 
 ### Ver. 0.6.2 En desarrollo
+* Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
 * Aventura "La parte del rey" terminada
 * Aventura "Cuando la tierra tiembla" terminada
 * Monstruo terminado: Sabuesos de Tíndalos, Lloigor
-* Personajes acabados: Aurora y Flora
+* Personajes acabados: Aurora y Flora, Barón Samedí
 
 ### Ver. 0.6.1 13/08/2023
-* Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
+
 * Aventura "El as de picas" terminada 
 * Aventura "El tesoro de la mansión Corbitt" terminada
 * Aventura "Cazadores de huesos" terminada
