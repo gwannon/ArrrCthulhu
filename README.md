@@ -82,7 +82,6 @@ Gracias por su documentación a:
 * Personajes acabados: Aurora y Flora, Barón Samedí
 
 ### Ver. 0.6.1 13/08/2023
-
 * Aventura "El as de picas" terminada 
 * Aventura "El tesoro de la mansión Corbitt" terminada
 * Aventura "Cazadores de huesos" terminada
