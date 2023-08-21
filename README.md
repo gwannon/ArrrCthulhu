@@ -68,7 +68,6 @@ Gracias por su documentación a:
 * Ordenar personajes por orden alfabético
 * Mary Read (comodín)
 * Edward Teach alias Barbanegra (comodín)
-* Cesar (comodín) 
 * Hernando de Villalba (comodín)
 * Meter a todos los personajes Trasfondo Arcano (Hechicería primigenia) y revisar sus idiomas
 
@@ -79,7 +78,7 @@ Gracias por su documentación a:
 * Aventura "La parte del rey" terminada
 * Aventura "Cuando la tierra tiembla" terminada
 * Monstruo terminado: Sabuesos de Tíndalos, Lloigor
-* Personajes acabados: Aurora y Flora, Barón Samedí
+* Personajes acabados: Aurora y Flora, Barón Samedí, Cesar
 
 ### Ver. 0.6.1 13/08/2023
 * Aventura "El as de picas" terminada 
