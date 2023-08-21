@@ -73,7 +73,9 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 0.6.2 En desarrollo
+### Ver. 0.6.3 En desarrollo
+
+### Ver. 0.6.2 22/08/2023
 * Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
 * Aventura "La parte del rey" terminada
 * Aventura "Cuando la tierra tiembla" terminada
