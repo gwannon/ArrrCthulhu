@@ -39,7 +39,6 @@ Gracias por su documentación a:
 * REVISAR QUE FALTA
 
 ### Guía de viajes
-* Cayos de Florida
 * Cuba
 * Puerto Rico
 * Santo Domingo
@@ -74,6 +73,7 @@ Gracias por su documentación a:
 ## Versiones
 
 ### Ver. 0.6.3 En desarrollo
+* Localizaciones acabadas de las Islas Piratas.
 
 ### Ver. 0.6.2 22/08/2023
 * Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
