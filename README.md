@@ -39,7 +39,7 @@ Gracias por su documentación a:
 * REVISAR QUE FALTA
 
 ### Guía de viajes
-* Islas piratas
+* Cayos de Florida
 * Cuba
 * Puerto Rico
 * Santo Domingo
