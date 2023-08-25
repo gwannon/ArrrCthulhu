@@ -73,7 +73,7 @@ Gracias por su documentación a:
 
 ### Ver. 0.6.3 En desarrollo
 * Localizaciones acabadas de las Islas Piratas.
-* Terminadas secciones de: Religiones
+* Terminadas secciones de: Religiones, Taínos
 
 ### Ver. 0.6.2 22/08/2023
 * Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
