@@ -50,7 +50,6 @@ Gracias por su documentación a:
 * El templo perdido
 * Madre de aguas
 * El yeho
-* Desaparecidos
 * Nunca me habían dado todo
 * Behike
 
