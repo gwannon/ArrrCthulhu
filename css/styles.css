@@ -1039,6 +1039,8 @@ body {
   .map-grid {
     width: auto;
     height: calc(100vh - 30px);
+    display: block;
+    margin: auto;
   }
 
   .studio {
