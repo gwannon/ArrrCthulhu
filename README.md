@@ -47,7 +47,6 @@ Gracias por su documentación a:
 
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
-* El templo perdido
 * Madre de aguas
 * El yeho
 * Nunca me habían dado todo
@@ -73,7 +72,8 @@ Gracias por su documentación a:
 ### Ver. 0.6.3 En desarrollo
 * Localizaciones acabadas de las Islas Piratas.
 * Terminadas secciones de: Religiones, Taínos
-* Aventura "En paradero desconocido"
+* Aventura "En paradero desconocido" terminada
+* Aventura "El templo perdido" terminada
 
 ### Ver. 0.6.2 22/08/2023
 * Seguimos el desarrollo del worldbuilding en la sección de "El caribe de los Mitos"
