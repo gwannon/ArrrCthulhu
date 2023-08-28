@@ -70,6 +70,7 @@ Gracias por su documentación a:
 ## Versiones
 
 ### Ver. 0.7 En desarrollo
+* Aventura "En el Carcosa" terminada
 
 ### Ver. 0.6.3 28/08/2023
 * Localizaciones acabadas de las Islas Piratas.
