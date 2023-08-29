@@ -71,6 +71,7 @@ Gracias por su documentación a:
 
 ### Ver. 0.7 En desarrollo
 * Aventura "En el Carcosa" terminada
+* Aventura "Devil came to me" terminada
 
 ### Ver. 0.6.3 28/08/2023
 * Localizaciones acabadas de las Islas Piratas.
