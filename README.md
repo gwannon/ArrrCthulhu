@@ -27,15 +27,12 @@ Gracias por su documentación a:
 ### El caribe de los Mitos
 * La Orden del Gran Cthulhu
 * La hermandad del sargazo
-* Bahamas
-* Quisqueya y Cuba
 * El Caribe español
 * El Caribe inglés
 * El Caribe francés
 * Islas Piratas
 * Cthulhu y R'lyeh
 * Esclavitud
-* REVISAR QUE FALTA
 
 ### Guía de viajes
 * Cuba
@@ -61,17 +58,16 @@ Gracias por su documentación a:
 * Embarcaciones avanzadas
 
 ### Héroes y villanos
-* Ordenar personajes por orden alfabético
-* Mary Read (comodín)
-* Edward Teach alias Barbanegra (comodín)
-* Hernando de Villalba (comodín)
-* Meter a todos los personajes Trasfondo Arcano (Hechicería primigenia) y revisar sus idiomas
+* Mary Read
+* Edward Teach alias Barbanegra
+* Revisar el equipo y los idiomas de los comodines
 
 ## Versiones
 
 ### Ver. 0.7 En desarrollo
 * Aventura "En el Carcosa" terminada
 * Aventura "Devil came to me" terminada
+* Personajes acabados: Hernando de Villalba
 
 ### Ver. 0.6.3 28/08/2023
 * Localizaciones acabadas de las Islas Piratas.
