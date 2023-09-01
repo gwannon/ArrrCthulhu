@@ -30,6 +30,7 @@ Gracias por su documentación a:
 * El Caribe español
 * El Caribe inglés
 * El Caribe francés
+* Relaciones entre las potencias colonizadoras
 * Cthulhu y R'lyeh
 * Esclavitud
 
