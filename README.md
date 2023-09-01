@@ -40,7 +40,6 @@ Gracias por su documentación a:
 * Santo Domingo
 * Saint-Domingue
 * Jamaica
-* Bahamas
 
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
@@ -68,6 +67,7 @@ Gracias por su documentación a:
 * Aventura "En el Carcosa" terminada
 * Aventura "Devil came to me" terminada
 * Personajes acabados: Hernando de Villalba
+* Localización "Bahamas" acabada
 
 ### Ver. 0.6.3 28/08/2023
 * Localizaciones acabadas de las Islas Piratas.
