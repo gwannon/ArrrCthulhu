@@ -37,7 +37,6 @@ Gracias por su documentación a:
 ### Guía de viajes
 * Cuba
 * Puerto Rico
-* Santo Domingo
 * Saint-Domingue
 * Jamaica
 
@@ -68,6 +67,7 @@ Gracias por su documentación a:
 * Aventura "Devil came to me" terminada
 * Personajes acabados: Hernando de Villalba
 * Localización "Bahamas" acabada
+* Localización "Santo Domingo" acabada
 * Descripción de las Islas Piratas terminada
 
 ### Ver. 0.6.3 28/08/2023
