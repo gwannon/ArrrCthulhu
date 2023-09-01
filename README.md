@@ -30,7 +30,6 @@ Gracias por su documentación a:
 * El Caribe español
 * El Caribe inglés
 * El Caribe francés
-* Islas Piratas
 * Cthulhu y R'lyeh
 * Esclavitud
 
@@ -68,6 +67,7 @@ Gracias por su documentación a:
 * Aventura "Devil came to me" terminada
 * Personajes acabados: Hernando de Villalba
 * Localización "Bahamas" acabada
+* Descripción de las Islas Piratas terminada
 
 ### Ver. 0.6.3 28/08/2023
 * Localizaciones acabadas de las Islas Piratas.
