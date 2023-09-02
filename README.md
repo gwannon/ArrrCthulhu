@@ -38,7 +38,6 @@ Gracias por su documentación a:
 * Cuba
 * Puerto Rico
 * Saint-Domingue
-* Jamaica
 
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
@@ -68,6 +67,7 @@ Gracias por su documentación a:
 * Personajes acabados: Hernando de Villalba
 * Localización "Bahamas" acabada
 * Localización "Santo Domingo" acabada
+* Localización "Jamaica" acabada
 * Descripción de las Islas Piratas terminada
 
 ### Ver. 0.6.3 28/08/2023
