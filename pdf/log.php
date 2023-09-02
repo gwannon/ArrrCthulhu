@@ -15,7 +15,9 @@ $bots = [
   "AhrefsBot/7.0",
   "YandexBot/3.0",
   "Googlebot-Image/1.0",
-  "IonCrawl"
+  "IonCrawl",
+  "SemrushBot/7",
+  "help@dataminr.com"
 ];
 $json = [];
 $lines = explode("\n", file_get_contents (__DIR__."/log-".date("W").".txt"));

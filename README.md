@@ -51,9 +51,6 @@ Gracias por su documentación a:
 ### Monstruos de los mitos
 * Revisar los tamaños de los seres
 
-### Secuaces y criaturas
-* Embarcaciones avanzadas
-
 ### Héroes y villanos
 * Mary Read
 * Edward Teach alias Barbanegra
@@ -61,7 +58,9 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 0.7 En desarrollo
+### Ver. 0.7.1 En desarrollo
+
+### Ver. 0.7 02/09/2023
 * Aventura "En el Carcosa" terminada
 * Aventura "Devil came to me" terminada
 * Personajes acabados: Hernando de Villalba
@@ -69,6 +68,7 @@ Gracias por su documentación a:
 * Localización "Santo Domingo" acabada
 * Localización "Jamaica" acabada
 * Descripción de las Islas Piratas terminada
+* Terminada sección de "Embarcaciones avanzadas"
 
 ### Ver. 0.6.3 28/08/2023
 * Localizaciones acabadas de las Islas Piratas.
