@@ -59,6 +59,7 @@ Gracias por su documentación a:
 ## Versiones
 
 ### Ver. 0.7.1 En desarrollo
+* Localización "Ponce" acabada
 
 ### Ver. 0.7 02/09/2023
 * Aventura "En el Carcosa" terminada
