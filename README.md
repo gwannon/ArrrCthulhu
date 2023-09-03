@@ -42,7 +42,6 @@ Gracias por su documentación a:
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
 * Madre de aguas
-* El yeho
 * Nunca me habían dado todo
 * Behike
 
@@ -60,6 +59,7 @@ Gracias por su documentación a:
 
 ### Ver. 0.7.1 En desarrollo
 * Localización "Ponce" acabada
+* Aventura "El yeho" terminada
 
 ### Ver. 0.7 02/09/2023
 * Aventura "En el Carcosa" terminada
