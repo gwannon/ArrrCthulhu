@@ -32,7 +32,6 @@ Gracias por su documentación a:
 * El Caribe francés
 * Relaciones entre las potencias colonizadoras
 * Cthulhu y R'lyeh
-* Esclavitud
 
 ### Guía de viajes
 * Cuba
@@ -60,6 +59,7 @@ Gracias por su documentación a:
 ### Ver. 0.7.1 En desarrollo
 * Localización "Ponce" acabada
 * Aventura "El yeho" terminada
+* Terminada la sección de "Esclavitud y trabajos forzados"
 
 ### Ver. 0.7 02/09/2023
 * Aventura "En el Carcosa" terminada
