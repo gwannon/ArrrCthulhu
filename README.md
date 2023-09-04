@@ -40,7 +40,6 @@ Gracias por su documentación a:
 
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
-* Madre de aguas
 * Nunca me habían dado todo (DETENIDA)
 * Behike (DETENIDA)
 
@@ -59,6 +58,7 @@ Gracias por su documentación a:
 ### Ver. 0.7.1 En desarrollo
 * Localización "Ponce" acabada
 * Aventura "El yeho" terminada
+* Aventura "Madre de aguas" terminada
 * Terminada la sección de "Esclavitud y trabajos forzados"
 
 ### Ver. 0.7 02/09/2023
