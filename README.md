@@ -41,8 +41,8 @@ Gracias por su documentación a:
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
 * Madre de aguas
-* Nunca me habían dado todo
-* Behike
+* Nunca me habían dado todo (DETENIDA)
+* Behike (DETENIDA)
 
 ## Por hacer en PNJs y monstruos
 
