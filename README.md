@@ -40,6 +40,7 @@ Gracias por su documentación a:
 
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
+* Escapando del Morro
 * Nunca me habían dado todo (DETENIDA)
 * Behike (DETENIDA)
 
