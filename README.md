@@ -30,13 +30,11 @@ Gracias por su documentación a:
 * El Caribe español
 * El Caribe inglés
 * El Caribe francés
-* Relaciones entre las potencias colonizadoras
-* Cthulhu y R'lyeh
 
 ### Guía de viajes
-* Cuba
+* Matanzas 
+* Santiago de Cuba
 * Puerto Rico
-* Saint-Domingue
 
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
