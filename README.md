@@ -48,14 +48,13 @@ Gracias por su documentación a:
 * Revisar los tamaños de los seres
 
 ### Héroes y villanos
-* Mary Read
-* Edward Teach alias Barbanegra
 * Revisar el equipo y los idiomas de los comodines
 
 ## Versiones
 
 ### Ver. 0.7.1 En desarrollo
 * Varias localizaciones menores acabadas
+* Personajes acabados: Mary Read, Edward Teach alias Barbanegra
 * Linea argumental general de "EL tesoro hundido" creada
 * Aventura "El yeho" terminada
 * Terminada la sección de "Esclavitud y trabajos forzados"
