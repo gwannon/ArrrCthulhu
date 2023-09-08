@@ -32,13 +32,13 @@ Gracias por su documentación a:
 * El Caribe francés
 
 ### Guía de viajes
-* Matanzas 
 * Santiago de Cuba
 * Puerto Rico
 
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
 * Escapando del Morro
+* Madre de aguas
 * Nunca me habían dado todo (DETENIDA)
 * Behike (DETENIDA)
 
@@ -55,9 +55,9 @@ Gracias por su documentación a:
 ## Versiones
 
 ### Ver. 0.7.1 En desarrollo
-* Localización "Ponce" acabada
+* Varias localizaciones menores acabadas
+* Linea argumental general de "EL tesoro hundido" creada
 * Aventura "El yeho" terminada
-* Aventura "Madre de aguas" terminada
 * Terminada la sección de "Esclavitud y trabajos forzados"
 
 ### Ver. 0.7 02/09/2023
