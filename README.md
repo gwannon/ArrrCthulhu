@@ -52,7 +52,9 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 0.7.1 En desarrollo
+## Ver. 0.8
+
+### Ver. 0.7.1 08/09/2023
 * Varias localizaciones menores acabadas
 * Personajes acabados: Mary Read, Edward Teach alias Barbanegra
 * Linea argumental general de "EL tesoro hundido" creada
