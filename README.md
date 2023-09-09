@@ -52,7 +52,7 @@ Gracias por su documentación a:
 
 ## Versiones
 
-## Ver. 0.8
+### Ver. 0.8 En desarrollo
 
 ### Ver. 0.7.1 08/09/2023
 * Varias localizaciones menores acabadas
