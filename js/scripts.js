@@ -1,6 +1,6 @@
 $(document).ready(function () {
   var counter = 0;
-  let step = 55;
+  let step = 57;
   var currentDiv = 1;
       
   $("body>section:nth-of-type(3) h1, body>section:nth-of-type(3) h2, body>section:nth-of-type(3) h3 /*, body>section:nth-of-type(3) h4, body>section:nth-of-type(3) h5*/")
@@ -17,7 +17,7 @@ $(document).ready(function () {
 
 
   counter = 0;
-  step = 55;
+  step = 57;
   currentDiv = 1;
   $("body>section:nth-of-type(4) div:nth-of-type("+currentDiv+")").append('<p class="likeH1">Tablas</p>');
   $("body>section:nth-of-type(3) table thead tr:first-of-type th:first-of-type")
