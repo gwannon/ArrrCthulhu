@@ -53,6 +53,8 @@ Gracias por su documentación a:
 ## Versiones
 
 ### Ver. 0.8 En desarrollo
+* Localización "Cuba" acabada
+* Secuaces de corte cultistas creados
 
 ### Ver. 0.7.1 08/09/2023
 * Varias localizaciones menores acabadas
