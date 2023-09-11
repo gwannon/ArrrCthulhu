@@ -32,7 +32,6 @@ Gracias por su documentación a:
 * El Caribe francés
 
 ### Guía de viajes
-* Santiago de Cuba
 * Puerto Rico
 
 ## Por hacer en Relatos salvajes
