@@ -28,8 +28,6 @@ Gracias por su documentación a:
 * La Orden del Gran Cthulhu
 * La hermandad del sargazo
 * El Caribe español
-* El Caribe inglés
-* El Caribe francés
 
 ### Guía de viajes
 * Puerto Rico
@@ -52,6 +50,8 @@ Gracias por su documentación a:
 ## Versiones
 
 ### Ver. 0.8 En desarrollo
+* El Caribe inglés terminado
+* El Caribe francés terminado
 * Localización "Cuba" acabada
 * Secuaces de corte cultistas creados
 
