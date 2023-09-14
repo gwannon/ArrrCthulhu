@@ -26,7 +26,6 @@ Gracias por su documentación a:
 ## Por hacer en Ambientación
 ### El caribe de los Mitos
 * La Orden del Gran Cthulhu
-* La hermandad del sargazo
 * El Caribe español
 
 ### Guía de viajes
@@ -52,6 +51,7 @@ Gracias por su documentación a:
 ### Ver. 0.8 En desarrollo
 * El Caribe inglés terminado
 * El Caribe francés terminado
+* La hermandad del sargazo terminado
 * Localización "Cuba" acabada
 * Secuaces de corte cultistas creados
 
