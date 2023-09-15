@@ -48,7 +48,9 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 0.8 En desarrollo
+### Ver. 0.8.1 En desarrollo
+
+### Ver. 0.8 15/09/2023
 * El Caribe inglés terminado
 * El Caribe francés terminado
 * La hermandad del sargazo terminado
