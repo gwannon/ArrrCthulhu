@@ -26,10 +26,6 @@ Gracias por su documentación a:
 ## Por hacer en Ambientación
 ### El caribe de los Mitos
 * La Orden del Gran Cthulhu
-* El Caribe español
-
-### Guía de viajes
-* Puerto Rico
 
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
@@ -49,6 +45,8 @@ Gracias por su documentación a:
 ## Versiones
 
 ### Ver. 0.8.1 En desarrollo
+* El Caribe inglés terminado
+* Localización "Puerto Rico" acabada
 
 ### Ver. 0.8 15/09/2023
 * El Caribe inglés terminado
