@@ -39,8 +39,8 @@ Gracias por su documentación a:
 ### Monstruos de los mitos
 * Revisar los tamaños de los seres
 
-### Héroes y villanos
-* Revisar el equipo y los idiomas de los comodines
+### Quién es quién en el Caribe
+* Revisar el equipo y los idiomas
 
 ## Versiones
 
