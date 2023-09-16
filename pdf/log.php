@@ -19,7 +19,8 @@ $bots = [
   "SemrushBot/7",
   "help@dataminr.com",
   "BW/1.1",
-  "Mastodon/4"
+  "Mastodon/4",
+  "Bytespider"
 ];
 $json = [];
 $lines = explode("\n", file_get_contents (__DIR__."/log-".date("W").".txt"));
