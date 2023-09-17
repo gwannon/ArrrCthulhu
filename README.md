@@ -23,10 +23,6 @@ Gracias por su documentación a:
 * http://www.sectarios.org/
 * https://amor-de-otro-mundo.fandom.com/es/wiki/Wiki_Amor_de_Otro_Mundo
 
-## Por hacer en Ambientación
-### El caribe de los Mitos
-* La Orden del Gran Cthulhu
-
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
 * Escapando del Morro
@@ -44,8 +40,11 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 0.8.1 En desarrollo
+### Ver. 0.9 En desarrollo
+
+### Ver. 0.8.1 17/09/2023
 * El Caribe inglés terminado
+* La Orden del Gran Cthulhu terminado
 * Localización "Puerto Rico" acabada
 
 ### Ver. 0.8 15/09/2023
