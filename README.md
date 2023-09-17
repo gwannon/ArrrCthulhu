@@ -26,12 +26,10 @@ Gracias por su documentación a:
 ## Por hacer en Relatos salvajes
 * El tesoro hundido
 * Escapando del Morro
-* Madre de aguas
 * Nunca me habían dado todo (DETENIDA)
 * Behike (DETENIDA)
 
 ## Por hacer en PNJs y monstruos
-
 ### Monstruos de los mitos
 * Revisar los tamaños de los seres
 
@@ -41,6 +39,7 @@ Gracias por su documentación a:
 ## Versiones
 
 ### Ver. 0.9 En desarrollo
+* Aventura "Madre de aguas" terminada
 
 ### Ver. 0.8.1 17/09/2023
 * El Caribe inglés terminado
