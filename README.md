@@ -38,8 +38,11 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 0.9 En desarrollo
+### Ver. 1.0 En desarrollo
+
+### Ver. 0.9 24/09/2023
 * Aventura "Madre de aguas" terminada
+* Aventura "El tesoro hundido" terminada
 
 ### Ver. 0.8.1 17/09/2023
 * El Caribe inglés terminado
