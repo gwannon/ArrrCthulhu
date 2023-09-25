@@ -20,6 +20,8 @@ $bots = [
   "help@dataminr.com",
   "BW/1.1",
   "Mastodon/4",
+  "Mastodon/3",
+  "craftopi.art",
   "Bytespider"
 ];
 $json = [];
