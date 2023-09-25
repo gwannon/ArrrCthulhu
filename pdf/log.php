@@ -22,7 +22,8 @@ $bots = [
   "Mastodon/4",
   "Mastodon/3",
   "craftopi.art",
-  "Bytespider"
+  "Bytespider",
+  "Pleroma 2"
 ];
 $json = [];
 $lines = explode("\n", file_get_contents (__DIR__."/log-".date("W").".txt"));
