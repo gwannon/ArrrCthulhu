@@ -25,7 +25,8 @@ $bots = [
   "Bytespider",
   "Pleroma 2",
   "Akkoma 3",
-  "TelegramBot"
+  "TelegramBot",
+  "BLEXBot/1.0"
 ];
 $json = [];
 $lines = explode("\n", file_get_contents (__DIR__."/log-".date("W").".txt"));
