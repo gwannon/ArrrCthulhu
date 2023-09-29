@@ -31,17 +31,17 @@ $bots = [
 ];
 
 $ips = [];
-$json = ["descargas" => 0];
+$json["total"] = 0;
 $lines = explode("\n", file_get_contents (__DIR__."/log-".date("W").".txt"));
 foreach ($lines as $line) {
   if($line != '') {
     $fields =  explode("|", $line);
     $last_key = array_key_last($fields);
     if ( !preg_match('('.implode('|',$bots).')', $fields[$last_key])) {
-      $json[] = $fields;
+      $json["descargas"][] = $fields;
       if(!in_array($fields[1], $ips)) {
         $ips[] = $fields[1];
-        $json['descargas'] ++;
+        $json['total'] ++;
       }
     }
   }
