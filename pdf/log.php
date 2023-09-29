@@ -15,6 +15,7 @@ $bots = [
   "AhrefsBot/7.0",
   "YandexBot/3.0",
   "Googlebot-Image/1.0",
+  "Googlebot/2",
   "IonCrawl",
   "SemrushBot/7",
   "help@dataminr.com",
