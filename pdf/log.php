@@ -47,4 +47,5 @@ foreach ($lines as $line) {
   }
 }
 header('Content-Type: application/json; charset=utf-8');
-echo json_encode(array_reverse($json));
+$json["descargas"] = array_reverse($json["descargas"]);
+echo json_encode($json);
