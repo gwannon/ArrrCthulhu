@@ -15,7 +15,9 @@ Juan Carlos Albarracín https://twitter.com/VengadorT y sus audiolibros de relat
 
 desarrolloweb.com y su sistema de salto de páginas al imprimir https://desarrolloweb.com/articulos/saltos-pagina-imprimir-css.html
 
-El listado de insultos piratas son de http://www.robertexto.com/archivo17/insultos.htm
+A atlasobscura.com https://www.atlasobscura.com/ por la gran cantidad de sitios inusuales en el Caribe que me han servido para ambientar las aventuras.
+
+El listado de insultos piratas es de http://www.robertexto.com/archivo17/insultos.htm
 
 Gracias por su documentación a:
 * https://hplovecraft.fandom.com/
@@ -24,8 +26,6 @@ Gracias por su documentación a:
 * https://amor-de-otro-mundo.fandom.com/es/wiki/Wiki_Amor_de_Otro_Mundo
 
 ## Por hacer en Relatos salvajes
-* El tesoro hundido
-* Escapando del Morro
 * Nunca me habían dado todo (DETENIDA)
 * Behike (DETENIDA)
 
@@ -37,8 +37,12 @@ Gracias por su documentación a:
 * Revisar el equipo y los idiomas
 
 ## Versiones
+### Ver. 1.0.1 En desarrollo
+* Corrección de miles de faltas de ortografía
 
-### Ver. 1.0 En desarrollo
+### Ver. 1.0 28/09/2023
+* Aventura "El tesoro hundido" terminada
+* Aventura "Escapando del Morro" terminada
 
 ### Ver. 0.9 24/09/2023
 * Aventura "Madre de aguas" terminada
