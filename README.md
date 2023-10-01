@@ -39,6 +39,7 @@ Gracias por su documentación a:
 ## Versiones
 ### Ver. 1.0.1 En desarrollo
 * Corrección de miles de faltas de ortografía
+* Indice PDF
 
 ### Ver. 1.0 28/09/2023
 * Aventura "El tesoro hundido" terminada
