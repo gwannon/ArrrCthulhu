@@ -31,7 +31,7 @@ $json = json_decode(file_get_contents("http://ip-api.com/json/".$ip));
 
 //echo date("Y-m-d H:i:s")."|".$ip."|".$_SERVER['HTTP_USER_AGENT'];
 
-$f=fopen(__DIR__."/log-".date("W").".txt", "a+");
+$f=fopen(__DIR__."/log.txt", "a+");
 fwrite($f, date("Y-m-d H:i:s")."|".
   $ip."|".
   $_SERVER['HTTP_REFERER']."|".

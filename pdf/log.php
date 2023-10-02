@@ -35,7 +35,7 @@ $bots = [
 
 $ips = [];
 $json["total"] = 0;
-$lines = explode("\n", file_get_contents (__DIR__."/log-".date("W").".txt"));
+$lines = explode("\n", file_get_contents (__DIR__."/log.txt"));
 foreach ($lines as $line) {
   if($line != '') {
     $fields =  explode("|", $line);
