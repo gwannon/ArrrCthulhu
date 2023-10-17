@@ -2,7 +2,7 @@ Portada,1,1
 Licencia,1,2
 Índice,1,1
 El Caribe de los Mitos,1,3
-Bienvenidos al Caribe de 1722,2,0
+Bienvenidos al Caribe de 1722,2,1
 La Orden del Gran Cthulhu,2,2
 La Hermandad del Sargazo,2,9
 "Quisqueya, Boriquén, Jamaica y Cuba",2,6
@@ -14,52 +14,103 @@ Relaciones entre las potencias colonizadoras,2,0
 Islas Piratas,2,1
 Cthulhu y R'lyeh,2,3
 Los profundos del Caribe,2,2
-Esclavitud y trabajos forzados,2,2
-Religiones,2,2
-"Archivos, bibliotecas y universidades",2,2
+Esclavitud y trabajos forzados,2,5
+Religiones,2,3
+"Archivos, bibliotecas y universidades",2,1
 Reglas de ambientación,1,2
-Creación de personajes,2,0
-Nuevas habilidades,2,2
+Creación de personajes,2,1
+Nuevas habilidades,2,1
 Nuevas desventajas,2,3
-Nuevas ventajas,2,3
+Nuevas ventajas,2,4
 Benis,2,4
 Equipo,2,1
 Embarcaciones,2,4
-Horror y cordura,2,11
+Embarcaciones avanzadas,2,10
+Horror y cordura,2,4
 Hechicería primigenia,2,5
 Combate naval,2,29
 Comercio,2,2
-Botín y tesoro,3,4
+Botín y tesoro,2,4
 Riquezas,3,1
-Objetos extraordinarios,3,1
+Objetos extraordinarios,3,0
 Objetos más allá del tiempo y el espacio,3,10
-Viajes y encuentros,2,9
+Viajes y encuentros,2,8
 Tiempo atmosférico durante los viajes,3,1
 Encuentros en el mar,3,3
 Encuentros en la jungla,3,3
 Perdidos en el tiempo y el espacio,3,4
-Noticias de La verdad de La Habana,2,2
-Guía de viajes,1,5
-Islas piratas,2,0
-Cuba,2,0
-Puerto Rico,2,0
-Santo Domingo,2,0
-Saint-Domingue,2,0
-Jamaica,2,0
-Bahamas,2,0
-La verdad de La Habana,2,4
+Guía de viajes,1,3
+Islas piratas,2,1
+Cuba,2,7
+Puerto Rico,2,17
+Santo Domingo,2,5
+Saint-Domingue,2,5
+Jamaica,2,2
+Bahamas,2,5
+La verdad de La Habana,2,5
 Mary Read y la Verdad de La Habana,3,1
-Noticias de La verdad de La Habana,3,2
-Viajes en el tiempo,2,0
-Volcanes en el Caribe,2,0
-"Rumores, chismes y pueblerinos supersticiosos",2,0
-Línea de tiempo,2,0
-Historias salvajes,1,52
+Noticias de La verdad de La Habana,3,0
+Viajes en el tiempo,2,4
+Volcanes en el Caribe,2,2
+"Rumores, chismes y pueblerinos supersticiosos",2,1
+Línea de tiempo,2,1
+Historias salvajes,1,2
 El tesoro hundido,2,0
-El secreto tatuado,2,42
-Otras historias salvajes,2,15
-Monstruos de los Mitos,1,83
-Combatiendo a los Primigenios,2,0
+En el Carcosa,3,0
+Devil came to me,3,0
+La enseña pirata del perro,3,0
+Haciéndose un nombre,3,0
+Trabajando para la hermandad,3,0
+Entrando en la hermandad,3,0
+Misión submarina,3,0
+Droga plutónica,3,0
+La subasta,3,0
+La fiesta de disfraces,3,0
+Consumo recreativo de droga plutónica,3,0
+El enigma de los Antiguos,3,0
+A 8.000 metros de profundidad,3,0
+Mar antigua,3,0
+Malas noticias,3,0
+Infiltración,3,0
+Archivos y bibliotecas,3,0
+El plan,3,0
+Formas de impedir el plan,3,0
+Los aguafiestas,3,0
+Mata y remata,3,0
+Reuniendo tus fuerzas,3,0
+La batalla final,3,0
+El secreto tatuado,2,43
+El primogénito García,3,0
+El segundogénito García,3,0
+El benjamín de la familia García,3,0
+El intercambio,3,0
+Descifrando el mapa,3,0
+La búsqueda del tesoro,3,0
+Tratos con el demonio,3,0
+Otras historias salvajes,2,14
+La tortuga,3,0
+Contrabando de ron,3,0
+La noche de San Juan,3,0
+Abandonado a su suerte,3,0
+La isla de Tekeli-li,3,0
+El Susurros,3,0
+Repartidores,3,0
+Primera plana,3,0
+El capitán de amarillo,3,0
+El as de picas,3,0
+Se buscan modelos,3,0
+Cazadores de huesos,3,0
+El tesoro de la mansión Corbitt,3,0
+Muerte súbita,3,0
+La parte del rey,3,0
+Cuando la tierra tiembla,3,0
+El templo perdido,3,0
+Madre de aguas,3,0
+El yeho,3,0
+En paradero desconocido,3,0
+Escapando del Morro,3,0
+Monstruos de los Mitos y otros enemigos,1,83
+Combatiendo a los Primigenios,2,1
 Descomposición de los cuerpos,2,1
 Byakhee,2,1
 Chthonianos,2,0
@@ -79,10 +130,10 @@ Vampiro de fuego,2,2
 El yeho,2,1
 Yithianos,2,1
 Yuggothiano,2,2
-Secuaces y criaturas,1,2
-Secuaces,2,0
-Embarcaciones avanzadas,2,8
-Animales salvajes,2,3
+Secuaces y criaturas,2,2
+Secuaces,3,1
+Animales salvajes,3,7
+Nuevos animales salvajes,3,1
 Quién es quién en el Caribe,1,3
 Mary Read,2,1
 Edward Teach alias Barbanegra,2,1
