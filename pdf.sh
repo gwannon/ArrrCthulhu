@@ -6,7 +6,10 @@ exiftool -overwrite_original -Title="¡Arrr! Cthulhu - Aventuras de piratas en e
 
 php generateIndex.php > pdf.info
 
-pdftk 'temp.pdf' update_info_utf8 'pdf.info' output 'ArrrCthulhu.pdf'
+pdftk 'temp.pdf' update_info_utf8 'pdf.info' output 'temp2.pdf'
+
+./pagination.sh temp2.pdf ArrrCthulhu.pdf
 
 rm temp.pdf
+rm temp2.pdf
 rm pdf.info
