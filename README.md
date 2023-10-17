@@ -37,7 +37,10 @@ Gracias por su documentación a:
 * Revisar el equipo y los idiomas
 
 ## Versiones
-### Ver. 1.0.1 En desarrollo
+### Ver. 1.0.2 en desarrollo
+* Paginación y mejores saltos de página
+
+### Ver. 1.0.1 17/10/2023
 * Corrección de miles de faltas de ortografía
 * Indice PDF
 
