@@ -7,73 +7,76 @@ La Orden del Gran Cthulhu,2,1
 La familia Villalba,3,1
 Hernando de Villalba,3,1
 La Real Compañía Privilegiada del Caribe,3,0
-Organigrama de la empresa,3,4
-Edward Teach alias Barbanegra,3,1
+Organigrama de la empresa,3,5
+Edward Teach alias Barbanegra,3,0
 El plan final,3,2
 La Hermandad del Sargazo,2,1
 Antecedentes,3,0
 La creación de la Hermandad,3,0
-Hasta el día de hoy,3,0
+Hasta el día de hoy,3,1
 Quiénes están dentro de la hermandad,3,0
-Derechos y ventajas,3,0
-Deberes y obligaciones,3,0
+Derechos y ventajas,3,1
+Deberes y obligaciones,3,2
 Mary Read,3,0
-¿Cuáles son sus planes?,3,0
-"Quisqueya, Boriquén, Jamaica y Cuba",2,6
+¿Cuáles son sus planes?,3,1
+"Quisqueya, Boriquén, Jamaica y Cuba",2,1
 Orígenes,3,0
 Estructura social,3,0
-Vida diaria,3,0
+Vida diaria,3,1
 Asentamientos taínos,3,0
-Contacto e interacciones con los colonos europeos,3,0
+Contacto e interacciones con los colonos europeos,3,1
 Cultura taína,3,0
-Los taínos y los Mitos,3,0
-El Caribe español,2,6
-La Española y Santo Domingo,3,0
-Cuba,3,0
-Puerto Rico,3,0
-El Caribe inglés,2,5
-Jamaica,3,0
-El Caribe francés,2,2
+Los taínos y los Mitos,3,2
+El Caribe español,2,1
+La Española y Santo Domingo,3,1
+Cuba,3,1
+Puerto Rico,3,1
+El Caribe inglés,2,2
+Jamaica,3,1
+El Caribe francés,2,1
 El Caribe danés,2,1
 Relaciones entre las potencias colonizadoras,2,0
 Islas Piratas,2,1
 La isla de la Tortuga,3,0
-Bahamas,3,0
-Los Cayos de la Florida,3,0
+Bahamas,3,1
+Los Cayos de la Florida,3,1
 Islas Caimán,3,0
-Cthulhu y R'lyeh,2,3
-El gran y poderoso Cthulhu,3,0
+Cthulhu y R'lyeh,2,1
+El gran y poderoso Cthulhu,3,1
 R'lyeh,3,0
-Otros primigenios y seres de los Mitos,3,0
-Los profundos del Caribe,2,2
-Las tribus,3,0
-Los tres grandes caciques,3,0
+Otros primigenios y seres de los Mitos,3,1
+Los profundos del Caribe,2,0
+Las tribus,3,1
+Los tres grandes caciques,3,1
 Sociedad y cultura,3,0
-Relaciones con los humanos,3,0
-Cómo usarlos,3,0
-Esclavitud y trabajos forzados,2,5
+Relaciones con los humanos,3,1
+Cómo usarlos,3,1
+Esclavitud y trabajos forzados,2,1
 Esclavitud,3,0
-Trabajos forzados,3,0
-Cimarrones,3,0
-Religiones,2,3
+Trabajos forzados,3,1
+Cimarrones,3,1
+Religiones,2,1
 Religión taína,3,0
 Cultos de origen africano,3,0
-Cristianismo,3,0
-"Archivos, bibliotecas y universidades",2,1
+Cristianismo,3,1
+"Archivos, bibliotecas y universidades",2,0
 Universidades,3,0
-Archivos y bibliotecas,3,0
-Reglas de ambientación,1,2
+Archivos y bibliotecas,3,1
+Reglas de ambientación,1,1
 Creación de personajes,2,1
+Ideas de personajes,3,0
 Nuevas habilidades,2,1
 Nuevas desventajas,2,3
 Nuevas ventajas,2,4
-Benis,2,4
+Benis,2,3
 Equipo,2,1
-Embarcaciones,2,4
-Embarcaciones avanzadas,2,10
-Horror y cordura,2,4
-Hechicería primigenia,2,5
-Combate naval,2,29
+Armas,3,0
+Protecciones,3,3
+Embarcaciones,2,1
+Embarcaciones avanzadas,2,11
+Horror y cordura,2,3
+Hechicería primigenia,2,4
+Combate naval,2,30
 Comercio,2,2
 Botín y tesoro,2,4
 Riquezas,3,1
@@ -86,111 +89,133 @@ Encuentros en la jungla,3,3
 Perdidos en el tiempo y el espacio,3,4
 Guía de viajes,1,3
 Islas piratas,2,1
-Cuba,2,7
-Puerto Rico,2,17
-Santo Domingo,2,5
-Saint-Domingue,2,5
-Jamaica,2,2
-Bahamas,2,5
-La verdad de La Habana,2,5
+Isla de la Tortuga,3,0
+Cayos de Florida,3,2
+Islas Caimán,3,3
+Cuba,2,2
+La Habana,3,0
+Matanzas,3,12
+Santiago de Cuba,3,3
+Otros lugares de Cuba,3,1
+Puerto Rico,2,1
+San Juan,3,0
+Ponce,3,2
+Otros lugares de Puerto Rico,3,3
+Santo Domingo,2,0
+Santo Domingo,3,1
+Otros lugares de Santo Domingo,3,2
+Saint-Domingue,2,2
+Hôpital,3,0
+Fét Gede,3,1
+Jamaica,2,1
+Kingston,3,0
+Port Royal,3,2
+Bahamas,2,3
+Nueva Providencia,3,1
+Otros lugares de las Bahamas,3,3
+La verdad de La Habana,2,1
 Mary Read y la Verdad de La Habana,3,1
 Noticias de La verdad de La Habana,3,0
 Viajes en el tiempo,2,4
-Volcanes en el Caribe,2,2
-"Rumores, chismes y pueblerinos supersticiosos",2,1
+Métodos de viaje,3,0
+Reglas,3,1
+Volcanes en el Caribe,2,1
+El área volcánica de las Antillas Menores,3,0
+Volcanes sub-acuáticos,3,1
+"Rumores, chismes y pueblerinos supersticiosos",2,0
 Línea de tiempo,2,1
 Historias salvajes,1,2
-El tesoro hundido,2,0
-En el Carcosa,3,0
-Devil came to me,3,0
-La enseña pirata del perro,3,0
-Haciéndose un nombre,3,0
+El tesoro hundido,2,1
+En el Carcosa,3,1
+Devil came to me,3,5
+La enseña pirata del perro,3,1
+Haciéndose un nombre,3,1
 Trabajando para la hermandad,3,0
-Entrando en la hermandad,3,0
+Entrando en la hermandad,3,6
 Misión submarina,3,0
-Droga plutónica,3,0
-La subasta,3,0
-La fiesta de disfraces,3,0
-Consumo recreativo de droga plutónica,3,0
-El enigma de los Antiguos,3,0
-A 8.000 metros de profundidad,3,0
-Mar antigua,3,0
-Malas noticias,3,0
-Infiltración,3,0
-Archivos y bibliotecas,3,0
-El plan,3,0
-Formas de impedir el plan,3,0
+Droga plutónica,3,2
+La subasta,3,1
+La fiesta de disfraces,3,1
+Consumo recreativo de droga plutónica,3,4
+El enigma de los Antiguos,3,1
+A 8.000 metros de profundidad,3,1
+Mar antigua,3,1
+Malas noticias,3,2
+Infiltración,3,1
+Archivos y bibliotecas,3,2
+El plan,3,1
+Formas de impedir el plan,3,2
 Los aguafiestas,3,0
-Mata y remata,3,0
-Reuniendo tus fuerzas,3,0
-La batalla final,3,0
-El secreto tatuado,2,43
+Mata y remata,3,4
+Reuniendo tus fuerzas,3,1
+La batalla final,3,1
+El secreto tatuado,2,3
 El primogénito García,3,0
-El segundogénito García,3,0
-El benjamín de la familia García,3,0
-El intercambio,3,0
-Descifrando el mapa,3,0
-La búsqueda del tesoro,3,0
+El segundogénito García,3,1
+El benjamín de la familia García,3,4
+El intercambio,3,2
+Descifrando el mapa,3,2
+La búsqueda del tesoro,3,1
 Tratos con el demonio,3,0
-Otras historias salvajes,2,14
+Otras historias salvajes,2,5
 La tortuga,3,0
-Contrabando de ron,3,0
-La noche de San Juan,3,0
-Abandonado a su suerte,3,0
-La isla de Tekeli-li,3,0
-El Susurros,3,0
-Repartidores,3,0
-Primera plana,3,0
-El capitán de amarillo,3,0
-El as de picas,3,0
-Se buscan modelos,3,0
-Cazadores de huesos,3,0
-El tesoro de la mansión Corbitt,3,0
-Muerte súbita,3,0
-La parte del rey,3,0
-Cuando la tierra tiembla,3,0
-El templo perdido,3,0
-Madre de aguas,3,0
-El yeho,3,0
-En paradero desconocido,3,0
-Escapando del Morro,3,0
-Monstruos de los Mitos y otros enemigos,1,83
+Contrabando de ron,3,3
+La noche de San Juan,3,3
+Abandonado a su suerte,3,2
+La isla de Tekeli-li,3,2
+El Susurros,3,2
+Repartidores,3,3
+Primera plana,3,1
+El capitán de amarillo,3,1
+El as de picas,3,7
+Se buscan modelos,3,1
+Cazadores de huesos,3,7
+El tesoro de la mansión Corbitt,3,7
+Muerte súbita,3,7
+La parte del rey,3,6
+Cuando la tierra tiembla,3,5
+El templo perdido,3,7
+Madre de aguas,3,6
+El yeho,3,1
+En paradero desconocido,3,5
+Escapando del Morro,3,4
+Monstruos de los Mitos y otros enemigos,1,4
 Combatiendo a los Primigenios,2,1
 Descomposición de los cuerpos,2,0
-Byakhee,2,2
-Chthonianos,2,0
+Byakhee,2,1
+Chthonianos,2,1
 Gugos,2,1
-Gules,2,1
+Gules,2,0
 Lengnita,2,1
 Lloigor,2,1
 Madre de aguas,2,2
-Noctivago demacrado,2,0
-Pólipos volantes,2,2
+Noctivago demacrado,2,1
+Pólipos volantes,2,1
 Profundo,2,1
 Retoño oscuro,2,3
 Sabuesos de Tíndalos,2,1
-Serpigente,2,1
-Shoggoth,2,2
+Serpigente,2,2
+Shoggoth,2,1
 Vampiro de fuego,2,2
 El yeho,2,1
 Yithianos,2,1
 Yuggothiano,2,2
 Secuaces y criaturas,2,2
 Secuaces,3,1
-Animales salvajes,3,6
-Nuevos animales salvajes,3,1
+Animales salvajes,3,7
+Nuevos animales salvajes,3,0
 Quién es quién en el Caribe,1,3
 Mary Read,2,1
 Edward Teach alias Barbanegra,2,1
 Hernando de Villalba,2,1
 César,2,1
-Hermanos García,2,1
+Hermanos García,2,2
 Avatares,2,3
 Johanna Ribeiro,2,4
 Maestre Arturo Gandía,2,1
 Antoine Delapore,2,1
-Ernesto Delapore,2,1
-Fabio Castelli,2,0
+Ernesto Delapore,2,0
+Fabio Castelli,2,1
 Michelle LeCourt,2,1
 Isadora de la Guía y Arango,2,2
 Ifá,2,1
@@ -202,20 +227,20 @@ Dupont,2,1
 Onofre de las Torres/Balua'k,2,1
 Aurora y Flora Esteban,2,1
 Dando color a las aventuras,1,1
-Costumbres piratas,2,0
+Costumbres piratas,2,1
 Supersticiones marineras y piratas,2,1
 Vida en un barco pirata,2,1
-Insultos piratas,2,1
+Insultos piratas,2,0
 Código de conducta pirata,2,2
 Piratas en activo en 1722,2,1
-Gastronomía caribeña,2,0
+Gastronomía caribeña,2,1
 Epílogo,1,2
-Notas del autor,2,0
-Agradecimientos,2,4
-Música para las partidas,2,3
-Versión en PDF,2,1
+Notas del autor,2,1
+Agradecimientos,2,3
+Música para las partidas,2,4
+Versión en PDF,2,0
 Recursos para piratas y primigenios,1,1
-Ficha de navío,2,1
+Ficha de navío,2,2
 Cofre del tesoro,2,1
 Biblioteca de libros de los Mitos,2,1
 Tablas y mapas,2,1
