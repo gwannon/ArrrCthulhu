@@ -96,7 +96,13 @@ Equipo,2,1
 Armas,3,0
 Protecciones,3,3
 Embarcaciones,2,1
-Embarcaciones avanzadas,2,11
+Naves pequeñas,3,1
+Naves rápidas,3,0
+Naves de carga,3,1
+Naves de combate,3,0
+Naves de guerra,3,1
+Modificando los barcos,3,0
+Embarcaciones avanzadas,2,8
 Horror y cordura,2,3
 Hechicería primigenia,2,4
 Combate naval,2,30
