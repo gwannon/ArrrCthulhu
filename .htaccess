@@ -45,6 +45,7 @@
  
 # BEGIN Cache-Control Headers
 <ifModule mod_headers.c>
+  Header set Access-Control-Allow-Origin "*" 
   Header set X-Clacks-Overhead "GNU Terry Pratchett"
 	Header set Connection keep-alive
 	Header unset ETag
