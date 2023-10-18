@@ -247,7 +247,7 @@ Lloigor corpóreo (comodín),3,1
 Madre de aguas (comodín),2,1
 Noctivago demacrado (secuaz),2,1
 Pólipos volantes (secuaz),2,1
-Profundo (secuaz),2,1
+Profundo,2,1
 Profundo (secuaz),3,1
 Líder profundo (secuaz),3,0
 Cacique profundo (comodín),3,1
@@ -262,8 +262,8 @@ Shoggoth Islote (comodín),3,1
 Vampiro de fuego (secuaz),2,1
 El yeho (comodín),2,1
 Yithianos,2,1
-Científico (secuaz),3,0
-Soldado (secuaz),3,1
+Yithiano científico (secuaz),3,0
+Yithiano soldado (secuaz),3,1
 Yuggothiano (secuaz),2,1
 Colono,3,0
 Científico,3,0
