@@ -26,7 +26,10 @@ $(document).ready(function () {
       var pageNumber = 0;
       var currentTitle = this.innerHTML;
       $.each(indice, function(i, item) {
-        if (currentTitle == item.title) pageNumber = item.page;
+        if (currentTitle == item.title) {
+          pageNumber = item.page;
+          indice[i].title = "";
+        }
       });
         
       $(this).prop("tagName")
