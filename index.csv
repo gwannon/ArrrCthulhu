@@ -255,11 +255,18 @@ Híbrido de profundo (secuaz),3,0
 Retoño oscuro (comodín),2,1
 Sabuesos de Tíndalos (secuaz),2,1
 Serpigente (secuaz),2,2
-Shoggoth,2,1
-Vampiro de fuego (secuaz),2,2
+Serpigente científico (secuaz),3,0
+Serpigente soldado (secuaz),3,1
+Shoggoth,2,0
+Shoggoth Islote (comodín),3,1
+Vampiro de fuego (secuaz),2,1
 El yeho (comodín),2,1
 Yithianos,2,1
-Yuggothiano (secuaz),2,2
+Científico (secuaz),3,0
+Soldado (secuaz),3,1
+Yuggothiano (secuaz),2,1
+Colono,3,0
+Científico,3,0
 Secuaces y criaturas,2,3
 Secuaces,3,1
 Animales salvajes,3,7
