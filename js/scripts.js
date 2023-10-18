@@ -15,18 +15,24 @@ $(document).ready(function () {
         }
     });
     return json;
-  })(); 
-  console.log(indice);
-      
+  })();
+
   $("body>section:nth-of-type(3) h1, body>section:nth-of-type(3) h2, body>section:nth-of-type(3) h3 /*, body>section:nth-of-type(3) h4, body>section:nth-of-type(3) h5*/")
     .each(function () {
       counter++;
       
       $(this).attr('id', 'anchor' + counter);
+
+      var pageNumber = 0;
+      var currentTitle = this.innerHTML;
+      $.each(indice, function(i, item) {
+        if (currentTitle == item.title) pageNumber = item.page;
+      });
+        
+      $(this).prop("tagName")
       $("body>section:nth-of-type(2) div:nth-of-type("+currentDiv+")").append('<a href="#anchor' + counter + '" class="like' + $(this).prop("tagName") +
         '" data-scroll="#anchor' + counter + '">' +
-        this
-          .innerHTML + '</a>');
+        this.innerHTML + ' <span>'+pageNumber+'</span></a>');
       currentDiv = Math.floor(counter / step) + 1;
     });
 
