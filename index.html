@@ -232,9 +232,17 @@
     .likeH1 span,
     .likeH2 span,
     .likeH3 span {
-      display: block;
+      display: none;
       float: right;
       margin-right: 5px;
+    }
+
+    @media print {
+      .likeH1 span,
+      .likeH2 span,
+      .likeH3 span {
+        display: block;
+      }
     }
 
     body>section:nth-of-type(3) h1 {
@@ -15342,8 +15350,8 @@
     }
   </style>
   <script src="./js/jquery-3.6.3.min.js"></script>
-  <script src="./js/scripts.js?ver=1.0.2&hash=20230925"></script>
-  <link rel="stylesheet" href="./css/styles.css?ver=1.0.2&hash=20230925">
+  <script src="./js/scripts.js?ver=1.0.2&hash=20231018"></script>
+  <link rel="stylesheet" href="./css/styles.css?ver=1.0.2&hash=20231018">
 </body>
 
 </html>
