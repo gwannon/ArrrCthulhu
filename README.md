@@ -37,8 +37,13 @@ Gracias por su documentación a:
 * Revisar el equipo y los idiomas
 
 ## Versiones
-### Ver. 1.0.2 en desarrollo
+
+### Ver. 1.1 En desarrollo
+* Correcciones de ortografía
+
+### Ver. 1.0.2 20/10/2023
 * Paginación y mejores saltos de página
+* Cambios de estructura y de ubicación de varios elementos. Por ejemplo, Botín o los encuentros pasan parte de Reglas de Ambientación
 
 ### Ver. 1.0.1 17/10/2023
 * Corrección de miles de faltas de ortografía
