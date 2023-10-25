@@ -30,7 +30,8 @@ $bots = [
   "BLEXBot/1.0",
   "SerendeputyBot",
   "SummalyBot",
-  "Friendica"
+  "Friendica",
+  "test-bot"
 ];
 
 $ips = [];
