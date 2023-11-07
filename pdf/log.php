@@ -32,7 +32,8 @@ $bots = [
   "SummalyBot",
   "Friendica",
   "test-bot",
-  "my-tiny-bot"
+  "my-tiny-bot",
+  "thesis-research-bot"
 ];
 
 $ips = [];
