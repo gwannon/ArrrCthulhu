@@ -38,7 +38,10 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 1.1 En desarrollo
+### Ver. 1.1.1 En desarrollo
+* Nuevo monstruo: Lusca
+
+### Ver. 1.1 25/11/2023
 * Correcciones de ortografía
 
 ### Ver. 1.0.2 20/10/2023
