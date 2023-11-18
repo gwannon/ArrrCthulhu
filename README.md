@@ -41,6 +41,7 @@ Gracias por su documentación a:
 ### Ver. 1.1.1 En desarrollo
 * Nuevo monstruo: Lusca
 * Aventura "Camarada, ¿dónde está mi pata de palo?" terminada
+* Localización "Pantano de Río Negro" acabada
 
 ### Ver. 1.1 25/11/2023
 * Correcciones de ortografía
