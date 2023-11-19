@@ -40,6 +40,7 @@ Gracias por su documentación a:
 
 ### Ver. 1.1.1 En desarrollo
 * Nuevo monstruo: Lusca
+* Nuevo monstruo: Shantak
 * Aventura "Camarada, ¿dónde está mi pata de palo?" terminada
 * Localización "Pantano de Río Negro" acabada
 
