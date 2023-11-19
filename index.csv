@@ -234,7 +234,7 @@ El templo perdido,3,7
 Madre de aguas,3,6
 El yeho,3,1
 En paradero desconocido,3,5
-"Camarada, ¿dónde está mi mi pata de palo?",3,4
+"Camarada, ¿dónde está mi pata de palo?",3,4
 Escapando del Morro,3,2
 Monstruos de los Mitos y otros enemigos,1,3
 Combatiendo a los Primigenios,2,1
@@ -247,7 +247,7 @@ Lengnita (secuaz),2,1
 Lloigor,2,1
 Lloigor forma inmaterial (comodín),3,0
 Lloigor corpóreo (comodín),3,1
-Lusca,2,1
+Lusca (comodín),2,1
 Madre de aguas (comodín),2,1
 Noctivago demacrado (secuaz),2,1
 Pólipos volantes (secuaz),2,1
@@ -261,7 +261,7 @@ Sabuesos de Tíndalos (secuaz),2,1
 Serpigente (secuaz),2,2
 Serpigente científico (secuaz),3,0
 Serpigente soldado (secuaz),3,1
-Shantak,2,0
+Shantak (comodín),2,0
 Shoggoth (comodín),2,1
 Shoggoth Islote (comodín),3,1
 Vampiro de fuego (secuaz),2,1
