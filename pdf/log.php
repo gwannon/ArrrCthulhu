@@ -35,7 +35,11 @@ $bots = [
   "my-tiny-bot",
   "thesis-research-bot",
   "LivelapBot",
-  "ShortLinkTranslate"
+  "ShortLinkTranslate",
+  "TrendsmapResolver",
+  "EventMachine HttpClient",
+  "linkfluence.com",
+  "Python-urllib/3.9"
 ];
 
 $ips = [];
