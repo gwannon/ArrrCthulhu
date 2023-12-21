@@ -42,7 +42,9 @@ $bots = [
   "Python-urllib/3.9",
   "ddg_android",
   "DotBot",
-  "FlipboardProxy"
+  "FlipboardProxy",
+  "w3m/0",
+  "LinkPreview/"
 ];
 
 $ips = [];
