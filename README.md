@@ -38,7 +38,10 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 1.1.1 En desarrollo
+### Ver. 1.1.2 En desarrollo
+* Nuevo monstruo: Color que cayo del espacio
+
+### Ver. 1.1.1 25/02/2024
 * Nuevo monstruo: Lusca
 * Nuevo monstruo: Shantak
 * Aventura "Camarada, ¿dónde está mi pata de palo?" terminada
