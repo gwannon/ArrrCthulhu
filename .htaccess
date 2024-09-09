@@ -86,4 +86,6 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 RewriteCond %{HTTP_HOST} ^arrrcthulhu.gwannon.com [NC]
 RewriteRule ^(.*)$ https://arrrcthulhu.com/$1 [L,R=301,NC]
 
+RewriteRule ^GruasCarretas.pdf$ https://gwannon.itch.io/gruas-carretas [L,R=301,NC]
+
 </IfModule>
