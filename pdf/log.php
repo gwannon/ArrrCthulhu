@@ -1,6 +1,6 @@
 <?php
 
-$bots = json_decode(file_get_contents("https://1001ghules.gwannon.com/pdf/log.php?bots=yes"));
+$bots = json_decode(file_get_contents("https://1001ghules.gwannon.com/pdf/log.php?bots=yes"), true);
 
 $ips = [];
 $json["total"] = 0;
