@@ -28,7 +28,7 @@ Hay desde hace unos pocos años varias poblaciones de agricultores muy creyentes
 
 #### Hôtel de ville
 
-Se conoce como Hôtel de ville o ayuntamiento a un viejo edificio de gran tamaño y de estilo francés situado en el centro de Tortuga. Es el único órgano de gobierno de Tortuga. En él se reúnen los capitanes piratas y toman decisiones sobre el gobierno de la isla y su defensa. También resuelven sus disputas siguiendo el antiguo código de la hermandad de la Costa. Las deudas de honor se resuelven en el patio interior del ayuntamiento con duelos a muerte. El patio también se usa de cadalso en casos muy graves de traición.
+Se conoce como «Hôtel de ville» o ayuntamiento a un viejo edificio de gran tamaño y de estilo francés situado en el centro de Tortuga. Es el único órgano de gobierno de Tortuga. En él se reúnen los capitanes piratas y toman decisiones sobre el gobierno de la isla y su defensa. También resuelven sus disputas siguiendo el antiguo código de la hermandad de la Costa. Las deudas de honor se resuelven en el patio interior del ayuntamiento con duelos a muerte. El patio también se usa de cadalso en casos muy graves de traición.
 
 A la entrada del ayuntamiento hay un tablón de anuncios con montones de ofertas. Si no sabes leer, siempre hay alguien que te pueda ayudar por unas monedas con los anuncios de compra y venta de objetos y de propuestas de trabajo.
 
@@ -52,7 +52,7 @@ Contrariamente a lo que hemos dicho antes, si hay límites en la Flor de Lis, lo
 
 #### Lucha con machete
 
-En los sucios callejones de Tortuga y en sus tabernas son muy comunes los combates a machete, de forma que se han ido desarrollando una serie de técnicas de combate con machete que acabarán creando el Tire machèt durante la Revolución haitiana. Puedes tratar de buscarte un experto en este tipo de lucha que te enseñe los trucos de la pelea con machetes.
+En los sucios callejones de Tortuga y en sus tabernas son muy comunes los combates a machete, de forma que se han ido desarrollando una serie de técnicas de combate con machete que acabarán creando el _Tire machèt_ durante la Revolución haitiana. Puedes tratar de buscarte un experto en este tipo de lucha que te enseñe los trucos de la pelea con machetes.
 
 Por unos 200 doblones (entre sobornos y rondas de alcohol) y una semana y media de entrenamiento intensivo (aprender técnicas, duelos, curarse heridas y demás), mejorará el valor de Pelear del personaje en un nivel de dado y un +1 al daño cuando combata con machetes o estoque. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
 
@@ -128,7 +128,7 @@ _Población:_ 300 habitantes
 
 _Controlada por:_ Gran Bretaña
 
-Las Caimán se encuentran al sur de Cuba, al noroeste de Jamaica y al este del Yucatan. Este archipiélago está formado por 3 islas y solo Gran Caimán, la mayor isla tiene una localidad estable, George Town. Las islas están bajo el control del Gobernador de Jamaica desde 1670, aunque son bastante autosuficientes y auto-gobernadas.
+Las Caimán se encuentran al sur de Cuba, al noroeste de Jamaica y al este del Yucatán. Este archipiélago está formado por 3 islas y solo Gran Caimán, la mayor isla tiene una localidad estable, George Town. Las islas están bajo el control del Gobernador de Jamaica desde 1670, aunque son bastante autosuficientes y auto-gobernadas.
 
 Las dos islas menores han sido refugio de piratas y de cimarrones durante décadas. En sus calas han fondeado barcos para carenarlos y en sus selvas se han conseguido carne, fruta y agua potable. También ha sido lugar de reunión y parlamento en épocas de grandes crisis para los piratas.
 
@@ -202,7 +202,7 @@ La plaza de Armas es el centro de la vida comercial y social de La Habana. Vario
 
 En plena plaza hay varios postes y tablones donde se colocan los diferentes bandos municipales, nuevas leyes y tratados comerciales, sentencias de juicios y condenas, ... Por unas monedas el ayuntamiento te deja poner mensajes personales como anuncios de bodas, defunciones o nacimientos u textos más empresariales como ofertas de trabajo, propuestas comerciales o compraventas de productos y bienes inmuebles por poner unos ejemplos.
 
-En momentos especiales y con piratas violentos y famosos y criminales muy buscados que han creado gran conmoción social, el gobernador monta un cadalso donde colgar a los sentenciados a muerte. Esto atraen a mucha gente, con lo que no sería imposible montar una huida espectacular a la desesperada de PJs o PNJ que hayan sido condenados a morir en la horca.
+En momentos especiales y con piratas violentos y famosos y criminales muy buscados que han creado gran conmoción social, el gobernador monta un cadalso donde colgar a los sentenciados a muerte. Esto atraen a mucha gente, con lo que no sería imposible montar una huida espectacular a la desesperada de PJ o PNJ que hayan sido condenados a morir en la horca.
 
 #### Castillo de los Tres Reyes Magos del Morro
 
@@ -299,7 +299,7 @@ Todos los que trabajan en el astillero están bajo la rama militar de la RCPC y 
 
 Los almacenes están tan protegidos como bancos, ya que hay en ellos materiales muy valiosos y raros que la RCPC ha ido acumulando con los años.
 
-Debido a la naturaleza, digamos, demoníaca de muchas de las cosas que hay en el astillero, hay un sistema de autodestrucción que detonaría varios explosivos en diferentes partes. Las explosiones y el fuego harían desaparecer la sección de la RCPC y su contenido. Puede parecer una idea exagerada, pero si personas de alta alcurnia y de poder político o religiosos descubrieran todas las cosas herejes que guarda en el astillero, la RCPC podría ser en el futuro destruida.
+Debido a la naturaleza, digamos, demoníaca de muchas de las cosas que hay en el astillero, hay un sistema de autodestrucción que detonaría varios explosivos en diferentes partes. Las explosiones y el fuego harían desaparecer la sección de la RCPC y su contenido. Puede parecer una idea exagerada, pero si personas de alta alcurnia y de poder político o religiosos descubrieran todas las cosas herejes que guarda en el astillero, la RCPC podría ser destruida en el futuro.
 
 El sistema de autodestrucción se basa en tecnología serpigente y desde su despacho el gerente del astillero, siempre un cultista de la Orden de nivel medio, puede activar una gran cantidad de explosivos por todo el astillero de la RCPC.
 
@@ -317,7 +317,7 @@ Sin embargo, la estrella son las apuestas es una modalidad de pelea nueva creada
 
 Alfredo tiene para días importantes una modalidad de pelea especial, caimán contra humano. Un deudor que deba muchos doblones puede pedir combatir contra un caimán en el foso y si gana Alfredo le perdona la deuda. Es un negocio redondo, ya que tanto si pierde y muere como o si gana, las apuestas de esa noche le van a dar más dinero del que le debe el moroso.
 
-El foso de caimanes también ha sido usado para interrogar a personas que no querían hablar y en ultima instancia para deshacerse de cadáveres.
+El foso de caimanes también ha sido usado para interrogar a personas que no querían hablar y en última instancia para deshacerse de cadáveres.
 
 _**Recompensa extra de cordura (+1):** Desbaratar el local ilegal de Alfredo es librar al Caribe de una gran maldad. Supone sacar de las calles a un criminal peligroso con delitos de sangre, ayudar a sus deudores a salir a flote y evitar maltrato animal._
 
@@ -355,7 +355,7 @@ Isadora es una de las personas que más sabe sobre los Mitos de todo el Caribe, 
 
 El periódico más leído del Caribe (sobre todo por ser el único) tiene su sede en La Habana, en un caserón de dos plantas de piedra muy deteriorado que es lo único que Delapore puede permitirse. En la planta baja está la redacción y la imprenta. La redacción está en una esquina, es un par de mesas largas donde Antoine y dos viejos escribanos retirados se dedican a recabar historias reales y chismes y darles formas e imprimirlos en papel.
 
-La imprenta, sin embargo, es un modelo nuevecito que Mary Read le ha proporcionado del botín de un mercante español y que imprime ejemplares muy rápidamente. La imprenta es manejada por Ernesto, oficio que le enseño de pequeño su padre, el hermano de Antoine y su socio en la imprenta que tenían en París.
+La imprenta, sin embargo, es un modelo nuevo que Mary Read le ha proporcionado del botín de un mercante español y que imprime ejemplares muy rápidamente. La imprenta es manejada por Ernesto, oficio que le enseño de pequeño su padre, el hermano de Antoine y su socio en la imprenta que tenían en París.
 
 En la segunda planta está la vivienda de Antoine y Ernesto. En este piso Antoine tiene su biblioteca personal y el archivo con todas las ediciones de la VLH. Este archivo es una estupenda biblioteca de los Mitos (con un bono de +3) que Antoine te permitirá usar si le caes bien. La VLH lleva unos 10 años recabando cada mes todos los sucesos raros que han pasado en el Caribe con más o menos "rigor" y Antoine siempre puede confirmarte si la historia que buscas es real o una exageración para vender ejemplares.
 
@@ -427,9 +427,9 @@ No es el mejor lugar para fondear por su falta de agua potable y posibilidad de 
 
 La Orden de Cthulhu suele usar algunas de las islas más pequeñas como zoos improvisados donde dejar (o abandonar) a sus experimentos y engendros y poder estudiarlos en libertad. Explorando el interior de las islas podrías encontrarte con seres como gugos o retoños oscuros.
 
-#### Pirámide sumergidas de granito
+#### Pirámides sumergidas de granito
 
-En el extremo oeste de la isla de Cuba, en la costa de la península de Guanahacabibes, se encuentra una serie de [estructuras de granito sumergidas en el mar](https://es.wikipedia.org/wiki/Formaci%C3%B3n_sumergida_de_Cuba). Están a unos 650/700 metros de profundidad y ocupan una extensión de unos 2 km2. Tienen formas variadas, circulares y piramidales, y la más grande es una especie de pirámide escalonada de unos 100 metros de altura.
+En el extremo oeste de la isla de Cuba, en la costa de la península de Guanahacabibes, se encuentra una serie de [estructuras de granito sumergidas en el mar](https://es.wikipedia.org/wiki/Formaci%C3%B3n_sumergida_de_Cuba). Están a unos 650/700 metros de profundidad y ocupan una extensión de unos 2 km². Tienen formas variadas, circulares y piramidales, y la más grande es una especie de pirámide escalonada de unos 100 metros de altura.
 
 Las únicas personas que conoce su existencia es Hernando Villalba y los adeptos de mayor nivel de la Orden. Se quedó impresionado la primera vez que se sumergió y vio las estructuras, pensando que había encontrado la ciudad de su señor. Sin embargo, lo que encontró fue un puesto avanzado submarino de los Antiguos (una extraña raza extraterrestre que habito la Tierra hace miles de años).
 
@@ -459,7 +459,7 @@ Juan Ponce de León es conocido por explorar/conquistar la Florida y por buscar 
 
 Fue aquí donde escuchó a los taínos de la zona las historias de los cemís diabólicos del mar. De como te daban regalos de oro, perlas y buena pesca y de como se cruzaban con los humanos y tenían una descendencia híbrida. Y de como esas tribus terminaban convirtiéndose en comunidades corruptas y abyectas, repudiadas por el resto de la nación taína.
 
-Sabiendo todo esto, hizo tratos herejes con tribus profundas donde entregaba sacrificios humanos a cambio de conocimientos prohibidos. Así es como supo de las ciudades de oro como Cibola o la fuente de la eterna juventud.
+Sabiendo todo esto, hizo tratos herejes con tribus profundas donde entregaba sacrificios humanos a cambio de conocimientos prohibidos. Así es como supo de las ciudades de oro como Cíbola o la fuente de la eterna juventud.
 
 Para sus expediciones, recluto a los híbridos que descubrió en esas comunidades corruptas para su expedición a la Florida. Sabía que eran más fuertes, más resistentes y no se caerían en las tentaciones y las debilidades de los humanos.
 
@@ -475,7 +475,7 @@ La RCPC ha pasado a ser el mayor benefactor del hospicio local para asegurarse q
 
 #### Garita del Diablo
 
-Se conoce como la Garita del Diablo a un fuerte en la costa norte de la isleta de San Juan que forma parte de las defensas de la ciudad. La leyenda cuenta que una noche de temporal hace muchos años, uno de los soldados llamado Sanchez que vigilaba la costa desapareció, encontrándose solo su uniforme y su arma descargada.
+Se conoce como la Garita del Diablo a un fuerte en la costa norte de la isleta de San Juan que forma parte de las defensas de la ciudad. La leyenda cuenta que una noche de temporal hace muchos años, uno de los soldados llamado Sánchez que vigilaba la costa desapareció, encontrándose solo su uniforme y su arma descargada.
 
 La historia corrió como la pólvora y la gente empezó a murmurar que el diablo se lo había llevado para cobrar algún pacto que habían firmado.
 
@@ -538,7 +538,7 @@ El saqueo de tumbas es algo horrible, ya que no solo estropea el yacimiento para
 
 ![](./images/piedra-escrita.webp)
 
-En el centro de Puerto Rico, en la región de Jayuya, en las orillas del Rio Saliente se encuentra La Piedra Escrita. En el cauce del río se pueden encontrar una gran roca erosionada por el río. Este monolito de piedra gris, de diez metros de largo y cuatro de ancho, exhibe una impresionante muestra de figuras talladas por los taínos con los que representaban a sus dioses, animales y elementos de la naturaleza.
+En el centro de Puerto Rico, en la región de Jayuya, en las orillas del Río Saliente se encuentra La Piedra Escrita. En el cauce del río se pueden encontrar una gran roca erosionada por el río. Este monolito de piedra gris, de diez metros de largo y cuatro de ancho, exhibe una impresionante muestra de figuras talladas por los taínos con los que representaban a sus dioses, animales y elementos de la naturaleza.
 
 Este es un lugar sagrado para los taínos y cualquier promesa o trato que se haga en este lugar se vuelve sagrado y no se puede romper. Según sus creencias, los cemís de los antepasados que habitan aquí te perseguirán si rompes tu palabra.
 
@@ -628,7 +628,7 @@ Los constructores de este lugar no solo lo eligieron por su emplazamiento en el 
 
 #### Isla Catalina
 
-Isla Catalina se encuentra en la costa sureste de Santo Domingo, es una isla de unos 10 km2 que la RCPC compro, con la bendición de la Iglesia y el obispo, para crear una leprosería.
+Isla Catalina se encuentra en la costa sureste de Santo Domingo, es una isla de unos 10 km² que la RCPC compro, con la bendición de la Iglesia y el obispo, para crear una leprosería.
 
 Se montaron una serie de cabañas donde viven los enfermos de lepra, un pozo, un embarcadero y campos de cultivos para que pudieran cultivar su comida. Disponen de herramientas para reparar sus cabañas y construir otras nuevas.
 
@@ -752,7 +752,7 @@ Todos los que han trabajado o arrendado el local dicen que hay una presencia mal
 
 Actualmente, está de capa caída, ya que los únicos que se atreven a arrendarlo son personajes de la más baja estofa que realmente no lo quieren como taberna sino para propósitos principalmente ilegales.
 
-Su actual propietario está deseoso de venderlo y deshacerse de una malísima inversión. De hecho, hay carteles en la puerta que avisan de que se vende por 8.000 doblones. Es un chollazo, si consigues un exorcista con el hechizo Exorcizar (Destierro) que elimine los restos psíquicos del lloigor. Con una inversión de 4.000 doblones se podría arreglar totalmente.
+Su actual propietario está deseoso de venderlo y deshacerse de una malísima inversión. De hecho, hay carteles en la puerta que avisan de que se vende por 8.000 doblones. Es una ganga, si consigues un exorcista con el hechizo Exorcizar (Destierro) que elimine los restos psíquicos del lloigor. Con una inversión de 4.000 doblones se podría arreglar totalmente.
 
 La taberna arreglada y con una gerencia adecuada puede producir 1d4 x 100 doblones cada semana. Para poder acceder a ese dinero deberán pasar por Port Royal para recogerlo.
 
@@ -856,7 +856,7 @@ Un objeto extraño ha aguantado bien debajo del agua dentro de algún contenedor
 
 #### Pantano de Río Negro
 
-La desembocadura del Río Negro, en el suroeste de la isla, es un inmenso pantano lleno de vegetación y fauna. Es el mayor pantano del Caribe, con unos casi 60 km2 de ciénagas y manglares. Es famoso por ser el hábitat principal de los caimanes más grandes del Caribe.
+La desembocadura del Río Negro, en el suroeste de la isla, es un inmenso pantano lleno de vegetación y fauna. Es el mayor pantano del Caribe, con unos casi 60 km² de ciénagas y manglares. Es famoso por ser el hábitat principal de los caimanes más grandes del Caribe.
 
 Troncos de árboles de palo de tinte se bajan por el río Negro hasta la ciudad de Black River en la desembocadura del río, para ser procesados y enviados a Inglaterra para hacer tinte negro, rojo y azul.
 
@@ -912,7 +912,7 @@ Hay muchas historias sobre quién es, pero solo una es correcta. Es un viejo pir
 
 Si alguien registra su barco no encontrará su tesoro, ya que lo ha enterrado bajo una palmera cercana. Pero puede que encuentre objetos de su vieja vida como su bandera pirata (una calavera de lado con pendientes y con un pañuelo con dos tibias cruzadas sobre fondo rojo), cartas navales del Índico, viejos diarios de capitán, ...
 
-Le encantan las historias de piratas e invita a bebida a cualquiera que quiera contarlas las últimas novedades piratescas del Caribe. También le gusta leer la VLH y acepta ejemplares , sobre todo si tienen noticias de piratas.
+Le encantan las historias de piratas e invita a bebida a cualquiera que quiera contarlas las últimas novedades piratescas del Caribe. También le gusta leer la VLH y acepta ejemplares, sobre todo si tienen noticias de piratas.
 
 Avery es un fantástico estratega, lo cual explica su gran éxito como pirata. Si te ganas tu amistad contándole alguna historia buena de su gusto, puede estudiar un plan de ataque, ver sus fallos y dar posibles soluciones. También responderá a tus cartas, pero este método es mucho más lento.
 
@@ -996,7 +996,7 @@ Aparecen pepitas de oro en las playas de \[isla\]
 Las mareas vivas y un reciente huracán han arrastrado hasta la playa una gran cantidad de pepitas de oro. Se desconoce su origen, pero no pueden ser de un barco hundido porque se transformaban en lingotes. Los pescadores y campesinos locales han dejado sus trabajos para ir a la playa buscar pepitas. Se han montado campamentos improvisados en las playas donde estos buscadores de oro esperan nuevas mareas para tratar de conseguir oro.  
 Las pepitas, si encuentran una o pueden ver alguna de las que han recogido los buscadores, tienen formas extrañas y desde luego no naturales. Con una tirada de Mitos verán que son joyas de los profundos y seguramente querrán recuperarlas. Si ya habían visto este tipo de joyas lo verán sin necesidad de tirada.  
 Las pepitas proceden de un asentamiento profundo en los arrecifes cercanos. El huracán junto a las mareas vivas casi han destruido su poblado submarino. La mayoría de las pepitas de oro son en realidad joyas de los profundos que han perdido durante la destrucción de su aldea.  
-La misma noche que lleguen los PJs los profundos harán un ataque salvaje al asentamiento de la playa para recuperar su oro. Si los jugadores no hacen algo los profundos masacrarán a la gente de la playa. Pueden convencerles de que devuelvan el oro o serán perseguidos por los demonios del mar, pueden defenderse o pueden huir.
+La misma noche que lleguen los PJ los profundos harán un ataque salvaje al asentamiento de la playa para recuperar su oro. Si los jugadores no hacen algo los profundos masacrarán a la gente de la playa. Pueden convencerles de que devuelvan el oro o serán perseguidos por los demonios del mar, pueden defenderse o pueden huir.
 
 4
 
@@ -1020,7 +1020,7 @@ Johanna Ribeiro está preparando su primera obra de teatro "El capitán de amari
 
 La actividad sísmica se dispara en los Cayos de Florida
 
-En los últimos meses ha aumentado drásticamente la actividad sísmica en los Cayos de Florida. Los locales se lo achacan desde demonios tratando de escapar del infierno a locas teorías sobre placas de corteza terrestre que chocan entre sí. La verdad es que los temblores han crecido desde que se instalaron en Cayo Hueso un grupo de religiosos ascetas.
+En los últimos meses, ha aumentado drásticamente la actividad sísmica en los Cayos de Florida. Los locales se lo achacan desde demonios tratando de escapar del infierno a locas teorías sobre placas de corteza terrestre que chocan entre sí. La verdad es que los temblores han crecido desde que se instalaron en Cayo Hueso un grupo de religiosos ascetas.
 
 8
 
@@ -1086,7 +1086,7 @@ Este reportaje habla sobre el maestro de esgrima Don Diego Rodríguez de Guzmán
 
 ¿Te atreves a pasar una noche en una casa encantada?
 
-Anya Corbitt ofrece 200 doblones a quien averigüe qué pasa en la casa familiar, la mansión . Empieza el relato salvaje "El tesoro de la mansión Corbitt".
+Anya Corbitt ofrece 200 doblones a quien averigüe qué pasa en la casa familiar, la mansión. Empieza el relato salvaje "El tesoro de la mansión Corbitt".
 
 19
 
@@ -1108,7 +1108,7 @@ Si tu mesa ha cometido un grave error y quieren remediarlo, quizás haya una sol
 
 Las opciones para viajar en el tiempo son variadas, pero no son sencillas. Veamos algunas opciones:
 
-* Pueden tratar de que un yithiano mande su mente al pasado y ocupe el cuerpo de un PJ con lo que su mente ocupará la mente del yithiano y podrá hablar con los otros PJs y estos avisarle de lo que va a pasar.
+* Pueden tratar de que un yithiano mande su mente al pasado y ocupe el cuerpo de un PJ con lo que su mente ocupará la mente del yithiano y podrá hablar con los otros PJ y estos avisarle de lo que va a pasar.
 * Otra opción sería sustancias que podrían lanzar tu mente al pasado y así puedes avisar a tu yo del pasado.
 * Hay hechizos basados en el tiempo como Perdido en el tiempo. Quizás pueden modificarlos para conseguir viajar en el tiempo.
 
@@ -1134,7 +1134,7 @@ Los volcanes son una referencia recurrente en los relatos de Lovecraft seguramen
 
 * El primigenio Ghatanothoa "el señor del volcán" está encerrado en el monte Yaddith-Gho, un volcán del continente hundido de Mu.
 * Los montes Erebus y el monte Terror, ambos volcanes antárticos, se citan en "En las montañas de la locura".
-* Se atribuyen a actividad volcánica sub-acuática la aparición de monstruos indescriptibles y tierras extrañas, como puede leerse en relatos como "Dagón" y "Más allá de los eones".
+* Se atribuyen a actividad volcánica subacuática la aparición de monstruos indescriptibles y tierras extrañas, como puede leerse en relatos como "Dagón" y "Más allá de los eones".
 
 Los volcanes también puede encajar en tus aventuras piratas. Son una fuerza de la naturaleza que puede permitirte cambiar el mapa: crear o destruir islas, sepultar ciudades bajo las aguas con potentes maremotos, ... Te permiten crear aventuras con obstáculos formidables como ríos de lava, donde la presión del tiempo sea muy importante y son un recurso contra el que tu mesa no puede enfrentarse, solo pueden huir cuanto más lejos mejor.
 

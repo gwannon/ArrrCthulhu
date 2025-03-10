@@ -1,0 +1,6 @@
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE Min.\\E$"}
+{"rule":"CAYO","sentence":"^\\QCayo Hueso, la principal isla de los cayos, es un refugio en 1722 para piratas y raqueros (ver más adelante).\\E$"}
+{"rule":"CAYO","sentence":"^\\QCayo Hueso recibe por su nombre de Ponce de León, que la llamó así por la gran cantidad de huesos humanos que encontraron al llegar.\\E$"}
+{"rule":"CAYO","sentence":"^\\QEl tesoro de Cesar se encuentra en el actual cayo Big Pine.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6+2\nGarras brutales:\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QSi está quemado, hecho trozos o le faltan piezas, Ifá no podrá hacer nada.\\E$"}

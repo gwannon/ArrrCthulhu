@@ -56,7 +56,7 @@ El Criollo es la lengua más común del Caribe, casi todas las personas lo entie
 
 El cthulhunés (o r'lyehiano) es la lengua hablada por Cthulhu, los habitantes R'lyeh y sus servidores, por ejemplo, los profundos. Los que lo han oído lo describen como extraño y gutural (seguramente para usarse bajo el agua) y muy difícil de pronunciar para las gargantas humanas.
 
-La Orden del Gran Cthulhu ha conseguido transcribir el idioma a caracteres latinos, ya que los caracteres escritos del Cthulhunés no han podido ser descifrados. Eso ha llevado a que parezca formado por grupos de consonantes que suenan relativamente extraños para el oído, como mglw'naph o fhtagn.
+La Orden del Gran Cthulhu ha conseguido transcribir el idioma a caracteres latinos, ya que los caracteres escritos del Cthulhunés no han podido ser descifrados. Eso ha llevado a que parezca formado por grupos de consonantes que suenan relativamente extraños para el oído, como «mglw'naph» o «fhtagn».
 
 _ph'nglui mglw'nafh Cthulhu  
 R'lyeh wgah'nagl fhtagn_  
@@ -141,7 +141,7 @@ Como DJ te aconsejo que uses sabiamente esta desventaja, sobre todo en mayor. Pu
 
 ### TOC - Trastorno obsesivo-compulsivo (mayor)
 
-El trastorno obsesivo-compulsivo (TOC) se caracteriza por un miedo no deseado (obsesiones) que provocan comportamientos repetitivos (compulsiones). Por ejemplo, un miedo a las enfermedades puede llevar a un paciente de TOC a lavarse compulsívamente las manos.
+El trastorno obsesivo-compulsivo (TOC) se caracteriza por un miedo no deseado (obsesiones) que provocan comportamientos repetitivos (compulsiones). Por ejemplo, un miedo a las enfermedades puede llevar a un paciente de TOC a lavarse compulsivamente las manos.
 
 Deberás elegir una fobia menor y un hábito menor relacionado para formar el TOC de tu personaje.
 
@@ -369,13 +369,13 @@ Coste
 
 35
 
-\--
+--
 
 2
 
-\--
+--
 
-**Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, forma que un 35 minutos tendrías el arma plenamente cargada.
+**Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, de forma que en unos 35 minutos tendrías el arma plenamente cargada.
 
 #### Cañón lanzarrayos yithiano
 
@@ -405,7 +405,7 @@ Coste
 
 35
 
-\--
+--
 
 **Notas:** Necesita una dotación de 1 persona al no tener que recargar. Puede hacer que se sobrecaliente y termine explotando. Haría un daño de 3d10 en una plantilla mediana. Recarga 1 de munición por cada media hora, forma que en menos de 1 día tendrías el cañón plenamente cargado.
 
@@ -453,7 +453,7 @@ Provisiones
 
 8
 
-\-1
+-1
 
 15 km/h
 
@@ -529,7 +529,7 @@ Provisiones
 
 15
 
-\-2
+-2
 
 10 km/h
 
@@ -567,7 +567,7 @@ Provisiones
 
 14 (Colosal)
 
-\-1
+-1
 
 15 km/h
 
@@ -605,7 +605,7 @@ Provisiones
 
 18
 
-\-2
+-2
 
 15 km/h
 
@@ -1206,4 +1206,3 @@ Estas situaciones vendrán marcadas en la campaña. Por ejemplo, puede establece
 Todos los secuaces tienen un único punto de cordura y si lo pierden caerán inmediatamente incapacitados entre gritos de horror o saldrán corriendo presas del miedo. Como los personajes jugadores podrán coger un trastorno en vez de perder su punto de cordura, pero no podrás hacerlo más que una vez.
 
 Queda a discreción del DJ que le pasa al secuaz/aliado después de perder su punto de cordura. Puede que se recupere tras el encuentro con graves trastornos mentales o no sea recuperable para el resto de la campaña. Puede ser una buena historia secundaria tratar de recuperar la cordura de un aliado enloquecido.
-

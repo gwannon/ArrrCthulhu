@@ -38,7 +38,7 @@ Con los años la familia prosperó económica y socialmente hasta obtener de los
 
 Pronto el cabeza de la familia Villalba paso a tener un puesto en el círculo interior de la Orden y durante 300 años los Villalba aumentaron su poder tratando con entidades de los Mitos y decidieron el destino de Europa y sus territorios colonizados.
 
-Los Villalba hicieron y deshicieron a su gusto con la ayuda del dinero y la magia que les proporcionaba de la Orden, hasta que en 1629 fueron apresados, juzgados y ejecutados por la Santa Inquisición Romana. Se les acusó de brujería, mezclar su sangre con demonios y rezar a dioses paganos. Los Villalba intentaron pedir ayuda a la Orden, pero esta prefiero amputar la extremidad engangrenada para evitar problemas.
+Los Villalba hicieron y deshicieron a su gusto con la ayuda del dinero y la magia que les proporcionaba de la Orden, hasta que en 1629 fueron apresados, juzgados y ejecutados por la Santa Inquisición Romana. Se les acusó de brujería, mezclar su sangre con demonios y rezar a dioses paganos. Los Villalba intentaron pedir ayuda a la Orden, pero esta prefiero amputar la extremidad gangrenada para evitar problemas.
 
 A pesar de esto, muchos de los socios de la Orden cayeron poco a poco como fichas de dominó y la Orden casi desaparece.
 
@@ -120,7 +120,7 @@ La mayoría de las personas que integran esta rama son simples asalariados o mer
 
 También se encargan de la protección de las instalaciones más importantes de la Orden y los sectarios de más alto rango. De hecho, los más diestros y fanáticos de este tentáculo están como guardias de la Mansión Villalba y del castillo del Morro.
 
-A la cabeza de esas unidades fanáticas está Edward Teach y la tripulación de su barco, el Desgracia, que se encarga de los más sucios y horribles trabajos.
+A la cabeza de esas unidades fanáticas está Edward Teach y la tripulación de su barco, el «Desgracia», que se encarga de los más sucios y horribles trabajos.
 
 Una pequeña sección se encarga del espionaje y si fuera necesario asesinato. LA RCPC tiene una red de espías y asesinos que se encarga de tener controlada la competencia.
 
@@ -146,7 +146,7 @@ En la cima de la compañía y de la secta está, indiscutiblemente, Hernando de 
 
 Por debajo de Villalba están los 8 directores de oficina. Cada gran ciudad de Cuba, Santo Domingo y Puerto Rico tiene una oficina de la RCPC que gestiona la actividad de la RCPC y de la Orden en la zona de influencia de cada ciudad. Son poderosos cultistas que tienen bajo su mando sectarios menores que ejecutan sus órdenes. Son discípulos de Villalba, del que han aprendido a usar la fuerza primaria de la magia y tienen grandes conocimientos del mundo de los Mitos.
 
-Bajando un escalafón tenemos capitanes de navíos y a jefes de fábricas. No todos los adeptos de la secta, sólo los relacionados con las secciones más oscuras de la RCPC, es decir, el capitán de un barco carguero o el jefe de una fábrica de secado de tabaco, no son parte de la secta, pero el investigador jefe de un laboratorio o el capitán de un barco de guerra de la RCPC si están dentro de la Orden. En general están bien pagados y viven cómodamente. Sus conocimientos mágicos no son muchos, pero lo suplen con conocimientos de los Mitos y buenas habilidades.
+Bajando un escalafón tenemos capitanes de navíos y a jefes de fábricas. No todos los adeptos de la secta, solo los relacionados con las secciones más oscuras de la RCPC, es decir, el capitán de un barco carguero o el jefe de una fábrica de secado de tabaco, no son parte de la secta, pero el investigador jefe de un laboratorio o el capitán de un barco de guerra de la RCPC si están dentro de la Orden. En general están bien pagados y viven cómodamente. Sus conocimientos mágicos no son muchos, pero lo suplen con conocimientos de los Mitos y buenas habilidades.
 
 El anteúltimo escalón son los ejecutores especializados, espías de la rama militar, gente entrenada en venenos y asesinato o científicos locos. Pueden formar parte de la cadena de mando o ser agentes solitarios de los que el resto de la secta no tienen ni idea.
 
@@ -156,13 +156,13 @@ En la base de la pirámide tenemos a los cultistas de más bajo nivel y los híb
 
 Barbanegra quizás es el más conocido pirata de la historia. Es el estereotipo clásico de pirata. Sanguinario, pendenciero, atrevido, amoral y carismático. Es una de esas leyendas que ha llenado las historias de marinos desde hace más de 3 siglos.
 
-Poco se sabe de la vida de Edward Teach antes de convertirse en un famoso pirata. Se cree que nació en Bristol hacia 1680 y se enroló como corsario inglés en la Guerra de la Reina Ana, escenario norteamericano de la Guerra de sucesión española. De ahí viene el nombre de su famoso barco.
+Poco se sabe de la vida de Edward Teach antes de convertirse en un famoso pirata. Se cree que nació en Brístol hacia 1680 y se enroló como corsario inglés en la Guerra de la Reina Ana, escenario norteamericano de la Guerra de sucesión española. De ahí viene el nombre de su famoso barco.
 
 Cuando la guerra acabó, estuvo bajo el mando del pirata Benjamin Hornigold en Nueva Providencia. Por esas fechas Nueva Providencia era una República Pirata, donde los piratas tenían un refugio y se autogobernaban. En noviembre de 1717 apresó un gran buque francés, el cual renombró como La Venganza de la Reina Ana.
 
 Fue creando una flotilla con diferentes alianzas con piratas como Stede Bonnet. En 1718 intentó hacerse respetable pidiendo un indulto al gobernador de Carolina del Norte. En realidad seguía con sus actividades piratas y daba una mordida al gobernador de los botines que conseguía. En esta época dio su mayor golpe, el asedio de Charleston en Carolina del Sur.
 
-Las cosas no le fueron del todo bien intentando ser "legal". Traicionó y engañó a sus aliados, abandono el Venganza y terminó volviendo a la piratería estableciéndose en Nueva Providencia con 4 barcos y unos 400 hombres. En Nueva Providencia siguió con sus costumbres disolutas y con su vida pirata, atacando barcos con el Aventura en la costa este de Norteamérica y las Bermudas.
+Las cosas no le fueron del todo bien intentando ser "legal". Traicionó y engañó a sus aliados, abandono el «Venganza» y terminó volviendo a la piratería estableciéndose en Nueva Providencia con 4 barcos y unos 400 hombres. En Nueva Providencia siguió con sus costumbres disolutas y con su vida pirata, atacando barcos con el «Aventura» en la costa este de Norteamérica y las Bermudas.
 
 #### La caída de Barbanegra
 
@@ -521,7 +521,7 @@ Puede que esto sea cierto o no, pero desde luego los avistamientos de la Llorona
 
 ## El Caribe inglés
 
-Gran Bretaña es la segunda potencia en discordia en el Caribe, solo controla Jamaica, las Caimán y las Bahamas y parte de las Antillas Menores. Pero realmente las Caimán y las Bahamas son territorios muy pequeños y poco interesantes económicamente. De hecho, están tan poco controlados por su metrópolis que son casi autónomos y en ambos casos se han convertido en sitios seguros para corsarios ingleses y puertos medianamente seguros para piratas que no ataquen a intereses ingleses.
+Gran Bretaña es la segunda potencia en discordia en el Caribe, solo controla Jamaica, las islas Caimán y las Bahamas y parte de las Antillas Menores. Pero realmente las Caimán y las Bahamas son territorios muy pequeños y poco interesantes económicamente. De hecho, están tan poco controlados por su metrópolis que son casi autónomos y en ambos casos se han convertido en sitios seguros para corsarios ingleses y puertos medianamente seguros para piratas que no ataquen a intereses ingleses.
 
 Gran Bretaña lleva décadas intentando robar territorios a los españoles, pero sin mucha suerte. Consigue tomar una plaza, pero rápidamente la armada española, ahora con la ayuda de la RCPC, la recupera. La verdad es que las colonias norteamericanas son mucho más interesantes para el gobierno inglés que los conflictivos territorios del Caribe.
 
@@ -567,13 +567,13 @@ La RCPC todavía no tiene interés en los territorios franceses. Las islas peque
 
 ## El Caribe danés
 
-La Compañía danesa de las Indias Occidentales y Guinea tiene el control de 2 pequeñas islas de las Antillas Menores, San Juan y Santo Tomas. Su economía está totalmente basada en la esclavitud. La compañía danesa intercambia armas y otros productos industriales en África a cambio de esclavos, que son trasladados al Caribe para trabajar en las plantaciones danesas o ser vendidos en las islas vecinas.
+La Compañía danesa de las Indias Occidentales y Guinea tiene el control de 2 pequeñas islas de las Antillas Menores, San Juan y Santo Tomás. Su economía está totalmente basada en la esclavitud. La compañía danesa intercambia armas y otros productos industriales en África a cambio de esclavos, que son trasladados al Caribe para trabajar en las plantaciones danesas o ser vendidos en las islas vecinas.
 
 Lo más interesante es que la RCPC está negociando la compra con la compañía danesa y por extensión de las islas. Si lo consigue, las islas y las gentes que en ellas viven serán de su "propiedad". La idea es mover toda su flota y todos sus instalaciones secretas a las colonias danesas para evitar los problemas que genera tener que ocultar sus actividades constantemente. En la colonia danesa podrían hacer lo que quisieran, ya que serían los gobernantes de las islas.
 
 La compañía danesa no quiere ser comprada, puesto que el tráfico de esclavos supone un buen negocio y grandes beneficios y, por otro lado, la corona danesa obtiene cierto prestigio (y buenos impuestos) dentro de las monarquías noreuropeas. La oferta de Hernando de Villalba es muy suculenta y los propietarios de la compañía danesa llevan meses pensándosela. Aunque no quieren vender, han oído cosas terribles de Hernando de Villalba y la RCPC y tampoco quieren enfrentarse a él.
 
-Si la compañía danesa al final se niega a vender, tiene decidido liderar una revuelta de esclavos y poner a algún títere en el gobierno. Es más barato, pero mucho menos inestable. De hecho, cultistas de la Orden del gran Cthulhu ya están infiltrándose en los diferentes estratos sociales de Santo Tomas y San Juan. En cuanto la RCPC quiera una revolución estallará en la colonia danesa.
+Si la compañía danesa al final se niega a vender, tiene decidido liderar una revuelta de esclavos y poner a algún títere en el gobierno. Es más barato, pero mucho menos inestable. De hecho, cultistas de la Orden del gran Cthulhu ya están infiltrándose en los diferentes estratos sociales de Santo Tomás y San Juan. En cuanto la RCPC quiera una revolución estallará en la colonia danesa.
 
 Si habéis jugado grandes campañas de juegos basados en Cthulhu tipo Las Máscaras de Nyarlathotep habréis podido comprobar que los malos son siempre como males de Bond, teniendo sus propias islas secretas donde hacer sus terribles experimentos y sus oscuros rituales lejos de los ojos indiscretos. Hernando de Villalba no va a ser menos y no quiere una isla, quiere dos.
 
@@ -631,7 +631,7 @@ Como las Bahamas y otras islas piratas, los cayos son perfectos para esconderse 
 
 Las islas Caimán son otro refugio pirata importante. Oficialmente, estaban integrados con Jamaica y, por tanto, pertenecen a Gran Bretaña, pero siempre fueron muy independientes. De hecho, se han considerado hasta hace pocas décadas una zona con cultura de frontera, zonas que estaban en la frontera entre la civilización y la naturaleza salvaje, donde iban gentes que no encajaban con la sociedad imperante, como cimarrones (esclavos huidos), criminales como piratas, refugiados, etc.
 
-A diferencia de Tortuga y como Bahamas y los cayos, las Caimán son unas islas muy pocas pobladas, con nulas infraestructuras y solo una minúscula, George Town. Como Bahamas y los cayos, también tienen calas resguardadas y ocultas y agua dulce, fruta y carne de tortuga en abundancia. Todo esto las convierte en un sitio perfecto para fondear y aprovisionarse. Además, su ubicación (al sur de Cuba y al Oeste de Jamaica) está cerca de las rutas comerciales españolas y las hace perfectas para atacar a los barcos mercantes españoles.
+A diferencia de Tortuga y como Bahamas y los cayos, las islas Caimán son unas islas muy pocas pobladas, con nulas infraestructuras y solo una minúscula, George Town. Como Bahamas y los cayos, también tienen calas resguardadas y ocultas y agua dulce, fruta y carne de tortuga en abundancia. Todo esto las convierte en un sitio perfecto para fondear y aprovisionarse. Además, su ubicación (al sur de Cuba y al Oeste de Jamaica) está cerca de las rutas comerciales españolas y las hace perfectas para atacar a los barcos mercantes españoles.
 
 Por último, como los cayos de Florida y Bahamas y por su pasado y presente pirata, es uno de los lugares del Caribe con más historias de tesoros enterrados. Si todas las historias de tesoros piratas fueran ciertas, no habría una sola parcela de tierra seca en todas las islas donde no se hubiera escondido un cofre del tesoro.
 

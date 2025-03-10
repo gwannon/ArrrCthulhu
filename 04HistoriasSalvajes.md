@@ -153,9 +153,9 @@ Si tu mesa está muy gallita con que pueden con El Sabueso, en mitad del abordaj
 
 El Sabueso y su tripulación son una buena némesis pirata de tu mesa. Puedes hacerlo aparecer disparando salvas de cañones cuando quieras, complicándoles más las cosas en sus fugas, haciendo que compitan por quién tiene la nave más rápida o peleándose las dos tripulaciones en una taberna de Nasáu o en un charco de barro.
 
-El, la o elle capitán de El Sabueso debería ser un PNJ creado por tí. Debería ser un pirata que tú como jugador te harías y debes subirlo según avance de nivel tu mesa. También su barco y su tripulación.
+El, la o elle capitán de El Sabueso debería ser un PNJ creado por ti. Debería ser un pirata que tú como jugador te harías y debes subirlo según avance de nivel tu mesa. También su barco y su tripulación.
 
-Si alguien te dice que has metido tu propio personaje en la historia, léele esto: Los PJs de DJ están permitidos en esta ambientación.
+Si alguien te dice que has metido tu propio personaje en la historia, léele esto: Los PJ de DJ están permitidos en esta ambientación.
 
 ### Haciéndose un nombre
 
@@ -259,7 +259,7 @@ Mary Read tiene un último trabajo. Deben patrullar El Jardín de la Reina, un a
 
 Cómo siempre alguien les entregará un sobre con un mensaje de Read. Necesita que alguien vigile las actividades de la RCPC en los Jardines de la Reina, un archipiélago de islotes en la costa sur de Cuba.
 
-Han detectado que cada cierto tiempo, pero sin ser algo fijo, una goleta de la RCPC se mete en los jardines, se pierde entre sus islas y vuelve a salir por otro lado con menos carga por lo que indica su línea de flotación. Lo que lleva y lo que hace con la carga es todo un misterio.
+Han detectado que cada cierto tiempo, pero sin ser algo fijo, una goleta de la RCPC se mete en los jardines, se pierde entre sus islas y vuelve a salir, por otro lado con menos carga por lo que indica su línea de flotación. Lo que lleva y lo que hace con la carga es todo un misterio.
 
 La goleta nunca hace la misma ruta, ya que cada vez cada vez viene desde un destino diferente. Eso hace que Read no haya podido tenderle una emboscada. Seguirla dentro de los jardines es casi imposible por los frecuentes bancos de arenas de la zona. Por donde ella pasa sin problemas, una nave más grande se encalla.
 
@@ -1192,7 +1192,7 @@ El clan de profundos que cuida de esta tortuga encontrarán los restos de su ama
 
 El clan empezará a perseguir al barco y a matar a los sucios humanos que van en él. Es un clan pequeño, con unos 20 combatientes como mucho. No pueden enfrentarse directamente contra toda la tripulación, pero sí aprovechar a asesinar a uno o dos tripulantes en plena noche y desaparecer. Ahora en cada viaje, cuando se tire la tabla de Encuentros en el Mar, si sale un 7 (La Tortuga) o 10 (Saboteadores profundos) los profundos intentarán matar a un tripulante. Los resultados que lleven a Relatos Salvajes ya terminados también harán que haya intento de asesinato.
 
-Cuando los asesinos profundos intenten atacar, deberás tirar un d100. Si se saca menos de "comodín (PJs y PNJ que vayan en el barco)" x 5%. Intentarán matar a un PJ, si no atacarán a un tripulante normal. La tripulación normal muere directamente y seguramente su cadáver desaparecerá sin dejar rastro. Puedes dejarles pistas como señales de lucha, restos de algas, marcas de tridente, ...
+Cuando los asesinos profundos intenten atacar, deberás tirar un d100. Si se saca menos de "comodín (PJ y PNJ que vayan en el barco)" x 5%. Intentarán matar a un PJ, si no atacarán a un tripulante normal. La tripulación normal muere directamente y seguramente su cadáver desaparecerá sin dejar rastro. Puedes dejarles pistas como señales de lucha, restos de algas, marcas de tridente, ...
 
 Si atacan a un comodín, habrá un encuentro del comodín contra 2 profundos y un líder profundo. Si ven que no pueden ganar o se acercan refuerzos, tratarán de escapar al mar donde los perderán de vista. Si consiguen apresarlos podrán interrogarlos y saber qué está pasando y a qué se deben los ataques.
 
@@ -1522,7 +1522,7 @@ Si alguien pasa más de un par de horas entre bambalinas y pasa una tirada de In
 
 Cuando entreguen el último barril delante de ellos y de Johanna el protagonista de la obra sufre un terrible accidente, le cae un contrapeso encima dejándole bastante grave. Una tirada de Investigar en las tramoyas y podrías asegurar que han sido saboteadas. Ha sido un atentado de la facción de Hastur al cabecilla de la facción de Cthulhu.
 
-Johanna entra en crisis, necesita un galán para su obra, así que desesperada intentará convencer a los PJs para que hagan una audición. Les hablará del gusanillo del teatro, de la inmortalidad, de la fama, de los aplausos, ... Usará todo su encanto y carisma. Si eso falla, recurrirá al dinero de su familia ofreciendo 400 doblones por participar en el estreno. Espera que el primer actor esté recuperado para las siguientes funciones.
+Johanna entra en crisis, necesita un galán para su obra, así que desesperada intentará convencer a los PJ para que hagan una audición. Les hablará del gusanillo del teatro, de la inmortalidad, de la fama, de los aplausos, ... Usará todo su encanto y carisma. Si eso falla, recurrirá al dinero de su familia ofreciendo 400 doblones por participar en el estreno. Espera que el primer actor esté recuperado para las siguientes funciones.
 
 Los que quieran presentarse a la prueba tendrán un par de horas para prepararse la prueba. No importa quién o cómo sea el que se presente, ya que le pondrá una gran barba postiza, un gran sombrero de capitán y un abrigo largo.
 
@@ -1616,7 +1616,7 @@ Plano del teatro
 
 Un viejo ciego se acerca a tu mesa y les entrega una carta de la baraja, el as de picas. Han sido marcados como traidores o chivatos. Deberán averiguar quién y por qué les han sentenciado a una muerte casi segura a mano de otros piratas.
 
-Una figura bamboleante en el abrevadero preferido de tu mesa. Parece un viejo ciego que ya han visto antes mendigando por el puerto. Empieza a farfullar los nombres de los PJs cada vez más alto, hasta que alguno responda. Entonces se gira hacia la su mesa y cuando llega deja algo sobre la mesa, un naipe bocabajo. Al girarlo pueden ver que es un as de picas, la marca del traidor, firmado con un nombre Bartholomew Roberts.
+Una figura bamboleante en el abrevadero preferido de tu mesa. Parece un viejo ciego que ya han visto antes mendigando por el puerto. Empieza a farfullar los nombres de los PJ cada vez más alto, hasta que alguno responda. Entonces se gira hacia la su mesa y cuando llega deja algo sobre la mesa, un naipe bocabajo. Al girarlo pueden ver que es un as de picas, la marca del traidor, firmado con un nombre Bartholomew Roberts.
 
 El mendigo ciego hace sonar las monedas dentro del pocillo metálico que usa para pedir esperando una propina. La gente empieza a interesarse por el ciego y cuchichea entre ellos. En menos de una semana todo el Caribe sabrán que hay un traidor entre los piratas.
 
