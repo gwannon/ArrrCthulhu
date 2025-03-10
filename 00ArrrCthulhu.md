@@ -1,4 +1,4 @@
-### Ambientación para SWADE
+### Ambientación para SWEA
 
 # ¡Arrr! Cthulhu
 
@@ -21,31 +21,31 @@ This game references the Savage Worlds game system, available from Pinnacle Ente
 
 ![Logo Pinnacle](./images/pinnaclelogo.webp)
 
-|ElCaribeDelosMitos.md|
+|01ElCaribeDelosMitos.md|
 
-|ReglasDeAmbientacion.md|
+|02ReglasDeAmbientacion.md|
 
-|GuiaDeViajes.md|
+|03GuiaDeViajes.md|
 
-|HistoriasSalvajes.md|
+|04HistoriasSalvajes.md|
 
-|MonstruosDeLosMitos.md|
+|05MonstruosDeLosMitos.md|
 
-|QuienEsQuien.md|
+|06QuienEsQuien.md|
 
-|DandoColor.md|
+|07DandoColor.md|
 
-|Epilogo.md|
+|08Epilogo.md|
 
-|Recursos.md|
+|09Recursos.md|
 
-### Ambientación para SWADE
+### Ambientación para SWEA
 
 # ¡Arrr! Cthulhu
 
 ## Creado por [Gwannon](https://twitter.com/gwannon)
 
-¡Arrr! Cthulhu es una ambientación para el juego del rol Savage Worlds Edición Aventura (SWADE) con el que podrás jugar aventuras de piratas en el Caribe de los Mitos de Cthulhu.
+¡Arrr! Cthulhu es una ambientación para el juego del rol Savage Worlds Edición Aventura (SWEA) con el que podrás jugar aventuras de piratas en el Caribe de los Mitos de Cthulhu.
 
 Este libro contiene:
 

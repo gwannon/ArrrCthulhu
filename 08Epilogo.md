@@ -13,7 +13,7 @@ En esta ambientación, si bien tiene una pequeña base histórica, no es en abso
 
 ### Salud mental
 
-Los trastornos mentales y la salud mental representados en esta ambientación no tratan de ser realistas, solo tratan de reflejar con las reglas de SWADE el horror y la locura tan característicos de Lovecraft y cómo estos afectan a las capacidades de los PJs.
+Los trastornos mentales y la salud mental representados en esta ambientación no tratan de ser realistas, solo tratan de reflejar con las reglas de SWEA el horror y la locura tan característicos de Lovecraft y cómo estos afectan a las capacidades de los PJs.
 
 ### Influencias
 

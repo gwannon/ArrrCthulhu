@@ -787,7 +787,7 @@ Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pi
 
 ### Animales salvajes
 
-Aquí tenéis una lista de animales salvajes del manual de SWADE que puedes usar en tus aventuras "cthulhu-pirateras", desde perros y mulas hasta tiburones toro, también conocidos como sardas:
+Aquí tenéis una lista de animales salvajes del manual de SWEA que puedes usar en tus aventuras "cthulhu-pirateras", desde perros y mulas hasta tiburones toro, también conocidos como sardas:
 
 *   **Ave de presa:** cernícalos, gavilanes bobos, caracoleros o batistas, sijí blatanero, ...
 *   **Caimán/cocodrilo:** en el Caribe solo podrás encontrar caimanes.

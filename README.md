@@ -1,5 +1,5 @@
 # ¡Arrr! Cthulhu 
-¡Arrr! Cthulhu es una ambientación para SWADE con el que podrás jugar aventuras de piratas en el Caribe de los Mitos de Cthulhu.
+¡Arrr! Cthulhu es una ambientación para SWEA con el que podrás jugar aventuras de piratas en el Caribe de los Mitos de Cthulhu.
 
 https://arrrcthulhu.com/
 

@@ -4,3 +4,5 @@ Monclús
 Gwannon
 Pinnacle
 Arr
+1d8
+PJ

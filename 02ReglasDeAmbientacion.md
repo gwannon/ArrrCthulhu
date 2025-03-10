@@ -1,7 +1,6 @@
 # Reglas de ambientación
 
-Creación de personajes
-----------------------
+## Creación de personajes
 
 Hay una serie de reglas en esta ambientación que modifican las normas generales de creación de personajes. No son muchas ni muy complicadas, pero tienen su sentido. Veámoslas:
 
@@ -33,7 +32,7 @@ Aquí tienes algunos conceptos sobre los que construir tu PJ.
 Nuevas habilidades
 ------------------
 
-En ¡Arrr! Cthulhu puedes hacer uso de todas las habilidades básicas de SWADE a excepción de habilidades temporalmente ilógicas como Conducir, Electrónica y Ordenadores, ya que no hay vehículos autopropulsados, equipos eléctricos u ordenadores.
+En ¡Arrr! Cthulhu puedes hacer uso de todas las habilidades básicas de SWEA a excepción de habilidades temporalmente ilógicas como Conducir, Electrónica y Ordenadores, ya que no hay vehículos autopropulsados, equipos eléctricos u ordenadores.
 
 Como ya hemos explicado en la creación de personajes. Ocultismo también desaparece como habilidad integrándose dentro de Conocimientos generales.
 
@@ -261,7 +260,7 @@ Si tu mesa tiene dudas sobre si tienen acceso a un tipo concreto de invento, es 
 
 ### Armas
 
-Puedes hacer uso de todas las armas antiguas y medievales que vienen en el manual SWADE, pero aquí te presentamos las más icónicas para una ambientación de piratas.
+Puedes hacer uso de todas las armas antiguas y medievales que vienen en el manual SWEA, pero aquí te presentamos las más icónicas para una ambientación de piratas.
 
 Listado de Armas cuerpo a cuerpo
 
@@ -313,7 +312,7 @@ Esta lanza acabada en dos o tres puntas es el arma típica de los profundos y se
 
 Lanza
 
-\* Esta columna marca las estadísticas de que arma del Manual Básico de SWADE debes usar para cada arma de la tabla.
+\* Esta columna marca las estadísticas de que arma del Manual Básico de SWEA debes usar para cada arma de la tabla.
 
 Dentro del combate a distancia puedes hacer uso de las armas a distancias primitivas y armas de pólvora negra, es decir pistolas de chispa, mosquetes y trabucos.
 
@@ -339,7 +338,7 @@ Granadas
 
 La granada es un proyectil explosivo que se lanza con la mano. Eran bolas de metal llenas de pólvora y a veces metralla con una mecha. Se encendían la mecha y se lanzaba la granada.
 
-\* Las estadísticas de estas armas puedes encontrarlas en el manual básico de SWADE.
+\* Las estadísticas de estas armas puedes encontrarlas en el manual básico de SWEA.
 
 #### Arma lanzarrayos yithania
 
@@ -934,7 +933,7 @@ Así rebautizo Mary Read al barco que robo del puerto de Kingston tras escapar d
 Horror y cordura
 ----------------
 
-El horror y la cordura sustituyen a las reglas de miedo de SWADE. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo personaje tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJs al servicio del DJ.
+El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo personaje tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJs al servicio del DJ.
 
 Cada vez que un personaje se enfrente a un ser de los Mitos deberá hacer una tirada de enfrentada de Astucia contra la tirada de pérdida de cordura (TPC) del monstruo. Si pasa la tirada no ocurre nada, el personaje ha racionalizado correctamente lo que ha ocurrido y puede actuar con normalidad.
 
@@ -1222,7 +1221,7 @@ Hechicería primigenia
 
 La magia es una parte fundamental de ¡Arrr! Cthulhu, tan fundamental como en los relatos de los Mitos y como en estos, tiene una mezcla de magia ritual y de ciencia extraterrestre y futurista. Pero no se nos debe olvidar que tiene que ser oscura y maligna. Es por ello que es una magia que tira más de perversiones, acechadores en las sombras, velas y cálices y rituales con sacrificios que de auras de luz, bolas de fuego, rayos eléctricos y bendiciones. Si revisitas los relatos de Lovecraft verás que no hay magos con cayados en mano lanzando rayos fuego, sino de siniestros hechiceros que lanzan maldiciones y sombras asesinas a sus enemigos desde sus círculos de invocación.
 
-Es por ello que la santería o vudú (o por lo menos el vudú de las películas y series de miedo) casa tan bien con la magia de ¡Arrr! Cthulhu. Es tenebroso, impuro, con sacrificios y muertos que se levantan. Como podrás ver más adelante, muchos de los poderes de SWADE, toman forma en hechizos de inspiración vudú. Además, como bien nos ha enseñado Monkey Island el vudú y los piratas combinan muy bien.
+Es por ello que la santería o vudú (o por lo menos el vudú de las películas y series de miedo) casa tan bien con la magia de ¡Arrr! Cthulhu. Es tenebroso, impuro, con sacrificios y muertos que se levantan. Como podrás ver más adelante, muchos de los poderes de SWEA, toman forma en hechizos de inspiración vudú. Además, como bien nos ha enseñado Monkey Island el vudú y los piratas combinan muy bien.
 
 En los relatos de Lovecraft todas las personas pueden llevar a cabo rituales y hechizos. No necesitas tener sangre de demonio o ser descendiente de magos o ser un elegido de un dios. Solo necesita estudiar el hechizo y hacerlo correctamente usando las formulas mágicas y los ingredientes adecuados.
 
@@ -1274,7 +1273,7 @@ Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lov
 
 ### Poderes permitidos
 
-No todos los poderes de SWADE son posibles en esta ambientación. Aquí tienes un listado de los poderes y sus versiones en hechizos que son posibles en ¡Arrr! Cthulhu.
+No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un listado de los poderes y sus versiones en hechizos que son posibles en ¡Arrr! Cthulhu.
 
 Tabla de Poderes y Hechizos
 
@@ -2098,7 +2097,7 @@ Shoggoths, Chthonianos
 
 ### Ejemplos de uso de Manipulación elemental
 
-En un mundo como este tan dependiente de los elementos la Manipulación elemental es un poder muy útil y versátil que puede ser utilizado de muchas formas interesantes, lo que pasa es en SWADE no se explica muy bien. Aquí te damos ejemplos válidos de sus usos en ¡Arrr! Cthulhu.
+En un mundo como este tan dependiente de los elementos la Manipulación elemental es un poder muy útil y versátil que puede ser utilizado de muchas formas interesantes, lo que pasa es en SWEA no se explica muy bien. Aquí te damos ejemplos válidos de sus usos en ¡Arrr! Cthulhu.
 
 #### Viento
 
@@ -2688,7 +2687,7 @@ Si un lector destina medio día a ojear un libro y pasa una tirada del Idioma en
 Combate naval
 -------------
 
-Si bien las reglas de persecuciones en vehículos de SWADE cubren los combates navales, estas son algunas reglas extras que puedes aplicar a tus combates navales para darles un toque lovecraftsiano.
+Si bien las reglas de persecuciones en vehículos de SWEA cubren los combates navales, estas son algunas reglas extras que puedes aplicar a tus combates navales para darles un toque lovecraftsiano.
 
 ### Horror
 
@@ -3294,7 +3293,7 @@ Tonel de brea noruega
 
 Cabeza gigante olmeca
 
-**Armadura de caballero ornamentada:** Esta antigüedad de otros tiempos se ha conservado estupendamente y seguramente que algún noble europeo lo trajo al Caribe como una reliquia familiar. Pero es plenamente funcional y si bien en un barco es una sentencia de muerte, si se cae al agua, puede ser útil en tierra firme para luchar cuerpo a cuerpo contra criaturas de los Mitos. Usar las características de la Coraza completa de SWADE (pectoral, brazales, grebas y yelmo). Está muy ornamentada y tiene incrustaciones por lo que su valor es x4. Puede ser también un regalo perfecto para las clases altas europeas que quieran aparentar tener un origen medieval importante.
+**Armadura de caballero ornamentada:** Esta antigüedad de otros tiempos se ha conservado estupendamente y seguramente que algún noble europeo lo trajo al Caribe como una reliquia familiar. Pero es plenamente funcional y si bien en un barco es una sentencia de muerte, si se cae al agua, puede ser útil en tierra firme para luchar cuerpo a cuerpo contra criaturas de los Mitos. Usar las características de la Coraza completa de SWEA (pectoral, brazales, grebas y yelmo). Está muy ornamentada y tiene incrustaciones por lo que su valor es x4. Puede ser también un regalo perfecto para las clases altas europeas que quieran aparentar tener un origen medieval importante.
 
 **Balas de cañón trucadas:** Dentro de una caja de munición entre paja hay 10 + 1d20 balas de cañón trucadas. Parecen balas totalmente reales, tienen el mismo peso, color, tacto, ... Solo una tirada de Reparar con dos avances podría detectarlas. Al dispararse desde un cañón hacen estallar el propio cañón, inhabilitándolo y haciendo 3d6 de daño a los artilleros cercanos al cañón. Unos héroes listos usarían las balas de cañón trucadas para engañar a sus enemigos. Podrían sustituir las balas verdaderas por las trucadas en la batería de cañones que defiende el puerto para poder atacarlo o escapar de él sin recibir daño.
 

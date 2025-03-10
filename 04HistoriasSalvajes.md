@@ -456,7 +456,7 @@ Si alguien se quedó en la carroza, podrá tirar Notar para oír los gritos de G
 
 #### Escapando a la carrera
 
-La forma más rápida de escapar es coger la carroza y salir pitando de la mansión. Los guardias les seguirán a caballo. Ambos monturas tienen sus estadísticas en el manual básico de SWADE.
+La forma más rápida de escapar es coger la carroza y salir pitando de la mansión. Los guardias les seguirán a caballo. Ambos monturas tienen sus estadísticas en el manual básico de SWEA.
 
 Imagínate la situación, tu mesa con sus coloridos trajes de disfraces bajando a toda velocidad en una elegante carroza hacia el puerto entre las estrechas callejuelas de San Juan, mientras intercambian disparos con guardias a caballo.
 
@@ -2387,7 +2387,7 @@ Con una tirada de Ciencias verán que el metal está solo sucio, sin restos de o
 
 **8\. Sala de pruebas:** Aquí era donde se experimentaba con humanos. Se les sacaba de las celdas, se les ponía en unas camas con sujeciones y se les inyectaba diferentes productos para ver sus efectos. Hay restos de diferentes restos de recipientes.
 
-**9\. Acceso a la planta inferior:** Desde esta sala se podía acceder a la planta inferior, desgraciadamente está todo inundado y no se puede acceder. En esta planta estaba la mini central nuclear que aún da algo electricidad al laboratorio. El agua está contaminada y sumergirse en ellas puede ser peligroso por la Radiación. Cualquiera que entre en el agua deberá tirar Vigor cada minuto, si falla la tirada, adquirirá un nivel de fatiga (ver reglas de Radiación de SWADE). Una tirada de Ciencias les dirá que el agua debe estar de alguna envenenada y que es la fuente de todas las extrañas plantas de al rededor del templo. Podrían establecer que sus vapores pueden ser nocivos a largo plazo y que no deberían estar muchos días seguidos cerca de esta agua.
+**9\. Acceso a la planta inferior:** Desde esta sala se podía acceder a la planta inferior, desgraciadamente está todo inundado y no se puede acceder. En esta planta estaba la mini central nuclear que aún da algo electricidad al laboratorio. El agua está contaminada y sumergirse en ellas puede ser peligroso por la Radiación. Cualquiera que entre en el agua deberá tirar Vigor cada minuto, si falla la tirada, adquirirá un nivel de fatiga (ver reglas de Radiación de SWEA). Una tirada de Ciencias les dirá que el agua debe estar de alguna envenenada y que es la fuente de todas las extrañas plantas de al rededor del templo. Podrían establecer que sus vapores pueden ser nocivos a largo plazo y que no deberían estar muchos días seguidos cerca de esta agua.
 
 Por todas las habitaciones hay rozas en las paredes de las que a veces salen cables y algunos chisporrotean. Si alguien toca los cables sin protección se llevará 2d6 de daño y si recibe una herida le lanzará 1d4 pasos hacia atrás.
 
