@@ -1770,7 +1770,7 @@ Ha podido dar explicación incluso a esos extraños huesos que parecen pertenece
 
 Lleva obsesionado con él semanas, sin casi comer ni dormir, simplemente tratando de darle forma y conseguir una explicación. Ha conseguido montar un exoesqueleto de una especie de crustáceo. Tiene una concha cónica y de su parte más estrecha deben de salir algún tipo de tentáculos. Dos acaban dos en tenazas de cangrejo, otro en una especie de cráneo y otro una especie de sistema de tubos de resonancia.
 
-Georges está ante el exoesqueleto de una entidad de la gran raza de yith que fue depositado en una tumba en un asentamiento yithanio hace miles de años.
+Georges está ante el exoesqueleto de una entidad de la gran raza de yith que fue depositado en una tumba en un asentamiento yithiano hace miles de años.
 
 #### Iniciando la aventura
 
@@ -1788,7 +1788,7 @@ _**Sugerencia de beni:** Jansen, como europeo blanco, se está atribuyendo haber
 
 Los restos óseos está metido en una vitrina sobre una estructura de filamentos de hierro para sostenerlo de pie. Los personajes podrán estudiarlo y si ya han tenido contacto con la gran raza lo reconocerán al momento. Será decisión suya contarle a Jansen lo que saben o no. Si se lo dicen, Jansen seguirá insistiendo en hacer el viaje, ya que esto podría ser mucho más grande que sus investigaciones actuales.
 
-Si no se han encontrado nunca con yithanios con una tirada de Ciencias, podrán extrapolar que podría ser algún tipo de crustáceo con tentáculos. También que son muy antiguos, incluso de antes de la llegada de los europeos al nuevo mundo, puede que incluso de las tribus taínas. Pero lo que les llamará la atención serán una marcas en el cono inferior. Son redondas, cuadradas, hexagonales, etc. demasiado perfectas para ser naturales. Algún héroe podría reconocerlas como hechas a propósito para poner joyas o adornos. Esto supondría que no eran meros animales si no puede que fueran inteligentes.
+Si no se han encontrado nunca con yithianos con una tirada de Ciencias, podrán extrapolar que podría ser algún tipo de crustáceo con tentáculos. También que son muy antiguos, incluso de antes de la llegada de los europeos al nuevo mundo, puede que incluso de las tribus taínas. Pero lo que les llamará la atención serán una marcas en el cono inferior. Son redondas, cuadradas, hexagonales, etc. demasiado perfectas para ser naturales. Algún héroe podría reconocerlas como hechas a propósito para poner joyas o adornos. Esto supondría que no eran meros animales si no puede que fueran inteligentes.
 
 Con una tirada de Medicina podrán ver que murió porque recibió un gran golpe en lo podría denominarse su cráneo y parece que fue en una lucha porque tiene señales de lucha en sus pinzas.
 
@@ -1798,7 +1798,7 @@ Con una tirada de Medicina podrán ver que murió porque recibió un gran golpe 
 
 Tras un día para hacer los preparativos del viaje, como comprar víveres y equipo de campaña, la expedición saldrá de San Juan para adentrarse en la jungla. El viaje de ida (como el de vuelta) trascurrirá sin problema, pero aprovecha a hacer una tirada en la tabla de encuentros en la jungla para darle algo de sabor.
 
-Deberán pasar un par de tiradas de Supervivencias para seguir las indicaciones de Nigua y llegar a las ruinas del asentamiento yithanio. Nigua se ha negado a volver a ese lugar maldito, solo lo hizo la primera vez por desesperación y pobreza, trataba económicamente de ayudar a su familia, pero ni loco volvería a hacerlo.
+Deberán pasar un par de tiradas de Supervivencias para seguir las indicaciones de Nigua y llegar a las ruinas del asentamiento yithiano. Nigua se ha negado a volver a ese lugar maldito, solo lo hizo la primera vez por desesperación y pobreza, trataba económicamente de ayudar a su familia, pero ni loco volvería a hacerlo.
 
 Si fallan las dos tiradas, se habrán perdido totalmente y tendrán que volver a San Juan a por más víveres y volver a intentarlo a no ser que tengan forma de conseguir víveres y agua potable. Si fallan solo una tirada, habrán tardado más de lo que pensaban y tendrán solo media semana en vez de una entera para estudiar el yacimiento arqueológico.
 
@@ -1836,7 +1836,7 @@ Otra opción es que su nombre aparezca en alguna incursión a una instalación d
 
 #### El viajero en el tiempo
 
-Onofre/Balua'k es un científico yithanio y solo tiene su trabajo. Solo va del laboratorio de RCPC a la casa señorial que le ha puesto la RCPC y vuelta. Si lo entrevistan en su casa, sus sirvientes, espías de la RCPC, darán aviso de la extraña visita. No les interesa perder un activo tan importante y lo tienen controlado. Si eso ocurre, mandará una banda de matones a asustarlos (3 piratas por cada persona de tu mesa) o más.
+Onofre/Balua'k es un científico yithiano y solo tiene su trabajo. Solo va del laboratorio de RCPC a la casa señorial que le ha puesto la RCPC y vuelta. Si lo entrevistan en su casa, sus sirvientes, espías de la RCPC, darán aviso de la extraña visita. No les interesa perder un activo tan importante y lo tienen controlado. Si eso ocurre, mandará una banda de matones a asustarlos (3 piratas por cada persona de tu mesa) o más.
 
 Es mejor pillarle en el paseo de camino al o del trabajo y hablar mientras andáis. Se mostrará cordial y hablador. Si le cuentan la verdad de lo que saben, Balua'k confesará toda su historia y si le parecen de fiar les hablará de su proyecto de viaje en el tiempo.
 

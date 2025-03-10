@@ -38,8 +38,12 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 1.1.2 En desarrollo
-* Nuevo monstruo: Color que cayo del espacio
+### Ver. 1.2 En desarrollo
+* Nuevo sistema que usa ficheros .md
+* Nuevo diseño y sistema de paginación
+
+### Ver. 1.1.2 26/02/2024
+* Nuevo monstruo: Color que cayó del espacio
 
 ### Ver. 1.1.1 25/02/2024
 * Nuevo monstruo: Lusca
@@ -158,7 +162,7 @@ Gracias por su documentación a:
 * Personajes acabados: La llorona
 * Secuaces
 * Aventura "Se buscan modelos" terminada
-* Equipo: Cañón lanzarrayos yithanio
+* Equipo: Cañón lanzarrayos yithiano
 
 ### Ver. 0.5.1 28/06/2023
 * Monstruos acabados: Yithianos, Gugos y Vampiros de fuego.

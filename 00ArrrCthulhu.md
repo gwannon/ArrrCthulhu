@@ -4,7 +4,8 @@
 
 ## Aventuras de piratas en el Caribe de los Mitos de Cthulhu
 
-![Logo Pinnacle](./images/pinnaclelogo.webp)  
+![Logo Pinnacle](./images/pinnaclelogo.webp)
+
 Ver. 1.1.2  
 
 [VERSIÓN EN PDF](https://arrrcthulhu.com/pdf/)
@@ -21,29 +22,55 @@ This game references the Savage Worlds game system, available from Pinnacle Ente
 
 ![Logo Pinnacle](./images/pinnaclelogo.webp)
 
-|01ElCaribeDelosMitos.md|
+|01ElCaribeDeLosMitos.md|
+
+***
 
 |02ReglasDeAmbientacion.md|
 
+|0201HechiceriaPrimigenia.md|
+
+|0202Comercio.md|
+
+|0203BotinYTesoro.md|
+
+|0204ViajesYEncuentros.md|
+
+***
+
 |03GuiaDeViajes.md|
+
+***
 
 |04HistoriasSalvajes.md|
 
-|05MonstruosDeLosMitos.md|
+***
+
+|05MonstruosDelosMitos.md|
+
+***
 
 |06QuienEsQuien.md|
 
+***
+
 |07DandoColor.md|
+
+***
 
 |08Epilogo.md|
 
+***
+
 |09Recursos.md|
+
+***
 
 ### Ambientación para SWEA
 
 # ¡Arrr! Cthulhu
 
-## Creado por [Gwannon](https://twitter.com/gwannon)
+## Creado por [|AUTHOR|](|AUTHOR_URL|)
 
 ¡Arrr! Cthulhu es una ambientación para el juego del rol Savage Worlds Edición Aventura (SWEA) con el que podrás jugar aventuras de piratas en el Caribe de los Mitos de Cthulhu.
 
