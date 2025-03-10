@@ -29,7 +29,7 @@ Gracias por su documentación a:
 * Nunca me habían dado todo (DETENIDA)
 * Behike (DETENIDA)
 
-## Por hacer en PNJs y monstruos
+## Por hacer en PNJ y monstruos
 ### Monstruos de los mitos
 * Revisar los tamaños de los seres
 

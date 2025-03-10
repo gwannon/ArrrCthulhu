@@ -1195,7 +1195,7 @@ El clan de profundos que cuida de esta tortuga encontrarán los restos de su ama
 
 El clan empezará a perseguir al barco y a matar a los sucios humanos que van en él. Es un clan pequeño, con unos 20 combatientes como mucho. No pueden enfrentarse directamente contra toda la tripulación, pero sí aprovechar a asesinar a uno o dos tripulantes en plena noche y desaparecer. Ahora en cada viaje, cuando se tire la tabla de Encuentros en el Mar, si sale un 7 (La Tortuga) o 10 (Saboteadores profundos) los profundos intentarán matar a un tripulante. Los resultados que lleven a Relatos Salvajes ya terminados también harán que haya intento de asesinato.
 
-Cuando los asesinos profundos intenten atacar, deberás tirar un d100. Si se saca menos de "comodín (PJs y PNJs que vayan en el barco)" x 5%. Intentarán matar a un PJ, si no atacarán a un tripulante normal. La tripulación normal muere directamente y seguramente su cadáver desaparecerá sin dejar rastro. Puedes dejarles pistas como señales de lucha, restos de algas, marcas de tridente, ...
+Cuando los asesinos profundos intenten atacar, deberás tirar un d100. Si se saca menos de "comodín (PJs y PNJ que vayan en el barco)" x 5%. Intentarán matar a un PJ, si no atacarán a un tripulante normal. La tripulación normal muere directamente y seguramente su cadáver desaparecerá sin dejar rastro. Puedes dejarles pistas como señales de lucha, restos de algas, marcas de tridente, ...
 
 Si atacan a un comodín, habrá un encuentro del comodín contra 2 profundos y un líder profundo. Si ven que no pueden ganar o se acercan refuerzos, tratarán de escapar al mar donde los perderán de vista. Si consiguen apresarlos podrán interrogarlos y saber qué está pasando y a qué se deben los ataques.
 

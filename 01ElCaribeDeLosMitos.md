@@ -1,7 +1,6 @@
 # El Caribe de los Mitos
 
-Bienvenidos al Caribe de 1722
------------------------------
+## Bienvenidos al Caribe de 1722
 
 Estás en 1722 en el Caribe. La conocida como Edad de Oro de la piratería está acabando. Los grandes piratas han muerto o se han retirado y los grandes tesoros se han enterrado para que los busquen durante generaciones. Las potencias europeas han "civilizado y apaciguado" el Caribe y expolian sus recursos. El azúcar, el tabaco y el café fluyen desde las plantaciones de las grandes islas del Caribe, llenando las arcas de los gobiernos europeos, mientras las gentes del Caribe sobrevive como puede.
 
@@ -40,7 +39,7 @@ Con los años la familia prosperó económica y socialmente hasta obtener de los
 
 Pronto el cabeza de la familia Villalba paso a tener un puesto en el círculo interior de la Orden y durante 300 años los Villalba aumentaron su poder tratando con entidades de los Mitos y decidieron el destino de Europa y sus territorios colonizados.
 
-Los Villalba hicieron y deshicieron a su gusto con la ayuda del dinero y la magia que les proporcionaba de la Orden, hasta que en 1629 fueron apresados, juzgados y ejecutados por la Santa Inquisición Romana. Se les acuso de brujería, mezclar su sangre con demonios y rezar a dioses paganos. Los Villalba intentaron pedir ayuda a la Orden, pero esta prefiero amputar la extremidad engangrenada para evitar problemas.
+Los Villalba hicieron y deshicieron a su gusto con la ayuda del dinero y la magia que les proporcionaba de la Orden, hasta que en 1629 fueron apresados, juzgados y ejecutados por la Santa Inquisición Romana. Se les acusó de brujería, mezclar su sangre con demonios y rezar a dioses paganos. Los Villalba intentaron pedir ayuda a la Orden, pero esta prefiero amputar la extremidad engangrenada para evitar problemas.
 
 A pesar de esto, muchos de los socios de la Orden cayeron poco a poco como fichas de dominó y la Orden casi desaparece.
 
@@ -80,7 +79,7 @@ El trabajo más costoso de todos es la ocultación de las actividades y el silen
 
 En resumen, la RCPC es una gran máquina de hacer dinero y controlar a la gente para que la Orden pueda hacer lo que tenga que hacer para despertar a Cthulhu y este le otorgue a Villalba la inmortalidad que tanto anhela.
 
-#### La tentáculos de la RCPC
+#### Los tentáculos de la RCPC
 
 La RCPC tiene cuatro ramas o más correctamente cuatro tentáculos que se extienden por todo el Caribe. Cada una tiene unos recursos y unos métodos propios, pero un único objetivo, la supremacía en la sombra de la Orden en todo el Caribe y la consecución de sus objetivos.
 
@@ -96,7 +95,7 @@ Sus ingresos vienen principalmente de que son intermediarios en casi todas las t
 
 Como compañía privilegiada, Además, puede imponer un canon en los puertos que controla a los productos que no usan sus servicios. Es por ello que el contrabando de productos caros como el ron se ha convertido en algo común en el Caribe.
 
-El contrabando y los ataques de piratas a sus barcos es lo que permitió a la RCPC solicitar y conseguir de la corona de España poder tener su propia de flota de barcos de combate. Esta flota esta compuesta de buques de guerra que protegen sus convoyes y sus puertos y de barcos guardacostas que controlan el contrabando.
+El contrabando y los ataques de piratas a sus barcos es lo que permitió a la RCPC solicitar y conseguir de la corona de España poder tener su propia de flota de barcos de combate. Esta flota está compuesta de buques de guerra que protegen sus convoyes y sus puertos y de barcos guardacostas que controlan el contrabando.
 
 A pesar de que la rama comercial genera cantidades ingentes de dinero, nunca hay suficiente para llevar a cabo los locos planes de Hernando Villalba y ha tenido muchas veces que empezar a trabajar en operaciones ilegales.
 

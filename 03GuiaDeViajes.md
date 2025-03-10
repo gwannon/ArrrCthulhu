@@ -204,7 +204,7 @@ La plaza de Armas es el centro de la vida comercial y social de La Habana. Vario
 
 En plena plaza hay varios postes y tablones donde se colocan los diferentes bandos municipales, nuevas leyes y tratados comerciales, sentencias de juicios y condenas, ... Por unas monedas el ayuntamiento te deja poner mensajes personales como anuncios de bodas, defunciones o nacimientos u textos más empresariales como ofertas de trabajo, propuestas comerciales o compraventas de productos y bienes inmuebles por poner unos ejemplos.
 
-En momentos especiales y con piratas violentos y famosos y criminales muy buscados que han creado gran conmoción social, el gobernador monta un cadalso donde colgar a los sentenciados a muerte. Esto atraen a mucha gente, con lo que no sería imposible montar una huida espectacular a la desesperada de PJs o PNJs que hayan sido condenados a morir en la horca.
+En momentos especiales y con piratas violentos y famosos y criminales muy buscados que han creado gran conmoción social, el gobernador monta un cadalso donde colgar a los sentenciados a muerte. Esto atraen a mucha gente, con lo que no sería imposible montar una huida espectacular a la desesperada de PJs o PNJ que hayan sido condenados a morir en la horca.
 
 #### Castillo de los Tres Reyes Magos del Morro
 

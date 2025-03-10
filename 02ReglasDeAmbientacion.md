@@ -933,7 +933,7 @@ Así rebautizo Mary Read al barco que robo del puerto de Kingston tras escapar d
 Horror y cordura
 ----------------
 
-El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo personaje tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJs al servicio del DJ.
+El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo personaje tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJ al servicio del DJ.
 
 Cada vez que un personaje se enfrente a un ser de los Mitos deberá hacer una tirada de enfrentada de Astucia contra la tirada de pérdida de cordura (TPC) del monstruo. Si pasa la tirada no ocurre nada, el personaje ha racionalizado correctamente lo que ha ocurrido y puede actuar con normalidad.
 
@@ -2037,7 +2037,7 @@ Por cada poder tenemos varias opciones de hechizos y rituales que no son más qu
 
 Esta modificación es genérica para la mayoría de poderes. Gastando la mitad de los puntos poder normales que pide el poder se puede hacer que el hechizo infunda terror en los objetivos y los que los presencien. Por ejemplo, Ceguera puede hacerse tan horripilante (ojos derretidos, sangrantes, ...) que los que lo presencien tengan que hacer una TPC de d4, si se gasta la misma cantidad de puntos de poder la TPC es un d6.
 
-Recuerda que este es más un recurso más para que lo usen tus PNJs, especialmente los malos que realmente para los jugadores y deberías dejarles claro que ir sumiendo en la locura a la gente no es cosa de héroes.
+Recuerda que este es más un recurso más para que lo usen tus PNJ, especialmente los malos que realmente para los jugadores y deberías dejarles claro que ir sumiendo en la locura a la gente no es cosa de héroes.
 
 Esta modificación solo se puede usar con: Aura dañina, Barrera, Ceguera, Drenaje de puntos de poder, Ilusión, Lectura de mentes, Invocación de aliados, Manipulación de recuerdos, Marioneta, Protección, Oscuridad, Proyectil, Sonido, Sueño y Trepamuros
 
@@ -2273,7 +2273,7 @@ Es un ritual para expulsar a las meigas (brujas gallegas) y proteger a los parti
 El aguardiente puede ser cualquier alcohol destilado, por ejemplo el ron.
 
 **Ritual de buena suerte:** Hay montones de rituales de buena, desde meter un trébol de cuatro hojas en tu zapato hasta dejar una copa de bebida para los espíritus, pasando por llevar ropa de color rojo o comer uvas con las campanadas. Cuando se aprende el ritual se debe especificar el ritual que se va a seguir.  
-Una vez por sesión solo una persona de tu mesa podrá intentar este ritual de buena suerte y si se consigue se crea un beni comunitario que podrá ser usado por los jugadores como quieran, incluso en tiradas de PNJs. El beni dura hasta el final de la sesión.
+Una vez por sesión solo una persona de tu mesa podrá intentar este ritual de buena suerte y si se consigue se crea un beni comunitario que podrá ser usado por los jugadores como quieran, incluso en tiradas de PNJ. El beni dura hasta el final de la sesión.
 
 **Sanación Obeah:** El obeah es toda una mezcla de religiones de África Occidental que se caracteriza por tener muchos y variados rituales de sanación, desde cuidados de las parturientas hasta tratamiento de heridas graves y epidemias. El practicante de esta fe sabe realizar una serie de prácticas que pueden parecer mágicas, pero en la mayoría de los casos son buenas prácticas médicas como limpiar y desinfectar heridas o bebedizos de plantas para provocar abortos.  
 Este ritual puede cogerse varias veces tratando diferentes tipos de prácticas médicas (traumatismos, epidemias, obstetricia, neumología, ...) Pasando la tirada de Espíritu podrás otorgar un +1 extra a las tiradas de recuperación de tu paciente si sufre alguna dolencia relacionada con tus conocimientos de sanación Obeah.
@@ -2687,7 +2687,7 @@ Si un lector destina medio día a ojear un libro y pasa una tirada del Idioma en
 Combate naval
 -------------
 
-Si bien las reglas de persecuciones en vehículos de SWEA cubren los combates navales, estas son algunas reglas extras que puedes aplicar a tus combates navales para darles un toque lovecraftsiano.
+Si bien las reglas de persecuciones en vehículos de SWEA cubren los combates navales, estas son algunas reglas extras que puedes aplicar a tus combates navales para darles un toque lovecraftiano.
 
 ### Horror
 
@@ -2863,7 +2863,7 @@ NOTA: Si a tu mesa le encanta todo este mini juego de comercio, disfrutadlo. Si 
 Botín y tesoro
 --------------
 
-Todos sabemos que lo que mueve a los piratas es saquear barcos, conseguir un buen botín para gastarlo en una taberna del puerto o enterrarlo en una isla desierta. Y estaba claro que en este juego íbamos a tener una buena tabla de tesoro con tintes lovecraftsianos.
+Todos sabemos que lo que mueve a los piratas es saquear barcos, conseguir un buen botín para gastarlo en una taberna del puerto o enterrarlo en una isla desierta. Y estaba claro que en este juego íbamos a tener una buena tabla de tesoro con tintes lovecraftianos.
 
 Todos los seres que hacen perder cordura tienen botín si son derrotados. Después de vencer al monstruo, uno de los jugadores deberá lanzar la TPC básica del monstruo. Según los éxitos que consigan podrán tirar en diferentes tablas:
 
@@ -2877,7 +2877,7 @@ Si se consigue:
 *   2 éxitos puede tirar 2 veces en la tabla de riquezas o 1 en la tabla de objetos extraordinarios.
 *   3 éxitos suponen, 3 tiradas en la tabla de riquezas, 1 en la de riqueza más 1 en la de objetos extraordinarios o solo 1 en la tabla más allá del tiempo y el espacio.
 
-Puede haber situaciones, decisiones, trampas, misterios, PNJs, etc. que tengan tirada de botín que deberemos usar como si fuera la tirada de pérdida de cordura, salvo que en esos casos no se podrán usar éxitos en la tabla de más allá del tiempo y el espacio.
+Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan tirada de botín que deberemos usar como si fuera la tirada de pérdida de cordura, salvo que en esos casos no se podrán usar éxitos en la tabla de más allá del tiempo y el espacio.
 
 ### Riquezas
 

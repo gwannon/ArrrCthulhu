@@ -1,6 +1,6 @@
 # Quién es quién en el Caribe
 
-En estas páginas encontrarás a la gente más importante de los relatos salvajes de ¡Arrr! Cthulhu. Todos estos PNJs habitan este Caribe de los Mitos y son fuerzas capaces de cambiar la historia. Eres libre de hacer con ellos lo que quieras y cambiar los detalles que no te gusten.
+En estas páginas encontrarás a la gente más importante de los relatos salvajes de ¡Arrr! Cthulhu. Todos estos PNJ habitan este Caribe de los Mitos y son fuerzas capaces de cambiar la historia. Eres libre de hacer con ellos lo que quieras y cambiar los detalles que no te gusten.
 
 Aquí podrás encontrar heroínas y campeonas del bien como Mary Read o villanos que supuran maldad como Edward Teach o Hernando de Villalba. Pero también encontrarás gente normal como Isadora que solo quiere vivir tranquila en su biblioteca u Onofre que busca volver a casa.
 
@@ -161,7 +161,7 @@ María Isabel es una gran combatiente, diestra, fuerte, rápida y resistente. Co
 *   **Atributos:** Agilidad d12, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
 *   **Habilidades:** Atletismo d12, Cabalgar d10, Disparar d10, Idioma nativo d6, Idioma Criollo d6, Pelear d12, Sigilo d12, Tácticas d10
 *   **Paso:** 6; **Parada:** 9 (1); **Dureza:** 9 (1)
-*   **Desventajas:** Secreto (Es la hija ilegitima de Eusebio García), Secreto (Es la asesina de Antonio García)
+*   **Desventajas:** Secreto (Es la hija ilegítima de Eusebio García), Secreto (Es la asesina de Antonio García)
 *   **Ventajas:** Ambidextro, Ataque repentino, Con un par de, Bloqueo, Frenesí, Parkour, Trasfondo Arcano (Hechicería primigenia)
 *   **Equipo:** Sable de abordaje (FUE+d6), Hacha de abordaje (FUE+d6), Protecciones de cuero +1, Granadas (3), Petardos (10)
 

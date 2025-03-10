@@ -630,13 +630,13 @@ Secuaces y criaturas
 
 Vas a necesitar llenar tus tabernas de turbios personajes de miradas perdidas, tus mercados de extraños vendedores, tus mares de barcos sin bandera con oscuras velas y tus junglas de animales de grandes dientes y afiladas garras acechando entre la vegetación. Aquí tienes todo lo necesario para que rellenes todos esos huecos en tus historias.
 
-En algunos casos te encontrarás algunas opciones de personalización muy simples del PNJ para que tu mesa no termine por aprenderse los PNJs. Por ejemplo, los piratas pueden ser avariciosos, borrachos, cojos, mancos o tuertos y los agricultores puede que lleven cuchillos o machetes.
+En algunos casos te encontrarás algunas opciones de personalización muy simples del PNJ para que tu mesa no termine por aprenderse los PNJ. Por ejemplo, los piratas pueden ser avariciosos, borrachos, cojos, mancos o tuertos y los agricultores puede que lleven cuchillos o machetes.
 
 ### Secuaces
 
-Aquí te presentamos toda una galería de personajes no jugadores genéricos que van a pulular por las cubiertas de tus barcos, los callejones de tus puertos y las sendas de tus junglas. También los puedes usar como base para tus PNJs. Si el jefe de puerto de la ciudad de Matanzas va a ser importante, coge a un burócrata y adórnalo con tus propios detalles.
+Aquí te presentamos toda una galería de personajes no jugadores genéricos que van a pulular por las cubiertas de tus barcos, los callejones de tus puertos y las sendas de tus junglas. También los puedes usar como base para tus PNJ. Si el jefe de puerto de la ciudad de Matanzas va a ser importante, coge a un burócrata y adórnalo con tus propios detalles.
 
-Recuerda que en esta ambientación muchos PNJs puedes personalizarlos con desventajas como Buscado (Mayor) por piratería o Secreto (Mayor) por ser un cimarrón o un preso huido o con ventajas como Riqueza por tener un tesoro escondido o con un Sexto Sentido para evitar las trampas de los cazapiratas y los intentos de asesinatos de tus enemigos.
+Recuerda que en esta ambientación muchos PNJ puedes personalizarlos con desventajas como Buscado (Mayor) por piratería o Secreto (Mayor) por ser un cimarrón o un preso huido o con ventajas como Riqueza por tener un tesoro escondido o con un Sexto Sentido para evitar las trampas de los cazapiratas y los intentos de asesinatos de tus enemigos.
 
 #### Marino
 

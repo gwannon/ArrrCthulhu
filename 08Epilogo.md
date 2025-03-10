@@ -1,7 +1,6 @@
 # Epílogo
 
-Notas del autor
----------------
+## Notas del autor
 
 ### ¿Por qué Savage Worlds?
 
@@ -9,11 +8,11 @@ Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos 
 
 ### Veracidad histórica
 
-En esta ambientación, si bien tiene una pequeña base histórica, no es en absoluto realista e históricamente correcta. No busquéis unos datos históricos correctos, aquí no los vas a encontrar. Los hechos y fechas que se narran en este juego han sido modificados (o tergiversados, según otros) para crear una ambientación pirata de tintes lovecraftsianos divertida y llena de acción, más cerca de películas de aventuras y de videojuegos que de documentales del canal Historia.
+En esta ambientación, si bien tiene una pequeña base histórica, no es en absoluto realista e históricamente correcta. No busquéis unos datos históricos correctos, aquí no los vas a encontrar. Los hechos y fechas que se narran en este juego han sido modificados (o tergiversados, según otros) para crear una ambientación pirata de tintes lovecraftianos divertida y llena de acción, más cerca de películas de aventuras y de videojuegos que de documentales del canal Historia.
 
 ### Salud mental
 
-Los trastornos mentales y la salud mental representados en esta ambientación no tratan de ser realistas, solo tratan de reflejar con las reglas de SWEA el horror y la locura tan característicos de Lovecraft y cómo estos afectan a las capacidades de los PJs.
+Los trastornos mentales y la salud mental representados en esta ambientación no tratan de ser realistas, solo tratan de reflejar con las reglas de SWEA el horror y la locura tan característicos de Lovecraft y cómo estos afectan a las capacidades de los PJ.
 
 ### Influencias
 
@@ -27,7 +26,7 @@ Puedes obviar estas tablas tranquilamente y crear tú directamente los objetos y
 
 ### Inclusión, diversidad y ecología
 
-He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal. He tratado de que haya diversidad entre PNJs con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual (ver más adelante Romancear PNJs). He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
+He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal. He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual (ver más adelante Romancear PNJ). He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
 
 Está claro que los malos van a ser racistas, machistas, homófobos, etc. vamos lo que se considera malas personas en general, pero creo que no debéis permitirles estas conductas a vuestras mesas ni aunque digan que "su personaje es así" o "era lo normal en esa época". Esto es un juego de rol y ya hay mucha mierda en la vida real para aguantarla tú o tus jugadores en una mesa de juego.
 
@@ -45,7 +44,7 @@ Para finalizar, estaré encantado de escuchar cualquier crítica que queráis ha
 
 Aunque en esta ambientación se da a entender que todos los males y desastres del Caribe son culpa de un culto maligno asociado con seres extradimensionales diabólicos como son la RCPC y la Orden del gran Cthulhu, la realidad es que fueron los colonizadores europeos los culpables de la mayoría de actos deleznables que se dieron en el Caribe desde la llegada de Colón.
 
-Muchos relatos salvajes están inspirados en esos terribles actos, dándoles un origen lovecraftsiano, pero en realidad ocurrieron muchas de cosas muy terribles como la guerra bacteriológica y el diezmado de la población taína por enfermedades traídas por los colonizadores o la desaparición de especie animales y vegetales por sobreexplotación, sin olvidarse de la desaparición de la cultura taína mediante, por ejemplo, evangelizaciones forzosas.
+Muchos relatos salvajes están inspirados en esos terribles actos, dándoles un origen lovecraftiano, pero en realidad ocurrieron muchas de cosas muy terribles como la guerra bacteriológica y el diezmado de la población taína por enfermedades traídas por los colonizadores o la desaparición de especie animales y vegetales por sobreexplotación, sin olvidarse de la desaparición de la cultura taína mediante, por ejemplo, evangelizaciones forzosas.
 
 Estoy simplificando mucho todo este tema, pero sin lugar a dudas las potencias europeas sometieron, masacraron y expoliaron el Caribe y a sus pobladores originales.
 
@@ -63,7 +62,7 @@ En esta ambientación se tratan temas que pueden herir sensibilidades, así que 
 
 Si algo no te gusta eres libre de cambiarlo o descartarlo, pero hay partes en esta ambientación que pido encarecidamente en su propio texto que no se cambien. Por ejemplo, Adolfé es un personaje no binario y me gustaría que así se le tratará.
 
-### Romancear PNJs
+### Romancear PNJ
 
 Las vidas sentimentales y sexuales de la mayoría de los personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así, cualquier persona de tu mesa podrá romancear con cualquier PNJ que encuentres aquí. Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con la que todos os encontréis cómodos.
 
@@ -171,8 +170,7 @@ Gracias por su documentación a:
 *   [sectarios.org](http://www.sectarios.org/)
 *   [Wiki Amor de Otro Mundo](https://amor-de-otro-mundo.fandom.com/es/wiki/Wiki_Amor_de_Otro_Mundo)
 
-Música para las partidas
-------------------------
+## Música para las partidas
 
 Esta es mi selección de música para jugar a ¡Arrr! Cthulhu. Es casi imposible encontrar música que pegue con piratas y con Cthulhu así que primero vamos a ver música para momentos más "piratescos".
 
@@ -185,17 +183,15 @@ Y esta es mi recomendación para momentos más "cthulhulianos".
 *   Akenaton de Phillip Glass
 *   [Cryo Chamber](https://www.youtube.com/@cryochamberlabel)
 
-Reseñas
--------
+## Reseñas
 
 Si quieres saber la opinión de otras personas, aquí tienes algunas reseñas que nos han hecho. Por ahora son buenas, pero también meteré las malas, aunque espero que no las haya :)
 
-*   [sectarios org Comunidad Cthulhu](https://www.youtube.com/watch?v=mVtpmvxpvMQ)
+*   [sectarios.org Comunidad Cthulhu](https://www.youtube.com/watch?v=mVtpmvxpvMQ)
 *   [En 5 Minutos Rol](https://www.youtube.com/watch?v=FjnxBHYn5nE)
 *   [El Archivo de George](https://www.youtube.com/watch?v=S7uBh708if8&t=520s)
 
-Otros proyectos que te pueden interesar
----------------------------------------
+## Otros proyectos que te pueden interesar
 
 [![OPERACIÓN: Tras El Mundo Perdido](./images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios")
 
