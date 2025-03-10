@@ -2,9 +2,13 @@
 
 En nuestra guía de viajes te vamos a mostrar los sitios más interesantes, más divertidos, salvajes o terroríficos del Caribe de 1722. Lugares dominados por los seres de los Mitos donde la aventura se puede respirar. Muchos de ellos puedes usarlos para ambientar tus sesiones y otras muchas son semillas de rol para tus propias aventuras. Mi recomendación es que añadas las tuyas y hagas este mundo mucho más rico.
 
-La estructura es muy sencilla. El Caribe está dividido en diferentes zonas. Cada zona en las principales ciudades y cada ciudad en los lugares más interesantes. Podrás encontrar, tiendas, tabernas, monumentos, cuevas, lagos, ... Muchas zonas tienen lugares de interés que no pertenecen a ninguna comunidad, pero que son lo suficientemente interesantes como para ser destacados en los apartados de "Otros lugares de ...".
+La estructura es muy sencilla. El Caribe está dividido en diferentes zonas. Cada zona en las principales ciudades y cada ciudad en los lugares más interesantes. Podrás encontrar, tiendas, tabernas, monumentos, cuevas, lagos, … Muchas zonas tienen lugares de interés que no pertenecen a ninguna comunidad, pero que son lo suficientemente interesantes como para ser destacados en los apartados de "Otros lugares de …".
+
+\sinc
 
 ## Islas piratas
+
+\conc
 
 En 1722 podemos encontrar diferentes enclaves piratas, puertos seguros donde refugiarse en caso de problemas con ingleses o españoles, donde poder vender su botín y donde divertirse y beber hasta caer inconsciente.
 
@@ -200,7 +204,7 @@ Mapa de La Habana
 
 La plaza de Armas es el centro de la vida comercial y social de La Habana. Varios edificios gubernamentales y militares están a su alrededor, así como la sede central de la RCPC. En las tabernas de las calles aledañas se pueden disfrutar de las delicias culinarias de la cocina criolla y en sus tabernas probar el mejor ron de la isla. Hay mucha agitación día y noche y es un lugar de encuentro de los locales y los foráneos.
 
-En plena plaza hay varios postes y tablones donde se colocan los diferentes bandos municipales, nuevas leyes y tratados comerciales, sentencias de juicios y condenas, ... Por unas monedas el ayuntamiento te deja poner mensajes personales como anuncios de bodas, defunciones o nacimientos u textos más empresariales como ofertas de trabajo, propuestas comerciales o compraventas de productos y bienes inmuebles por poner unos ejemplos.
+En plena plaza hay varios postes y tablones donde se colocan los diferentes bandos municipales, nuevas leyes y tratados comerciales, sentencias de juicios y condenas, … Por unas monedas el ayuntamiento te deja poner mensajes personales como anuncios de bodas, defunciones o nacimientos u textos más empresariales como ofertas de trabajo, propuestas comerciales o compraventas de productos y bienes inmuebles por poner unos ejemplos.
 
 En momentos especiales y con piratas violentos y famosos y criminales muy buscados que han creado gran conmoción social, el gobernador monta un cadalso donde colgar a los sentenciados a muerte. Esto atraen a mucha gente, con lo que no sería imposible montar una huida espectacular a la desesperada de PJ o PNJ que hayan sido condenados a morir en la horca.
 
@@ -327,7 +331,7 @@ _**Recompensa extra de cordura (+1):** Desbaratar el local ilegal de Alfredo es 
 
 La Universidad de La Habana está siendo construida por frailes Dominicos, que acaban de conseguir el permiso real y del Papa para crear la universidad. El campus se está construyendo en el convento de San Juan de Letrán.
 
-Los dominicos necesitan de todo, materiales de construcción, objetos educativos o científicos, libros para su biblioteca, ... Seguramente una persona de cualquier condición social que aporte algo de lo que los dominicos necesitan en su proyecto, puede conseguir que acepten dar una educación de calidad a quien fuese necesario. Si alguien que de normal no podría entrar a estudiar en la universidad puede conseguirlo si tiene un mecenas que le ayude.
+Los dominicos necesitan de todo, materiales de construcción, objetos educativos o científicos, libros para su biblioteca, … Seguramente una persona de cualquier condición social que aporte algo de lo que los dominicos necesitan en su proyecto, puede conseguir que acepten dar una educación de calidad a quien fuese necesario. Si alguien que de normal no podría entrar a estudiar en la universidad puede conseguirlo si tiene un mecenas que le ayude.
 
 #### Colegio San José
 
@@ -349,7 +353,7 @@ Solo Isadora conoce el sistema de clasificación que usaba su padre y solo ella 
 
 Isadora sabe apreciar los libros de los Mitos, reconoce su valor y suele intercambiar este tipo de libros e incluso comprarlos. Si apareces por allí con algún libro que hable de los Mitos, estará encantada de ojearlo y darte su opinión.
 
-Isadora es una de las personas que más sabe sobre los Mitos de todo el Caribe, pero solo a nivel teórico, porque nunca ha hecho trabajo de campo. Tu mesa, si se gana su confianza, podrá consultarle sobre objetos de los Mitos, maldiciones, hechizos, rituales, ...
+Isadora es una de las personas que más sabe sobre los Mitos de todo el Caribe, pero solo a nivel teórico, porque nunca ha hecho trabajo de campo. Tu mesa, si se gana su confianza, podrá consultarle sobre objetos de los Mitos, maldiciones, hechizos, rituales, …
 
 #### La verdad de La Habana
 
@@ -433,9 +437,9 @@ En el extremo oeste de la isla de Cuba, en la costa de la península de Guanahac
 
 Las únicas personas que conoce su existencia es Hernando Villalba y los adeptos de mayor nivel de la Orden. Se quedó impresionado la primera vez que se sumergió y vio las estructuras, pensando que había encontrado la ciudad de su señor. Sin embargo, lo que encontró fue un puesto avanzado submarino de los Antiguos (una extraña raza extraterrestre que habito la Tierra hace miles de años).
 
-Paso un año estudiando los grabados que había en las paredes de las estructuras y nadie sabe qué descubrió en ellos, pero desde su visita cambió su forma de pensar sobre como encontrar R'lyeh.
+Paso un año estudiando los grabados que había en las paredes de las estructuras y nadie sabe qué descubrió en ellos, pero desde su visita cambió su forma de pensar sobre como encontrar R’lyeh.
 
-Junto al Camino de Bimini en las Bahamas, los grabados de los antiguos son una de las razones que le han llevado a elaborar la teoría de que R'lyeh está sumergida en algún lugar del Caribe.
+Junto al Camino de Bimini en las Bahamas, los grabados de los antiguos son una de las razones que le han llevado a elaborar la teoría de que R’lyeh está sumergida en algún lugar del Caribe.
 
 ## Puerto Rico
 
@@ -457,7 +461,7 @@ La ciudad de San Juan se fundó en una isla que tapa la entrada a la bahía, con
 
 Juan Ponce de León es conocido por explorar/conquistar la Florida y por buscar la fuente de la eterna juventud. Pero de 1508 a 1513 fue gobernado gobernador de San Juan que entonces se conocía como Caparras.
 
-Fue aquí donde escuchó a los taínos de la zona las historias de los cemís diabólicos del mar. De como te daban regalos de oro, perlas y buena pesca y de como se cruzaban con los humanos y tenían una descendencia híbrida. Y de como esas tribus terminaban convirtiéndose en comunidades corruptas y abyectas, repudiadas por el resto de la nación taína.
+Fue aquí donde escuchó a los taínos de la zona las historias de los cemíes diabólicos del mar. De como te daban regalos de oro, perlas y buena pesca y de como se cruzaban con los humanos y tenían una descendencia híbrida. Y de como esas tribus terminaban convirtiéndose en comunidades corruptas y abyectas, repudiadas por el resto de la nación taína.
 
 Sabiendo todo esto, hizo tratos herejes con tribus profundas donde entregaba sacrificios humanos a cambio de conocimientos prohibidos. Así es como supo de las ciudades de oro como Cíbola o la fuente de la eterna juventud.
 
@@ -528,7 +532,7 @@ Los cánticos que tu mesa debe recitar son:
 
 En las afueras de la ciudad de Ponce existe un antiguo complejo religioso/deportivo abandonado por los taínos y los irenis (etnia que provenía de las tierras recorridas por el Orinoco) hace siglos sin conocerse la razón. Se pueden encontrar 4 campos de batú de diferentes tamaños que aún se suelen usar en encuentros importantes entre las comunidades cercanas.
 
-Hay, además, un importante cementerio de 8 o 9 años de antigüedad. Teniendo los poderes necrománticos adecuados se podría conseguir importante información de tiempos pasados. Debido a que los taínos y los ireni creían en una vida después de la muerte, eran enterrados con sus objetos personales, joyas, armas, utensilios de cocina, ... Es por ello que se podría saquear las tumbas para obtener objetos de valor.
+Hay, además, un importante cementerio de 8 o 9 años de antigüedad. Teniendo los poderes necrománticos adecuados se podría conseguir importante información de tiempos pasados. Debido a que los taínos y los ireni creían en una vida después de la muerte, eran enterrados con sus objetos personales, joyas, armas, utensilios de cocina, … Es por ello que se podría saquear las tumbas para obtener objetos de valor.
 
 El saqueo de tumbas es algo horrible, ya que no solo estropea el yacimiento para su estudio y poder así conocer a las gentes que vivieron allí. También es robar una riqueza a las gentes del lugar, al saquear su historia y su cultura y estropear la oportunidad de saber quiénes son y de dónde vienen. No seas como el British Museum, no robes reliquias. Dentro de una ambientación basada en los Mitos de Cthulhu saquear una tumba para robar un cadáver podría ser considerado "aceptable", pero desde luego no deberías permiten que tu mesa coja pico y pala y se dedique a saquear tumbas para robar sus objetos valiosos.
 
@@ -540,7 +544,7 @@ El saqueo de tumbas es algo horrible, ya que no solo estropea el yacimiento para
 
 En el centro de Puerto Rico, en la región de Jayuya, en las orillas del Río Saliente se encuentra La Piedra Escrita. En el cauce del río se pueden encontrar una gran roca erosionada por el río. Este monolito de piedra gris, de diez metros de largo y cuatro de ancho, exhibe una impresionante muestra de figuras talladas por los taínos con los que representaban a sus dioses, animales y elementos de la naturaleza.
 
-Este es un lugar sagrado para los taínos y cualquier promesa o trato que se haga en este lugar se vuelve sagrado y no se puede romper. Según sus creencias, los cemís de los antepasados que habitan aquí te perseguirán si rompes tu palabra.
+Este es un lugar sagrado para los taínos y cualquier promesa o trato que se haga en este lugar se vuelve sagrado y no se puede romper. Según sus creencias, los cemíes de los antepasados que habitan aquí te perseguirán si rompes tu palabra.
 
 En juego, cualquier pacto hecho aquí con un taíno deberá cumplirse y de no hacerlo, el que falto a su palabra será tildado de indigno por la nación taína y tendrá un -2 en las tiradas de Persuadir al interactuar con taínos. Se negarán a venderte provisiones, no querrán comprar tus productos, te expulsarán de sus poblados, etc.
 
@@ -672,7 +676,7 @@ El Fét Ged es el Día de los muertos para los practicantes del vudú. A pesar d
 
 Es una celebración muy popular entre los piratas por sus excesos y se sabe que es visitada por muchos piratas que se mezclan entre los celebrantes para disfrutar de la fiesta. Puede ser un buen momento en el que tu mesa se encuentre con alguna de sus némesis piratas. Fácilmente, todo puede pasar de la dialéctica a las peleas de taberna o los duelos a espada.
 
-Durante el Fèt Gede, Nyarlathotep como el Barón Samedí visita a sus adoradores y se divierte como un mortal bebiendo, fumando, bailando y comiendo. Si alguien quiere buscarlo para interactuar con él deberá participar en el Fèt Gede activamente bailando, comiendo, ... Tendrá que pasar una tirada de Vigor o tendrá un -2 por el alcohol, el picante y la hierba de fumar. Una vez integrado en la celebración podrá empezar a buscarlo y deberá conseguir 1 avance en la tirada de Notar.
+Durante el Fèt Gede, Nyarlathotep como el Barón Samedí visita a sus adoradores y se divierte como un mortal bebiendo, fumando, bailando y comiendo. Si alguien quiere buscarlo para interactuar con él deberá participar en el Fèt Gede activamente bailando, comiendo, … Tendrá que pasar una tirada de Vigor o tendrá un -2 por el alcohol, el picante y la hierba de fumar. Una vez integrado en la celebración podrá empezar a buscarlo y deberá conseguir 1 avance en la tirada de Notar.
 
 ## Jamaica
 
@@ -910,13 +914,13 @@ Si pregunta a la gente local les dirán que apareció hace unos años con su bar
 
 Hay muchas historias sobre quién es, pero solo una es correcta. Es un viejo pirata retirado que disfruta de su botín. De hecho, es Henry Avery, uno de los piratas de mayor éxito de la historia. Desapareció en 1699 tras un gran golpe en el Índico a la flota de Aurangzeb, un emperador mogol de la India.
 
-Si alguien registra su barco no encontrará su tesoro, ya que lo ha enterrado bajo una palmera cercana. Pero puede que encuentre objetos de su vieja vida como su bandera pirata (una calavera de lado con pendientes y con un pañuelo con dos tibias cruzadas sobre fondo rojo), cartas navales del Índico, viejos diarios de capitán, ...
+Si alguien registra su barco no encontrará su tesoro, ya que lo ha enterrado bajo una palmera cercana. Pero puede que encuentre objetos de su vieja vida como su bandera pirata (una calavera de lado con pendientes y con un pañuelo con dos tibias cruzadas sobre fondo rojo), cartas navales del Índico, viejos diarios de capitán, …
 
 Le encantan las historias de piratas e invita a bebida a cualquiera que quiera contarlas las últimas novedades piratescas del Caribe. También le gusta leer la VLH y acepta ejemplares, sobre todo si tienen noticias de piratas.
 
 Avery es un fantástico estratega, lo cual explica su gran éxito como pirata. Si te ganas tu amistad contándole alguna historia buena de su gusto, puede estudiar un plan de ataque, ver sus fallos y dar posibles soluciones. También responderá a tus cartas, pero este método es mucho más lento.
 
-En juego, tiene Tácticas d12+2 y si le presentas un plan puede tirar sus Tácticas. Por cada avance que consiga tu mesa puede hacerte una pregunta sobre su plan y deberás contestarles con la verdad, pero sin ofrecer más información de la que tengan. Serían preguntas como: ¿Cuál es el principal fallo de mi plan? ¿Debo hacerlo de noche o de día? ...
+En juego, tiene Tácticas d12+2 y si le presentas un plan puede tirar sus Tácticas. Por cada avance que consiga tu mesa puede hacerte una pregunta sobre su plan y deberás contestarles con la verdad, pero sin ofrecer más información de la que tengan. Serían preguntas como: ¿Cuál es el principal fallo de mi plan? ¿Debo hacerlo de noche o de día? …
 
 _**Sugerencia de beni:** Recompensa con un par de benis al que averigüe quién es el viejo pirata de Nasáu. Y con alguno más si no se lo cuenta a nadie._
 
@@ -938,7 +942,7 @@ El agujero azul puede ser un buen lugar de reunión con líderes profundos. El e
 
 El camino de Bimini son unas extrañas formaciones rocosas que existen cerca de la isla de Bimini, en las Bahamas, a una profundidad de 10 metros. Parecen calzadas de piedra y hay varios tramos de unos 800 metros de largo por 2 de ancho.
 
-Las historias hablan de una calzada que iba a la Atlántida, Lemuria o Mú o que son de origen natural. Pero verdad es que era una calzada que llevaba a R'lyeh, localizando más estructuras como esta se podría triangular la posición de la ciudad tumba de Cthulhu.
+Las historias hablan de una calzada que iba a la Atlántida, Lemuria o Mú o que son de origen natural. Pero verdad es que era una calzada que llevaba a R’lyeh, localizando más estructuras como esta se podría triangular la posición de la ciudad tumba de Cthulhu.
 
 Solos los pocos taínos que habitan la isla saben de esta calzada que puede verse sin problemas gracias a sus cristalinas aguas.
 
@@ -1008,7 +1012,7 @@ En realidad es el cuerpo hinchado y putrefacto de un profundo que murió a causa
 
 Extrañas frutas aparecen en los árboles de \[ciudad\] ante el asombro de la gente de ciencia
 
-Los campesinos locales han recogido extrañas frutas de sus árboles frutales que al ser consumidas tienen efectos alucinógenos. Podrán comprar algunas piezas por 10 doblones cada una. Si se consumen, las ondas cerebrales del gran Cthulhu se infiltran en el cerebro de los comensales, dándoles visiones terribles de la ciudad sumergida de R'lyeh. Durante las visiones podrán hacer uso de su habilidad de Mitos de Cthulhu para tratar de sacar información sobre Cthulhu, R'lyeh, sus adoradores y sus planes.
+Los campesinos locales han recogido extrañas frutas de sus árboles frutales que al ser consumidas tienen efectos alucinógenos. Podrán comprar algunas piezas por 10 doblones cada una. Si se consumen, las ondas cerebrales del gran Cthulhu se infiltran en el cerebro de los comensales, dándoles visiones terribles de la ciudad sumergida de R’lyeh. Durante las visiones podrán hacer uso de su habilidad de Mitos de Cthulhu para tratar de sacar información sobre Cthulhu, R’lyeh, sus adoradores y sus planes.
 
 6
 
@@ -1038,7 +1042,7 @@ Un anuncio busca modelos. Empieza el relato salvaje "Se buscan modelos".
 
 Las curiosas tradiciones de los habitantes de \[lugar\]
 
-El artículo cuenta las extrañas tradiciones de las gentes de algún pueblo/ciudad/isla del Caribe. Puede ser que hablen de procesiones, recetas de platos típicos, ceremonias religiosas, ... la cuestión es que de esas tradiciones se pueden sacar un ritual al azar de la tabla de Rituales.
+El artículo cuenta las extrañas tradiciones de las gentes de algún pueblo/ciudad/isla del Caribe. Puede ser que hablen de procesiones, recetas de platos típicos, ceremonias religiosas, … la cuestión es que de esas tradiciones se pueden sacar un ritual al azar de la tabla de Rituales.
 
 11
 
@@ -1122,7 +1126,7 @@ Es por ello que para plantearse arreglar los errores viajando en el tiempo, debe
 * **Relatos salvajes:** Hay varios relatos salvajes que implican viajes en el tiempo, muchas veces involuntarios. Entre ellos tenemos: Mar antigua o Cazadores de huesos.
 * **Objetos:** Hay también objetos de los Mitos que pueden estar relacionados con los viajes en el tiempo: Ánfora de viaje por las Tierras del sueño u Objeto perdido en el tiempo.
 
-**2\. Solo para arreglar grandes errores:** No pueden hacerlo todo el rato, solo en momentos dramáticos: muertes de personajes importantes, grandes masacres, ...
+**2\. Solo para arreglar grandes errores:** No pueden hacerlo todo el rato, solo en momentos dramáticos: muertes de personajes importantes, grandes masacres, …
 
 **3\. No abusar de los viajes en el tiempo:** Los viajes en el tiempo atraen a los sabuesos de Tíndalos. Si abusan de los viajes en el tiempo, podrían acabar muertos entre sus colmillos extratemporales.
 
@@ -1136,7 +1140,7 @@ Los volcanes son una referencia recurrente en los relatos de Lovecraft seguramen
 * Los montes Erebus y el monte Terror, ambos volcanes antárticos, se citan en "En las montañas de la locura".
 * Se atribuyen a actividad volcánica subacuática la aparición de monstruos indescriptibles y tierras extrañas, como puede leerse en relatos como "Dagón" y "Más allá de los eones".
 
-Los volcanes también puede encajar en tus aventuras piratas. Son una fuerza de la naturaleza que puede permitirte cambiar el mapa: crear o destruir islas, sepultar ciudades bajo las aguas con potentes maremotos, ... Te permiten crear aventuras con obstáculos formidables como ríos de lava, donde la presión del tiempo sea muy importante y son un recurso contra el que tu mesa no puede enfrentarse, solo pueden huir cuanto más lejos mejor.
+Los volcanes también puede encajar en tus aventuras piratas. Son una fuerza de la naturaleza que puede permitirte cambiar el mapa: crear o destruir islas, sepultar ciudades bajo las aguas con potentes maremotos, … Te permiten crear aventuras con obstáculos formidables como ríos de lava, donde la presión del tiempo sea muy importante y son un recurso contra el que tu mesa no puede enfrentarse, solo pueden huir cuanto más lejos mejor.
 
 ### El área volcánica de las Antillas Menores
 
@@ -1217,7 +1221,7 @@ Se publica el primer número de La verdad de La Habana.
 
 1711
 
-Hernando Villalba descubre unas ruinas sumergidas al oeste de Cuba que puede que le indiquen dónde está sumergida la ciudad de R'lyeh. Desde ese momento Villalba lleva enclaustrado en su mansión buscando su tesoro hundido.
+Hernando Villalba descubre unas ruinas sumergidas al oeste de Cuba que puede que le indiquen dónde está sumergida la ciudad de R’lyeh. Desde ese momento Villalba lleva enclaustrado en su mansión buscando su tesoro hundido.
 
 1715
 

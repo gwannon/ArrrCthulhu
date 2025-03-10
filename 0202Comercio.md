@@ -134,7 +134,7 @@ Hasta los piratas más piratas tienen que pagar impuestos o mordida si quiere ve
 
 ### Botín y contrabando
 
-El botín no son ni materias primas ni productos manufacturados, son objetos de gran valor, oro, plata, joyas, sedas, marfil, ... Hemos visto que es una carga que podemos vender, pero no comprar para comerciar con ella. Lo vamos a conseguir de atacar a otros barcos, asaltar ciudades o como parte de nuestras aventuras.
+El botín no son ni materias primas ni productos manufacturados, son objetos de gran valor, oro, plata, joyas, sedas, marfil, … Hemos visto que es una carga que podemos vender, pero no comprar para comerciar con ella. Lo vamos a conseguir de atacar a otros barcos, asaltar ciudades o como parte de nuestras aventuras.
 
 Al abordar un barco solo podemos llevarnos un 60% de su carga normal, el resto se ha destruido en el combate. Esta carga puede ser materias primas, productos manufacturados y con mucha suerte un buen botín. Esto queda a discreción del DJ
 

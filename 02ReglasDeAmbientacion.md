@@ -1,6 +1,10 @@
 # Reglas de ambientación
 
+\sinc
+
 ## Creación de personajes
+
+\conc
 
 Hay una serie de reglas en esta ambientación que modifican las normas generales de creación de personajes. No son muchas ni muy complicadas, pero tienen su sentido. Veámoslas:
 
@@ -29,7 +33,13 @@ Aquí tienes algunos conceptos sobre los que construir tu PJ.
 * **Paria:** Hay algo en ti que no encaja con los demás y estás cansado de esconder tus diferencias o de pelearte por ellas. Quizás el Caribe es el lugar donde esas diferencias no importen o donde puedas conseguir que no importen.
 * **Triunfal:** El éxito y la fortuna han sido tus compañeros desde que naciste, pero nunca es suficiente, siempre necesitas más. El Caribe es ese lugar donde puedes explotar tu potencial al máximo y conseguir el triunfo definitivo.
 
+\sp
+
+\sinc
+
 ## Nuevas habilidades
+
+\conc
 
 En ¡Arrr! Cthulhu puedes hacer uso de todas las habilidades básicas de SWEA a excepción de habilidades temporalmente ilógicas como Conducir, Electrónica y Ordenadores, ya que no hay vehículos autopropulsados, equipos eléctricos u ordenadores.
 
@@ -46,7 +56,7 @@ Esta habilidad no se puede escoger en la creación del personaje. Solo mediante 
 * No está basada en ningún atributo. Así que su coste es como si quisiéramos subir una habilidad por encima de un atributo. Es decir, que cuesta un avance subir un nivel de la habilidad.
 * Solo puede subirse una vez por rango, como un atributo.
 * Para poder subir esta habilidad, tu personaje ha debido enfrentarse a, al menos, una TPC o haber leído un libro prohibido durante las sesiones de juego de ese rango.
-* No tiene límites, cuando se llega a d12 continuamos con +1, +2, +3, ...
+* No tiene límites, cuando se llega a d12 continuamos con +1, +2, +3, …
 
 ### Idioma criollo (Astucia)
 
@@ -54,13 +64,13 @@ El Criollo es la lengua más común del Caribe, casi todas las personas lo entie
 
 ### Idioma cthulhunés (Astucia)
 
-El cthulhunés (o r'lyehiano) es la lengua hablada por Cthulhu, los habitantes R'lyeh y sus servidores, por ejemplo, los profundos. Los que lo han oído lo describen como extraño y gutural (seguramente para usarse bajo el agua) y muy difícil de pronunciar para las gargantas humanas.
+El cthulhunés (o R’lyehiano) es la lengua hablada por Cthulhu, los habitantes R’lyeh y sus servidores, por ejemplo, los profundos. Los que lo han oído lo describen como extraño y gutural (seguramente para usarse bajo el agua) y muy difícil de pronunciar para las gargantas humanas.
 
 La Orden del Gran Cthulhu ha conseguido transcribir el idioma a caracteres latinos, ya que los caracteres escritos del Cthulhunés no han podido ser descifrados. Eso ha llevado a que parezca formado por grupos de consonantes que suenan relativamente extraños para el oído, como «mglw'naph» o «fhtagn».
 
 _ph'nglui mglw'nafh Cthulhu  
-R'lyeh wgah'nagl fhtagn_  
-_En la Ciudad de R'lyeh, el difunto  
+R’lyeh wgah'nagl fhtagn_  
+_En la Ciudad de R’lyeh, el difunto  
 Cthulhu, espera soñando_
 
 Durante la creación de personaje no puedes ponerle puntos a Idioma Cthulhunés a no ser que tengas la ventaja Experiencia con los Mitos.
@@ -73,9 +83,15 @@ El Cthulhunés es una lengua creada para pronunciar cosas impronunciables y es p
 
 El naacal es el idioma que habla la serpigente. Era el idioma que se hablaba en el continente perdido de Mu hace más de 173.000 años. Las letras son ligeramente similares en apariencia a lenguajes mesoamericanos como el maya. Su pronunciación es complicada para los humanos debido a que está pensada para la lengua y las cuerdas vocales de la serpigente.
 
+\sp
+
+\sinc
+
 ![Nuevas desventajas](./images/maradentro.webp)
 
 ## Nuevas desventajas
+
+\conc
 
 La mayoría de las desventajas que hay en esta ambientación están relacionadas con la locura y el horror. Pueden ser bastante limitantes, así que ve con cuidado a la hora de escogerlas y trata consensuarlas con tu director de juego. Con una sola persona sentada a la mesa con "La llamada de Cthulhu" es más que suficiente.
 
@@ -93,9 +109,9 @@ Empiezas con 3 puntos de cordura en vez de 4 como es normalmente. Nunca podrás 
 
 ### La llamada de Cthulhu (menor)
 
-Tu mente artística e imaginativa es muy susceptible a las ondas mentales del Gran Cthulhu, teniendo terribles pesadillas sobre Cthulhu y su tumba acuática de R'lyeh.
+Tu mente artística e imaginativa es muy susceptible a las ondas mentales del Gran Cthulhu, teniendo terribles pesadillas sobre Cthulhu y su tumba acuática de R’lyeh.
 
-Siempre que te duermas sin tener benis, tendrás unas horribles pesadillas que no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una noche entera teniendo un beni y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer uso de tu habilidad de Mitos de Cthulhu para tratar de sacar información, sobre Cthulhu, R'lyeh, sus adoradores y sus planes.
+Siempre que te duermas sin tener benis, tendrás unas horribles pesadillas que no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una noche entera teniendo un beni y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer uso de tu habilidad de Mitos de Cthulhu para tratar de sacar información, sobre Cthulhu, R’lyeh, sus adoradores y sus planes.
 
 ### Camaradería pirata (mayor)
 
@@ -111,7 +127,7 @@ Además, de las desventajas listadas a continuación puedes usar como trastornos
 
 ### Amnesia y flashbacks (menor/mayor)
 
-El cerebro de tu personaje, muy sabiamente, ha bloqueado parcialmente el recuerdo concreto de una situación traumática (cómo le torturaron, cómo presenció como un vampiro de fuego quemaba a toda su familia, ...). No quiere decir que no recuerde ese hecho concreto, pero solo generalmente. Los detalles son lo que ha reprimido y todos sabemos que el demonio está en los detalles. Esos detalles vuelven a su mente como flashbacks mostrándoles los momentos más traumáticos del evento que produjo la amnesia, los gritos espeluznantes, el olor a sangre podrida, los brillantes ojos del asesino, ...
+El cerebro de tu personaje, muy sabiamente, ha bloqueado parcialmente el recuerdo concreto de una situación traumática (cómo le torturaron, cómo presenció como un vampiro de fuego quemaba a toda su familia, …). No quiere decir que no recuerde ese hecho concreto, pero solo generalmente. Los detalles son lo que ha reprimido y todos sabemos que el demonio está en los detalles. Esos detalles vuelven a su mente como flashbacks mostrándoles los momentos más traumáticos del evento que produjo la amnesia, los gritos espeluznantes, el olor a sangre podrida, los brillantes ojos del asesino, …
 
 En juego, supone que una vez por sesión en momentos de estrés puede sufrir esos flashbacks fallando la tirada que vaya a hacer sin posibilidad de gastar un Beni para repetirla. Por estrés entendemos cualquier tirada enfrentada, desde jugar al póquer a discutir con un oponente político o tratar de entrar sigilosamente en la casa del gobernador. Si se coge como mayor, el DJ podrá hacerle fallar cualquier tirada de combate y dejarle aturdido como si le hubieran hecho una finta o un truco sucio.
 
@@ -157,9 +173,15 @@ Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de percep
 
 La megalomanía se caracteriza porque la persona tiene ideas de grandeza, de manera que puede mentir, manipular o exagerar algunas situaciones o a las personas, a fin de conseguir sus objetivos.
 
-A nivel menor deberá elegir algo en el que quiere el mejor (el más fuerte, el más rápido, el más rico, ...), esto hará que actúe de forma desafiante y agresiva contra las personas que es mejor que él y obtendrá un -1 a todas las tiradas de interacción social con esas personas. A nivel mayor será a nivel general contra toda persona que pueda ser mejor que él en algún campo en el que esté cualificado, es decir, que tenga atributo/habilidad d8 o más.
+A nivel menor deberá elegir algo en el que quiere el mejor (el más fuerte, el más rápido, el más rico, …), esto hará que actúe de forma desafiante y agresiva contra las personas que es mejor que él y obtendrá un -1 a todas las tiradas de interacción social con esas personas. A nivel mayor será a nivel general contra toda persona que pueda ser mejor que él en algún campo en el que esté cualificado, es decir, que tenga atributo/habilidad d8 o más.
+
+\sp
+
+\sinc
 
 ## Nuevas ventajas
+
+\conc
 
 Como en el caso anterior de nuevas desventajas, todas las nuevas ventajas de ¡Arrr! Cthulhu están muy relacionadas con el horror y la cordura y como en el caso anterior, pueden tener mucha influencia en el juego, así que trata de consensuar la elección de estas desventajas con tu DJ y el resto de la mesa.
 
@@ -235,9 +257,15 @@ Esta ventaja solo puede comprarse en la creación de personaje. Una vez empezada
 
 Esta ventaja supone que empiezas con un barco de tu propiedad. Puede ser una nave rápida o una nave de carga. Normalmente, debería ir acompañado de ventajas como Alcurnia o Rico que justifiquen poseer el barco. En caso contrario, debería haber una buena historia que explique como consiguió la nave.
 
+\sp
+
+\sinc
+
 ![Benis](./images/pantano.webp)
 
 ## Benis
+
+\conc
 
 Hay nuevos usos para los benis en tres apartados muy importantes de este juego, la magia, la cordura y la navegación. Debes hacer comprender a tu mesa que estos usos normalmente deben ser reservados para momentos épicos, cuando la situación es a vida o muerte y sobre todo "queda bien" en la historia.
 
@@ -245,9 +273,15 @@ Hay nuevos usos para los benis en tres apartados muy importantes de este juego, 
 * Gastando todos tus benis (mínimo 1) puedes hacer un golpe de timón en tus viajes por mar y negar un resultado en la tirada de encuentros en el mar. Se acerca una tormenta y antes de verse rodeada por ella, el piloto del barco hace girar el timón 180º y busca una ruta alternativa.
 * Como se ve más adelante, se pueden gastar benis para que los trastornos mentales no sean permanentes.
 
+\sp
+
+\sinc
+
 ## Equipo
 
-Durante la creación de tu personaje solo tendrás acceso al equipo normal de una persona del siglo XVIII. Eso quiere decir que no tendrá acceso a material con componentes electrónicos, motores de combustión, óptica de precisión, ... La máquina de vapor se está estudiando y los telares mecánicos no se inventarán hasta dentro de unos 10 años.
+\conc
+
+Durante la creación de tu personaje solo tendrás acceso al equipo normal de una persona del siglo XVIII. Eso quiere decir que no tendrá acceso a material con componentes electrónicos, motores de combustión, óptica de precisión, … La máquina de vapor se está estudiando y los telares mecánicos no se inventarán hasta dentro de unos 10 años.
 
 Todo producto manufacturado es de origen artesanal, herreros, carpinteros, tejedores, etc. trabajan en sus talleres y producen a mano todo tipo de productos. Eso quiere decir que muchos productos exigirán un tiempo de fabricación. Lo normal es que el herrero tenga unas pocas armas en su taller para que veas su arte y destreza y te haga en una semana el arma que estás buscando.
 
@@ -419,7 +453,13 @@ Puedes encontrarte guardas con partes de armadura como peto o casco, pero segura
 
 ![](./images/navios.webp)
 
+\sp
+
+\sinc
+
 ## Embarcaciones
+
+\conc
 
 Qué sería de una ambientación pirata sin barcos, que muchas veces casi son personajes propios con su propia personalidad y forma de ser. El tema de las embarcaciones vamos a tratarlo de forma genérica creando 5 tipos de naves:
 
@@ -435,7 +475,7 @@ Los barcos tienen dos campos especiales Además, de los normales de vehículos. 
 
 Son naves pequeñas de un mástil y poca tripulación, perfectas para la pesca o el transporte de carga o pasajeros entre islas. Su pequeño tamaño y calado les permite meterse donde otros barcos más grandes no pueden. No están preparadas para grandes travesías.
 
-Balandro, cúter, ... (10.000 doblones)
+Balandro, cúter, … (10.000 doblones)
 
 Tamaño
 
@@ -473,7 +513,7 @@ Provisiones
 
 Las más rápidas y maniobrables del Caribe, estas naves son perfectas para los contrabandistas que quieren dar esquinazo a las naves que vigilan el comercio entre islas del Caribe. Tienen más capacidad de carga que las pequeñas, pero menos que las de carga, pero normalmente su carga es más valiosa (e ilegal).
 
-Goleta, clíper, ... (40.000 doblones)
+Goleta, clíper, … (40.000 doblones)
 
 Tamaño
 
@@ -511,7 +551,7 @@ Provisiones
 
 Es el más grande de los navíos con una gran capacidad de carga, pero es tremendamente lento y muy poco maniobrable. Está preparado para largas travesías por mar. No suelen estar armadas, lo normal es que varias de estas naves lleven una escolta de buques de combate o de guerra.
 
-Carraca, naos, ...(60.000 doblones)
+Carraca, naos, …(60.000 doblones)
 
 Tamaño
 
@@ -549,7 +589,7 @@ Provisiones
 
 Las naves perfectas para los piratas y las fuerzas del orden. Su buena velocidad, maniobrabilidad y capacidad de carga les permite atacar a barcos de carga y plantarle cara a otras naves de guerra.
 
-Fragata, navío de escolta, galeón, ... (80.000 doblones)
+Fragata, navío de escolta, galeón, … (80.000 doblones)
 
 Tamaño
 
@@ -587,7 +627,7 @@ Provisiones
 
 Auténticas fortalezas flotantes. Ellas solo pueden tener controlada una ruta comercial y varias de ellas sincronizadas podrían atacar y tomar cualquier ciudad portuaria del caribe. Solo grupos muy fuertes y muy bien organizados de piratas pensarían en plantarle cara a esta bestia de los mares.
 
-Navío de línea, galeón, bergantín ... (120.000 doblones)
+Navío de línea, galeón, bergantín … (120.000 doblones)
 
 Tamaño
 
@@ -635,7 +675,7 @@ No vamos a ponernos exquisitos y las modificaciones podrán traspasarse de un ba
 
 #### Modificaciones normales para barcos
 
-Gran parte de las aventuras que pasen tus héroes van a ser en navíos de todo tipo, es por ello que queremos darles la oportunidad a los jugadores de poder jugar con ellos personalizándolos y mejorándolos. Es por ello que te mostramos una serie de modificaciones divertidas que podrán instalarles a sus naves para darles personalidad. Si van de contrabandistas que le pongan una esclusa para poder meter y sacar contrabando ilegal. Si van de exploradores que tengan ojos de buey en el fondo para poder investigar el fondo, ...
+Gran parte de las aventuras que pasen tus héroes van a ser en navíos de todo tipo, es por ello que queremos darles la oportunidad a los jugadores de poder jugar con ellos personalizándolos y mejorándolos. Es por ello que te mostramos una serie de modificaciones divertidas que podrán instalarles a sus naves para darles personalidad. Si van de contrabandistas que le pongan una esclusa para poder meter y sacar contrabando ilegal. Si van de exploradores que tengan ojos de buey en el fondo para poder investigar el fondo, …
 
 Tabla de Modificaciones normales para barcos
 
@@ -827,7 +867,7 @@ Popa o Proa
 
 Tentáculos de shoggoths
 
-Se han cortado e injertado una serie de tentáculos en el casco del barco a la altura de la línea de flotación. Estos tentáculos han sido transformados hipnóticamente (como hacían los Antiguos con sus siervos shoggoths) para que se transformen en remos y obedezcan las órdenes del capitán del barco. Estos tentáculos proporcionan máxima velocidad durante una hora, aunque no haya viento y permiten que el barco tenga plena maniobrabilidad excepcional en situaciones complicadas. Podrían meterse en un campo de arrecifes sin problemas, moverse de lado, de forma que no ofreces el largo de navío enemigo al girar, pasar por angostos pasos... Como problema es que solo son funcionales si el capitán está en el barco y está consciente. Un capitán dormido, malherido o inconsciente no puede hacer uso de los tentáculos. Al mover los tentáculos a un nuevo barco, su control deberá ser dado por el antiguo capitán al nuevo mediante una palabra de control que solo conoce el anterior capitán.  
+Se han cortado e injertado una serie de tentáculos en el casco del barco a la altura de la línea de flotación. Estos tentáculos han sido transformados hipnóticamente (como hacían los Antiguos con sus siervos shoggoths) para que se transformen en remos y obedezcan las órdenes del capitán del barco. Estos tentáculos proporcionan máxima velocidad durante una hora, aunque no haya viento y permiten que el barco tenga plena maniobrabilidad excepcional en situaciones complicadas. Podrían meterse en un campo de arrecifes sin problemas, moverse de lado, de forma que no ofreces el largo de navío enemigo al girar, pasar por angostos pasos… Como problema es que solo son funcionales si el capitán está en el barco y está consciente. Un capitán dormido, malherido o inconsciente no puede hacer uso de los tentáculos. Al mover los tentáculos a un nuevo barco, su control deberá ser dado por el antiguo capitán al nuevo mediante una palabra de control que solo conoce el anterior capitán.  
 TPC: 1d6
 
 1
@@ -849,7 +889,13 @@ Armamento
 
 NOTA: esta parte de la ambientación referente a las modificaciones extrañas puede ser muy exagerada y romper el juego. Siéntete libre de olvidarte de ella si crees que no encaja con tu juego. También puedes reservarla para momentos muy especiales y dejar estas modificaciones, por ejemplo, solo en el barco de Barbanegra.
 
+\sp
+
+\sinc
+
 ## Embarcaciones avanzadas
+
+\conc
 
 Ya hemos hablado antes de que por comodidad hay 5 tipos de barcos, pero está claro que habiendo modificaciones extrañas e incluso monstruosas, Barbanegra no iba a navegar en un simple navío de guerra. El «Desgracia» es una nave con una terrible cabeza de demonio como mascarón de proa y un casco bulboso lleno de burbujas parecidas a ojos y tentáculos por toda su estructura. Aquí tienes algunos navíos ya preconfigurados para diferentes tareas. Como en el punto anterior, tómalos como base para los barcos de las némesis en tus aventuras.
 
@@ -922,9 +968,15 @@ Así rebautizo Mary Read al barco que robo del puerto de Kingston tras escapar d
 * **Capacidades especiales:**
     * **Modificaciones:** Ojos de buey en fondo del barco, Velas reforzadas, Mascarón de anulación de magia Lloigor y Tecnología Mi-Go (navegación)
 
+\sp
+
+\sinc
+
 ![Horror y cordura](./images/horror-cordura.webp)
 
 ## Horror y cordura
+
+\conc
 
 El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo personaje tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJ al servicio del DJ.
 
@@ -1199,7 +1251,7 @@ d12+5
 
 La cordura solo se recupera entre campañas o en situaciones especiales de heroísmo excepcional. No hay psicólogos ni psiquiatras que puedan reparar tu quebrada psique, solo enfrentarse al horror y vencerlo puede ayudar a sanar tu mente.
 
-Estas situaciones vendrán marcadas en la campaña. Por ejemplo, puede establecerse que salvar a un pueblo de pescadores de ser masacrado por una horda de profundos puede recuperar 1 punto de cordura. Hacer que Cthulhu vuelva a yacer eternamente en R'lyeh podría devolver toda la cordura.
+Estas situaciones vendrán marcadas en la campaña. Por ejemplo, puede establecerse que salvar a un pueblo de pescadores de ser masacrado por una horda de profundos puede recuperar 1 punto de cordura. Hacer que Cthulhu vuelva a yacer eternamente en R’lyeh podría devolver toda la cordura.
 
 ### Horror y secuaces
 

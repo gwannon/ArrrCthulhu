@@ -1,10 +1,14 @@
 # El Caribe de los Mitos
 
+\sinc
+
 ## Bienvenidos al Caribe de 1722
+
+\conc
 
 Estás en 1722 en el Caribe. La conocida como Edad de Oro de la piratería está acabando. Los grandes piratas han muerto o se han retirado y los grandes tesoros se han enterrado para que los busquen durante generaciones. Las potencias europeas han "civilizado y apaciguado" el Caribe y expolian sus recursos. El azúcar, el tabaco y el café fluyen desde las plantaciones de las grandes islas del Caribe, llenando las arcas de los gobiernos europeos, mientras las gentes del Caribe sobrevive como puede.
 
-Mientras, entre las sombras, una antigua y diabólica sociedad secreta lleva décadas moviendo los hilos de la política y la economía para conseguir su objetivo: El surgimiento de entre las aguas de R'lyeh, la ciudad sumergida donde yace el gran Cthulhu.
+Mientras, entre las sombras, una antigua y diabólica sociedad secreta lleva décadas moviendo los hilos de la política y la economía para conseguir su objetivo: El surgimiento de entre las aguas de R’lyeh, la ciudad sumergida donde yace el gran Cthulhu.
 
 Esta sociedad, autodenominada como la Orden del Gran Cthulhu, y su brazo público y legal, la Real Compañía Privilegiada del Caribe (RCPC), no tiene ningún tipo de escrúpulo en asesinar, torturar, robar, chantajear e incluso hacer pactos con demoníacas entidades extraplanares para lograr sus objetivos.
 
@@ -14,9 +18,19 @@ Solo el anárquico mundo de la piratería ha logrado evadir sus tentáculos y es
 
 Unas pocas personas, casi todas piratas o con pasado pirata, conocen el terrible secreto que se esconde detrás de la Orden del Gran Cthulhu. Estos valientes han creado la Hermandad del Sargazo que busca desbaratar los planes del culto y hacer que paguen por sus múltiples crímenes.
 
+\sinc
+
 ![](./images/mapa.webp)
 
+\conc
+
+\sp
+
+\sinc
+
 ## La Orden del Gran Cthulhu
+
+\conc
 
 La Orden del Gran Cthulhu es tan vieja como la propia civilización humana, siempre escondida en las sombras con planes para liberar a su señor. La Orden ha tenido sus momentos de gracia o, como en el siglo XVII, ha sufrido grandes crisis, de las cuales siempre se ha levantado más fuerte, como en la actualidad.
 
@@ -50,13 +64,13 @@ Con el poco dinero que se pudo llevar montó una pequeña explotación pesquera 
 
 Primero lleno sus redes de peces haciéndole ganar mucho dinero y poco a poco ofreciendo resto de tesoros hundidos o metales preciosos. En unos 10 años el poder de un Hernando ya adulto fue creciendo tanto económicamente como en poder mágico.
 
-Llegado el momento volvió a España y luego viajó por toda Europa reuniendo a los adeptos desperdigados de la Orden. Se consagró como sumo sacerdote de la nueva Orden y les ofreció un nuevo credo basado en que R'lyeh estaba sepultado bajo las aguas del Caribe y que cuando su señor se despierte les otorgará la inmortalidad, parte de su poder y la Tierra como su dominio. Muchos se unieron a él y a algunos les ordeno quedarse en Europa como espías y otros volvieron con él al Caribe.
+Llegado el momento volvió a España y luego viajó por toda Europa reuniendo a los adeptos desperdigados de la Orden. Se consagró como sumo sacerdote de la nueva Orden y les ofreció un nuevo credo basado en que R’lyeh estaba sepultado bajo las aguas del Caribe y que cuando su señor se despierte les otorgará la inmortalidad, parte de su poder y la Tierra como su dominio. Muchos se unieron a él y a algunos les ordeno quedarse en Europa como espías y otros volvieron con él al Caribe.
 
 La empresa de pesca empezó a expandirse por todas las islas controladas por el Reino de España y a tener delegaciones comerciales en las islas controladas por las otras potencias europeas. Y con ella, los sectarios de la Orden se fueron expandiendo por todo el Caribe como directores de casas comerciales, capitanes de barco, incluso políticos y militares. Y así es como la Orden fue extendiendo sus tentáculos.
 
 En 1689 se funda la Compañía de Comercio del Caribe. La pequeña empresa pesquera ahora era una potencia comercial que manejaba más del 30% del comercio del Caribe. En pocos años con la aprobación del rey de España se convierte en la Real Compañía Privilegiada del Caribe, con Hernando como la persona más rica y poderosa del Caribe.
 
-Desde hace unos 15 años, Hernando se ha retirado de la vida pública y de la empresarial. Solo se dedica, desde su mansión a las afueras de La Habana, a dirigir la Orden y a llevar a cabo sus planes para levantar R'lyeh de las aguas y despertar a Cthulhu.
+Desde hace unos 15 años, Hernando se ha retirado de la vida pública y de la empresarial. Solo se dedica, desde su mansión a las afueras de La Habana, a dirigir la Orden y a llevar a cabo sus planes para levantar R’lyeh de las aguas y despertar a Cthulhu.
 
 ### La Real Compañía Privilegiada del Caribe
 
@@ -70,7 +84,7 @@ Es tanto su poder que tiene su propia armada de barcos, su propio ejército y su
 
 Bajo una capa de legalidad y otra de prosperidad económica se esconde la auténtica realidad de la RCPC, la secta de la Orden del Gran Cthulhu. Toda la cúpula de la compañía son cultistas de gran poder de la Orden. Según se bajan escalafones de la RCPC dejan de ser sectarios para ser adeptos al culto y en lo más bajo son simples trabajadores alineados que hacen su trabajo sin tratar de ver si sus actos y los actos de sus superiores son buenos o malos.
 
-La RCPC se encarga de proporcionar dinero y poder político a la Orden. Pero también le suministra tecnología, por ejemplo, hay varios departamentos de la RCPC desarrollando ingenios para encontrar la hundida ciudad de R'lyeh. Otra de sus tareas más importante es preparar el terreno para todas las actividades de la Orden. No será la primera vez que la RCPC tiene que sobornar a agentes de ley o compra un islote y desalojar a sus habitantes para montar un punto de invocación en él.
+La RCPC se encarga de proporcionar dinero y poder político a la Orden. Pero también le suministra tecnología, por ejemplo, hay varios departamentos de la RCPC desarrollando ingenios para encontrar la hundida ciudad de R’lyeh. Otra de sus tareas más importante es preparar el terreno para todas las actividades de la Orden. No será la primera vez que la RCPC tiene que sobornar a agentes de ley o compra un islote y desalojar a sus habitantes para montar un punto de invocación en él.
 
 La RCPC también se encarga de conseguir gente para la secta, los de "recursos humanos" buscan a las personas perfectas de dentro y fuera de la organización y los seducen con sus cantos de sirenas. Les ofrecen dinero, poder o cumplen sus deseos más perversos, lo que sea con tal de acercarlos a la Orden.
 
@@ -160,9 +174,9 @@ Poco se sabe de la vida de Edward Teach antes de convertirse en un famoso pirata
 
 Cuando la guerra acabó, estuvo bajo el mando del pirata Benjamin Hornigold en Nueva Providencia. Por esas fechas Nueva Providencia era una República Pirata, donde los piratas tenían un refugio y se autogobernaban. En noviembre de 1717 apresó un gran buque francés, el cual renombró como La Venganza de la Reina Ana.
 
-Fue creando una flotilla con diferentes alianzas con piratas como Stede Bonnet. En 1718 intentó hacerse respetable pidiendo un indulto al gobernador de Carolina del Norte. En realidad seguía con sus actividades piratas y daba una mordida al gobernador de los botines que conseguía. En esta época dio su mayor golpe, el asedio de Charleston en Carolina del Sur.
+Fue creando una flotilla con diferentes alianzas con piratas como Stede Bonnet. En 1718 intentó hacerse respetable pidiendo un indulto al gobernador de Carolina del Norte. La realidad es que seguía con sus actividades piratas y daba una mordida al gobernador de los botines que conseguía. En esta época dio su mayor golpe, el asedio de Charleston en Carolina del Sur.
 
-Las cosas no le fueron del todo bien intentando ser "legal". Traicionó y engañó a sus aliados, abandono el «Venganza» y terminó volviendo a la piratería estableciéndose en Nueva Providencia con 4 barcos y unos 400 hombres. En Nueva Providencia siguió con sus costumbres disolutas y con su vida pirata, atacando barcos con el «Aventura» en la costa este de Norteamérica y las Bermudas.
+Las cosas no le fueron del todo bien intentando ser «legal». Traicionó y engañó a sus aliados, abandono el «Venganza» y terminó volviendo a la piratería estableciéndose en Nueva Providencia con 4 barcos y unos 400 hombres. En Nueva Providencia siguió con sus costumbres disolutas y con su vida pirata, atacando barcos con el «Aventura» en la costa este de Norteamérica y las Bermudas.
 
 #### La caída de Barbanegra
 
@@ -186,7 +200,7 @@ Lleva todos estos 4 años buscando la forma de romper el pacto con Villalba y re
 
 ### El plan final
 
-A día de hoy el objetivo de la Orden es, como ya hemos dicho antes, despertar a su venerado dios y que este otorgue poder e inmortalidad a sus adeptos, especialmente a Hernando Villalba, su máximo líder. Villalba y su gente están convencidos de que R'lyeh está hundido en el Caribe y que sacar la ciudad de entre las aguas es lo que hará despertar a su señor primigenio.
+A día de hoy el objetivo de la Orden es, como ya hemos dicho antes, despertar a su venerado dios y que este otorgue poder e inmortalidad a sus adeptos, especialmente a Hernando Villalba, su máximo líder. Villalba y su gente están convencidos de que R’lyeh está hundido en el Caribe y que sacar la ciudad de entre las aguas es lo que hará despertar a su señor primigenio.
 
 El principal problema al que se enfrenta es que no tiene ni una mínima pista de donde está hundida la ciudad sumergida, al que denominan internamente su tesoro hundido. Villalba lleva años consultando tomos proscritos en busca de pistas y haciendo que los profundos busquen la ciudad en los fondos oceánicos, pero no ha tenido ni el mínimo éxito. Se hace mayor y su tiempo se acaba poco a poco.
 
@@ -194,7 +208,13 @@ Pero ahí no acaban sus problemas, una vez descubierta esta Atlántida primigeni
 
 La desesperación le está devorando y cada día es más arriesgado y salvaje en sus actos y has de saber que la locura y la desesperación llevan a consumar terribles e ignominiosos actos que van contra natura.
 
+\sp
+
+\sinc
+
 ## La Hermandad del Sargazo
+
+\conc
 
 Si existe un Orden del Gran Cthulhu, tiene que existir su opuesto y esa es la Hermandad del Sargazo. Este pequeño grupo de personas de lo más dispares es la piedra en el zapato de la Orden. Su misión es destruir a la Orden frustrando sus planes y sacando a la luz todos sus deleznables actos.
 
@@ -316,7 +336,13 @@ Mary Read es el único activo importante de la Hermandad y, sin aliados poderoso
 
 El problema es que si la Hermandad no lo evita el mundo está avocado al desastre. Puede que tu mesa sean esas personas valientes y buenas que Read busca desesperadamente para evitar el Apocalipsis.
 
+\sp
+
+\sinc
+
 ## Quisqueya, Boriquén, Jamaica y Cuba
+
+\conc
 
 Quisqueya (La Española, 'cosa grande') Boriquén (Puerto Rico, 'tierra nativa'), Jamaica ('espíritu de la tierra') y Cuba ('gran tierra fértil') son los nombres con los que los pobladores originales del Caribe, los taínos, llaman a las principales islas.
 
@@ -345,11 +371,11 @@ Sin embargo, el poder de los caciques ha desaparecido en 1722, de forma que los 
 
 Los taínos se dedican principalmente a la agricultura en campos que llamaban conucos. Tienen conocimientos de abonos y sistemas de riego. El cultivo principal es la mandioca o yuca. También cultivan maíz, cacahuete, pimienta, piña, cacao, patata, tabaco y algodón que usan para crear prendas.
 
-La base de gastronomía es la yuca que usan para hacer una especie de pan llamado basabe. Se usa en sopas, guisos, masas, ... Fermentan la yuca para obtener una bebida embriagadora llamada uicú o cusubí. Completan su dieta cazando pequeños roedores y reptiles, pájaros y serpientes y pescando con anzuelos y redes.
+La base de gastronomía es la yuca que usan para hacer una especie de pan llamado basabe. Se usa en sopas, guisos, masas, … Fermentan la yuca para obtener una bebida embriagadora llamada uicú o cusubí. Completan su dieta cazando pequeños roedores y reptiles, pájaros y serpientes y pescando con anzuelos y redes.
 
 Como parte de los ritos funerarios, entierran a sus muertos con sus objetos personales, ya que creen que en un más allá donde pueden llevar sus objetos personales.
 
-Los caciques contraían matrimonio con varias esposas por razones políticas, militares y económicas. Entre el pueblo llano se practica la monogamia "por amor".
+Los caciques contraían matrimonio con varias esposas por razones políticas, militares y económicas. Entre el pueblo llano se practica la monogamia «por amor».
 
 ### Asentamientos taínos
 
@@ -395,7 +421,7 @@ Para los taínos, los tatuajes y los piercings son una expresión de su fe. Cuan
 
 Los taínos tienen un deporte de pelota llamado batú o batey. Cada equipo tiene 12 jugadores o múltiplos de 12 y son mixtos. Se juega con una pelota de goma maciza llamada batú. La cancha es circular o rectangular delimitada por grandes piedras. Cada equipo controla media cancha. El juego consiste en rebotar la pelota con cualquier parte del cuerpo menos las manos y llevarla la pelota al extremo del campo contrario. Si dejas que la pelota toque el suelo, pierdes un punto. También se puede rebotar contra las piedras que marcan los límites del campo. Si la pelota se sale del campo también se pierde un punto.
 
-Es un importante evento social y puede tener un carácter religioso, ya que en determinadas situaciones los resultados de los partidos se consideran designios de los cemís. Los espectadores se sientan alrededor de la cancha y los invitados especiales, el cacique y sus ayudantes ocupan unos asientos especiales llamados duhos. Es utilizado también para la resolución de conflictos entre las comunidades enemistadas, decidiendo conflictos mediante partidos de batey. Las apuestas también son muy normales en este tipo de encuentros.
+Es un importante evento social y puede tener un carácter religioso, ya que en determinadas situaciones los resultados de los partidos se consideran designios de los cemíes. Los espectadores se sientan alrededor de la cancha y los invitados especiales, el cacique y sus ayudantes ocupan unos asientos especiales llamados duhos. Es utilizado también para la resolución de conflictos entre las comunidades enemistadas, decidiendo conflictos mediante partidos de batey. Las apuestas también son muy normales en este tipo de encuentros.
 
 #### Influencia de los taínos en otras cultura
 
@@ -421,9 +447,15 @@ El otro punto de contacto con los mitos son los profundos. Como pueblo que se ha
 
 La hibridación ha ocurrido varias veces, sobre todo en comunidades a punto de desaparecer que vieron a los profundos como una forma de poder resistir a sus enemigos. Pero casi siempre han sido exterminados por las comunidades cercanas que veían como sus vecinos caían en la degradación y el mal.
 
+\sp
+
+\sinc
+
 ![](./images/paises.webp)
 
 ## El Caribe español
+
+\conc
 
 España es la principal potencia en 1722 en el Caribe. Controla la mayoría de los territorios más importantes y ricos, Cuba, Santo Domingo y Puerto Rico. Por sus rutas comerciales y sus puertos pasan millones de doblones en materias primas, desde cacao, tabaco o azúcar, hasta plata y oro.
 
@@ -519,7 +551,13 @@ Ponce es una ciudad extraña, ya que los sucesos extraños y paranormales son no
 
 Puede que esto sea cierto o no, pero desde luego los avistamientos de la Llorona son más numerosas de lo normal y los habitantes de las plantaciones de los alrededores de Ponce hablan de gárgolas en los cielos nocturnos.
 
+\sp
+
+\sinc
+
 ## El Caribe inglés
+
+\conc
 
 Gran Bretaña es la segunda potencia en discordia en el Caribe, solo controla Jamaica, las islas Caimán y las Bahamas y parte de las Antillas Menores. Pero realmente las Caimán y las Bahamas son territorios muy pequeños y poco interesantes económicamente. De hecho, están tan poco controlados por su metrópolis que son casi autónomos y en ambos casos se han convertido en sitios seguros para corsarios ingleses y puertos medianamente seguros para piratas que no ataquen a intereses ingleses.
 
@@ -555,7 +593,13 @@ El terremoto y la decadencia posterior de la ciudad fue un plan magistral ejecut
 
 Hoy en día, mientras que Kingston es una moderna y vibrante ciudad, Port Royal solo es una sombra de lo que fue, una ciudad sucia, rota y triste donde vagan personas sucias, rotas y tristes.
 
+\sp
+
+\sinc
+
 ## El Caribe francés
+
+\conc
 
 Es la tercera fuerza extranjera en el Caribe. Posee menos territorio que los ingleses; Saint-Domingue, la parte oeste de la Española, y parte de las Antillas menores. Lleva mucho menos tiempo en el Caribe que el resto y el control de sus territorios es todavía escaso. En los territorios de las Antillas porque no son importantes y en Saint-Domingue porque solo lo controla desde 1697 con el tratado de Ryswick, por el cual España le cedía esos territorios.
 
@@ -565,7 +609,13 @@ La piratería es permitida en tierras francesas, debido a que principalmente ata
 
 La RCPC todavía no tiene interés en los territorios franceses. Las islas pequeñas no tienen ningún valor y Saint-Domingue todavía es demasiado salvaje para que valga la pena perder tiempo y recursos. Como mucho podría interesarle comprar alguna isla, pero ahora mismo tiene más interés en las islas controladas por Dinamarca que ofrecen un carácter más neutral dentro de los conflictos políticos del Caribe.
 
+\sp
+
+\sinc
+
 ## El Caribe danés
+
+\conc
 
 La Compañía danesa de las Indias Occidentales y Guinea tiene el control de 2 pequeñas islas de las Antillas Menores, San Juan y Santo Tomás. Su economía está totalmente basada en la esclavitud. La compañía danesa intercambia armas y otros productos industriales en África a cambio de esclavos, que son trasladados al Caribe para trabajar en las plantaciones danesas o ser vendidos en las islas vecinas.
 
@@ -577,7 +627,13 @@ Si la compañía danesa al final se niega a vender, tiene decidido liderar una r
 
 Si habéis jugado grandes campañas de juegos basados en Cthulhu tipo Las Máscaras de Nyarlathotep habréis podido comprobar que los malos son siempre como males de Bond, teniendo sus propias islas secretas donde hacer sus terribles experimentos y sus oscuros rituales lejos de los ojos indiscretos. Hernando de Villalba no va a ser menos y no quiere una isla, quiere dos.
 
+\sp
+
+\sinc
+
 ## Relaciones entre las potencias colonizadoras
+
+\conc
 
 Las relaciones entre las potencias colonizadoras en el Caribe son un reflejo de su situación en el viejo continente. Los aliados en Europa son aliados en el Caribe y los enemigos en Europa son enemigos en el Caribe.
 
@@ -587,7 +643,13 @@ Francia y Gran Bretaña viven en un pacto de no agresión en Europa que se extie
 
 Lo que ninguna de estas potencias ha tenido en cuenta es el poder que puede desplegar la RCPC, que cuenta con una poderosa flota de barcos, un ejército de guardias y mercenarios y formidables recursos económicos. La RCPC podría enfrentarse y expulsar a cualquier potencia colonizadora del Caribe. Y solo las tres 3 juntas podrían derrotar a la RCPC y los recursos mágicos y monstruosos que puede aportarle la Orden del Cthulhu.
 
+\sp
+
+\sinc
+
 ## Islas Piratas
+
+\conc
 
 Durante la Edad de Oro de la Piratería, aparecieron y desaparecieron muchos refugios piratas. Eran regiones del Caribe, casi siempre islas, lejos de la civilización europea, donde sus leyes no tenían vigencia. Estos lugares tenían su propia filosofía de vida y sus propias leyes, muchas veces más libres y avanzadas que las civilizadas.
 
@@ -635,11 +697,17 @@ A diferencia de Tortuga y como Bahamas y los cayos, las islas Caimán son unas i
 
 Por último, como los cayos de Florida y Bahamas y por su pasado y presente pirata, es uno de los lugares del Caribe con más historias de tesoros enterrados. Si todas las historias de tesoros piratas fueran ciertas, no habría una sola parcela de tierra seca en todas las islas donde no se hubiera escondido un cofre del tesoro.
 
-![Cthulhu y R'lyeh](./images/templo-cthulhu.webp)
+\sp
 
-## Cthulhu y R'lyeh
+\sinc
 
-La trama principal de esta ambientación gira en torno al surgimiento de R'lyeh de entre las aguas y al despertar del gran Cthulhu. El gran enemigo a batir es la Orden del Gran Cthulhu y su mano pública, la RCPC, cuyo objetivo es despertar a su señor Cthulhu. El objetivo de tu mesa es evitar que Cthulhu despierte de su sueño de eones y traiga el apocalipsis al mundo del siglo XVIII.
+![Cthulhu y R’lyeh](./images/templo-cthulhu.webp)
+
+## Cthulhu y R’lyeh
+
+\conc
+
+La trama principal de esta ambientación gira en torno al surgimiento de R’lyeh de entre las aguas y al despertar del gran Cthulhu. El gran enemigo a batir es la Orden del Gran Cthulhu y su mano pública, la RCPC, cuyo objetivo es despertar a su señor Cthulhu. El objetivo de tu mesa es evitar que Cthulhu despierte de su sueño de eones y traiga el apocalipsis al mundo del siglo XVIII.
 
 ### El gran y poderoso Cthulhu
 
@@ -647,19 +715,19 @@ No creo que hayas llegado hasta esta ambientación rolera sin saber quién es Ct
 
 Cthulhu es un primigenio del universo de ficción de H. P. Lovecraft (y sus seguidores), una entidad equiparable a dioses de inmenso poder y generalmente de un tamaño colosal. Cthulhu no es el más poderoso de los primigenios, pero sí el más conocido y adorado por diferentes cultos y sectas, en parte por encontrarse en la Tierra. Tiene aspecto mezcla de dragón y de humanoide con cabeza de pulpo.
 
-Cthulhu reposa dormido/encerrado en la ciudad sumergida de R'lyeh (en alguna parte del Caribe). Espera escapar el día en que "Las estrellas estén de nuevo en posición" con la ayuda de cultos y sectas como la Orden del Gran Cthulhu y así poder volver a extender su poder sobre la Tierra y muy posiblemente desatar la destrucción y el apocalipsis en nuestro planeta.
+Cthulhu reposa dormido/encerrado en la ciudad sumergida de R’lyeh (en alguna parte del Caribe). Espera escapar el día en que "Las estrellas estén de nuevo en posición" con la ayuda de cultos y sectas como la Orden del Gran Cthulhu y así poder volver a extender su poder sobre la Tierra y muy posiblemente desatar la destrucción y el apocalipsis en nuestro planeta.
 
 Debido a su apariencia y a estar sumergido en el mar, siempre se le ha asociado con el agua y monstruos como los profundos que le sirven.
 
-A él recitan «Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn» que significa «En la Ciudad de R'lyeh, el difunto Cthulhu, espera soñando».
+A él recitan «Ph'nglui mglw'nafh Cthulhu R’lyeh wgah'nagl fhtagn» que significa «En la Ciudad de R’lyeh, el difunto Cthulhu, espera soñando».
 
-### R'lyeh
+### R’lyeh
 
-R'lyeh es la ciudad sumergida donde yace el primigenio conocido como Cthulhu y su progenie. Cuando las estrellas sean propicias, la ciudad se alzarán de entre las aguas y Cthulhu despertará y acabará con la vida en la tierra tal y como la conocemos.
+R’lyeh es la ciudad sumergida donde yace el primigenio conocido como Cthulhu y su progenie. Cuando las estrellas sean propicias, la ciudad se alzarán de entre las aguas y Cthulhu despertará y acabará con la vida en la tierra tal y como la conocemos.
 
 Una de las características de esta mítica ciudad son sus prodigiosas dimensiones con construcciones dignas del propio Cthulhu. Otra es su geometría no-euclidiana. Nada de la ciudad cumple al 100% con la geometría euclidiana, que rige nuestro mundo físico. Puede ser que dobles una esquina y vuelvas a donde estabas o que un cuadrado, tengo 3 o 5 aristas.
 
-Si bien en los libros de Lovecraft, R'lyeh se encuentra en Pacífico Sur (en la latitud 47° 9’ S, longitud 126° 43’ O). Esa es su ubicación a principios del siglo XX. En nuestra ambientación, R'lyeh está al norte de Puerto Rico, en el centro de la Fosa de Puerto Rico. La Fosa de Puerto Rico es una fosa mariana de más 8 kilómetros de profundidad y 1.500 de longitud provocada la colisión de la placa tectónica del Caribe con la de Norteamérica. Dicha fosa es el punto más profundo de todo el océano Atlántico. Que R'lyeh esté sobre una falla tendrá gran importancia para la Orden del Gran Cthulhu.
+Si bien en los libros de Lovecraft, R’lyeh se encuentra en Pacífico Sur (en la latitud 47° 9’ S, longitud 126° 43' O). Esa es su ubicación a principios del siglo XX. En nuestra ambientación, R’lyeh está al norte de Puerto Rico, en el centro de la Fosa de Puerto Rico. La Fosa de Puerto Rico es una fosa mariana de más 8 kilómetros de profundidad y 1.500 de longitud provocada la colisión de la placa tectónica del Caribe con la de Norteamérica. Dicha fosa es el punto más profundo de todo el océano Atlántico. Que R’lyeh esté sobre una falla tendrá gran importancia para la Orden del Gran Cthulhu.
 
 La fosa de Puerto Rico es un lugar tan inhóspito que ni los profundos lo han explorado. No hay luz y ni hay pesca y aunque soporten la presión supone mucho esfuerzo bucear por sus aguas.
 
@@ -675,7 +743,13 @@ Los clásicos de casas encantadas, seres aullantes en los bosques y pueblos perd
 
 Por último, estando en un ambiente cercano a tierras de mayas y aztecas, puedes meter cultos afines a la serpigente que adoren a Yig y Tsathoggua que busquen restaurar el continente perdido de Mu.
 
+\sp
+
+\sinc
+
 ## Los profundos del Caribe
+
+\conc
 
 No te vamos a mentir, esta es una ambientación acuática y como es normal hay profundos, muchos profundos. Los fondos oceánicos y los arrecifes del Caribe están llenos de asentamientos acuáticos de profundos y los héroes deberán enfrentarse a ellos muchas veces.
 
@@ -685,7 +759,11 @@ En ¡Arrr! Cthulhu los profundos son más complejos que en otros juegos basados 
 
 Los profundos del Caribe se dividen en 3 grandes tribus que tienen diferentes zonas de influencia. Cada tribu controla los territorios dominados por una de las 3 principales corrientes marítimas del Caribe.
 
+\sinc
+
 ![](./images/mapa-profundos.webp)
+
+\conc
 
 * **Throd s'uhn (Corriente del Golfo).** Esta tribu se localiza en la parte norte del Caribe, en las aguas bañadas por la corriente cálida del Golfo. Sería el golfo de México, costa Norte de Cuba y La Española, Florida y sus cayos.
 * **N'gha syha'h (Corriente del Caribe).** Esta tribu se encuentra en las aguas que recorre la corriente del Caribe, que baña la costa sur de Cuba y La Española hasta el llegar al continente sudamericano.
@@ -703,7 +781,7 @@ Si bien estos caciques no tienen mucha influencia en la vida diaria de un profun
 
 Tener el beneplácito de los 3 caciques es conocido con el título del "tridente de Dagón". Supone un increíble poder para su poseedor, ya que pone a tu disposición miles y miles de profundos dispuestos a hacer lo que se les ordene sin ningún tipo de duda o remordimiento y sin ninguna señal de rebeldía o insurrección. Tú ordenas y ellos obedecen hasta la muerte.
 
-Sería muy fácil, poseyendo el tridente, hacer que las 3 tribus profundas te ayuden a alzar de las aguas la ciudad sumergida de R'lyeh. Solo necesitarías una buena idea para sacarla de las aguas. Luego sería aplicarla con tiempo y usando mano de obra profunda.
+Sería muy fácil, poseyendo el tridente, hacer que las 3 tribus profundas te ayuden a alzar de las aguas la ciudad sumergida de R’lyeh. Solo necesitarías una buena idea para sacarla de las aguas. Luego sería aplicarla con tiempo y usando mano de obra profunda.
 
 ### Sociedad y cultura
 
@@ -717,7 +795,7 @@ Son principalmente pescadores/recolectores, aunque empiezan a desarrollar una ac
 
 Los asentamientos pueden ir desde pequeños grupos de 3 o 4 familias (unos 20 o 30 individuos) hasta miles de individuos. En el momento en que un grupo de profundos consume más de lo que el territorio circundante produce, suele haber disturbios internos que acaban con grandes grupos abandonando la comunidad para establecerse en otras zonas del mar.
 
-Los asentamientos profundos suelen tener animales de "compañía" como tortugas marinas o tiburones a los que han domesticado y cuidan cuando enferman. No es extraño que los adornen con piezas de joyería de oro.
+Los asentamientos profundos suelen tener animales de «compañía» como tortugas marinas o tiburones a los que han domesticado y cuidan cuando enferman. No es extraño que los adornen con piezas de joyería de oro.
 
 #### Artesanía
 
@@ -749,7 +827,13 @@ Puedes hacer que los personajes tengan que huir de una localización y no volver
 
 Por último, como se pueden hibridar con humanos, también podrás usarlos como marineros de barcos de la RCPC al servicio de sus oscuros objetivos, como espías en las tabernas de los puertos, etc. Las opciones son muchas.
 
+\sp
+
+\sinc
+
 ## Esclavitud y trabajos forzados
+
+\conc
 
 En 1722 la esclavitud y los trabajos forzados son algo real en el Caribe. Normalmente, no es un tema que se tenga en cuenta en las ambientaciones piratas, sobre todo si son muy fantásticas. En ¡Arrr! Cthulhu la esclavitud y los trabajos forzados son una realidad y pueden ser el leitmotiv de alguna aventura o campaña.
 
@@ -779,7 +863,7 @@ Durante el siglo XVIII los trabajos forzados son una pena bastante normal en el 
 
 En 1722 el trabajo forzado se centra principalmente en realizar obras públicas en lugares peligrosos como el interior de la selva o en manglares y los peores y más peligrosos trabajos en astilleros militares y arsenales.
 
-Aun así, se seguirá usando como forma de librarse de individuos y minorías étnicas "indeseables" de la sociedad (indeseables en su época y totalmente aceptables en la actualidad).
+Aun así, se seguirá usando como forma de librarse de individuos y minorías étnicas «indeseables» de la sociedad (indeseables en su época y totalmente aceptables en la actualidad).
 
 Paralelamente a los trabajos forzados se llevan siglos, casi desde la colonización del Caribe, obligando a la migración y establecimiento forzoso para poblar los nuevos territorios.
 
@@ -799,13 +883,19 @@ Cimarrón es un término que se usa en el Caribe para definir al esclavo huido q
 
 Es curioso que con el paso del tiempo se han ido creando comunidades de cimarrones llamadas palenques. Estas comunidades más o menos organizadas tienen servicios mínimos como pozos de agua o cuevas donde guarecerse. Algunas, incluso, llegan a tener alcaldes elegidos entre la comunidad. Estos palenques nacen de la necesidad de los cimarrones de protegerse y cuidarse entre sí frente a enemigos externos o los peligros de la selva.
 
+\sp
+
+\sinc
+
 ## Religiones
 
-Hay 3 grandes grupos de creencias religiosas actualmente en la zona del caribe, una de los habitantes originarios del caribe, los taínos, otras dos de origen exterior, África y Europa. Lo más curioso es que todas estas creencias en muchos casos lucharon por imponerse unas a otras. Por ejemplo, las misiones religiosas de los católicos españoles que buscaban convertir a los "paganos" taínos. Sin embargo, en otros sitios se fusionaron (por necesidad en muchos casos) creando, por ejemplo, la santería que fusionaba las creencias de los espíritus animistas de los esclavos africanos con los santos católicos.
+\conc
+
+Hay 3 grandes grupos de creencias religiosas actualmente en la zona del caribe, una de los habitantes originarios del caribe, los taínos, otras dos de origen exterior, África y Europa. Lo más curioso es que todas estas creencias en muchos casos lucharon por imponerse unas a otras. Por ejemplo, las misiones religiosas de los católicos españoles que buscaban convertir a los «paganos» taínos. Sin embargo, en otros sitios se fusionaron (por necesidad en muchos casos) creando, por ejemplo, la santería que fusionaba las creencias de los espíritus animistas de los esclavos africanos con los santos católicos.
 
 ### Religión taína
 
-Los taínos que no han sido convertidos al cristianismo son politeístas. Tienen un panteón de dioses, llamados cemís, que representan diferentes fuerzas de la naturaleza y aspectos de la vida y que representaban con trigonolitos, figuras de piedra, madera o barro. También adoran a los antepasados, a los que piden protección y buenas cosechas.
+Los taínos que no han sido convertidos al cristianismo son politeístas. Tienen un panteón de dioses, llamados cemíes, que representan diferentes fuerzas de la naturaleza y aspectos de la vida y que representaban con trigonolitos, figuras de piedra, madera o barro. También adoran a los antepasados, a los que piden protección y buenas cosechas.
 
 Como hemos visto en el apartado de la cultura taína muchos aspectos de la vida cotidiana tienen un carácter religioso, desde los deportes o los tatuajes o piercings.
 
@@ -827,7 +917,13 @@ Lo más importante del cristianismo en el Caribe es que, como casi todo aquí, s
 
 También cabe destacar que el Caribe se ha convertido en el lugar a donde mandar a los clérigos problemáticos, tanto por sus ideas avanzadas como por sus deleznables y delictivas costumbres. Los casos de pederastia cuya pena era la ejecución pública eran escondidos en el Caribe. La Orden ha conseguido gran cantidad de adeptos entre estos clérigos degenerados.
 
+\sp
+
+\sinc
+
 ## Archivos, bibliotecas y universidades
+
+\conc
 
 Aunque estemos en el Caribe en 1722 rodeados de salvajes piratas, oscuras junglas llenas de misterios y terribles monstruos acechando desde las profundidades marinas, este juego también tiene una importante parte de investigación y que sería de la investigación sin sus archivos y bibliotecas, sin sus registros de entradas y salidas del puerto o sin sus actas de nacimientos y defunciones de las pequeñas parroquias en perdidos pueblos del interior.
 

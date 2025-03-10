@@ -138,7 +138,7 @@ Mediante una fórmula mágica el conjurador levanta una barrera gelatinosa de gr
 
 Invocar los apéndices de Dygra
 
-El invocador lanza unas piedras cristalinas (cuarzos, peridotos, amatistas, ...) para invocar a la Piedra-Cosa Dygra. Sus tentáculos minerales de Dygra salen de suelo formando una barrera cristalina.
+El invocador lanza unas piedras cristalinas (cuarzos, peridotos, amatistas, …) para invocar a la Piedra-Cosa Dygra. Sus tentáculos minerales de Dygra salen de suelo formando una barrera cristalina.
 
 Cambio  
 de forma
@@ -279,7 +279,7 @@ arcano
 
 Varita de zahorí, Radiestesia
 
-Usando una ramita de árbol, el zahorí puede detectar objetos mágicos, portales, seres sobrenaturales, ...
+Usando una ramita de árbol, el zahorí puede detectar objetos mágicos, portales, seres sobrenaturales, …
 
 29
 
@@ -410,7 +410,7 @@ El sacerdote vudú crea unas figurillas de arcilla que representan al ser que qu
 
 Círculo de invocación
 
-El hechicero crea un círculo de invocación en el suelo con sal, cal, arena, tiza, ... e invoca a un ser de otro tiempo o de otra dimensión.
+El hechicero crea un círculo de invocación en el suelo con sal, cal, arena, tiza, … e invoca a un ser de otro tiempo o de otra dimensión.
 
 45
 
@@ -506,7 +506,7 @@ elemental
 
 Dominio del agua, Hidromancia
 
-El mago elemental entrega como ofrenda su propia agua en forma de alguno de sus fluidos (sangre, saliva, ...).
+El mago elemental entrega como ofrenda su propia agua en forma de alguno de sus fluidos (sangre, saliva, …).
 
 57
 
@@ -676,9 +676,9 @@ El hechicero lanza arena sobre su objetivo.
 
 80
 
-Pesadillas de R'lyeh
+Pesadillas de R’lyeh
 
-El conjurador canta una nana en cthulhunés (el idioma de R'lyeh) que hace que sus objetivos caigan dormidos y sufran terribles pesadillas con los horrores que se esconden en la ciudad sumergida.
+El conjurador canta una nana en cthulhunés (el idioma de R’lyeh) que hace que sus objetivos caigan dormidos y sufran terribles pesadillas con los horrores que se esconden en la ciudad sumergida.
 
 Telekinesis
 
@@ -818,7 +818,7 @@ Por cada poder tenemos varias opciones de hechizos y rituales que no son más qu
 
 #### Horror (gasto de poder/2):
 
-Esta modificación es genérica para la mayoría de poderes. Gastando la mitad de los puntos poder normales que pide el poder se puede hacer que el hechizo infunda terror en los objetivos y los que los presencien. Por ejemplo, Ceguera puede hacerse tan horripilante (ojos derretidos, sangrantes, ...) que los que lo presencien tengan que hacer una TPC de d4, si se gasta la misma cantidad de puntos de poder la TPC es un d6.
+Esta modificación es genérica para la mayoría de poderes. Gastando la mitad de los puntos poder normales que pide el poder se puede hacer que el hechizo infunda terror en los objetivos y los que los presencien. Por ejemplo, Ceguera puede hacerse tan horripilante (ojos derretidos, sangrantes, …) que los que lo presencien tengan que hacer una TPC de d4, si se gasta la misma cantidad de puntos de poder la TPC es un d6.
 
 Recuerda que este es más un recurso más para que lo usen tus PNJ, especialmente los malos que realmente para los jugadores y deberías dejarles claro que ir sumiendo en la locura a la gente no es cosa de héroes.
 
@@ -908,7 +908,7 @@ Una interesante opción sería incendiar la bolsa de la pólvora de los enemigos
 
 #### Tierra
 
-Una utilidad muy básica y muy útil de manipulación elemental de tierra es identificar metales y minerales en general, saber si algo es de oro, plata, bronce, ...
+Una utilidad muy básica y muy útil de manipulación elemental de tierra es identificar metales y minerales en general, saber si algo es de oro, plata, bronce, …
 
 Notar los bancos de arenas y arrecifes peligrosos y detectar metales y otros materiales enterrados en la tierra. Podría, por ejemplo, encontrar un cofre del tesoro enterrado o un ataúd con un cadáver dentro.
 
@@ -1042,7 +1042,7 @@ Según la comunidad en que te encuentres, la mandioca puede ser otras frutas y h
 
 **Consagrar persona:** Un clérigo de cualquier religión puede consagrar una persona a una deidad de la religión. El método de consagración va en función de la religión y puede ser desde ungir con aceites a la persona consagrada hasta ponerle unas vestiduras rituales. En juego, el héroe consagrado obtiene un +1 a todas las tiradas que impliquen estrictamente ayudar o defender a la deidad y sus adoradores. El efecto dura hasta media noche.
 
-**Cornucopia:** La cornucopia o cuerno de la abundancia es un cuerno de cabra del que salen frutas, cereales, pan, vino, dulces, ... Si el ritualista consigue hacer sonar un cuerno soplándolo, conseguirá riquezas. En juego, en el próximo negocio que hagan recibirán un 20% más de beneficios, pero si fallan, perderán un 20%.
+**Cornucopia:** La cornucopia o cuerno de la abundancia es un cuerno de cabra del que salen frutas, cereales, pan, vino, dulces, … Si el ritualista consigue hacer sonar un cuerno soplándolo, conseguirá riquezas. En juego, en el próximo negocio que hagan recibirán un 20% más de beneficios, pero si fallan, perderán un 20%.
 
 **Máscaras de Caracol de Opiyelguobirán:** Esta máscara tallada de caracol marino gigante tiene forma de perro y representa al cemí (divinidad taína) que se encarga de guiar a los muertos. Portando esta mascará debemos adentrarnos el la jungla que es a donde lleva Opiyel a los muertos y podremos hacer una pregunta de sí/no al espíritu de un muerto que haya fallecido cerca. La respuesta puede ser muy variada, desde el gruñido de un animal salvaje o una rama que se parte hasta luces fantasmagóricas o incluso aparición de algún espíritu.  
 La máscara solo puede usarse para hacer una pregunta y luego debe destruirse. Fabricarla lleva todo un día de trabajo entre buscar la concha adecuada, darle forma y pulirla. Tampoco debe molestarse mucho a Opiyel y a almas errantes de los muertos porque podemos enfadarlos y nadie quiere que nos maldigan.
@@ -1059,7 +1059,7 @@ El aguardiente puede ser cualquier alcohol destilado, por ejemplo el ron.
 Una vez por sesión solo una persona de tu mesa podrá intentar este ritual de buena suerte y si se consigue se crea un beni comunitario que podrá ser usado por los jugadores como quieran, incluso en tiradas de PNJ. El beni dura hasta el final de la sesión.
 
 **Sanación Obeah:** El obeah es toda una mezcla de religiones de África Occidental que se caracteriza por tener muchos y variados rituales de sanación, desde cuidados de las parturientas hasta tratamiento de heridas graves y epidemias. El practicante de esta fe sabe realizar una serie de prácticas que pueden parecer mágicas, pero en la mayoría de los casos son buenas prácticas médicas como limpiar y desinfectar heridas o bebedizos de plantas para provocar abortos.  
-Este ritual puede cogerse varias veces tratando diferentes tipos de prácticas médicas (traumatismos, epidemias, obstetricia, neumología, ...) Pasando la tirada de Espíritu podrás otorgar un +1 extra a las tiradas de recuperación de tu paciente si sufre alguna dolencia relacionada con tus conocimientos de sanación Obeah.
+Este ritual puede cogerse varias veces tratando diferentes tipos de prácticas médicas (traumatismos, epidemias, obstetricia, neumología, …) Pasando la tirada de Espíritu podrás otorgar un +1 extra a las tiradas de recuperación de tu paciente si sufre alguna dolencia relacionada con tus conocimientos de sanación Obeah.
 
 **Silbar al viento:** En momentos de calma chica en el mar, el más joven del barco debe silbar (cosa prohibida en los barcos) para atraer el viento. Otra opción es que toda la tripulación, incluso capitanes y oficiales, cuelguen su ropa interior en las velas. Con este ritual podemos cambiar una "Calma chicha" por un "Tiempo perfecto".
 
@@ -1303,7 +1303,7 @@ El viejo cantar
 
 más allá de la muerte
 
-Cuando un libro saca el mismo número en las partes de su título o saca un 1 o un 20 en alguna de las partes del título ... ¡Bingo! Tiene algo especial. Tira en la siguiente tabla. Esta característica se aplicará a todo el que lo lea.
+Cuando un libro saca el mismo número en las partes de su título o saca un 1 o un 20 en alguna de las partes del título … ¡Bingo! Tiene algo especial. Tira en la siguiente tabla. Esta característica se aplicará a todo el que lo lea.
 
 Tabla de Características especiales de libro
 
@@ -1321,7 +1321,7 @@ Es un excelente texto educativo. El lector consigue un +1 a Conocimientos Genera
 
 3
 
-Está publicado en una edición de lujo, tapas de cuero, letras de oro, ... Su valor monetario, de intercambio o como regalo se dobla. Podría intercambiarse por dos libros y cualquier coleccionista de libros estaría muy agradecido si se lo regalaran.
+Está publicado en una edición de lujo, tapas de cuero, letras de oro, … Su valor monetario, de intercambio o como regalo se dobla. Podría intercambiarse por dos libros y cualquier coleccionista de libros estaría muy agradecido si se lo regalaran.
 
 4
 
@@ -1489,7 +1489,7 @@ Se pueden usar diferentes hechizos en combate naval, principalmente la manipulac
 
 ### Abordaje de monstruos
 
-Los grandes monstruos acuáticos pueden ser abordados como si fueran un barco, siempre que tengan un tamaño mínimo de 8 (como una nave rápida). Pero desde luego, a diferencia de los barcos, estos pueden gastar un turno en sacudírselos de encima en una tirada enfrentada de FUE/2 del monstruo (ya que está flotando y no puede sacudirse) contra la FUE del héroe. Puedes dar positivos si el monstruo tiene espinas a las que agarrarse, se han atado, ... Si fallan la tirada serán movidos 5 casillas + 1 por avance que consiga el monstruo en la dirección que elija el monstruo, pero todos los afectados deberán seguir la misma dirección.
+Los grandes monstruos acuáticos pueden ser abordados como si fueran un barco, siempre que tengan un tamaño mínimo de 8 (como una nave rápida). Pero desde luego, a diferencia de los barcos, estos pueden gastar un turno en sacudírselos de encima en una tirada enfrentada de FUE/2 del monstruo (ya que está flotando y no puede sacudirse) contra la FUE del héroe. Puedes dar positivos si el monstruo tiene espinas a las que agarrarse, se han atado, … Si fallan la tirada serán movidos 5 casillas + 1 por avance que consiga el monstruo en la dirección que elija el monstruo, pero todos los afectados deberán seguir la misma dirección.
 
 ![](./images/comercio.webp)
 

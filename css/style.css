@@ -1,0 +1,416 @@
+:root {
+  --green-cthulhu: #879f85;
+  --green-deepone: #c6cbc2;
+  --green-gul: #d7d7d7;
+  --green-dark: #5d6e5b;
+  --black-color: #000;
+  --padding: 55px;
+}
+
+@font-face {
+  font-family: 'Jolly Lodger';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./css/fonts/JollyLodger-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./css/fonts/Oswald-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src:
+    url(./css/fonts/OpenSans-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+  font-weight: 100 900;
+  font-stretch: 50% 200%;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src:
+    url(./css/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+  font-weight: 100 900;
+  font-stretch: 50% 200%;
+  font-style: italic;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-size: 20px;
+  color: var(--black-color);
+  font-weight: 400;
+  font-family: 'Open Sans', arial;
+  background-color: #cecece;
+}
+
+section > p,
+section > ul,
+section > blockquote,
+section > h2,
+section > h3,
+section > h4,
+section > h5,
+section > ol,
+section > ul,
+section > div,
+section > a {
+  display: block;
+  padding: 0 0 calc((var(--padding) * 0.4) / 2) 0;
+  margin: 0 var(--padding) ;
+}
+
+/* --------------- Titles ------------------ */
+
+h1 {
+  font-size: 4em;
+  font-family: 'Jolly Lodger', Arial, Helvetica, sans-serif;
+  margin: 0;
+  text-align: center;
+  font-weight: 400;
+}
+
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  clear: both;
+}
+
+h4 {
+  font-size: 1.1em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h1:not(section:first-of-type h1, section:nth-of-type(2) h1, section:last-of-type h1) {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-content: stretch;
+  align-items: stretch;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #000000;
+  color: #ffffff;
+  margin: 0px -15px;
+}
+
+
+body>section:nth-of-type(4) h1 {
+  background: #000000 url(../images/caribe.webp) center bottom no-repeat;
+  background-size: cover;
+}
+
+body>section:nth-of-type(5) h1 {
+  background: #000000 url(../images/ambientacion.webp) center center no-repeat;
+  background-size: cover;
+}
+
+body>section:nth-of-type(6) h1 {
+  background: #000000 url(../images/guia.webp) center center no-repeat;
+  background-size: cover;
+}
+
+body>section:nth-of-type(7) h1 {
+  background: #000000 url(../images/historias.webp) left center no-repeat;
+  background-size: cover;
+}
+
+body>section:nth-of-type(8) h1 {
+  background: #000000 url(../images/monstruos.webp) center center no-repeat;
+  background-size: cover;
+}
+
+body>section:nth-of-type(9) h1 {
+  background: #000000 url(../images/faro.webp) center center no-repeat;
+  background-size: cover;
+}
+
+body>section:nth-of-type(10) h1 {
+  background: #000000 url(../images/aventuras.webp) center center no-repeat;
+  background-size: cover;
+}
+
+body>section:nth-of-type(11) h1 {
+  background: #000000 url(../images/epilogo.webp) center center no-repeat;
+  background-size: cover;
+}
+
+body>section:nth-of-type(12) h1 {
+  background: #000000 url(../images/recursos.webp) center center no-repeat;
+  background-size: cover;
+}
+
+/* ----------- Letras capitulares ----------- */
+
+h2 + div.columns > p:first-of-type:first-letter {
+  font-family: 'MedievalSharp', cursive;
+  font-size: 2.9em;
+  display: block;
+  float: left;
+  margin: 3px 10px 0px 0px;
+  padding: 5px 10px 0px;
+  border: 1px solid #000;
+  color: #000;
+  min-height: 64px;
+  --s: 15px;   
+  background:
+    linear-gradient(135deg,#0000 18.75%,var(--green-cthulhu) 0 31.25%,#0000 0),
+    repeating-linear-gradient(45deg,var(--green-cthulhu) -6.25% 6.25%, var(--green-gul) 0 18.75%);
+  background-size: var(--s) var(--s); 
+}
+
+/* ------------ Listas ------------------- */
+ul li:not(ul li ul li) {
+  list-style-type: none;
+  position: relative;
+  min-height: 33px;
+  padding-bottom: 5px;
+}
+
+ul li:not(ul li ul li):before,
+ul li:not(ul li ul li):after {
+  content: "";
+  top: -2px;
+  left: -24px;
+  --size: 1em;
+  height: calc(var(--size) * 1.1);
+  width: var(--size);
+  appearance: none;
+  outline: none;
+  background: rgb(255, 255, 255);
+  background: radial-gradient(circle, rgb(191 189 189) 0%, rgb(66 65 65) 60%);
+  cursor: pointer;
+  position: relative;
+  display: block;
+  position: absolute;
+  clip-path: polygon(50% 0%, 50% 50%, 45% 65%, 55% 65%, 50% 50%, 50% 0%, 87% 15%, 100% 50%, 75% 72%, 66% 96%, 60% 70%, 50% 100%, 40% 70%, 34% 96%, 25% 72%, 0 50%, 11% 17%);
+}
+
+ul li:not(ul li ul li):after {
+  top: 10px;
+  clip-path: polygon(13% 18%, 0 29%, 30% 50%, 0 68%, 15% 83%, 51% 59%, 80% 85%, 100% 66%, 70% 50%, 99% 27%, 83% 16%, 51% 42%);
+}
+
+/* ----------- imagenes ---------------*/
+
+img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+  width: 100%;
+}
+
+
+/* ------------- Paginación -------------------- */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 1;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: 'VT323', monospace, arial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  color: var(--neon-color);
+  position: absolute;
+  bottom: 11px;
+  left: 10px;
+  width: var(--size);
+  height: var(--size);
+  background-color: var(--purple-color);
+  z-index: 10;
+  opacity: 1;
+  clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);
+}
+
+section h1 + .saltopagina:after {
+  opacity: 0;
+}
+
+.saltopagina.even:after {
+  left: auto;
+  right: 10px;
+  clip-path: polygon(33% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 33%);
+}
+
+
+/* ----------- Indice -------------------- */
+.likeH1,
+.likeH2 {
+  display: block;
+  cursor: pointer;
+  margin: 0 0 1px 0;
+  text-decoration: none;
+  font-size: 1em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.likeH1 {
+  font-size: 1.3em;
+  font-family: 'VT323', monospace, arial;
+}
+
+.likeH2 {
+  padding: 0 0 0 15px;
+}
+
+.likeH1 span,
+.likeH2 span {
+  display: none;
+  float: right;
+  margin-right: 5px;
+}
+
+.columns > *:first-child:not(p.seed),
+.saltocolumna + *,
+.saltocolumna + blockquote > p {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+
+/* Media Query */
+
+@media print {
+  .columns {
+    columns: 2;
+  }
+  
+  .saltocolumna {
+    break-before: column;
+    height: 0px;
+    padding: 0;
+    margin: 0;
+  }
+
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 1px;
+    padding: 0;
+    margin: 0px;
+    opacity: 1; 
+    position: relative;
+  }
+
+  section .saltopagina + * {
+    margin-top: var(--padding);
+  }
+
+  .nopdf {
+    display: none !important;
+  }
+}
+
+/* ---------- Lazos ----------- */
+
+section > h2 {
+  --bgcolor1: #b5c1ac;
+  --bgcolor2: #879f85;
+  --bgcolor3: #0f6800;
+  --ribbon-size: 80px;
+  margin-top: var(--padding);
+  --innerpadding: 15px;
+  background-color: var(--bgcolor1);
+  color: #fff;
+  padding: var(--innerpadding);
+  position: relative;
+  margin-left: calc(var(--ribbon-size) * 2);
+  margin-right: calc(var(--ribbon-size) * 2);
+  margin-bottom: calc(30px + var(--innerpadding));
+  text-align: center;
+  font-size: 1.3em;
+  line-height: 120%;
+}
+
+section > h2:before {
+  content: "";
+
+  height: 100%;
+  box-sizing: border-box;
+  width: calc(100% + var(--ribbon-size));
+  background-color: var(--bgcolor2);
+  background: linear-gradient(
+    90deg,
+    var(--bgcolor2) calc((var(--ribbon-size) / 2) + var(--innerpadding)),
+    var(--bgcolor3) calc((var(--ribbon-size) / 2) + var(--innerpadding)),
+    var(--bgcolor3) calc(100% - (var(--ribbon-size) / 2) - var(--innerpadding)),
+    var(--bgcolor2) calc(100% - (var(--ribbon-size) / 2) - var(--innerpadding))
+  );
+
+  position: absolute;
+  left: calc(var(--ribbon-size) / -2);
+  top: var(--innerpadding);
+  clip-path: polygon(
+    0% 0%,
+    calc(var(--ribbon-size) / 2) 0%,
+    calc(var(--ribbon-size) / 2) calc(100% - var(--innerpadding)),
+    calc(100% - (var(--ribbon-size) / 2)) calc(100% - var(--innerpadding)),
+    calc(100% - (var(--ribbon-size) / 2)) 0%,
+    100% 0%,
+    calc(100% - (var(--innerpadding) * 2)) 50%,
+    100% 100%,
+    calc(100% - (var(--ribbon-size) / 2) - var(--innerpadding)) 100%,
+    calc(100% - (var(--ribbon-size) / 2) - var(--innerpadding))
+    calc(100% - var(--innerpadding)),
+    calc((var(--ribbon-size) / 2) + var(--innerpadding)) calc(100% - var(--innerpadding)),
+    calc((var(--ribbon-size) / 2) + var(--innerpadding)) 100%,
+    0% 100%,
+    calc(var(--innerpadding) * 2) 50%
+  );
+}
+
+section > h2:after {
+  
+  content: "";
+  position: absolute;
+  background-color: var(--bgcolor3);
+  width: 100%;
+  bottom: calc(var(--innerpadding) * -1);
+  left: 0px;
+  height: var(--innerpadding);
+  clip-path: polygon(
+    0% 0%,
+    100% 0%,
+    calc(100% - var(--innerpadding)) 100%,
+    calc(100% - var(--innerpadding)) 0%,
+    var(--innerpadding) 0%,
+    var(--innerpadding) 100%
+  );
+}

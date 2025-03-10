@@ -4,7 +4,11 @@ Aquí tienes un bestiario con las criaturas de los Mitos de Cthulhu más comunes
 
 Todos estos seres están ocultos a los habitantes del Caribe y solo unos pocos son lo suficientemente valientes y temerarios para encontrarlos, combatirlos y volver para contarlo a gritos delante de una buena jarra de grog.
 
+\sinc
+
 ## Combatiendo a los Primigenios
+
+\conc
 
 Hemos excluido de este bestiario a primigenios y seres de igual poder. Principalmente debido a que son más elementos que hacen avanzar la historia que enemigos a combatir. La aventura es evitar que Cthulhu se levante, si se levanta tu misión ha fracasado. No trates de combatirlo, solo conseguirás una horrible muerte entre ventosas, babas y pseudópodos. Además, muchos de ellos están presos o dormidos en alguna extraña dimensión o a miles de años luz en el espacio profundo. Sin embargo, si puedes contactar, hacer tratos o combatir contra sus avatares. Las encarnaciones terrenales de los Primigenios puedes encontrarlos en la sección de "Quién es quién en el Caribe".
 
@@ -22,7 +26,7 @@ Si son ingeniosos, pueden tratar de conservar los cuerpos usando todo tipo de tr
 
 ## Byakhee (secuaz)
 
-Son seres voladores de apariencia insectoide con grandes alas membranosas y pies palmeados. Viven en el espacio interestelar donde sobreviven sin problemas. Se pueden mover a la velocidad de la luz y suelen bajar a diferentes planetas a alimentarse. Principalmente, se concentran en las Híades cerca de Aldebaran donde está exiliado su señor Hastur. Solo aparecen para acompañar a su señor o si son invocados. Pueden ser usados como monturas voladoras y si se pueden evitar los peligros del vacío especial podría viajarse montado en Byakhee entre galaxias a la velocidad de la luz.
+Son seres voladores de apariencia insectoide con grandes alas membranosas y pies palmeados. Viven en el espacio interestelar donde sobreviven sin problemas. Se pueden mover a la velocidad de la luz y suelen bajar a diferentes planetas a alimentarse. Principalmente, se concentran en las Híades cerca de Aldebarán donde está exiliado su señor Hastur. Solo aparecen para acompañar a su señor o si son invocados. Pueden ser usados como monturas voladoras y si se pueden evitar los peligros del vacío especial podría viajarse montado en Byakhee entre galaxias a la velocidad de la luz.
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Notar d6, Pelear d8, Sigilo d6
@@ -46,7 +50,7 @@ Cuando tiene suficiente tamaño ponen huevos y los protegen hasta que eclosionan
 
 Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcantarillas, cuevas, etc. No son agresivos directamente, pero los humanos que caen en su influencia se vuelven irracionales y violentos. Para poder combatir al color hay que enfrentarse a los humanos y animales a los que han corrompido.
 
-En el Caribe sería normal que cayeran en fondos marinos donde pueden sobrevivir si no es a mucha profundidad y tienen donde refugiarse de la luz solar. Infectaran la fauna y flora marina como peces, tortugas o corales y grandes masas de algas. Podría unirse a grandes grupos de sargazos y extraer su esencia vital y moverse con estas algas.
+En el Caribe sería normal que cayeran en fondos marinos donde pueden sobrevivir si no es a mucha profundidad y tienen donde refugiarse de la luz solar. Infectarán la fauna y flora marina como peces, tortugas o corales y grandes masas de algas. Podría unirse a grandes grupos de sargazos y extraer su esencia vital y moverse con estas algas.
 
 * **Atributos:** Agilidad d10, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Pelear d6 (solo esquivar), Sigilo d8
@@ -54,7 +58,7 @@ En el Caribe sería normal que cayeran en fondos marinos donde pueden sobrevivir
 * **Capacidades especiales:**
     * **Morfología alien:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
     * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener áreas de 20 casillas de cualquier forma. No tienen bonificadores ni penalizadores por tamaño.
-    * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. es inmune a todo ataque físico. Puede solidificar partes de si para interactuar con su entorno. La parte solida no inmune a los ataques físicos.
+    * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de si para interactuar con su entorno. La parte sólida no inmune a los ataques físicos.
     * **Volar:** Paso volando 12.
     * **Viaje espacial:** Pueden sobrevivir es el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
     * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno serán cosas que le mantengan en encerrado en el lugar donde este el color como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
@@ -75,7 +79,7 @@ En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades e 
     * **Armadura +2:** Estos gusanos están cubiertos por una gruesa piel y un limo pegajoso.
     * **Excavar 12:** Los chthonianos pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 12 pasos.
     * **Telepatía:** Pueden comunicarse telepáticamente con otros de su especie, incluso a miles de kilómetros. También puede detectar mentes de otros seres pensantes y controlar las mentes de los humanos (Marioneta usando Espíritu como habilidad).
-    * **Tentáculos:** Fue+d10
+    * **Tentáculos:** FUE+d10
     * **Terremoto:** Levantando la cola o la cabeza y dejándola caer pueden crear un terremoto. El terremoto es un ataque de Chorro que usa su habilidad de Pelear.
     * **Tamaño enorme (8):** Los chthonianos adultos miden entre 9 y 12 metros y un par de metros de diámetro (+8 dureza, +4 bonificación al atacarla, +2 heridas).
     * **Debilidad agua:** Los chthonianos son extremadamente sensibles al agua. Pueden soportar pequeñas cantidades de agua, pero una inmersión completa supondría su destrucción.
@@ -110,7 +114,7 @@ Los gules son unos humanoides desgarbados con rasgos de hiena. Salen de noche de
     * **Excavar 4:** Los gules pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 6 pasos.
     * **Debilidad luz solar:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
     * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
-    * **Garras/Mordisco:** Fue+d6
+    * **Garras/Mordisco:** FUE+d6
     * **Infección:** Cualquiera que sufra una herida de un Gul debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de que la transformación en Gul esté completa y el personaje se vuelva injugable. Quizás puedas encontrar a alguien con los suficientes conocimientos en Mitos que sepa como curarla, pero seguramente le deberás un gran favor. Los propios gules podrían darte esa información. Si se supera la infección o se pasa la tirada de Vigor, la víctima se vuelve inmune a la infección y la próxima vez ni tendrá el nivel de fatiga.
 * **TPC:** 1d4 (manada).
 
@@ -125,7 +129,7 @@ Fueron esclavizados por las bestias lunares y los lengnitas más grandes tambié
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Idioma nativo d8, Mitos de Cthulhu d4, Notar d6, Pelear d6, Persuadir d6 (d10 los comerciantes), Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
-* **Desventajas:** Escoge dos Hábitos, uno menor y otro mayor. Puede ser cosas como alcohol, comida, juego, sexo, ... Los lengnitas suelen llevar al extremo las cosas que consideramos como vicios.
+* **Desventajas:** Escoge dos Hábitos, uno menor y otro mayor. Puede ser cosas como alcohol, comida, juego, sexo, … Los lengnitas suelen llevar al extremo las cosas que consideramos como vicios.
 * **Capacidades especiales:**
     * **Cuernos:** FUE+d4
 * **Equipo:** Machete (FUE+d6) y ropajes amplios y sombreros grandes para ocultar sus rasgos de sátiro.
@@ -175,11 +179,11 @@ El lloigor puede hacerse corpóreo adoptando la forma de un reptil alargado y pa
 
 ![](./images/lusca.webp)
 
-Una lusca es un temible críptido del Caribe, de la zona de las Bahamas. Su nombre viene de Mol-lusca (molusco como pulpos, calamares, caracoles, ... ) Las descripciones no son claras, pero parece que el consenso es que es un gigantesco calamar o pulpo.
+Una lusca es un temible críptido del Caribe, de la zona de las Bahamas. Su nombre viene de Mol-lusca (molusco como pulpos, calamares, caracoles, … ) Las descripciones no son claras, pero parece que el consenso es que es un gigantesco calamar o pulpo.
 
 Hay personas que cuentan que lo han visto y han sobrevivido a su ataque y aseguran que tiene una cabeza de tiburón en vez de octópodo, pero la explicación más sencilla es que se dedique a cazar y devorar sardas (tiburones toro) y eso fue lo que vieran los testigos.
 
-El origen de la lusca es desconocido, pero la teoría más plausible es la que elaboró Hernando Villalba en su juventud. Villalba considera que las luscas son versiones degeneradas e involucionadas de las semillas estelares de su adorado Cthulhu. Durante millones de años, algunas de las semillas que escaparon al hundimiento de R'lyeh han ido degenerando y mutando en los terribles monstruos marinos que conocemos como luscas. De hecho, cuando conoció a una tribu de profundos de cerca de Bahamas que cuidaban, alimentaban y hacían ofrendas a una lusca muy mayor que vivía en una cueva submarina, empezó a elaborar la teoría de que R'lyeh estaba sumergida en el Caribe y la lusca era una prueba de ello.
+El origen de la lusca es desconocido, pero la teoría más plausible es la que elaboró Hernando Villalba en su juventud. Villalba considera que las luscas son versiones degeneradas e involucionadas de las semillas estelares de su adorado Cthulhu. Durante millones de años, algunas de las semillas que escaparon al hundimiento de R’lyeh han ido degenerando y mutando en los terribles monstruos marinos que conocemos como luscas. De hecho, cuando conoció a una tribu de profundos de cerca de Bahamas que cuidaban, alimentaban y hacían ofrendas a una lusca muy mayor que vivía en una cueva submarina, empezó a elaborar la teoría de que R’lyeh estaba sumergida en el Caribe y la lusca era una prueba de ello.
 
 Debido a ser descendientes de las semillas estelares, son bastante inteligentes, aunque siga siendo inteligencia animal. Son capaces de solucionar pequeños problemas, de usar objetos simples o de atacar puntos débiles, incluso puede desarrollar tácticas simples como volcar una barca para atacar a los tripulantes en el agua y que sean presas más fáciles.
 
@@ -277,8 +281,8 @@ Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los
     * **Acuático:** Paso nadando 6. Pueden respirar bajo el agua sin problemas y tampoco tienen problemas con la presión a grandes profundidades.
     * **Armadura +2:** Escamas y piel rugosa.
     * **Inmunidad a la edad, el veneno y las enfermedades:** No pueden morir de enfermedad, de viejo o por venenos.
-    * **Garras:** Fue+d4
-    * **Tridente:** Fue+d6. +1 Parada, a dos manos.
+    * **Garras:** FUE+d4
+    * **Tridente:** FUE+d6. +1 Parada, a dos manos.
     * **Rituales:** Atraer a los peces
 * **TPC:** 1d4 (manada).
 
@@ -294,8 +298,8 @@ Dentro de cada comunidad profunda, el más viejo y, por tanto, el más poderoso 
     * **Acuático:** Paso nadando 6. Pueden respirar bajo el agua sin problemas y tampoco tienen problemas con la presión a grandes profundidades.
     * **Armadura +2:** Escamas y piel rugosa.
     * **Inmunidad a la edad, el veneno y las enfermedades:** No pueden morir de enfermedad, de viejo o por venenos.
-    * **Garras:** Fue+d4
-    * **Tridente:** Fue+d6. +1 Parada, a dos manos.
+    * **Garras:** FUE+d4
+    * **Tridente:** FUE+d6. +1 Parada, a dos manos.
     * **Hechizos:** PP 8, Hidromancia, Dominar a las bestias.
     * **Rituales:** Atraer a los peces, Consagrar personas
 * **TPC:** 1d4 (manada).
@@ -313,8 +317,8 @@ Solo hay 3 caciques profundos en todo el Caribe y son seres de bastante poder, t
     * **Armadura +2:** Escamas y piel rugosa.
     * **Tamaño grande 4:** Miden unos entre 4 metros de altura (+4 dureza, +2 bonificación al atacarla, +1 herida).
     * **Inmunidad a la edad, el veneno y las enfermedades:** No pueden morir de enfermedad, de viejo o por venenos.
-    * **Garras:** Fue+d4
-    * **Tridente:** Fue+d6. +1 Parada, a dos manos.
+    * **Garras:** FUE+d4
+    * **Tridente:** FUE+d6. +1 Parada, a dos manos.
     * **Hechizos:** PP 16, Hidromancia, Dominar a las bestias, Pudrir carne, Invocar los apéndices de Dygra.
     * **Rituales:** Atraer a los peces, Consagrar personas
 * **TPC:** 1d8 (manada).
@@ -343,7 +347,7 @@ Los retoños oscuros son unas masas informes de tentáculos con varias bocas. Pa
 * **Capacidades especiales:**
     * **Masa informe:** , no tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen ningún extra. Por ejemplo, disparar a una boca no sirve de nada, ya que hay muchas más.
     * **Inmunidad:** A explosivos y armas de fuego
-    * **Tentáculos:** Fue+d6, pueden hacer dos ataques independientes por turno sin tener penalizadores por hacer varias acciones o por mano mala.
+    * **Tentáculos:** FUE+d6, pueden hacer dos ataques independientes por turno sin tener penalizadores por hacer varias acciones o por mano mala.
     * **Tamaño grande (4/6):** Los retoños miden entre 4 y 6 metros y un par de metros de diámetro (+4/6 dureza, +2 bonificación al atacarla, +1 herida).
     * **Apariencia de árbol:** Pueden usar su sigilo solo para parecer ser árboles en la lejanía. En cuando te acercas o se mueven, la ilusión se rompe.
 * **TPC:** 1d8
@@ -367,7 +371,7 @@ Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y l
     * **Mordisco:** FUE+d6
     * **En fase:** El sabueso vibra temporalmente con lo que está y no está. Esto le otorga -2 a todos los intentos de impactarle.
     * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida. Si pierde todas sus heridas no podrá regenerarlas y volver a la vida.
-    * **Inmunidad:** Ataques físicos como armas de corte, pistolas, fuego, electricidad, ...
+    * **Inmunidad:** Ataques físicos como armas de corte, pistolas, fuego, electricidad, …
     * **Debilidad:** Magia y alta tecnología. Las armas encantadas y las pistolas lanzarrayos pueden dañarlos normalmente.
     * **Telepatía:** Se comunica telepáticamente con todo tipo de seres inteligentes.
     * **Teleportación:** Una vez por turno y con un solo punto de coste de movimiento. Puede entrar en zonas angulares como esquinas de la pared y aparecer en otra esquina siempre que este a menos de 8 casillas. No podría teleportarse si es encerrado por dentro de una esfera.
@@ -397,8 +401,8 @@ Puedes encontrarlos en sus guaridas subterráneas rodeadas de todo tipo de herra
 * **Ventajas:** Hechicería primigenia, Nuevos poderes x2
 * **Capacidades especiales:**
     * **Armadura +1:** Piel escamosa.
-    * **Garras:** Fue+d6
-    * **Mordisco venenoso:** Fue+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
+    * **Garras:** FUE+d6
+    * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
     * **Hechizos:** 12 PP, Conoce 3 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
 * **TPC:** 1d6
 
@@ -412,8 +416,8 @@ Son las fuerzas de choque de la serpigente, crueles y brutales con los humanos. 
 * **Ventajas:** Hechicería primigenia, Nuevos poderes
 * **Capacidades especiales:**
     * **Armadura +1:** Piel escamosa.
-    * **Garras:** Fue+d6
-    * **Mordisco venenoso:** Fue+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
+    * **Garras:** FUE+d6
+    * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
     * **Hechizos:** 8 PP, Conoce 1 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
 * **TPC:** 1d6
 
@@ -457,7 +461,7 @@ A lo largo de los milenios han ido evolucionando, haciéndose anfibios y aumenta
     * **Tamaño 6:** 6 metros de diámetro (+6 dureza, +2 bonificación al atacarla, +1 herida).
     * **Tentáculos:** FUE+d6
     * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida excepto las creadas por fuego o electricidad.
-    * **Inmunidad:** Ataques físicos como armas de corte, pistolas, ...
+    * **Inmunidad:** Ataques físicos como armas de corte, pistolas, …
     * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego o granadas.
 * **TPC:** 1d10
 
@@ -477,7 +481,7 @@ Este shoggoth ha crecido descomunalmente, de forma que se ha convertido en una i
     * **Tamaño 8:** 12 metros de diámetro (+8 dureza, +4 bonificación al atacarla, +2 herida).
     * **Tentáculos:** FUE+d6
     * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida, excepto las creadas por fuego o electricidad.
-    * **Inmunidad:** Ataques físicos como armas de corte, pistolas, ...
+    * **Inmunidad:** Ataques físicos como armas de corte, pistolas, …
     * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego o granadas.
 * **TPC:** 1d12
 
@@ -625,7 +629,7 @@ Los marinos abarcan a todas las personas que trabajan en un barco sin una ocupac
 
 #### Pescador / Agricultor
 
-Usa estas estadísticas para todas esas personas que habitan los puertos y los campos de cultivo de las islas del Caribe. Pueden dedicarse a la agricultura, la ganadería, el pastoreo o la pesca ... Puedes gastar un par de puntos de habilidad en especializarlos. Por ejemplo, si recolectan cocos, en vez de atletismo d6, deberían tener d10 para poder trepar a las palmeras.
+Usa estas estadísticas para todas esas personas que habitan los puertos y los campos de cultivo de las islas del Caribe. Pueden dedicarse a la agricultura, la ganadería, el pastoreo o la pesca … Puedes gastar un par de puntos de habilidad en especializarlos. Por ejemplo, si recolectan cocos, en vez de atletismo d6, deberían tener d10 para poder trepar a las palmeras.
 
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Idioma materno o criollo d4, Notar d4, Pelear d4, Supervivencia d4
@@ -765,7 +769,7 @@ Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pi
 
 Aquí tenéis una lista de animales salvajes del manual de SWEA que puedes usar en tus aventuras "cthulhu-pirateras", desde perros y mulas hasta tiburones toro, también conocidos como sardas:
 
-* **Ave de presa:** cernícalos, gavilanes bobos, caracoleros o batistas, sijí blatanero, ...
+* **Ave de presa:** cernícalos, gavilanes bobos, caracoleros o batistas, sijí blatanero, …
 * **Caimán/cocodrilo:** en el Caribe solo podrás encontrar caimanes.
 * **Caballo de monta/guerra**
 * **Gato doméstico**
@@ -800,7 +804,7 @@ Estos increíbles peces emparentados con los tiburones se caracterizan por su ex
 * **Capacidades especiales:**
     * **Acuático:** Paso 10 nadando
     * **Mordisco:** FUE+d6
-    * **Aguijón venenoso:** Fue+d4. El aguijón de la cola es venenoso. Su víctima debe pasar una tirada de Vigor inmediatamente o quedará aturdida.
+    * **Aguijón venenoso:** FUE+d4. El aguijón de la cola es venenoso. Su víctima debe pasar una tirada de Vigor inmediatamente o quedará aturdida.
     * **Saltar:** Puede usar su habilidad de Atletismo para saltar fuera del agua y hacer ataques fuera del agua.
 
 #### Mantarraya:

@@ -43,7 +43,7 @@ La Orden tiene su corazón y si les desafía o les desobedece morirá de la form
 * **Desventajas:** Buscado (Mayor, por piratería), Juramente (Mayor, servir a la Orden durante 10 años)
 * **Ventajas:** Amenazador, Berserk, Bloqueo, Manos Firmes, Nuevos poderes, Rápido, Reflejos de Combate, Trasfondo Arcano (Hechicería primigenia)
 * **Capacidades especiales:**
-    * **Sin corazón:** Al son de cantos de "kalima, kalima, ...", el propio Villalba extrajo el corazón de Teach y con él su alma. Mientras Villalba tenga su corazón, Teach está obligado a obedecerle o podría matarle simplemente estrujando su corazón con sus manos. Como ventajas, Edward tiene Resistencia Arcana Mejorada y los hechizos de Marioneta y Manipulación de recuerdos fallan siempre. Si se lanza hechizos de detección mágica se verá un gran agujero negro donde debería estar su corazón. Una tirada de Mitos permitirá saber que le han quitado el corazón y los detalles de esta maldición.
+    * **Sin corazón:** Al son de cantos de "kalima, kalima, …", el propio Villalba extrajo el corazón de Teach y con él su alma. Mientras Villalba tenga su corazón, Teach está obligado a obedecerle o podría matarle simplemente estrujando su corazón con sus manos. Como ventajas, Edward tiene Resistencia Arcana Mejorada y los hechizos de Marioneta y Manipulación de recuerdos fallan siempre. Si se lanza hechizos de detección mágica se verá un gran agujero negro donde debería estar su corazón. Una tirada de Mitos permitirá saber que le han quitado el corazón y los detalles de esta maldición.
     * **Hechizos:** 8 PP, Canto de Babalú Ayé, Vibración dimensional
     * **Rituales:** Silbar al viento, Cegar el mascarón de proa, Brindar por el mar, El clavo en la calavera, Canción pirata, Astillas en la planta de los pies
 * **Equipo:** Cimitarra (FUE+d8), Protecciones de cuero +1, 2 Pistolas de chispas cargadas
@@ -210,7 +210,7 @@ Al ser casi todopoderoso, puede aparecerse en cualquier parte en cualquier momen
     * **Código de honor:** Está ligado mágicamente a no poder romper las promesas y los pactos que haga o los contratos que firme. Si bien, siempre buscará un agujero legal porque el que romper los pactos o sacarles más partido del que a priori se firmó.
     * **Hechizos y rituales:** Sabe todos los hechizos y rituales y cada turno tiene 20 PP para gastar como desee. La duración es indefinida y el tiempo de lanzamiento es inmediato. El problema es que debe lanzar sus hechizos a escondidas, si alguien le ve lanzar un hechizo no funcionará.
     * **Debilidad Ron:** Su principal debilidad es el ron. No puede resistirse a él y se le puede emborrachar. Tampoco puede lanzar hechizos estando borracho.
-    * **Debilidad Seducción:** Otra debilidad tiene es que le es imposible resistirse a los avances amorosos y sexuales vengan del ser o entidad de la que vengan. Mediante tiradas de Persuadir de carácter erótico y/o amoroso (para el ser que las realiza) enfrentadas a su Espíritu se puede hacer que haga cosas que no quiera como firmar contratos, hacer promesas, ...
+    * **Debilidad Seducción:** Otra debilidad tiene es que le es imposible resistirse a los avances amorosos y sexuales vengan del ser o entidad de la que vengan. Mediante tiradas de Persuadir de carácter erótico y/o amoroso (para el ser que las realiza) enfrentadas a su Espíritu se puede hacer que haga cosas que no quiera como firmar contratos, hacer promesas, …
     * **Inmortal:** Si muere volverá a la vida a la mañana siguiente.
 
 **Sugerencia de interpretación:** Eres un extraño dios en un cuerpo mortal. Todo es extraño y divertido y ser Totep son unas vacaciones en tus obligaciones como sirviente de Azathoth. Estás aquí para divertirte y por Hastur que te vas a divertir. Sonríe mucho, cuenta chistes y prueba de todo.
@@ -232,7 +232,7 @@ Normalmente, se aparece como una mujer muy demacrada y pálida, con ropajes blan
 * **Paso:** 6; **Parada:** 7; **Dureza:** 8
 * **Ventajas:** Frenesí Mejorado.
 * **Capacidades especiales:**
-    * **Mordisco:** Fue+d6. Puede lanzar 2 mordiscos por turno sin penalizaciones.
+    * **Mordisco:** FUE+d6. Puede lanzar 2 mordiscos por turno sin penalizaciones.
     * **Fantasmal:** La llorona puede hacerse inmaterial a voluntad y solo los ataques mágicos pueden dañarla.
     * **Flotar:** La llorona puede flotar, de forma que no existe terrenos difíciles para ella.
 * **TPC:** 1d8, solo tras mostrar su verdadera cara.
@@ -432,8 +432,8 @@ La cultura serpigente está muy basada en la fuerza, la guerra y la ciencia y su
 * **Ventajas:** Hechicería primigenia, Nuevos poderes x3, Puntos de poder, Sensibilidad celta, Trasfondo Arcano (Hechicería primigenia)
 * **Capacidades especiales:**
     * **Armadura +1:** Piel escamosa.
-    * **Garras:** Fue+d6
-    * **Mordisco venenoso:** Fue+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
+    * **Garras:** FUE+d6
+    * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
     * **Hechizos:** 24 PP, Expulsar ente, Lectura de aura, Augurios del soñador, Café especiado, Viaje astral, Robar la piel (para poder moverse dentro de la sociedad humana).
 * **TPC:** 1d6 si se le ve sin disfraz
 

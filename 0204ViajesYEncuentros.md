@@ -93,7 +93,7 @@ Con un huracán en el mar puede pasar cualquier cosa. El director de juego puede
 
 El huracán en tierra no es menos terrible, puede arrasar una isla, destruyendo todos los edificios e inundando los campos y los caminos. El director de juego puede hacer lo que quiera. Ejemplos:
 
-* El lugar de destino de tu mesa ha sido destruido por el huracán. No hay provisiones ni agua potable (y menos para el viaje de vuelta), está lleno de muertos y heridos, hay enfermedades, saqueos, ... Puede ser sin problemas el inicio de una interesante aventura por salvar a los supervivientes o una oportunidad de establecerse en ese lugar.
+* El lugar de destino de tu mesa ha sido destruido por el huracán. No hay provisiones ni agua potable (y menos para el viaje de vuelta), está lleno de muertos y heridos, hay enfermedades, saqueos, … Puede ser sin problemas el inicio de una interesante aventura por salvar a los supervivientes o una oportunidad de establecerse en ese lugar.
 * El grupo tiene que volverse al punto de salida, perdiendo tiempo y dinero. Puede darse el caso, incluso, que fracasen en su misión por no llegar a tiempo.
 * El huracán y las inundaciones desentierran unas antiguas ruinas que explorar o de las que sale un antiguo mal. Puede ser que se encuentren las ruinas en su camino o que al llegar a su destino sus habitantes les hablen del lugar.
 
@@ -187,7 +187,7 @@ Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había T
 
 Avistamiento de cetáceos
 
-El vigía del barco avista un grupo de cetáceos, delfines, orcas, ballenas, ... En ese momento pueden decidir qué hacen. Pueden cazarlos y vender sus cuerpos por un buen precio. Por ejemplo, el ámbar gris, usado en perfumería y que valía más que el oro, era una secreción de los cachalotes para proteger su sistema digestivo. Si algunos de los cetáceos tiene problemas y los personajes le ayudan, puedes usarlo más tarde para salvar a los jugadores si se caen al mar, su barco es hundido o si les abandonan en una balsa en mitad del mar.
+El vigía del barco avista un grupo de cetáceos, delfines, orcas, ballenas, … En ese momento pueden decidir qué hacen. Pueden cazarlos y vender sus cuerpos por un buen precio. Por ejemplo, el ámbar gris, usado en perfumería y que valía más que el oro, era una secreción de los cachalotes para proteger su sistema digestivo. Si algunos de los cetáceos tiene problemas y los personajes le ayudan, puedes usarlo más tarde para salvar a los jugadores si se caen al mar, su barco es hundido o si les abandonan en una balsa en mitad del mar.
 
 14
 
@@ -249,7 +249,7 @@ Descripción
 
 La senda de piedra
 
-Encuentran un trozo de calzada, un hito o un mojón. No se puede seguir porque se lo ha comido la jungla. Es muy antiguo y lleva oculto durante años,  incluso siglos. Con una tirada de Supervivencia podrán cartografiar el punto y cuando tengan 3 podrán triangular algún tipo de templo, un cenote u otro elemento de esta tabla. Puedes también aprovechar esto para introducir una aventura propia como un templo tipo dungeon que explorar, ...
+Encuentran un trozo de calzada, un hito o un mojón. No se puede seguir porque se lo ha comido la jungla. Es muy antiguo y lleva oculto durante años,  incluso siglos. Con una tirada de Supervivencia podrán cartografiar el punto y cuando tengan 3 podrán triangular algún tipo de templo, un cenote u otro elemento de esta tabla. Puedes también aprovechar esto para introducir una aventura propia como un templo tipo dungeon que explorar, …
 
 2
 
@@ -351,7 +351,7 @@ Encuentras un cenote oculto en la maleza y parece que hace siglos que nadie pasa
 
 Restos fosilizados
 
-En una zona rocosa encuentran gran cantidad de restos fosilizados de dinosaurios. Si disponen de equipo adecuado (picos, palas, cubos, ...) en 1 semana completa de trabajo pueden sacar 1d4 esqueletos completos de dinosaurios de tamaño medio (tamaño 5-6). Si sacan 4 sacarán uno de tamaño gigantesco (10-12). Con el hechizo de Control elemental tierra podrán hacerlo en 1 día. Empieza, si quiere tu mesa, el relato salvaje "Cazadores de huesos".
+En una zona rocosa encuentran gran cantidad de restos fosilizados de dinosaurios. Si disponen de equipo adecuado (picos, palas, cubos, …) en 1 semana completa de trabajo pueden sacar 1d4 esqueletos completos de dinosaurios de tamaño medio (tamaño 5-6). Si sacan 4 sacarán uno de tamaño gigantesco (10-12). Con el hechizo de Control elemental tierra podrán hacerlo en 1 día. Empieza, si quiere tu mesa, el relato salvaje "Cazadores de huesos".
 
 19
 
@@ -441,9 +441,9 @@ Pnakotus fue construida hace millones de años por la Gran Raza de Yith en el Gr
 
 11
 
-R'lyeh
+R’lyeh
 
-Ya hemos hablado de R'lyeh mucho en esta ambientación, así que ya sabes qué van a encontrar.
+Ya hemos hablado de R’lyeh mucho en esta ambientación, así que ya sabes qué van a encontrar.
 
 12
 

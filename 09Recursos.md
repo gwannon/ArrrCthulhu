@@ -1,6 +1,6 @@
 # Recursos para piratas y primigenios
 
-En este apartado te ofrecemos una serie de fichas para el control de tu navío y sus modificaciones, tu biblioteca de libros, tus cofres del tesoro, ... Me gustaría que tuviera una hoja de personaje personalizada, con espacios para trastornos y cordura, pero mis capacidades de diseño no son tan buenas. A ver si un día me animo :)
+En este apartado te ofrecemos una serie de fichas para el control de tu navío y sus modificaciones, tu biblioteca de libros, tus cofres del tesoro, … Me gustaría que tuviera una hoja de personaje personalizada, con espacios para trastornos y cordura, pero mis capacidades de diseño no son tan buenas. A ver si un día me animo :)
 
 Ficha de navío
 

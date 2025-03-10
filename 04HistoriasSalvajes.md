@@ -1,10 +1,15 @@
 # Historias salvajes
 
+
+\sinc
+
 ## El tesoro hundido
 
-El tesoro hundido es una campaña en la que tu mesa deberá evitar la ascensión de R'lyeh de los oscuros fondos oceánicos del mar Caribe, enfrentándose a un poderoso culto de adoradores de Cthulhu.
+\conc
 
-El tesoro hundido es cómo llama Hernando de Villalba, dueño de la RCPC, a la ciudad sumergida de R'lyeh, donde duerme Cthulhu desde hace eones. Villalba, líder de la Orden del Gran Cthulhu quiere sacar a la ciudad de las aguas y despertar al gran Cthulhu. Este en agradecimiento le colmará de poder y riquezas dignas de un rey y lo que más ansia, la inmortalidad.
+El tesoro hundido es una campaña en la que tu mesa deberá evitar la ascensión de R’lyeh de los oscuros fondos oceánicos del mar Caribe, enfrentándose a un poderoso culto de adoradores de Cthulhu.
+
+El tesoro hundido es cómo llama Hernando de Villalba, dueño de la RCPC, a la ciudad sumergida de R’lyeh, donde duerme Cthulhu desde hace eones. Villalba, líder de la Orden del Gran Cthulhu quiere sacar a la ciudad de las aguas y despertar al gran Cthulhu. Este en agradecimiento le colmará de poder y riquezas dignas de un rey y lo que más ansia, la inmortalidad.
 
 Para llevar a cabo su plan necesita primero encontrar la ciudad, que sospecha que se encuentra en algún lugar del Caribe. Lleva años estudiando viejos tomos malditos, apócrifas cartas náuticas y mandando a sus espías a tabernas portuarias a escuchar los locos relatos de los marineros. Está muy cerca de encontrarla, pero hay algo que todavía se le escapa para encontrar su "tesoro hundido".
 
@@ -331,7 +336,7 @@ Seguir la historia les llevaría más tiempo del que tienen (2 semanas de inmers
 
 Unas tiradas de Notar les llevarán a encontrar el único daño que hay en las estructuras. Alguien, claramente Villalba, ha cortado una pared y se ha llevado una sección entera. Si estudian los grabados de antes y después (tirada de Mitos) verán que los Antiguos estuvieron en guerra con una especie de humanoides alados con cabeza de pulpo, semillas estelares de Cthulhu.
 
-Por el grabado parece que los Antiguos trataron de destruir algo que guardaban las semillas estelares. Es imposible saber qué era o dónde estaba porque falta todo el bajorrelieve donde debía ponerlo. No hace falta ser muy listo para deducir qué esa parte de la pared se contaba seguramente dónde estaba R'lyeh.
+Por el grabado parece que los Antiguos trataron de destruir algo que guardaban las semillas estelares. Es imposible saber qué era o dónde estaba porque falta todo el bajorrelieve donde debía ponerlo. No hace falta ser muy listo para deducir qué esa parte de la pared se contaba seguramente dónde estaba R’lyeh.
 
 Con esta información pueden volver a la superficie y entrar en contacto con Read para planificar el siguiente paso. Las noticias desde luego no son buenas; que Villalba avance en su plan nunca es bueno.
 
@@ -373,7 +378,7 @@ Otras opciones son inviables por la falta de tiempo. No pueden infiltrarse entre
 
 Entre las insignes autoridades que asistirán destaca Francisco Danio Granados, gobernador de Puerto Rico. Ha fletado una flotilla de barcos de combate para poder asistir a la subasta.
 
-#### La puja empieza por ...
+#### La puja empieza por …
 
 La subasta empezará a las 5 hasta acabar sobre las 10, que ya será de noche. La entrada es libre, pero deberán ir limpios y aseados y que parezca que tienen dinero, si no la gente del control de acceso no les dejarán pasar a la sala de subastas.
 
@@ -519,15 +524,15 @@ Para darle más emoción no le digas el objetivo de avances, pero dales pistas c
 
 Para darle un poco de vida puedes meter encuentros con agentes de la RCPC o viejos enemigos que vuelven a atacar. También podrás quitarles avances si les roban parte de la investigación mientras duermen o si alguien falla una tirada de Mitos.
 
-Puedes aprovechar todos estos viajes para introducirles en otras aventuras, mientras avanzan en esta campaña. No te preocupes por el tiempo, hasta que tu mesa no descubra la ubicación de R'lyeh, Villalba tampoco.
+Puedes aprovechar todos estos viajes para introducirles en otras aventuras, mientras avanzan en esta campaña. No te preocupes por el tiempo, hasta que tu mesa no descubra la ubicación de R’lyeh, Villalba tampoco.
 
-Cuando descubran el enigma, los grabados les dirán la ubicación de R'lyeh en la fosa de Puerto Rico a 8.000 m de profundidad.
+Cuando descubran el enigma, los grabados les dirán la ubicación de R’lyeh en la fosa de Puerto Rico a 8.000 m de profundidad.
 
 ### A 8.000 metros de profundidad
 
 **Comienzo:** Sobre la Fosa de Puerto Rico
 
-Ya saben la ubicación de R'lyeh, pero hay que comprobarlo, así que toca sumergirse en el lugar más profundo del Atlántico y buscar la ciudad. ¿Qué horrores os esperan a 8.000 metros de profundidad?
+Ya saben la ubicación de R’lyeh, pero hay que comprobarlo, así que toca sumergirse en el lugar más profundo del Atlántico y buscar la ciudad. ¿Qué horrores os esperan a 8.000 metros de profundidad?
 
 Puede que tu mesa tenga un ingenio submarino como campanas de buceo y experiencia en misiones submarinas, pero 8.000 metros son muchos metros.
 
@@ -549,13 +554,13 @@ Si intentan usar magia para mirar dentro no funcionará. La magia no puede atrav
 
 **Comienzo:** En lo profundo de la Fosa de Puerto Rico
 
-Explorar R'lyeh y encontrar al durmiente Cthulhu es una tarea solo para los más valientes o los más locos o ambas cosas.
+Explorar R’lyeh y encontrar al durmiente Cthulhu es una tarea solo para los más valientes o los más locos o ambas cosas.
 
-R'lyeh está rodeado de una especie de esfera de entropía que la oculta, que no deja entrar el agua y que hace que esté fuera del tiempo. En R'lyeh no ha pasado ni un segundo desde que se sumergió en las aguas y lo mismo para sus edificios, sus selvas y los terribles animales prehistóricos que se hundieron con la ciudad. De hecho, si consiguen salir lo hará un segundo después de haber entrado. Mientras que para ellos habrán pasado horas o días, para el resto del mundo no habrá pasado ni un minuto.
+R’lyeh está rodeado de una especie de esfera de entropía que la oculta, que no deja entrar el agua y que hace que esté fuera del tiempo. En R’lyeh no ha pasado ni un segundo desde que se sumergió en las aguas y lo mismo para sus edificios, sus selvas y los terribles animales prehistóricos que se hundieron con la ciudad. De hecho, si consiguen salir lo hará un segundo después de haber entrado. Mientras que para ellos habrán pasado horas o días, para el resto del mundo no habrá pasado ni un minuto.
 
 #### La tierra antes del tiempo
 
-R'lyeh está rodeado por una jungla que no ha cambiado ni un ápice en miles de años. La jungla está llena de árboles inmensos y arbustos llenos de espinas como navajas que hacen muy difícil avanzar. La flora no es reconocible, parecen versiones primigenias de plantas actuales, pero a la vez son totalmente distintas.
+R’lyeh está rodeado por una jungla que no ha cambiado ni un ápice en miles de años. La jungla está llena de árboles inmensos y arbustos llenos de espinas como navajas que hacen muy difícil avanzar. La flora no es reconocible, parecen versiones primigenias de plantas actuales, pero a la vez son totalmente distintas.
 
 En cuanto a la fauna, está repleta de seres de antes del tiempo, como caimanes bípedos del tamaño de elefantes o iguanas, con cuerpos acorazados y colas pinchudas más grandes que un hipopótamo. Si estuvieron en el almacén de George Jansen puede que reconozcan algún esqueleto. Muéstrales espectaculares escenas de luchas entre estos seres y haz que corran por sus vidas delante de alguno de estos seres.
 
@@ -563,13 +568,13 @@ Usa las estadísticas del draco del manual básico (sin aliento de fuego) y déj
 
 #### La ciudad fuera de la geometría euclideana
 
-La ciudad de R'lyeh es una mole de grandes edificios de piedra verde, grandes avenidas con columnas, descomunales plazas llenas de estatuas de mármol verde que representan a seres fantásticos. En la distancia todo parece construido a una escala muchísimo mayor que la de una persona y, sin embargo, al acercarse tiene un tamaño gigante, pero adecuado para un ser humano.
+La ciudad de R’lyeh es una mole de grandes edificios de piedra verde, grandes avenidas con columnas, descomunales plazas llenas de estatuas de mármol verde que representan a seres fantásticos. En la distancia todo parece construido a una escala muchísimo mayor que la de una persona y, sin embargo, al acercarse tiene un tamaño gigante, pero adecuado para un ser humano.
 
 Las calles están impolutas, los edificios completamente vacíos, con las paredes lisas y nada parece tener daños, desperfectos o desgaste y, sin embargo, tienes la sensación de que lleva existiendo millones de años.
 
 Desde cualquier parte de la ciudad se ve en una colina en el centro de la ciudad con una gigantesca mole de piedra en forma de mausoleo donde suponéis que yace el omnipotente Cthulhu.
 
-Mientras exploran las grandes avenidas y las extrañas plazas de R'lyeh, puede suceder alguno de estos sucesos. Y recuerda:
+Mientras exploran las grandes avenidas y las extrañas plazas de R’lyeh, puede suceder alguno de estos sucesos. Y recuerda:
 
 > \- Veis un palacio de planta cuadrada con 5 torreones, un solo torreón en cada esquina.  
 > \- Pero eso no puede ser.  
@@ -617,15 +622,15 @@ El cuerpo de Cthulhu están grande que se pierde en la distancia, de forma que s
 
 Ver a Cthulhu reposando en su sepulcro es posiblemente la TPC más difícil a la que tu mesa tendrá que enfrentarse, d12+12. Si pierden cordura no podrán tratar de coger un trastorno en su lugar. Su visión solo supone horror y tu mente no puede desviar ese horror en forma de trastornos mentales permanentes o temporales. Va directamente a tu razón y la destruye sin contemplaciones.
 
-Una vez que compruebe que están R'lyeh y que Cthulhu existe, déjales volver sin problemas a la superficie donde deberán informar a Read de sus descubrimientos. Esta les dirá la Hermandad que tiene que pensar que va a hacer. Déjales 2 semanas para que hagan sus propias aventuras para continuar con "Malas Noticias", la siguiente parte de este relato salvaje.
+Una vez que compruebe que están R’lyeh y que Cthulhu existe, déjales volver sin problemas a la superficie donde deberán informar a Read de sus descubrimientos. Esta les dirá la Hermandad que tiene que pensar que va a hacer. Déjales 2 semanas para que hagan sus propias aventuras para continuar con "Malas Noticias", la siguiente parte de este relato salvaje.
 
 ### Malas noticias
 
-**Comienzo:** Cualquier tasca del Caribe un par de semana después de explorar R'lyeh.
+**Comienzo:** Cualquier tasca del Caribe un par de semana después de explorar R’lyeh.
 
 La hermandad tiene una "rata" infiltrada en la Orden que acaba de dar las peores noticias posibles: Villalba ha encontrado la ciudad de su señor. Eso pone la cuenta atrás hacia el Armagedón.
 
-Cesar, el lugarteniente de Barbanegra e infiltrado de la Hermandad, ha hecho llegar muy malas noticias. Villalba ha descifrado el jeroglífico de los Antiguos. Ha encontrado R'lyeh y parece que ha bajado en persona a la ciudad sumergida.
+Cesar, el lugarteniente de Barbanegra e infiltrado de la Hermandad, ha hecho llegar muy malas noticias. Villalba ha descifrado el jeroglífico de los Antiguos. Ha encontrado R’lyeh y parece que ha bajado en persona a la ciudad sumergida.
 
 Villalba está exultante, ha bajado al fondo marino y ha visto a su señor en todo su durmiente esplendor. Ahora está convencido de su inmenso poder y de que al despertarlo de su sueño mortal le dará la inmortalidad que tanto busca.
 
@@ -663,7 +668,7 @@ La opción más viable es montar una distracción que atraiga a los guardias y c
 
 Si consiguen llegar al interior de la mansión no deberían tener problemas de noche cuando todo el mundo esté durmiendo. De día hay actividad y les podrían sorprender.
 
-Tanto si van al observatorio o al invernadero, allí encontrarán partes de su plan. Encontrarán mapas de las Antillas marcando R'lyeh y los volcanes, tomos de geología, algunos títulos de propiedad de tierras en los alrededores de los volcanes y lo más llamativo, una maqueta de una especie de ingenio explosivo. No pueden llevarse nada de esto o Villalba se dará cuenta de su incursión. Deberán hacer varias tiradas de ciencias y humanidades para entender todos estos elementos. Deberán acumular 5 avances para poder irse con toda la información. Durante este tiempo podrán ser detectados por los guardas e por Villalba.
+Tanto si van al observatorio o al invernadero, allí encontrarán partes de su plan. Encontrarán mapas de las Antillas marcando R’lyeh y los volcanes, tomos de geología, algunos títulos de propiedad de tierras en los alrededores de los volcanes y lo más llamativo, una maqueta de una especie de ingenio explosivo. No pueden llevarse nada de esto o Villalba se dará cuenta de su incursión. Deberán hacer varias tiradas de ciencias y humanidades para entender todos estos elementos. Deberán acumular 5 avances para poder irse con toda la información. Durante este tiempo podrán ser detectados por los guardas e por Villalba.
 
 #### La fuga
 
@@ -694,7 +699,7 @@ Estas son algunas de las pistas que pueden descubrir investigando las actividade
 * En la VLH podrán encontrar referencias a gentes de ciencias de Europa que han venido al Caribe pagados por La RCPC. Son personas expertas en geología o en química y normalmente han sido repudiados por la comunidad científica por sus estudios y experimentos moralmente cuestionables o, incluso, directamente delictivos. Si consiguen alguno de sus estudios, por ejemplo, pidiéndolos a sus universidades en Europa, podrán ver que se dedican a dos temas principales, nuevos explosivos y unas teorías nuevas sobre lo que crea los volcanes y terremotos. Estas teorías dicen que los continentes se mueven sobre una capa de lava y magma líquido del interior de la tierra, los terremotos son choques entre continentes y los volcanes escapes de lava.
 * Si visitan algún terreno comprado verán que son minas que no parece muy beneficiosas, pero están muy fuertemente protegidos, con vallas y guardas muy armados.
 * Algún confidente de la Hermandad puede encauzarles hacia las anteriores pistas, si los ves muy perdidos.
-* Si juegan los relatos "El secreto tatuado" o "Cuando la tierra tiembla" saben que tienen capacidad de usar chthonianos y pueden crean terremotos a voluntad. Si hundieron Port Royal con un terremoto, igual uno de mayor magnitud bien dirigido pueda elevar a R'lyeh.
+* Si juegan los relatos "El secreto tatuado" o "Cuando la tierra tiembla" saben que tienen capacidad de usar chthonianos y pueden crean terremotos a voluntad. Si hundieron Port Royal con un terremoto, igual uno de mayor magnitud bien dirigido pueda elevar a R’lyeh.
 
 Ten en cuenta que si preguntan mucho, la RCPC podría enterarse. Así que como mucho deberían intentar conseguir una pista de cada puerto o ciudad. Si tratan de sacar más, seguramente tendrán algún encuentro inesperado en algún callejón oscuro.
 
@@ -702,13 +707,13 @@ Si no son capaces de hilar el plan puedes darles alguna pincelada, pero no se la
 
 ### El plan
 
-Villalba ya ha encontrado R'lyeh y tras semanas de estudio ya sabe como sacar la ciudad sumergida de entre las aguas. Pero su plan va a crear un cataclismo digno del Antiguo testamento.
+Villalba ya ha encontrado R’lyeh y tras semanas de estudio ya sabe como sacar la ciudad sumergida de entre las aguas. Pero su plan va a crear un cataclismo digno del Antiguo testamento.
 
-R'lyeh está justo entre las placas tectónicas del Caribe y Norteamérica y va a crear un mega-terremoto que hará que se eleve de entre las aguas. La idea es hacer estallar uno tras otros los diferentes volcanes de las Antillas Menores, de forma que cada volcán genere fuerza sísmica que se vaya acumulando con la de los anteriores volcanes. Esta fuerza sísmica seguirá hacia el norte por la falla del Caribe hasta llegar a R'lyeh y hacer que surja de las aguas.
+R’lyeh está justo entre las placas tectónicas del Caribe y Norteamérica y va a crear un mega-terremoto que hará que se eleve de entre las aguas. La idea es hacer estallar uno tras otros los diferentes volcanes de las Antillas Menores, de forma que cada volcán genere fuerza sísmica que se vaya acumulando con la de los anteriores volcanes. Esta fuerza sísmica seguirá hacia el norte por la falla del Caribe hasta llegar a R’lyeh y hacer que surja de las aguas.
 
 ![Plan de Villalba](./images/fosa-puertorico.webp)
 
-Según sus cálculos, haciendo que estallen los 6 primeros volcanes con una diferencia de dos horas entre ellos, se dará una reacción en cadena imparable que hará estallar el resto de volcanes por la falla hasta provocar un temblor de tal magnitud que hará chocar las placas tectónicas de la Fosa de Puerto rico y elevar R'lyeh sobre las aguas.
+Según sus cálculos, haciendo que estallen los 6 primeros volcanes con una diferencia de dos horas entre ellos, se dará una reacción en cadena imparable que hará estallar el resto de volcanes por la falla hasta provocar un temblor de tal magnitud que hará chocar las placas tectónicas de la Fosa de Puerto rico y elevar R’lyeh sobre las aguas.
 
 El mega-terremoto va a crear un mega-maremoto que va arrasará todo el Caribe. Las pequeñas islas como las Bahamas, o las Caimán, desaparecerán y las grandes como Cuba o Puerto Rico verán sus ciudades de la costa inundadas. Las perdidas humanas podrían ser incalculables. De hecho, Villalba, espera que las muertes de cientos de miles vidas por todo el Caribe sirvan para despertar a su Amo de su eterno sueño.
 
@@ -901,7 +906,7 @@ Puedes permitirles quedarse con algún barco de guerra que no haya sufrido mucho
 
 Si pierden la batalla y sobreviven, la situación será desesperada. Villalba empezará con un nuevo plan para despertar a su señor y esta vez no tienen capacidad de pararlo. Todo lo que hagan para evitarlo será a la desesperada. La RCPC será omnipotente en las Indias Occidentales y tendrán manos y ojos en todas partes. Sus aliados están muertos y desaparecidos y sus cabezas valdrán auténticas fortunas. No tendrán donde esconderse ni de quien fiarse. Pero nadie dijo que fuera a ser fácil.
 
-**Recuerda, un final solo es el principio de otra historia ...**
+**Recuerda, un final solo es el principio de otra historia …**
 
 ## El secreto tatuado
 
@@ -1046,7 +1051,7 @@ _Dirige esta aventura después de que hayan completado "El benjamín de la famil
 
 **Comienzo:** En cualquier parte del Caribe
 
-Seguramente la asaltante no tiene todos los cachos y sabe que son duros de pelar, así que tratará de hacer algún trato con tu mesa. Enviará algún mensaje cuando estén por alguna de las grandes ciudades del Caribe para negociar el cacho de mapa que le falta. Si estos aceptan les citará en algún lugar abierto, público y con fácil huida, como grandes plazas, puentes, mercados, ...
+Seguramente la asaltante no tiene todos los cachos y sabe que son duros de pelar, así que tratará de hacer algún trato con tu mesa. Enviará algún mensaje cuando estén por alguna de las grandes ciudades del Caribe para negociar el cacho de mapa que le falta. Si estos aceptan les citará en algún lugar abierto, público y con fácil huida, como grandes plazas, puentes, mercados, …
 
 Si la asaltante ha conseguido todos los trozos, aún tiene que descifrarlos. Es diestra con el sable, pero la lógica y la deducción se le escapan. Intentará que diferente gente de letras y de ciencias trate de resolverle el acertijo del mapa, pero no conseguirá nada. A la desesperada quedará con tu mesa para llegar aún trato con ellos.
 
@@ -1178,7 +1183,7 @@ Pueden intentar ayudarla a volver a casa. Deberán perder media semana para de r
 
 La comunicación sub-acuática es complicada, pero al final el líder profundo de esta pequeña comunidad les hará entender que está en deuda con ellos. Les entregará una caracola de gran tamaño que es un objeto de gran importancia entre los profundos.
 
-**Caracola de los profundos:** Este objeto es entregado por una tribu profunda como muestra de estar en deuda con el ser que la porta. Si se hace sonar, los profundos que la oigan tendrán que devolver el favor, incluso si no tiene nada que ver con ellos. Podrá usarse para parar un ataque de profundos, o para que realicen algún tipo de trabajo como recuperar algo de un barco hundido, conseguir pesca, ... También puede conseguirse que les traigan un botín de oro de hasta un d8. Los profundos nunca harán nada que ponga su vida en peligro o que vaya en contra de una orden del Tridente de Dagón. Tras devolver el favor, se llevarán la caracola y la usarán para obtener un favor del clan que la entrego.
+**Caracola de los profundos:** Este objeto es entregado por una tribu profunda como muestra de estar en deuda con el ser que la porta. Si se hace sonar, los profundos que la oigan tendrán que devolver el favor, incluso si no tiene nada que ver con ellos. Podrá usarse para parar un ataque de profundos, o para que realicen algún tipo de trabajo como recuperar algo de un barco hundido, conseguir pesca, … También puede conseguirse que les traigan un botín de oro de hasta un d8. Los profundos nunca harán nada que ponga su vida en peligro o que vaya en contra de una orden del Tridente de Dagón. Tras devolver el favor, se llevarán la caracola y la usarán para obtener un favor del clan que la entrego.
 
 Adicionalmente, ver a los profundos de otra forma, más allá de violentos enemigos, hará que toda tu mesa obtenga la ventaja: Acostumbrado al horror (profundos).
 
@@ -1192,7 +1197,7 @@ El clan de profundos que cuida de esta tortuga encontrarán los restos de su ama
 
 El clan empezará a perseguir al barco y a matar a los sucios humanos que van en él. Es un clan pequeño, con unos 20 combatientes como mucho. No pueden enfrentarse directamente contra toda la tripulación, pero sí aprovechar a asesinar a uno o dos tripulantes en plena noche y desaparecer. Ahora en cada viaje, cuando se tire la tabla de Encuentros en el Mar, si sale un 7 (La Tortuga) o 10 (Saboteadores profundos) los profundos intentarán matar a un tripulante. Los resultados que lleven a Relatos Salvajes ya terminados también harán que haya intento de asesinato.
 
-Cuando los asesinos profundos intenten atacar, deberás tirar un d100. Si se saca menos de "comodín (PJ y PNJ que vayan en el barco)" x 5%. Intentarán matar a un PJ, si no atacarán a un tripulante normal. La tripulación normal muere directamente y seguramente su cadáver desaparecerá sin dejar rastro. Puedes dejarles pistas como señales de lucha, restos de algas, marcas de tridente, ...
+Cuando los asesinos profundos intenten atacar, deberás tirar un d100. Si se saca menos de "comodín (PJ y PNJ que vayan en el barco)" x 5%. Intentarán matar a un PJ, si no atacarán a un tripulante normal. La tripulación normal muere directamente y seguramente su cadáver desaparecerá sin dejar rastro. Puedes dejarles pistas como señales de lucha, restos de algas, marcas de tridente, …
 
 Si atacan a un comodín, habrá un encuentro del comodín contra 2 profundos y un líder profundo. Si ven que no pueden ganar o se acercan refuerzos, tratarán de escapar al mar donde los perderán de vista. Si consiguen apresarlos podrán interrogarlos y saber qué está pasando y a qué se deben los ataques.
 
@@ -1247,7 +1252,7 @@ Recuerda que estos zombis están empapados en ron que hace que sea muy fácil pr
 * **Paso:** 4; **Parada:** 5; **Dureza:** 7
 * **Capacidades especiales:**
     * **Garras/Mordisco:** FUE de daño.
-    * **Descerebrados:** No tiene cerebro con lo que se puede Intimidar, Provocar o Persuadir, ... Tampoco funcionan trucos sucios que se basen en esas habilidades.
+    * **Descerebrados:** No tiene cerebro con lo que se puede Intimidar, Provocar o Persuadir, … Tampoco funcionan trucos sucios que se basen en esas habilidades.
     * **Hijos del vudú:** No atacarán nunca a un verdadero creyente del vudú. De hecho, si, por ejemplo, se interpusiera entre ellos y sus objetivos, estos se pararían hasta que dejara de interponerse.
     * **Muerto viviente:** +2 a Dureza; +2 a recuperarse del aturdimiento; los ataques apuntados no causan daño adicional; ignora un punto de penalización de heridas; no respira; inmunidad a enfermedades y venenos.
 * **TPC:** d4
@@ -1276,7 +1281,7 @@ También es una noche de magia, perfecta para hacer pequeños rituales para atra
 
 Sin embargo, esta noche no será así. Un pequeño grupo de adolescentes con ínfulas de poderosos magos intentará un ritual que saldrá mal e invocarán a unas peligrosas criaturas, vampiros de fuego, que causarán estragos entre la gente si los héroes no lo remedian.
 
-Deja que tu mesa disfrute de la fiesta bebiendo y comiendo. Si te apetece, déjales que participen en juegos populares como coger al cerdo engrasado, lanzamiento de objetos que de normal no se lanza, cortar cosas rápidamente, concursos de pulso, cantos regionales, ... También pueden participar en tradiciones como andar sobre las brasas o saltar las fogatas. Hay muchas opciones para que todos puedan participar y tener su minuto de gloria.
+Deja que tu mesa disfrute de la fiesta bebiendo y comiendo. Si te apetece, déjales que participen en juegos populares como coger al cerdo engrasado, lanzamiento de objetos que de normal no se lanza, cortar cosas rápidamente, concursos de pulso, cantos regionales, … También pueden participar en tradiciones como andar sobre las brasas o saltar las fogatas. Hay muchas opciones para que todos puedan participar y tener su minuto de gloria.
 
 Si durante los festejos se acercan a la mesa de las viandas y las bebidas que han traído las gentes del lugar, podrán ver y aprender el ritual de la Queimada.
 
@@ -1284,7 +1289,7 @@ Si durante los festejos se acercan a la mesa de las viandas y las bebidas que ha
 
 El momento álgido de las celebraciones es a la media noche, cuando se enciende la gran hoguera de San Juan. Nada más prenderla y cuando tenga unas grandes llamas de su interior saldrán tantos vampiros de fuego como jugadores que empezarán a sembrar el pánico y quemarlo todo. Tu gente puede combatirlo, lo cual es muy complicado sin la preparación oportuna, ya que son inmunes a los ataques físicos excepto del agua. Es difícil, pero no imposible.
 
-Con una tirada de Mitos podrán saber lo que son y con un avance sabrán que es una raza servidora que normalmente aparecen solo si los invocan. Lo más efectivo y rápido es localizar al que los haya invocado e incapacitarlo. Tiradas de Notar para buscar entre la gente que huye despavorida para intentar localizarlo. Pueden hacer tiradas de Mitos para tratar de saber como invocarlos y buscar cosas como círculos de invocación, ofrendas, símbolos arcanos, ...
+Con una tirada de Mitos podrán saber lo que son y con un avance sabrán que es una raza servidora que normalmente aparecen solo si los invocan. Lo más efectivo y rápido es localizar al que los haya invocado e incapacitarlo. Tiradas de Notar para buscar entre la gente que huye despavorida para intentar localizarlo. Pueden hacer tiradas de Mitos para tratar de saber como invocarlos y buscar cosas como círculos de invocación, ofrendas, símbolos arcanos, …
 
 Lo más óptimo sería que mientras una parte del grupo entretiene a los vampiros (para evitar que se produzcan bajas mortales), otra busque al invocador (para poder detenerlos definitivamente).
 
@@ -1417,7 +1422,7 @@ Os ofrece un buen trato, 1 año de amarre gratis para su barco en el puerto. Reg
 
 #### Pesquisas e investigaciones
 
-Lo lógico es que, si tu mesa es lista, investigue el barco antes de prenderle fuego. ¿Quién paga su amarre? ¿quién o qué hace los ruidos y luces extraños? ... Si visitan al maestre Gandía, poco más podrá decirles, salvo que hace unos 40 años que lleva perteneciendo a la familia Mendoza que fue asesinada en un ataque pirata a la ciudad hace 30 años. Desde ese momento el barco no ha vuelto a salir del puerto y cuando se ha intentado vender nadie ha querido comprarlo.
+Lo lógico es que, si tu mesa es lista, investigue el barco antes de prenderle fuego. ¿Quién paga su amarre? ¿quién o qué hace los ruidos y luces extraños? … Si visitan al maestre Gandía, poco más podrá decirles, salvo que hace unos 40 años que lleva perteneciendo a la familia Mendoza que fue asesinada en un ataque pirata a la ciudad hace 30 años. Desde ese momento el barco no ha vuelto a salir del puerto y cuando se ha intentado vender nadie ha querido comprarlo.
 
 Si analizan las monedas del pago del amarre anual podrán descubrir que las monedas son realmente antiguas (tirada de Humanidades) por el monarca que aparece en ellas. Con una tirada de Investigación podrán ver que las monedas han estado mucho tiempo en el fondo marino. Hay restos de coral incrustados.
 
@@ -1483,7 +1488,7 @@ Antoine Delapore, editor de La verdad de La Habana, compra historias para su per
 
 Si sabes medianamente escribir y tienes una historia escabrosa y truculenta que contar, Delapore te la compra por unos doblones. Tu caché como periodista puede ir subiendo si Delapore ve que tienen buena acogida.
 
-Las historias puede enviarlas por correo y pasarte de vez en cuando a cobrar o llevárselas en mano, sobre todo si tienes pruebas como un molde en yeso de las huellas de un monstruo o una garra que perdió en combate, ... Puedes fiarte de Antoine, es buen pagador y nunca trata de engañar a sus corresponsales.
+Las historias puede enviarlas por correo y pasarte de vez en cuando a cobrar o llevárselas en mano, sobre todo si tienes pruebas como un molde en yeso de las huellas de un monstruo o una garra que perdió en combate, … Puedes fiarte de Antoine, es buen pagador y nunca trata de engañar a sus corresponsales.
 
 Preparar, documentar y escribir una historia necesitará mínimo media semana de tiempo, así que puedes aprovechar el viaje de vuelta de tus aventuras para escribirla. Hay que hacer dos tiradas, una de Interpretar para ver tus dotes de escritor. Si no la pasas, la historia es un mojón que no quiere leerse nadie y Antoine te la tirará a la cara. Deberás gastar otra media semana para rehacerla. La otra tirada se hace con el TPC o tirada de botín más grande que haya habido en la aventura. Antoine paga 50 doblones de base si le gusta la historia y 50 por cada avance que consigas en las dos tiradas anteriores. Puede pagar un extra de 50 doblones si le traes pruebas de tu historia.
 
@@ -1522,7 +1527,7 @@ Si alguien pasa más de un par de horas entre bambalinas y pasa una tirada de In
 
 Cuando entreguen el último barril delante de ellos y de Johanna el protagonista de la obra sufre un terrible accidente, le cae un contrapeso encima dejándole bastante grave. Una tirada de Investigar en las tramoyas y podrías asegurar que han sido saboteadas. Ha sido un atentado de la facción de Hastur al cabecilla de la facción de Cthulhu.
 
-Johanna entra en crisis, necesita un galán para su obra, así que desesperada intentará convencer a los PJ para que hagan una audición. Les hablará del gusanillo del teatro, de la inmortalidad, de la fama, de los aplausos, ... Usará todo su encanto y carisma. Si eso falla, recurrirá al dinero de su familia ofreciendo 400 doblones por participar en el estreno. Espera que el primer actor esté recuperado para las siguientes funciones.
+Johanna entra en crisis, necesita un galán para su obra, así que desesperada intentará convencer a los PJ para que hagan una audición. Les hablará del gusanillo del teatro, de la inmortalidad, de la fama, de los aplausos, … Usará todo su encanto y carisma. Si eso falla, recurrirá al dinero de su familia ofreciendo 400 doblones por participar en el estreno. Espera que el primer actor esté recuperado para las siguientes funciones.
 
 Los que quieran presentarse a la prueba tendrán un par de horas para prepararse la prueba. No importa quién o cómo sea el que se presente, ya que le pondrá una gran barba postiza, un gran sombrero de capitán y un abrigo largo.
 
@@ -1670,7 +1675,7 @@ Descripción
 
 Apareces rodeado de riquezas, ropas lujosas y muchas joyas.
 
-De alguna manera obtienes 1d8x100 doblones de oro. Puede ser una herencia sorpresa, una buena mano de cartas, ...
+De alguna manera obtienes 1d8x100 doblones de oro. Puede ser una herencia sorpresa, una buena mano de cartas, …
 
 2
 
@@ -1704,7 +1709,7 @@ Recibirás una muy mala noticia. Alguna muerte de un familiar o amigo, quiebra d
 
 La verdad es que no se sabe muy bien como funcionan los poderes ocultos de Adolfé. Puede que sean proféticos y que pinte lo que va a pasar o realmente toda su esencia mágica haga que ocurra lo que pinta. Pero desde luego, habrá pequeños detalles del cuadro que se cumplirán completamente, por ejemplo, si recibe riquezas, la bolsa donde le entregan el dinero es igual que las del cuadro o alguien se parece increíblemente a un personaje de su cuadro. Todo esto puede llevar a pensar que son más de carácter precognitivos.
 
-Puede que tu mesa sola se dé cuenta de que lo que aparece en el cuadro se hace realidad. Si no, cada vez que se cumpla una profecía después del primer cuadro podrán hacer una tirada de Astucia con un +1 por cada nuevo cuadro cumplido (1º cuadro sin tirada, 2º cuadro AST, 3º cuadro AST+1, ...).
+Puede que tu mesa sola se dé cuenta de que lo que aparece en el cuadro se hace realidad. Si no, cada vez que se cumpla una profecía después del primer cuadro podrán hacer una tirada de Astucia con un +1 por cada nuevo cuadro cumplido (1º cuadro sin tirada, 2º cuadro AST, 3º cuadro AST+1, …).
 
 Seguramente estarán lejos de las Bahamas cuando se den cuenta de todo esto. Puede que vaya directamente o esperen a un momento mejor. Sea como sea, al volver a Bahamas, Adolfé estará encarcelade en la cárcel local de Nasáu acusado de brujería. Si ves que no tienen prisa en volver a Bahamas puede que les lleguen rumores de que Adolfé se enfrenta a un juicio por brujería o puede que lo lean en el VLH.
 
@@ -1926,7 +1931,7 @@ En el sótano encontrarán dos esqueletos con túnicas religiosas que debieron m
 
 Si revisan el libro sagrado de la Capilla de la Contemplación que hay en un gran atril, se darán cuenta de que el libro es una versión edulcorada y aceptable del credo de la Orden del Gran Cthulhu.
 
-Hay unos archivos con toda la actividad del culto, una parte oficial y otra no oficial. La oficial registraba las cuentas del culto, los gastos, los ingresos, ... Puede hacer un listado de feligreses con todos esos datos.
+Hay unos archivos con toda la actividad del culto, una parte oficial y otra no oficial. La oficial registraba las cuentas del culto, los gastos, los ingresos, … Puede hacer un listado de feligreses con todos esos datos.
 
 Revisando el resto de papeles verán que en realidad la Capilla de la Contemplación solo era una tapadera legal de la Orden del Gran Cthulhu. Sus integrantes estaban repartidos por toda la ciudad y se dedicaban a sembrar el mal por ella.
 
@@ -2076,7 +2081,7 @@ Durante la media semana que estén de entrenamiento, deben primero establecer qu
 
 Los espías del equipo contrario han hablado maravillas de los nuevos jugadores y el cacique Penda no se la puede jugar. Pocos minutos antes se presentará al más altamente sobornable de tu mesa y le ofrecerá una buena suma (crea un botín de d8 con incluso objetos). Solos le pagará después de ganar el partido. Si acepta el soborno, no les permitas usar benis durante los turnos de partido en que participe este jugador sobornado.
 
-Si hay algún personaje carismático, déjales dar una charla motivadora antes del partido. Si lo hace especialmente bien, puedes darles unos benis para que puedan utilizarlos durante el partido. Otras opciones pueden ser desde un cántico para el partido (como Nok su kao) hasta himnos (como You'll Never Walk Alone). Igual a alguno se le ocurre inventar la ola, déjales ser un poco ucrónicos. Seguro que es una anécdota que contaran durante mucho tiempo "Te acuerdas cuando inventamos la ola en el partido ese raro ..."
+Si hay algún personaje carismático, déjales dar una charla motivadora antes del partido. Si lo hace especialmente bien, puedes darles unos benis para que puedan utilizarlos durante el partido. Otras opciones pueden ser desde un cántico para el partido (como Nok su kao) hasta himnos (como You'll Never Walk Alone). Igual a alguno se le ocurre inventar la ola, déjales ser un poco ucrónicos. Seguro que es una anécdota que contaran durante mucho tiempo "Te acuerdas cuando inventamos la ola en el partido ese raro …"
 
 #### El partido
 
@@ -2165,7 +2170,7 @@ Lo más sencillo es perder dinero (unos 600 o 700 doblones será suficiente) en 
 
 #### Entrevista con el diablo
 
-Tanto si van ellos como si los matones van a buscarlos, los llevarán al piso superior de su local de juego. La entrevista será en su lujoso despacho, maderas nobles, mármoles, terciopelo, licores caros, ...
+Tanto si van ellos como si los matones van a buscarlos, los llevarán al piso superior de su local de juego. La entrevista será en su lujoso despacho, maderas nobles, mármoles, terciopelo, licores caros, …
 
 Alfredo es bastante brusco y directo, no se guarda nada. Si le deben dinero, les pedirá el dinero y les explicará las consecuencias de no volver a pagar a tiempo. Si quieren un préstamo, les explicará las condiciones y las consecuencias de no pagar.
 
@@ -2278,7 +2283,7 @@ Los taínos intentan tomar el edificio de piedra de los monjes, pero les es impo
 
 Sin previo aviso se oye el zumbido cántico de nuevo y la tierra tiembla y vuelven a abrirse grietas en el suelo. A este ritmo la isla se hundirá en pocos días. Acto seguido se abre un portón y un monje sale enseñando una gran piedra esférica y otro va con un martillo y un cincel contra la esfera de piedra. Los cánticos y temblores terminan y los taínos cesan su ataque y caen inconscientes.
 
-Los monjes vuelven a dentro y en unos minutos los taínos se despiertan y vuelven desorientados a su casa. En este momento el cacique es más receptivo a los foráneos, pero solo habla taíno. Si pueden hablar con él, está muy preocupado. Van a tener que irse porque la isla no es estable. Los cemís, dice el behike, deben estar furiosos y les están castigando. Desde que llegaron los europeos hace un año los temblores han empezado y hay algo en la jungla que tira los árboles y crea surcos de gran tamaño.
+Los monjes vuelven a dentro y en unos minutos los taínos se despiertan y vuelven desorientados a su casa. En este momento el cacique es más receptivo a los foráneos, pero solo habla taíno. Si pueden hablar con él, está muy preocupado. Van a tener que irse porque la isla no es estable. Los cemíes, dice el behike, deben estar furiosos y les están castigando. Desde que llegaron los europeos hace un año los temblores han empezado y hay algo en la jungla que tira los árboles y crea surcos de gran tamaño.
 
 Permíteles hacer tiradas de Mitos para ir entiendo que está pasando. También pueden hacer tiradas de Ciencias para lo temas más técnicos. Pueden intervenir cuando quieran, pero está claro que deberían informarse antes de actuar, deberían investigar qué pasa. El edificio de piedra es inexpugnable sin tener el equipo adecuado y los taínos no se paran en su ataque. Si buscan en los alrededores verán los surcos en la tierra que producen los chthonianos.
 
@@ -2519,7 +2524,7 @@ El gugo es un enemigo formidable, así que seguramente haya incapacitados. Segú
 
 Si incapacitan al gugo tendrán un gran problema, cómo se lo llevan. Las cadenas son suficientemente grandes para inmovilizarlo, peto el carro de Fabio es muy pequeño para cargar al gugo.
 
-Déjales que busquen una solución. Pueden buscar colonos o indígenas para que les ayuden, pueden hacer uso de su magia, pueden buscar un río y llevarlo al en una barcaza por su cauce, ...
+Déjales que busquen una solución. Pueden buscar colonos o indígenas para que les ayuden, pueden hacer uso de su magia, pueden buscar un río y llevarlo al en una barcaza por su cauce, …
 
 Si registran la cueva del gugo, podrán hacer la tirada de botín. También encontrarán, entre otros, restos de vacas y cerdos y los restos de una especie de primate gigante, seguramente de la especie de las segundas huellas.
 
@@ -2576,7 +2581,7 @@ Algunas de las posibles víctimas pueden ser:
 * Ifá
 * Alguien de tu mesa que no vaya a venir en unas cuantas sesiones.
 
-La Orden necesita un sistema exploración submarina para encontrar R'lyeh y una de sus brillantes ideas ha sido adaptar los dispositivos contenedores para cerebros de los Mi-go para la exploración submarina.
+La Orden necesita un sistema exploración submarina para encontrar R’lyeh y una de sus brillantes ideas ha sido adaptar los dispositivos contenedores para cerebros de los Mi-go para la exploración submarina.
 
 Tras haber hechos pruebas con unos pobres desafortunados que secuestraron en la calle, se han dado cuenta de que necesitan cerebros inteligentes que sean capaces de analizar lo que capten los sensores, tomar decisiones y seguir la búsqueda por el camino con más probabilidades de éxito.
 
@@ -2584,11 +2589,11 @@ Todo esto ha llevado a que se haya buscado a una persona inteligente (la víctim
 
 Se ha intentado tratar que profundos aliados de la Orden hagan este trabajo, pero son bastante territoriales y duros de mollera, con lo que son reacios a salir de sus zonas, a trabajar con otros grupos de profundos y no son capaces seguir pistas viables.
 
-Este proyecto es la más prometedora forma que tiene la Orden de encontrar R'lyeh y si es saboteado sería un duro golpe a los planes de Hernando Villalba.
+Este proyecto es la más prometedora forma que tiene la Orden de encontrar R’lyeh y si es saboteado sería un duro golpe a los planes de Hernando Villalba.
 
 La Orden ha conseguido la cooperación de los yuggoths ofreciéndoles ayuda y protección de una colonia minera de tierras raras en una isla desierta de origen volcánico de las Antillas Menores. Los yuggoths han enviado 2 yuggothianos científicos para el desarrollo del dispositivo y las operaciones cerebrales y a 4 colonos para la defensa y los trabajos físicos.
 
-Puedes cambiar la finalidad del proyecto, de forma que en vez de buscar R'lyeh se use para buscar pecios hundidos y recuperar sus cargas o para seguir a barcos de enemigos de la Orden.
+Puedes cambiar la finalidad del proyecto, de forma que en vez de buscar R’lyeh se use para buscar pecios hundidos y recuperar sus cargas o para seguir a barcos de enemigos de la Orden.
 
 #### El dispositivo de exploración
 
