@@ -2,7 +2,11 @@
 
 Aquí os presentamos una serie de materiales para darle color a vuestras aventuras piratas. Son una mezcla de hechos reales, mitos sobre piratas que el cine ha creado con el tiempo y cosas divertidas que han hecho mis jugadores en partidas de 7º mar o 50 brazas.
 
+\sinc
+
 ## Costumbres piratas
+
+\conc
 
 No te cortes de meter estas costumbres piratas para crear ambiente en tus partidas, incluso pueden ser ganchos de aventuras.
 
@@ -10,27 +14,39 @@ No te cortes de meter estas costumbres piratas para crear ambiente en tus partid
 * No era raro que el cocinero del barco aderezará las recetas con pólvora cuando andaba escaso de condimentos para sus platos.
 * El ron era la bebida por excelencia de los piratas y si se rebajaba con agua y se le echaban especias y limón se convertía en grog. Se puede considerar como un antecesor del mojito y la palabra grogui, tan usada en boxeo para cuando un boxeador está casi inconsciente, viene de grog. La receta del grog es una mezcla secreta que contiene uno o más de los siguientes: queroseno, propilenglicol, edulcorantes artificiales, ácido sulfúrico, ron, acetona, ácido de batería, tinte rojo #2, SCUMM, grasa para ejes y/o pepperoni.
 * El _matelotage_ era común entre piratas. Era una unión formal y permanente entre dos varones adultos. Ambos unían sus propiedades, luchaban juntos y se cuidaban el uno al otro en caso de enfermedad. Esta práctica era muy frecuente en las islas habitadas por piratas, como Tortuga y La Española, debido a que la población femenina era muy baja. [Wikipedia](https://es.wikipedia.org/wiki/Matelotage)
-* La famosa mota negra que aterrorizaba a Billy Bones en "La isla del tesoro" se cree que está basada en la costumbre pirata de entregar a los traidores y chivatos un as de picas. Cualquiera de las dos opciones puede ser divertida para meterla en tus partidas.
+* La famosa mota negra que aterrorizaba a Billy Bones en «La isla del tesoro» se cree que está basada en la costumbre pirata de entregar a los traidores y chivatos un as de picas. Cualquiera de las dos opciones puede ser divertida para meterla en tus partidas.
 * Abandonar a su suerte a personas en islotes perdidos con algo de comida y agua o _maroon_ era una práctica habitual, sobre todo, para capturados en batalla. Pocas veces se les dejaba con una pistola cargada para suicidarse, ya que las pistolas eran escasas y preciadas.
 
+\sp
+
+\sinc
+
 ## Supersticiones marineras y piratas
+
+\conc
 
 Las gentes del mar son bastante supersticiosas y todo puede ser una señal de buen o mal fario. Aquí tienes una pequeña recopilación de supersticiones de marineros y piratas para darle sabor pirata a las aventuras.
 
 * No podía haber dos personas con el mismo nombre en el barco. Si llegaba alguien nuevo a un barco y tenía el mismo nombre que alguien del barco, el contramaestre se encargaba de buscarle un mote y nadie usaba nunca su nombre para referirse a él.
-* Solía ser costumbre taparle los ojos al mascarón de proa cuando se acercaba una tormenta para evitar que el barco "tuviera miedo" y se hundiera.
+* Solía ser costumbre taparle los ojos al mascarón de proa cuando se acercaba una tormenta para evitar que el barco «tuviera miedo» y se hundiera.
 * Cuando se vendía un barco, el antiguo propietario solía cortarle la cabeza al mascarón de proa o destrozarlo a hachazos para que el nuevo propietario tuviera que poner uno nuevo. De esa forma se aseguraba de que no se llevaba su suerte.
 * En esta misma línea, si el barco tenía mala suerte, el comprador le cambiaba el nombre y lo mantenía si tenía buen fario.
 * Los gatos en un barco Además, de cazar las ratas traían buena suerte.
 * Es 2023 y esto es juego de rol, así que olvídate de la tontería de que las mujeres en los barcos traían mala suerte y deja a la gente jugar con lo que quiera. De hecho, hubo grandes mujeres piratas como Mary Read que es un personaje principal en la campaña de esta ambientación.
 * No debías hacer daño a un ave marina que se posaba en tu barco, esas aves llevaban almas de marinos muertos.
 * Había diferentes supersticiones con el barquero Caronte y las monedas de plata para pagarle. Desde ponerlas en los ojos de los muertos a clavarlas en los mástiles o esconderlas en el barco para atraer la buena suerte.
-* Estaba prohibido silbar, ya que los silbidos atraen a las tormentas. Sin embargo, en momentos de "calma chicha" el contramaestre hacía silbar al más joven de los marineros para atraer a los vientos.
+* Estaba prohibido silbar, ya que los silbidos atraen a las tormentas. Sin embargo, en momentos de «calma chicha» el contramaestre hacía silbar al más joven de los marineros para atraer a los vientos.
 * También se colgaba ropa interior de los mástiles para atraer los vientos. Para haceros una idea tenéis que imaginar un barco con enaguas y calzoncillos de pata larga hinchados por el aire y atados a los aparejos de las velas. Y pensad que la higiene en los barcos era complicada, así que imaginad todo tipo de manchas en esa ropa.
 * Los marineros solo se cortaban el pelo en tierra, nunca navegando.
 * Las gentes del mar usaban los tatuajes como amuletos de protección, no meros elementos estéticos.
 
+\sp
+
+\sinc
+
 ## Vida en un barco pirata
+
+\conc
 
 Estas pinceladas de vida a bordo también pueden ayudarte a crear ambiente. Son sencillas pautas para darle color y detalle a las partidas.
 
@@ -40,7 +56,13 @@ Estas pinceladas de vida a bordo también pueden ayudarte a crear ambiente. Son 
 * Si bien siempre hemos visto a piratas borrachos cantando en las tabernas con una jarra de licor en la mano, la realidad es que normalmente estas canciones eran cantadas a la hora de trabajar. Era una forma de fijar un ritmo de trabajo y de coordinar a varias personas en actividades que exigían trabajo en equipo, como arriar las velas.
 * Los piratas no eran muy buenos pescadores, pero era muy habitual pescar tortugas marinas como forma de tener carne fresca. También llevaban cabras y gallinas en los barcos, para tener huevos, leche y carne.
 
+\sp
+
+\sinc
+
 ## Insultos piratas
+
+\conc
 
 Como bien nos han enseñado Guybrush Threepwood y el Capitán Haddock los insultos son una parte muy importante del vocabulario de cualquiera que surca el mar Caribe. Es por eso que aquí tienes una serie de insultos que podrías usar para insultar a tus enemigos mientras te bates en duelo en la cubierta de un barco, o cuando de entre las aguas se levanta el propio Cthulhu para devorar tu nave.
 
@@ -84,7 +106,13 @@ Como bien nos han enseñado Guybrush Threepwood y el Capitán Haddock los insult
 
 Como ya hemos dicho otras veces no queremos ser rigurosamente históricos y nos hemos basado a la hora de elegir estos insultos más en su sonoridad y fuerza que realmente en que fueran insultos que pudiera gritar alguien del siglo XVIII. Como todo aquí, eres libre de usarlos o no, pero creemos que es un detalle que puede darle mucha fuerza a tus diálogos de una forma muy sencilla.
 
+\sp
+
+\sinc
+
 ## Código de conducta pirata
+
+\conc
 
 Es sabido que muchos piratas se regían por [códigos de conducta pirata](https://es.wikipedia.org/wiki/C%C3%B3digo_de_conducta_pirata). Estos códigos de conducta se establecían por consenso de toda la tripulación y se escribían en una carta. Detallaban las obligaciones, derechos y castigos de los piratas. Casi cada barco tenía sus normas, todas muy parecidas, pero con sus peculiaridades. El problema es que pocas han llegado a nuestros días.
 
@@ -106,7 +134,13 @@ Aquí te presentamos el del pirata Bartholomew Roberts (Ha sido modificado a pro
 
 Los castigos iban desde la propia muerte hasta ser abandonado en una isla con un poco de agua y alimento, hasta ser entregado a las autoridades, lo cual suponía muchas veces la muerte, ya que la piratería se sentenciaba con la horca.
 
+\sp
+
+\sinc
+
 ## Piratas en activo en 1722
+
+\conc
 
 Te pasamos un listado de famosos piratas que en 1722 estaban activos para sacarlos en tus sesiones. Además, de Edward Teach y Mary Read, figuras principales de esta ambientación, tenemos a un listado de personajes con buenas y a veces desconocidas historias:
 
@@ -114,11 +148,17 @@ Te pasamos un listado de famosos piratas que en 1722 estaban activos para sacarl
 * Edward Low: Ha pasado a la historia como uno de los piratas más sádicos, siendo calificado como una persona sin escrúpulos y sanguinaria. Se cuenta que sus tripulantes se negaron a cumplir algunas de sus órdenes por su extrema crueldad.
 * Henry Jennings: Fue líder de Nueva Providencia en las Bahamas, un refugio para piratas llamado la República Pirata.
 * Nicholas Brown: se sabe que también se dedicó al tráfico de esclavos. John Drudge, el cazapiratas que acabó con su vida, era un antiguo compañero del colegio de Nicholas. Conservo su cabeza en ron para poder cobrar las 500 libras de recompensa.
-* Olivier Levasseur "El gavilán": La leyenda dice que cuando este pirata francés estaba en el cadalso que le llevó a la muerte, con la cuerda al cuello, lanzó a la multitud [un papel con un mensaje cifrado](https://es.wikipedia.org/wiki/Olivier_Levasseur#/media/Archivo:Crypto_de_la_buse.jpg), mientras que exclamaba: ¡Que encuentre mi tesoro, el que pueda entenderlo! Nunca se ha encontrado su fabuloso tesoro valorado en la actualidad en 100 millones de libras.
+* Olivier Levasseur «El gavilán»: La leyenda dice que cuando este pirata francés estaba en el cadalso que le llevó a la muerte, con la cuerda al cuello, lanzó a la multitud [un papel con un mensaje cifrado](https://es.wikipedia.org/wiki/Olivier_Levasseur#/media/Archivo:Crypto_de_la_buse.jpg), mientras que exclamaba: ¡Que encuentre mi tesoro, el que pueda entenderlo! Nunca se ha encontrado su fabuloso tesoro valorado en la actualidad en 100 millones de libras.
 
 La verdad es que la mayoría de nombres famosos de la piratería como Calico Jack, Annie Bony, Bartholomew Roberts o Stede Bonnet han muerto antes de 1722. De hecho, Edward Teach muere en 1918, pero gracias a la RCPC en esta ambientación está vivo y coleando. Eres libre de devolverlos de entre los muertos, algo no tan raro en una ambientación lovecraftiana. También puedes hacer que no hayan muerto y escaparan en el último momento de la trampa mortal en la que murieron.
 
+\sp
+
+\sinc
+
 ## Gastronomía caribeña
+
+\conc
 
 Tratar de abarcar toda la gastronomía de las diferentes culturas indígenas y coloniales del Caribe es mucho trabajo, pero por lo menos te vamos a dar un listado de platos y bebidas para que cuando tu mesa pida comida y bebida en una taberna no les saques las típicas bebidas y los típicos platos de juegos medievales fantásticos. Olvídate de los asados y los estofados, aquí somos de arroz congrí y tostones.
 

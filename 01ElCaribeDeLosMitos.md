@@ -6,7 +6,7 @@
 
 \conc
 
-Estás en 1722 en el Caribe. La conocida como Edad de Oro de la piratería está acabando. Los grandes piratas han muerto o se han retirado y los grandes tesoros se han enterrado para que los busquen durante generaciones. Las potencias europeas han "civilizado y apaciguado" el Caribe y expolian sus recursos. El azúcar, el tabaco y el café fluyen desde las plantaciones de las grandes islas del Caribe, llenando las arcas de los gobiernos europeos, mientras las gentes del Caribe sobrevive como puede.
+Estás en 1722 en el Caribe. La conocida como Edad de Oro de la piratería está acabando. Los grandes piratas han muerto o se han retirado y los grandes tesoros se han enterrado para que los busquen durante generaciones. Las potencias europeas han «civilizado y apaciguado» el Caribe y expolian sus recursos. El azúcar, el tabaco y el café fluyen desde las plantaciones de las grandes islas del Caribe, llenando las arcas de los gobiernos europeos, mientras las gentes del Caribe sobrevive como puede.
 
 Mientras, entre las sombras, una antigua y diabólica sociedad secreta lleva décadas moviendo los hilos de la política y la economía para conseguir su objetivo: El surgimiento de entre las aguas de R’lyeh, la ciudad sumergida donde yace el gran Cthulhu.
 
@@ -86,7 +86,7 @@ Bajo una capa de legalidad y otra de prosperidad económica se esconde la autén
 
 La RCPC se encarga de proporcionar dinero y poder político a la Orden. Pero también le suministra tecnología, por ejemplo, hay varios departamentos de la RCPC desarrollando ingenios para encontrar la hundida ciudad de R’lyeh. Otra de sus tareas más importante es preparar el terreno para todas las actividades de la Orden. No será la primera vez que la RCPC tiene que sobornar a agentes de ley o compra un islote y desalojar a sus habitantes para montar un punto de invocación en él.
 
-La RCPC también se encarga de conseguir gente para la secta, los de "recursos humanos" buscan a las personas perfectas de dentro y fuera de la organización y los seducen con sus cantos de sirenas. Les ofrecen dinero, poder o cumplen sus deseos más perversos, lo que sea con tal de acercarlos a la Orden.
+La RCPC también se encarga de conseguir gente para la secta, los de «recursos humanos» buscan a las personas perfectas de dentro y fuera de la organización y los seducen con sus cantos de sirenas. Les ofrecen dinero, poder o cumplen sus deseos más perversos, lo que sea con tal de acercarlos a la Orden.
 
 El trabajo más costoso de todos es la ocultación de las actividades y el silenciamiento de testigos. La RCPC se encarga de deshacerse de cadáveres de humanos y de no humanos, de intimidar a familiares que hacen muchas preguntas, de limpiar los destrozos de seres descontrolados y de explosiones desafortunadas o, por último, de sobornar a jueces que podrían desvelar los asuntos de la Orden.
 
@@ -148,7 +148,7 @@ Otra diferencia con otras ramas es que todas las personas que lo integran son in
 
 Un importante recurso que han estado usando los últimos años es Edward Teach. La simple mención de su nombre llena de terror el corazón y ver su bandera es casi una sentencia de muerte. Aunque este infame pirata forma parte de la rama militar, ha sido usado por esta rama de muchas maneras, por ejemplo, para asustar a campesinos y hacerlos huir de sus casas, cuando necesitaban hacer trabajos sin testigos.
 
-De hecho, la fama y la imagen de Barbanegra ha sido trabajada desde que se "unió" a la Orden para infundir miedo y justificar muchas de sus actividades. Muchos de los ataques menores de Teach son en realidad falsa propaganda para aumentar la mala fama del pirata.
+De hecho, la fama y la imagen de Barbanegra ha sido trabajada desde que se «unió» a la Orden para infundir miedo y justificar muchas de sus actividades. Muchos de los ataques menores de Teach son en realidad falsa propaganda para aumentar la mala fama del pirata.
 
 Actualmente, están centrando sus recursos en dos puntos del Caribe; las islas del Caribe danés, donde preparan una revolución de esclavos por si fuera necesario. El otro punto es la costa frente Tortuga, llenándola de granjeros muy religiosos. Tienen a predicadores difundiendo entre sus feligreses que esa zona es rica y fértil y que es labor de un buen católico el cristianizar a sus indígenas y combatir a los piratas demoníacos de Tortuga. La idea es hacer que los piratas de Tortuga disfruten cada vez de las ventajas de la civilización y el capitalismo, primero saqueando cerca de casa y luego comerciando y que abandonen poco a poco las costumbres piratas.
 
@@ -242,7 +242,7 @@ Hasta la creación de la Hermandad, la Orden no tenía un enemigo directo que fu
 
 Los primeros golpes fueron bastante importantes porque pillaron a la Orden sin preparar, pero enseguida puso a sus espías a investigar y descubrió al nuevo jugador en la mesa de las Antillas que le había ganado las primeras manos.
 
-La RCPC declaró abiertamente la guerra a la piratería y reforzó su rama militar, dedicándose a cazar pirata "donde moren y críen". Poco a poco fue capturando a integrantes de la Hermandad, gastando auténticos dinerales en armar sus barcos y en recompensas. De hecho, un par de capitanes fueron vendidos por su tripulación.
+La RCPC declaró abiertamente la guerra a la piratería y reforzó su rama militar, dedicándose a cazar pirata «donde moren y críen». Poco a poco fue capturando a integrantes de la Hermandad, gastando auténticos dinerales en armar sus barcos y en recompensas. De hecho, un par de capitanes fueron vendidos por su tripulación.
 
 La RCPC tiene órdenes de no capturar prisioneros cuando se enfrenta a piratas. Aunque los informes y las declaraciones a las autoridades digan lo contrario, pasa a todos los tripulantes por la quilla y hunde el barco.
 
@@ -405,7 +405,7 @@ Aquí podemos ver elementos bastante interesantes de la cultura taína que puede
 
 #### Cohoba
 
-El ritual de la cohoba era la ceremonia taína más importante. Los caciques y behikes (chamanes) participan en ella para consultar a los dioses o cemíes acerca de eventos relevantes para la comunidad. Se suele hacer en la casa del cacique y antes del ritual los participantes se purifican vomitando. Consiste en la inhalación de sustancias alucinógenas que provocan un estado de éxtasis que permite la comunicación con los cemíes. Se usa una especie de canuto en forma de "Y" cuyos extremos superiores se meten en las fosas nasales y por el otro extremo se introducen las sustancias alucinógenas. Normalmente, los alucinógenos se ponen en estatuillas con un recipiente encima que representan al cemí que se desea invocar.
+El ritual de la cohoba era la ceremonia taína más importante. Los caciques y behikes (chamanes) participan en ella para consultar a los dioses o cemíes acerca de eventos relevantes para la comunidad. Se suele hacer en la casa del cacique y antes del ritual los participantes se purifican vomitando. Consiste en la inhalación de sustancias alucinógenas que provocan un estado de éxtasis que permite la comunicación con los cemíes. Se usa una especie de canuto en forma de «Y» cuyos extremos superiores se meten en las fosas nasales y por el otro extremo se introducen las sustancias alucinógenas. Normalmente, los alucinógenos se ponen en estatuillas con un recipiente encima que representan al cemí que se desea invocar.
 
 #### Máscaras de concha de caracol
 
@@ -619,7 +619,7 @@ La RCPC todavía no tiene interés en los territorios franceses. Las islas peque
 
 La Compañía danesa de las Indias Occidentales y Guinea tiene el control de 2 pequeñas islas de las Antillas Menores, San Juan y Santo Tomás. Su economía está totalmente basada en la esclavitud. La compañía danesa intercambia armas y otros productos industriales en África a cambio de esclavos, que son trasladados al Caribe para trabajar en las plantaciones danesas o ser vendidos en las islas vecinas.
 
-Lo más interesante es que la RCPC está negociando la compra con la compañía danesa y por extensión de las islas. Si lo consigue, las islas y las gentes que en ellas viven serán de su "propiedad". La idea es mover toda su flota y todos sus instalaciones secretas a las colonias danesas para evitar los problemas que genera tener que ocultar sus actividades constantemente. En la colonia danesa podrían hacer lo que quisieran, ya que serían los gobernantes de las islas.
+Lo más interesante es que la RCPC está negociando la compra con la compañía danesa y por extensión de las islas. Si lo consigue, las islas y las gentes que en ellas viven serán de su «propiedad». La idea es mover toda su flota y todos sus instalaciones secretas a las colonias danesas para evitar los problemas que genera tener que ocultar sus actividades constantemente. En la colonia danesa podrían hacer lo que quisieran, ya que serían los gobernantes de las islas.
 
 La compañía danesa no quiere ser comprada, puesto que el tráfico de esclavos supone un buen negocio y grandes beneficios y, por otro lado, la corona danesa obtiene cierto prestigio (y buenos impuestos) dentro de las monarquías noreuropeas. La oferta de Hernando de Villalba es muy suculenta y los propietarios de la compañía danesa llevan meses pensándosela. Aunque no quieren vender, han oído cosas terribles de Hernando de Villalba y la RCPC y tampoco quieren enfrentarse a él.
 
@@ -679,7 +679,7 @@ Si alguien o toda tu mesa ha sido acusado de piratería por los ingleses, podrí
 
 A pesar de los esfuerzos del gobernador, las pequeñas islas deshabitadas que rodean Nueva Providencia siguen siendo un buen refugio pirata. Esconden sus barcos en las pequeñas calas de las islas colindantes y van a conseguir provisiones a las poblaciones costeras de Nueva Providencia. También se disfrazan y disfrutan de las diversiones que Nasáu ofrece a los que tengan oro y ganas de gastarlo. En general, es un buen cobijo pirata, sobre todo para aquellos que no hayan atacado a barcos ingleses o a intereses ingleses con los que el gobernador tiene bastante manga ancha.
 
-El autogobierno que ha vivido los habitantes de las Bahamas durante años han hecho que corran por las calles de las poblaciones de las Bahamas los vientos de la independencia y empieza a haber grupos organizados que buscan que las Bahamas se libren de la "tiranía opresora" de Gran Bretaña. En las tabernas y en las tertulias de las mansiones se habla acaloradamente sobre este tema. De hecho, George Phenney, aspirante a gobernador, predica las bondades de unas Bahamas libres de la opresión inglesa.
+El autogobierno que ha vivido los habitantes de las Bahamas durante años han hecho que corran por las calles de las poblaciones de las Bahamas los vientos de la independencia y empieza a haber grupos organizados que buscan que las Bahamas se libren de la «tiranía opresora» de Gran Bretaña. En las tabernas y en las tertulias de las mansiones se habla acaloradamente sobre este tema. De hecho, George Phenney, aspirante a gobernador, predica las bondades de unas Bahamas libres de la opresión inglesa.
 
 ### Los cayos de la Florida
 
@@ -715,7 +715,7 @@ No creo que hayas llegado hasta esta ambientación rolera sin saber quién es Ct
 
 Cthulhu es un primigenio del universo de ficción de H. P. Lovecraft (y sus seguidores), una entidad equiparable a dioses de inmenso poder y generalmente de un tamaño colosal. Cthulhu no es el más poderoso de los primigenios, pero sí el más conocido y adorado por diferentes cultos y sectas, en parte por encontrarse en la Tierra. Tiene aspecto mezcla de dragón y de humanoide con cabeza de pulpo.
 
-Cthulhu reposa dormido/encerrado en la ciudad sumergida de R’lyeh (en alguna parte del Caribe). Espera escapar el día en que "Las estrellas estén de nuevo en posición" con la ayuda de cultos y sectas como la Orden del Gran Cthulhu y así poder volver a extender su poder sobre la Tierra y muy posiblemente desatar la destrucción y el apocalipsis en nuestro planeta.
+Cthulhu reposa dormido/encerrado en la ciudad sumergida de R’lyeh (en alguna parte del Caribe). Espera escapar el día en que «Las estrellas estén de nuevo en posición» con la ayuda de cultos y sectas como la Orden del Gran Cthulhu y así poder volver a extender su poder sobre la Tierra y muy posiblemente desatar la destrucción y el apocalipsis en nuestro planeta.
 
 Debido a su apariencia y a estar sumergido en el mar, siempre se le ha asociado con el agua y monstruos como los profundos que le sirven.
 
@@ -779,7 +779,7 @@ Si bien estos caciques no tienen mucha influencia en la vida diaria de un profun
 
 #### El tridente de Dagón
 
-Tener el beneplácito de los 3 caciques es conocido con el título del "tridente de Dagón". Supone un increíble poder para su poseedor, ya que pone a tu disposición miles y miles de profundos dispuestos a hacer lo que se les ordene sin ningún tipo de duda o remordimiento y sin ninguna señal de rebeldía o insurrección. Tú ordenas y ellos obedecen hasta la muerte.
+Tener el beneplácito de los 3 caciques es conocido con el título del «tridente de Dagón». Supone un increíble poder para su poseedor, ya que pone a tu disposición miles y miles de profundos dispuestos a hacer lo que se les ordene sin ningún tipo de duda o remordimiento y sin ninguna señal de rebeldía o insurrección. Tú ordenas y ellos obedecen hasta la muerte.
 
 Sería muy fácil, poseyendo el tridente, hacer que las 3 tribus profundas te ayuden a alzar de las aguas la ciudad sumergida de R’lyeh. Solo necesitarías una buena idea para sacarla de las aguas. Luego sería aplicarla con tiempo y usando mano de obra profunda.
 

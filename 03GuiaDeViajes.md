@@ -2,7 +2,7 @@
 
 En nuestra guía de viajes te vamos a mostrar los sitios más interesantes, más divertidos, salvajes o terroríficos del Caribe de 1722. Lugares dominados por los seres de los Mitos donde la aventura se puede respirar. Muchos de ellos puedes usarlos para ambientar tus sesiones y otras muchas son semillas de rol para tus propias aventuras. Mi recomendación es que añadas las tuyas y hagas este mundo mucho más rico.
 
-La estructura es muy sencilla. El Caribe está dividido en diferentes zonas. Cada zona en las principales ciudades y cada ciudad en los lugares más interesantes. Podrás encontrar, tiendas, tabernas, monumentos, cuevas, lagos, … Muchas zonas tienen lugares de interés que no pertenecen a ninguna comunidad, pero que son lo suficientemente interesantes como para ser destacados en los apartados de "Otros lugares de …".
+La estructura es muy sencilla. El Caribe está dividido en diferentes zonas. Cada zona en las principales ciudades y cada ciudad en los lugares más interesantes. Podrás encontrar, tiendas, tabernas, monumentos, cuevas, lagos, … Muchas zonas tienen lugares de interés que no pertenecen a ninguna comunidad, pero que son lo suficientemente interesantes como para ser destacados en los apartados de «Otros lugares de …».
 
 \sinc
 
@@ -48,7 +48,7 @@ La taberna más popular de Tortuga es la Flor de Lis. Es el bar más sucio y dep
 
 La Flor de Lis es propiedad de Dupont, un personaje de turbio y oscuro pasado que se sospecha fue pirata o corsario. Se cuenta que construyo la Flor con el botín pirata que consiguió en su carrera delictiva.
 
-En realidad, Dupont es un lengnita llamado [Theros](https://legadodetheros.com/ "El legado de Theros") que escapo a la Tierra y se busca la vida construyendo la Flor de Lis. Nadie sabe que no es humano, ya que lo oculta muy bien. Además, ayuda mucho que la mayoría de la gente a su alrededor esté borracha o más interesada en las cartas o en los cuerpos que se mueven seductoramente en el escenario. Parte del éxito de la Flor de Lis se deben a la fortuna en rubís lunares que se trajo de su mundo y que le han permitido hacer de todo.
+En realidad, Dupont es un lengnita llamado Xeros que escapo a la Tierra y se busca la vida construyendo la Flor de Lis. Nadie sabe que no es humano, ya que lo oculta muy bien. Además, ayuda mucho que la mayoría de la gente a su alrededor esté borracha o más interesada en las cartas o en los cuerpos que se mueven seductoramente en el escenario. Parte del éxito de la Flor de Lis se deben a la fortuna en rubís lunares que se trajo de su mundo y que le han permitido hacer de todo.
 
 El local tiene 2 plantas y un sótano. En la primera planta están las barras de bar, las salas de juego y un par de escenarios donde bailan sensualmente todo tipo de personas en cualquier tipo de combinación, solos, parejas, tríos, etc. En el piso superior, hay diferentes espacios privados para todo tipo de prácticas sexuales y no sexuales.
 
@@ -70,7 +70,7 @@ Los cayos de Florida son un conjunto de más de 800 pequeñas islas colocadas un
 
 Los cayos de Florida es uno de esos territorios de frontera donde las gentes que no encajan en la sociedad se establecían para vivir a su manera. Aunque oficialmente son parte de los territorios de ultramar del Reino de España, sus habitantes son bastante independientes viviendo bajo sus reglas.
 
-Debido a que esta muy cerca de La Habana y en la ruta entre las poblaciones de la costa este de la Florida como San Agustín y las ciudades de Cuba, tiene un importante tráfico de cargueros comerciales. Lo que hace que sus aguas estén llenas de barcos piratas.
+Debido a que está muy cerca de La Habana y en la ruta entre las poblaciones de la costa este de la Florida como San Agustín y las ciudades de Cuba, tiene un importante tráfico de cargueros comerciales. Lo que hace que sus aguas estén llenas de barcos piratas.
 
 #### Cayo Hueso
 
@@ -122,7 +122,7 @@ Silbar al viento, Cegar el mascarón de proa, Brindar por el mar, Cornucopia
 
 #### Raqueros
 
-Un tipo muy especial de piratería se da en los Cayos de Florida, los "wreckers" o raqueros. Las gentes de los cayos dedican a engañar a los barcos que van por sus aguas con faros falsos y los hacen encallar o hundirse y luego a saquear los restos. No es exactamente una actividad ilegal, por lo que no son tan perseguidos como los piratas de alta mar.
+Un tipo muy especial de piratería se da en los Cayos de Florida, los «wreckers» o raqueros. Las gentes de los cayos dedican a engañar a los barcos que van por sus aguas con faros falsos y los hacen encallar o hundirse y luego a saquear los restos. No es exactamente una actividad ilegal, por lo que no son tan perseguidos como los piratas de alta mar.
 
 Es muy difícil demostrar que alguien ha usado luces falsas para engañar a los barcos y este método de vida está tan integrado en la vida de los cayos que nadie quiere matar a la gallina de los huevos de oro. Además, el derecho de salvamento les da a los raqueros la propiedad de los restos de los barcos.
 
@@ -132,7 +132,7 @@ _Población:_ 300 habitantes
 
 _Controlada por:_ Gran Bretaña
 
-Las Caimán se encuentran al sur de Cuba, al noroeste de Jamaica y al este del Yucatán. Este archipiélago está formado por 3 islas y solo Gran Caimán, la mayor isla tiene una localidad estable, George Town. Las islas están bajo el control del Gobernador de Jamaica desde 1670, aunque son bastante autosuficientes y auto-gobernadas.
+Las islas Caimán se encuentran al sur de Cuba, al noroeste de Jamaica y al este del Yucatán. Este archipiélago está formado por 3 islas y solo Gran Caimán, la mayor isla tiene una localidad estable, George Town. Las islas están bajo el control del Gobernador de Jamaica desde 1670, aunque son bastante autosuficientes y auto-gobernadas.
 
 Las dos islas menores han sido refugio de piratas y de cimarrones durante décadas. En sus calas han fondeado barcos para carenarlos y en sus selvas se han conseguido carne, fruta y agua potable. También ha sido lugar de reunión y parlamento en épocas de grandes crisis para los piratas.
 
@@ -150,7 +150,7 @@ Los Santos eran una familia muy creyente que cuando entraron en contacto con los
 
 Los Santos saben todo lo que se puede saber sobre los profundos del Caribe. Aunque huraños son muy religiosos y una persona que muestre su fe cristiana podría acercárseles y sacarles información útil sobre los profundos.
 
-**El ostracismo o "Ymg' yog ah"** es una antigua ley de los profundos reservada a las tribus que hayan hecho actos terribles contra otros profundos o hayan ofendido al Gran Cthulhu. Cualquier profundo que sea excluido no podrá salir de un pequeño territorio que se les asignará. Ningún profundo tendrá tratos con ellos y si se los encuentran fuera de su territorio los deben matar. Solo un gran cacique puede declarar la exclusión, pero nadie puede quitarla, es para siempre. Teniendo en cuenta que los profundos son inmortales es una pena muy dura.
+**El ostracismo o «Ymg' yog ah»** es una antigua ley de los profundos reservada a las tribus que hayan hecho actos terribles contra otros profundos o hayan ofendido al Gran Cthulhu. Cualquier profundo que sea excluido no podrá salir de un pequeño territorio que se les asignará. Ningún profundo tendrá tratos con ellos y si se los encuentran fuera de su territorio los deben matar. Solo un gran cacique puede declarar la exclusión, pero nadie puede quitarla, es para siempre. Teniendo en cuenta que los profundos son inmortales es una pena muy dura.
 
 #### El infierno
 
@@ -168,7 +168,13 @@ La playa de 7 millas es una playa larguísima en forma de media luna de arena bl
 
 Esta playa ha sido usada desde hace décadas por los piratas para hacer sus concilios. Cuando un gran peligro amenazaba a las tripulaciones piratas de todo el Caribe, se organizaba un gran conclave pirata en esta playa en las noches de luna llena. Los barcos fondeaban en sus aguas y los representantes de los diferentes barcos desembarcaban en la playa para parlamentar y llegar a acuerdos y planes para acabar con la amenaza. No ha vuelto a usarse desde que se disolvió la Hermandad de la Costa.
 
+\sp
+
+\sinc
+
 ## Cuba
+
+\conc
 
 Cuba es la principal isla del Caribe. Con más de 1000 km de punta a punta y prácticamente llana, excepto por 3 cordilleras en el centro, en el extremo oeste y la más alta en el extremo este. Mientras que la costa está altamente poblada por los colonos españoles, el interior todavía es territorio taíno.
 
@@ -216,7 +222,7 @@ A diferencia del Castillo de San Salvador de la Punta, que está enfrente en la 
 
 Todo el personal del Morro son empleados de la RCPC y son adeptos de la Orden del Gran Cthulhu en mayor o menor grado. En sus sótanos se practican ritos de adoración a Cthulhu, se retiene y tortura a individuos que son peligrosos para el culto y se guarda una buena biblioteca de libros y objetos de los mitos. Es la sede del culto más importante y mejor defendida en todo el Caribe. Es donde Hernando de Villalba hace sus ritos más importante y donde una vez al año se monta un importante conclave de directores generales de la RCPC.
 
-Si tu mesa es atrapado por la RCPC o la Orden, seguramente acabarán aquí. Tienes un relato titulado "Escapando del Morro" que puedes llevarles para que se fuguen de esta prisión de "máxima seguridad".
+Si tu mesa es atrapado por la RCPC o la Orden, seguramente acabarán aquí. Tienes un relato titulado «Escapando del Morro» que puedes llevarles para que se fuguen de esta prisión de «máxima seguridad».
 
 Dentro del Morro hay siempre una media de 200 militares entre oficialía y soldadesca. Usa Infantes de Marina para los soldados y añádeles Idioma Cthulhunés d6 y Mitos d4 a los oficiales, además de una arma emponzoñada +1.
 
@@ -277,7 +283,7 @@ Es la vivienda particular más grande de La Habana, incluso que la del gobernado
 
 El palacio tiene su propio pozo en caso de necesitarlo y una pequeña granja con animales de corral y un pequeño huerto donde cultivar frutas y verduras. Hay un pequeño invernadero al que no accede nadie, excepto Hernando donde hace sus experimentos.
 
-Si tu mesa necesita infiltrarse en la mansión, tienes un relato titulado "Infiltración" que puedes dirigirles para entrar y salir de la mansión sin ser detectados.
+Si tu mesa necesita infiltrarse en la mansión, tienes un relato titulado «Infiltración» que puedes dirigirles para entrar y salir de la mansión sin ser detectados.
 
 #### Calle Empedrado
 
@@ -311,7 +317,7 @@ Activar la autodestrucción significa tener un minuto para huir del astillero o 
 
 #### Local ilegal de juego de Alfredo Usía
 
-Alfredo Usía es un criminal de La Habana y controla el juego ilegal. Es Además, un prestamista usurero al que no le tiembla la mano en cortar pulgares y romper piernas a la gente que le debe dinero y no le paga a tiempo. Y como no tiene un casino ilegal "secreto". Es secreto para las autoridades, pero conocido para el resto de habitantes de los bajos fondos.
+Alfredo Usía es un criminal de La Habana y controla el juego ilegal. Es Además, un prestamista usurero al que no le tiembla la mano en cortar pulgares y romper piernas a la gente que le debe dinero y no le paga a tiempo. Y como no tiene un casino ilegal «secreto». Es secreto para las autoridades, pero conocido para el resto de habitantes de los bajos fondos.
 
 Un viejo almacén del puerto sirve de tapadera del casino al que solo se puede acceder sabiendo el santo y seña. Hay mesas para jugar a la ruleta, los juegos con dados y los naipes. También hay combates de gallos con importantes apuestas.
 
@@ -361,11 +367,11 @@ El periódico más leído del Caribe (sobre todo por ser el único) tiene su sed
 
 La imprenta, sin embargo, es un modelo nuevo que Mary Read le ha proporcionado del botín de un mercante español y que imprime ejemplares muy rápidamente. La imprenta es manejada por Ernesto, oficio que le enseño de pequeño su padre, el hermano de Antoine y su socio en la imprenta que tenían en París.
 
-En la segunda planta está la vivienda de Antoine y Ernesto. En este piso Antoine tiene su biblioteca personal y el archivo con todas las ediciones de la VLH. Este archivo es una estupenda biblioteca de los Mitos (con un bono de +3) que Antoine te permitirá usar si le caes bien. La VLH lleva unos 10 años recabando cada mes todos los sucesos raros que han pasado en el Caribe con más o menos "rigor" y Antoine siempre puede confirmarte si la historia que buscas es real o una exageración para vender ejemplares.
+En la segunda planta está la vivienda de Antoine y Ernesto. En este piso Antoine tiene su biblioteca personal y el archivo con todas las ediciones de la VLH. Este archivo es una estupenda biblioteca de los Mitos (con un bono de +3) que Antoine te permitirá usar si le caes bien. La VLH lleva unos 10 años recabando cada mes todos los sucesos raros que han pasado en el Caribe con más o menos «rigor» y Antoine siempre puede confirmarte si la historia que buscas es real o una exageración para vender ejemplares.
 
-Antoine ofrece dinero contante y sonante al que venga con una historia lo suficientemente buena, sobre todo si trae algún tipo de prueba. Puedes venderle tu historia, pero no trates de mentirle, Antoine es un viejo zorro y sabe cuando le cuentan la verdad y cuando no. Además, ya se encargará él de meterle las exageraciones y el sensacionalismo que la historia necesite para vender su periódico. Puedes empezar si quieres el relato salvaje "Primera plana".
+Antoine ofrece dinero contante y sonante al que venga con una historia lo suficientemente buena, sobre todo si trae algún tipo de prueba. Puedes venderle tu historia, pero no trates de mentirle, Antoine es un viejo zorro y sabe cuando le cuentan la verdad y cuando no. Además, ya se encargará él de meterle las exageraciones y el sensacionalismo que la historia necesite para vender su periódico. Puedes empezar si quieres el relato salvaje «Primera plana».
 
-La otra opción de trabajo es vender ejemplares de su periódico. Te los vende a mitad del precio normal, a unos 2 doblones, con lo que puedes venderlo a 4 doblones. Piensa que unos 100 periódicos ocuparían en tu barco un barril de espacio, así que si llevas 100 periódicos podrías sacar unos 200 doblones de beneficios. Puedes empezar, si quieres, el relato salvaje "Repartidores".
+La otra opción de trabajo es vender ejemplares de su periódico. Te los vende a mitad del precio normal, a unos 2 doblones, con lo que puedes venderlo a 4 doblones. Piensa que unos 100 periódicos ocuparían en tu barco un barril de espacio, así que si llevas 100 periódicos podrías sacar unos 200 doblones de beneficios. Puedes empezar, si quieres, el relato salvaje «Repartidores».
 
 ### Matanzas
 
@@ -373,7 +379,7 @@ _Población:_ 12.000 habitantes
 
 _Controlada por:_ Reino de España
 
-Matanzas se encuentra en una plácida bahía en la costa norte de Cuba. Es conocida como "La ciudad de los puentes", pues tienes bastantes que se han ido construyendo sobre los 3 ríos que la atraviesan. Está rodeada de grandes planicies muy fértiles debido a los regadíos que permiten los 3 ríos.
+Matanzas se encuentra en una plácida bahía en la costa norte de Cuba. Es conocida como «La ciudad de los puentes», pues tienes bastantes que se han ido construyendo sobre los 3 ríos que la atraviesan. Está rodeada de grandes planicies muy fértiles debido a los regadíos que permiten los 3 ríos.
 
 Como curiosidad de la ciudad fue fundada por entre unas 20 o 30 familias procedentes de las Islas Canarias que se establecieron como agricultores en esas tierras. En 1722 las familias más ricas e importantes de Matanzas son de origen canario.
 
@@ -441,7 +447,13 @@ Paso un año estudiando los grabados que había en las paredes de las estructura
 
 Junto al Camino de Bimini en las Bahamas, los grabados de los antiguos son una de las razones que le han llevado a elaborar la teoría de que R’lyeh está sumergida en algún lugar del Caribe.
 
+\sp
+
+\sinc
+
 ## Puerto Rico
+
+\conc
 
 La isla de Puerto Rico mide unos 170 kilómetros de largo (de este a oeste) y 60 kilómetros de ancho (de norte a sur). Tiene una gran cordillera central que hace que sea más fácil seguir la costa que atravesar las montañas que ocupan un 40% de la superficie de la isla. El pico más alto es Cerro Punta, con una altura de 1.339 metros en el centro de la isla. Las montañas crean gran cantidad de ríos que corren rápidos hacia el mar.
 
@@ -513,18 +525,18 @@ En el carnaval de Ponce, los vejigantes son monstruos que representan el mal. El
 
 Ser el rey Momo es un gran honor y no se descubre quién es hasta el final del carnaval. De hecho, se apuesta por quién es cada año.
 
-Un experto en Mitos puede detectar que las máscaras vegigantes representan muchos de los peores seres de pesadilla de los Mitos, desde simples profundos al propio Cthulhu. Como todo lo relacionado con los Mitos detrás de los bailes y los cantos, hay cultos que aprovechan estos días para llevar extraños rituales. No es tan salvaje como el Fèt Gede, pero puede pasar muchas cosas extrañas. De hecho, que los vegigantes secuestren niños se debe a varios casos de secuestros reales de niños por parte de sectas "demoníacas".
+Un experto en Mitos puede detectar que las máscaras vegigantes representan muchos de los peores seres de pesadilla de los Mitos, desde simples profundos al propio Cthulhu. Como todo lo relacionado con los Mitos detrás de los bailes y los cantos, hay cultos que aprovechan estos días para llevar extraños rituales. No es tan salvaje como el Fèt Gede, pero puede pasar muchas cosas extrañas. De hecho, que los vegigantes secuestren niños se debe a varios casos de secuestros reales de niños por parte de sectas «demoníacas».
 
 **Cánticos del carnaval:** Los cantos que los participantes del carnaval usan funcionan como un ritual de protección contra los monstruos y los brujos. Al recitar en pareja los llamados y las respuestas, los 2 participantes obtienen un solo beni para los dos que solo dura hasta el final de la escena para luchar contra la magia y los seres de los Mitos.
 
 Los cánticos que tu mesa debe recitar son:
 
-"Vegigante a la bolla / Pan y Cebolla"  
-"Toco toco toco / Vegigante come coco"  
-"Prucuta prucuta / Y bueno que'tá"  
-"Esa vieja e' bruja / Y Tiene los ojos Color café"  
-"Vegigante comió mango / Y hasta las unas se las lambio"  
-"El vegigante está pintado De amarillo y colorado"
+«Vegigante a la bolla / Pan y Cebolla»  
+«Toco toco toco / Vegigante come coco»  
+«Prucuta prucuta / Y bueno que'tá»  
+«Esa vieja e' bruja / Y Tiene los ojos color café»  
+«Vegigante comió mango / Y hasta las unas se las lambio»  
+«El vegigante está pintado / De amarillo y colorado»
 
 #### Campos de batú de Tibes
 
@@ -534,7 +546,7 @@ En las afueras de la ciudad de Ponce existe un antiguo complejo religioso/deport
 
 Hay, además, un importante cementerio de 8 o 9 años de antigüedad. Teniendo los poderes necrománticos adecuados se podría conseguir importante información de tiempos pasados. Debido a que los taínos y los ireni creían en una vida después de la muerte, eran enterrados con sus objetos personales, joyas, armas, utensilios de cocina, … Es por ello que se podría saquear las tumbas para obtener objetos de valor.
 
-El saqueo de tumbas es algo horrible, ya que no solo estropea el yacimiento para su estudio y poder así conocer a las gentes que vivieron allí. También es robar una riqueza a las gentes del lugar, al saquear su historia y su cultura y estropear la oportunidad de saber quiénes son y de dónde vienen. No seas como el British Museum, no robes reliquias. Dentro de una ambientación basada en los Mitos de Cthulhu saquear una tumba para robar un cadáver podría ser considerado "aceptable", pero desde luego no deberías permiten que tu mesa coja pico y pala y se dedique a saquear tumbas para robar sus objetos valiosos.
+El saqueo de tumbas es algo horrible, ya que no solo estropea el yacimiento para su estudio y poder así conocer a las gentes que vivieron allí. También es robar una riqueza a las gentes del lugar, al saquear su historia y su cultura y estropear la oportunidad de saber quiénes son y de dónde vienen. No seas como el British Museum, no robes reliquias. Dentro de una ambientación basada en los Mitos de Cthulhu saquear una tumba para robar un cadáver podría ser considerado «aceptable», pero desde luego no deberías permiten que tu mesa coja pico y pala y se dedique a saquear tumbas para robar sus objetos valiosos.
 
 ### Otros lugares de Puerto Rico
 
@@ -548,7 +560,13 @@ Este es un lugar sagrado para los taínos y cualquier promesa o trato que se hag
 
 En juego, cualquier pacto hecho aquí con un taíno deberá cumplirse y de no hacerlo, el que falto a su palabra será tildado de indigno por la nación taína y tendrá un -2 en las tiradas de Persuadir al interactuar con taínos. Se negarán a venderte provisiones, no querrán comprar tus productos, te expulsarán de sus poblados, etc.
 
+\sp
+
+\sinc
+
 ## Santo Domingo
+
+\conc
 
 La isla de La española en 1722 está divida en dos, Santo Domingo, la parte española, y Saint-Domingue, la parte francesa. Santo Domingo ocupa la parte este de la isla. La próspera La Española se encuentra ahora en horas bajas con menos de 10000 almas. La parte norte está despoblándose, quedando pequeñas comunidades marginales en la costa que viven más del contrabando que de la agricultura, pesca y comercio. El mayor núcleo será la ciudad de Santo Domingo, con más de la mitad de población.
 
@@ -578,7 +596,7 @@ Cada viernes hay timbas de cartas sin límite que empiezan cuando las campanadas
 
 La clientela es muy variada, desde la gente de mar típica de las tabernas del puerto, hasta nobles y mercaderes atraídos por las historias de capitanes piratas que vienen a jugarse sus botines a los naipes. Estas historias son difundidas por Bartolo y Antonia Megías, dueños del bar. Es cierto que alguna ocasión algún pirata famoso ha pasado la mona en el suelo del bar, pero no es algo muy común.
 
-Detrás de la barra, Bartolo y Antonia han ido acumulando "objetos piratas" como garfios, machetes, bandanas, etc. con placas con los nombres de los supuestos piratas a los que pertenecieron. La mayoría de los objetos son falsos o por lo menos no pertenecen a quien dicen, pero un pequeño porcentaje son auténticos.
+Detrás de la barra, Bartolo y Antonia han ido acumulando «objetos piratas» como garfios, machetes, bandanas, etc. con placas con los nombres de los supuestos piratas a los que pertenecieron. La mayoría de los objetos son falsos o por lo menos no pertenecen a quien dicen, pero un pequeño porcentaje son auténticos.
 
 **Colección de objetos piratas:** Si alguien necesita algún objeto que haya pertenecido a un pirata famoso para realizar, por ejemplo, algún tipo de hechizo, hay un 20% de posibilidades de que haya algo entre la colección de Antonia y Bartolo. El precio y disponibilidad queda a tu elección. Puedes decirles que no les venden el objeto y montar una pequeña aventura en la que tengan que robar el objeto.
 
@@ -644,7 +662,13 @@ La realidad es que bajo la fachada de una leprosería, la isla es una cárcel do
 
 En la isla hay una población de 120 personas, 30 guardias y 90 convictos y convictas.
 
+\sp
+
+\sinc
+
 ## Saint-Domingue
+
+\conc
 
 La parte francesa de La Española es denominada Saint-Domingue. Está bastante despoblada, solo hay pequeñas comunidades de agricultores y grandes plantaciones trabajadas por mano de obra esclava.
 
@@ -672,13 +696,19 @@ _**Sugerencia de beni:** Recompensa con un par de benis a cualquiera que deje co
 
 ### Fèt Gede
 
-El Fét Ged es el Día de los muertos para los practicantes del vudú. A pesar de estar prohibido todos los rituales religiosos que no sean católicos, a primeros de noviembre los creyentes celebran el Fèt Gede escondido dentro de las celebraciones católicas de "Todos los santos". Salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los cementerios y algunos son poseídos por los gede, los espíritus de los ancestros muertos.
+El Fét Ged es el Día de los muertos para los practicantes del vudú. A pesar de estar prohibido todos los rituales religiosos que no sean católicos, a primeros de noviembre los creyentes celebran el Fèt Gede escondido dentro de las celebraciones católicas de «Todos los santos». Salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los cementerios y algunos son poseídos por los gede, los espíritus de los ancestros muertos.
 
 Es una celebración muy popular entre los piratas por sus excesos y se sabe que es visitada por muchos piratas que se mezclan entre los celebrantes para disfrutar de la fiesta. Puede ser un buen momento en el que tu mesa se encuentre con alguna de sus némesis piratas. Fácilmente, todo puede pasar de la dialéctica a las peleas de taberna o los duelos a espada.
 
 Durante el Fèt Gede, Nyarlathotep como el Barón Samedí visita a sus adoradores y se divierte como un mortal bebiendo, fumando, bailando y comiendo. Si alguien quiere buscarlo para interactuar con él deberá participar en el Fèt Gede activamente bailando, comiendo, … Tendrá que pasar una tirada de Vigor o tendrá un -2 por el alcohol, el picante y la hierba de fumar. Una vez integrado en la celebración podrá empezar a buscarlo y deberá conseguir 1 avance en la tirada de Notar.
 
+\sp
+
+\sinc
+
 ## Jamaica
+
+\conc
 
 Jamaica, a diferencia de otras islas del Caribe, es una isla principalmente montañosa con una franja de costa muy estrecha. Hay zonas en que las montañas cae directamente sobre el mar. Eso ha hecho que las principales poblaciones y las plantaciones estén cerca la costa. El resto de la isla es jungla y montañas y es territorio de los esclavos huidos.
 
@@ -706,7 +736,7 @@ La parte vieja de la ciudad es conocida como Spanish Town que corresponde la Vil
 
 Cerca del puerto de Kingston se erige el Teatro Real, donado por varios ricos comerciantes de la ciudad que querían escalar socialmente en la ciudad. Compañías itinerantes y de aficionados interpretan clásicas obras de Shakespeare y libretos nuevos e innovadores.
 
-Actualmente, se está preparando una obra de una dramaturga principiante, Johanna Ribeiro, cuya familia ha puesto fondos para arreglar las terribles goteras y humedades que sufre el teatro. Si se pasan por aquí podrán conocerla y comenzar el relato "El capitán de amarillo".
+Actualmente, se está preparando una obra de una dramaturga principiante, Johanna Ribeiro, cuya familia ha puesto fondos para arreglar las terribles goteras y humedades que sufre el teatro. Si se pasan por aquí podrán conocerla y comenzar el relato «El capitán de amarillo».
 
 #### The captain's portrait
 
@@ -724,7 +754,7 @@ Michelle LeCourt, la dama vudú de Kingston, posee el 51% del local, pero no es 
 
 Muirhead Trading & Pawn Shop (aunque la gente lo llama The Mystery Shack o La Cabaña del Misterio) es una extraña tienda de empeños que se encuentra en el barrio Portview. Puedes encontrar entre sus expositores, baldas, repisas, mesas y mostradores de cosas realmente extrañas, algunas falsa, otras auténticas, pero casi siempre con una buena historia.
 
-La tienda está "regentada" por el Stan Muirhead, un viejo comerciante de origen irlandés que fue de los primeros en establecerse en Kingston. Stan es un borracho que está beodo desde que se levanta hasta que se duerme. Es por ello que en realidad el negocio lo lleva su ayudante Ifá de etnia yoruba (en la actual Nigeria).
+La tienda está «regentada» por el Stan Muirhead, un viejo comerciante de origen irlandés que fue de los primeros en establecerse en Kingston. Stan es un borracho que está beodo desde que se levanta hasta que se duerme. Es por ello que en realidad el negocio lo lleva su ayudante Ifá de etnia yoruba (en la actual Nigeria).
 
 Si tiene un objeto extraño con montones de engranajes, palancas y botones, es el sitio perfecto para que te digan qué hace y cómo hacerlo funcionar. Si es necesario, pueden arreglártelo. Ifá tomará nota de todo y te dirá que vengas al día siguiente para recogerlo, ya que ahora mismo el viejo Stan está indispuesto.
 
@@ -870,11 +900,17 @@ Por entre las gentes de Black River corre el rumor que una poderosa hechicera Vu
 
 Si tu mesa se adentra en el pantano buscando la sabiduría o el poder de la bruja vudú, no encontrarán a la hechicera ni señales de ellas. Pero quizás encuentren un templo medio sumergido en las aguas, los restos de una expedición perdida o la guarida de una madre de aguas.
 
+\sp
+
+\sinc
+
 ## Bahamas
+
+\conc
 
 Unas 700 islas, islotes y cayos forman este archipiélago. Los bancos de arenas y los arrecifes plagan sus aguas y los pecios de barcos ingleses, franceses y españoles llenan sus fondos marinos, algunos con grandes tesoros de oro, plata y piedras preciosas. Solo unas 20 o 30 están habitadas por lucayos, una rama de los taínos, y por colonos de origen español o inglés.
 
-Alguna de las islas de mayor tamaño de las Bahamas fue donde desembarcó Colón el 12 de octubre de 1492 en su primer viaje a lo que él llamo "Nuevo mundo" y fueron los lucayos los primeros habitantes del Caribe que vieron a un europeo.
+Alguna de las islas de mayor tamaño de las Bahamas fue donde desembarcó Colón el 12 de octubre de 1492 en su primer viaje a lo que él llamo «Nuevo mundo» y fueron los lucayos los primeros habitantes del Caribe que vieron a un europeo.
 
 La población lucaya está muy mermada debido a las nuevas enfermedades y las migraciones forzosas que impusieron los españoles durante su dominio de las Bahamas. La mayoría de la población es inglesa, descendiente de puritanos que buscaron libertad religiosa en las colonias, o esclavos que trabajan forzados en las plantaciones de las grandes islas.
 
@@ -946,7 +982,13 @@ Las historias hablan de una calzada que iba a la Atlántida, Lemuria o Mú o que
 
 Solos los pocos taínos que habitan la isla saben de esta calzada que puede verse sin problemas gracias a sus cristalinas aguas.
 
+\sp
+
+\sinc
+
 ## La verdad de La Habana
+
+\conc
 
 Algo muy común en las historias de Lovecraft son que muchas empiezan con noticias en periódicos locales sobre hechos extraños y chocantes, pero históricamente estamos en 1722 y no hay periódicos en el Caribe. No debería, pero lo hay y se llama La verdad de La Habana (VLH). La VLH es un panfleto de unas 8 páginas que se publica mensualmente en La Habana, suele tener noticias en castellano e inglés y la mayoría de ellas son una mezcla de escándalos, crímenes y misterios.
 
@@ -958,7 +1000,7 @@ La VLH fue creado por Antoine Delapore en 1708. Delapore es un editor francés q
 
 La VLH se distribuye por todo el Caribe, los marineros y comerciantes los compran en La Habana y los venden allá donde van. También los intercambian, los prestan, los apuestan, etc. Y lo más importante, nadie los tira. Puedes encontrar ediciones de la VLH con años de antigüedad que la gente sigue releyendo una y otra vez, a pesar de estar doblados, arrugados y descoloridos.
 
-A nivel de juego, es una forma perfecta de meter a tu mesa en diferentes aventuras. Pueden encontrar alguna extraña oferta de trabajo o enterarse de algún extraño suceso que investigar. De hecho, siempre que encuentren una edición de la VLH, podrán tirar en la tabla de Sucesos extraños de La verdad de La Habana en la sección de "Viajes y encuentros".
+A nivel de juego, es una forma perfecta de meter a tu mesa en diferentes aventuras. Pueden encontrar alguna extraña oferta de trabajo o enterarse de algún extraño suceso que investigar. De hecho, siempre que encuentren una edición de la VLH, podrán tirar en la tabla de Sucesos extraños de La verdad de La Habana en la sección de «Viajes y encuentros».
 
 ### Mary Read y La verdad de La Habana
 
@@ -966,7 +1008,7 @@ La VLH es un gran problema para la RCPC, ya que no puede controlarlo y cada cier
 
 Todos los esfuerzos de la RCPC han fracasado debido a Mary Read, la mecenas en la sombra que protege al VLH. Mary Read, como líder de la Hermandad del Sargazo, pone muchos recursos (personales y económicos) en mantener este periódico abierto, ya que se ha dado cuenta de que la luz que proyecta la VLH es una arma muy poderosa contra las actividades de la Orden del Gran Cthulhu.
 
-Mary Read consigue papel y tinta de los barcos que asalta y suele ser ella la que firma la mayoría de los artículos que afectan a la actividad de la Orden del Gran Cthulhu, de hecho, firma como "La lectora".
+Mary Read consigue papel y tinta de los barcos que asalta y suele ser ella la que firma la mayoría de los artículos que afectan a la actividad de la Orden del Gran Cthulhu, de hecho, firma como «La lectora».
 
 ### Noticias de La verdad de La Habana
 
@@ -984,7 +1026,7 @@ Descripción
 
 Se buscan escritores
 
-Un anuncio busca redactores para VLH y se ofrece dinero por buenas historias. Empieza el relato salvaje "Primera plana".
+Un anuncio busca redactores para VLH y se ofrece dinero por buenas historias. Empieza el relato salvaje «Primera plana».
 
 2
 
@@ -1018,7 +1060,7 @@ Los campesinos locales han recogido extrañas frutas de sus árboles frutales qu
 
 La joven diletante Johanna Ribeiro presentará su primera obra en el teatro de Kingston.
 
-Johanna Ribeiro está preparando su primera obra de teatro "El capitán de amarillo" que espera que sea un éxito. La noticia narra las dificultades que está teniendo la dramaturga para sacar su obra. Empieza el relato salvaje "El capitán de amarillo".
+Johanna Ribeiro está preparando su primera obra de teatro «El capitán de amarillo» que espera que sea un éxito. La noticia narra las dificultades que está teniendo la dramaturga para sacar su obra. Empieza el relato salvaje «El capitán de amarillo».
 
 7
 
@@ -1036,7 +1078,7 @@ La noticia recoge la migración de gallegos desde España hasta el caribe en bus
 
 Se buscan modelos
 
-Un anuncio busca modelos. Empieza el relato salvaje "Se buscan modelos".
+Un anuncio busca modelos. Empieza el relato salvaje «Se buscan modelos».
 
 10
 
@@ -1054,19 +1096,19 @@ En una entrevista a la Gobernadora Marley de isla Melee sobre sus últimas leyes
 
 Nuevo avistamiento de una madre de aguas en \[zona\]
 
-Campesinos de la zona aseguran que algunos de sus animales de granja han sido víctimas de estas boas gigantescas. Se buscan aventureros que les libren de estas alimañas. Empieza el relato salvaje "Madre de aguas".
+Campesinos de la zona aseguran que algunos de sus animales de granja han sido víctimas de estas boas gigantescas. Se buscan aventureros que les libren de estas alimañas. Empieza el relato salvaje «Madre de aguas».
 
 13
 
 Se buscan repartidores
 
-Un anuncio busca repartidores para VLH. Empieza el relato salvaje "Repartidores".
+Un anuncio busca repartidores para VLH. Empieza el relato salvaje «Repartidores».
 
 14
 
 El famoso cazador de monstruos Fabio Castelli llega a Ponce para comenzar una nueva aventura
 
-Un famoso cazador italiano ha llegado a la ciudad para cazar a "El yeho", una especie de eslabón perdido entre los humanos y los primates que vive en los bosques de la zona. Empieza el relato salvaje "El yeho".
+Un famoso cazador italiano ha llegado a la ciudad para cazar a «El yeho», una especie de eslabón perdido entre los humanos y los primates que vive en los bosques de la zona. Empieza el relato salvaje «El yeho».
 
 15
 
@@ -1090,7 +1132,7 @@ Este reportaje habla sobre el maestro de esgrima Don Diego Rodríguez de Guzmán
 
 ¿Te atreves a pasar una noche en una casa encantada?
 
-Anya Corbitt ofrece 200 doblones a quien averigüe qué pasa en la casa familiar, la mansión. Empieza el relato salvaje "El tesoro de la mansión Corbitt".
+Anya Corbitt ofrece 200 doblones a quien averigüe qué pasa en la casa familiar, la mansión. Empieza el relato salvaje «El tesoro de la mansión Corbitt».
 
 19
 
@@ -1104,7 +1146,13 @@ Anuncio de The Mystery Shack
 
 Hay un anuncio que ofrece 20% de descuento a quien presente este periódico al comprar algún producto en la tienda de curiosidades de The Mystery Shack.
 
+\sp
+
+\sinc
+
 ## Viajes en el tiempo
+
+\conc
 
 Si tu mesa ha cometido un grave error y quieren remediarlo, quizás haya una solución, los viajes en el tiempo. Pero si algo no ha enseñado la literatura y el cine es que tiene consecuencias y cualquier error puede ser fatal.
 
@@ -1132,13 +1180,19 @@ Es por ello que para plantearse arreglar los errores viajando en el tiempo, debe
 
 **4\. Solo errores recientes:** Solo pueden tratar de arreglar errores recientes (de la sesión anterior de juego). Cualquier otro error no será posible corregirlo, porque el tiempo ya se ha solidificado y no se puede modificar (o cualquier otra excusa que se te ocurra). Si se embarcan en otra aventura que no sea arreglar su error también perderán la oportunidad de arreglar el error viajando en el tiempo.
 
+\sp
+
+\sinc
+
 ## Volcanes en el Caribe
+
+\conc
 
 Los volcanes son una referencia recurrente en los relatos de Lovecraft seguramente por ser fuerzas primordiales de la naturaleza tan poderosas y destructivos como los propios primigenios. Normalmente, son moradas donde duermen o están encerrados todo tipo de monstruos de los Mitos. Veamos algunos ejemplos:
 
-* El primigenio Ghatanothoa "el señor del volcán" está encerrado en el monte Yaddith-Gho, un volcán del continente hundido de Mu.
-* Los montes Erebus y el monte Terror, ambos volcanes antárticos, se citan en "En las montañas de la locura".
-* Se atribuyen a actividad volcánica subacuática la aparición de monstruos indescriptibles y tierras extrañas, como puede leerse en relatos como "Dagón" y "Más allá de los eones".
+* El primigenio Ghatanothoa «el señor del volcán» está encerrado en el monte Yaddith-Gho, un volcán del continente hundido de Mu.
+* Los montes Erebus y el monte Terror, ambos volcanes antárticos, se citan en «En las montañas de la locura».
+* Se atribuyen a actividad volcánica subacuática la aparición de monstruos indescriptibles y tierras extrañas, como puede leerse en relatos como «Dagón» y «Más allá de los eones».
 
 Los volcanes también puede encajar en tus aventuras piratas. Son una fuerza de la naturaleza que puede permitirte cambiar el mapa: crear o destruir islas, sepultar ciudades bajo las aguas con potentes maremotos, … Te permiten crear aventuras con obstáculos formidables como ríos de lava, donde la presión del tiempo sea muy importante y son un recurso contra el que tu mesa no puede enfrentarse, solo pueden huir cuanto más lejos mejor.
 
@@ -1153,9 +1207,15 @@ Las Antillas Menores es una zona del Caribe plagada de pequeñas islas de origen
 
 ### Volcanes sub-acuáticos
 
-El único volcán submarino registrado en el Caribe es el Diamond Islet ("Islote del Diamante") en alusión a unas rocas emergidas cercanas. Se encuentra a unos kilómetros al norte de la isla de Granada. Su cráter está a unos 160 metros de profundidad y está activo. Aunque hasta 1939 no se registrará ninguna actividad. Así que siente libre de hacerlo estallar cuando quieras. Las aguas del cráter tienen una media de 150/200 grados, lo que dificulta su exploración. Igual a alguien de tu mesa se le ocurre una forma de cocer a algún ser acuático gigantesco en sus aguas o de freírlo haciéndole expulsar lava.
+El único volcán submarino registrado en el Caribe es el Diamond Islet (Islote del Diamante) en alusión a unas rocas emergidas cercanas. Se encuentra a unos kilómetros al norte de la isla de Granada. Su cráter está a unos 160 metros de profundidad y está activo. Aunque hasta 1939 no se registrará ninguna actividad. Así que siente libre de hacerlo estallar cuando quieras. Las aguas del cráter tienen una media de 150/200 grados, lo que dificulta su exploración. Igual a alguien de tu mesa se le ocurre una forma de cocer a algún ser acuático gigantesco en sus aguas o de freírlo haciéndole expulsar lava.
+
+\sp
+
+\sinc
 
 ## Rumores, chismes y pueblerinos supersticiosos
+
+\conc
 
 Practicar magia no solo afecta a tu cordura, también a tu reputación y si no tienes cuidado puedes acabar quemado en la plaza del pueblo por brujería. Quien más quien menos en nuestro Caribe ha presenciado prodigios mágicos, pero no es lo mismo que la vieja ermitaña sane las fiebres de un niño con sus bebedizos a que los héroes entren volando en la casa del Gobernador de Jamaica lanzando rayos verdes.
 
@@ -1165,7 +1225,13 @@ Queda a discreción del director de juego cuando los jugadores pueden ser buscad
 2.  **Recuerda que las comunicaciones son lentas.** Pueden pasar semanas hasta que las noticias de los actos de los personajes en una isla lleguen a otra. Además, los rumores viajan más rápido que la información exacta, así que puedes jugar con todo tipo de equívocos y malinterpretaciones cuando llegan a un nuevo pueblo. Puede que un cultista menor les entregue una estatuilla maldita pensando que son los cultistas que buscaba.
 3.  **Por último, recuerda que a veces pagan los justos por pecadores** y puede ser un buen gancho de aventura que tu mesa sea acusada falsamente de brujería y tengan que huir y limpiar su nombre.
 
+\sp
+
+\sinc
+
 ## Línea de tiempo
+
+\conc
 
 línea de tiempo
 

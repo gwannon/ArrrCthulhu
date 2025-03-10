@@ -1,6 +1,10 @@
 # Epílogo
 
+\sinc
+
 ## Notas del autor
+
+\conc
 
 ### ¿Por qué Savage Worlds?
 
@@ -16,7 +20,7 @@ Los trastornos mentales y la salud mental representados en esta ambientación no
 
 ### Influencias
 
-Toda esta ambientación está muy influenciada por el juego de rol de “La Llamada de Cthulhu” de Chaosium y hay mecánicas de ese juego que han influenciado consciente o inconscientemente en las reglas de este juego. Toda la parte de piratería está muy basada en la ambientación de "50 brazas".
+Toda esta ambientación está muy influenciada por el juego de rol de “La Llamada de Cthulhu” de Chaosium y hay mecánicas de ese juego que han influenciado consciente o inconscientemente en las reglas de este juego. Toda la parte de piratería está muy basada en la ambientación de «50 brazas».
 
 ### Generación de tesoros y tablas de encuentros
 
@@ -28,9 +32,9 @@ Puedes obviar estas tablas tranquilamente y crear tú directamente los objetos y
 
 He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal. He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual (ver más adelante Romancear PNJ). He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
 
-Está claro que los malos van a ser racistas, machistas, homófobos, etc. vamos lo que se considera malas personas en general, pero creo que no debéis permitirles estas conductas a vuestras mesas ni aunque digan que "su personaje es así" o "era lo normal en esa época". Esto es un juego de rol y ya hay mucha mierda en la vida real para aguantarla tú o tus jugadores en una mesa de juego.
+Está claro que los malos van a ser racistas, machistas, homófobos, etc. vamos lo que se considera malas personas en general, pero creo que no debéis permitirles estas conductas a vuestras mesas ni aunque digan que «su personaje es así» o «era lo normal en esa época». Esto es un juego de rol y ya hay mucha mierda en la vida real para aguantarla tú o tus jugadores en una mesa de juego.
 
-Muchas "sugerencias de beni" están pensadas para premiar a los jugadores por ser más empáticos y ayudar a grupos discriminados. En ese sentido, bastantes formas extras de recuperar cordura están asociadas a acciones en favor de colectivos desfavorecidos que van más allá de salvarles la vida. Muchas veces se premiará devolverles derechos que les han sido robados o mejorar sus condiciones de vida en general. Como DJ creo que debes tratar de que las decisiones y acciones que tomen tus jugadores para conseguir esos "premios" sean porque creen que es lo bueno y justo en nuestra sociedad y no porque es un beneficio para su PJ en el juego.
+Muchas «sugerencias de beni» están pensadas para premiar a los jugadores por ser más empáticos y ayudar a grupos discriminados. En ese sentido, bastantes formas extras de recuperar cordura están asociadas a acciones en favor de colectivos desfavorecidos que van más allá de salvarles la vida. Muchas veces se premiará devolverles derechos que les han sido robados o mejorar sus condiciones de vida en general. Como DJ creo que debes tratar de que las decisiones y acciones que tomen tus jugadores para conseguir esos «premios» sean porque creen que es lo bueno y justo en nuestra sociedad y no porque es un beneficio para su PJ en el juego.
 
 Nada puede ser inclusivo y abierto si no tiene en cuenta el medio ambiente y la ecología, así que he tratado de darle una mirada ecologista con varias aventuras en las que la protección de la naturaleza es importante, Además, de recompensas de cordura y sugerencias de benis. Así pues, trata de evitar que tus jugadores utilicen muchas veces el camino rápido y tomen decisiones con grandes repercusiones para el medio ambiente. Puede que quemar la selva para destruir la fortaleza del enemigo sea un plan muy bueno, pero sus consecuencias para la fauna y flora local pueden ser desastrosas, así como para las comunidades que vivan en ella.
 
@@ -70,7 +74,13 @@ Las vidas sentimentales y sexuales de la mayoría de los personajes de esta ambi
 
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](https://github.com/gwannon/ArrrCthulhu). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
 
+\sp
+
+\sinc
+
 ## Agradecimientos
+
+\conc
 
 Damos las gracias y el crédito apropiado a estos increíbles artistas que nos han permitido hacer uso de su arte en este juego al distribuirlo en con licencia Creative Commons:
 
@@ -169,20 +179,32 @@ Gracias por su documentación a:
 * [sectarios.org](http://www.sectarios.org/)
 * [Wiki Amor de Otro Mundo](https://amor-de-otro-mundo.fandom.com/es/wiki/Wiki_Amor_de_Otro_Mundo)
 
+\sp
+
+\sinc
+
 ## Música para las partidas
 
-Esta es mi selección de música para jugar a ¡Arrr! Cthulhu. Es casi imposible encontrar música que pegue con piratas y con Cthulhu así que primero vamos a ver música para momentos más "piratescos".
+\conc
+
+Esta es mi selección de música para jugar a ¡Arrr! Cthulhu. Es casi imposible encontrar música que pegue con piratas y con Cthulhu así que primero vamos a ver música para momentos más «piratescos».
 
 * Los 3 mosqueteros (1993)
 * La isla de las cabezas cortadas
 * El planeta del tesoro
 
-Y esta es mi recomendación para momentos más "cthulhulianos".
+Y esta es mi recomendación para momentos más «cthulhulianos».
 
 * Akenaton de Phillip Glass
 * [Cryo Chamber](https://www.youtube.com/@cryochamberlabel)
 
+\sp
+
+\sinc
+
 ## Reseñas
+
+\conc
 
 Si quieres saber la opinión de otras personas, aquí tienes algunas reseñas que nos han hecho. Por ahora son buenas, pero también meteré las malas, aunque espero que no las haya :)
 
@@ -190,7 +212,13 @@ Si quieres saber la opinión de otras personas, aquí tienes algunas reseñas qu
 * [En 5 Minutos Rol](https://www.youtube.com/watch?v=FjnxBHYn5nE)
 * [El Archivo de George](https://www.youtube.com/watch?v=S7uBh708if8&t=520s)
 
+\sp
+
+\sinc
+
 ## Otros proyectos que te pueden interesar
+
+\conc
 
 [![OPERACIÓN: Tras El Mundo Perdido](./images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios")
 

@@ -11,13 +11,13 @@ El tesoro hundido es una campaña en la que tu mesa deberá evitar la ascensión
 
 El tesoro hundido es cómo llama Hernando de Villalba, dueño de la RCPC, a la ciudad sumergida de R’lyeh, donde duerme Cthulhu desde hace eones. Villalba, líder de la Orden del Gran Cthulhu quiere sacar a la ciudad de las aguas y despertar al gran Cthulhu. Este en agradecimiento le colmará de poder y riquezas dignas de un rey y lo que más ansia, la inmortalidad.
 
-Para llevar a cabo su plan necesita primero encontrar la ciudad, que sospecha que se encuentra en algún lugar del Caribe. Lleva años estudiando viejos tomos malditos, apócrifas cartas náuticas y mandando a sus espías a tabernas portuarias a escuchar los locos relatos de los marineros. Está muy cerca de encontrarla, pero hay algo que todavía se le escapa para encontrar su "tesoro hundido".
+Para llevar a cabo su plan necesita primero encontrar la ciudad, que sospecha que se encuentra en algún lugar del Caribe. Lleva años estudiando viejos tomos malditos, apócrifas cartas náuticas y mandando a sus espías a tabernas portuarias a escuchar los locos relatos de los marineros. Está muy cerca de encontrarla, pero hay algo que todavía se le escapa para encontrar su «tesoro hundido».
 
 Y si eso no fuera poco, debe encontrar la manera de sacar a la ciudad de las profundidades marinas para poder despertar al gran Cthulhu. Gracias a su descendencia profunda ha obtenido el Tridente de Dagón que le permite tener bajo su mando cualquier profundo del Caribe. El tridente le ha convertido en la persona más poderosa del Caribe. Con su ejército de profundos puede destruir flotas enteras o hacer desaparecer ciudades portuarias solo con desearlo.
 
 Lo que tampoco sabe Villalba es que hay un grupo de descastados y parias que van a tratar de estropear sus planes. Puede que ahora sean solo una molestia menor, pero si no los vigila y los controla, se convertirán en la gran piedra en el zapato de sus planes.
 
-"En el Carcosa" y "Devil came to me" puedes usarlas como una aventura introductoria y después puedes dejarles libres en el Caribe para explorarlo o para que sigan la trama de "El tesoro hundido".
+«En el Carcosa» y «Devil came to me» puedes usarlas como una aventura introductoria y después puedes dejarles libres en el Caribe para explorarlo o para que sigan la trama de «El tesoro hundido».
 
 ![](./images/batalla-naval.webp)
 
@@ -53,7 +53,7 @@ Un cubo de fría agua de mar despierta a tu mesa. Ya es de día y el sol les cie
 
 Ira mirando a cada uno y les irá preguntando quiénes son y a qué se dedican. Aprovecha para que se describan y así se conoce tu mesa. Les pondrá apodos divertidos y les dirá que vuelvan a su barco y que si no obedecen a su capitán serán pasto de tiburones. Prepárate los motes de antes, en base a su ficha, con lo cabronas que suelen ser las mesas seguro que se quedan con el mote el resto de la campaña.
 
-Al cruzar al Carcosa verán el nombre del barco pirata, "El golpe de suerte" así que la capitán será la temida Mary Read. Haz que tiren un dado y al que menos saque le golpearán la plancha y deberá tirar Atletismo para no caer al mar.
+Al cruzar al Carcosa verán el nombre del barco pirata, «El golpe de suerte» así que la capitán será la temida Mary Read. Haz que tiren un dado y al que menos saque le golpearán la plancha y deberá tirar Atletismo para no caer al mar.
 
 Déjales tirar Conocimientos generales y cuéntales que el índice de su supervivencia es muy variado o se carga a toda la tripulación o los deja a todos vivos.
 
@@ -154,7 +154,7 @@ El Sabueso atacará al barco con los cañones solo si le atacan. No quiere destr
 
 Si no consiguen huir y están a punto de ser abordados y seguramente derrotados, puedes hacer aparecer un extraño banco de niebla dónde refugiarse o unos arrecifes donde encalle El Sabueso.
 
-Si tu mesa está muy gallita con que pueden con El Sabueso, en mitad del abordaje, tras unos turnos de combate, haz aparecer el Golpe de Suerte que hará huir a los piratas. Read los debería humillar un poco, rollo "tenía más esperanzas en ellos" o "en menos de un día he tenido que salvaros el culo".
+Si tu mesa está muy gallita con que pueden con El Sabueso, en mitad del abordaje, tras unos turnos de combate, haz aparecer el Golpe de Suerte que hará huir a los piratas. Read los debería humillar un poco, rollo «tenía más esperanzas en ellos» o «en menos de un día he tenido que salvaros el culo».
 
 El Sabueso y su tripulación son una buena némesis pirata de tu mesa. Puedes hacerlo aparecer disparando salvas de cañones cuando quieras, complicándoles más las cosas en sus fugas, haciendo que compitan por quién tiene la nave más rápida o peleándose las dos tripulaciones en una taberna de Nasáu o en un charco de barro.
 
@@ -196,7 +196,7 @@ Durante esta parte de la persecución no podrán atacarse, los cañones no tiene
 
 Una vez abordado podrán enfrentarse a unos 15 marinos y 1 capitán (menos un marino por cada herida que tenga el barco). Si los derroten a todos, podrán hacerse con el barco y robar la carga (20 barriles de tinta y papel, -1 por cada herida del barco).
 
-Contando con que no sean ya piratas, si dejan supervivientes, serán declarados oficialmente piratas y no solo serán cazados por la RCPC sino también por los guardacostas españoles. Si no dejan supervivientes, seguirán siendo "legales". Ahora solo tienen que dejar la carga en una cala cercana a La Habana, donde les espera Antoine Delapore con un par de carros.
+Contando con que no sean ya piratas, si dejan supervivientes, serán declarados oficialmente piratas y no solo serán cazados por la RCPC sino también por los guardacostas españoles. Si no dejan supervivientes, seguirán siendo «legales». Ahora solo tienen que dejar la carga en una cala cercana a La Habana, donde les espera Antoine Delapore con un par de carros.
 
 ##### Asalto en tierra
 
@@ -272,7 +272,7 @@ En este caso, Read les propone que creen 3 o 4 atalayas de vigilancia en diferen
 
 ##### Qué hace la goleta
 
-La goleta de la RCPC se dedica simple y llanamente a la recogida y depósito de "basura biológica". Está especializada en transportar todo tipo de seres usados en experimentos que ya no valen y abandonarlos en los islotes de los Jardines de la Reina. Los recoge de todas partes del Caribe y los lleva allí lo más disimuladamente posible.
+La goleta de la RCPC se dedica simple y llanamente a la recogida y depósito de «basura biológica». Está especializada en transportar todo tipo de seres usados en experimentos que ya no valen y abandonarlos en los islotes de los Jardines de la Reina. Los recoge de todas partes del Caribe y los lleva allí lo más disimuladamente posible.
 
 Lo normal sería matar a los monstruos y destruir sus restos, pero son sujetos de experimentación difíciles de conseguir y prefieren abandonarlos en unas islas desiertas a quedarse sin ellos. Si los necesitan, siempre pueden volver a cazarlos.
 
@@ -288,7 +288,7 @@ Con todo esto ya podrían hacer un informe para Read, así que pueden volver a s
 
 La opción de eliminarlos a todos es inviable. Hay muchos monstruos en esta isla y las de alrededor y la goleta no deja de traer más. Además, pondría en aviso a la RCPC.
 
-Quizás más delante puedan "cazar" a todos estos seres y lanzarlos en tromba contra la fortaleza de sus enemigos. Muchas de estas entidades son inteligentes y se pueden llegar a pactos con ellos y teniendo en cuenta lo que odian a la RCPC, no habría que esforzarse mucho en convencerlos de ayudar.
+Quizás más delante puedan «cazar» a todos estos seres y lanzarlos en tromba contra la fortaleza de sus enemigos. Muchas de estas entidades son inteligentes y se pueden llegar a pactos con ellos y teniendo en cuenta lo que odian a la RCPC, no habría que esforzarse mucho en convencerlos de ayudar.
 
 ### Entrando en la hermandad
 
@@ -306,7 +306,7 @@ En la cala Read les esperará sola junto a una gran fogata. Lleva una botella de
 
 Acto seguido, tomará un trago de ron y pasará la botella. Es un ron añejo más rico y delicioso de lo que nunca hayan probado.
 
-Ya son hermanos, hermanas y hermanes y deberán cumplir con ese juramento sagrado que acaban de hacer. Pueden apuntarse la ventaja de "Integrante de la Hermandad del sargazo".
+Ya son hermanos, hermanas y hermanes y deberán cumplir con ese juramento sagrado que acaban de hacer. Pueden apuntarse la ventaja de «Integrante de la Hermandad del sargazo».
 
 Después de estas formalidades, tocará una noche de bebida y anécdotas junto al fuego donde Read contará sus mejores historias y sus peores chistes. Este simple acto de camaradería y compañerismo pirata permitirá a tu mesa recuperar un punto de cordura por persona.
 
@@ -388,7 +388,7 @@ Granados no parece muy interesado en las joyas. Durante la subasta casi no puja 
 
 La puja empieza por 400 y Granados subirá en 100 doblones cualquier otra puja. No le importa el precio, sabe el poder del libro y lo quiere. Dispone de letras de cambio por valor de 25.000 doblones y no dudará en llegar hasta su límite.
 
-Si por una casualidad ganan la puja, sáltate "La fiesta de disfraces", si no lo logran, todavía pueden tratar de robarlo. Granados saldrá directo de la subasta a su barco. Su carroza va custodiada por 8 infantes de marina a caballo y 4 en la carroza (conductor más 3 infantes).
+Si por una casualidad ganan la puja, sáltate «La fiesta de disfraces», si no lo logran, todavía pueden tratar de robarlo. Granados saldrá directo de la subasta a su barco. Su carroza va custodiada por 8 infantes de marina a caballo y 4 en la carroza (conductor más 3 infantes).
 
 Deberán perseguir a la comitiva y acabar con los guardias. Si consiguen llegar al interior de la carroza, Granados no estará ya, ha usado algún hechizo de teletransporte para huir, nunca se enfrentaría directamente a tu mesa.
 
@@ -520,7 +520,7 @@ Ya saben lo que había en los relieves que robo Villalba. Ahora tendrán que des
 
 Tu mesa tendrá que trabajar en los jeroglíficos y tratar de descifrarlos. El sistema es muy sencillo, deberán acumular 10 avances en tiradas de Mitos. Cada persona que participe en la investigación podrá hacer una sola tirada y acumular avances (con un máximo de 3 por persona). Puede que si se justifica, alguien pueda usar Humanidades o Ciencias, pero debería ser algo especial como que sea lingüista para traducir algún texto o sepa de geología para dar con una ubicación.
 
-Para darle más emoción no le digas el objetivo de avances, pero dales pistas como "estáis muy lejos", "habéis avanzado mucho", etc.
+Para darle más emoción no le digas el objetivo de avances, pero dales pistas como «estáis muy lejos», «habéis avanzado mucho», etc.
 
 Para darle un poco de vida puedes meter encuentros con agentes de la RCPC o viejos enemigos que vuelven a atacar. También podrás quitarles avances si les roban parte de la investigación mientras duermen o si alguien falla una tirada de Mitos.
 
@@ -622,13 +622,13 @@ El cuerpo de Cthulhu están grande que se pierde en la distancia, de forma que s
 
 Ver a Cthulhu reposando en su sepulcro es posiblemente la TPC más difícil a la que tu mesa tendrá que enfrentarse, d12+12. Si pierden cordura no podrán tratar de coger un trastorno en su lugar. Su visión solo supone horror y tu mente no puede desviar ese horror en forma de trastornos mentales permanentes o temporales. Va directamente a tu razón y la destruye sin contemplaciones.
 
-Una vez que compruebe que están R’lyeh y que Cthulhu existe, déjales volver sin problemas a la superficie donde deberán informar a Read de sus descubrimientos. Esta les dirá la Hermandad que tiene que pensar que va a hacer. Déjales 2 semanas para que hagan sus propias aventuras para continuar con "Malas Noticias", la siguiente parte de este relato salvaje.
+Una vez que compruebe que están R’lyeh y que Cthulhu existe, déjales volver sin problemas a la superficie donde deberán informar a Read de sus descubrimientos. Esta les dirá la Hermandad que tiene que pensar que va a hacer. Déjales 2 semanas para que hagan sus propias aventuras para continuar con «Malas Noticias», la siguiente parte de este relato salvaje.
 
 ### Malas noticias
 
 **Comienzo:** Cualquier tasca del Caribe un par de semana después de explorar R’lyeh.
 
-La hermandad tiene una "rata" infiltrada en la Orden que acaba de dar las peores noticias posibles: Villalba ha encontrado la ciudad de su señor. Eso pone la cuenta atrás hacia el Armagedón.
+La hermandad tiene una «rata» infiltrada en la Orden que acaba de dar las peores noticias posibles: Villalba ha encontrado la ciudad de su señor. Eso pone la cuenta atrás hacia el Armagedón.
 
 Cesar, el lugarteniente de Barbanegra e infiltrado de la Hermandad, ha hecho llegar muy malas noticias. Villalba ha descifrado el jeroglífico de los Antiguos. Ha encontrado R’lyeh y parece que ha bajado en persona a la ciudad sumergida.
 
@@ -699,7 +699,7 @@ Estas son algunas de las pistas que pueden descubrir investigando las actividade
 * En la VLH podrán encontrar referencias a gentes de ciencias de Europa que han venido al Caribe pagados por La RCPC. Son personas expertas en geología o en química y normalmente han sido repudiados por la comunidad científica por sus estudios y experimentos moralmente cuestionables o, incluso, directamente delictivos. Si consiguen alguno de sus estudios, por ejemplo, pidiéndolos a sus universidades en Europa, podrán ver que se dedican a dos temas principales, nuevos explosivos y unas teorías nuevas sobre lo que crea los volcanes y terremotos. Estas teorías dicen que los continentes se mueven sobre una capa de lava y magma líquido del interior de la tierra, los terremotos son choques entre continentes y los volcanes escapes de lava.
 * Si visitan algún terreno comprado verán que son minas que no parece muy beneficiosas, pero están muy fuertemente protegidos, con vallas y guardas muy armados.
 * Algún confidente de la Hermandad puede encauzarles hacia las anteriores pistas, si los ves muy perdidos.
-* Si juegan los relatos "El secreto tatuado" o "Cuando la tierra tiembla" saben que tienen capacidad de usar chthonianos y pueden crean terremotos a voluntad. Si hundieron Port Royal con un terremoto, igual uno de mayor magnitud bien dirigido pueda elevar a R’lyeh.
+* Si juegan los relatos «El secreto tatuado» o «Cuando la tierra tiembla» saben que tienen capacidad de usar chthonianos y pueden crean terremotos a voluntad. Si hundieron Port Royal con un terremoto, igual uno de mayor magnitud bien dirigido pueda elevar a R’lyeh.
 
 Ten en cuenta que si preguntan mucho, la RCPC podría enterarse. Así que como mucho deberían intentar conseguir una pista de cada puerto o ciudad. Si tratan de sacar más, seguramente tendrán algún encuentro inesperado en algún callejón oscuro.
 
@@ -821,7 +821,7 @@ Si durante la charla detectan magia en Teach, verán el agujero negro donde esta
 
 A la hora de llegar a un trato lo único que le interesa es recuperar su corazón y solo atenderá tratos que impliquen recuperarlo.
 
-La pelea solo terminará con una de las dos facciones incapacitada. Si conocen a Cesar y saben que es de la Hermandad, les hará seña de que van con ellos y esperará a que comience la pelea a cargarse a otro lugarteniente por la espalda y gritando "Por la Hermandad".
+La pelea solo terminará con una de las dos facciones incapacitada. Si conocen a Cesar y saben que es de la Hermandad, les hará seña de que van con ellos y esperará a que comience la pelea a cargarse a otro lugarteniente por la espalda y gritando «Por la Hermandad».
 
 Si no conocen a Cesar, este solo se defenderá hasta descubrir su tapadera en un momento dramático, como evitar que muera alguien protagonista.
 
@@ -908,7 +908,13 @@ Si pierden la batalla y sobreviven, la situación será desesperada. Villalba em
 
 **Recuerda, un final solo es el principio de otra historia …**
 
+\sp
+
+\sinc
+
 ## El secreto tatuado
+
+\conc
 
 El secreto tatuado en la espalda de los tres hermanos García es un mapa mágico que puede llevar a un tesoro. Alguien ha decidido buscar ese tesoro y primero necesita juntar todas las partes del mapa. No importa si tiene que sacarles la piel tatuada a tiras.
 
@@ -994,7 +1000,7 @@ Lo primero que hará la asaltante es matar al cochero que está totalmente indef
 
 Irá deshaciéndose de protectores hasta quedarse solo y poder matar a Salvador y despellejarle la espalda con el tatuaje. Si se ve en peligro huirá saltando a algún balcón o ventana abierta a su nivel y desapareciendo dentro. Es importante que sobreviva para la continuidad de la historia, pero si muere, encontrarán entre sus pertenencias El diario de Eusebio con notas del propio asaltante que explicará quién es.
 
-Recuerda que el asaltante tiene "Manos Firmes" con lo que no sufre penalizaciones por los movimientos del carromato, pero seguramente tu mesa no. Trata de usar todos los objetos y trucos que tiene como por ejemplo las granadas y piensa que todo lo ha dejado preparado para este ataque.
+Recuerda que el asaltante tiene «Manos Firmes» con lo que no sufre penalizaciones por los movimientos del carromato, pero seguramente tu mesa no. Trata de usar todos los objetos y trucos que tiene como por ejemplo las granadas y piensa que todo lo ha dejado preparado para este ataque.
 
 Alguien puede ocurrírsele tratar de desenmascarar al asaltante con algún ataque apuntado a su capucha o así. Si lo consiguen, verán que es una mujer mulata de unos vientipicos años. Ante la sorpresa de verse descubierta huirá al momento. Era algo que no se esperaba. Una tirada excepcionalmente buena de Notar permitirá darse cuenta a los que la vean que tiene la típica nariz de los García.
 
@@ -1002,7 +1008,7 @@ Alguien puede ocurrírsele tratar de desenmascarar al asaltante con algún ataqu
 
 Si consiguen que huya la asaltante, podrán llegar sin problema al bote y de ahí al Morro. Salvador tiene mucho miedo y este habla por él y antes de entrar a la fortaleza se gira hacia el grupo y les ofrece un trato que no puedan rechazar.
 
-Salvador tiene miedo por su vida y sinceramente ni en 10 vidas podría malgastar la fortuna familiar. Así que va a ofrecerle a tu mesa un trato, podrán hacer una copia de su tatuaje, siendo entonces la última copia. Él, para evitarse problemas, va a quemarse todo el tatuaje y destruirlo. De esta forma, tu mesa poseerá la única copia del tercio del mapa. Renunciará al tesoro familiar (o lo que sea) pero a cambio deberán traerle vivo al asesino de su hermano. Por como lo dice, él mismo se encargará de hacer "justicia".
+Salvador tiene miedo por su vida y sinceramente ni en 10 vidas podría malgastar la fortuna familiar. Así que va a ofrecerle a tu mesa un trato, podrán hacer una copia de su tatuaje, siendo entonces la última copia. Él, para evitarse problemas, va a quemarse todo el tatuaje y destruirlo. De esta forma, tu mesa poseerá la única copia del tercio del mapa. Renunciará al tesoro familiar (o lo que sea) pero a cambio deberán traerle vivo al asesino de su hermano. Por como lo dice, él mismo se encargará de hacer «justicia».
 
 Si aceptan el trato, al día siguiente, en la seguridad del Morro, cumplirá su trato. Va a volver a Santo Domingo en un barco de la RCPC y olvidarse de todo esto. Les dice que hablen con los jesuitas del Colegio San José para saber donde está su hermano Héctor.
 
@@ -1047,7 +1053,7 @@ Parece ser que esta vez se les ha adelantado y ha conseguido su trozo tatuaje si
 
 ### El intercambio
 
-_Dirige esta aventura después de que hayan completado "El benjamín de la familia García". Deja unas sesiones si no tienen ningún trozo de mapa para que crean que han fracasado._
+_Dirige esta aventura después de que hayan completado «El benjamín de la familia García». Deja unas sesiones si no tienen ningún trozo de mapa para que crean que han fracasado._
 
 **Comienzo:** En cualquier parte del Caribe
 
@@ -1057,7 +1063,7 @@ Si la asaltante ha conseguido todos los trozos, aún tiene que descifrarlos. Es 
 
 Se presentará en el lugar y a la hora correctos. Suelen gustarle las entradas impactantes, así que seguramente se dejará descolgarse de un árbol o saldrá de detrás de algún escondite. Se quitará la capucha y sin quitar las manos de los mangos de sus armas empezará a hablar.
 
-Se llama María Isabel y es la hija no reconocida de Eusebio. Necesita la parte del mapa que le falta y se ofrece a llegar a un pacto para compartir el tesoro. María Isabel sabe cuál es el "tesoro real" que esconde el mapa, pero le costará horrores ocultarlo. Leerla es tremendamente fácil y seguramente cualquier persona puede darse cuenta de que miente o por lo menos oculta alguna verdad importante. Pueden aceptar a sabiendas de que se la va a jugar o rechazarla. Si no quieren ayudarle puede ofrecerles el diario de Eusebio que tiene muchísima información actual de la RCPC y el culto de Cthulhu en la actualidad.
+Se llama María Isabel y es la hija no reconocida de Eusebio. Necesita la parte del mapa que le falta y se ofrece a llegar a un pacto para compartir el tesoro. María Isabel sabe cuál es el «tesoro real» que esconde el mapa, pero le costará horrores ocultarlo. Leerla es tremendamente fácil y seguramente cualquier persona puede darse cuenta de que miente o por lo menos oculta alguna verdad importante. Pueden aceptar a sabiendas de que se la va a jugar o rechazarla. Si no quieren ayudarle puede ofrecerles el diario de Eusebio que tiene muchísima información actual de la RCPC y el culto de Cthulhu en la actualidad.
 
 #### María Isabel García
 
@@ -1121,7 +1127,7 @@ La isla de Gran Inagua es realidad pequeña (80 kilómetros de punta a punta) y 
 
 Según el mapa, en el extremo norte del lago, sobresaliendo del agua salada del lago hay una gran roca de unos 10x10 metros totalmente plana que los locales llaman la Cama del diablo. Una tirada de Ciencias revelará que geológicamente la piedra no pertenece a la isla. De alguna manera ha llegado allí y no parece que sea de forma humana y geológica.
 
-Se supone que esa piedra es un la puerta a otra dimensión donde está el "tesoro" y el ritual que estaba incluido en el mapa es la llave para abrirlo y cerrarlo. El ritual es principalmente crear un intrincado pentáculo casi tan grande como la puerta y dotarlo de energía mágica mediante un sacrificio en sangre. Deberán gastarse 20 PP entre uno o varios practicantes de magia y la sangre suficiente para hacer una herida a un comodín.
+Se supone que esa piedra es un la puerta a otra dimensión donde está el «tesoro» y el ritual que estaba incluido en el mapa es la llave para abrirlo y cerrarlo. El ritual es principalmente crear un intrincado pentáculo casi tan grande como la puerta y dotarlo de energía mágica mediante un sacrificio en sangre. Deberán gastarse 20 PP entre uno o varios practicantes de magia y la sangre suficiente para hacer una herida a un comodín.
 
 ### Tratos con el demonio
 
@@ -1137,19 +1143,43 @@ Tampoco te olvides de que prometieron a Salvador García la cabeza del asesino. 
 
 Los lloigors liberados son algo muy peligroso, ya sabéis lo que paso en Port Royal. Pueden ser un poderoso aliado si tienen que enfrentarse a la Orden del Gran Cthulhu, pero tienen un reverso maligno. Si en algún momento liberan a los lloigors tras cumplir su trato, se dispersarán por todo el Caribe. Extenderán sus poderes depresivo/suicidas, hundiendo en la miseria todos aquellos lugares donde se establezcan. Si bien pueden haber evitado un mal mayor con la ayuda de los lloigors, han liberado un mal muy poderoso en el mundo que tendrá consecuencias en el futuro. Tratarán, además, de vengarse de las personas que los encerraron o mantuvieron encerrados, buscando algún vacío legal en el pacto que establecieron.
 
+\sp
+
+\sinc
+
 ![Callejón](./images/callejon.webp)
 
 Callejón de puerto de Santo Domingo
+
+\conc
+
+\sp
+
+\sinc
 
 ![Calles estrechas](./images/callesestrechas.webp)
 
 Callejuelas estrechas de La Habana
 
+\conc
+
+\sp
+
+\sinc
+
 ![Parque público](./images/parquepublico.webp)
 
 Parque público
 
+\conc
+
+\sp
+
+\sinc
+
 ## Otras historias salvajes
+
+\conc
 
 En sus andanzas por el Caribe combatiendo a la Orden del Gran Cthulhu, tu mesa puede correr otras aventuras. Aquí tienes algunas de ellas donde podrás explorar templos perdidos, buscar tesoros hundidos o hacer sus pinitos en el mundo del teatro.
 
@@ -1197,7 +1227,7 @@ El clan de profundos que cuida de esta tortuga encontrarán los restos de su ama
 
 El clan empezará a perseguir al barco y a matar a los sucios humanos que van en él. Es un clan pequeño, con unos 20 combatientes como mucho. No pueden enfrentarse directamente contra toda la tripulación, pero sí aprovechar a asesinar a uno o dos tripulantes en plena noche y desaparecer. Ahora en cada viaje, cuando se tire la tabla de Encuentros en el Mar, si sale un 7 (La Tortuga) o 10 (Saboteadores profundos) los profundos intentarán matar a un tripulante. Los resultados que lleven a Relatos Salvajes ya terminados también harán que haya intento de asesinato.
 
-Cuando los asesinos profundos intenten atacar, deberás tirar un d100. Si se saca menos de "comodín (PJ y PNJ que vayan en el barco)" x 5%. Intentarán matar a un PJ, si no atacarán a un tripulante normal. La tripulación normal muere directamente y seguramente su cadáver desaparecerá sin dejar rastro. Puedes dejarles pistas como señales de lucha, restos de algas, marcas de tridente, …
+Cuando los asesinos profundos intenten atacar, deberás tirar un d100. Si se saca menos de «comodín (PJ y PNJ que vayan en el barco)» x 5%. Intentarán matar a un PJ, si no atacarán a un tripulante normal. La tripulación normal muere directamente y seguramente su cadáver desaparecerá sin dejar rastro. Puedes dejarles pistas como señales de lucha, restos de algas, marcas de tridente, …
 
 Si atacan a un comodín, habrá un encuentro del comodín contra 2 profundos y un líder profundo. Si ven que no pueden ganar o se acercan refuerzos, tratarán de escapar al mar donde los perderán de vista. Si consiguen apresarlos podrán interrogarlos y saber qué está pasando y a qué se deben los ataques.
 
@@ -1303,11 +1333,11 @@ Si revisan el hechizo del libro rápidamente (Investigar si saben inglés) verá
 
 En cuando lancen el primer balde de agua a la fogata, los vampiros irán directos a ella para defenderla. Atacando a todo el que se acerque.
 
-Si tardan más de 10 turnos en localizar a los adolescentes, estos se habrán ido junto con el resto de la gente que estaba en las playas y solo quedará los vampiros de fuego para enfrentarse directamente contra ellos. Una tirada extraordinariamente buena de Mitos les podría ayudar a detectar la fogata de la "chavalada" y percatarse de que si la apagan los vampiros de fuego desaparecen.
+Si tardan más de 10 turnos en localizar a los adolescentes, estos se habrán ido junto con el resto de la gente que estaba en las playas y solo quedará los vampiros de fuego para enfrentarse directamente contra ellos. Una tirada extraordinariamente buena de Mitos les podría ayudar a detectar la fogata de la «chavalada» y percatarse de que si la apagan los vampiros de fuego desaparecen.
 
 Si no consiguen parar a los vampiros, estos terminarán llegando al pueblo y lo quemarán entero para desaparecer, dejando una estela de destrucción a su paso.
 
-El libro que el grupito de adolescentes ha encontrado es un pequeño tratado de hechicería y fuego titulado "Fuego Purificador" y escrito en inglés. En sus páginas hace referencia a distintas divinidades primigenias que están relacionadas con el fuego. Tiene marcas de fuego y zonas quemadas y desprende un extraño olor a humo.
+El libro que el grupito de adolescentes ha encontrado es un pequeño tratado de hechicería y fuego titulado «Fuego Purificador» y escrito en inglés. En sus páginas hace referencia a distintas divinidades primigenias que están relacionadas con el fuego. Tiene marcas de fuego y zonas quemadas y desprende un extraño olor a humo.
 
 **Título:**  
 Fuego purificador
@@ -1408,15 +1438,15 @@ _Un grupo lo suficientemente listo podría aprender a usar el islote como arma c
 
 **Comienzo:** En una taberna del puerto de La Habana
 
-"El Susurros" es un barco abandonado en el puerto de la Habana del que el jefe de puerto quiere deshacerse a toda costa, incluso mediante métodos ilegales.
+«El Susurros» es un barco abandonado en el puerto de la Habana del que el jefe de puerto quiere deshacerse a toda costa, incluso mediante métodos ilegales.
 
-"El Susurros" lleva atracado en el puerto desde hace más de 30 años. Está podrido y medio desmontado, ya que a lo largo de los años los carpinteros que se atrevían a acercarse sacaban madera para sus talleres. Sin olvidarse que ha sobrevivido a varios ataques de piratas y de la armada inglesa a la ciudad de La Habana. Con todo, aún se puede ver su nombre en la proa, "Virgen de la Guía". Los locales lo llaman "El Susurros" por los ruidos parecidos a susurros que se supone hacen los viejos tableros de madera al moverse con las olas.
+«El Susurros» lleva atracado en el puerto desde hace más de 30 años. Está podrido y medio desmontado, ya que a lo largo de los años los carpinteros que se atrevían a acercarse sacaban madera para sus talleres. Sin olvidarse que ha sobrevivido a varios ataques de piratas y de la armada inglesa a la ciudad de La Habana. Con todo, aún se puede ver su nombre en la proa, «Virgen de la Guía». Los locales lo llaman «El Susurros» por los ruidos parecidos a susurros que se supone hacen los viejos tableros de madera al moverse con las olas.
 
 La mayoría de la gente del puerto lo considera un barco encantado. Atestiguan que hay noches, especialmente como la víspera de San Juan o de Todos los Santos en que se ven luces de colores verdosos y se escuchan extraños golpes y cánticos ininteligibles dignos de demonios del Averno.
 
 El jefe de puerto, el maestre Arturo Gandía, lleva años queriendo deshacerse de él, pero cada día de Año nuevo aparece misteriosamente delante de su caseta del puerto el pago de su amarre en viejos doblones de oro. Con los años ha llegado a obsesionarse con ese viejo barco y su sola visión le produce asco y repugnancia.
 
-Esta noche va un poco más bebido de lo habitual y después de estudiarlos se acerca a vuestra mesa para proponeros un trabajo. Entre gritos y cuchicheos (cuando se da cuenta de que habla alto), os pide que provoquéis un incendio en "El Susurros" que lo destruya definitivamente. Se ha encargado de no poner ningún barco cerca para que las llamas no se propaguen.
+Esta noche va un poco más bebido de lo habitual y después de estudiarlos se acerca a vuestra mesa para proponeros un trabajo. Entre gritos y cuchicheos (cuando se da cuenta de que habla alto), os pide que provoquéis un incendio en «El Susurros» que lo destruya definitivamente. Se ha encargado de no poner ningún barco cerca para que las llamas no se propaguen.
 
 Os ofrece un buen trato, 1 año de amarre gratis para su barco en el puerto. Regateando podéis conseguir que sea muy laxo en sus inspecciones sobre el contenido de su bodega. Aun así, siempre tendréis que pagar el 10% que recauda la RCPC. Detesta tanto ese barco que no le importa saltarse la ley con tal de no verlo de nuevo. Si no aceptan podría vetarles la entrada al puerto de por vida, lo cual sería un problema.
 
@@ -1468,7 +1498,7 @@ Sea como sea, el barco va a acabar muy dañado y las autoridades portuarias deci
 
 **Comienzo:** La Habana
 
-Antoine Delcourt, editor de VLH, necesita repartir su periódico por todo el Caribe.
+Antoine Delapore, editor de VLH, necesita repartir su periódico por todo el Caribe.
 
 Antoine te los vende a mitad del precio normal, unos 2 doblones, ya que normalmente se venden a 4 doblones. Piensa que unos 100 periódicos ocuparían en un barco 1 barril de espacio, así que si llevas 100 periódicos podrías sacar unos 200 doblones de beneficios por barril. Opciones para venderlos.
 
@@ -1545,7 +1575,7 @@ Ambos grupos tratarán de atraer al nuevo protagonista. Intentarán seducirle y 
 
 A nivel de juego, ensayar la obra se considera como estudiar el guion de la obra. Así pues, le permitirá subir su habilidad de Mitos y aprender hechizos, pero deberá pasar la TPC del libro como con cualquier otro texto de lis Mitos.
 
-**Esgrima escénica:** Si alguien va a participar en los ensayos y aguanta toda la semana, podrá practicar "Esgrima escénica". Esta habilidad aumentará un nivel su dado de pelea con armas de filo cuando quiera hacer virguerías con ellas. Es decir, un esgrimista escénico con Pelear d8, tendrá un d10 si quiere cortarle con su espada los botones de la casaca de un enemigo o apagar las velas de un candelabro con su estoque.
+**Esgrima escénica:** Si alguien va a participar en los ensayos y aguanta toda la semana, podrá practicar «Esgrima escénica». Esta habilidad aumentará un nivel su dado de pelea con armas de filo cuando quiera hacer virguerías con ellas. Es decir, un esgrimista escénico con Pelear d8, tendrá un d10 si quiere cortarle con su espada los botones de la casaca de un enemigo o apagar las velas de un candelabro con su estoque.
 
 Esta ventaja no puede usarse para ataques apuntados pensados para hacer daño por muy imposibles que sean. Podría usarse para quitarle con la punta de la espada la llave que lleva un guardia colgada al cuello o para lanzar una manzana y cortarla en 4 trozos en el aire. La idea en general es que sean cosas que dejen al público sin aliento y que cuando salga de su asombro aplauda a raudales.
 
@@ -1611,9 +1641,17 @@ Media semana
 
 **Características especiales:** La TPC afectará tanto al lector como al espectador que presencie la obra. De hecho, los espectadores sufrirán una TPC d12 en vez del d8 de leer el libreto debido a que la experiencia teatral es más intensa. Ver la obra no se considera estudiar el libro. La experiencia es aterradora, pero no permite analizarla adecuadamente.
 
+\sp
+
+\sinc
+
 ![Plano del teatro](./images/nochedelestreno.webp)
 
 Plano del teatro
+
+\conc
+
+\sp
 
 ### El as de picas
 
@@ -1759,9 +1797,17 @@ Si consiguen salvar a Adolfé, es posible despertar todo su poder y convertirlo 
 
 NOTA: este relato salvaje se empezó a escribir en serio durante el Día del Orgullo de 2023 con un claro objetivo de dar mi apoyo al colectivo LGTBI+ que juega a rol. Espero que os guste a todes y si creéis que he cometido algún error por pequeño que sea estaré encantado de subsanarlo. También estoy abierto a todo tipo de sugerencia o mejora.
 
+\sp
+
+\sinc
+
 ![Juzgados de Nueva Providencia](./images/juzgados.webp)
 
 Juzgados de Nueva Providencia
+
+\conc
+
+\sp
 
 ### Cazadores de huesos
 
@@ -1813,7 +1859,7 @@ En mitad de la selva, siguiendo las indicaciones de Nigua, hay una cascada y det
 
 Alguien, desde luego, deposito el cadáver del yithiano hace siglos como forma de enterramiento. Una tirada de Ciencias detectará entre la tierra sacada restos antiguos de algún material transparente. Por la cantidad y la forma puede que fuera la tapa del sarcófago. Es imposible reconocer el material, pero no parece natural.
 
-Si recuperan los trozos y los limpian tendrán un puzzle de unas 40 piezas. Algunos de los trozos parece tener algo grabado. Si consiguen montarlo podrán ver que hay una inscripción en que pone "Aquí yace Onofre de las Torres. 12 de junio de 1691 - ∞" con un extraño tipo de letra (TPC d4).
+Si recuperan los trozos y los limpian tendrán un puzzle de unas 40 piezas. Algunos de los trozos parece tener algo grabado. Si consiguen montarlo podrán ver que hay una inscripción en que pone «Aquí yace Onofre de las Torres. 12 de junio de 1691 - ∞» con un extraño tipo de letra (TPC d4).
 
 Una tirada de Conocimientos generales permitirá saber que parece un apellido genérico para huérfanos y el 12 de junio es San Onofre. Así que muy probablemente sea un huérfano de San Juan, del hospicio de las Torres.
 
@@ -1833,7 +1879,7 @@ Balua'k ha estado detrás de algunos de los descubrimientos más importantes que
 
 #### Buscando a Onofre
 
-Si preguntan por Onofre en el hospicio de San Juan confirmarán su nombre y su fecha de nacimiento. Por lo que recuerdan los monjes del hospicio, era muy buen estudiante y consiguió trabajo de ayudante para un noble diletante que se dedicaba a "la cosa de la ciencia".
+Si preguntan por Onofre en el hospicio de San Juan confirmarán su nombre y su fecha de nacimiento. Por lo que recuerdan los monjes del hospicio, era muy buen estudiante y consiguió trabajo de ayudante para un noble diletante que se dedicaba a «la cosa de la ciencia».
 
 La búsqueda de Onofre puede llevar meses, ya que solo tienen un nombre, que ronda los 30 y que debe estar vivo, actualmente, en algún lugar del Caribe. Pueden preguntar en bares y tabernas y en ayuntamientos y parroquias sin ningún éxito. Cuando quieras puedes darles una pista. Alguien recordará su nombre y les dirá que trabaja para RCPC en una especie de taller a las afueras de la ciudad.
 
@@ -1859,7 +1905,7 @@ Si deciden ayudarle con su máquina les explicará que necesita para completarla
 * **Cristales azules de laminar:** Esta piedra semipreciosa de color azul se encuentra solo en la cordillera de Barohuco en el sur de Santo Domingo. Deberán adentrarse en la selva hasta llegar a las montañas y allí buscar un yacimiento. Necesitarán equipo de excavación y algo para los 500 kilos que les ha pedido. Balua'k pide tanto mineral porque debe refinarlo.
 * **Lentes de precisión:** Necesitarán un juego de lentes ópticas de precisión para centrar la luz solar en un punto adecuado. Podrían costar unos 300 doblones y deberán buscarlas en alguna gran ciudad.
 
-Una vez encontrados los 3 materiales, deberán encontrar un piso franco donde pueda esconder a Balua'k mientras termina de montar su máquina. Deberán "secuestrarlo" y llevarlo a su escondite. Deberán ocultarlo y defenderlo. Es a tu elección que la RCPC encuentre el piso franco y trate de asaltarlo, tienes a tu disposición a montones de maleantes de los barrios bajos que la RCPC pueda pagar y eso son muchos montones. Deberán aguantar una semana escondidos. Pasada la semana, Balua'k debería poder hacer funcionar su motor temporal.
+Una vez encontrados los 3 materiales, deberán encontrar un piso franco donde pueda esconder a Balua'k mientras termina de montar su máquina. Deberán «secuestrarlo» y llevarlo a su escondite. Deberán ocultarlo y defenderlo. Es a tu elección que la RCPC encuentre el piso franco y trate de asaltarlo, tienes a tu disposición a montones de maleantes de los barrios bajos que la RCPC pueda pagar y eso son muchos montones. Deberán aguantar una semana escondidos. Pasada la semana, Balua'k debería poder hacer funcionar su motor temporal.
 
 #### El fallo temporal
 
@@ -1961,13 +2007,13 @@ El libro sagrado de la Capilla de la Contemplación debe ser considerado un libr
 
 #### Los feligreses de la capilla
 
-Si confeccionan la lista de parroquianos, avísales que sin buenos archivos oficiales puede llevarles media semana revisar la lista de feligreses. Los archivos oficiales son un desastre, entre el maremoto, el ataque de Catania Jack y la decadencia general de la ciudad. Si quieren investigar la lista verán que todos murieron en la masacre, menos Victor MacDuffy que estaba fuera de Port Royal. Victor es un mendigo borracho de origen escocés que deambula por el puerto gritando incoherencias y profecías del fin del mundo.
+Si confeccionan la lista de parroquianos, avísales que sin buenos archivos oficiales puede llevarles media semana revisar la lista de feligreses. Los archivos oficiales son un desastre, entre el maremoto, el ataque de Catania Jack y la decadencia general de la ciudad. Si quieren investigar la lista verán que todos murieron en la masacre, menos Víctor MacDuffy que estaba fuera de Port Royal. Víctor es un mendigo borracho de origen escocés que deambula por el puerto gritando incoherencias y profecías del fin del mundo.
 
-Es imposible dialogar con Victor, no hila 2 palabras coherentes seguidas. Si le ofrecen algo de alcohol, tendrá un momento de claridad entre el síndrome de abstinencia y los delirios del alcohol en que podrán hacer dos preguntas y las contestará con la verdad "in vino, veritas". Sé un poco críptico y vago en sus respuestas.
+Es imposible dialogar con Víctor, no hila 2 palabras coherentes seguidas. Si le ofrecen algo de alcohol, tendrá un momento de claridad entre el síndrome de abstinencia y los delirios del alcohol en que podrán hacer dos preguntas y las contestará con la verdad «in vino, veritas». Sé un poco críptico y vago en sus respuestas.
 
 #### Explorando la mansión Corbitt
 
-La mansión está rodeada por un pequeño jardín totalmente desatendido. Tiene 2 plantas y un sótano. La primera planta tiene una entrada principal que da paso a una cocina, un comedor, una biblioteca que se usa como sala de estar y las dependencias del servicio. A la segunda planta se accede por unas escalera dobles desde la entrada de la primera planta. Tiene un gran pasillo que da a 4 dormitorios y un baño. Dos de los dormitorios tienen su propio baño.
+La mansión está rodeada por un pequeño jardín totalmente desatendido. Tiene 2 plantas y un sótano. La primera planta tiene una entrada principal que da paso a una cocina, un comedor, una biblioteca que se usa como sala de estar y las dependencias del servicio. A la segunda planta se accede por unas escaleras dobles desde la entrada de la primera planta. Tiene un gran pasillo que da a 4 dormitorios y un baño. Dos de los dormitorios tienen su propio baño.
 
 Michael Thomas enterró a Walter en un habitáculo secreto en el sótano siguiendo una serie de instrucciones muy concretas. Walter ha trascendido a un plano superior inmortal, convirtiéndose parte de su esencia en parte de la casa.
 
@@ -2061,9 +2107,9 @@ Una tirada de Tácticas les dirá que uno de los grupos tiene las de perder, sus
 
 Del otro lado aparece un guerrero grande y musculoso que parece aceptar. Es el cacique Penda, que exige que antes de la próxima luna llena (1/2 semana) jugarán aquí el partido. Solo podrán jugar el partido los que están ahora en el claro. Sabe que los suyos son jugadores más competentes y no quiere sorpresas. El primer cacique, llamado Corozo y que sabe que tiene las de perder, señala hacia donde está tu mesa (tanto si están escondidos como si no) y sentencia: ¡Qué así sea, solos los que están aquí! Es en ese momento cuando Penda se percata de tu grupo y como pueden estropear sus planes de quedarse con el territorio.
 
-Tras eso el cacique Corozo se acerca renqueando por la edad y les dice: "Los dioses son sabios y os han enviado para salvarnos en este momento de necesidad. Seguidme, tenemos mucho que hacer." En este momento deben elegir quedarse y ayudar o seguir su viaje.
+Tras eso el cacique Corozo se acerca renqueando por la edad y les dice: «Los dioses son sabios y os han enviado para salvarnos en este momento de necesidad. Seguidme, tenemos mucho que hacer». En este momento deben elegir quedarse y ayudar o seguir su viaje.
 
-Esta es una historia de "underdogs", perdedores que ganan contra todo pronóstico. La gente de Corozo son los del equipo del barrio pobre, sus contrincantes son del barrio rico y ellos son el arma secreta del entrenador del equipo del barrio pobre. Si se quieren ir, juega sucio, pueden hacerles tirar Notar para que se den cuenta de los demacrados que parecen sus compañeros de equipo y que mal deben estar pasándolo. Háblales de sequías, malas cosechas, etc. Alguno intentará hacer un truco con la batú y le saldrá fatal y otro se tropezará con su propia sombra. Déjales claro que sin ellos tienen las de perder.
+Esta es una historia de «underdogs», perdedores que ganan contra todo pronóstico. La gente de Corozo son los del equipo del barrio pobre, sus contrincantes son del barrio rico y ellos son el arma secreta del entrenador del equipo del barrio pobre. Si se quieren ir, juega sucio, pueden hacerles tirar Notar para que se den cuenta de los demacrados que parecen sus compañeros de equipo y que mal deben estar pasándolo. Háblales de sequías, malas cosechas, etc. Alguno intentará hacer un truco con la batú y le saldrá fatal y otro se tropezará con su propia sombra. Déjales claro que sin ellos tienen las de perder.
 
 Si con todo, se van hazles saber en unas semanas el resultado del partido. Puedes hacer que ganen y sea una historia que se contará durante siglos como la victoria más asombrosa de la historia del batú. Lo más importante es que ellos pudieron ser leyendas y se lo han perdido. Puedes hacer que pierdan y que ellos se sientan culpables por ser los desalmados que les dejaron en la estacada. Las buenas personas no hacen esas cosas.
 
@@ -2081,7 +2127,7 @@ Durante la media semana que estén de entrenamiento, deben primero establecer qu
 
 Los espías del equipo contrario han hablado maravillas de los nuevos jugadores y el cacique Penda no se la puede jugar. Pocos minutos antes se presentará al más altamente sobornable de tu mesa y le ofrecerá una buena suma (crea un botín de d8 con incluso objetos). Solos le pagará después de ganar el partido. Si acepta el soborno, no les permitas usar benis durante los turnos de partido en que participe este jugador sobornado.
 
-Si hay algún personaje carismático, déjales dar una charla motivadora antes del partido. Si lo hace especialmente bien, puedes darles unos benis para que puedan utilizarlos durante el partido. Otras opciones pueden ser desde un cántico para el partido (como Nok su kao) hasta himnos (como You'll Never Walk Alone). Igual a alguno se le ocurre inventar la ola, déjales ser un poco ucrónicos. Seguro que es una anécdota que contaran durante mucho tiempo "Te acuerdas cuando inventamos la ola en el partido ese raro …"
+Si hay algún personaje carismático, déjales dar una charla motivadora antes del partido. Si lo hace especialmente bien, puedes darles unos benis para que puedan utilizarlos durante el partido. Otras opciones pueden ser desde un cántico para el partido (como Nok su kao) hasta himnos (como You'll Never Walk Alone). Igual a alguno se le ocurre inventar la ola, déjales ser un poco ucrónicos. Seguro que es una anécdota que contaran durante mucho tiempo «Te acuerdas cuando inventamos la ola en el partido ese raro …».
 
 #### El partido
 
@@ -2095,7 +2141,7 @@ En la fase de juego los jugadores tiran Atletismo para pelotear la bola, el marr
 
 Uso de benis: convertir un fallo de Atletismo en un éxito directo, pero sin avances; poder participar en una ronda sin cumplir las reglas de participación.
 
-Al final de las 5 rondas gana el que más puntos tenga. En caso de empate, se jugarán rondas extras a muerte súbita. En el momento que uno de los equipos marque un punto y el otro no gana el encuentro.
+Al final de las 5 rondas gana el que más puntos tenga. En caso de empate, se jugarán rondas extras a «muerte súbita». En el momento que uno de los equipos marque un punto y el otro no gana el encuentro.
 
 Si alguien no participa en el partido, puedes dejarle hacer tiradas de Investigación para detectar la emboscada que tienen preparada sus contrincantes si pierden. También puedes dejarles unas tiradas de Sigilo para prepararse para la trampa, por ejemplo, dejando sin ser visto las armas cerca de su zona de descanso. Si lo hace sin ser detectado, no solo revertirá la sorpresa, sino que será el equipo contrario los sorprendidos al lanzarse al ataque y ver que su enemigo está más que preparado.
 
@@ -2116,11 +2162,19 @@ Los dioses han elegido de quién es el terreno, pero Penda tiene otra idea sobre
 
 Esta historia se convertirá en una leyenda del batú y tu mesa conseguirá un +1 en todas las tiradas sociales relacionadas con fans del batú. Les invitarán a beber y contar su historia en las hogueras de las comunidades taínas. Los niños les pedirán que jueguen con ellos y que pongan su marca en sus pelotas de batú.
 
-_**Recompensa extra de cordura (+1):** Como en toda película de "underdogs" si, además, de ganar, son buenos ganadores y consiguen que también el equipo contrario sean mejores personas, por ejemplo usando daño no letal, recompénsales con un punto de condura que les otorga tener una autoestima sana._
+_**Recompensa extra de cordura (+1):** Como en toda película de «underdogs» si, además, de ganar, son buenos ganadores y consiguen que también el equipo contrario sean mejores personas, por ejemplo usando daño no letal, recompénsales con un punto de cordura que les otorga tener una autoestima sana._
+
+\sp
+
+\sinc
 
 ![Campo de batú](./images/batu.webp)
 
 Campo de batú
+
+\conc
+
+\sp
 
 ### La parte del rey
 
@@ -2174,7 +2228,7 @@ Tanto si van ellos como si los matones van a buscarlos, los llevarán al piso su
 
 Alfredo es bastante brusco y directo, no se guarda nada. Si le deben dinero, les pedirá el dinero y les explicará las consecuencias de no volver a pagar a tiempo. Si quieren un préstamo, les explicará las condiciones y las consecuencias de no pagar.
 
-No va a ser fácil sacarle información sobre la plata, pero se dejará seducir por una parte del botín. Aurora y Flora no parece que estén de acuerdo, pero sin la información de Alfredo no puede continuar. Aceptará un mínimo de un 3%, pero tratará de conseguir un 6%.
+No va a ser fácil sacarle información sobre la plata, pero se dejará seducir, por una parte, del botín. Aurora y Flora no parece que estén de acuerdo, pero sin la información de Alfredo no puede continuar. Aceptará un mínimo de un 3%, pero tratará de conseguir un 6%.
 
 Usía sabe de donde viene la plata, de un jugador empedernido llamado Viriato que trabaja para la RCPC en el Castillo del Morro. Es un pésimo jugador y siempre anda debiendo dinero a Usía. Les indicará su abrevadero favorito.
 
@@ -2238,9 +2292,9 @@ _**Semilla de partida:** La plata ya no está segura ni en el castillo ni en la 
 
 La Orden del Gran Cthulhu está estudiando un huevo de chthoniano en unas instalaciones en un pequeño islote cerca de Cayo Hueso. El problema es que los padres del huevo y sus familiares están buscándolo y puede que si le pasa algo al huevo hundan la isla en el océano junto con sus habitantes.
 
-Mientras los héroes navegan un día claro, una extraña ola solitaria de tamaño descomunal aparece de la nada, haciendo casi zozobrar al su barco y dañándolo bastante. Desde que el vigía grite "¡Olaaaa!" hasta que les impacte déjales 5 turnos para prepararse. Pueden asegurar la carga y la tripulación, maniobrar a favor de la ola, intentar pararla o esquivar (cosa imposible), etc.
+Mientras los héroes navegan un día claro, una extraña ola solitaria de tamaño descomunal aparece de la nada, haciendo casi zozobrar al su barco y dañándolo bastante. Desde que el vigía grite «¡Olaaaa!» hasta que les impacte déjales 5 turnos para prepararse. Pueden asegurar la carga y la tripulación, maniobrar a favor de la ola, intentar pararla o esquivar (cosa imposible), etc.
 
-Vete contando los turnos en voz alta dándole dramatismo a la escena según se les acaben los turnos y grita "Impacto" cuando hagas una tirada enfrentada del Navegar de la persona que lleve el timón y un d12. Obvia el resultado, tanto si es bueno como malo, y dales esta lista de daño: daños en el timón, una gran fuga de agua en el casco y el aparejo ha debilitado un tramo de un mástil.
+Vete contando los turnos en voz alta dándole dramatismo a la escena según se les acaben los turnos y grita «Impacto» cuando hagas una tirada enfrentada del Navegar de la persona que lleve el timón y un d12. Obvia el resultado, tanto si es bueno como malo, y dales esta lista de daño: daños en el timón, una gran fuga de agua en el casco y el aparejo ha debilitado un tramo de un mástil.
 
 Pueden hacer reparaciones rápidas en alta mar, pero tendrán que buscar un puerto seguro donde hacer las reparaciones pertinentes. La ventaja es que cerca de los cayos lo que sobran son islotes.
 
@@ -2349,9 +2403,17 @@ Se describen los hechizos de barrera y desvío hechos permanentes para proteger 
 
 _**Recompensa extra de cordura (+1):** Preocuparse y salvar a las víctimas colaterales debería ser una prioridad. Si ponen en peligro su vida para proteger a los taínos o desechan planes más fáciles que pondrían a los taínos en peligro por otros más difíciles y mortales deberías recompensarles con un punto de cordura._
 
+\sp
+
+\sinc
+
 ![Monasterio](./images/monasterio.webp)
 
 Monasterio de piedra
+
+\conc
+
+\sp
 
 ### El templo perdido
 
@@ -2411,8 +2473,8 @@ Al salir del laboratorio les estarán esperando 4 madres de aguas degeneradas (g
     * **Constreñir:** La serpiente gana una bonificación de +2 a las tiradas de Atletismo y Fuerza relacionadas con presas.
     * **Mordisco:** Daño FUE. Si el mordisco hace herida, inyecta cierta cantidad de radiación en la corriente sanguínea de la víctima. Si falla una tirada de Vigor, se lleva un nivel de fatiga.
     * **Cuernos:** Daño FUE+1
-    * **Muy duros:** Aguantan 1 herida antes de caer incapacitados
-* **Botín:** 1d4. Sus antepasados acumularon cosas que abandono la serpigente así que podría haber objetos perdidos en el tiempo y el espacio.
+    * **Muy duros:** Aguantan 1 herida antes de caer incapacitados.
+* **Botín:** 1d4. Sus antepasados acumularon cosas que abandono la serpigente, así que podría haber objetos perdidos en el tiempo y el espacio.
 
 Pueden convertir este templo en una guarida en mitad de la jungla donde refugiarse y esconderse cuando las cosas se pongan chungas. Nadie tiene idea de su paradero y es fácilmente defendible. Cerrando con piedras el acceso al piso inferior e invirtiendo unos 2.000 doblones en materiales, se podría acondicionar para poder vivir en ella con camas, cocina, zona de almacenaje, fresquera e incluso tener algún tipo de depósito de agua de lluvia.
 
@@ -2428,9 +2490,17 @@ Los hechizos que permiten purificar agua podrían purificar unos toneles de agua
 
 Por último, recuerda que tu mesa son buenas personas y usar material radioactivo es algo que daña seriamente el medioambiente durante décadas o siglos. Sin olvidarnos de las enfermedades y extrañas mutaciones que producen en personas y animales.
 
+\sp
+
+\sinc
+
 ![Templo perdido](./images/templo-perdido-jungla.webp)
 
 Templo perdido
+
+\conc
+
+\sp
 
 ### Madre de aguas
 
@@ -2462,7 +2532,7 @@ Si la derrotan tendrán que ver si la rematan o se la llevan. Si la matan, con l
 
 Pero no ha acabado todo, deberán buscar su guarida (tirada de Supervivencia siguiendo el rastro de la madre de aguas) donde encontrarán al niño perdido y su tesoro (y podrán hacer la tirada de botín). El infante parece bien cuidado y alimentado y sus heridas sanadas, incluso hay restos de fruta y verduras machacados para que pueda comer sano. Desde luego, esto no parece un comportamiento normal de un animal salvaje.
 
-Si pueden comunicarse con el niño, contará que escapó de su casa porque quería cazar "gamusinos" como sus amigos, se perdió, se cayó por un barranco de la selva y terminó en pantano. Un jaguar intentó comérselo, pero la madre de aguas, le salvó y le llevó a su madriguera donde ha estado cuidado hasta ahora. Si ve la cabeza de la serpiente, se pondrá triste por su amiga. Si está viva, pedirá que la suelten, ya que es buena y es su amiga.
+Si pueden comunicarse con el niño, contará que escapó de su casa porque quería cazar «gamusinos» como sus amigos, se perdió, se cayó por un barranco de la selva y terminó en pantano. Un jaguar intentó comérselo, pero la madre de aguas, le salvó y le llevó a su madriguera donde ha estado cuidado hasta ahora. Si ve la cabeza de la serpiente, se pondrá triste por su amiga. Si está viva, pedirá que la suelten, ya que es buena y es su amiga.
 
 Tu mesa deberá decidir ahora que hacer. Si la sueltan, no cobrarán la recompensa aunque lleven al crío. Si la entregan viva, seguramente los aldeanos la matarán. Han de tener en cuenta que es medianamente inteligente y que ha hecho más bien que mal. Si la dejan escapar y vivir tranquila, conseguirán un aliado en la zona, que podrá ayudarles si tuvieran necesidad.
 
@@ -2474,7 +2544,7 @@ _**Recompensa extra de cordura (+1):** Si consiguen de alguna manera desmontar t
 
 Fabio Castelli es un diletante veneciano que se dedica a cazar críptidos de todo Europa y Norte de África y los vende a espectáculos circenses y paradas de monstruos.
 
-Al oír la leyenda de el yeho, un pitecántropo que vive en las selvas de las islas del Caribe, vio que era perfecto para su negocio. En el Caribe podría huir de sus acreedores y labrarse una nueva reputación en América.
+Al oír la leyenda del yeho, un pitecántropo que vive en las selvas de las islas del Caribe, vio que era perfecto para su negocio. En el Caribe podría huir de sus acreedores y labrarse una nueva reputación en América.
 
 Fabio está contratando bateadores y exploradores para adentrarse en la selva a cazar al Yeho. Su principal problema es que debe cazarlo vivo y transportarlo de vuelta hasta Ponce. Si no fuera por eso, con alguien que conozca la zona se adentraría en la jungla y volvería con el pellejo de su presa. Pero su idea es montar un circo de monstruos como tenía en Italia y necesita un buen primer plato como el yeho y, claro, lo necesita vivo.
 
@@ -2492,7 +2562,7 @@ Una tirada de Mitos sabiendo todo o parte de lo anterior podría darle a entende
 
 Tras estas pesquisas, Fabio hará unos cálculos bien afortunados y se adentrará en el bosque para empezar la caza. Se dirige a una zona montañosa al norte de Ponce que tiene bastantes cuevas que podrían servirle de guarida.
 
-En un par de días llegarán a la zona con un carro tirado por mulas donde Fabio guarda las provisiones y sus cosas de caza. el carro lo dejarán en un claro y empezarán a rastrear la zona pie.
+En un par de días llegarán a la zona con un carro tirado por mulas donde Fabio guarda las provisiones y sus cosas de caza. El carro lo dejarán en un claro y empezarán a rastrear la zona pie.
 
 Fabio encontrará unas grandes huellas del tamaño de una rueda de carro. Deben pertenecen a un ser gigantesco, más grande que un elefante. Las pisadas muestran que tiene garras y anda erecto y no parece que le preocupe dejar rastro.
 
@@ -2512,7 +2582,7 @@ De su carromato, que había dejado en una senda cercana, saca un cepo para horro
 
 Esa misma noche, poco después del anochecer, oirán aullidos terribles y golpes fuertes contra árboles, pero no suenan las campanas del cepo. De repente, el todo ruido cesa y durante un minuto no se oye nada. De repente se oye a un gran animal corriendo a toda velocidad hacia ellos, derribando los troncos de los árboles que se ponen en su camino.
 
-Dales 4 turnos para prepararse. Pueden quedarse en la atalaya arriba del árbol (aunque no parece muy seguro por como está derribando los árboles), pueden bajarse y huir, puede intentar iluminar la zona, preparar las armas, montar una trampa con una granada o así, etc. También puede intentar prepararse para el horror que van a ver con "Pásame la jarra de ron".
+Dales 4 turnos para prepararse. Pueden quedarse en la atalaya arriba del árbol (aunque no parece muy seguro por como está derribando los árboles), pueden bajarse y huir, puede intentar iluminar la zona, preparar las armas, montar una trampa con una granada o así, etc. También puede intentar prepararse para el horror que van a ver con «Pásame la jarra de ron».
 
 Pasado los 4 turnos, un gugo rugiente y rabioso saldrá de la espesura y se lanzará a por ellos. Antes de entrar en combate deberán pasar una TPC d12, de normal sería un d10, pero verlo salir de la oscuridad bramando como un poseso y mostrando sus afiladas garras y dientes hace que sea mucho más terrible.
 
@@ -2591,7 +2661,7 @@ Se ha intentado tratar que profundos aliados de la Orden hagan este trabajo, per
 
 Este proyecto es la más prometedora forma que tiene la Orden de encontrar R’lyeh y si es saboteado sería un duro golpe a los planes de Hernando Villalba.
 
-La Orden ha conseguido la cooperación de los yuggoths ofreciéndoles ayuda y protección de una colonia minera de tierras raras en una isla desierta de origen volcánico de las Antillas Menores. Los yuggoths han enviado 2 yuggothianos científicos para el desarrollo del dispositivo y las operaciones cerebrales y a 4 colonos para la defensa y los trabajos físicos.
+La Orden ha conseguido la cooperación de los yuggothianos ofreciéndoles ayuda y protección de una colonia minera de tierras raras en una isla desierta de origen volcánico de las Antillas Menores. Los yuggothianos han enviado 2 científicos para el desarrollo del dispositivo y las operaciones cerebrales y a 4 colonos para la defensa y los trabajos físicos.
 
 Puedes cambiar la finalidad del proyecto, de forma que en vez de buscar R’lyeh se use para buscar pecios hundidos y recuperar sus cargas o para seguir a barcos de enemigos de la Orden.
 
@@ -2700,7 +2770,7 @@ Es importante saber quién está en cada celda, ya que para hablar y discutir ca
 
 Durante su estancia les darán comida y bebida de la que comen allí, pero con cubiertos de madera. No debería pasar hambre, ni sed, ni frío y si tienen heridas graves serán curados. Quieren mantenerte vivo mientras te sacan información valiosa.
 
-Cada sesión de interrogatorio/tortura exigirá una tirada de Espíritu para no soltar prenda. Un fallo supondrá dar un ítem de información valiosa (a juzgar por ti). Si quiere evitarlo, puede tomar un nivel de fatiga. Puedes darles algún positivo a esta tirada, si se buscan alguna manera de mantener la moral alta, como cantar una canción de ánimo todos juntos, gritar conjuntamente una consigna tipo "todes para une y une para todes" cuando se lleven a alguien a interrogar o hablar de lo que primero que harán cuando salgan.
+Cada sesión de interrogatorio/tortura exigirá una tirada de Espíritu para no soltar prenda. Un fallo supondrá dar un ítem de información valiosa (a juzgar por ti). Si quiere evitarlo, puede tomar un nivel de fatiga. Puedes darles algún positivo a esta tirada, si se buscan alguna manera de mantener la moral alta, como cantar una canción de ánimo todos juntos, gritar conjuntamente una consigna tipo «todes para une y une para todes» cuando se lleven a alguien a interrogar o hablar de lo que primero que harán cuando salgan.
 
 El día que tengan planeado fugarse, haz una tirada de clima, ya que puede afectar a la fuga o incluso cancelarla. Una tormenta puede ayudar a escapar porque reduce la visibilidad de los guardas, pero hace mucho más difícil lanzarse al mar y nadar hacia la libertad.
 

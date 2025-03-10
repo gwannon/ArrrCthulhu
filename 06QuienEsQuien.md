@@ -43,7 +43,7 @@ La Orden tiene su corazón y si les desafía o les desobedece morirá de la form
 * **Desventajas:** Buscado (Mayor, por piratería), Juramente (Mayor, servir a la Orden durante 10 años)
 * **Ventajas:** Amenazador, Berserk, Bloqueo, Manos Firmes, Nuevos poderes, Rápido, Reflejos de Combate, Trasfondo Arcano (Hechicería primigenia)
 * **Capacidades especiales:**
-    * **Sin corazón:** Al son de cantos de "kalima, kalima, …", el propio Villalba extrajo el corazón de Teach y con él su alma. Mientras Villalba tenga su corazón, Teach está obligado a obedecerle o podría matarle simplemente estrujando su corazón con sus manos. Como ventajas, Edward tiene Resistencia Arcana Mejorada y los hechizos de Marioneta y Manipulación de recuerdos fallan siempre. Si se lanza hechizos de detección mágica se verá un gran agujero negro donde debería estar su corazón. Una tirada de Mitos permitirá saber que le han quitado el corazón y los detalles de esta maldición.
+    * **Sin corazón:** Al son de cantos de «kalima, kalima, …», el propio Villalba extrajo el corazón de Teach y con él su alma. Mientras Villalba tenga su corazón, Teach está obligado a obedecerle o podría matarle simplemente estrujando su corazón con sus manos. Como ventajas, Edward tiene Resistencia Arcana Mejorada y los hechizos de Marioneta y Manipulación de recuerdos fallan siempre. Si se lanza hechizos de detección mágica se verá un gran agujero negro donde debería estar su corazón. Una tirada de Mitos permitirá saber que le han quitado el corazón y los detalles de esta maldición.
     * **Hechizos:** 8 PP, Canto de Babalú Ayé, Vibración dimensional
     * **Rituales:** Silbar al viento, Cegar el mascarón de proa, Brindar por el mar, El clavo en la calavera, Canción pirata, Astillas en la planta de los pies
 * **Equipo:** Cimitarra (FUE+d8), Protecciones de cuero +1, 2 Pistolas de chispas cargadas
@@ -131,7 +131,7 @@ Salvador siempre fue un seguidor, no un líder. Su hermano Antonio era el líder
 
 ![Héctor García](./images/hector.webp)
 
-El padre Héctor García es el hijo menor de Eusebio García. Cuando se fue haciendo mayor, desarrolló una tremenda "espiritualidad" que le llevo a estudiar teología con los jesuitas para terminar siendo misionero en la misión de San Cristóbal. La verdad es que fue su forma de escapar de la casa familiar y de la larga y abusiva mano de su padre y de la RCPC.
+El padre Héctor García es el hijo menor de Eusebio García. Cuando se fue haciendo mayor, desarrolló una tremenda «espiritualidad» que le llevo a estudiar teología con los jesuitas para terminar siendo misionero en la misión de San Cristóbal. La verdad es que fue su forma de escapar de la casa familiar y de la larga y abusiva mano de su padre y de la RCPC.
 
 No es un santo ni especialmente religioso, pero tiene más moral y ética que el resto de la familia y según fue enterándose de los secretos familiares y sus tejemanejes con la RCPC prefirió desvincularse. La forma que vio fue hacerse sacerdote y para alejarse todavía más se hizo misionero.
 
@@ -197,7 +197,7 @@ El Barón no tiene poderes mágicos como tal en esta forma, no puede hacer prodi
 
 Totep es un avatar de Nyarlathotep. Se presenta como un marinero que naufragó en el mar (o abandonaron a su suerte) y ha estado años perdido en un islote. Está escuálido, con una gran barba, el pelo largo y sucio y ropa andrajosa. Está un poco ido y reacciona raro a cosas y situaciones normales, pero claro, lleva años solo en esa isla.
 
-Totep, como avatar de Nyarlathotep, va a funcionar como un dios engañoso y farsante, al estilo del Coyote de los nativos norteamericanos o de Anansi "la araña" de las leyendas centroafricanas y caribeñas. Será un dios que jugará con tu mesa, metiéndoles a veces en problemas locos e inocentes y otras veces en auténticas bromas asesinas. Pero siempre aprenderán una lección valiosa al salir airosos de ellas.
+Totep, como avatar de Nyarlathotep, va a funcionar como un dios engañoso y farsante, al estilo del Coyote de los nativos norteamericanos o de Anansi «la araña» de las leyendas centroafricanas y caribeñas. Será un dios que jugará con tu mesa, metiéndoles a veces en problemas locos e inocentes y otras veces en auténticas bromas asesinas. Pero siempre aprenderán una lección valiosa al salir airosos de ellas.
 
 Al ser casi todopoderoso, puede aparecerse en cualquier parte en cualquier momento. Puede aparecer como un vendedor de frutas del mercado, como un camarero en la fiesta de disfraces del gobernador o como el contramaestre de un barco pirata en mitad del mar.
 
@@ -266,7 +266,7 @@ Arturo Gandía es jefe del puerto en La Habana desde hace muchos años. A base d
 
 Arturo es bastante laxo en el cumplimiento de su trabajo, por no decir que es fácilmente sobornable, por no decir corrupto. Pero es lo suficientemente listo para redistribuir los sobornos entre superiores y subordinados, de forma que todos están contentos y todos miran hacia otro lado.
 
-Permite, tras cobrar una buena mordida, introducir en La Habana todo tipo de productos e incluso puede conseguirte un buen comprador al que también le cobrará una "comisión". Todo ese dinero que gana lo gasta sin problemas en buenas ropas, buena comida y buena bebida para él y su familia.
+Permite, tras cobrar una buena mordida, introducir en La Habana todo tipo de productos e incluso puede conseguirte un buen comprador al que también le cobrará una «comisión». Todo ese dinero que gana lo gasta sin problemas en buenas ropas, buena comida y buena bebida para él y su familia.
 
 Últimamente se ha estado pasando bastante con el ron, pero todavía no está afectando a su vida profesional y familiar. Está a un par de jarras de grog de empezar a tener problema de alcoholismo.
 
@@ -323,7 +323,7 @@ Siempre lleva su mosquete personalizado y ocultas entre sus ropajes 2 pistolas d
 * **Atributos:** Agilidad d10, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Disparar d12, Idioma italiano d10, Idiomas d6 (Inglés, francés, castellano), Notar d10, Sigilo d10, Pelear d4, Persuadir d10, Supervivencia d10
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Desventajas:** Megalomania (Mayor), Enemigo (Menor, acreedores)
+* **Desventajas:** Megalomanía (Mayor), Enemigo (Menor, acreedores)
 * **Ventajas:** Arma distintiva mejorada (Mosquete), Muy atractivo, Puntería, Temple, Trasfondo Arcano (Hechicería primigenia)
 * **Equipo:**Mosquete (10/20/40, 2d8, Recarga 3) y 2 pistolas de chispa (5/10/20, 2d6+1, Recarga 3)
 
@@ -358,7 +358,7 @@ Michelle se puede convertir en un importante aliado y la mejor manera es proporc
     * **Biblioteca de los Mitos:** Tiene una buena biblioteca de los Mitos que le otorga un +2 a las tiradas de Mitos si puede consultarla.
     * **Hechizos:** 30 PP, Ritmo macabro, Lectura de aura, Don de Hypnos, Café especiado, Viaje astral, Toque del olvido, Geomancia e Incineración de Cthugha
 
-**Sugerencia de interpretación:** Michelle tiene que aparentar grandes poderes y es por ello que siempre es muy críptica en sus expresiones, invoca a deidades de nombres raros que muchas veces se inventa o murmura "fórmulas mágicas y maldiciones" entre dientes en momentos críticos.  
+**Sugerencia de interpretación:** Michelle tiene que aparentar grandes poderes y es por ello que siempre es muy críptica en sus expresiones, invoca a deidades de nombres raros que muchas veces se inventa o murmura «fórmulas mágicas y maldiciones» entre dientes en momentos críticos.  
 El terrible viaje en el barco negrero es una de las experiencias más traumática que ha afrontado y todavía tiene flashbacks horribles recordando detalles de ese viaje. No es difícil ver como de repente Michelle se queda en silencio y se le tuerce el gesto. Algunas veces hasta se le escapa algún grito o le corre alguna lágrima por las mejillas.
 
 ## Isadora de la Guía y Arango (comodín)
@@ -387,7 +387,7 @@ La cordura de Isadora es muy frágil, tantos libros de los Mitos leídos le han 
 
 Ifá llego a Kingston en la bodega abarrotada de un barco de esclavos desde Nigeria siendo muy joven. Fue comprada por Stan Muirhead para hacerla trabajar de mozo de almacén en su tienda. Según Stan ha ido cayendo en su alcoholismo, Ifá ha ido obteniendo más control del negocio. Aunque legalmente sigue siendo una esclava, tiene todo el control sobre el negocio de La Choza del Misterio.
 
-Ifá tiene una extraña afinidad con la tecnología. Es casi como si pudiera hablar con la tecnología. Simplemente concentrándose en el objeto tecnológico puede "hablar" con él y averiguar qué es, cómo funciona, qué necesita para funcionar o cómo repararla. Para su desgracia no es capaz de inventar nada, ya que le faltan conocimientos para implementar mejoras en los objetos.
+Ifá tiene una extraña afinidad con la tecnología. Es casi como si pudiera hablar con la tecnología. Simplemente concentrándose en el objeto tecnológico puede «hablar» con él y averiguar qué es, cómo funciona, qué necesita para funcionar o cómo repararla. Para su desgracia no es capaz de inventar nada, ya que le faltan conocimientos para implementar mejoras en los objetos.
 
 Ahora mismo se está dedicando en su tiempo libre a aprender de los artesanos locales, herreros, carpinteros, vidrieros, tintoreros, etc. tratando de mejorar sus conocimientos, pero necesitará una educación superior para explotar todo su potencial como ingeniera e inventora.
 
@@ -461,7 +461,7 @@ El cacique Corozo puede parecer un viejo chocho, pero a pesar de sus excéntrico
 
 ![Cacique Pando (comodín)](./images/pando.webp)
 
-El cacique Pando es un gran guerrero y un excelente jugador de batú. Nunca ha perdido ni un partido ni un combate y claramente no sabe perder. Para haber aprendido todos los secretos del batú del cacique Corozo, no aprendió todas las enseñanzas morales que este intento inculcarle.
+El cacique Pando es un gran guerrero y un magnífico jugador de batú. Nunca ha perdido ni un partido ni un combate y claramente no sabe perder. Para haber aprendido todos los secretos del batú del cacique Corozo, no aprendió todas las enseñanzas morales que este intento inculcarle.
 
 * **Atributos:** Agilidad d10, Astucia d8, Espíritu d8, Fuerza d10, Vigor d10
 * **Habilidades:** Atletismo d10, Disparar d6, Idioma materno d8, Idioma Criollo d6, Intimidar d8, Pelear d10, Provocar d8, Tácticas d10, Supervivencia d8
@@ -472,11 +472,11 @@ El cacique Pando es un gran guerrero y un excelente jugador de batú. Nunca ha p
     * **Entrenamiento batú:** Tiene un nivel más de Tácticas cuando participa en partidos de batú.
 * **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6). Protecciones de cuero (1)
 
-**Sugerencia de interpretación:** Eres el mejor fuera y dentro de la cancha de batú y se lo estás recordando a todos los que están a tu alrededor no solo de palabra sino de acto también. Te encanta degradar a tus adversarios, que sepan que no son nada ante tu grandeza.
+**Sugerencia de interpretación:** Eres el mejor fuera y dentro de la cancha de batú y se lo estás recordando a todos los que están a tu alrededor no solo de palabra, sino de acto también. Te encanta degradar a tus adversarios, que sepan que no son nada ante tu grandeza.
 
 ## Dupont (comodín)
 
-Dupont es un lengnita que regenta la Flor de Lis en Tortuga. En la meseta de Leng se llamaba [Theros](https://legadodetheros.com/ "El legado de Theros"), pero se buscó un nombre más normal para mezclarse con los humanos. Era un comerciante entre su gente, hasta que un día cansado de ser esclavo, huyo con una fortuna en rubís lunares. Se perdió en unas cuevas escapando de las bestias lunares que le perseguían y terminó apareciendo en un cenote de la jungla de Santo Domingo.
+Dupont es un lengnita que regenta la Flor de Lis en Tortuga. En la meseta de Leng se llamaba Xeros, pero se buscó un nombre más normal para mezclarse con los humanos. Era un comerciante entre su gente, hasta que un día cansado de ser esclavo, huyo con una fortuna en rubís lunares. Se perdió en unas cuevas escapando de las bestias lunares que le perseguían y terminó apareciendo en un cenote de la jungla de Santo Domingo.
 
 Pudo mezclarse entre los humanos cortándose los cuernos (los cuales lija todos los días) y escondiendo sus patas de cabra. Juega mucho con que su familia emigro de Francia y que es una especie de mestizo con descendencia europea, taína y africana. Con ello justifica sus extrañas facciones, su extraño tono de piel, sus tatuajes y su exceso de vello. La fortuna en piedras preciosas también ayudo mucho para pasar como humano.
 

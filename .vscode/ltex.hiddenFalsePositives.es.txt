@@ -6,3 +6,4 @@
 {"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QSi está quemado, hecho trozos o le faltan piezas, Ifá no podrá hacer nada.\\E$"}
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nMordisco:\\E$"}
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nTPC: 1d10\\E$"}
+{"rule":"CAYO","sentence":"^\\QCayo Hueso\\E$"}
