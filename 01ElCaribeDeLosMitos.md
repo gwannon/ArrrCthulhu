@@ -16,8 +16,7 @@ Unas pocas personas, casi todas piratas o con pasado pirata, conocen el terrible
 
 ![](./images/mapa.webp)
 
-La Orden del Gran Cthulhu
--------------------------
+## La Orden del Gran Cthulhu
 
 La Orden del Gran Cthulhu es tan vieja como la propia civilización humana, siempre escondida en las sombras con planes para liberar a su señor. La Orden ha tenido sus momentos de gracia o, como en el siglo XVII, ha sufrido grandes crisis, de las cuales siempre se ha levantado más fuerte, como en la actualidad.
 
@@ -173,9 +172,9 @@ La historia cuenta que Barbanegra y su gente consiguieron acabar con toda las fu
 
 Lo que realmente paso, es totalmente distinto. Mientras Maynard y Barbanegra se preparaban para la lucha final, un barco de velas negras y el casco de extraña forma se acercó por detrás a la flotilla de Maynard y empezó a dispararles con una especie de rayos eléctricos. Mientras, de las aguas, surgieron cientos de profundos que subieron a los barcos de Maynard y masacraron a sus tripulaciones.
 
-El navío negro se acercó al Aventura y un viejo caballero español paso al barco de Barbanegra para ofrecerle un trato. Era Hernando Villalba en persona, después de varios años encerrado en su casa, ofreciéndole un trato: Saldría vivo de allí si le servía fielmente o sus hombres y sus monstruos acabarían con todos ellos. Firmaron un acuerdo por el cual debía servirle 10 años y obedecer todas sus órdenes, a cambio le daría el barco negro, recursos ilimitados y grandes riquezas para retirarse cuando pasaran los 10 años.En inferioridad, Barbanegra tuvo que aceptar el trato.
+El navío negro se acercó al «Aventura» y un viejo caballero español paso al barco de Barbanegra para ofrecerle un trato. Era Hernando Villalba en persona, después de varios años encerrado en su casa, ofreciéndole un trato: Saldría vivo de allí si le servía fielmente o sus hombres y sus monstruos acabarían con todos ellos. Firmaron un acuerdo por el cual debía servirle 10 años y obedecer todas sus órdenes, a cambio le daría el barco negro, recursos ilimitados y grandes riquezas para retirarse cuando pasaran los 10 años. En inferioridad, Barbanegra tuvo que aceptar el trato.
 
-Para asegurarse de que cumple el pacto, Villalba le arrebató el corazón y se lo guardó, advertiéndole de que, si le desobedecía, podría matarlo cuando quisiera por muy lejos que estuviera. Villalba le entregó su barco, al que Barbanegra bautizó como Desgracia, y reemplazo sus bajas con sus propios marineros, casi todos híbridos o fanáticos cultistas.
+Para asegurarse de que cumple el pacto, Villalba le arrebató el corazón y se lo guardó, advirtiéndole de que, si le desobedecía, podría matarlo cuando quisiera por muy lejos que estuviera. Villalba le entregó su barco, al que Barbanegra bautizó como Desgracia, y reemplazo sus bajas con sus propios marineros, casi todos híbridos o fanáticos cultistas.
 
 #### Barbanegra hoy en día
 
@@ -195,8 +194,7 @@ Pero ahí no acaban sus problemas, una vez descubierta esta Atlántida primigeni
 
 La desesperación le está devorando y cada día es más arriesgado y salvaje en sus actos y has de saber que la locura y la desesperación llevan a consumar terribles e ignominiosos actos que van contra natura.
 
-La Hermandad del Sargazo
-------------------------
+## La Hermandad del Sargazo
 
 Si existe un Orden del Gran Cthulhu, tiene que existir su opuesto y esa es la Hermandad del Sargazo. Este pequeño grupo de personas de lo más dispares es la piedra en el zapato de la Orden. Su misión es destruir a la Orden frustrando sus planes y sacando a la luz todos sus deleznables actos.
 
@@ -239,7 +237,7 @@ La Hermandad es muy cuidadosa al buscar aspirantes, de hecho, Mary Read es su pr
 * **Mary Read.** Actual líder de la Hermandad.
 * **Antoine Delapore:** Editor en jefe y propietario de la Verdad de La Habana.
 * **Cesar:** Cesar está infiltrado como el lugarteniente de Barbanegra. Oficialmente, no es un enemigo de la Hermandad debido a que debe mantener su tapadera, pero, extraoficialmente, para Mary Read es un hermano de pleno derecho.
-* **Fray Tomás Linares del Castillo:** Fray Tomas es el rector de la Universidad de La Habana. Antes de tomar los hábitos fue un noble menor español que emigró a las Indias Occidentales en busca de fortuna. La vida lo llevo a acabar de corsario para la corona de España. Fue uno de los 10 capitanes piratas que creo la Hermandad. En mitad de un huracán tuvo una visión y tomo los hábitos, pero no abandono la Hermandad y mantiene su promesa. Es el principal contacto de la Hermandad con el estamento intelectual y educativo.
+* **Fray Tomás Linares del Castillo:** Fray Tomás es el rector de la Universidad de La Habana. Antes de tomar los hábitos fue un noble menor español que emigró a las Indias Occidentales en busca de fortuna. La vida lo llevo a acabar de corsario para la corona de España. Fue uno de los 10 capitanes piratas que creo la Hermandad. En mitad de un huracán tuvo una visión y tomo los hábitos, pero no abandono la Hermandad y mantiene su promesa. Es el principal contacto de la Hermandad con el estamento intelectual y educativo.
 * **Quien tú quieras:** Puede hacer hermano o hermana a quien tú quieras. No tienen ni que ser buenas personas, solo odiar a la RCPC o tener deudas pendientes con la Orden. También puedes ordenar a quien quieras durante tus sesiones.
 
 Como ya hablaremos más adelante, la Hermandad tiene una red pisos francos y cada piso está cuidado por alguien de la Hermandad. Aunque se les puede pedir favores como a cualquiera de la Hermandad, se considera que con cuidar del piso franco cumplen con sus obligaciones.
@@ -298,7 +296,7 @@ Su vida pirata empezó cuando el barco en el que viajaba Mary fue atacado y capt
 
 Durante varios años la formaron en los secretos de la Hermandad y los conocimientos de los Mitos y la entrenaron en lucha con espada y el combate naval. Ella por su cuenta trato de cultivarse en historia, literatura, etc. De hecho, esto le llevo a escribir para la VLH.
 
-En 1722 la Orden del Gran Cthulhu consiguió que el gobernador de Jamaica contratara a John Barnet, un caza piratas famoso, para que atrapara a Rackham/Bonny. Cosa que consiguió en Nigril en la punta oeste de Jamaica mientras estaban borrachos como cubas. Mary Read consiguió escapar con algunos tripulantes y robo un navío de combate en el puerto de Kingston, lanzándose en solitario a la piratería hasta el día de hoy.
+En 1722 la Orden del Gran Cthulhu consiguió que el gobernador de Jamaica contratara a John Barnet, un famoso cazapiratas, para que atrapara a Rackham/Bonny. Cosa que consiguió en Nigril en la punta oeste de Jamaica mientras estaban borrachos como cubas. Mary Read consiguió escapar con algunos tripulantes y robo un navío de combate en el puerto de Kingston, lanzándose en solitario a la piratería hasta el día de hoy.
 
 Tras la muerte de Anne Bonny y Jack Rackham, que lideraron la Hermandad hasta su muerte, Mary Read ocupó su lugar y se le convirtió en la persona más buscada del Caribe. La RCPC ha puesto precio a su cabeza de manera no oficial. Los mercenarios y asesinos a sueldo de todas las Antillas saben que la RCPC paga una fortuna por su cabeza.
 
@@ -318,8 +316,7 @@ Mary Read es el único activo importante de la Hermandad y, sin aliados poderoso
 
 El problema es que si la Hermandad no lo evita el mundo está avocado al desastre. Puede que tu mesa sean esas personas valientes y buenas que Read busca desesperadamente para evitar el Apocalipsis.
 
-Quisqueya, Boriquén, Jamaica y Cuba
------------------------------------
+## Quisqueya, Boriquén, Jamaica y Cuba
 
 Quisqueya (La Española, 'cosa grande') Boriquén (Puerto Rico, 'tierra nativa'), Jamaica ('espíritu de la tierra') y Cuba ('gran tierra fértil') son los nombres con los que los pobladores originales del Caribe, los taínos, llaman a las principales islas.
 
@@ -426,8 +423,7 @@ La hibridación ha ocurrido varias veces, sobre todo en comunidades a punto de d
 
 ![](./images/paises.webp)
 
-El Caribe español
------------------
+## El Caribe español
 
 España es la principal potencia en 1722 en el Caribe. Controla la mayoría de los territorios más importantes y ricos, Cuba, Santo Domingo y Puerto Rico. Por sus rutas comerciales y sus puertos pasan millones de doblones en materias primas, desde cacao, tabaco o azúcar, hasta plata y oro.
 
@@ -523,8 +519,7 @@ Ponce es una ciudad extraña, ya que los sucesos extraños y paranormales son no
 
 Puede que esto sea cierto o no, pero desde luego los avistamientos de la Llorona son más numerosas de lo normal y los habitantes de las plantaciones de los alrededores de Ponce hablan de gárgolas en los cielos nocturnos.
 
-El Caribe inglés
-----------------
+## El Caribe inglés
 
 Gran Bretaña es la segunda potencia en discordia en el Caribe, solo controla Jamaica, las Caimán y las Bahamas y parte de las Antillas Menores. Pero realmente las Caimán y las Bahamas son territorios muy pequeños y poco interesantes económicamente. De hecho, están tan poco controlados por su metrópolis que son casi autónomos y en ambos casos se han convertido en sitios seguros para corsarios ingleses y puertos medianamente seguros para piratas que no ataquen a intereses ingleses.
 
@@ -560,8 +555,7 @@ El terremoto y la decadencia posterior de la ciudad fue un plan magistral ejecut
 
 Hoy en día, mientras que Kingston es una moderna y vibrante ciudad, Port Royal solo es una sombra de lo que fue, una ciudad sucia, rota y triste donde vagan personas sucias, rotas y tristes.
 
-El Caribe francés
------------------
+## El Caribe francés
 
 Es la tercera fuerza extranjera en el Caribe. Posee menos territorio que los ingleses; Saint-Domingue, la parte oeste de la Española, y parte de las Antillas menores. Lleva mucho menos tiempo en el Caribe que el resto y el control de sus territorios es todavía escaso. En los territorios de las Antillas porque no son importantes y en Saint-Domingue porque solo lo controla desde 1697 con el tratado de Ryswick, por el cual España le cedía esos territorios.
 
@@ -571,21 +565,19 @@ La piratería es permitida en tierras francesas, debido a que principalmente ata
 
 La RCPC todavía no tiene interés en los territorios franceses. Las islas pequeñas no tienen ningún valor y Saint-Domingue todavía es demasiado salvaje para que valga la pena perder tiempo y recursos. Como mucho podría interesarle comprar alguna isla, pero ahora mismo tiene más interés en las islas controladas por Dinamarca que ofrecen un carácter más neutral dentro de los conflictos políticos del Caribe.
 
-El Caribe danés
----------------
+## El Caribe danés
 
 La Compañía danesa de las Indias Occidentales y Guinea tiene el control de 2 pequeñas islas de las Antillas Menores, San Juan y Santo Tomas. Su economía está totalmente basada en la esclavitud. La compañía danesa intercambia armas y otros productos industriales en África a cambio de esclavos, que son trasladados al Caribe para trabajar en las plantaciones danesas o ser vendidos en las islas vecinas.
 
 Lo más interesante es que la RCPC está negociando la compra con la compañía danesa y por extensión de las islas. Si lo consigue, las islas y las gentes que en ellas viven serán de su "propiedad". La idea es mover toda su flota y todos sus instalaciones secretas a las colonias danesas para evitar los problemas que genera tener que ocultar sus actividades constantemente. En la colonia danesa podrían hacer lo que quisieran, ya que serían los gobernantes de las islas.
 
-La compañía danesa no quiere ser comprada, puesto que el tráfico de esclavos supone un buen negocio y grandes beneficios y, por otro lado, la corona danesa obtiene cierto prestigio (y buenos impuestos) dentro de las monarquías noreuropeas. La oferta de Hernando de Villalba es muy suculenta y los propietarios de la compañía danesa llevan meses pensándosela. Aunque no quieren vender, han oído cosas terribles de Hernando de Villalba y la RCPC y tampoco quieren enfrentarse e él.
+La compañía danesa no quiere ser comprada, puesto que el tráfico de esclavos supone un buen negocio y grandes beneficios y, por otro lado, la corona danesa obtiene cierto prestigio (y buenos impuestos) dentro de las monarquías noreuropeas. La oferta de Hernando de Villalba es muy suculenta y los propietarios de la compañía danesa llevan meses pensándosela. Aunque no quieren vender, han oído cosas terribles de Hernando de Villalba y la RCPC y tampoco quieren enfrentarse a él.
 
 Si la compañía danesa al final se niega a vender, tiene decidido liderar una revuelta de esclavos y poner a algún títere en el gobierno. Es más barato, pero mucho menos inestable. De hecho, cultistas de la Orden del gran Cthulhu ya están infiltrándose en los diferentes estratos sociales de Santo Tomas y San Juan. En cuanto la RCPC quiera una revolución estallará en la colonia danesa.
 
 Si habéis jugado grandes campañas de juegos basados en Cthulhu tipo Las Máscaras de Nyarlathotep habréis podido comprobar que los malos son siempre como males de Bond, teniendo sus propias islas secretas donde hacer sus terribles experimentos y sus oscuros rituales lejos de los ojos indiscretos. Hernando de Villalba no va a ser menos y no quiere una isla, quiere dos.
 
-Relaciones entre las potencias colonizadoras
---------------------------------------------
+## Relaciones entre las potencias colonizadoras
 
 Las relaciones entre las potencias colonizadoras en el Caribe son un reflejo de su situación en el viejo continente. Los aliados en Europa son aliados en el Caribe y los enemigos en Europa son enemigos en el Caribe.
 
@@ -595,8 +587,7 @@ Francia y Gran Bretaña viven en un pacto de no agresión en Europa que se extie
 
 Lo que ninguna de estas potencias ha tenido en cuenta es el poder que puede desplegar la RCPC, que cuenta con una poderosa flota de barcos, un ejército de guardias y mercenarios y formidables recursos económicos. La RCPC podría enfrentarse y expulsar a cualquier potencia colonizadora del Caribe. Y solo las tres 3 juntas podrían derrotar a la RCPC y los recursos mágicos y monstruosos que puede aportarle la Orden del Cthulhu.
 
-Islas Piratas
--------------
+## Islas Piratas
 
 Durante la Edad de Oro de la Piratería, aparecieron y desaparecieron muchos refugios piratas. Eran regiones del Caribe, casi siempre islas, lejos de la civilización europea, donde sus leyes no tenían vigencia. Estos lugares tenían su propia filosofía de vida y sus propias leyes, muchas veces más libres y avanzadas que las civilizadas.
 
@@ -646,8 +637,7 @@ Por último, como los cayos de Florida y Bahamas y por su pasado y presente pira
 
 ![Cthulhu y R'lyeh](./images/templo-cthulhu.webp)
 
-Cthulhu y R'lyeh
-----------------
+## Cthulhu y R'lyeh
 
 La trama principal de esta ambientación gira en torno al surgimiento de R'lyeh de entre las aguas y al despertar del gran Cthulhu. El gran enemigo a batir es la Orden del Gran Cthulhu y su mano pública, la RCPC, cuyo objetivo es despertar a su señor Cthulhu. El objetivo de tu mesa es evitar que Cthulhu despierte de su sueño de eones y traiga el apocalipsis al mundo del siglo XVIII.
 
@@ -685,8 +675,7 @@ Los clásicos de casas encantadas, seres aullantes en los bosques y pueblos perd
 
 Por último, estando en un ambiente cercano a tierras de mayas y aztecas, puedes meter cultos afines a la serpigente que adoren a Yig y Tsathoggua que busquen restaurar el continente perdido de Mu.
 
-Los profundos del Caribe
-------------------------
+## Los profundos del Caribe
 
 No te vamos a mentir, esta es una ambientación acuática y como es normal hay profundos, muchos profundos. Los fondos oceánicos y los arrecifes del Caribe están llenos de asentamientos acuáticos de profundos y los héroes deberán enfrentarse a ellos muchas veces.
 
@@ -760,8 +749,7 @@ Puedes hacer que los personajes tengan que huir de una localización y no volver
 
 Por último, como se pueden hibridar con humanos, también podrás usarlos como marineros de barcos de la RCPC al servicio de sus oscuros objetivos, como espías en las tabernas de los puertos, etc. Las opciones son muchas.
 
-Esclavitud y trabajos forzados
-------------------------------
+## Esclavitud y trabajos forzados
 
 En 1722 la esclavitud y los trabajos forzados son algo real en el Caribe. Normalmente, no es un tema que se tenga en cuenta en las ambientaciones piratas, sobre todo si son muy fantásticas. En ¡Arrr! Cthulhu la esclavitud y los trabajos forzados son una realidad y pueden ser el leitmotiv de alguna aventura o campaña.
 
@@ -811,8 +799,7 @@ Cimarrón es un término que se usa en el Caribe para definir al esclavo huido q
 
 Es curioso que con el paso del tiempo se han ido creando comunidades de cimarrones llamadas palenques. Estas comunidades más o menos organizadas tienen servicios mínimos como pozos de agua o cuevas donde guarecerse. Algunas, incluso, llegan a tener alcaldes elegidos entre la comunidad. Estos palenques nacen de la necesidad de los cimarrones de protegerse y cuidarse entre sí frente a enemigos externos o los peligros de la selva.
 
-Religiones
-----------
+## Religiones
 
 Hay 3 grandes grupos de creencias religiosas actualmente en la zona del caribe, una de los habitantes originarios del caribe, los taínos, otras dos de origen exterior, África y Europa. Lo más curioso es que todas estas creencias en muchos casos lucharon por imponerse unas a otras. Por ejemplo, las misiones religiosas de los católicos españoles que buscaban convertir a los "paganos" taínos. Sin embargo, en otros sitios se fusionaron (por necesidad en muchos casos) creando, por ejemplo, la santería que fusionaba las creencias de los espíritus animistas de los esclavos africanos con los santos católicos.
 
@@ -840,8 +827,7 @@ Lo más importante del cristianismo en el Caribe es que, como casi todo aquí, s
 
 También cabe destacar que el Caribe se ha convertido en el lugar a donde mandar a los clérigos problemáticos, tanto por sus ideas avanzadas como por sus deleznables y delictivas costumbres. Los casos de pederastia cuya pena era la ejecución pública eran escondidos en el Caribe. La Orden ha conseguido gran cantidad de adeptos entre estos clérigos degenerados.
 
-Archivos, bibliotecas y universidades
--------------------------------------
+## Archivos, bibliotecas y universidades
 
 Aunque estemos en el Caribe en 1722 rodeados de salvajes piratas, oscuras junglas llenas de misterios y terribles monstruos acechando desde las profundidades marinas, este juego también tiene una importante parte de investigación y que sería de la investigación sin sus archivos y bibliotecas, sin sus registros de entradas y salidas del puerto o sin sus actas de nacimientos y defunciones de las pequeñas parroquias en perdidos pueblos del interior.
 

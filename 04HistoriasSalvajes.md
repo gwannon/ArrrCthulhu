@@ -1,7 +1,6 @@
 # Historias salvajes
 
-El tesoro hundido
------------------
+## El tesoro hundido
 
 El tesoro hundido es una campaña en la que tu mesa deberá evitar la ascensión de R'lyeh de los oscuros fondos oceánicos del mar Caribe, enfrentándose a un poderoso culto de adoradores de Cthulhu.
 
@@ -904,8 +903,7 @@ Si pierden la batalla y sobreviven, la situación será desesperada. Villalba em
 
 **Recuerda, un final solo es el principio de otra historia ...**
 
-El secreto tatuado
-------------------
+## El secreto tatuado
 
 El secreto tatuado en la espalda de los tres hermanos García es un mapa mágico que puede llevar a un tesoro. Alguien ha decidido buscar ese tesoro y primero necesita juntar todas las partes del mapa. No importa si tiene que sacarles la piel tatuada a tiras.
 
@@ -1146,8 +1144,7 @@ Callejuelas estrechas de La Habana
 
 Parque público
 
-Otras historias salvajes
-------------------------
+## Otras historias salvajes
 
 En sus andanzas por el Caribe combatiendo a la Orden del Gran Cthulhu, tu mesa puede correr otras aventuras. Aquí tienes algunas de ellas donde podrás explorar templos perdidos, buscar tesoros hundidos o hacer sus pinitos en el mundo del teatro.
 

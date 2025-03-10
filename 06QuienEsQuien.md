@@ -33,7 +33,7 @@ Mary es una diestra luchadora, tienes estudios y cultura, de hecho, escribe para
 
 ![Edward Teach alias Barbanegra (comodín)](./images/barbanegra.webp)
 
-La leyenda de Edward Teach es de sobras conocida, sanguinario, temible y osado. Pero hoy en día no es más que el perro faldero de la Orden. La libertad de la que tanto se jactaba hace solo unos años ya no existe, solo puede obedecer y agachar la cabeza.
+La leyenda de Edward Teach es de sobra conocida, sanguinario, temible y osado. Pero hoy en día no es más que el perro faldero de la Orden. La libertad de la que tanto se jactaba hace solo unos años ya no existe, solo puede obedecer y agachar la cabeza.
 
 La Orden tiene su corazón y si les desafía o les desobedece morirá de la forma más horrible. Si alguien le ofrece una vía de escape seguro que para de pelear y estará encantado de escuchar.
 
@@ -50,8 +50,7 @@ La Orden tiene su corazón y si les desafía o les desobedece morirá de la form
 
 **Sugerencia de interpretación:** Eres Edward Teach alias Barbanegra, la leyenda pirata, el terror de los mares del Caribe. Nada ni nadie puede detenerte, ni la muerte, y ahora cuentas con poderosos aliados de otras dimensiones. La arrogancia no es tal si respaldas tus palabras con hechos. Eres el mejor y punto. Si algo se interpone en tu camino, lo eliminas. Que digo lo eliminas, lo destruyes y lo destierras alguna dimensión perdida en el tiempo y el espacio.
 
-Hernando de Villalba (comodín)
-------------------------------
+## Hernando de Villalba (comodín)
 
 Hernando de Villalba es la gran némesis de ¡Arrr! Cthulhu. Tremendamente poderoso a nivel personal y mágico y tremendamente poderoso a nivel político y social. Hace y deshace a su gusto en el Caribe controlado por los españoles y su inmensa fortuna y las almas que puede comprar con ella le permiten tener mucha influencia en la política de Jamaica y Saint-Domingue.
 
@@ -76,8 +75,7 @@ Hernando de Villalba tiene más de 100 años y solo aparenta tener unos 60 años
 
 **Sugerencia de interpretación:** Eres un ser causidivino que lleva más de un siglo entre los simples mortales y si tus planes se cumplen, te convertirás en un dios viviente, así que es normal que consideres como hormigas a todos los que te rodean. Sus vidas son insignificantes para ti, meras herramientas, y no hay problemas en acabar con las vidas de los que te sirven, si sirve a tu causa. Si alto te irrita es que algo no salga como quieres y, en ese caso, alguien tiene que pagarlo.
 
-César (comodín)
----------------
+## César (comodín)
 
 Cesar es el lugarteniente de Barbanegra y a la vez el mejor recurso de la Hermandad del Sargazo. César lleva desde que fue reclutado por Barbanegra en los Cayos de Florida, siendo un espía para la Hermandad.
 
@@ -105,8 +103,7 @@ Si bien empezó para devolver la deuda de vida que tenía con la Hermandad, las 
 
 **Sugerencia de interpretación:** Eres muy tranquilo, callado y observador. Lo tuyo es quedarte detrás de Barbanegra mientras hace su numerito y ver como reacciona la gente. Luego te acercas y le cuentas lo que has visto. No eres de grandes discursos, sino de charlas privadas tanto para animar como para intimidar a tus camaradas o tus rivales.
 
-Hermanos García
----------------
+## Hermanos García
 
 La familia García es una rica poderosa familia de armadores de Santo Domingo. Se dedican a flotar barcos comerciales, principalmente para la RCPC. Su padre Eusebio les lego una gran fortuna y un gran poder. Los secretos familiares están saliendo a la luz y parece que tendrán consecuencias para todos los hermanos García.
 
@@ -165,8 +162,7 @@ María Isabel es una gran combatiente, diestra, fuerte, rápida y resistente. Co
 
 **Sugerencia de interpretación:** No pillas ni las ironías, ni lo dobles sentidos, ni nada por el estilo. Eres bastante literal interpretando los comentarios de la gente de tu alrededor.
 
-Avatares
---------
+## Avatares
 
 ### Avatares de Nyarlathotep
 
@@ -243,8 +239,7 @@ Normalmente, se aparece como una mujer muy demacrada y pálida, con ropajes blan
 
 **Sugerencia de interpretación:** Llora por tus hijos muertos.
 
-Johanna Ribeiro (comodín)
--------------------------
+## Johanna Ribeiro (comodín)
 
 ![Johanna Ribeiro](./images/johanna.webp)
 
@@ -263,8 +258,7 @@ Su última obra la tiene obsesionada y según cuenta se la susurra en sueños un
 
 **Sugerencia de interpretación:** Johanna es una apasionada de su arte y lo vive siempre al extremo. Cuando prepara una obra, solo existe esa obra. Buscando inspiración para nuevas obras, no para de hacer preguntas a todo el mundo sobre su vida y aventuras hasta ser muy entrometida e impertinente.
 
-Maestre Arturo Gandía (comodín)
--------------------------------
+## Maestre Arturo Gandía (comodín)
 
 ![Maestre Arturo Gandía](./images/gandia.webp)
 
@@ -285,8 +279,7 @@ Permite, tras cobrar una buena mordida, introducir en La Habana todo tipo de pro
 
 **Sugerencia de interpretación:** Seguramente vayas un poco achispado si estás fuera del trabajo. Si estás trabajando no dejarás de lanzar indirectas sobre que por una pequeña propina alguno de los problemas que presenta tu barco y su mercancía podrían obviarse. Si alguien te amenaza de alguna manera, tratas de intimidarle con los contactos que tienes entre los altos cargos.
 
-Antoine Delapore (comodín)
---------------------------
+## Antoine Delapore (comodín)
 
 Antoine nació en París hace más de 60 años. Su familia tenía una imprenta y aprendió el oficio, pero él quería ser el que escribía las noticias, no solo el que la imprimía, así que empezó a enviar noticias y reportajes a diferentes periódicos franceses con más o menos éxito. Pronto se metió en problemas con los poderes establecidos y tuvo que escapar de París.
 
@@ -302,8 +295,7 @@ No es fácil de amedrentar, ha sufrido amenazas, ha sobrevivido a intentos de as
 
 **Sugerencia de interpretación:** Eres un viejo periodista y tu olfato para las noticias está superafinado y en cuanto hueles una exclusiva eres como un sabueso que no suelta su presa. Siempre estás preguntando, siempre estás indagando en busca la próxima portada.
 
-Ernesto Delapore (comodín)
---------------------------
+## Ernesto Delapore (comodín)
 
 Ernesto Delapore es el sobrino de Antoine Delapore. La imprenta de sus padres quebró en París y emigro a La Habana con su tío. Lleva entre papel, tinta e imprentas desde pequeño y sabe como llevar una imprenta. Es mucho más práctico y mundano que su tío, no tiene los ideales de su tío. Solo quiere dinero para vivir bien e ir de fiesta.
 
@@ -320,8 +312,7 @@ A la hora de la verdad veremos si ganan los principios de su tío o el dinero de
 
 **Sugerencia de interpretación:** Ernesto es un fiestero, pero sobre todo un feriante, un embaucador, un trilero. No deja de adularte con elogios, a veces incluso exagerados, pero muy acertados, hasta que te ve maduro y te lanza el sablazo pidiéndote dinero o que le hagas un favor que nunca te va a devolver.
 
-Fabio Castelli (comodín)
-------------------------
+## Fabio Castelli (comodín)
 
 Fabio Castelli es un aventurero veneciano con muy escasa moral y ética. Se dedica a cazar críptidos de todo Europa y Norte de África y venderlos al mejor postor a espectáculos circenses, paradas de monstruos o colecciones privadas. Para él, estos seres son solo meros animales que le permiten conseguir buenas sumas de dinero. No le importa ni su seguridad, ni su salud y bienestar, ni su supervivencia como especie.
 
@@ -338,8 +329,7 @@ Siempre lleva su mosquete personalizado y ocultas entre sus ropajes 2 pistolas d
 
 **Sugerencia de interpretación:** Eres una de las personas más egocéntricas que existe, solo hablas de ti mismo e incluso interrumpes las conversaciones de otros para hablar de ti. Reconduces las conversaciones para poder meter tus anécdotas de caza que contienen tremendas exageraciones. Piensa en Gastón de la Bella y la Bestia y ese es Fabio. También eres italiano, así que déjate llevar por los estereotipos y gesticula mucho.
 
-Michelle LeCourt (comodín)
---------------------------
+## Michelle LeCourt (comodín)
 
 Ayodale fue secuestrada en Nigeria junto a su familia y todo su poblado por esclavistas ingleses cuando tenía 16 años. Tras dos meses de travesía en un barco negrero, llego a Kingston donde fue vendida. La familia y los amigos que sobrevivieron al viaje, los perdió cuando la compro una rica dama inglesa como parte de su séquito.
 
@@ -371,8 +361,7 @@ Michelle se puede convertir en un importante aliado y la mejor manera es proporc
 **Sugerencia de interpretación:** Michelle tiene que aparentar grandes poderes y es por ello que siempre es muy críptica en sus expresiones, invoca a deidades de nombres raros que muchas veces se inventa o murmura "fórmulas mágicas y maldiciones" entre dientes en momentos críticos.  
 El terrible viaje en el barco negrero es una de las experiencias más traumática que ha afrontado y todavía tiene flashbacks horribles recordando detalles de ese viaje. No es difícil ver como de repente Michelle se queda en silencio y se le tuerce el gesto. Algunas veces hasta se le escapa algún grito o le corre alguna lágrima por las mejillas.
 
-Isadora de la Guía y Arango (comodín)
--------------------------------------
+## Isadora de la Guía y Arango (comodín)
 
 ![Isadora de la Guía y Arango](./images/isadora.webp)
 
@@ -392,8 +381,7 @@ La cordura de Isadora es muy frágil, tantos libros de los Mitos leídos le han 
 
 **Sugerencia de interpretación:** Isadora es alegre, amable y tremendamente simpática, igual un poco marisabidilla, pero sin ser molesta. Se desvivirá por ayudar a los jugadores en lo que pueda, principalmente, siendo la mayor experta de los Mitos a la que consultar todas sus dudas. Sin embargo, su psique rota aflora a veces con tics, cambios de humor inesperados o extrañas salidas de tono, pero rápidamente volverá a su agradable normalidad.
 
-Ifá (comodín)
--------------
+## Ifá (comodín)
 
 ![Ifá (comodín)](./images/ifa.webp)
 
@@ -416,8 +404,7 @@ _**Sugerencia de beni:** Si alguien apoya económicamente a Ifá para que pueda 
 
 _**Recompensa extra de cordura (+1):** Si alguien decide becar a Ifá posibilitándole tener unos estudios universitarios, recompénsale con un punto de cordura. Alguien con un valor alto en Ciencias puede llevársela de aprendiza. Si se preocupa por su educación y su seguridad, también puedes otórgale un punto de cordura, además, de obtener una valiosa Aliada. Otras soluciones interesantes pueden ser convencer a Isadora de la Guía para que lo tenga de ayudante en su librería. A Isadora le ayudaría con sus problemas mentales e Ifá tendría una fuente inagotable de conocimientos entre las estanterías de libros. No debéis olvidar que sigue siendo una esclava cosa que complicará todo lo anterior._
 
-George Jansen (comodín)
------------------------
+## George Jansen (comodín)
 
 El Doctor George Jansen es un joven catedrático de la recientemente creada Universidad de Miskatonic. Es profesor de Historia Natural. Está ahora mismo de expedición científica (pagada por su asquerosamente rica familia) por el Caribe tratando de buscar pruebas de su nueva teoría sobre la transformación de las especies a través de las eras.
 
@@ -429,8 +416,7 @@ Daga* **Desventajas:** Megalomanía (mayor), Escéptico (menor)
 
 **Sugerencia de interpretación:** Eres tremendamente snob, cualquiera que no tenga una educación superior es inferior a ti y es por ello que lo tratas como tal. No admites consejo ni favores de este tipo de gente, ya que los estarías igualando a ti. Es por ello que lo solucionas todo pagando. Con dinero son tus siervos y no tienes que ponerte a su nivel.
 
-Adolfé (comodín)
-----------------
+## Adolfé (comodín)
 
 ![Adolfé (comodín)](./images/adolfe.webp)
 
@@ -455,8 +441,7 @@ La cultura serpigente está muy basada en la fuerza, la guerra y la ciencia y su
 
 **Adolfé despertado:** En su versión despertada como avatar de Yig, Adolfé tiene acceso a todos los poderes permitidos en esta ambientación. Cada turno de combate recupera d12 PP. Como contrapartida, todos los hechizos que lance vendrán con la modificación de Horror sin coste extra de PP. Esto se dará incluso si se lanzan hechizos que no pueden tener este modificador. Por ejemplo, si intenta curar a un compañero, la experiencia será terrorífica, con gusanos saliendo de sus heridas y cerrándolas, todo ello entre terribles dolores. Eso supondrá que todos los objetivos y los que vean los efectos del poder tendrán que tirar cordura.
 
-Cacique Corozo (comodín)
-------------------------
+## Cacique Corozo (comodín)
 
 El cacique Corozo puede parecer un viejo chocho, pero a pesar de sus excéntricos métodos de entrenamiento, no da puntada sin hilo y todo lo que hace está tremendamente pensado. Por la amistad entre Corozo y el padre de Pando, Corozo entreno a Pando en las sutilezas del batú y trato de infundirle los valores morales que cree que un líder debe tener. Lo que no esperaba era la arrogancia del joven que terminó rebelándose y tratando de acabar con su comunidad.
 
@@ -472,8 +457,7 @@ El cacique Corozo puede parecer un viejo chocho, pero a pesar de sus excéntrico
 
 **Sugerencia de interpretación:** Todo en ti es excéntrico, tus enseñanzas son raras, tus técnicas de juego son sorprendentes y tus entrenamientos son estrafalarios, pero todo junto funcionan muy bien. Puedes convertir a patanes en excelentes jugadores de batú. También te gusta provocar a la gente, desequilibrar a tus adversarios con tus bromas y tus zascas y que pierdan la concentración en el juego.
 
-Cacique Pando (comodín)
------------------------
+## Cacique Pando (comodín)
 
 ![Cacique Pando (comodín)](./images/pando.webp)
 
@@ -490,8 +474,7 @@ El cacique Pando es un gran guerrero y un excelente jugador de batú. Nunca ha p
 
 **Sugerencia de interpretación:** Eres el mejor fuera y dentro de la cancha de batú y se lo estás recordando a todos los que están a tu alrededor no solo de palabra sino de acto también. Te encanta degradar a tus adversarios, que sepan que no son nada ante tu grandeza.
 
-Dupont (comodín)
-----------------
+## Dupont (comodín)
 
 Dupont es un lengnita que regenta la Flor de Lis en Tortuga. En la meseta de Leng se llamaba [Theros](https://legadodetheros.com/ "El legado de Theros"), pero se buscó un nombre más normal para mezclarse con los humanos. Era un comerciante entre su gente, hasta que un día cansado de ser esclavo, huyo con una fortuna en rubís lunares. Se perdió en unas cuevas escapando de las bestias lunares que le perseguían y terminó apareciendo en un cenote de la jungla de Santo Domingo.
 
@@ -510,8 +493,7 @@ Es pansexual y está obsesionado con el sexo. De hecho, suele participar en toda
 
 **Sugerencia de interpretación:** No puedes parar de flirtear, es tu naturaleza. Buscas al más atractivo del grupo y le agobias con tus halagos, insinuaciones y dobles sentidos. Si te sigue el juego pierdes interés. Pero si se ruboriza o escandalizada te atrae mucho más y redoblas tus esfuerzos. Digamos que son tus instintos cazadores los que te dominan en cierta manera.
 
-Onofre de las Torres/Balua'k (comodín)
---------------------------------------
+## Onofre de las Torres/Balua'k (comodín)
 
 Balua'k es un yithiano perdido en el tiempo. Debido a guerra de su pueblo con los pólipos volantes, se ha visto encerrado en el cuerpo de un humano en el 1722 en el Caribe. Está convencido que está solo, así que está buscando una forma de viajar en el tiempo y volver con sus congéneres.
 
@@ -528,8 +510,7 @@ Balua'k ha ido con el tiempo creándose un equipo de supervivencia para viajes t
 
 **Sugerencia de interpretación:** Eres tremendamente pausado y tranquilo, a veces exasperantemente tranquilo. Pero claro, pertenecer a una raza milenaria que controla el viaje en el tiempo y que ha sobrevivido a una extinción ocupando el cuerpo de crustáceos y Además, estar perdido en el tiempo en el cuerpo de un humano sin posibilidad de volver te da una perspectiva única de la vida. Lo que peor llevas es hablar, te parece una forma muy burda de comunicarse tras haber usado toda la vida la telepatía. Te gusta tener todo anotado, apuntado y registrado, manía adquirida como viajero del tiempo que debe tomar nota de todo lo que suceda a su alrededor.
 
-Aurora y Flora Esteban (comodín)
---------------------------------
+## Aurora y Flora Esteban (comodín)
 
 Aurora y Flora son un ejemplo perfecto de jóvenes de la alta sociedad de la época. Recibieron una educación clásica para señoritas, literatura, historia, música, etc. y han ido afilando sus dotes sociales en fiestas y reuniones sociales. Saben moverse en sociedad, saben las reglas no escritas y cómo usarlas en su favor. El fracaso de su padre con la flota de la plata supusieron un grave revés en sus aspiraciones sociales, pero van a luchar por volver al lugar que las correspondes.
 

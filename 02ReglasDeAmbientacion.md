@@ -29,8 +29,7 @@ Aquí tienes algunos conceptos sobre los que construir tu PJ.
 * **Paria:** Hay algo en ti que no encaja con los demás y estás cansado de esconder tus diferencias o de pelearte por ellas. Quizás el Caribe es el lugar donde esas diferencias no importen o donde puedas conseguir que no importen.
 * **Triunfal:** El éxito y la fortuna han sido tus compañeros desde que naciste, pero nunca es suficiente, siempre necesitas más. El Caribe es ese lugar donde puedes explotar tu potencial al máximo y conseguir el triunfo definitivo.
 
-Nuevas habilidades
-------------------
+## Nuevas habilidades
 
 En ¡Arrr! Cthulhu puedes hacer uso de todas las habilidades básicas de SWEA a excepción de habilidades temporalmente ilógicas como Conducir, Electrónica y Ordenadores, ya que no hay vehículos autopropulsados, equipos eléctricos u ordenadores.
 
@@ -76,8 +75,7 @@ El naacal es el idioma que habla la serpigente. Era el idioma que se hablaba en 
 
 ![Nuevas desventajas](./images/maradentro.webp)
 
-Nuevas desventajas
-------------------
+## Nuevas desventajas
 
 La mayoría de las desventajas que hay en esta ambientación están relacionadas con la locura y el horror. Pueden ser bastante limitantes, así que ve con cuidado a la hora de escogerlas y trata consensuarlas con tu director de juego. Con una sola persona sentada a la mesa con "La llamada de Cthulhu" es más que suficiente.
 
@@ -239,8 +237,7 @@ Esta ventaja supone que empiezas con un barco de tu propiedad. Puede ser una nav
 
 ![Benis](./images/pantano.webp)
 
-Benis
------
+## Benis
 
 Hay nuevos usos para los benis en tres apartados muy importantes de este juego, la magia, la cordura y la navegación. Debes hacer comprender a tu mesa que estos usos normalmente deben ser reservados para momentos épicos, cuando la situación es a vida o muerte y sobre todo "queda bien" en la historia.
 
@@ -248,8 +245,7 @@ Hay nuevos usos para los benis en tres apartados muy importantes de este juego, 
 * Gastando todos tus benis (mínimo 1) puedes hacer un golpe de timón en tus viajes por mar y negar un resultado en la tirada de encuentros en el mar. Se acerca una tormenta y antes de verse rodeada por ella, el piloto del barco hace girar el timón 180º y busca una ruta alternativa.
 * Como se ve más adelante, se pueden gastar benis para que los trastornos mentales no sean permanentes.
 
-Equipo
-------
+## Equipo
 
 Durante la creación de tu personaje solo tendrás acceso al equipo normal de una persona del siglo XVIII. Eso quiere decir que no tendrá acceso a material con componentes electrónicos, motores de combustión, óptica de precisión, ... La máquina de vapor se está estudiando y los telares mecánicos no se inventarán hasta dentro de unos 10 años.
 
@@ -423,8 +419,7 @@ Puedes encontrarte guardas con partes de armadura como peto o casco, pero segura
 
 ![](./images/navios.webp)
 
-Embarcaciones
--------------
+## Embarcaciones
 
 Qué sería de una ambientación pirata sin barcos, que muchas veces casi son personajes propios con su propia personalidad y forma de ser. El tema de las embarcaciones vamos a tratarlo de forma genérica creando 5 tipos de naves:
 
@@ -853,8 +848,7 @@ Armamento
 
 NOTA: esta parte de la ambientación referente a las modificaciones extrañas puede ser muy exagerada y romper el juego. Siéntete libre de olvidarte de ella si crees que no encaja con tu juego. También puedes reservarla para momentos muy especiales y dejar estas modificaciones, por ejemplo, solo en el barco de Barbanegra.
 
-Embarcaciones avanzadas
------------------------
+## Embarcaciones avanzadas
 
 Ya hemos hablado antes de que por comodidad hay 5 tipos de barcos, pero está claro que habiendo modificaciones extrañas e incluso monstruosas, Barbanegra no iba a navegar en un simple navío de guerra. El Desgracia es una nave con una terrible cabeza de demonio como mascarón de proa y un casco bulboso lleno de burbujas parecidas a ojos y tentáculos por toda su estructura. Aquí tienes algunos navíos ya preconfigurados para diferentes tareas. Como en el punto anterior, tómalos como base para los barcos de las némesis en tus aventuras.
 
@@ -929,8 +923,7 @@ Así rebautizo Mary Read al barco que robo del puerto de Kingston tras escapar d
 
 ![Horror y cordura](./images/horror-cordura.webp)
 
-Horror y cordura
-----------------
+## Horror y cordura
 
 El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo personaje tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJ al servicio del DJ.
 
@@ -1215,8 +1208,7 @@ Queda a discreción del DJ que le pasa al secuaz/aliado después de perder su pu
 
 ![Hechicería primigenia](./images/hechiceria.webp)
 
-Hechicería primigenia
----------------------
+## Hechicería primigenia
 
 La magia es una parte fundamental de ¡Arrr! Cthulhu, tan fundamental como en los relatos de los Mitos y como en estos, tiene una mezcla de magia ritual y de ciencia extraterrestre y futurista. Pero no se nos debe olvidar que tiene que ser oscura y maligna. Es por ello que es una magia que tira más de perversiones, acechadores en las sombras, velas y cálices y rituales con sacrificios que de auras de luz, bolas de fuego, rayos eléctricos y bendiciones. Si revisitas los relatos de Lovecraft verás que no hay magos con cayados en mano lanzando rayos fuego, sino de siniestros hechiceros que lanzan maldiciones y sombras asesinas a sus enemigos desde sus círculos de invocación.
 
@@ -2683,8 +2675,7 @@ Si un lector destina medio día a ojear un libro y pasa una tirada del Idioma en
 
 ![Combate naval](./images/embarcaciones.webp)
 
-Combate naval
--------------
+## Combate naval
 
 Si bien las reglas de persecuciones en vehículos de SWEA cubren los combates navales, estas son algunas reglas extras que puedes aplicar a tus combates navales para darles un toque lovecraftiano.
 
@@ -2710,8 +2701,7 @@ Los grandes monstruos acuáticos pueden ser abordados como si fueran un barco, s
 
 ![](./images/comercio.webp)
 
-Comercio
---------
+## Comercio
 
 Durante sus viajes por las Antillas, tu mesa puede dedicarse a comerciar productos por todo el Caribe, comprando en un puerto barato y vendiendo en otro caro o queriendo deshacerse de su botín pirata.
 
@@ -2859,8 +2849,7 @@ NOTA: Si a tu mesa le encanta todo este mini juego de comercio, disfrutadlo. Si 
 
 ![](./images/botin.webp)
 
-Botín y tesoro
---------------
+## Botín y tesoro
 
 Todos sabemos que lo que mueve a los piratas es saquear barcos, conseguir un buen botín para gastarlo en una taberna del puerto o enterrarlo en una isla desierta. Y estaba claro que en este juego íbamos a tener una buena tabla de tesoro con tintes lovecraftianos.
 
@@ -3559,8 +3548,7 @@ Si alguien consigue averiguar quién es el maldito, seguramente se formará una 
 
 ![](./images/encuentros.webp)
 
-Viajes y encuentros
--------------------
+## Viajes y encuentros
 
 En esta sección encontrarás todo lo necesario para darle un poco de vida a los viajes por mar y por tierra y que no sea un simple "llegas a Cuba tres días más tarde" sino que haya situaciones, personas y lugares que lo hagan diferente e incluso sirvan de introducción a otros relatos salvajes.
 

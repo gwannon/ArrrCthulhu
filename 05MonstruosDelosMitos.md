@@ -4,8 +4,7 @@ Aquí tienes un bestiario con las criaturas de los Mitos de Cthulhu más comunes
 
 Todos estos seres están ocultos a los habitantes del Caribe y solo unos pocos son lo suficientemente valientes y temerarios para encontrarlos, combatirlos y volver para contarlo a gritos delante de una buena jarra de grog.
 
-Combatiendo a los Primigenios
------------------------------
+## Combatiendo a los Primigenios
 
 Hemos excluido de este bestiario a primigenios y seres de igual poder. Principalmente debido a que son más elementos que hacen avanzar la historia que enemigos a combatir. La aventura es evitar que Cthulhu se levante, si se levanta tu misión ha fracasado. No trates de combatirlo, solo conseguirás una horrible muerte entre ventosas, babas y pseudópodos. Además, muchos de ellos están presos o dormidos en alguna extraña dimensión o a miles de años luz en el espacio profundo. Sin embargo, si puedes contactar, hacer tratos o combatir contra sus avatares. Las encarnaciones terrenales de los Primigenios puedes encontrarlos en la sección de "Quién es quién en el Caribe".
 
@@ -15,15 +14,13 @@ Avatares de primigenios:
 * Totep (Nyarlathotep)
 * La llorona (Shub-Niggurath)
 
-Descomposición de los cuerpos
------------------------------
+## Descomposición de los cuerpos
 
 Una cosa importante que debes tener en cuenta con todos estos seres (y que es muy típico de los relatos de Lovecraft) es que sus cadáveres se degradan rápidamente y desaparecen casi sin dejar rastro más que terribles hedores y líquidos viscosos. Muchas veces no podrás probar todas las cosas extrañas y terroríficas que te han pasado porque no quedará nada que enseñar. Puedes jugar con ello, haciendo que muchas veces la gente y en concreto las autoridades no crean a tu mesa y sin pruebas tomen sus historias de monstruos y dioses antiguos como chaladuras de locos.
 
 Si son ingeniosos, pueden tratar de conservar los cuerpos usando todo tipo de trucos. Desde conservarlos en salazón o ahumarlos hasta introducirlos en barriles llenos de alcohol o formol. De hecho, entre el botín que pueden conseguir en sus aventuras hay varios dispositivos que les ayudarán en esas tareas de conservación de cadáveres.
 
-Byakhee (secuaz)
-----------------
+## Byakhee (secuaz)
 
 Son seres voladores de apariencia insectoide con grandes alas membranosas y pies palmeados. Viven en el espacio interestelar donde sobreviven sin problemas. Se pueden mover a la velocidad de la luz y suelen bajar a diferentes planetas a alimentarse. Principalmente, se concentran en las Híades cerca de Aldebaran donde está exiliado su señor Hastur. Solo aparecen para acompañar a su señor o si son invocados. Pueden ser usados como monturas voladoras y si se pueden evitar los peligros del vacío especial podría viajarse montado en Byakhee entre galaxias a la velocidad de la luz.
 
@@ -39,16 +36,15 @@ Son seres voladores de apariencia insectoide con grandes alas membranosas y pies
     * **Volar:** Paso volando 12. En Tierra, a pesar de no moverse a la velocidad de la luz, son tremendamente rápidos.
 * **TPC:** 1d6 (manada)
 
-Color que cayo del cielo
-------------------------
+## Color que cayo del cielo
 
 El color es un extraño que no es de la tierra sino que viene de las estrellas. Las personas que han podido estudiar un color no se ponen de acuerdo sobre que son, pero lo describen como un color que se va extendiendo y que impregna todo, rocas, plantas y hasta animales y personas.
 
 Es una criatura muy básica que vive para sobrevivir y procrear. Cuando cae del cielo en algún tipo de meteorito, se "planta" cerca de donde cae, en algún lugar oscuro y cubierto y empieza a extraer la esencia vital de los seres vivos cercanos que se vuelven grises y quebradizos. Según consigue esencia vital va creciendo en tamaño.
 
-Cuando tiene suficiente tamaño ponen huevos y los protegen hasta que eclosionan y el nuevo color madura. Entonces el primer color suele volver al espacio. El segundo color se dedica a crecer y procrear.Y asi el ciclo se repite ampliando el radio de acción de los colores.
+Cuando tiene suficiente tamaño ponen huevos y los protegen hasta que eclosionan y el nuevo color madura. Entonces el primer color suele volver al espacio. El segundo color se dedica a crecer y procrear. Y asi el ciclo se repite ampliando el radio de acción de los colores.
 
-Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcantarillas, cuevas, etc. No son agresivos directamente, pero los humanos que caen en su influencia se vuelven irracionales y y violentos. Para poder combatir al color hsy que enfrentarse a los humanos y animales a los que han corrompido.
+Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcantarillas, cuevas, etc. No son agresivos directamente, pero los humanos que caen en su influencia se vuelven irracionales y violentos. Para poder combatir al color hay que enfrentarse a los humanos y animales a los que han corrompido.
 
 En el Caribe sería normal que cayeran en fondos marinos donde pueden sobrevivir si no es a mucha profundidad y tienen donde refugiarse de la luz solar. Infectaran la fauna y flora marina como peces, tortugas o corales y grandes masas de algas. Podría unirse a grandes grupos de sargazos y extraer su esencia vital y moverse con estas algas.
 
@@ -57,16 +53,15 @@ En el Caribe sería normal que cayeran en fondos marinos donde pueden sobrevivir
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Capacidades especiales:**
     * **Morfología alien:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
-    * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener areas de 20 casillas de cualquier forma. No tienen bonificadores ni penalizadores por tamaño.
-    * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. es inmune a todo ataque físico. Puede solidificar partes de si para interactuar con su entorno. La parte solida no inmune a lo s ataques físicos.
+    * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener áreas de 20 casillas de cualquier forma. No tienen bonificadores ni penalizadores por tamaño.
+    * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. es inmune a todo ataque físico. Puede solidificar partes de si para interactuar con su entorno. La parte solida no inmune a los ataques físicos.
     * **Volar:** Paso volando 12.
     * **Viaje espacial:** Pueden sobrevivir es el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
     * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno serán cosas que le mantengan en encerrado en el lugar donde este el color como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
     * **Drenaje de vida:** el color se alimenta de la esencia vital de los seres vivos (humanos, seres de los Mitos, animales y plantas) Todos los seres vivos en un radio de 1 kilómetro tendrán que hacer una tirada enfrentada de Vigor contra el espíritu del color. Si fallan, reciben una herida que se refleja en que envejecen, su piel se llena de arrugas y se vuelve gris y se pelo se vuelve lacio y canoso. Cada día puede drenar de su entorno esencia suficiente para crecer d6 casillas.
 * **TPC:** d8
 
-Chthonianos (comodín)
----------------------
+## Chthonianos (comodín)
 
 Los chthonianos son una especie de gusanos gigantescos con tentáculos en el extremo que es lo que sería su cabeza. Sus cuerpos de gusano están cubiertos de una especie de limo que les protege de los ataques y de las altas temperaturas. Viven en el interior de la tierra, entre el magma, y los que llegan a la corteza terrestre suelen ser renegados expulsados de sus comunidades o aquellos que van a reproducirse. Ponen huevos que parecen geodas y son extremadamente protectores con ellos. Sus crías no pueden soportar las temperaturas del interior de la tierra y por se desarrollan en la corteza terrestre.
 
@@ -75,7 +70,7 @@ En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades e 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d12+6, Vigor d12+2
 * **Habilidades:** Notar d6, Pelear d8, Sigilo d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 16 (2)
-* **Rasgos:** Vulnerables al agua (-4 resister ataques de este tipo).
+* **Rasgos:** Vulnerables al agua (-4 resistir ataques de este tipo).
 * **Capacidades especiales:**
     * **Armadura +2:** Estos gusanos están cubiertos por una gruesa piel y un limo pegajoso.
     * **Excavar 12:** Los chthonianos pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 12 pasos.
@@ -86,8 +81,7 @@ En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades e 
     * **Debilidad agua:** Los chthonianos son extremadamente sensibles al agua. Pueden soportar pequeñas cantidades de agua, pero una inmersión completa supondría su destrucción.
 * **TPC:** 1d8
 
-Gugos (comodín)
----------------
+## Gugos (comodín)
 
 Los gugos son una especie de simios gigantescos (5-6 metros de altura) que habitan en las Tierras del Sueño. Sus brazos se dividen en dos a la altura del codo, con lo que poseen 4 manos con grandes garras. La boca les cruza la cara de arriba a abajo, de forma que cada ojo queda a un lado de la boca. Es una raza inteligente con una cultura simple y se comunican mediante gestos de la cara. Son altamente agresivos, carnívoros y necrófagos y adoran a diferentes primigenios. No sueles salir de sus cuevas, ya que la luz del sol les hace daño. Si bien es no normal encontrárselos, pueden ser invocados por primigenios a los que adoran o por magos que siguen a esos primigenios para que les hagan diferentes tareas.
 
@@ -104,8 +98,7 @@ Los gugos son una especie de simios gigantescos (5-6 metros de altura) que habit
     * **Mordisco:** FUE+d6
 * **TPC:** 1d10
 
-Gules (secuaz)
---------------
+## Gules (secuaz)
 
 Los gules son unos humanoides desgarbados con rasgos de hiena. Salen de noche debido a que son fotosensibles. Son necrófagos y, por tanto, se establecen cerca de zona de enterramiento. Se organizan en pequeños grupos familiares y son muy territoriales. Pueden infectar a los humanos mediante heridas con una enfermedad que convierte a la víctima en un gul.
 
@@ -121,8 +114,7 @@ Los gules son unos humanoides desgarbados con rasgos de hiena. Salen de noche de
     * **Infección:** Cualquiera que sufra una herida de un Gul debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de que la transformación en Gul esté completa y el personaje se vuelva injugable. Quizás puedas encontrar a alguien con los suficientes conocimientos en Mitos que sepa como curarla, pero seguramente le deberás un gran favor. Los propios gules podrían darte esa información. Si se supera la infección o se pasa la tirada de Vigor, la víctima se vuelve inmune a la infección y la próxima vez ni tendrá el nivel de fatiga.
 * **TPC:** 1d4 (manada).
 
-Lengnita (secuaz)
------------------
+## Lengnita (secuaz)
 
 ![](./images/lengnita.webp)
 
@@ -138,10 +130,9 @@ Fueron esclavizados por las bestias lunares y los lengnitas más grandes tambié
     * **Cuernos:** FUE+d4
 * **Equipo:** Machete (FUE+d6) y ropajes amplios y sombreros grandes para ocultar sus rasgos de sátiro.
 
-Lloigor
--------
+## Lloigor
 
-Los lloigors son seres de energía invisibles para los humanos provenientes de Andromeda. Tienen una mente malvada y pesimista, carecen de sentimientos y jamás olvidan. Su mente es tan poderosa que afecta a los humanos cercanos, llevándoles a la depresión y a tener ideas suicidas.
+Los lloigors son seres de energía invisibles para los humanos provenientes de Andrómeda. Tienen una mente malvada y pesimista, carecen de sentimientos y jamás olvidan. Su mente es tan poderosa que afecta a los humanos cercanos, llevándoles a la depresión y a tener ideas suicidas.
 
 Llevan miles de años en la Tierra y vinieron con su caudillo Ghatanothoa, el primogénito de Cthulhu, estableciéndose en un continente ya perdido. Cuando su Ghatanothoa fue encerrado en un volcán, entraron en decadencia y ahora solo quedan unos pocos lloigors en la Tierra.
 
@@ -180,8 +171,7 @@ El lloigor puede hacerse corpóreo adoptando la forma de un reptil alargado y pa
 * **Hechizos:** 30 PP, Vórtice (Explosión), Telekinesis, Marioneta, Drenar magia (Drenaje de puntos de poder)
 * **TPC:** 1d12
 
-Lusca (comodín)
----------------
+## Lusca (comodín)
 
 ![](./images/lusca.webp)
 
@@ -205,8 +195,7 @@ Debido a ser descendientes de las semillas estelares, son bastante inteligentes,
     * **Tentáculos:** Daño FUE+d6. La lusca puede hacer hasta cuatro ataques por ronda sin penalización por múltiples acciones. Con un aumento, atrapa un enemigo con el tentáculo y esta solo puede escapar con una tirada opuesta de Fuerza durante su turno; algo casi imposible para un simple humano. Una vez aferrada una víctima, la lusca le causa FUE+d6 de daño de forma automática por constricción. Si se ataca al tentáculo (+2 a la dificultad de impactar) y se hace una herida, la lusca soltará a su presa y el tentáculo es cercenado y no puede usarlo en combate.
 * **TPC:** 1d8 (el botín está en su estómago)
 
-Madre de aguas (comodín)
-------------------------
+## Madre de aguas (comodín)
 
 La madre de aguas es un críptido de la cultura popular cubana. Es una gran boa (o majá) con unas protuberancias en la cabeza parecidas a cuernos y con poderes mágicos que habita las zonas húmedas de la isla. Se cuenta de ellas de todo, desde que roban niños para devorarlos hasta que protegen a las comunidades agrícolas de ladrones y enemigos o que han ayudado a viajeros perdidos a salir de pantanos y humedales. Son inteligentes y muy escurridizas y difíciles de ver.
 
@@ -226,8 +215,7 @@ La teoría más probable de su creación es que sean algún tipo de creación ge
     * **Poderes:** Manipulación elemental (Agua), Curación, Ilusión
 * **Botín:** 1d4 (normalmente en su madriguera)
 
-Noctivago demacrado (secuaz)
-----------------------------
+## Noctivago demacrado (secuaz)
 
 Los noctivagos son unos seres con unas grandes alas de murciélago y colas con pinchos afilados. Tiene tentáculos en vez de extremidades y cuerno en lo que sería su cabeza. Su piel es oscura y de una textura entre gomosa y aceitosa. Recuerdan a demonios o gárgolas. Son bastante apacibles y nada agresivos, pero es difícil negociar con ellos, si han recibido una orden la cumplen sin preguntarse por qué. Sirven principalmente al dios Nodens y tienen buenas relaciones con los gules. Proceden de las Tierras de los Sueños y se sabe, aunque no muy bien, que pueden moverse entre la Tierra de los Sueños y nuestro mundo. Aunque tienen poderosos tentáculos y una cola afilada, normalmente reducen a sus enemigos con cosquillas. Puede que parte de los antiguos mitos de demonios alados y de gárgolas sean fruto de estos seres.
 
@@ -241,8 +229,7 @@ Los noctivagos son unos seres con unas grandes alas de murciélago y colas con p
     * **Cosquillas:** Los noctivagos pueden intentar hacer una acción de Presa con su cola. En caso de conseguir inmovilizarla, como acción gratuita, puede hacer cosquillas con la cola a su presa. Si la presa falla estará aturdido 1d6 turnos debido a que se ríe descontroladamente. Pasado esos turnos la presa puede tratar de escapar y el noctivago volver a hacerle cosquillas. Normalmente, cuando consigue aturdir a la víctima, toman altura y lo dejan caer.
 * **TPC:** 1d6 (manada)
 
-Pólipos volantes (secuaz)
--------------------------
+## Pólipos volantes (secuaz)
 
 ![](./images/polipo-volante.webp)
 
@@ -271,8 +258,7 @@ Se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas
 
 Los pólipos ya son de por sí enemigos temibles, pero pueden ponerles hechizos si quieres aumentar su dificultad. Ten en cuenta que deberían ser hechizos ofensivos como Proyectil o Confusión que tenga un ornamento basado en el aire.
 
-Profundos
----------
+## Profundos
 
 ![Profundo (secuaz)](./images/profundo.webp)
 
@@ -345,8 +331,7 @@ Para hacer un híbrido añádele estas características a un PNJ.
     * **Semiacuáticos:** Paso nadando 4. Pueden respirar bajo el agua sin problemas, pero no son tan hábiles nadadores como un profundo completo.
     * **Inmunidad a la edad, el veneno y las enfermedades:** No pueden morir de enfermedad, de viejo o por venenos.
 
-Retoño oscuro (comodín)
------------------------
+## etoño oscuro (comodín)
 
 ![](./images/retono-oscuro.webp)
 
@@ -363,8 +348,7 @@ Los retoños oscuros son unas masas informes de tentáculos con varias bocas. Pa
     * **Apariencia de árbol:** Pueden usar su sigilo solo para parecer ser árboles en la lejanía. En cuando te acercas o se mueven, la ilusión se rompe.
 * **TPC:** 1d8
 
-Sabuesos de Tíndalos (secuaz)
------------------------------
+## Sabuesos de Tíndalos (secuaz)
 
 ![](./images/tindalos.webp)
 
@@ -393,8 +377,7 @@ Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y l
 
 ![Serpigente (secuaz)](./images/serpigente.webp)
 
-Serpigente (secuaz)
--------------------
+## Serpigente (secuaz)
 
 La serpigente son humanoides escamosos de rostro y cola reptiliano. Dominaron la tierra durante miles de años con su magia y su ciencia y esclavizaron a la raza humana. Pero su imperio cayó y su especie fue degenerando hasta hoy. Quedan ya muy pocos asentamientos de serpigente y normalmente se ocultan de los humanos. Aun así, siguen siendo poderosos magos y sus desarrollos en genética pueden crear terribles mutaciones, desde bestias de guerra mutantes hasta terroríficas enfermedades.
 
@@ -434,8 +417,7 @@ Son las fuerzas de choque de la serpigente, crueles y brutales con los humanos. 
     * **Hechizos:** 8 PP, Conoce 1 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
 * **TPC:** 1d6
 
-Shantak (comodín)
------------------
+## Shantak (comodín)
 
 Los shantak son unos enormes reptiles alados (o pájaros escamosos según se vea) cuya cabeza tiene apariencia de equino. Son igual de grandes que un elefante africano. Aunque son criaturas de la Tierra de los Sueños, pueden ser invocados en nuestro mundo para servir a la persona que los llame.
 
@@ -455,8 +437,7 @@ Sirven a los Dioses Exteriores, en especial al gran Azathoth y en menor medida a
 * **Equipo:** Si ha sido entrenado como cabalgadura, puede llevar una silla de montar en la que podría ir una persona de tamaño real.
 * **TPC:** d8
 
-Shoggoth (comodín)
-------------------
+##  (comodín)
 
 ![Shoggoth (comodín)](./images/shoggoth.webp)
 
@@ -500,8 +481,7 @@ Este shoggoth ha crecido descomunalmente, de forma que se ha convertido en una i
     * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego o granadas.
 * **TPC:** 1d12
 
-Vampiro de fuego (secuaz)
--------------------------
+## Vampiro de fuego (secuaz)
 
 ![](./images/vampirofuego.webp)
 
@@ -523,8 +503,7 @@ Como seres de fuego que son se les puede atacar con agua o arena y para proteger
     * **Debilidad Agua:** El agua (y otras materiales que extingan el fuego como la arena) les hace daño, por cada 5 litros de agua que se le lance se puede hacerle d4 de daño. Si se le consigue meter debajo, por ejemplo, de una cascada o dentro del agua, muere directamente.
 * **TPC:** 1d4 (manada)
 
-El yeho (comodín)
------------------
+## El yeho (comodín)
 
 El yeho es un críptido, una animal a medio camino entre humano y primate que vive en las selvas de las islas del Caribe. Su descripción más acertada sería la de un simio de tamaño gigante, como un gorila de montaña o un orangután, pero más grande y de pelaje marrón. Es un ser solitario y bastante esquivo que vive en el interior de la jungla y que evita a los humanos. Para ser un animal es tremendamente inteligente, pudiendo hacer trampas y emboscadas y usar herramientas sencillas.
 
@@ -537,8 +516,7 @@ El yeho es un críptido, una animal a medio camino entre humano y primate que vi
     * **Garra/Mordisco:** FUE+d6
 * **Botín:** 1d4 en su madriguera
 
-Yithianos
----------
+## Yithianos
 
 ![](./images/yith.webp)
 
@@ -580,8 +558,7 @@ Los yithianos combatieron y derrotaron a un gran enemigo, los pólipos volantes,
 
 Su capacidad de viajar en el tiempo no tiene reglas, ya que creemos que es más un recurso narrativo que una habilidad para usar en el juego. Puede que a tus jugadores se les ocurra usar a un yithiano para se intercambie con sus yoes del pasado y poder hablar con ellos para advertirles de un peligro. Si quieren hacerlo y se lo curran al convencer al yithiano el viaje en el tiempo funciona sin necesitar ningún tipo de tirada.
 
-Yuggothianos
-------------
+## Yuggothianos
 
 Los yuggothianos, hongos de Yuggoth o Mi-Go tienes aspecto de crustáceos, aunque en realidad son parte animal, parte hongo. Tienen varios pares de extremidades terminadas en pinzas y alas membranosas funcionales. Se comunican mediante patrones de color en sus cabezas.
 
@@ -625,8 +602,7 @@ Con el material adecuado, un Mi-go científico puede extraer el cerebro de un hu
 
 ![](./images/secuaces.webp)
 
-Secuaces y criaturas
---------------------
+## Secuaces y criaturas
 
 Vas a necesitar llenar tus tabernas de turbios personajes de miradas perdidas, tus mercados de extraños vendedores, tus mares de barcos sin bandera con oscuras velas y tus junglas de animales de grandes dientes y afiladas garras acechando entre la vegetación. Aquí tienes todo lo necesario para que rellenes todos esos huecos en tus historias.
 
@@ -737,7 +713,7 @@ Los cazapiratas son mercenarios contratados por las autoridades para limpiar sus
 Estamos hablando desde la herrera del pueblo hasta profesiones muy especializadas como carpintero naval o tejedor de velas. Son gente que sabe mucho de su trabajo, pero poco más. Hacen un buen trabajo, cobran por ello y tratan de sobrevivir. Puedes gastar un par de puntos de habilidad en especializarles.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d4, Ciencias d4, Idioma materno d6, Idiom criollo d4, Latrocinio d6, Notar d4, Pelear d4, Reparar d8
+* **Habilidades:** Atletismo d4, Ciencias d4, Idioma materno d6, Idioma criollo d4, Latrocinio d6, Notar d4, Pelear d4, Reparar d8
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Elige 1 o más: Mr. Arreglalotodo, Hombre de recursos
 * **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Feo (Menor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
@@ -748,7 +724,7 @@ Estamos hablando desde la herrera del pueblo hasta profesiones muy especializada
 Vamos desde dependientes de tienda hasta taberneros y toda la estructura de gente que trabaja en las grandes empresas comerciales, desde almaceneros hasta altos directivos. Puedes gastar un par de puntos de habilidad en especializarles.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d4
-* **Habilidades:** Atletismo d4, Ciencias d4, Idioma materno d6, Idioma extra d6, Idiom criollo d4, Notar d8, Pelear d4, Persuadir d6
+* **Habilidades:** Atletismo d4, Ciencias d4, Idioma materno d6, Idioma extra d6, Idioma criollo d4, Notar d8, Pelear d4, Persuadir d6
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
 * **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Habito (Mayor, Alcoholismo)
 * **Ventajas:** Elige 1 o más: Intimidador, Callejear, Alcurnia, Rico
@@ -783,7 +759,7 @@ Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pi
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Elige 1 o más: Arrogante, Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Leal (Menor)
 * **Ventajas:** Nuevos Poderes x2, Puntos de poder, Trasfondo Arcano (Hechicería primigenia). Elige 1 o más: Alcurnia, Alerta, Callejear, Responsable, Rico, Ritualista
-* **Hechizos:** 16 PP. Manipulación elemental adaptado a su entorno, Impacto sónico, Emponzoñar arma, Oscuridad
+* **Hechizos:** 16 PP. Manipulación elemental adaptada a su entorno, Impacto sónico, Emponzoñar arma, Oscuridad
 
 ### Animales salvajes
 

@@ -4,8 +4,7 @@ En nuestra guía de viajes te vamos a mostrar los sitios más interesantes, más
 
 La estructura es muy sencilla. El Caribe está dividido en diferentes zonas. Cada zona en las principales ciudades y cada ciudad en los lugares más interesantes. Podrás encontrar, tiendas, tabernas, monumentos, cuevas, lagos, ... Muchas zonas tienen lugares de interés que no pertenecen a ninguna comunidad, pero que son lo suficientemente interesantes como para ser destacados en los apartados de "Otros lugares de ...".
 
-Islas piratas
--------------
+## Islas piratas
 
 En 1722 podemos encontrar diferentes enclaves piratas, puertos seguros donde refugiarse en caso de problemas con ingleses o españoles, donde poder vender su botín y donde divertirse y beber hasta caer inconsciente.
 
@@ -165,8 +164,7 @@ La playa de 7 millas es una playa larguísima en forma de media luna de arena bl
 
 Esta playa ha sido usada desde hace décadas por los piratas para hacer sus concilios. Cuando un gran peligro amenazaba a las tripulaciones piratas de todo el Caribe, se organizaba un gran conclave pirata en esta playa en las noches de luna llena. Los barcos fondeaban en sus aguas y los representantes de los diferentes barcos desembarcaban en la playa para parlamentar y llegar a acuerdos y planes para acabar con la amenaza. No ha vuelto a usarse desde que se disolvió la Hermandad de la Costa.
 
-Cuba
-----
+## Cuba
 
 Cuba es la principal isla del Caribe. Con más de 1000 km de punta a punta y prácticamente llana, excepto por 3 cordilleras en el centro, en el extremo oeste y la más alta en el extremo este. Mientras que la costa está altamente poblada por los colonos españoles, el interior todavía es territorio taíno.
 
@@ -439,8 +437,7 @@ Paso un año estudiando los grabados que había en las paredes de las estructura
 
 Junto al Camino de Bimini en las Bahamas, los grabados de los antiguos son una de las razones que le han llevado a elaborar la teoría de que R'lyeh está sumergida en algún lugar del Caribe.
 
-Puerto Rico
------------
+## Puerto Rico
 
 La isla de Puerto Rico mide unos 170 kilómetros de largo (de este a oeste) y 60 kilómetros de ancho (de norte a sur). Tiene una gran cordillera central que hace que sea más fácil seguir la costa que atravesar las montañas que ocupan un 40% de la superficie de la isla. El pico más alto es Cerro Punta, con una altura de 1.339 metros en el centro de la isla. Las montañas crean gran cantidad de ríos que corren rápidos hacia el mar.
 
@@ -547,8 +544,7 @@ Este es un lugar sagrado para los taínos y cualquier promesa o trato que se hag
 
 En juego, cualquier pacto hecho aquí con un taíno deberá cumplirse y de no hacerlo, el que falto a su palabra será tildado de indigno por la nación taína y tendrá un -2 en las tiradas de Persuadir al interactuar con taínos. Se negarán a venderte provisiones, no querrán comprar tus productos, te expulsarán de sus poblados, etc.
 
-Santo Domingo
--------------
+## Santo Domingo
 
 La isla de La española en 1722 está divida en dos, Santo Domingo, la parte española, y Saint-Domingue, la parte francesa. Santo Domingo ocupa la parte este de la isla. La próspera La Española se encuentra ahora en horas bajas con menos de 10000 almas. La parte norte está despoblándose, quedando pequeñas comunidades marginales en la costa que viven más del contrabando que de la agricultura, pesca y comercio. El mayor núcleo será la ciudad de Santo Domingo, con más de la mitad de población.
 
@@ -644,8 +640,7 @@ La realidad es que bajo la fachada de una leprosería, la isla es una cárcel do
 
 En la isla hay una población de 120 personas, 30 guardias y 90 convictos y convictas.
 
-Saint-Domingue
---------------
+## Saint-Domingue
 
 La parte francesa de La Española es denominada Saint-Domingue. Está bastante despoblada, solo hay pequeñas comunidades de agricultores y grandes plantaciones trabajadas por mano de obra esclava.
 
@@ -679,8 +674,7 @@ Es una celebración muy popular entre los piratas por sus excesos y se sabe que 
 
 Durante el Fét Gede, Nyarlathotep como el Barón Samedí visita a sus adoradores y se divierte como un mortal bebiendo, fumando, bailando y comiendo. Si alguien quiere buscarlo para interactuar con él deberá participar en el Fét Gede activamente bailando, comiendo, ... Tendrá que pasar una tirada de Vigor o tendrá un -2 por el alcohol, el picante y la hierba de fumar. Una vez integrado en la celebración podrá empezar a buscarlo y deberá conseguir 1 avance en la tirada de Notar.
 
-Jamaica
--------
+## Jamaica
 
 Jamaica, a diferencia de otras islas del Caribe, es una isla principalmente montañosa con una franja de costa muy estrecha. Hay zonas en que las montañas cae directamente sobre el mar. Eso ha hecho que las principales poblaciones y las plantaciones estén cerca la costa. El resto de la isla es jungla y montañas y es territorio de los esclavos huidos.
 
@@ -872,8 +866,7 @@ Por entre las gentes de Black River corre el rumor que una poderosa hechicera Vu
 
 Si tu mesa se adentra en el pantano buscando la sabiduría o el poder de la bruja vudú, no encontrarán a la hechicera ni señales de ellas. Pero quizás encuentren un templo medio sumergido en las aguas, los restos de una expedición perdida o la guarida de una madre de aguas.
 
-Bahamas
--------
+## Bahamas
 
 Unas 700 islas, islotes y cayos forman este archipiélago. Los bancos de arenas y los arrecifes plagan sus aguas y los pecios de barcos ingleses, franceses y españoles llenan sus fondos marinos, algunos con grandes tesoros de oro, plata y piedras preciosas. Solo unas 20 o 30 están habitadas por lucayos, una rama de los taínos, y por colonos de origen español o inglés.
 
@@ -949,8 +942,7 @@ Las historias hablan de una calzada que iba a la Atlántida, Lemuria o Mú o que
 
 Solos los pocos taínos que habitan la isla saben de esta calzada que puede verse sin problemas gracias a sus cristalinas aguas.
 
-La verdad de La Habana
-----------------------
+## La verdad de La Habana
 
 Algo muy común en las historias de Lovecraft son que muchas empiezan con noticias en periódicos locales sobre hechos extraños y chocantes, pero históricamente estamos en 1722 y no hay periódicos en el Caribe. No debería, pero lo hay y se llama La verdad de La Habana (VLH). La VLH es un panfleto de unas 8 páginas que se publica mensualmente en La Habana, suele tener noticias en castellano e inglés y la mayoría de ellas son una mezcla de escándalos, crímenes y misterios.
 
@@ -1108,8 +1100,7 @@ Anuncio de The Mystery Shack
 
 Hay un anuncio que ofrece 20% de descuento a quien presente este periódico al comprar algún producto en la tienda de curiosidades de The Mystery Shack.
 
-Viajes en el tiempo
--------------------
+## Viajes en el tiempo
 
 Si tu mesa ha cometido un grave error y quieren remediarlo, quizás haya una solución, los viajes en el tiempo. Pero si algo no ha enseñado la literatura y el cine es que tiene consecuencias y cualquier error puede ser fatal.
 
@@ -1137,8 +1128,7 @@ Es por ello que para plantearse arreglar los errores viajando en el tiempo, debe
 
 **4\. Solo errores recientes:** Solo pueden tratar de arreglar errores recientes (de la sesión anterior de juego). Cualquier otro error no será posible corregirlo, porque el tiempo ya se ha solidificado y no se puede modificar (o cualquier otra excusa que se te ocurra). Si se embarcan en otra aventura que no sea arreglar su error también perderán la oportunidad de arreglar el error viajando en el tiempo.
 
-Volcanes en el Caribe
----------------------
+## Volcanes en el Caribe
 
 Los volcanes son una referencia recurrente en los relatos de Lovecraft seguramente por ser fuerzas primordiales de la naturaleza tan poderosas y destructivos como los propios primigenios. Normalmente, son moradas donde duermen o están encerrados todo tipo de monstruos de los Mitos. Veamos algunos ejemplos:
 
@@ -1161,8 +1151,7 @@ Las Antillas Menores es una zona del Caribe plagada de pequeñas islas de origen
 
 El único volcán submarino registrado en el Caribe es el Diamond Islet ("Islote del Diamante") en alusión a unas rocas emergidas cercanas. Se encuentra a unos kilómetros al norte de la isla de Granada. Su cráter está a unos 160 metros de profundidad y está activo. Aunque hasta 1939 no se registrará ninguna actividad. Así que siente libre de hacerlo estallar cuando quieras. Las aguas del cráter tienen una media de 150/200 grados, lo que dificulta su exploración. Igual a alguien de tu mesa se le ocurre una forma de cocer a algún ser acuático gigantesco en sus aguas o de freírlo haciéndole expulsar lava.
 
-Rumores, chismes y pueblerinos supersticiosos
----------------------------------------------
+## Rumores, chismes y pueblerinos supersticiosos
 
 Practicar magia no solo afecta a tu cordura, también a tu reputación y si no tienes cuidado puedes acabar quemado en la plaza del pueblo por brujería. Quien más quien menos en nuestro Caribe ha presenciado prodigios mágicos, pero no es lo mismo que la vieja ermitaña sane las fiebres de un niño con sus bebedizos a que los héroes entren volando en la casa del Gobernador de Jamaica lanzando rayos verdes.
 
@@ -1172,8 +1161,7 @@ Queda a discreción del director de juego cuando los jugadores pueden ser buscad
 2.  **Recuerda que las comunicaciones son lentas.** Pueden pasar semanas hasta que las noticias de los actos de los personajes en una isla lleguen a otra. Además, los rumores viajan más rápido que la información exacta, así que puedes jugar con todo tipo de equívocos y malinterpretaciones cuando llegan a un nuevo pueblo. Puede que un cultista menor les entregue una estatuilla maldita pensando que son los cultistas que buscaba.
 3.  **Por último, recuerda que a veces pagan los justos por pecadores** y puede ser un buen gancho de aventura que tu mesa sea acusada falsamente de brujería y tengan que huir y limpiar su nombre.
 
-Línea de tiempo
----------------
+## Línea de tiempo
 
 línea de tiempo
 
