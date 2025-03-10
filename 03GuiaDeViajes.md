@@ -509,7 +509,7 @@ En el carnaval de Ponce, los vejigantes son monstruos que representan el mal. El
 
 Ser el rey Momo es un gran honor y no se descubre quién es hasta el final del carnaval. De hecho, se apuesta por quién es cada año.
 
-Un experto en Mitos puede detectar que las máscaras vegigantes representan muchos de los peores seres de pesadilla de los Mitos, desde simples profundos al propio Cthulhu. Como todo lo relacionado con los Mitos detrás de los bailes y los cantos, hay cultos que aprovechan estos días para llevar extraños rituales. No es tan salvaje como el Fét Gede, pero puede pasar muchas cosas extrañas. De hecho, que los vegigantes secuestren niños se debe a varios casos de secuestros reales de niños por parte de sectas "demoníacas".
+Un experto en Mitos puede detectar que las máscaras vegigantes representan muchos de los peores seres de pesadilla de los Mitos, desde simples profundos al propio Cthulhu. Como todo lo relacionado con los Mitos detrás de los bailes y los cantos, hay cultos que aprovechan estos días para llevar extraños rituales. No es tan salvaje como el Fèt Gede, pero puede pasar muchas cosas extrañas. De hecho, que los vegigantes secuestren niños se debe a varios casos de secuestros reales de niños por parte de sectas "demoníacas".
 
 **Cánticos del carnaval:** Los cantos que los participantes del carnaval usan funcionan como un ritual de protección contra los monstruos y los brujos. Al recitar en pareja los llamados y las respuestas, los 2 participantes obtienen un solo beni para los dos que solo dura hasta el final de la escena para luchar contra la magia y los seres de los Mitos.
 
@@ -666,13 +666,13 @@ La terrible verdad del gumbo es que el primer gumbo lo hizo con carne humana. Ma
 
 _**Sugerencia de beni:** Recompensa con un par de benis a cualquiera que deje comestibles para el gumbo eterno como carne ahumada, limones, pescado seco, especias, sal, etc._
 
-### Fét Gede
+### Fèt Gede
 
-El Fét Ged es el Día de los muertos para los practicantes del vudú. A pesar de estar prohibido todos los rituales religiosos que no sean católicos, a primeros de noviembre los creyentes celebran el Fét Gede escondido dentro de las celebraciones católicas de "Todos los santos". Salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los cementerios y algunos son poseídos por los gede, los espíritus de los ancestros muertos.
+El Fét Ged es el Día de los muertos para los practicantes del vudú. A pesar de estar prohibido todos los rituales religiosos que no sean católicos, a primeros de noviembre los creyentes celebran el Fèt Gede escondido dentro de las celebraciones católicas de "Todos los santos". Salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los cementerios y algunos son poseídos por los gede, los espíritus de los ancestros muertos.
 
 Es una celebración muy popular entre los piratas por sus excesos y se sabe que es visitada por muchos piratas que se mezclan entre los celebrantes para disfrutar de la fiesta. Puede ser un buen momento en el que tu mesa se encuentre con alguna de sus némesis piratas. Fácilmente, todo puede pasar de la dialéctica a las peleas de taberna o los duelos a espada.
 
-Durante el Fét Gede, Nyarlathotep como el Barón Samedí visita a sus adoradores y se divierte como un mortal bebiendo, fumando, bailando y comiendo. Si alguien quiere buscarlo para interactuar con él deberá participar en el Fét Gede activamente bailando, comiendo, ... Tendrá que pasar una tirada de Vigor o tendrá un -2 por el alcohol, el picante y la hierba de fumar. Una vez integrado en la celebración podrá empezar a buscarlo y deberá conseguir 1 avance en la tirada de Notar.
+Durante el Fèt Gede, Nyarlathotep como el Barón Samedí visita a sus adoradores y se divierte como un mortal bebiendo, fumando, bailando y comiendo. Si alguien quiere buscarlo para interactuar con él deberá participar en el Fèt Gede activamente bailando, comiendo, ... Tendrá que pasar una tirada de Vigor o tendrá un -2 por el alcohol, el picante y la hierba de fumar. Una vez integrado en la celebración podrá empezar a buscarlo y deberá conseguir 1 avance en la tirada de Notar.
 
 ## Jamaica
 

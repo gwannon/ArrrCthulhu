@@ -176,7 +176,7 @@ Cuando aparece un avatar de Nyarlathotep, se puede hacer una tirada de Notar par
 
 El Barón es un avatar de Nyarlathotep. Es un hombre negro con tatuajes de esqueleto por todo el cuerpo que lleva un taparrabos blanco y un sombrero negro. Para pasar desapercibido suele llevar un gran abrigo negro que le cubre entero.
 
-El Barón solo aparece durante el Fét Gede, el Día de los Muertos en Haití y se dedica a sembrar el caos en las calles y cementerios entre los creyentes del vudú. Durante esta festividad es el momento en que cualquier persona puede interactuar con el propio Nyarlathotep en su avatar del Barón si es capaz de encontrarlo entre las multitudes que festejan el Fét Gede. Recuerda es un dios caótico y maligno y seguramente saldrás perdiendo en el acuerdo.
+El Barón solo aparece durante el Fèt Gede, el Día de los Muertos en Haití y se dedica a sembrar el caos en las calles y cementerios entre los creyentes del vudú. Durante esta festividad es el momento en que cualquier persona puede interactuar con el propio Nyarlathotep en su avatar del Barón si es capaz de encontrarlo entre las multitudes que festejan el Fèt Gede. Recuerda es un dios caótico y maligno y seguramente saldrás perdiendo en el acuerdo.
 
 El Barón no tiene poderes mágicos como tal en esta forma, no puede hacer prodigios mágicos. Sus poderes divinos están ligados a los tratos que haga. No puede hacer aparecer agua y comida de la nada a no ser que haya llegado a un acuerdo con un náufrago en una isla desierta.
 
@@ -188,7 +188,7 @@ El Barón no tiene poderes mágicos como tal en esta forma, no puede hacer prodi
     * **Código de honor:** Está ligado mágicamente a no poder romper las promesas y los pactos que haga o los contratos que firme. Si bien, siempre buscará un agujero legal porque el que romper los pactos o sacarles más partido del que a priori se firmó.
     * **Invulnerable:** Solo las armas de alta tecnología y la magia puede dañarle.
     * **Inmortal:** Si muere volverá a la vida a la mañana siguiente.
-    * **Vinculado al Fét Gede:** Solo puede aparecerse durante las festividades del Fèt Gede, allá donde se celebre. También puede aparecer para llevarse el alma de alguna persona importante y creyente en él o para cumplir o hacer cumplir los tratos que haya hecho.
+    * **Vinculado al Fèt Gede:** Solo puede aparecerse durante las festividades del Fèt Gede, allá donde se celebre. También puede aparecer para llevarse el alma de alguna persona importante y creyente en él o para cumplir o hacer cumplir los tratos que haya hecho.
 * **TPC:** 1d8, solo tras mostrar su verdadera presencia.
 
 **Sugerencia de interpretación:** Eres el caos mismo, muchas de tus acciones no tienen por qué tener ningún sentido, pero todo cambia cuando alguien te ofrece un trato. En ese momento te transformas en una especie de genio maligno de los deseos. Tu objetivo es buscar la argucia para saltarte el trato con el mortal y escaparte de hacer tu parte o cumplirla tan retorcidamente que sea un problema más que un beneficio.
