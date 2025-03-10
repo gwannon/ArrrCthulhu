@@ -7,3 +7,16 @@
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nMordisco:\\E$"}
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nTPC: 1d10\\E$"}
 {"rule":"CAYO","sentence":"^\\QCayo Hueso\\E$"}
+{"rule":"ES_MULTITOKEN_SPELLING_TWO","sentence":"^\\QAsí rebautizo Mary Read al barco que robo del puerto de Kingston tras escapar de la emboscada de John Barnet.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nInfección:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nEquipo:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d10\nArmadura +4: Su piel dura y escamosa y es muy resistente.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6, pueden hacer dos ataques independientes por turno sin tener penalizadores por hacer varias acciones o por mano mala.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nEn fase:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nMordisco venenoso:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d8\nVolar:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nRegeneración rápida:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nBotín: 1d4 en su madriguera\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nTelepatía:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nVolar:\\E$"}

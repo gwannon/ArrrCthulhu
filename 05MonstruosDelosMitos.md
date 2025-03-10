@@ -64,7 +64,7 @@ El color es un extraño que no es de la tierra, sino que viene de las estrellas.
 
 Es una criatura muy básica que vive para sobrevivir y procrear. Cuando cae del cielo en algún tipo de meteorito, se «planta» cerca de donde cae, en algún lugar oscuro y cubierto y empieza a extraer la esencia vital de los seres vivos cercanos que se vuelven grises y quebradizos. Según consigue esencia vital va creciendo en tamaño.
 
-Cuando tiene suficiente tamaño ponen huevos y los protegen hasta que eclosionan y el nuevo color madura. Entonces el primer color suele volver al espacio. El segundo color se dedica a crecer y procrear. Y asi el ciclo se repite ampliando el radio de acción de los colores.
+Cuando tiene suficiente tamaño ponen huevos y los protegen hasta que eclosionan y el nuevo color madura. Entonces el primer color suele volver al espacio. El segundo color se dedica a crecer y procrear. Y así el ciclo se repite ampliando el radio de acción de los colores.
 
 Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcantarillas, cuevas, etc. No son agresivos directamente, pero los humanos que caen en su influencia se vuelven irracionales y violentos. Para poder combatir al color hay que enfrentarse a los humanos y animales a los que han corrompido.
 
@@ -79,8 +79,8 @@ En el Caribe sería normal que cayeran en fondos marinos donde pueden sobrevivir
     * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de si para interactuar con su entorno. La parte sólida no inmune a los ataques físicos.
     * **Volar:** Paso volando 12.
     * **Viaje espacial:** Pueden sobrevivir es el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
-    * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno serán cosas que le mantengan en encerrado en el lugar donde este el color como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
-    * **Drenaje de vida:** el color se alimenta de la esencia vital de los seres vivos (humanos, seres de los Mitos, animales y plantas) Todos los seres vivos en un radio de 1 kilómetro tendrán que hacer una tirada enfrentada de Vigor contra el espíritu del color. Si fallan, reciben una herida que se refleja en que envejecen, su piel se llena de arrugas y se vuelve gris y se pelo se vuelve lacio y canoso. Cada día puede drenar de su entorno esencia suficiente para crecer d6 casillas.
+    * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno serán cosas que le mantengan en encerrado en el lugar donde esté el color como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
+    * **Drenaje de vida:** el color se alimenta de la esencia vital de los seres vivos (humanos, seres de los Mitos, animales y plantas) Todos los seres vivos en un radio de 1 kilómetro tendrán que hacer una tirada enfrentada de Vigor contra el espíritu del color. Si fallan, reciben una herida que se refleja en que envejecen, su piel se llena de arrugas y se vuelve gris y su pelo se vuelve lacio y canoso. Cada día puede drenar de su entorno esencia suficiente para crecer d6 casillas.
 * **TPC:** d8
 
 \sp
@@ -93,7 +93,7 @@ En el Caribe sería normal que cayeran en fondos marinos donde pueden sobrevivir
 
 Los chthonianos son una especie de gusanos gigantescos con tentáculos en el extremo que es lo que sería su cabeza. Sus cuerpos de gusano están cubiertos de una especie de limo que les protege de los ataques y de las altas temperaturas. Viven en el interior de la tierra, entre el magma, y los que llegan a la corteza terrestre suelen ser renegados expulsados de sus comunidades o aquellos que van a reproducirse. Ponen huevos que parecen geodas y son extremadamente protectores con ellos. Sus crías no pueden soportar las temperaturas del interior de la tierra y por se desarrollan en la corteza terrestre.
 
-En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades e hundir islotes. De hecho, su actividad se relaciona con el tsunami que arraso Port Royal en 1692.
+En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades y hundir islotes. De hecho, su actividad se relaciona con el tsunami que arraso Port Royal en 1692.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d12+6, Vigor d12+2
 * **Habilidades:** Notar d6, Pelear d8, Sigilo d8
@@ -180,6 +180,8 @@ Fueron esclavizados por las bestias lunares y los lengnitas más grandes tambié
 
 \sinc
 
+![Lloigor corpóreo (comodín)](./images/lloigor.webp)
+
 ## Lloigor
 
 \conc
@@ -194,17 +196,15 @@ Aun así, son tremendamente poderosos y sus mentes llevan poco a la locura a los
 
 Los lloigors son seres de energía invisibles en forma de vórtice. En este estado suelen coger a individuos marginales y de mente débiles y convertirlos en sus siervos que se encargan de hacer las tareas que ellos no pueden.
 
-* **Atributos:** Agilidad --, Astucia d12+1, Espíritu d12+3, Fuerza --, Vigor --
+* **Atributos:** Agilidad —, Astucia d12+1, Espíritu d12+3, Fuerza —, Vigor —
 * **Habilidades:** Mitos d12, Notar d10, Sigilo d8
-* **Paso:** 6; **Parada:** --; **Dureza:** --
+* **Paso:** 6; **Parada:** —; **Dureza:** —
 * **Ventajas:** Puntos de poder, Nuevo poder x2
 * **Capacidades especiales:**
     * **Incorpóreo:** En su forma incorpórea son totalmente invulnerables contra armas físicas y mágicas. Solo los ataques mentales podrían hacerles daño. También los hace casi invisibles dándoles un -4 a los que quieran detectarlos.
     * **Telepatía:** Se comunica con cualquier criatura de forma telepática
     * **Depresión:** Un aura depresiva rodea siempre a un lloigor, todos los héroes que pasen una hora en una localización donde hay un lloigor y fallen una tirada de Espíritu enfrentada, tendrán que coger como trastorno mental Depresión (mayor).
 * **Hechizos:** 30 PP, Vórtice (Explosión), Telekinesis, Marioneta, Drenar magia (Drenaje de puntos de poder)
-
-![Lloigor corpóreo (comodín)](./images/lloigor.webp)
 
 ### Lloigor corpóreo (comodín)
 
@@ -237,13 +237,13 @@ Una lusca es un temible críptido del Caribe, de la zona de las Bahamas. Su nomb
 
 Hay personas que cuentan que lo han visto y han sobrevivido a su ataque y aseguran que tiene una cabeza de tiburón en vez de octópodo, pero la explicación más sencilla es que se dedique a cazar y devorar sardas (tiburones toro) y eso fue lo que vieran los testigos.
 
-El origen de la lusca es desconocido, pero la teoría más plausible es la que elaboró Hernando Villalba en su juventud. Villalba considera que las luscas son versiones degeneradas e involucionadas de las semillas estelares de su adorado Cthulhu. Durante millones de años, algunas de las semillas que escaparon al hundimiento de R’lyeh han ido degenerando y mutando en los terribles monstruos marinos que conocemos como luscas. De hecho, cuando conoció a una tribu de profundos de cerca de Bahamas que cuidaban, alimentaban y hacían ofrendas a una lusca muy mayor que vivía en una cueva submarina, empezó a elaborar la teoría de que R’lyeh estaba sumergida en el Caribe y la lusca era una prueba de ello.
+El origen de la lusca es desconocido, pero la teoría más plausible es la que elaboró Hernando Villalba en su juventud. Villalba considera que las luscas son versiones degeneradas e involucionadas de las semillas estelares de su adorado Cthulhu. Durante millones de años, algunas de las semillas que escaparon al hundimiento de R’lyeh han ido degenerando y mutando en los terribles monstruos marinos que conocemos como luscas. De hecho, cuando conoció a una tribu de profundos de cerca de Bahamas que cuidaban, alimentaban y hacían ofrendas a una lusca muy anciana que vivía en una cueva submarina, empezó a elaborar la teoría de que R’lyeh estaba sumergida en el Caribe y la lusca era una prueba de ello.
 
 Debido a ser descendientes de las semillas estelares, son bastante inteligentes, aunque siga siendo inteligencia animal. Son capaces de solucionar pequeños problemas, de usar objetos simples o de atacar puntos débiles, incluso puede desarrollar tácticas simples como volcar una barca para atacar a los tripulantes en el agua y que sean presas más fáciles.
 
 * **Atributos:** Agilidad d8, Astucia d8 (A), Espíritu d6, Fuerza d12+9, Vigor d10
 * **Habilidades:** Atletismo d6, Notar d6, Pelear d8
-* **Paso:** --; **Parada:** 6; **Dureza:** 19(2)
+* **Paso:** —; **Parada:** 6; **Dureza:** 19(2)
 * **Ventajas:** Armas naturales
 * **Capacidades especiales:**
     * **Acuático:** Paso nadando 8.
@@ -464,7 +464,7 @@ Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y l
     * **Inmunidad:** Ataques físicos como armas de corte, pistolas, fuego, electricidad, …
     * **Debilidad:** Magia y alta tecnología. Las armas encantadas y las pistolas lanzarrayos pueden dañarlos normalmente.
     * **Telepatía:** Se comunica telepáticamente con todo tipo de seres inteligentes.
-    * **Teleportación:** Una vez por turno y con un solo punto de coste de movimiento. Puede entrar en zonas angulares como esquinas de la pared y aparecer en otra esquina siempre que este a menos de 8 casillas. No podría teleportarse si es encerrado por dentro de una esfera.
+    * **Teleportación:** Una vez por turno y con un solo punto de coste de movimiento. Puede entrar en zonas angulares como esquinas de la pared y aparecer en otra esquina siempre que este a menos de 8 casillas. No podría teleportarse, si es encerrado dentro de una esfera.
     * **Sentidos temporales:** Puede rastrearte a través del tiempo. Es decir que, si viajas en el tiempo y escapas de vuelta a tu tiempo, podrá olfatearte hasta tu época actual.
     * **Hechizos:** 10 PP, Detección arcana, Drenaje de puntos de poder. Si lo crees necesario, puedes darles más hechizos.
 * **TPC:** 1d10 (manada)
