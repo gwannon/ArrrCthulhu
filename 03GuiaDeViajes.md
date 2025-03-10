@@ -244,26 +244,26 @@ Por las noches, además, se sueltan perros mutados (8) que no dudan en matar y d
 
 Estos perros han sufrido peligrosos experimentos que les han dado mayor tamaño y fuerza, visión nocturna, garras y dientes más peligrosos y los han hecho terriblemente peligrosos. Esos mismos experimentos les han dado un aspecto cadavérico, ojos negros y sin pupilas y un verdor fosforescente cuando se excitan y van a entrar en combate y que se ve a distancia en la oscuridad.
 
-*   **Atributos:** Agilidad d8, Astucia d4 (A), Espíritu d6, Fuerza d10, Vigor d8
-*   **Habilidades:** Atletismo d8, Intimidar d8, Notar d6, Pelear d8, Sigilo d8
-*   **Paso:** 10; **Parada:** 6; **Dureza:** 7(1)
-*   **Ventajas:** Alerta
-*   **Capacidades especiales:**
-    *   **Pelaje duro:** Su pelo y su piel le confieren armadura +1
-    *   **Mordisco brutal:** FUE+d6+2
-    *   **Garras brutales:** FUE+d6+2
-    *   **Visión nocturna:** Ignora las penalizaciones a la visibilidad por penumbra y oscuridad, lo que le permite ver con normalidad excepto en condiciones de oscuridad completa.
-*   **TPC:** 1d4 (manada)
+* **Atributos:** Agilidad d8, Astucia d4 (A), Espíritu d6, Fuerza d10, Vigor d8
+* **Habilidades:** Atletismo d8, Intimidar d8, Notar d6, Pelear d8, Sigilo d8
+* **Paso:** 10; **Parada:** 6; **Dureza:** 7(1)
+* **Ventajas:** Alerta
+* **Capacidades especiales:**
+    * **Pelaje duro:** Su pelo y su piel le confieren armadura +1
+    * **Mordisco brutal:** FUE+d6+2
+    * **Garras brutales:** FUE+d6+2
+    * **Visión nocturna:** Ignora las penalizaciones a la visibilidad por penumbra y oscuridad, lo que le permite ver con normalidad excepto en condiciones de oscuridad completa.
+* **TPC:** 1d4 (manada)
 
 **Guardia de la mansión:**
 
 Los guardias son adeptos de la orden y tiene conocimientos básicos de Mitos, de magia y de cthulhunés. Son muy meticulosos en sus registros y no sobornables, con lo que es muy difícil meter armas escondidas entre la ropa u objetos de mayor tamaño en carros y carretas. Tampoco se retrasan en sus rondas, ni paran para fumar o beber. Cumple estrictamente sus horarios con lo que es muy difícil encontrar agujeros en su seguridad.
 
-*   **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
-*   **Habilidades:** Atletismo d6, Disparar d8, Idioma materno d6, Idioma cthulhunés d4, Mitos d4, Intimidar d6, Notar d6, Pelear d8, Sigilo d6
-*   **Paso:** 6; **Parada:** 6; **Dureza:** 6
-*   **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Alerta
-*   **Equipo:** Sable de abordaje (FUE+d6) y mosquete (10/20/40, 2d8, Recarga 3)
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d6, Disparar d8, Idioma materno d6, Idioma cthulhunés d4, Mitos d4, Intimidar d6, Notar d6, Pelear d8, Sigilo d6
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Alerta
+* **Equipo:** Sable de abordaje (FUE+d6) y mosquete (10/20/40, 2d8, Recarga 3)
 
 Por lo menos 1 de cada 4 guardas, presumiblemente el jefe del grupo, debería tener una arma bendecida o ponzoñosa que hará +2 al daño y se considerará mágica.
 
@@ -1117,9 +1117,9 @@ Si tu mesa ha cometido un grave error y quieren remediarlo, quizás haya una sol
 
 Las opciones para viajar en el tiempo son variadas, pero no son sencillas. Veamos algunas opciones:
 
-*   Pueden tratar de que un yithiano mande su mente al pasado y ocupe el cuerpo de un PJ con lo que su mente ocupará la mente del yithiano y podrá hablar con los otros PJs y estos avisarle de lo que va a pasar.
-*   Otra opción sería sustancias que podrían lanzar tu mente al pasado y así puedes avisar a tu yo del pasado.
-*   Hay hechizos basados en el tiempo como Perdido en el tiempo. Quizás pueden modificarlos para conseguir viajar en el tiempo.
+* Pueden tratar de que un yithiano mande su mente al pasado y ocupe el cuerpo de un PJ con lo que su mente ocupará la mente del yithiano y podrá hablar con los otros PJs y estos avisarle de lo que va a pasar.
+* Otra opción sería sustancias que podrían lanzar tu mente al pasado y así puedes avisar a tu yo del pasado.
+* Hay hechizos basados en el tiempo como Perdido en el tiempo. Quizás pueden modificarlos para conseguir viajar en el tiempo.
 
 ### Reglas
 
@@ -1127,9 +1127,9 @@ Las opciones para viajar en el tiempo son variadas, pero no son sencillas. Veamo
 
 Es por ello que para plantearse arreglar los errores viajando en el tiempo, deben saber qué se puede hacer. Es decir, de alguna manera han debido viajar en el tiempo y saber que es posible. Veamos forma de descubrir los viajes en el tiempo.
 
-*   **Hechizos basados en viajes temporales:** Rotura temporal, Vibración temporal, Perdido en el tiempo y Droga Plutónica. Cuando aprendan esos hechizos se darán cuenta de las posibilidades y las implicaciones de los viajes temporales.
-*   **Relatos salvajes:** Hay varios relatos salvajes que implican viajes en el tiempo, muchas veces involuntarios. Entre ellos tenemos: Mar antigua o Cazadores de huesos.
-*   **Objetos:** Hay también objetos de los Mitos que pueden estar relacionados con los viajes en el tiempo: Ánfora de viaje por las Tierras del sueño u Objeto perdido en el tiempo.
+* **Hechizos basados en viajes temporales:** Rotura temporal, Vibración temporal, Perdido en el tiempo y Droga Plutónica. Cuando aprendan esos hechizos se darán cuenta de las posibilidades y las implicaciones de los viajes temporales.
+* **Relatos salvajes:** Hay varios relatos salvajes que implican viajes en el tiempo, muchas veces involuntarios. Entre ellos tenemos: Mar antigua o Cazadores de huesos.
+* **Objetos:** Hay también objetos de los Mitos que pueden estar relacionados con los viajes en el tiempo: Ánfora de viaje por las Tierras del sueño u Objeto perdido en el tiempo.
 
 **2\. Solo para arreglar grandes errores:** No pueden hacerlo todo el rato, solo en momentos dramáticos: muertes de personajes importantes, grandes masacres, ...
 
@@ -1142,9 +1142,9 @@ Volcanes en el Caribe
 
 Los volcanes son una referencia recurrente en los relatos de Lovecraft seguramente por ser fuerzas primordiales de la naturaleza tan poderosas y destructivos como los propios primigenios. Normalmente, son moradas donde duermen o están encerrados todo tipo de monstruos de los Mitos. Veamos algunos ejemplos:
 
-*   El primigenio Ghatanothoa "el señor del volcán" está encerrado en el monte Yaddith-Gho, un volcán del continente hundido de Mu.
-*   Los montes Erebus y el monte Terror, ambos volcanes antárticos, se citan en "En las montañas de la locura".
-*   Se atribuyen a actividad volcánica sub-acuática la aparición de monstruos indescriptibles y tierras extrañas, como puede leerse en relatos como "Dagón" y "Más allá de los eones".
+* El primigenio Ghatanothoa "el señor del volcán" está encerrado en el monte Yaddith-Gho, un volcán del continente hundido de Mu.
+* Los montes Erebus y el monte Terror, ambos volcanes antárticos, se citan en "En las montañas de la locura".
+* Se atribuyen a actividad volcánica sub-acuática la aparición de monstruos indescriptibles y tierras extrañas, como puede leerse en relatos como "Dagón" y "Más allá de los eones".
 
 Los volcanes también puede encajar en tus aventuras piratas. Son una fuerza de la naturaleza que puede permitirte cambiar el mapa: crear o destruir islas, sepultar ciudades bajo las aguas con potentes maremotos, ... Te permiten crear aventuras con obstáculos formidables como ríos de lava, donde la presión del tiempo sea muy importante y son un recurso contra el que tu mesa no puede enfrentarse, solo pueden huir cuanto más lejos mejor.
 
@@ -1152,10 +1152,10 @@ Los volcanes también puede encajar en tus aventuras piratas. Son una fuerza de 
 
 Las Antillas Menores es una zona del Caribe plagada de pequeñas islas de origen volcánico y de volcanes más o menos activos. De hecho, a lo largo de los años se han llegado a catalogar unos 70. Los principales volcanes de la zona son:
 
-*   Montagne Pelée (Martinica). El más poderoso y peligroso de todos.
-*   La Soufrière (Guadalupe).
-*   Soufrière Hills (Montserrat).
-*   Soufrière St. Vincent (San Vicente).
+* Montagne Pelée (Martinica). El más poderoso y peligroso de todos.
+* La Soufrière (Guadalupe).
+* Soufrière Hills (Montserrat).
+* Soufrière St. Vincent (San Vicente).
 
 ### Volcanes sub-acuáticos
 

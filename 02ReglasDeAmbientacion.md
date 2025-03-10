@@ -4,11 +4,11 @@
 
 Hay una serie de reglas en esta ambientación que modifican las normas generales de creación de personajes. No son muchas ni muy complicadas, pero tienen su sentido. Veámoslas:
 
-*   Tu PJ empieza con la ventaja Trasfondo arcano (Hechicería primigenia).
-*   Las ventajas de Nuevos poderes y Puntos de poder no pueden cogerse en la creación de personaje, a no ser que se tenga la ventaja Experiencia con los Mitos.
-*   Tu PJ empieza con un d4 gratis en Criollo. Esto le permite comunicarse mínimamente con cualquier persona en el Caribe. Puedes adquirir a d6 Taíno, Arahuaco, Castellano, Francés o Inglés en vez del Criollo, pero solo será útil en las áreas de influencia de los respectivos idiomas.
-*   Ocultismo desaparece como habilidad. Los conocimientos sobre magia están recogidos por la nueva habilidad de Mitos de Cthulhu. Los conocimientos básicos de Ocultismo, como formas de matar a un zombi o cómo quitar un mal de ojo, puedes integrarlos dentro de Conocimientos Generales. La mitología, las religiones, etc. puedes integrarlos en Humanidades.
-*   La desventaja Analfabeto pasa a ser mayor. Aunque la mayoría de la gente no sabe ni leer ni escribir, para una persona que va a estar rodeado de libros y que los necesita para enfrentarse a seres muy poderosos, ser analfabeto es un problema serio.
+* Tu PJ empieza con la ventaja Trasfondo arcano (Hechicería primigenia).
+* Las ventajas de Nuevos poderes y Puntos de poder no pueden cogerse en la creación de personaje, a no ser que se tenga la ventaja Experiencia con los Mitos.
+* Tu PJ empieza con un d4 gratis en Criollo. Esto le permite comunicarse mínimamente con cualquier persona en el Caribe. Puedes adquirir a d6 Taíno, Arahuaco, Castellano, Francés o Inglés en vez del Criollo, pero solo será útil en las áreas de influencia de los respectivos idiomas.
+* Ocultismo desaparece como habilidad. Los conocimientos sobre magia están recogidos por la nueva habilidad de Mitos de Cthulhu. Los conocimientos básicos de Ocultismo, como formas de matar a un zombi o cómo quitar un mal de ojo, puedes integrarlos dentro de Conocimientos Generales. La mitología, las religiones, etc. puedes integrarlos en Humanidades.
+* La desventaja Analfabeto pasa a ser mayor. Aunque la mayoría de la gente no sabe ni leer ni escribir, para una persona que va a estar rodeado de libros y que los necesita para enfrentarse a seres muy poderosos, ser analfabeto es un problema serio.
 
 ### Ideas de personajes
 
@@ -18,16 +18,16 @@ Si quieres hacerte un ratón de biblioteca que sepa de todo, trata de que su bib
 
 Aquí tienes algunos conceptos sobre los que construir tu PJ.
 
-*   **Adalid:** Tu misión en la vida es proteger y ayudar a los que no pueden hacerlo solos. Allá donde haya alguien en problemas, allí irás. El Caribe es a veces un sitio duro y cruel, así que aquí es donde debes estar.
-*   **Alien:** No eres de aquí, no decidiste estar aquí, no pudiste evitar que te trajeran aquí y no quieres estar aquí y, a pesar de que no entiendes este mundo, no te queda otra que aguantar y seguir adelante jugando con sus reglas. Quizás salga una oportunidad que te permita abandonar el Caribe y volver a tu tierra con tu gente.
-*   **Buscavidas:** Tu boca, tu cara y tu encanto te meten y te sacan de muchos problemas y ahora necesitas huir de tus enemigos y/o acreedores. El Caribe es un buen lugar para desaparecer y empezar una nueva vida. Quizás esta vez sea diferente y salga bien.
-*   **Criminal:** El crimen es toda tu vida, es con lo que has crecido y los valores que te han inculcado. El Caribe puede ser un sitio perfecto para salir de esa vida o para medrar en ella. Es tu elección, así que elige bien.
-*   **Demente:** La senda de la locura ya la has recorrido antes, así que nada que veas emerger de las aguas del Caribe te va a acercar más a la demencia de la lo que ya estás.
-*   **Divulgante:** La verdad debe ser conocida y la mentira debe ser combatida. Ese es tu objetivo en el Caribe, que la verdad llegue a todos, ya que sin verdad no somos libres.
-*   **Hedonista:** La vida es una fiesta eterna y tú has venido a vivirla. No hay placer que no hayas experimentado o que no quieras experimentar. En el Caribe y en la vida pirata puedes encontrar nuevos placeres que hasta ahora no habías experimentado. ¿Te lo vas a perder?
-*   **Intelectual:** El conocimiento y el saber es lo más importante para ti y el Caribe es un mundo que explorar y del que aprender. Todos esos misterios escondidos en sus fondos oceánicos y en sus junglas esperan que los saques a la luz.
-*   **Paria:** Hay algo en ti que no encaja con los demás y estás cansado de esconder tus diferencias o de pelearte por ellas. Quizás el Caribe es el lugar donde esas diferencias no importen o donde puedas conseguir que no importen.
-*   **Triunfal:** El éxito y la fortuna han sido tus compañeros desde que naciste, pero nunca es suficiente, siempre necesitas más. El Caribe es ese lugar donde puedes explotar tu potencial al máximo y conseguir el triunfo definitivo.
+* **Adalid:** Tu misión en la vida es proteger y ayudar a los que no pueden hacerlo solos. Allá donde haya alguien en problemas, allí irás. El Caribe es a veces un sitio duro y cruel, así que aquí es donde debes estar.
+* **Alien:** No eres de aquí, no decidiste estar aquí, no pudiste evitar que te trajeran aquí y no quieres estar aquí y, a pesar de que no entiendes este mundo, no te queda otra que aguantar y seguir adelante jugando con sus reglas. Quizás salga una oportunidad que te permita abandonar el Caribe y volver a tu tierra con tu gente.
+* **Buscavidas:** Tu boca, tu cara y tu encanto te meten y te sacan de muchos problemas y ahora necesitas huir de tus enemigos y/o acreedores. El Caribe es un buen lugar para desaparecer y empezar una nueva vida. Quizás esta vez sea diferente y salga bien.
+* **Criminal:** El crimen es toda tu vida, es con lo que has crecido y los valores que te han inculcado. El Caribe puede ser un sitio perfecto para salir de esa vida o para medrar en ella. Es tu elección, así que elige bien.
+* **Demente:** La senda de la locura ya la has recorrido antes, así que nada que veas emerger de las aguas del Caribe te va a acercar más a la demencia de la lo que ya estás.
+* **Divulgante:** La verdad debe ser conocida y la mentira debe ser combatida. Ese es tu objetivo en el Caribe, que la verdad llegue a todos, ya que sin verdad no somos libres.
+* **Hedonista:** La vida es una fiesta eterna y tú has venido a vivirla. No hay placer que no hayas experimentado o que no quieras experimentar. En el Caribe y en la vida pirata puedes encontrar nuevos placeres que hasta ahora no habías experimentado. ¿Te lo vas a perder?
+* **Intelectual:** El conocimiento y el saber es lo más importante para ti y el Caribe es un mundo que explorar y del que aprender. Todos esos misterios escondidos en sus fondos oceánicos y en sus junglas esperan que los saques a la luz.
+* **Paria:** Hay algo en ti que no encaja con los demás y estás cansado de esconder tus diferencias o de pelearte por ellas. Quizás el Caribe es el lugar donde esas diferencias no importen o donde puedas conseguir que no importen.
+* **Triunfal:** El éxito y la fortuna han sido tus compañeros desde que naciste, pero nunca es suficiente, siempre necesitas más. El Caribe es ese lugar donde puedes explotar tu potencial al máximo y conseguir el triunfo definitivo.
 
 Nuevas habilidades
 ------------------
@@ -44,10 +44,10 @@ Mitos de Cthulhu representa los conocimientos que tiene tu personaje sobre los M
 
 Esta habilidad no se puede escoger en la creación del personaje. Solo mediante el estudio de libros prohibidos y enfrentándote a los horrores de los mitos podrás subir esta habilidad. Reglas especiales:
 
-*   No está basada en ningún atributo. Así que su coste es como si quisiéramos subir una habilidad por encima de un atributo. Es decir, que cuesta un avance subir un nivel de la habilidad.
-*   Solo puede subirse una vez por rango, como un atributo.
-*   Para poder subir esta habilidad, tu personaje ha debido enfrentarse a, al menos, una TPC o haber leído un libro prohibido durante las sesiones de juego de ese rango.
-*   No tiene límites, cuando se llega a d12 continuamos con +1, +2, +3, ...
+* No está basada en ningún atributo. Así que su coste es como si quisiéramos subir una habilidad por encima de un atributo. Es decir, que cuesta un avance subir un nivel de la habilidad.
+* Solo puede subirse una vez por rango, como un atributo.
+* Para poder subir esta habilidad, tu personaje ha debido enfrentarse a, al menos, una TPC o haber leído un libro prohibido durante las sesiones de juego de ese rango.
+* No tiene límites, cuando se llega a d12 continuamos con +1, +2, +3, ...
 
 ### Idioma criollo (Astucia)
 
@@ -161,8 +161,7 @@ La megalomanía se caracteriza porque la persona tiene ideas de grandeza, de man
 
 A nivel menor deberá elegir algo en el que quiere el mejor (el más fuerte, el más rápido, el más rico, ...), esto hará que actúe de forma desafiante y agresiva contra las personas que es mejor que él y obtendrá un -1 a todas las tiradas de interacción social con esas personas. A nivel mayor será a nivel general contra toda persona que pueda ser mejor que él en algún campo en el que esté cualificado, es decir, que tenga atributo/habilidad d8 o más.
 
-Nuevas ventajas
----------------
+## Nuevas ventajas
 
 Como en el caso anterior de nuevas desventajas, todas las nuevas ventajas de ¡Arrr! Cthulhu están muy relacionadas con el horror y la cordura y como en el caso anterior, pueden tener mucha influencia en el juego, así que trata de consensuar la elección de estas desventajas con tu DJ y el resto de la mesa.
 
@@ -245,9 +244,9 @@ Benis
 
 Hay nuevos usos para los benis en tres apartados muy importantes de este juego, la magia, la cordura y la navegación. Debes hacer comprender a tu mesa que estos usos normalmente deben ser reservados para momentos épicos, cuando la situación es a vida o muerte y sobre todo "queda bien" en la historia.
 
-*   Puedes gastar todos tus benis (mínimo 1) para lanzar un hechizo sin necesidad de gastar puntos de poder. Esto supone que se pueden lanzar hechizos sin tener puntos de poder o lanzar hechizos que piden más puntos de poder de los que tienes.
-*   Gastando todos tus benis (mínimo 1) puedes hacer un golpe de timón en tus viajes por mar y negar un resultado en la tirada de encuentros en el mar. Se acerca una tormenta y antes de verse rodeada por ella, el piloto del barco hace girar el timón 180º y busca una ruta alternativa.
-*   Como se ve más adelante, se pueden gastar benis para que los trastornos mentales no sean permanentes.
+* Puedes gastar todos tus benis (mínimo 1) para lanzar un hechizo sin necesidad de gastar puntos de poder. Esto supone que se pueden lanzar hechizos sin tener puntos de poder o lanzar hechizos que piden más puntos de poder de los que tienes.
+* Gastando todos tus benis (mínimo 1) puedes hacer un golpe de timón en tus viajes por mar y negar un resultado en la tirada de encuentros en el mar. Se acerca una tormenta y antes de verse rodeada por ella, el piloto del barco hace girar el timón 180º y busca una ruta alternativa.
+* Como se ve más adelante, se pueden gastar benis para que los trastornos mentales no sean permanentes.
 
 Equipo
 ------
@@ -429,11 +428,11 @@ Embarcaciones
 
 Qué sería de una ambientación pirata sin barcos, que muchas veces casi son personajes propios con su propia personalidad y forma de ser. El tema de las embarcaciones vamos a tratarlo de forma genérica creando 5 tipos de naves:
 
-*   **Pequeñas:** perfectas para pescadores y pequeños comerciantes
-*   **Rápidas:** algo más grandes que las anteriores y las más rápidas, perfectas para contrabandistas.
-*   **De transporte de carga:** grandes y lentas para llevar mucha carga.
-*   **De combate:** una media de las anteriores, rápidas, con capacidad de carga y con defensas.
-*   **De guerra:** como las anteriores, pero preparadas no solo para la defensa sino también para el ataque.
+* **Pequeñas:** perfectas para pescadores y pequeños comerciantes
+* **Rápidas:** algo más grandes que las anteriores y las más rápidas, perfectas para contrabandistas.
+* **De transporte de carga:** grandes y lentas para llevar mucha carga.
+* **De combate:** una media de las anteriores, rápidas, con capacidad de carga y con defensas.
+* **De guerra:** como las anteriores, pero preparadas no solo para la defensa sino también para el ataque.
 
 Los barcos tienen dos campos especiales Además, de los normales de vehículos. La carga es el número de barriles llenos de carga para comerciar que puede llevar el barco sin sufrir penalizaciones. Provisiones son el coste de las provisiones necesarias para navegar una semana en doblones.
 
@@ -863,11 +862,11 @@ Ya hemos hablado antes de que por comodidad hay 5 tipos de barcos, pero está cl
 
 Estas naves de combate son de las más pequeñas de su tipo, pero tienen la ventaja de su número. Nunca van solas, sino que van en parejas o dobles parejas escoltando convoyes de barcos de carga o de patrulla por las rutas más comunes que siguen los contrabandistas.
 
-*   **Tipo base:** Naves de combate
-*   **Tripulación:** 30
-*   **Armamento:** 12 cañones
-*   **Capacidades especiales:**
-    *   **Por parejas:** Es muy raro verlas solas, siempre van varias patrulleras juntas.
+* **Tipo base:** Naves de combate
+* **Tripulación:** 30
+* **Armamento:** 12 cañones
+* **Capacidades especiales:**
+    * **Por parejas:** Es muy raro verlas solas, siempre van varias patrulleras juntas.
 
 ### Barco pirata
 
@@ -875,21 +874,21 @@ La mayoría de los barcos piratas que surcan el Caribe no son naves de combate c
 
 Sin embargo, todos estos problemas los compensan con mucho ingenio y mucha experiencia de sus tripulantes. A lo largo de los años han aprendido de sus aciertos y fracasos y todas esas lecciones las han aplicado en sus viejos cascarones.
 
-*   **Tipo base:** Naves de combate
-*   **Tripulación:** 40
-*   **Armamento:** 24 cañones, 2 apuntado a popa y otros 2 a proa.
-*   **Capacidades especiales:**
-    *   **Modificaciones:** El barco puede tener 1 o 2 modificaciones normales.
+* **Tipo base:** Naves de combate
+* **Tripulación:** 40
+* **Armamento:** 24 cañones, 2 apuntado a popa y otros 2 a proa.
+* **Capacidades especiales:**
+    * **Modificaciones:** El barco puede tener 1 o 2 modificaciones normales.
 
 ### Barco cazapirata
 
 Los barcos cazapiratas suelen ser barcos de combate muy parecidos a los barcos piratas, con la ventaja de que suelen ser más nuevos y modernos y no llevan una vida de tormentas y cañonazos. Las reparaciones han sido hechas por profesionales bien pagados en astilleros. Lo que pasa es que les falta la chispa y el ingenio que las tripulaciones piratas ponen en sus queridos navíos.
 
-*   **Tipo base:** Nave de combate
-*   **Tripulación:** 50
-*   **Armamento:** 28 cañones, 2 apuntado a popa y otros 2 a proa.
-*   **Capacidades especiales:**
-    *   **Modificaciones:** El barco puede tener 1 modificación normal.
+* **Tipo base:** Nave de combate
+* **Tripulación:** 50
+* **Armamento:** 28 cañones, 2 apuntado a popa y otros 2 a proa.
+* **Capacidades especiales:**
+    * **Modificaciones:** El barco puede tener 1 modificación normal.
 
 ### Barco de leyenda pirata
 
@@ -897,13 +896,13 @@ El Caribe está lleno de leyendas piratas, capitanes que su simple nombre hiela 
 
 Es importante que les pongas nombre, ya que seguramente puedan aparecer más veces en tus aventuras.
 
-*   **Tipo base:** Nave de combate
-*   **Tripulación:** 60
-*   **Armamento:** 32 cañones dispuestos como ellos quieran.
-*   **Capacidades especiales:**
-    *   **Fama:** Solo con ver su silueta y su pabellón podrás a saber a quién pertenece este navío. Su fama le precede y le otorga un +2 una tirada específica según su fama. Por ejemplo, si tiene fama de buen marino tendrá +2 a Navegar. Si es famoso por sus emboscadas, tendrá un +2 al Sigilo. O un +2 al ataque si es conocido por ser un asesino sanguinario.
-    *   **Modificaciones:** El barco puede tener 2 modificaciones normales.
-    *   **Aliados:** Las leyendas son leyendas por algo y tienen naves aliadas que van con ellos. Suelen ser menos poderosas y grandes. Puedes usar barcos piratas y patrulleras como plantillas para los aliados.
+* **Tipo base:** Nave de combate
+* **Tripulación:** 60
+* **Armamento:** 32 cañones dispuestos como ellos quieran.
+* **Capacidades especiales:**
+    * **Fama:** Solo con ver su silueta y su pabellón podrás a saber a quién pertenece este navío. Su fama le precede y le otorga un +2 una tirada específica según su fama. Por ejemplo, si tiene fama de buen marino tendrá +2 a Navegar. Si es famoso por sus emboscadas, tendrá un +2 al Sigilo. O un +2 al ataque si es conocido por ser un asesino sanguinario.
+    * **Modificaciones:** El barco puede tener 2 modificaciones normales.
+    * **Aliados:** Las leyendas son leyendas por algo y tienen naves aliadas que van con ellos. Suelen ser menos poderosas y grandes. Puedes usar barcos piratas y patrulleras como plantillas para los aliados.
 
 ### Desgracia
 
@@ -911,22 +910,22 @@ Barbanegra tuvo que abandonar el Aventura para capitanear el extraño barco negr
 
 Si la reina Ana y su bandera negra producía miedo en el corazón de sus enemigos, el Desgracia hiela la sangre. De hecho, las gentes de mar evitan mentar su nombre y solo lo llaman "El navío".
 
-*   **Tipo base:** Nave de combate
-*   **Tripulación:** 60 tripulantes, siendo todos o híbridos de profundo o cultistas de la Orden.
-*   **Armamento:** 32 cañones y 2 cañones yithianos en la proa y otros 2 en la popa.
-*   **Capacidades especiales:**
-    *   **TPC:** 1d10. La mera presencia de este navío de velas negras produce horror.
-    *   **Modificaciones:** Ariete, Exclusa de aire en el fondo, Velas de alas de noctivago, Casco de shoggoth y Cañones Yithianos (4)
+* **Tipo base:** Nave de combate
+* **Tripulación:** 60 tripulantes, siendo todos o híbridos de profundo o cultistas de la Orden.
+* **Armamento:** 32 cañones y 2 cañones yithianos en la proa y otros 2 en la popa.
+* **Capacidades especiales:**
+    * **TPC:** 1d10. La mera presencia de este navío de velas negras produce horror.
+    * **Modificaciones:** Ariete, Exclusa de aire en el fondo, Velas de alas de noctivago, Casco de shoggoth y Cañones Yithianos (4)
 
 ### El golpe de suerte
 
 Así rebautizo Mary Read al barco que robo del puerto de Kingston tras escapar de la emboscada de John Barnet. Le ha añadido una serie de modificaciones acordes a su personalidad.
 
-*   **Tipo base:** Nave de combate
-*   **Tripulación:** 52 tripulantes
-*   **Armamento:** 28 cañones
-*   **Capacidades especiales:**
-    *   **Modificaciones:** Ojos de buey en fondo del barco, Velas reforzadas, Mascarón de anulación de magia Lloigor y Tecnología Mi-Go (navegación)
+* **Tipo base:** Nave de combate
+* **Tripulación:** 52 tripulantes
+* **Armamento:** 28 cañones
+* **Capacidades especiales:**
+    * **Modificaciones:** Ojos de buey en fondo del barco, Velas reforzadas, Mascarón de anulación de magia Lloigor y Tecnología Mi-Go (navegación)
 
 ![Horror y cordura](./images/horror-cordura.webp)
 
@@ -1111,10 +1110,10 @@ La TPC del monstruo es específica para cada PJ, pero solo debe hacerse una tira
 
 Las TPCs pueden ser modificadas en determinadas situaciones.
 
-*   **Grandes grupos:** Normalmente, los monstruos de los Mitos son seres solitarios o como mucho viven en grupos muy pequeños, Sin embargo, hay monstruos que viven en grandes grupos y producen más o menos locura según su número. No es lo mismo encontrarse un profundo solitario en una cueva (TPC d4) que ver como cientos de ellos salen del agua y devoran a toda la tripulación y hunden el barco. (TPC d12). Para los monstruos que tengan manada en su TPC deberás consultar la tabla de Grandes grupos.
-*   **Acostumbrarse:** Cada vez que pasas la tirada enfrentada de Astucia contra TPC te vas acostumbrando a ese horror en específico. Deberás apuntar las veces que ha pasado el TPC de determinado monstruo y hasta obtener 4 marcas, con lo que estará acostumbrado a ese horror y obtendrá la ventaja Acostumbrado al horror. Si falla la TPC y pierde puntos de cordura o adquiere un trastorno mental permanente o temporal, perderá una marca.
-*   **Pásame la jarra de ron:** Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, trincándose un buen lingotazo de ron de su petaca antes de abrir la puerta del laboratorio donde los Mi-Go experimentan con humanos, obtendrá un +1 a su tirada de TPC y durará toda la escena. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta), no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, … y deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
-*   **Frenesí del combate:** Una vez empezado el combate, los jugadores no tendrán necesidad de hacer TPC. La adrenalina se encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede pasar que el monstruo aparezca por sorpresa, les deje aturdidos y los ataque a continuación.
+* **Grandes grupos:** Normalmente, los monstruos de los Mitos son seres solitarios o como mucho viven en grupos muy pequeños, Sin embargo, hay monstruos que viven en grandes grupos y producen más o menos locura según su número. No es lo mismo encontrarse un profundo solitario en una cueva (TPC d4) que ver como cientos de ellos salen del agua y devoran a toda la tripulación y hunden el barco. (TPC d12). Para los monstruos que tengan manada en su TPC deberás consultar la tabla de Grandes grupos.
+* **Acostumbrarse:** Cada vez que pasas la tirada enfrentada de Astucia contra TPC te vas acostumbrando a ese horror en específico. Deberás apuntar las veces que ha pasado el TPC de determinado monstruo y hasta obtener 4 marcas, con lo que estará acostumbrado a ese horror y obtendrá la ventaja Acostumbrado al horror. Si falla la TPC y pierde puntos de cordura o adquiere un trastorno mental permanente o temporal, perderá una marca.
+* **Pásame la jarra de ron:** Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, trincándose un buen lingotazo de ron de su petaca antes de abrir la puerta del laboratorio donde los Mi-Go experimentan con humanos, obtendrá un +1 a su tirada de TPC y durará toda la escena. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta), no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, … y deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
+* **Frenesí del combate:** Una vez empezado el combate, los jugadores no tendrán necesidad de hacer TPC. La adrenalina se encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede pasar que el monstruo aparezca por sorpresa, les deje aturdidos y los ataque a continuación.
 
 Tabla de Modificación del TPC por grandes grupos
 
@@ -1231,9 +1230,9 @@ Es por ello que todo comodín en esta ambientación tiene capacidades mágicas, 
 
 #### Trasfondo arcano (Hechicería primigenia)
 
-*   **Habilidad arcana:** Mitos de Cthulhu
-*   **Poderes iniciales:** 0
-*   **Puntos de poder (PP):** Igual al nivel de Espíritu
+* **Habilidad arcana:** Mitos de Cthulhu
+* **Poderes iniciales:** 0
+* **Puntos de poder (PP):** Igual al nivel de Espíritu
 
 Todo personaje dispone de tantos puntos de poder diarios como su nivel de Espíritu que recupera tras una noche de descanso (8 horas de descanso sin interrupciones).
 
@@ -1251,25 +1250,25 @@ La ventaja de Nuevos poderes solo podrá adquirirse tras leer un libro de los mi
 
 Recuperación rápida supondrá que necesitará la mitad de tiempo de descanso para recuperar todos sus puntos de poder. Como ejemplo:
 
-*   Un personaje con Espíritu d6 y Puntos de poder, recuperará 12 puntos de poder tras dormir 8 horas.
-*   Un personaje con Espíritu d6, Puntos de poder x3 y Recuperación rápida, recuperará 24 puntos de poder tras descansar 4 horas.
+* Un personaje con Espíritu d6 y Puntos de poder, recuperará 12 puntos de poder tras dormir 8 horas.
+* Un personaje con Espíritu d6, Puntos de poder x3 y Recuperación rápida, recuperará 24 puntos de poder tras descansar 4 horas.
 
 #### Otras ventajas mágicas
 
 Otras ventajas asociadas a la ventaja Trasfondo Arcano, como Canalización, funcionarán normalmente, pero puede que haya ventajas de otras ambientaciones que quieras usar y que tengas que adaptar teniendo en cuenta estas reglas.
 
-*   Los puntos de poder se basan en Espíritu. Si una ventaja da/quita puntos de poder no será un valor fijo, sino basado en el nivel de Espíritu del personaje.
-*   Todos los comodines tienen la ventaja Trasfondo Arcano (Hechicería primigenia) con lo que cumplirán siempre ese requisito.
-*   La adquisición de ventajas que den (como Nuevos poderes) o mejoren poderes debe estar asociadas al estudio de libros de los Mitos.
-*   Los ornamentos siempre deberían tener un toque nigromántico, oscuro, extradimensional y elemental.
+* Los puntos de poder se basan en Espíritu. Si una ventaja da/quita puntos de poder no será un valor fijo, sino basado en el nivel de Espíritu del personaje.
+* Todos los comodines tienen la ventaja Trasfondo Arcano (Hechicería primigenia) con lo que cumplirán siempre ese requisito.
+* La adquisición de ventajas que den (como Nuevos poderes) o mejoren poderes debe estar asociadas al estudio de libros de los Mitos.
+* Los ornamentos siempre deberían tener un toque nigromántico, oscuro, extradimensional y elemental.
 
 ### Ornamentos
 
-Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lovecraftsiana, deberán tener un toque oscuro, nigromántico muchas veces y rozando la locura y el horror.
+Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lovecraftiana, deberán tener un toque oscuro, nigromántico muchas veces y rozando la locura y el horror.
 
-*   Un objeto maldito que provoque ceguera, debería dejar los ojos del objetivo como cuencas vacías o hacer que los párpados parezcan cosidos.
-*   Protección recubrirá al hechicero de grandes escamas reptilianas o de una estructura quitinosa que le haga parecer un insecto.
-*   Invocar aliados debería traer aliados de entre los muertos o de otras dimensiones.
+* Un objeto maldito que provoque ceguera, debería dejar los ojos del objetivo como cuencas vacías o hacer que los párpados parezcan cosidos.
+* Protección recubrirá al hechicero de grandes escamas reptilianas o de una estructura quitinosa que le haga parecer un insecto.
+* Invocar aliados debería traer aliados de entre los muertos o de otras dimensiones.
 
 ### Poderes permitidos
 
@@ -2316,9 +2315,9 @@ Para poder leer un libro de los Mitos lo primero es que el personaje sea capaz d
 
 Los libros de normal necesitan 1 semana en leerse. Realmente no tienen que ser 7 días exactos, sino que representa una unidad de tiempo un poco larga que puede ser de 3 a 10 días. Una semana puede ser:
 
-*   El tiempo que tardan en carenar el barco.
-*   El tiempo de navegar de una isla a otra. Si el clima dobla o triplica el tiempo del viaje dará para leer más libros si se tiene acceso a ellos.
-*   El tiempo que tarda un juicio.
+* El tiempo que tardan en carenar el barco.
+* El tiempo de navegar de una isla a otra. Si el clima dobla o triplica el tiempo del viaje dará para leer más libros si se tiene acceso a ellos.
+* El tiempo que tarda un juicio.
 
 Serían periodos de varios días de relativa tranquilidad en la que poder centrarte a leer y estudiar.
 
@@ -2344,11 +2343,11 @@ Los personajes irán acumulando libros a lo largo de sus aventuras. Estas peque�
 
 Cada libro tiene una serie de características que se definen haciendo tiradas en un sistema de tablas:
 
-*   Título. Tira solo si no se te ocurre un nombre.
-*   Idioma.
-*   TPC.
-*   Tamaño.
-*   Estado de conservación.
+* Título. Tira solo si no se te ocurre un nombre.
+* Idioma.
+* TPC.
+* Tamaño.
+* Estado de conservación.
 
 Tabla de Título para libro
 
@@ -2699,11 +2698,11 @@ Si consiguen huir los marineros quedarán trastornados mentalmente (-1 a todas l
 
 Se pueden usar diferentes hechizos en combate naval, principalmente la manipulación elemental para conseguir diferentes efectos. Veamos algunos ejemplos.
 
-*   **Manipulación elemental de agua:** Se puede mover el agua de mar para apagar fuegos en el barco.
-*   **Manipulación elemental de aire:** Se puede invocar vientos durante un corto tiempo(una ronda de persecución) que hinchen las velas y mejoren la velocidad de la nave en 20%.
-*   **Manipulación elemental de fuego:** Se puede invocar fuego en las velas y el aparejo del barco enemigo. El barco incendiado tendrá 10 turnos para apagarlo o recibirá una herida. Una vez incendiadas las velas perderá toda la capacidad de moverse.
-*   **Manipulación elemental de madera:** Combando la madera se pueden abrir vías de agua en el casco del enemigo. Tendrá 10 turnos para repararlo o el barco recibirá 1 herida. También puede durante un turno atascar el timón del barco imponiéndole un -2 a la maniobrabilidad. Por último, puede tratar de inutilizar un cañón enemigo rompiendo sus ruedas de madera. En todos esos casos deben pasar con su tirada hechicería primigenia la resistencia del objetivo.
-*   **Vínculo mental:** Si el mago consigue conectar con un vínculo mental a un 25% de la tripulación necesaria, se puede obtener un +1 a la maniobrabilidad debido a la buena comunicación de todos los marineros. Deberá lanzarse este hechizo por cada turno de persecución.
+* **Manipulación elemental de agua:** Se puede mover el agua de mar para apagar fuegos en el barco.
+* **Manipulación elemental de aire:** Se puede invocar vientos durante un corto tiempo(una ronda de persecución) que hinchen las velas y mejoren la velocidad de la nave en 20%.
+* **Manipulación elemental de fuego:** Se puede invocar fuego en las velas y el aparejo del barco enemigo. El barco incendiado tendrá 10 turnos para apagarlo o recibirá una herida. Una vez incendiadas las velas perderá toda la capacidad de moverse.
+* **Manipulación elemental de madera:** Combando la madera se pueden abrir vías de agua en el casco del enemigo. Tendrá 10 turnos para repararlo o el barco recibirá 1 herida. También puede durante un turno atascar el timón del barco imponiéndole un -2 a la maniobrabilidad. Por último, puede tratar de inutilizar un cañón enemigo rompiendo sus ruedas de madera. En todos esos casos deben pasar con su tirada hechicería primigenia la resistencia del objetivo.
+* **Vínculo mental:** Si el mago consigue conectar con un vínculo mental a un 25% de la tripulación necesaria, se puede obtener un +1 a la maniobrabilidad debido a la buena comunicación de todos los marineros. Deberá lanzarse este hechizo por cada turno de persecución.
 
 ### Abordaje de monstruos
 
@@ -2867,15 +2866,15 @@ Todos sabemos que lo que mueve a los piratas es saquear barcos, conseguir un bue
 
 Todos los seres que hacen perder cordura tienen botín si son derrotados. Después de vencer al monstruo, uno de los jugadores deberá lanzar la TPC básica del monstruo. Según los éxitos que consigan podrán tirar en diferentes tablas:
 
-*   Tabla de riquezas (1 éxito).
-*   Tabla de objetos extraordinarios (2 éxitos). Solo puede cogerse una vez por TPC.
-*   Tabla más allá del tiempo y el espacio (3 éxitos). Solo puede cogerse una vez por TPC.
+* Tabla de riquezas (1 éxito).
+* Tabla de objetos extraordinarios (2 éxitos). Solo puede cogerse una vez por TPC.
+* Tabla más allá del tiempo y el espacio (3 éxitos). Solo puede cogerse una vez por TPC.
 
 Si se consigue:
 
-*   1 éxito puede tirar 1 vez en la tabla de riquezas.
-*   2 éxitos puede tirar 2 veces en la tabla de riquezas o 1 en la tabla de objetos extraordinarios.
-*   3 éxitos suponen, 3 tiradas en la tabla de riquezas, 1 en la de riqueza más 1 en la de objetos extraordinarios o solo 1 en la tabla más allá del tiempo y el espacio.
+* 1 éxito puede tirar 1 vez en la tabla de riquezas.
+* 2 éxitos puede tirar 2 veces en la tabla de riquezas o 1 en la tabla de objetos extraordinarios.
+* 3 éxitos suponen, 3 tiradas en la tabla de riquezas, 1 en la de riqueza más 1 en la de objetos extraordinarios o solo 1 en la tabla más allá del tiempo y el espacio.
 
 Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan tirada de botín que deberemos usar como si fuera la tirada de pérdida de cordura, salvo que en esos casos no se podrán usar éxitos en la tabla de más allá del tiempo y el espacio.
 
@@ -3648,15 +3647,15 @@ Especial, ver a continuación.
 
 Con un huracán en el mar puede pasar cualquier cosa. El director de juego puede hacer lo que quiera. Ejemplos:
 
-*   Hundir el barco y hacerles perder todo lo que tengan. Puede que les rescate otro barco de amigos o enemigos o que acaben en una playa en una isla desierta.
-*   El barco tiene que volverse al puerto de salida, perdiendo tiempo y dinero, tanto en provisiones como en reparaciones. Puede darse el caso, incluso, que fracasen en su misión por no llegar a tiempo a su destino.
-*   El barco se pierde en el huracán y pueden acabar Más allá del tiempo y del espacio.
+* Hundir el barco y hacerles perder todo lo que tengan. Puede que les rescate otro barco de amigos o enemigos o que acaben en una playa en una isla desierta.
+* El barco tiene que volverse al puerto de salida, perdiendo tiempo y dinero, tanto en provisiones como en reparaciones. Puede darse el caso, incluso, que fracasen en su misión por no llegar a tiempo a su destino.
+* El barco se pierde en el huracán y pueden acabar Más allá del tiempo y del espacio.
 
 El huracán en tierra no es menos terrible, puede arrasar una isla, destruyendo todos los edificios e inundando los campos y los caminos. El director de juego puede hacer lo que quiera. Ejemplos:
 
-*   El lugar de destino de tu mesa ha sido destruido por el huracán. No hay provisiones ni agua potable (y menos para el viaje de vuelta), está lleno de muertos y heridos, hay enfermedades, saqueos, ... Puede ser sin problemas el inicio de una interesante aventura por salvar a los supervivientes o una oportunidad de establecerse en ese lugar.
-*   El grupo tiene que volverse al punto de salida, perdiendo tiempo y dinero. Puede darse el caso, incluso, que fracasen en su misión por no llegar a tiempo.
-*   El huracán y las inundaciones desentierran unas antiguas ruinas que explorar o de las que sale un antiguo mal. Puede ser que se encuentren las ruinas en su camino o que al llegar a su destino sus habitantes les hablen del lugar.
+* El lugar de destino de tu mesa ha sido destruido por el huracán. No hay provisiones ni agua potable (y menos para el viaje de vuelta), está lleno de muertos y heridos, hay enfermedades, saqueos, ... Puede ser sin problemas el inicio de una interesante aventura por salvar a los supervivientes o una oportunidad de establecerse en ese lugar.
+* El grupo tiene que volverse al punto de salida, perdiendo tiempo y dinero. Puede darse el caso, incluso, que fracasen en su misión por no llegar a tiempo.
+* El huracán y las inundaciones desentierran unas antiguas ruinas que explorar o de las que sale un antiguo mal. Puede ser que se encuentren las ruinas en su camino o que al llegar a su destino sus habitantes les hablen del lugar.
 
 ### Encuentros en el mar
 

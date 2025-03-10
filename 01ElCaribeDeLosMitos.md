@@ -236,11 +236,11 @@ La Hermandad nunca ha sido muy numerosa, ya en su creación solo había 10 integ
 
 La Hermandad es muy cuidadosa al buscar aspirantes, de hecho, Mary Read es su principal reclutadora, pero cada vez le es más difícil conseguir nuevos reclutas.
 
-*   **Mary Read.** Actual líder de la Hermandad.
-*   **Antoine Delapore:** Editor en jefe y propietario de la Verdad de La Habana.
-*   **Cesar:** Cesar está infiltrado como el lugarteniente de Barbanegra. Oficialmente, no es un enemigo de la Hermandad debido a que debe mantener su tapadera, pero, extraoficialmente, para Mary Read es un hermano de pleno derecho.
-*   **Fray Tomás Linares del Castillo:** Fray Tomas es el rector de la Universidad de La Habana. Antes de tomar los hábitos fue un noble menor español que emigró a las Indias Occidentales en busca de fortuna. La vida lo llevo a acabar de corsario para la corona de España. Fue uno de los 10 capitanes piratas que creo la Hermandad. En mitad de un huracán tuvo una visión y tomo los hábitos, pero no abandono la Hermandad y mantiene su promesa. Es el principal contacto de la Hermandad con el estamento intelectual y educativo.
-*   **Quien tú quieras:** Puede hacer hermano o hermana a quien tú quieras. No tienen ni que ser buenas personas, solo odiar a la RCPC o tener deudas pendientes con la Orden. También puedes ordenar a quien quieras durante tus sesiones.
+* **Mary Read.** Actual líder de la Hermandad.
+* **Antoine Delapore:** Editor en jefe y propietario de la Verdad de La Habana.
+* **Cesar:** Cesar está infiltrado como el lugarteniente de Barbanegra. Oficialmente, no es un enemigo de la Hermandad debido a que debe mantener su tapadera, pero, extraoficialmente, para Mary Read es un hermano de pleno derecho.
+* **Fray Tomás Linares del Castillo:** Fray Tomas es el rector de la Universidad de La Habana. Antes de tomar los hábitos fue un noble menor español que emigró a las Indias Occidentales en busca de fortuna. La vida lo llevo a acabar de corsario para la corona de España. Fue uno de los 10 capitanes piratas que creo la Hermandad. En mitad de un huracán tuvo una visión y tomo los hábitos, pero no abandono la Hermandad y mantiene su promesa. Es el principal contacto de la Hermandad con el estamento intelectual y educativo.
+* **Quien tú quieras:** Puede hacer hermano o hermana a quien tú quieras. No tienen ni que ser buenas personas, solo odiar a la RCPC o tener deudas pendientes con la Orden. También puedes ordenar a quien quieras durante tus sesiones.
 
 Como ya hablaremos más adelante, la Hermandad tiene una red pisos francos y cada piso está cuidado por alguien de la Hermandad. Aunque se les puede pedir favores como a cualquiera de la Hermandad, se considera que con cuidar del piso franco cumplen con sus obligaciones.
 
@@ -335,10 +335,10 @@ Con la llegada de los conquistadores españoles y sobre todo su tecnología mili
 
 Antes de las llegadas de las potencias europeas, los taínos se dividían en cuatro clases sociales distintas, de corte muy feudal:
 
-*   **cacique o guare:** El jefe de la tribu
-*   **nitaínos:** Los nobles de la tribu. Eran familiares del cacique y actuaban como guerreros.
-*   **behikes:** Los sacerdotes que guardaban las creencias religiosas y mágicas.
-*   **naborias:** Los aldeanos trabajadores de la tierra.
+* **cacique o guare:** El jefe de la tribu
+* **nitaínos:** Los nobles de la tribu. Eran familiares del cacique y actuaban como guerreros.
+* **behikes:** Los sacerdotes que guardaban las creencias religiosas y mágicas.
+* **naborias:** Los aldeanos trabajadores de la tierra.
 
 El poder del cacique era absoluto y se heredaba. Cada cacique tenía su cacicazgo, su reino, que se dividía en nitaínos, controlado por un noble nitaínos. Cuando llego Colón había 5 grandes cacicazgos en Cuba y 2 en Puerto Rico.
 
@@ -698,9 +698,9 @@ Los profundos del Caribe se dividen en 3 grandes tribus que tienen diferentes zo
 
 ![](./images/mapa-profundos.webp)
 
-*   **Throd s'uhn (Corriente del Golfo).** Esta tribu se localiza en la parte norte del Caribe, en las aguas bañadas por la corriente cálida del Golfo. Sería el golfo de México, costa Norte de Cuba y La Española, Florida y sus cayos.
-*   **N'gha syha'h (Corriente del Caribe).** Esta tribu se encuentra en las aguas que recorre la corriente del Caribe, que baña la costa sur de Cuba y La Española hasta el llegar al continente sudamericano.
-*   **Uh'e kn'a (Corriente de las Antillas).** La tribu de la corriente de las Antillas controlaría las costas de las Bahamas y las Antillas Menores.
+* **Throd s'uhn (Corriente del Golfo).** Esta tribu se localiza en la parte norte del Caribe, en las aguas bañadas por la corriente cálida del Golfo. Sería el golfo de México, costa Norte de Cuba y La Española, Florida y sus cayos.
+* **N'gha syha'h (Corriente del Caribe).** Esta tribu se encuentra en las aguas que recorre la corriente del Caribe, que baña la costa sur de Cuba y La Española hasta el llegar al continente sudamericano.
+* **Uh'e kn'a (Corriente de las Antillas).** La tribu de la corriente de las Antillas controlaría las costas de las Bahamas y las Antillas Menores.
 
 Las relaciones entre las 3 grandes tribus son constantes y puede ser de muchas índoles. Desde comerciales hasta disputas por territorios, aunque estás últimas son menos comunes. Todo el comercio se basa en un sistema de trueques. Digamos que su economía es muy básica entre ellos.
 
@@ -799,9 +799,9 @@ No sería extraño que si tu mesa es acusada de piratería y capturada terminen 
 
 Claramente, el principal agente que hace uso de trabajo forzado es la RCPC. Las ventajas que obtiene del trabajo forzado son muy claras.
 
-*   **Mano de obra obligada a trabajar en cualquier condición.** Si la RCPC necesita crear una carretera por una zona pantanosa, ningún trabajador libre querrá trabajar en un sitio en que fácilmente puede morir de fiebres. Los presos son los trabajadores perfectos para este tipo de trabajo.
-*   **Nadie les va a creer.** Si cuentan historias extrañas de sus carceleros o de las obras que realizan, nadie les va a creer. Si hay que excavar un templo perdido mi-go o construir una gran capilla de adoración a Cthulhu, nadie creara lo que cuente.
-*   **Son fácilmente sustituibles.** La RCPC tiene capacidad de legal de detener a personas libres, sobre todo acusándolas de contrabando y piratería. Eso le da capacidad si soborna a jueces o están dentro de la Orden para conseguir presos fácilmente. Si fuera necesario, también puede deshacerse de ellos fácilmente, simulando un ataque de piratas o ejércitos enemigos.
+* **Mano de obra obligada a trabajar en cualquier condición.** Si la RCPC necesita crear una carretera por una zona pantanosa, ningún trabajador libre querrá trabajar en un sitio en que fácilmente puede morir de fiebres. Los presos son los trabajadores perfectos para este tipo de trabajo.
+* **Nadie les va a creer.** Si cuentan historias extrañas de sus carceleros o de las obras que realizan, nadie les va a creer. Si hay que excavar un templo perdido mi-go o construir una gran capilla de adoración a Cthulhu, nadie creara lo que cuente.
+* **Son fácilmente sustituibles.** La RCPC tiene capacidad de legal de detener a personas libres, sobre todo acusándolas de contrabando y piratería. Eso le da capacidad si soborna a jueces o están dentro de la Orden para conseguir presos fácilmente. Si fuera necesario, también puede deshacerse de ellos fácilmente, simulando un ataque de piratas o ejércitos enemigos.
 
 Callado está dicho que muchos de los sacrificios humanos que necesita la Orden en sus rituales pueden provenir de los presos condenados a trabajos forzados.
 
@@ -849,9 +849,9 @@ Aunque estemos en el Caribe en 1722 rodeados de salvajes piratas, oscuras jungla
 
 Las historias de los Mitos y el profesorado de las universidades es algo muy típico en los relatos de Lovecraft, es por ello que aquí tienes un listado de Universidades que ya existen en 1722 en el Caribe, por si quieres que tu personaje tenga relación con alguna de ellas.
 
-*   La **Universidad Santo Tomás de Aquino** en Santo Domingo lleva ya 200 años siendo una importante institución educativa superior.
-*   La **Universidad de La Habana** ha sido inaugurada hace unos años (1719) por frailes Dominicos.
-*   Como nota interesante diremos que la **Universidad de Miskatonic** se fundó en 1690, es decir, hace unos 32 años. Así que perfectamente puede haber profesores de la Universidad de Miskatonic corriendo aventuras por el Caribe o una expedición científica del departamento de arqueología buscando una ciudad perdida. Incluso se podría mandar una carta al bibliotecario de Miskatonic para consultar algún pasaje de su copia del Necronomicón.
+* La **Universidad Santo Tomás de Aquino** en Santo Domingo lleva ya 200 años siendo una importante institución educativa superior.
+* La **Universidad de La Habana** ha sido inaugurada hace unos años (1719) por frailes Dominicos.
+* Como nota interesante diremos que la **Universidad de Miskatonic** se fundó en 1690, es decir, hace unos 32 años. Así que perfectamente puede haber profesores de la Universidad de Miskatonic corriendo aventuras por el Caribe o una expedición científica del departamento de arqueología buscando una ciudad perdida. Incluso se podría mandar una carta al bibliotecario de Miskatonic para consultar algún pasaje de su copia del Necronomicón.
 
 ### Archivos y bibliotecas
 

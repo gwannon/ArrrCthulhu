@@ -69,11 +69,11 @@ Arriba Mary Read y sus suboficiales están entrevistando a cada prisionero. Busc
 
 Mary, desde de un estrado improvisado con unas tablas y unos toneles, empezará a interrogar a cada personaje. Pregunta cosas como lugar de nacimiento, profesión o edad. Es un buen momento para rellenar estas partes de la ficha que nunca nadie completa. Después pasará a preguntas como:
 
-*   ¿Qué hacías en el Carcosa? ¿A dónde ibas?
-*   ¿A qué te dedicas?
-*   ¿De dónde es tu familia?
-*   ¿Has trabajado para la Real Compañía Privilegiada del Caribe? ¿Qué hacías?
-*   Más preguntas de este tipo que se te ocurran.
+* ¿Qué hacías en el Carcosa? ¿A dónde ibas?
+* ¿A qué te dedicas?
+* ¿De dónde es tu familia?
+* ¿Has trabajado para la Real Compañía Privilegiada del Caribe? ¿Qué hacías?
+* Más preguntas de este tipo que se te ocurran.
 
 No les dejes mucho tiempo para contestar, es preferible que sean espontáneos. Cuando acabe con cada personaje, no lo devuelve a la bodega, sino que los aparta a un lado suyo. Cuando haya interrogado a toda la mesa, se acercará a ellos dispuesta a dar un discurso, carraspeará, resoplará y cuando vaya a empezar se oirá un grito.
 
@@ -123,10 +123,10 @@ Durante una semana estarán haciendo modificaciones al Carcosa, entre ellas camb
 
 Si no han aceptado el trato, el equipo de Mary hará reparaciones básicas, pero las alargarán todo lo que se pueda. Mary quiere tenerlos unos días bajo su influencia para hacerles cambiar de opinión.
 
-*   El marino del brazo de reptil les contará que era un agricultor al que la RCPC secuestro y lo tuvo encerrado durante semanas probando ungüentos y pócimas en su cuerpo. Fue el único que sobrevivió de su poblado. Mary y su gente lo liberaron y desde entonces le es fiel.
-*   Unas de las noches, un vecino de hamaca empezará a hablar en sueños en un extraño y gutural idioma. Vendrán a sus cabezas imágenes de una ciudad submarina donde yace ni vivo ni muerto un gigantesco ser del que solo se dibuja su descomunal silueta y se ven sus brillantes ojos verdes. Si pregunta a la mañana siguiente, les dirán que ese es el dios al que adora los que dirigen la RCPC.
-*   Dos tripulantes cogen instrumentos y empiezan a contar las aventuras de la capitán Read y los golpes más duros que ha asestado a la RCPC y la Orden.
-*   Mary Read coqueteará e intentará seducir a alguien de tu mesa.
+* El marino del brazo de reptil les contará que era un agricultor al que la RCPC secuestro y lo tuvo encerrado durante semanas probando ungüentos y pócimas en su cuerpo. Fue el único que sobrevivió de su poblado. Mary y su gente lo liberaron y desde entonces le es fiel.
+* Unas de las noches, un vecino de hamaca empezará a hablar en sueños en un extraño y gutural idioma. Vendrán a sus cabezas imágenes de una ciudad submarina donde yace ni vivo ni muerto un gigantesco ser del que solo se dibuja su descomunal silueta y se ven sus brillantes ojos verdes. Si pregunta a la mañana siguiente, les dirán que ese es el dios al que adora los que dirigen la RCPC.
+* Dos tripulantes cogen instrumentos y empiezan a contar las aventuras de la capitán Read y los golpes más duros que ha asestado a la RCPC y la Orden.
+* Mary Read coqueteará e intentará seducir a alguien de tu mesa.
 
 Al final de la semana les volverá reunir y les volverá a preguntar. Si después de todo esto no aceptan déjales irse con el Carcosa, pero la predicción de Mary se cumplirá a la perfección.
 
@@ -534,9 +534,9 @@ Puede que tu mesa tenga un ingenio submarino como campanas de buceo y experienci
 
 Tendrán que buscar alguna forma de poder bajar y subir a tales profundidades y también poder ver en esas profundidades. Veamos algunas opciones.
 
-*   La magia puede ser la solución. Los hechizos de Hidromiel espacial o Adaptación permitirían bajar a esas profundidades el hechizo de Luz de día podrían solucionar ese problema. Hidromancia podría crear una burbuja gigante para bajar dentro de ella. Isadora podría conseguirle el libro adecuado con los hechizos que necesitan.
-*   Si una tribu de profundos les debe un favor (Caracola de los profundos) igual pueden cobrárselo para que los bajen a esas profundidades.
-*   Algún científico loco podría diseñarles algún engendro mecánico.
+* La magia puede ser la solución. Los hechizos de Hidromiel espacial o Adaptación permitirían bajar a esas profundidades el hechizo de Luz de día podrían solucionar ese problema. Hidromancia podría crear una burbuja gigante para bajar dentro de ella. Isadora podría conseguirle el libro adecuado con los hechizos que necesitan.
+* Si una tribu de profundos les debe un favor (Caracola de los profundos) igual pueden cobrárselo para que los bajen a esas profundidades.
+* Algún científico loco podría diseñarles algún engendro mecánico.
 
 Si no pueden hilar un plan mínimamente viable, pueden preguntar a Read y les dirá un laboratorio de la RCPC donde robar una campana de buceo para grandes profundidades.
 
@@ -688,14 +688,14 @@ Puedes ir dándoles pistas en cada puerto al que lleguen y pueden conseguirlo, s
 
 Estas son algunas de las pistas que pueden descubrir investigando las actividades de la RCPC por el Caribe.
 
-*   Una de las pistas clave para descubrir el plan es detectar las compras de terreno en las islas de las Antillas Menores. La RCPC está comprando tierras en islas de las Antillas Menores con volcanes. Los terrenos que han comprado son terrenos en las faldas de los volcanes con muy poco valor. Estos datos los pueden encontrar en los catastros de cada isla.
-*   Han comprado grandes cantidades de material de minería y todo es enviado a las Antillas Menores. Pueden descubrir pedidos de picos, palas, cubos y taladros, que no son herramientas que normalmente usen en la RCPC. Si escarban, verán que todo va a las islas de las Antillas menores donde han pillado terrenos.
-*   Si ven pedidos extraños de componentes químicos, alguna persona de ciencia podría decirles que son productos inestables que sirven para hacer algún tipo de explosivo de gran potencia.
-*   También hay facturas de la compra de unos cronómetros de precisión carísimos y hechos siguiendo indicaciones precisas con una cuenta atrás de 2 horas. Se ha pagado una fortuna para que un relojero inglés los haga de la mejor calidad en un tiempo récord.
-*   En la VLH podrán encontrar referencias a gentes de ciencias de Europa que han venido al Caribe pagados por La RCPC. Son personas expertas en geología o en química y normalmente han sido repudiados por la comunidad científica por sus estudios y experimentos moralmente cuestionables o, incluso, directamente delictivos. Si consiguen alguno de sus estudios, por ejemplo, pidiéndolos a sus universidades en Europa, podrán ver que se dedican a dos temas principales, nuevos explosivos y unas teorías nuevas sobre lo que crea los volcanes y terremotos. Estas teorías dicen que los continentes se mueven sobre una capa de lava y magma líquido del interior de la tierra, los terremotos son choques entre continentes y los volcanes escapes de lava.
-*   Si visitan algún terreno comprado verán que son minas que no parece muy beneficiosas, pero están muy fuertemente protegidos, con vallas y guardas muy armados.
-*   Algún confidente de la Hermandad puede encauzarles hacia las anteriores pistas, si los ves muy perdidos.
-*   Si juegan los relatos "El secreto tatuado" o "Cuando la tierra tiembla" saben que tienen capacidad de usar chthonianos y pueden crean terremotos a voluntad. Si hundieron Port Royal con un terremoto, igual uno de mayor magnitud bien dirigido pueda elevar a R'lyeh.
+* Una de las pistas clave para descubrir el plan es detectar las compras de terreno en las islas de las Antillas Menores. La RCPC está comprando tierras en islas de las Antillas Menores con volcanes. Los terrenos que han comprado son terrenos en las faldas de los volcanes con muy poco valor. Estos datos los pueden encontrar en los catastros de cada isla.
+* Han comprado grandes cantidades de material de minería y todo es enviado a las Antillas Menores. Pueden descubrir pedidos de picos, palas, cubos y taladros, que no son herramientas que normalmente usen en la RCPC. Si escarban, verán que todo va a las islas de las Antillas menores donde han pillado terrenos.
+* Si ven pedidos extraños de componentes químicos, alguna persona de ciencia podría decirles que son productos inestables que sirven para hacer algún tipo de explosivo de gran potencia.
+* También hay facturas de la compra de unos cronómetros de precisión carísimos y hechos siguiendo indicaciones precisas con una cuenta atrás de 2 horas. Se ha pagado una fortuna para que un relojero inglés los haga de la mejor calidad en un tiempo récord.
+* En la VLH podrán encontrar referencias a gentes de ciencias de Europa que han venido al Caribe pagados por La RCPC. Son personas expertas en geología o en química y normalmente han sido repudiados por la comunidad científica por sus estudios y experimentos moralmente cuestionables o, incluso, directamente delictivos. Si consiguen alguno de sus estudios, por ejemplo, pidiéndolos a sus universidades en Europa, podrán ver que se dedican a dos temas principales, nuevos explosivos y unas teorías nuevas sobre lo que crea los volcanes y terremotos. Estas teorías dicen que los continentes se mueven sobre una capa de lava y magma líquido del interior de la tierra, los terremotos son choques entre continentes y los volcanes escapes de lava.
+* Si visitan algún terreno comprado verán que son minas que no parece muy beneficiosas, pero están muy fuertemente protegidos, con vallas y guardas muy armados.
+* Algún confidente de la Hermandad puede encauzarles hacia las anteriores pistas, si los ves muy perdidos.
+* Si juegan los relatos "El secreto tatuado" o "Cuando la tierra tiembla" saben que tienen capacidad de usar chthonianos y pueden crean terremotos a voluntad. Si hundieron Port Royal con un terremoto, igual uno de mayor magnitud bien dirigido pueda elevar a R'lyeh.
 
 Ten en cuenta que si preguntan mucho, la RCPC podría enterarse. Así que como mucho deberían intentar conseguir una pista de cada puerto o ciudad. Si tratan de sacar más, seguramente tendrán algún encuentro inesperado en algún callejón oscuro.
 
@@ -873,20 +873,20 @@ Villalba lleva el ejército más grande con varios barcos de guerra con dotacion
 
 Puedes calcular los tokens de fuerza de las fuerzas de tu mesa siguiendo esta guía.
 
-*   1,5 tokens por a tripulación de tu mesa, 1,5 por la del Golpe de suerte y 1,5 por la del Desgracia.
-*   1 token por la tripulación de El Sabueso, si son aliados.
-*   1 token por cada tripulación de barcos de combate o de guerra.
-*   0,5 tokens por cada tripulación de barcos de carga o rápidos.
-*   0.5 tokens por Adolfé.
-*   0.5 tokens por Michelle LeCourt y su banda.
-*   0.5 tokens por cada tribu profunda que consigan traer. Por ejemplo, si tienen el apoyo de la familia de Los Santos de las islas Caimán. Recuerda que no sirve la caracola de los profundos, no se meterían en situaciones que pongan en peligro su vida por la caracola.
-*   0.5 tokens por cada tribu taína que les apoye. Por ejemplo, la gente del cacique Corozo.
-*   0.5 tokens por el clan de gules de El Susurros.
-*   Si consiguen alistar a Totep entre las fuerzas enemigas, ganan 0.5 tokens. En cuanto empiece el jaleo, se pondrá a hacer sus locuras entre las filas enemigas.
-*   2 token si liberan a los lloigors para que combatan.
-*   Si Johanna Ribeiro y su secta se les unen, dales 0.5 tokens.
-*   A discreción tuya, pueden intentar hablar con los seres inteligentes del Jardín de la Reina. Pueden convencerles de que les apoyen contra los que les han hecho tanto daño. Los tokens los asignas tú según veas que consiguen.
-*   No servirá de nada arrastrar al shoggoth isla a la playa o meter en el campo de batalla a chthonianos, son demasiado incontrolables y dañarían a ambos bandos.
+* 1,5 tokens por a tripulación de tu mesa, 1,5 por la del Golpe de suerte y 1,5 por la del Desgracia.
+* 1 token por la tripulación de El Sabueso, si son aliados.
+* 1 token por cada tripulación de barcos de combate o de guerra.
+* 0,5 tokens por cada tripulación de barcos de carga o rápidos.
+* 0.5 tokens por Adolfé.
+* 0.5 tokens por Michelle LeCourt y su banda.
+* 0.5 tokens por cada tribu profunda que consigan traer. Por ejemplo, si tienen el apoyo de la familia de Los Santos de las islas Caimán. Recuerda que no sirve la caracola de los profundos, no se meterían en situaciones que pongan en peligro su vida por la caracola.
+* 0.5 tokens por cada tribu taína que les apoye. Por ejemplo, la gente del cacique Corozo.
+* 0.5 tokens por el clan de gules de El Susurros.
+* Si consiguen alistar a Totep entre las fuerzas enemigas, ganan 0.5 tokens. En cuanto empiece el jaleo, se pondrá a hacer sus locuras entre las filas enemigas.
+* 2 token si liberan a los lloigors para que combatan.
+* Si Johanna Ribeiro y su secta se les unen, dales 0.5 tokens.
+* A discreción tuya, pueden intentar hablar con los seres inteligentes del Jardín de la Reina. Pueden convencerles de que les apoyen contra los que les han hecho tanto daño. Los tokens los asignas tú según veas que consiguen.
+* No servirá de nada arrastrar al shoggoth isla a la playa o meter en el campo de batalla a chthonianos, son demasiado incontrolables y dañarían a ambos bandos.
 
 Villalba no intentará nada antes de la batalla, hay un cierto honor en su forma de actuar y cree que su dios le beneficiará en la batalla. El fracaso de los volcanes es una prueba de fe de su señor Cthulhu. Eso no quiere decir que el otro lado de la contienda no haga nada. Si la trampa que van a poner en práctica te parece buena puedes darles un marcador extra.
 
@@ -923,9 +923,9 @@ Si intentan seguir el rastro del encapuchado cuando consigan llegar a los tejado
 
 Siguiéndoles entran varias personas y alguno empieza a llamar a la guardia. Si quieren tendrán unos minutos antes de que lleguen las autoridades para examinar el cadáver y la escena del crimen. Algunas acciones que pueden hacer son:
 
-*   **Examinar el cadáver:** El cadáver tiene los pantalones bajados y parece que se meó encima. Parece que tenía la piel de la cara y el pelo oscurecido como una especie de tinte. Con Medicina podrán ver que las heridas son mortales y que la parte de piel de la espalda que falta no es por alguna herida, sino que ha sido extraída a propósito.
-*   **Buscar entre sus pertenencias:** El cadáver tiene la bolsa llena de oro, unos naipes y una buena daga ricamente adornada con marfil y plata con un escudo familiar. Parece que tuvo una buena noche. Desde luego el robo queda descartado. Con Humanidades podrán ver que el escudo de la daga pertenece a los García, una rica familia de armadores de Santo Domingo.
-*   **Examinar el callejón:** Con una tirada de Investigar podrán ver que el asaltante estaba escondido en uno de los tejadillos del callejón, hay restos de tejas rotas recientemente que se cayeron al saltar sobre su víctima. El muerto entró y se puso a mear contra una pared y el asesino cayó sobre él asestándole un golpe mortal. Desde luego no es un delincuente común. Esto, junto a sus dotes de escalador cuando huía, denota que es un criminal preparado y profesional.
+* **Examinar el cadáver:** El cadáver tiene los pantalones bajados y parece que se meó encima. Parece que tenía la piel de la cara y el pelo oscurecido como una especie de tinte. Con Medicina podrán ver que las heridas son mortales y que la parte de piel de la espalda que falta no es por alguna herida, sino que ha sido extraída a propósito.
+* **Buscar entre sus pertenencias:** El cadáver tiene la bolsa llena de oro, unos naipes y una buena daga ricamente adornada con marfil y plata con un escudo familiar. Parece que tuvo una buena noche. Desde luego el robo queda descartado. Con Humanidades podrán ver que el escudo de la daga pertenece a los García, una rica familia de armadores de Santo Domingo.
+* **Examinar el callejón:** Con una tirada de Investigar podrán ver que el asaltante estaba escondido en uno de los tejadillos del callejón, hay restos de tejas rotas recientemente que se cayeron al saltar sobre su víctima. El muerto entró y se puso a mear contra una pared y el asesino cayó sobre él asestándole un golpe mortal. Desde luego no es un delincuente común. Esto, junto a sus dotes de escalador cuando huía, denota que es un criminal preparado y profesional.
 
 Cada PJ solo podrá llevar a cabo una de las acciones, podrán ayudarse si quieren. Deberán primero decir que hace y luego tirar. Lo que no se averigüe ahora ya no podrá descubrirse, porque la guardia se cargará las pruebas.
 
@@ -1017,14 +1017,14 @@ El primer paso, como les indicó Salvador, sería ir a hablar con los jesuitas d
 
 Ceiba es una buhonera taína que se dedica a moverse por la jungla entre las comunidades de la selva comprando y vendiendo objetos, llevando mensajes y misivas y a veces sirviendo de guía local a viajeros. Es una feriante de tomo y lomo, siempre tiene un plan de negocio en mente que le sacará de los caminos y las sendas. Le gusta jugar, le gusta beber, le gusta charlar, le gusta coquetear con todo el mundo y en general le gusta ser el centro de atención. Podrán encontrarla en un puesto improvisado que monta en el mercado de la plaza de San Francisco de Asís. El puesto son unas telas en el suelo con todo tipo de cacharros extraños.
 
-*   **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8.
-*   **Habilidades:** Atletismo d6, Idioma materno d6, Interpretar d8, Notar d6, Pelear d8, Persuadir d8, Sigilo d8, Supervivencia d10
-*   **Paso:** 6; **Parada:** 6; **Dureza:** 6
-*   **Equipo:** Machete (FUE+d6)
-*   **Capacidades especiales:**
-    *   **Buhonera:** Cada vez que te encuentras con Ceiba hay un 10% de posibilidades de que lleve un objeto pequeño y útil que podrán intercambiar por algún otro objeto pequeño y útil que lleven.
-    *   **Repartidora de periódicos:** Uno de los múltiples trabajo de Ceiba es repartir la VLH entre las comunidades que visita. Se pueden intercambiar cada viaje que se haga con ella, 1 ejemplar viejo por uno nuevo que vaya a repartir. Pudiendo volver a tirar en la Tabla de Noticias de La verdad de La Habana.
-    *   **Cuentacuentos:** Ceiba es una cuentacuentos muy buena y alrededor de una fogata puede contar excepcionales cuentos de la rica tradición oral taína. Tras irse a dormir después de escuchar uno de los cuentos, puedes tirar Espíritu. Si pasas la tirada has aprendido algo de la historia de Ceiba que vas a poder usar en tus aventuras. Tendrás un +1 una tirada cualquier, incluso de daño, que tengas que hacer hasta la siguiente luna llena (1 semana). Después de usarlo, el +1 desaparecerá.
+* **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8.
+* **Habilidades:** Atletismo d6, Idioma materno d6, Interpretar d8, Notar d6, Pelear d8, Persuadir d8, Sigilo d8, Supervivencia d10
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
+* **Equipo:** Machete (FUE+d6)
+* **Capacidades especiales:**
+    * **Buhonera:** Cada vez que te encuentras con Ceiba hay un 10% de posibilidades de que lleve un objeto pequeño y útil que podrán intercambiar por algún otro objeto pequeño y útil que lleven.
+    * **Repartidora de periódicos:** Uno de los múltiples trabajo de Ceiba es repartir la VLH entre las comunidades que visita. Se pueden intercambiar cada viaje que se haga con ella, 1 ejemplar viejo por uno nuevo que vaya a repartir. Pudiendo volver a tirar en la Tabla de Noticias de La verdad de La Habana.
+    * **Cuentacuentos:** Ceiba es una cuentacuentos muy buena y alrededor de una fogata puede contar excepcionales cuentos de la rica tradición oral taína. Tras irse a dormir después de escuchar uno de los cuentos, puedes tirar Espíritu. Si pasas la tirada has aprendido algo de la historia de Ceiba que vas a poder usar en tus aventuras. Tendrás un +1 una tirada cualquier, incluso de daño, que tengas que hacer hasta la siguiente luna llena (1 semana). Después de usarlo, el +1 desaparecerá.
 
 Casualmente, Ceiba tenía que ir a la misión del padre Héctor, así que por un módico precio, 30 doblones, les guiará en la jungla. El problema es que tiene que vender su mercancía primero y eso puede ser media semana. Ceiba empezará a presentarles diferentes cacharros inservibles, dejándoles caer que si le ayudan comprando alguno podría terminar antes. Si le gastan 100 doblones mínimo en cachivaches, recogerá el chiringuito y se irá. Quedará allí al día siguiente al amanecer.
 
@@ -1245,15 +1245,15 @@ Cuando bajen a la bodega se encontrarán a unos 20 zombis (descontando los que h
 
 Recuerda que estos zombis están empapados en ron que hace que sea muy fácil prenderles fuego y acabar con ellos. El problema es que están en un barco y si se les prende fuego se empezarán a moverse como locos hasta morir quemados. Esto hará que el barco se incendie rápidamente. Aunque no lo busquen, puede que ciertas acciones como disparar a bocajarro haga que las chispas prendan al zombi.
 
-*   **Atributos:** Agilidad d6, Astucia d4, Espíritu d4, Fuerza d6, Vigor d6
-*   **Habilidades:** Atletismo d4, Disparar d6, Intimidar d6, Notar d4, Pelear d6
-*   **Paso:** 4; **Parada:** 5; **Dureza:** 7
-*   **Capacidades especiales:**
-    *   **Garras/Mordisco:** FUE de daño.
-    *   **Descerebrados:** No tiene cerebro con lo que se puede Intimidar, Provocar o Persuadir, ... Tampoco funcionan trucos sucios que se basen en esas habilidades.
-    *   **Hijos del vudú:** No atacarán nunca a un verdadero creyente del vudú. De hecho, si, por ejemplo, se interpusiera entre ellos y sus objetivos, estos se pararían hasta que dejara de interponerse.
-    *   **Muerto viviente:** +2 a Dureza; +2 a recuperarse del aturdimiento; los ataques apuntados no causan daño adicional; ignora un punto de penalización de heridas; no respira; inmunidad a enfermedades y venenos.
-*   **TPC:** d4
+* **Atributos:** Agilidad d6, Astucia d4, Espíritu d4, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d4, Disparar d6, Intimidar d6, Notar d4, Pelear d6
+* **Paso:** 4; **Parada:** 5; **Dureza:** 7
+* **Capacidades especiales:**
+    * **Garras/Mordisco:** FUE de daño.
+    * **Descerebrados:** No tiene cerebro con lo que se puede Intimidar, Provocar o Persuadir, ... Tampoco funcionan trucos sucios que se basen en esas habilidades.
+    * **Hijos del vudú:** No atacarán nunca a un verdadero creyente del vudú. De hecho, si, por ejemplo, se interpusiera entre ellos y sus objetivos, estos se pararían hasta que dejara de interponerse.
+    * **Muerto viviente:** +2 a Dureza; +2 a recuperarse del aturdimiento; los ataques apuntados no causan daño adicional; ignora un punto de penalización de heridas; no respira; inmunidad a enfermedades y venenos.
+* **TPC:** d4
 
 #### Reclamaciones
 
@@ -1345,13 +1345,13 @@ Si tu mesa lo recoge y lo lleva al barco, habrán caído en la trampa del Abando
 
 Aquí tienes el listado de posibles jugarretas que puede hacer:
 
-*   Todas las reservas de agua del barco saben a pis de gato. Sigue siendo potable, pero sabe a rayos.
-*   Todas las noches aparecerán fuegos de San Telmo en los mástiles del barco. Esto es una señal de muy mal augurio.
-*   El timón funciona al revés.
-*   Aves marinas empiezan a posarse en el barco, llenándolo todo con sus deposiciones. Al principio son pocas, pero cada vez serán más y más. El problema es que la tradición dice que no se debe molestar o matar a las aves marinas, ya que son almas de marineros muertos.
-*   Si no son piratas reconocidos, todas las mañanas su bandera será reemplazada por una bandera pirata, cuanto más sangrienta y gore mejor.
-*   Si llevan animales a bordo empezarán a chillar y berrear ante la presencia de Totep. Muchos tratarán de escapar y habrá que tratar de perseguirlo por los barcos y atraparlos.
-*   Un banco inmenso de peces voladores salta dentro del barco. Tirada de Agilidad o recibirán 1d6 de daño por golpes y cortes de los peces. Por otro lado, tendrán una buena reserva de pescado fresco.
+* Todas las reservas de agua del barco saben a pis de gato. Sigue siendo potable, pero sabe a rayos.
+* Todas las noches aparecerán fuegos de San Telmo en los mástiles del barco. Esto es una señal de muy mal augurio.
+* El timón funciona al revés.
+* Aves marinas empiezan a posarse en el barco, llenándolo todo con sus deposiciones. Al principio son pocas, pero cada vez serán más y más. El problema es que la tradición dice que no se debe molestar o matar a las aves marinas, ya que son almas de marineros muertos.
+* Si no son piratas reconocidos, todas las mañanas su bandera será reemplazada por una bandera pirata, cuanto más sangrienta y gore mejor.
+* Si llevan animales a bordo empezarán a chillar y berrear ante la presencia de Totep. Muchos tratarán de escapar y habrá que tratar de perseguirlo por los barcos y atraparlos.
+* Un banco inmenso de peces voladores salta dentro del barco. Tirada de Agilidad o recibirán 1d6 de daño por golpes y cortes de los peces. Por otro lado, tendrán una buena reserva de pescado fresco.
 
 Además, puedes hacerles que tiren una tirada de suerte (Espíritu) y los que fallen tendrán la maldición hasta que se libren de Totep. Si sale alguna mortal vuelve a tirar, Totep quiere divertirse, no matarlos.
 
@@ -1377,10 +1377,10 @@ El vigía avista un islote flotante creado a base de restos de barcos. Igual pue
 
 Cosas raras que suceden en el islote:
 
-*   No hay vida vegetal y mucho menos animal en el islote. Es muy raro que no haya ningún tipo de algas ni de moluscos.
-*   Toda la superficie del islote está cubierta de resto de barcos y si retiran algo podrán ver que la superficie del islote tiene un aspecto extraño entre gomoso y alquitranoso. Si vuelven a un lugar donde han retirado material, hazles una tirada de Notar para detectar que hay restos nuevos cubriendo esa zona. El shoggoth odia la luz del sol directa y se tapa con los escombros.
-*   Si alguien se queda en el barco podrá notar pequeñas sacudidas. Son los pseudópodos del shoggoth que se van enganchando al casco para cuanto tenga suficientes volcar el barco y destruirlo. Sabiendo donde mirar y con una tirada de Notar podrán ver los apéndices enganchados al caso por debajo de la línea de flotación.
-*   Si se paran a escuchar podrán (un avance en Notar) escuchar un susurro que dice Tekeli-li, algún tipo de amenaza o aviso en el idioma de los Antiguos, los creadores de los shoggoths.
+* No hay vida vegetal y mucho menos animal en el islote. Es muy raro que no haya ningún tipo de algas ni de moluscos.
+* Toda la superficie del islote está cubierta de resto de barcos y si retiran algo podrán ver que la superficie del islote tiene un aspecto extraño entre gomoso y alquitranoso. Si vuelven a un lugar donde han retirado material, hazles una tirada de Notar para detectar que hay restos nuevos cubriendo esa zona. El shoggoth odia la luz del sol directa y se tapa con los escombros.
+* Si alguien se queda en el barco podrá notar pequeñas sacudidas. Son los pseudópodos del shoggoth que se van enganchando al casco para cuanto tenga suficientes volcar el barco y destruirlo. Sabiendo donde mirar y con una tirada de Notar podrán ver los apéndices enganchados al caso por debajo de la línea de flotación.
+* Si se paran a escuchar podrán (un avance en Notar) escuchar un susurro que dice Tekeli-li, algún tipo de amenaza o aviso en el idioma de los Antiguos, los creadores de los shoggoths.
 
 Cuando tengan suficientes sospechas, permíteles hacer una tirada de Mitos para saber que están sobre un shoggoth de dimensiones gigantescas.
 
@@ -1470,9 +1470,9 @@ Antoine Delcourt, editor de VLH, necesita repartir su periódico por todo el Car
 
 Antoine te los vende a mitad del precio normal, unos 2 doblones, ya que normalmente se venden a 4 doblones. Piensa que unos 100 periódicos ocuparían en un barco 1 barril de espacio, así que si llevas 100 periódicos podrías sacar unos 200 doblones de beneficios por barril. Opciones para venderlos.
 
-*   **Venderlos tú mismo.** Puedes venderlos tú directamente en la calle. Se venden muy bien y en un día en un buen lugar podrías 50 ejemplares.
-*   **Contratar a un repartidor.** Por unos 10 doblones diarios puedes contratar a una persona, normalmente niños de la calle, que te venderán unos 50 periódicos al día.
-*   **Vendérselos a tendero y posaderos:** Luego ellos los revenden de nuevo llevándose un pequeño beneficio. Normalmente, no te los compran a precio de portada, suelen pagar entre 3 y 3,5 doblones.
+* **Venderlos tú mismo.** Puedes venderlos tú directamente en la calle. Se venden muy bien y en un día en un buen lugar podrías 50 ejemplares.
+* **Contratar a un repartidor.** Por unos 10 doblones diarios puedes contratar a una persona, normalmente niños de la calle, que te venderán unos 50 periódicos al día.
+* **Vendérselos a tendero y posaderos:** Luego ellos los revenden de nuevo llevándose un pequeño beneficio. Normalmente, no te los compran a precio de portada, suelen pagar entre 3 y 3,5 doblones.
 
 Esta actividad no solo supone beneficios económicos, también puede ser una excelente tapadera para todo tipo de actividades legales y no legales. Podrías hacer vigilancia delante de la guarida de algún villano, haciéndote pasar por vendedor de periódicos. Podrías distribuir material robado y/o sustancias ilegales por toda la ciudad con una red de repartidores con la excusa de vender periódicos.
 
@@ -1504,12 +1504,12 @@ Ribeiro busca algo muy especial para su obra que según ella es clave para su é
 
 El problema al que se enfrentarán los personajes es encontrar tinte amarillo en cantidad suficiente para toda la tela que necesita Ribeiro. Necesitan unos 10 barriles de tinte amarillo que tendrán que reunir en sus viajes por el Caribe. Estos son lugares donde puede conseguirse tinte:
 
-*   **Gremio de tintoreros:** Cualquier ciudad de más de 5.000 habitantes tiene un gremio de tintoreros donde podrán comprar un barril de tinte. Su precio puede variar entre 200 y 400 doblones y no volverán a reponer el tinte hasta dentro de un mes.
-*   **Azafrán y cúrcuma:** Con el azafrán y la cúrcuma se puede hacer tinte amarillo, pero puede ser la forma más cara. Si consiguen un par de kilos de azafrán (1.000 doblones) o de cúrcuma (600 doblones) pueden destilar un barril de tinte hirviéndolo en agua.
-*   **Achiote:** Esta planta, que puede encontrarse salvaje en la naturaleza o cultivada por los campesinos, era usada en toda América Central y Caribe como colorante textil, cosmético y alimenticio. Cuando lleguen a un pueblo de agricultores hay un 10% de posibilidades de que cultiven Achiote y puedan comprar el suficiente para medio barril de tinte por 150 doblones. También puede que encuentren un campo de achiote salvaje en sus viajes.
-*   **Oropimente:** El oropimente se ha usado como tinte amarillo para conseguir un tono dorado muy parecido al oro. De hecho, era usado por alquimistas en su búsqueda de crear oro. Puedes conseguir el mineral de oropimente de las fumarolas de volcanes activos o semi activos.
-*   **Ocres:** Las comunidades taínas usan habitualmente tintes ocres (arcillas de silicio con óxido de hierro o similar) para sus representaciones culturales y artísticas. Pueden trocarse por dinero, herramientas o armas. Puede obtenerse medio barril de ocres por unos 200 doblones en objetos de su interés en cada comunidad taína que se visite. En condiciones normales, por su valor cultural, solo intercambiarán los tintes con otros taínos o personas que consideren de su confianza.
-*   **Guthrie's premises:** Siempre se puede ir a mirar que hay en los almacenes de Robert Guthrie en Nasáu. Los tintes no son algo con lo que Guthrie negocio, pero a veces te puede dar una sorpresa con lo que guarda en el fondo de sus almacenes.
+* **Gremio de tintoreros:** Cualquier ciudad de más de 5.000 habitantes tiene un gremio de tintoreros donde podrán comprar un barril de tinte. Su precio puede variar entre 200 y 400 doblones y no volverán a reponer el tinte hasta dentro de un mes.
+* **Azafrán y cúrcuma:** Con el azafrán y la cúrcuma se puede hacer tinte amarillo, pero puede ser la forma más cara. Si consiguen un par de kilos de azafrán (1.000 doblones) o de cúrcuma (600 doblones) pueden destilar un barril de tinte hirviéndolo en agua.
+* **Achiote:** Esta planta, que puede encontrarse salvaje en la naturaleza o cultivada por los campesinos, era usada en toda América Central y Caribe como colorante textil, cosmético y alimenticio. Cuando lleguen a un pueblo de agricultores hay un 10% de posibilidades de que cultiven Achiote y puedan comprar el suficiente para medio barril de tinte por 150 doblones. También puede que encuentren un campo de achiote salvaje en sus viajes.
+* **Oropimente:** El oropimente se ha usado como tinte amarillo para conseguir un tono dorado muy parecido al oro. De hecho, era usado por alquimistas en su búsqueda de crear oro. Puedes conseguir el mineral de oropimente de las fumarolas de volcanes activos o semi activos.
+* **Ocres:** Las comunidades taínas usan habitualmente tintes ocres (arcillas de silicio con óxido de hierro o similar) para sus representaciones culturales y artísticas. Pueden trocarse por dinero, herramientas o armas. Puede obtenerse medio barril de ocres por unos 200 doblones en objetos de su interés en cada comunidad taína que se visite. En condiciones normales, por su valor cultural, solo intercambiarán los tintes con otros taínos o personas que consideren de su confianza.
+* **Guthrie's premises:** Siempre se puede ir a mirar que hay en los almacenes de Robert Guthrie en Nasáu. Los tintes no son algo con lo que Guthrie negocio, pero a veces te puede dar una sorpresa con lo que guarda en el fondo de sus almacenes.
 
 #### Los ensayos
 
@@ -1571,13 +1571,13 @@ Si no consiguen detener la matanza se habrán ganado un enemigo muy peligroso, u
 
 Son sectarios fanáticos que lucharán hasta la muerte por su sacerdotisa y su dios.
 
-*   **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
-*   **Habilidades:** Interpretar d6, Pelear d8, Notar d6
-*   **Paso:** 6; **Parada:** 6; **Dureza:** 6
-*   **Ventajas:** Rápido
-*   **Capacidades especiales:**
-    *   **Machete:** FUE+d6
-    *   **Hechizos:** PP 6, Verdadero nombre de Hastur, Luces hipnóticas. Ambos aprendidos del guion de la obra.
+* **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
+* **Habilidades:** Interpretar d6, Pelear d8, Notar d6
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
+* **Ventajas:** Rápido
+* **Capacidades especiales:**
+    * **Machete:** FUE+d6
+    * **Hechizos:** PP 6, Verdadero nombre de Hastur, Luces hipnóticas. Ambos aprendidos del guion de la obra.
 
 #### El libreto de la obra
 
@@ -1639,11 +1639,11 @@ Mientras están limpiando su nombre no le causarán problemas a la RCPC y Ademá
 
 Hay muchas formas de limpiar su nombre. Si consiguen demostrar que todo es falso delante de otro pirata, la noticia correrá por los puertos del Caribe devolviéndoles su buena (o mala) reputación. Veamos algunas opciones:
 
-*   **Caligrafía forense:** Si consiguen un documento escrito por Roberts podrán demostrar que la nota esa es falsa. En la La Taberna del Alción en Santo Domingo, Bartolo y Antonia puede que tengas algo escrito por Roberts.
-*   **Cuenta conmigo:** Un importante pirata podría darles su voto de confianza. Esto supondría deberle un favor que antes o después querrá cobrar. Podrían recurrir a Mary Read, pero seguro que les lia en alguna aventura loca de las suyas.
-*   **El cuarto poder:** Conseguir que la VLH haga un reportaje desmintiendo las acusaciones de traición a la hermandad pirata puede funcionar. Los pocos piratas que saben leer tienen mucha confianza en los reportajes de la VLH.
-*   **Magia:** La magia, per se, no les exculpará, pero les dará una idea de quién les ha tendido la trampa. Si tiran del hilo podrán llegar hasta la RCPC y conseguir algún tipo de prueba de que todo es falso. Cuando se infiltren en las oficinas de la RCPC igual encuentran pruebas de todo este complot.
-*   **Grandes hazañas:** Pueden cambiar su mala reputación y contrarrestarla con algún acto grande, especial y único. Las opciones irán desde montar un plan maestro de saqueo que traiga muchas riquezas a un montón de tripulaciones piratas hasta montar la fiesta (por no decir orgía romana) más sonada de la historia de isla de la Tortuga.
+* **Caligrafía forense:** Si consiguen un documento escrito por Roberts podrán demostrar que la nota esa es falsa. En la La Taberna del Alción en Santo Domingo, Bartolo y Antonia puede que tengas algo escrito por Roberts.
+* **Cuenta conmigo:** Un importante pirata podría darles su voto de confianza. Esto supondría deberle un favor que antes o después querrá cobrar. Podrían recurrir a Mary Read, pero seguro que les lia en alguna aventura loca de las suyas.
+* **El cuarto poder:** Conseguir que la VLH haga un reportaje desmintiendo las acusaciones de traición a la hermandad pirata puede funcionar. Los pocos piratas que saben leer tienen mucha confianza en los reportajes de la VLH.
+* **Magia:** La magia, per se, no les exculpará, pero les dará una idea de quién les ha tendido la trampa. Si tiran del hilo podrán llegar hasta la RCPC y conseguir algún tipo de prueba de que todo es falso. Cuando se infiltren en las oficinas de la RCPC igual encuentran pruebas de todo este complot.
+* **Grandes hazañas:** Pueden cambiar su mala reputación y contrarrestarla con algún acto grande, especial y único. Las opciones irán desde montar un plan maestro de saqueo que traiga muchas riquezas a un montón de tripulaciones piratas hasta montar la fiesta (por no decir orgía romana) más sonada de la historia de isla de la Tortuga.
 
 Las soluciones ingeniosas y espectaculares deberían ser premiadas con unos buenos cuantos benis.
 
@@ -1743,9 +1743,9 @@ Cuando Adolfé pierda toda sus heridas caerá inconsciente y acto seguido aparec
 
 En este momento hay 3 opciones muy claras:
 
-*   **Acabar con Adolfé.** Al final su parte serpigente malvada ha salido a la luz y es un peligro que deben eliminar.
-*   **Dejar a Adolfé inconsciente y escapar con elle.** Solo tendrán que librarse de los guardias antes de que lo haga Adolfé y luego incapacitar a Adolfé para huir con elle. La opción de tratar de calmarle es extremadamente difícil, ya que su nivel de rabia está a niveles.
-*   **Unirse a su destrucción.** Esos malditos intolerantes no merecen vivir.
+* **Acabar con Adolfé.** Al final su parte serpigente malvada ha salido a la luz y es un peligro que deben eliminar.
+* **Dejar a Adolfé inconsciente y escapar con elle.** Solo tendrán que librarse de los guardias antes de que lo haga Adolfé y luego incapacitar a Adolfé para huir con elle. La opción de tratar de calmarle es extremadamente difícil, ya que su nivel de rabia está a niveles.
+* **Unirse a su destrucción.** Esos malditos intolerantes no merecen vivir.
 
 Deja que ellos decidan y juégalo en consecuencia. Si consiguen salir todos vivos de la ciudad, Adolfé volverá a su ser normal y huirá con ellos en busca de un nuevo sitio tranquilo donde vivir.
 
@@ -1853,9 +1853,9 @@ Si deciden acabar con Balua'k plantará batalla, pero no es un combatiente, aunq
 
 Si deciden ayudarle con su máquina les explicará que necesita para completarla. Balua'k necesita 3 materiales para su ingenio temporal:
 
-*   **Plancha de cristal mercurizado de 3x3 metros:** Los únicos productores de cristal tan grande en el Caribe están en La Habana. Por 500 doblones podrán hacerte la lámina de cristal, el problema será transportarlo de vuelta. Una tormenta, un ataque de profundos o una batalla naval podrían dañarlo irreversiblemente. Tampoco será fácil llevarlo al lugar donde lo necesite Balua'k.
-*   **Cristales azules de laminar:** Esta piedra semipreciosa de color azul se encuentra solo en la cordillera de Barohuco en el sur de Santo Domingo. Deberán adentrarse en la selva hasta llegar a las montañas y allí buscar un yacimiento. Necesitarán equipo de excavación y algo para los 500 kilos que les ha pedido. Balua'k pide tanto mineral porque debe refinarlo.
-*   **Lentes de precisión:** Necesitarán un juego de lentes ópticas de precisión para centrar la luz solar en un punto adecuado. Podrían costar unos 300 doblones y deberán buscarlas en alguna gran ciudad.
+* **Plancha de cristal mercurizado de 3x3 metros:** Los únicos productores de cristal tan grande en el Caribe están en La Habana. Por 500 doblones podrán hacerte la lámina de cristal, el problema será transportarlo de vuelta. Una tormenta, un ataque de profundos o una batalla naval podrían dañarlo irreversiblemente. Tampoco será fácil llevarlo al lugar donde lo necesite Balua'k.
+* **Cristales azules de laminar:** Esta piedra semipreciosa de color azul se encuentra solo en la cordillera de Barohuco en el sur de Santo Domingo. Deberán adentrarse en la selva hasta llegar a las montañas y allí buscar un yacimiento. Necesitarán equipo de excavación y algo para los 500 kilos que les ha pedido. Balua'k pide tanto mineral porque debe refinarlo.
+* **Lentes de precisión:** Necesitarán un juego de lentes ópticas de precisión para centrar la luz solar en un punto adecuado. Podrían costar unos 300 doblones y deberán buscarlas en alguna gran ciudad.
 
 Una vez encontrados los 3 materiales, deberán encontrar un piso franco donde pueda esconder a Balua'k mientras termina de montar su máquina. Deberán "secuestrarlo" y llevarlo a su escondite. Deberán ocultarlo y defenderlo. Es a tu elección que la RCPC encuentre el piso franco y trate de asaltarlo, tienes a tu disposición a montones de maleantes de los barrios bajos que la RCPC pueda pagar y eso son muchos montones. Deberán aguantar una semana escondidos. Pasada la semana, Balua'k debería poder hacer funcionar su motor temporal.
 
@@ -2027,13 +2027,13 @@ Walter no está ni muerto ni vivo, está en un estado intermedio de muerte en vi
 
 Se puede matar su cuerpo, pero volverá a regenerarse con el tiempo y a poseer la casa. La única forma de acabar definitivamente con él es haciendo algún hechizo de exorcismo. También acabará con él sacando su cuerpo de la casa y exponiéndole a la luz del sol.
 
-*   **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d4, Vigor d6
-*   **Habilidades:** Humanidades d10, Intimidar d8, Mitos d8, Notar d8, Pelear d6, Sigilo d6
-*   **Paso:** 4; **Parada:** 5; **Dureza:** 5
-*   **Ventajas:** Hechicería primigenia, Nuevos poderes, Puntos de poder
-*   **Capacidades especiales:**
-    *   **Hechizos:** PP 20, Bendición de Yig, Mirada hipnótica, Círculo de invocación, Drenaje de puntos de poder.
-*   **TPC:** 1d4 (si se mueve)
+* **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d4, Vigor d6
+* **Habilidades:** Humanidades d10, Intimidar d8, Mitos d8, Notar d8, Pelear d6, Sigilo d6
+* **Paso:** 4; **Parada:** 5; **Dureza:** 5
+* **Ventajas:** Hechicería primigenia, Nuevos poderes, Puntos de poder
+* **Capacidades especiales:**
+    * **Hechizos:** PP 20, Bendición de Yig, Mirada hipnótica, Círculo de invocación, Drenaje de puntos de poder.
+* **TPC:** 1d4 (si se mueve)
 
 Si alguien se queda solo en el cuarto 2 es perfecto para usar sus poderes de Marioneta y controlarlo y hacerle atacar al resto. También puede invocar aliados, pero solo si ve muy comprometida su supervivencia. La bendición de Yig se la lanza según entra alguien en la carbonera.
 
@@ -2105,10 +2105,10 @@ Los dioses han elegido de quién es el terreno, pero Penda tiene otra idea sobre
 
 #### Combatiente taíno (secuaz)
 
-*   **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8.
-*   **Habilidades:** Atletismo d8, Disparar d6, Idioma materno d6, Intimidar d6, Notar d6, Pelear d8, Sigilo d8, Supervivencia d8, Tácticas d6
-*   **Paso:** 6; **Parada:** 6; **Dureza:** 6
-*   **Equipo:** Cuchillo (FUE+d4) y machete (FUE+d6)
+* **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8.
+* **Habilidades:** Atletismo d8, Disparar d6, Idioma materno d6, Intimidar d6, Notar d6, Pelear d8, Sigilo d8, Supervivencia d8, Tácticas d6
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
+* **Equipo:** Cuchillo (FUE+d4) y machete (FUE+d6)
 
 #### El tercer tiempo
 
@@ -2188,9 +2188,9 @@ Los gerifaltes de la RCPC van diezmando la plata hasta acabarla y entonces vuelv
 
 Una vez haya soltado todo lo que sabe, Viriato no será de utilidad y hay que recordar que es de la RCPC. Las opciones sobre que hacer con Viriato son variadas:
 
-*   Pueden dejarle en paz, pero puede contar todo a sus superiores. Seguramente no lo hará porque es muy cobarde y no tan fanático.
-*   Pueden darle el paseo y quitarse problemas.
-*   La última opción es tenerlo de informante dentro del Morro ofreciéndole una buena suma. Es la opción más inteligente, pero tarde o temprano seguramente lo pillarán.
+* Pueden dejarle en paz, pero puede contar todo a sus superiores. Seguramente no lo hará porque es muy cobarde y no tan fanático.
+* Pueden darle el paseo y quitarse problemas.
+* La última opción es tenerlo de informante dentro del Morro ofreciéndole una buena suma. Es la opción más inteligente, pero tarde o temprano seguramente lo pillarán.
 
 Si Viriato sale vivo de la reunión, Usía lo mandará al fondo de mar tan pronto tu mesa abandone La Habana. Alfredo no es una persona que deja cabos sueltos.
 
@@ -2256,10 +2256,10 @@ El edificio religioso de piedra pertenece a un grupo de monjes (8 en concreto) q
 
 Si se ponen a investigar el monasterio permíteles hacer tiradas de Notar, Conocimientos generales, Reparar, Ciencias y Humanidades y puedes darles alguno de estos datos.
 
-*   No sabéis de qué viven, no tienen huertos, ni tierras de cultivo cercanas. Aunque reciban la comida de fuera o la recojan de la isla, unos monjes montarían algún tipo de sembrado.
-*   ¿De dónde han sacado el material para construir el monasterio? No parece haber una cantera en el islote y es carísimo traer esa piedra y construir aquí el edificio de piedra.
-*   Alrededor del monasterio hay pequeñas estructuras como columnas, paredes o mini-casetas, todas hechas de piedra. Pero no tienen sentido, ya que no son para guardar material de labranza, silos o para proteger las cosechas.
-*   No hay monjes con voto en silencio en el Caribe. Los monjes que hay son franciscanos y dominicos en misión evangelizadora, con lo que no tienen voto de silencio.
+* No sabéis de qué viven, no tienen huertos, ni tierras de cultivo cercanas. Aunque reciban la comida de fuera o la recojan de la isla, unos monjes montarían algún tipo de sembrado.
+* ¿De dónde han sacado el material para construir el monasterio? No parece haber una cantera en el islote y es carísimo traer esa piedra y construir aquí el edificio de piedra.
+* Alrededor del monasterio hay pequeñas estructuras como columnas, paredes o mini-casetas, todas hechas de piedra. Pero no tienen sentido, ya que no son para guardar material de labranza, silos o para proteger las cosechas.
+* No hay monjes con voto en silencio en el Caribe. Los monjes que hay son franciscanos y dominicos en misión evangelizadora, con lo que no tienen voto de silencio.
 
 Está claro que los monjes esconden algo, pero qué exactamente. Parece que son monjes falsos, pero qué hacen aquí. Déjales un momento para que elaboren teorías.
 
@@ -2299,21 +2299,21 @@ Para evitarse problemas con los chthonianos montaron todo este tinglado en una i
 
 En este punto y con toda la información, déjales que decidan qué quieren hacer.
 
-*   Pueden intentar rescatar el huevo, pero cuando lo entreguen a los padres, estos seguramente destruirán a los monjes y seguramente la isla con ellos.
-*   Pueden rescatar a los taínos, pero si los monjes llegan a un trato con los chthonianos y les devuelven el huevo a cambio de su seguridad, la investigación daría bastante poder a la Orden.
-*   Atacar a los chthonianos es una opción muy complicada, son seres de gran poder, difíciles de matar y con poderes mentales. Pero su debilidad es el agua y están rodeados de ella, igual tienen una idea genial para acabar con ellos.
-*   Los monjes tampoco son fáciles, gran parte de ellos dominan las artes oscuras y tienen una fortaleza que les protege.
+* Pueden intentar rescatar el huevo, pero cuando lo entreguen a los padres, estos seguramente destruirán a los monjes y seguramente la isla con ellos.
+* Pueden rescatar a los taínos, pero si los monjes llegan a un trato con los chthonianos y les devuelven el huevo a cambio de su seguridad, la investigación daría bastante poder a la Orden.
+* Atacar a los chthonianos es una opción muy complicada, son seres de gran poder, difíciles de matar y con poderes mentales. Pero su debilidad es el agua y están rodeados de ella, igual tienen una idea genial para acabar con ellos.
+* Los monjes tampoco son fáciles, gran parte de ellos dominan las artes oscuras y tienen una fortaleza que les protege.
 
 La cuestión es que deberán decidir qué hacer y buscar el mal menor. Pero debes quedarles claro que todo tiene consecuencias.
 
 #### Falso monje
 
-*   **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d4, Vigor d6
-*   **Habilidades:** Ciencias d10, Mitos d6, Idioma nativo d10, Cthulhunés d6, Notar d8, Pelear d6, Reparar d6
-*   **Paso:** 4; **Parada:** 5; **Dureza:** 5
-*   **Ventajas:** Hechicería primigenia, Nuevos poderes x2, Puntos de poder
-*   **Capacidades especiales:**
-    *   **Hechizos:** PP 20, Muro de Yog-Sapha, Vibración temporal, Incineración de Cthugha Siervo invisible.
+* **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d4, Vigor d6
+* **Habilidades:** Ciencias d10, Mitos d6, Idioma nativo d10, Cthulhunés d6, Notar d8, Pelear d6, Reparar d6
+* **Paso:** 4; **Parada:** 5; **Dureza:** 5
+* **Ventajas:** Hechicería primigenia, Nuevos poderes x2, Puntos de poder
+* **Capacidades especiales:**
+    * **Hechizos:** PP 20, Muro de Yog-Sapha, Vibración temporal, Incineración de Cthugha Siervo invisible.
 
 #### De vuelta a casa
 
@@ -2399,18 +2399,18 @@ Al salir del laboratorio les estarán esperando 4 madres de aguas degeneradas (g
 
 ##### Madres de aguas degeneradas
 
-*   **Atributos:** Agilidad d6, Astucia d8 (A), Espíritu d8, Fuerza d12+2, Vigor d10
-*   **Habilidades:** Atletismo d8, Notar d10, Pelear d10, Sigilo d10
-*   **Paso:** 4; **Parada:** 7; **Dureza:** 14 (7)
-*   **Capacidades especiales:**
-    *   **Acuático:** Paso nadando 4.
-    *   **Tamaño 5:** 18 metros de largo y 1,7 toneladas de peso (+5 dureza, +2 bonificación al atacarla).
-    *   **Armadura +2:** Sus duras escamas le proporcionan protección.
-    *   **Constreñir:** La serpiente gana una bonificación de +2 a las tiradas de Atletismo y Fuerza relacionadas con presas.
-    *   **Mordisco:** Daño FUE. Si el mordisco hace herida, inyecta cierta cantidad de radiación en la corriente sanguínea de la víctima. Si falla una tirada de Vigor, se lleva un nivel de fatiga.
-    *   **Cuernos:** Daño FUE+1
-    *   **Muy duros:** Aguantan 1 herida antes de caer incapacitados
-*   **Botín:** 1d4. Sus antepasados acumularon cosas que abandono la serpigente así que podría haber objetos perdidos en el tiempo y el espacio.
+* **Atributos:** Agilidad d6, Astucia d8 (A), Espíritu d8, Fuerza d12+2, Vigor d10
+* **Habilidades:** Atletismo d8, Notar d10, Pelear d10, Sigilo d10
+* **Paso:** 4; **Parada:** 7; **Dureza:** 14 (7)
+* **Capacidades especiales:**
+    * **Acuático:** Paso nadando 4.
+    * **Tamaño 5:** 18 metros de largo y 1,7 toneladas de peso (+5 dureza, +2 bonificación al atacarla).
+    * **Armadura +2:** Sus duras escamas le proporcionan protección.
+    * **Constreñir:** La serpiente gana una bonificación de +2 a las tiradas de Atletismo y Fuerza relacionadas con presas.
+    * **Mordisco:** Daño FUE. Si el mordisco hace herida, inyecta cierta cantidad de radiación en la corriente sanguínea de la víctima. Si falla una tirada de Vigor, se lleva un nivel de fatiga.
+    * **Cuernos:** Daño FUE+1
+    * **Muy duros:** Aguantan 1 herida antes de caer incapacitados
+* **Botín:** 1d4. Sus antepasados acumularon cosas que abandono la serpigente así que podría haber objetos perdidos en el tiempo y el espacio.
 
 Pueden convertir este templo en una guarida en mitad de la jungla donde refugiarse y esconderse cuando las cosas se pongan chungas. Nadie tiene idea de su paradero y es fácilmente defendible. Cerrando con piedras el acceso al piso inferior e invirtiendo unos 2.000 doblones en materiales, se podría acondicionar para poder vivir en ella con camas, cocina, zona de almacenaje, fresquera e incluso tener algún tipo de depósito de agua de lluvia.
 
@@ -2572,12 +2572,12 @@ Ha desaparecido una persona de entre los aliados de corte intelectual o artísti
 
 Algunas de las posibles víctimas pueden ser:
 
-*   Johanna Ribeiro
-*   Isadora de la Guía y Arango
-*   Antoine Delapore
-*   Cacique Pando
-*   Ifá
-*   Alguien de tu mesa que no vaya a venir en unas cuantas sesiones.
+* Johanna Ribeiro
+* Isadora de la Guía y Arango
+* Antoine Delapore
+* Cacique Pando
+* Ifá
+* Alguien de tu mesa que no vaya a venir en unas cuantas sesiones.
 
 La Orden necesita un sistema exploración submarina para encontrar R'lyeh y una de sus brillantes ideas ha sido adaptar los dispositivos contenedores para cerebros de los Mi-go para la exploración submarina.
 
@@ -2605,9 +2605,9 @@ Tiene una autonomía de semanas con lo que podría seguir una pista submarina si
 
 Para investigar la desaparición puede hacer varias opciones.
 
-*   **Preguntar a los vecinos:** Siempre hay alguien cotilla que se pasa el día mirando detrás de las cortinas. Igual vio a la persona desaparecida asaltada por unos encapuchados, o discutir con alguien.
-*   **Revisar sus cosas:** Mirando sus cosas como diarios o libretas de notas se pueden enterrar si notaba si le seguían, si habían hablado con alguien extraño últimamente, etc.
-*   **Magia:** Como siempre, la magia lo hace todo más fácil. Hechizos de localización podrían indicar quien le secuestro o incluso, con una buena tirada, donde está encerrado la víctima del secuestro.
+* **Preguntar a los vecinos:** Siempre hay alguien cotilla que se pasa el día mirando detrás de las cortinas. Igual vio a la persona desaparecida asaltada por unos encapuchados, o discutir con alguien.
+* **Revisar sus cosas:** Mirando sus cosas como diarios o libretas de notas se pueden enterrar si notaba si le seguían, si habían hablado con alguien extraño últimamente, etc.
+* **Magia:** Como siempre, la magia lo hace todo más fácil. Hechizos de localización podrían indicar quien le secuestro o incluso, con una buena tirada, donde está encerrado la víctima del secuestro.
 
 Al final deberían obtener una dirección de unos matones (usa la ficha de Piratas, 2 por jugador) que se encargaron del secuestro. Llevaron a la víctima hasta una cala cercana donde un bote se llevó al secuestrado hasta un barco fondeado a un par de kilómetros. No saben el nombre, pero están seguros de que el barco sigue allí. Esta información no la soltarán fácilmente. Tendrán que intimidarlos, persuadirles con dinero o sacársela a golpes.
 
@@ -2649,9 +2649,9 @@ El pez metálico es muy pesado para llevárselo tal cual. Así que a no ser que 
 
 Si se van sin más, nada impedirá que secuestren a otra persona y sigan con sus investigaciones. Algunas opciones de sabotaje son:
 
-*   Acabar con los yuggothianos es una opción, ya que estos no enviarán a nadie más de reemplazo. La RCPC ha incumplido el acuerdo y desharán el acuerdo. Además, convertiría a los mi-go en enemigos jurados de tu mesa.
-*   Destruir el ingenio submarino y destruir toda la documentación podría valer para frenar el proyecto.
-*   Podrían hundir el barco con todos los avances y toda la tecnología. Los meses de trabajo y el coste de las instalaciones harían que se desestimará el proyecto, pero seguramente también acabaría con los yuggothianos trayendo la enemistad de su raza.
+* Acabar con los yuggothianos es una opción, ya que estos no enviarán a nadie más de reemplazo. La RCPC ha incumplido el acuerdo y desharán el acuerdo. Además, convertiría a los mi-go en enemigos jurados de tu mesa.
+* Destruir el ingenio submarino y destruir toda la documentación podría valer para frenar el proyecto.
+* Podrían hundir el barco con todos los avances y toda la tecnología. Los meses de trabajo y el coste de las instalaciones harían que se desestimará el proyecto, pero seguramente también acabaría con los yuggothianos trayendo la enemistad de su raza.
 
 #### Post-operatorio
 
