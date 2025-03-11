@@ -408,6 +408,23 @@ section h1 + .saltopagina:after {
     
     position: absolute;
     z-index: 1;
+    right: 0px;
+
+    clip-path: polygon(
+      0% 0%,
+      100% 0%,
+      100% 100%,
+      0% calc(100% - var(--padding))      
+    );
+    box-sizing: border-box;
+    padding: 12px;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type ) .saltopagina.even:before {
+    right: auto;
     left: 0px;
     clip-path: polygon(
       0% 0%,
@@ -415,11 +432,6 @@ section h1 + .saltopagina:after {
       100% calc(100% - var(--padding)),
       0% 100%
     );
-    box-sizing: border-box;
-    padding: 12px;
-    font-size: 25px;
-    text-transform: uppercase;
-    text-align: center;
   }
 
   section:nth-of-type(4) .saltopagina:before {

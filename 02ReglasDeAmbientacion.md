@@ -2081,96 +2081,33 @@ Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan ti
 
 #### Tabla de Riquezas
 
-1d12
-
-Descripción
-
-Valor en doblones
-
-1-4
-
-Algunos doblones y un poco de calderilla
-
-1d10 x 10
-
-5-6
-
-Pequeños objetos de oro
-
-2d10 x 20
-
-7-8
-
-Piedras preciosas de bajo valor
-
-1d10 x 50
-
-9-10
-
-Buena cantidad de doblones y calderilla
-
-1d10 x 100
-
-11
-
-Joyas de oro con piedras preciosas
-
-1d10 x 200
-
-12
-
-Piedras preciosas de gran valor y un barril de buen ron.
-
-1d10 x 500  
-Con buen ron y el bolsillo lleno de oro es obligatorio correrse una buena juerga. Tu mesa, su tripulación y sus aliados pierden un día entero entre fiesta y resaca.
+|1d12|Descripción|Valor en doblones|
+|---|---|---|
+|1-4|Algunos doblones y un poco de calderilla|1d10 x 10|
+|5-6|Pequeños objetos de oro|2d10 x 20|
+|7-8|Piedras preciosas de bajo valor|1d10 x 50|
+|9-10|Buena cantidad de doblones y calderilla|1d10 x 100|
+|11|Joyas de oro con piedras preciosas|1d10 x 200|
+|12|Piedras preciosas de gran valor y un barril de buen ron. Con buen ron y el bolsillo lleno de oro es obligatorio correrse una buena juerga. Tu mesa, su tripulación y sus aliados pierden un día entero entre fiesta y resaca.|1d10 x 500|
 
 ### Objetos extraordinarios
 
 #### Tabla de Objetos extraordinarios
 
-1d12
+|1d12|Tipo|
+|---|---|
+|1-3|**Arma cuerpo a cuerpo:** Tira en la tabla de armas cuerpo a cuerpo y luego en la de capacidades.|
+|4-6|**Arma de fuego:** Tira en la tabla de armas de fuego y luego en la de capacidades.|
+|7|Ejemplar de La Verdad de La Habana|
+|8|**Ritual menor:** Un conjunto de apuntes, un telar con extraños símbolos, una piedra tallada, etc. que explica como realizar el ritual. Saca al azar un hechizo de la tabla de Rituales menores.|
+|9-10|**Libro prohibido:** Vete a la sección de Generación de libros de los Mitos para crearlo.|
+|11|**Objetos pequeños y útiles:** Tira en la tabla de objetos pequeños y útiles.|
+|12|**Objetos de gran tamaño:** Tira en la tabla de objetos de gran tamaño.|
 
-Tipo
+#### Tabla de Armas cuerpo a cuerpo
 
-1-3
-
-Arma cuerpo a cuerpo  
-Tira en la tabla de armas cuerpo a cuerpo y luego en la de capacidades.
-
-4-6
-
-Arma de fuego  
-Tira en la tabla de armas de fuego y luego en la de capacidades.
-
-7
-
-Ejemplar de La Verdad de La Habana
-
-8
-
-Ritual menor  
-Un conjunto de apuntes, un telar con extraños símbolos, una piedra tallada, etc. que explica como realizar el ritual. Saca al azar un hechizo de la tabla de Rituales menores.
-
-9-10
-
-Libro prohibido.  
-Vete a la sección de Generación de libros de los Mitos para crearlo.
-
-11
-
-Objetos pequeños y útiles  
-Tira en la tabla de objetos pequeños y útiles.
-
-12
-
-Objetos de gran tamaño  
-Tira en la tabla de objetos de gran tamaño.
-
-Tabla de Armas cuerpo a cuerpo
-
-1d6
-
-Nombre
+|1d6|Nombre|
+|---|---|
 
 1
 
@@ -2228,9 +2165,8 @@ Legendaria, +2 a pelea y +2 a daño. Tiene nombre propio y perteneció a alguien
 
 #### Tabla de Armas de fuego
 
-1d4
-
-Nombre
+|1d4|Nombre|
+|---|---|
 
 1
 
@@ -2280,9 +2216,8 @@ Legendaria, +2 a disparo y +2 a daño. Tiene nombre propio y perteneció a algui
 
 #### Tabla de Objetos pequeños y útiles
 
-1d20
-
-Nombre
+|1d20|Nombre|
+|---|---|
 
 1
 
@@ -2407,9 +2342,8 @@ Si se quiere reparar algo de mayor tamaño, el director de juego podrá establec
 
 #### Tabla de Objetos de gran tamaño
 
-1d20
-
-Nombre
+|1d20|Nombre|
+|---|---|
 
 1
 
@@ -2543,9 +2477,8 @@ Todos los objetos de la siguiente tabla son objetos extraños y misteriosos, muc
 
 #### Tabla de Objetos más allá del tiempo y el espacio
 
-1d20
-
-Nombre
+|1d20|Nombre|
+|---|---|
 
 1
 
@@ -2677,9 +2610,8 @@ El cristal tiende a distorsionar de alguna manera lo que se ve y hacerlo más pe
 
 #### Tabla de Maldiciones
 
-1d12
-
-Nombre
+|1d12|Nombre|
+|---|---|
 
 1
 
@@ -2868,13 +2800,10 @@ Cada vez que se realiza un viaje largo por mar puedes tirar en la siguiente tabl
 
 ![Encuentros en el mar](./images/encuentros-mar.webp)
 
-Tabla de Encuentros en el mar
+#### Tabla de Encuentros en el mar
 
-1d20
-
-Nombre
-
-Descripción
+|1d20|Nombre|Descripción|
+|---|---|---|
 
 1
 
@@ -3002,13 +2931,10 @@ Cada vez que se realiza un viaje largo por tierra, normalmente atravesando jungl
 
 ![Encuentros en la jungla](./images/encuentros-tierra.webp)
 
-Tabla de Encuentros en la jungla
+#### Tabla de Encuentros en la jungla
 
-1d20
-
-Nombre
-
-Descripción
+|1d20|Nombre|Descripción|
+|---|---|---|
 
 1
 
@@ -3136,13 +3062,10 @@ Puede ser que en algún momento los héroes sean absorbidos por un agujero dimen
 
 ![Perdidos en el tiempo y el espacio](./images/encuentros-mas.webp)
 
-Tabla de Perdidos en el tiempo y el espacio
+#### Tabla de Perdidos en el tiempo y el espacio
 
-1d12
-
-Nombre
-
-Descripción
+|1d12|Nombre|Descripción|
+|---|---|---|
 
 1
 
