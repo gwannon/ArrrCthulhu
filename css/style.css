@@ -52,6 +52,12 @@ html {
   scroll-behavior: smooth;
 }
 
+a,
+a:visited,
+a:active {
+  color: var(--black-color);
+}
+
 body {
   padding: 0px;
   margin: 0px;
@@ -313,14 +319,14 @@ section h1 + .saltopagina:after {
   cursor: pointer;
   margin: 0 0 1px 0;
   text-decoration: none;
-  font-size: 1em;
+  font-size: 0.7em;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
 }
 
 .likeH1 {
-  font-size: 1.3em;
+  font-size: 0.9em;
 }
 
 .likeH2 {
@@ -379,8 +385,18 @@ section h1 + .saltopagina:after {
     margin-top: var(--padding);
   }
 
+  .likeH1 span,
+  .likeH2 span {
+    display: inline-block;
+  }
+
   .nopdf {
     display: none !important;
+  }
+
+  section:nth-of-type(2),
+  section:nth-of-type(3) {
+    padding-top: var(--padding);
   }
 
   /* ---------- Margenes -------------- */
@@ -423,40 +439,40 @@ section h1 + .saltopagina:after {
   }
 
   section:nth-of-type(6) .saltopagina:before {
-    height: 57vh;
-    bottom: calc(43vh + 2px);
+    height: 39vh;
+    bottom: calc(61vh + 2px);
     content: "G \A u \A í \A a \A \A d \A e \A \A v \A i \A a \A j \A e \A s ";
     white-space: pre;
     background-color: var(--green-dark);
   }
 
   section:nth-of-type(7) .saltopagina:before {
-    height: 57vh;
-    bottom: calc(43vh + 2px);
+    height: 47vh;
+    bottom: calc(53vh + 2px);
     content: "H \A i \A s \A t \A o \A r \A i \A a \A s \A \A S \A a \A l \A v \A a \A j \A e \A s ";
     white-space: pre;
     background-color: var(--green-gul);
   }
 
   section:nth-of-type(8) .saltopagina:before {
-    height: 57vh;
-    bottom: calc(43vh + 2px);
+    height: 70vh;
+    bottom: calc(30vh + 2px);
     content: "M \A o \A n \A s \A t \A r \A u \A o \A s \A \A d \A e \A \A l \A o \A s \A \A M \A i \A t \A o \A s \A \A y \A \A o \A t \A r \A o \A s \A \A e \A n \A e \A m \A i \A g \A o \A s ";
     white-space: pre;
-    background-color: var(---green-cthulhu);
+    background-color: var(--green-cthulhu);
   }
 
   section:nth-of-type(9) .saltopagina:before {
-    height: 57vh;
-    bottom: calc(43vh + 2px);
+    height: 67vh;
+    bottom: calc(33vh + 2px);
     content: "Q \A u \A i \A é \A n \A \A e \A s \A \A q \A u \A i \A é \A n \A \A e \A n \A \A e \A l \A \A C \A a \A r \A i \A b \A e ";
     white-space: pre;
     background-color: var(--green-deepone);
   }
 
   section:nth-of-type(10) .saltopagina:before {
-    height: 57vh;
-    bottom: calc(43vh + 2px);
+    height: 68vh;
+    bottom: calc(32vh + 2px);
     content: "D \A a \A n \A d \A o \A \A c \A o \A l \A o \A r \A \A a \A \A l \A a \A s \A \A a \A v \A e \A n \A t \A u \A r \A a \A s ";
     white-space: pre;
     background-color: var(--green-dark);
@@ -473,7 +489,7 @@ section h1 + .saltopagina:after {
   section:nth-of-type(12) .saltopagina:before {
     height: 57vh;
     bottom: calc(43vh + 2px);
-    content: "R \A e \A c \A u \A r \A s \A o \A s ";
+    content: "R \A e \A c \A u \A r \A s \A o \A s \A \A p \A a \A r \A a \A \A p \A i \A r \A a \A t \A a \A s \A \A y \A \A p \A r \A i \A m \A i \A g \A e \A n \A i \A o \A s ";
     white-space: pre;
     background-color: var(--green-cthulhu);
   }
@@ -556,3 +572,13 @@ section > h2:after {
     var(--innerpadding) 100%
   );
 }
+
+/* ----------------- Portada --------------- */
+
+
+
+
+
+
+/* ----------------- Contraportada --------------- */
+
