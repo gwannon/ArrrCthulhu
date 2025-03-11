@@ -288,3 +288,7 @@ luscas
 tn
 Teleportación
 teleportarse
+Alhazred
+4d6
+Danio
+AUTHOR

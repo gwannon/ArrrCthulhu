@@ -4,6 +4,7 @@
   --green-gul: #d7d7d7;
   --green-dark: #5d6e5b;
   --black-color: #000;
+  --white-color: #fff;
   --padding: 55px;
 }
 
@@ -12,7 +13,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(./css/fonts/JollyLodger-Regular.ttf) format('truetype');
+  src: url(./fonts/JollyLodger-Regular.ttf) format('truetype');
 }
 
 @font-face {
@@ -20,13 +21,13 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(./css/fonts/Oswald-Regular.ttf) format('truetype');
+  src: url(./fonts/Oswald-Regular.ttf) format('truetype');
 }
 
 @font-face {
   font-family: 'Open Sans';
   src:
-    url(./css/fonts/OpenSans-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+    url(./fonts/OpenSans-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
   font-weight: 100 900;
   font-stretch: 50% 200%;
 }
@@ -34,10 +35,17 @@
 @font-face {
   font-family: 'Open Sans';
   src:
-    url(./css/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
+    url(./fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf) format('truetype') tech(variations);
   font-weight: 100 900;
   font-stretch: 50% 200%;
   font-style: italic;
+}
+
+@font-face {
+  font-family: 'MedievalSharp';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./fonts/MedievalSharp-Regular.ttf) format('truetype');
 }
 
 html {
@@ -268,18 +276,18 @@ body {
 
 .saltopagina:after {
   --size: 30px;
-  font-family: 'VT323', monospace, arial;
+  font-family: 'Jolly Lodger', arial;
   display: flex;
   justify-content: center;
   align-items: center;
   content: counters(primary, "-", style);
-  color: var(--neon-color);
+  color: var(--white-color);
   position: absolute;
   bottom: 11px;
   left: 10px;
   width: var(--size);
   height: var(--size);
-  background-color: var(--purple-color);
+  background-color: var(--green-dark);
   z-index: 10;
   opacity: 1;
   clip-path: polygon(0% 0%, 66% 0%, 100% 33%, 100% 100%, 0% 100%);
@@ -372,7 +380,69 @@ section h1 + .saltopagina:after {
   .nopdf {
     display: none !important;
   }
+
+  /* ---------- Margenes -------------- */
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type ) .saltopagina:before {
+    display: block;
+    width: calc(var(--padding) - 10px);
+    height: 55vh;
+    position: absolute;
+    bottom: 45vh;
+    left: 0px;
+    clip-path: polygon(
+      0% 0%,
+      100% 0%,
+      100% calc(100% - var(--padding)),
+      0% 100%
+    );
+  }
+
+  section:nth-of-type(4) .saltopagina:before {
+    content: "El Caribe de los Mitos";
+    background-color: var(--green-cthulhu);
+  }
+
+  section:nth-of-type(5) .saltopagina:before {
+    content: "Reglas de ambientación";
+    background-color: var(--green-deepone);
+  }
+
+  section:nth-of-type(6) .saltopagina:before {
+    content: "Guía de viajes";
+    background-color: var(--green-dark);
+  }
+
+  section:nth-of-type(7) .saltopagina:before {
+    content: "Historias Salvajes";
+    background-color: var(--green-gul);
+  }
+
+  section:nth-of-type(8) .saltopagina:before {
+    content: "Monstruos de los Mitos y otros enemigos";
+    background-color: var(---green-cthulhu);
+  }
+
+  section:nth-of-type(9) .saltopagina:before {
+    content: "Quién es quién en el Caribe";
+    background-color: var(--green-deepone);
+  }
+
+  section:nth-of-type(10) .saltopagina:before {
+    content: "Dando color a las aventuras";
+    background-color: var(--green-dark);
+  }
+
+  section:nth-of-type(11) .saltopagina:before {
+    content: "Epílogo";
+    background-color: var(--green-gul);
+  }
+
+  section:nth-of-type(12) .saltopagina:before {
+    content: "Recursos";
+    background-color: var(--green-cthulhu);
+  }
 }
+
 
 /* ---------- Lazos ----------- */
 

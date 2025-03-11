@@ -113,7 +113,7 @@ Cuando se vieron por primera vez, Mary tuvo una visión de que tu mesa sería mu
 
 El objeto que encontraron en el Carcosa es un descifrador de códigos. Es un disco con letras grabadas sobre el que se pone otro disco con perforaciones, según se mueven los discos las perforaciones permiten ver unos caracteres u otros. El artilugio está lleno de grabados de seres horribles y es de algún tipo de piedra verde. Mary recibió un chivatazo de que en el Carcosa iba un decodificador nuevo para los cultistas de la Orden del Gran Cthulhu de Santo Domingo y asaltó el navío para conseguir uno.
 
-#### Islas pirata
+#### Islas piratas
 
 Tras un par de días de viaje, los barcos llegarán a las Islas Caimán. Fondean en una paradisíaca y secreta cala de la isla Caimán Brac (la más oriental de las islas). Hay agua potable, fruta y tortugas con las que alimentarse. Podrán sanar sus heridas y disfrutar de lo que los taínos llaman barbacoa, una comida hecha a la brasa en la playa, acompañada de algo del ron que llevaba el Carcosa.
 
@@ -158,7 +158,7 @@ Si tu mesa está muy gallita con que pueden con El Sabueso, en mitad del abordaj
 
 El Sabueso y su tripulación son una buena némesis pirata de tu mesa. Puedes hacerlo aparecer disparando salvas de cañones cuando quieras, complicándoles más las cosas en sus fugas, haciendo que compitan por quién tiene la nave más rápida o peleándose las dos tripulaciones en una taberna de Nasáu o en un charco de barro.
 
-El, la o elle capitán de El Sabueso debería ser un PNJ creado por ti. Debería ser un pirata que tú como jugador te harías y debes subirlo según avance de nivel tu mesa. También su barco y su tripulación.
+Él, la o elle capitán de El Sabueso debería ser un PNJ creado por ti. Debería ser un pirata que tú como jugador te harías y debes subirlo según avance de nivel tu mesa. También su barco y su tripulación.
 
 Si alguien te dice que has metido tu propio personaje en la historia, léele esto: Los PJ de DJ están permitidos en esta ambientación.
 
@@ -264,7 +264,7 @@ Mary Read tiene un último trabajo. Deben patrullar El Jardín de la Reina, un a
 
 Cómo siempre alguien les entregará un sobre con un mensaje de Read. Necesita que alguien vigile las actividades de la RCPC en los Jardines de la Reina, un archipiélago de islotes en la costa sur de Cuba.
 
-Han detectado que cada cierto tiempo, pero sin ser algo fijo, una goleta de la RCPC se mete en los jardines, se pierde entre sus islas y vuelve a salir, por otro lado con menos carga por lo que indica su línea de flotación. Lo que lleva y lo que hace con la carga es todo un misterio.
+Han detectado que cada cierto tiempo, pero sin ser algo fijo, una goleta de la RCPC se mete en los jardines, se pierde entre sus islas y vuelve a salir, por otro lado, con menos carga por lo que indica su línea de flotación. Lo que lleva y lo que hace con la carga es todo un misterio.
 
 La goleta nunca hace la misma ruta, ya que cada vez cada vez viene desde un destino diferente. Eso hace que Read no haya podido tenderle una emboscada. Seguirla dentro de los jardines es casi imposible por los frecuentes bancos de arenas de la zona. Por donde ella pasa sin problemas, una nave más grande se encalla.
 
@@ -282,7 +282,7 @@ Hazte tus propias combinaciones. El TPC de estos seres de los Mitos será el TPC
 
 Tendrán que bajar a la isla en barca porque la playa no tiene calado para su barco. Si luego tienen que huir, puede ser divertido verles empujar la barca mientras esquivan zarpazos de monstruos.
 
-Al bajar a la playa podrán ver enseguida las huellas de los bichos que la habitan y si se internan en la jungla pronto tendrán un encuentro con algún monstruo. Cómo hemos dicho antes, se creativo y saca lo que quieras. Lo importante es que vean (con unas tiradas de Ciencias o Medicina) que los bichos tienen extremidades amputadas o injertadas, puntos de sutura mugrientos y malolientes, grapas quirúrgicas infectadas y cicatrices de extirpaciones de órganos y trepanaciones.
+Al bajar a la playa podrán ver enseguida las huellas de los bichos que la habitan y si se internan en la jungla pronto tendrán un encuentro con algún monstruo. Cómo hemos dicho antes, sé creativo y saca lo que quieras. Lo importante es que vean (con unas tiradas de Ciencias o Medicina) que los bichos tienen extremidades amputadas o injertadas, puntos de sutura mugrientos y malolientes, grapas quirúrgicas infectadas y cicatrices de extirpaciones de órganos y trepanaciones.
 
 Con todo esto ya podrían hacer un informe para Read, así que pueden volver a su barco. También pueden intentar comunicarse con alguna raza inteligente y sacar más información, como qué buscaba la RCPC con sus experimentos. Puede ser de todo, desde crear supersoldados a venenos o tónicos curalotodo.
 
@@ -392,7 +392,7 @@ Si por una casualidad ganan la puja, sáltate «La fiesta de disfraces», si no 
 
 Deberán perseguir a la comitiva y acabar con los guardias. Si consiguen llegar al interior de la carroza, Granados no estará ya, ha usado algún hechizo de teletransporte para huir, nunca se enfrentaría directamente a tu mesa.
 
-De tener que enfrentarse con él, es un comodín y puedes usar la ficha de Cultista superior, con dos hechizos extras, Geometría no-euclideana y Pudrir carne.
+De tener que enfrentarse con él, es un comodín y puedes usar la ficha de Cultista superior, con dos hechizos extras, Geometría no-euclidiana y Pudrir carne.
 
 ### La fiesta de disfraces
 
@@ -564,9 +564,9 @@ R’lyeh está rodeado por una jungla que no ha cambiado ni un ápice en miles d
 
 En cuanto a la fauna, está repleta de seres de antes del tiempo, como caimanes bípedos del tamaño de elefantes o iguanas, con cuerpos acorazados y colas pinchudas más grandes que un hipopótamo. Si estuvieron en el almacén de George Jansen puede que reconozcan algún esqueleto. Muéstrales espectaculares escenas de luchas entre estos seres y haz que corran por sus vidas delante de alguno de estos seres.
 
-Usa las estadísticas del draco del manual básico (sin aliento de fuego) y déjales muy claro que no tienen ninguna posibilidad de derrotarlos. Si lo consiguen, seguramente, uno más grande ocupará su lugar. Estos fósiles vivientes no abandonan nunca la jungla y si consiguen atravesarlas hasta llegar a la ciudad estarán a salvo de ellos.
+Usa las estadísticas de los dinosaurios en la sección de Dinosaurios de «Monstruos de los Mitos y otros enemigos» y déjales muy claro que no tienen ninguna posibilidad de derrotarlos. Si lo consiguen, seguramente, uno más grande ocupará su lugar. Estos fósiles vivientes no abandonan nunca la jungla y si consiguen atravesarla hasta llegar a la ciudad estarán a salvo de ellos.
 
-#### La ciudad fuera de la geometría euclideana
+#### La ciudad fuera de la geometría euclidiana
 
 La ciudad de R’lyeh es una mole de grandes edificios de piedra verde, grandes avenidas con columnas, descomunales plazas llenas de estatuas de mármol verde que representan a seres fantásticos. En la distancia todo parece construido a una escala muchísimo mayor que la de una persona y, sin embargo, al acercarse tiene un tamaño gigante, pero adecuado para un ser humano.
 
@@ -582,7 +582,7 @@ Mientras exploran las grandes avenidas y las extrañas plazas de R’lyeh, puede
 > 
 > _Viejo chiste de la Llamada de Cthulhu_
 
-Tabla de Geometría no-euclideana
+Tabla de Geometría no-euclidiana
 
 d6
 

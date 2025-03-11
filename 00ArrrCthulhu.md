@@ -4,14 +4,6 @@
 
 |02ReglasDeAmbientacion.md|
 
-|0201HechiceriaPrimigenia.md|
-
-|0202Comercio.md|
-
-|0203BotinYTesoro.md|
-
-|0204ViajesYEncuentros.md|
-
 ***
 
 |03GuiaDeViajes.md|

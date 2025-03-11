@@ -971,3 +971,138 @@ Estos cetáceos son uno de los seres más inteligentes del reino animal. Se sabe
     * **Ecolocación:** Su sentido sonar le permite ignorar las penalizaciones por pobre iluminación.
     * **Cazador en manada:** Los delfines cazan en manada y son muy inteligentes. Es por ello que son capaces de ejecutar tácticas para aprovecharse de su número y hacer movimientos inteligentes como atacar a puntos débiles o hacer jugarretas y juego sucio.
     * **Acrobacias:** Puede usar su habilidad de Atletismo para hacer piruetas fuera del agua. También pueden saltar y hacer ataques fuera del agua.
+
+
+### Dinosaurios
+
+#### Alosaurio
+
+**Carnívoro | Terrestre | 4x2 casillas**
+
+El alosaurio es el mayor de los saurios que sobreviven en la tierra de Maple White y al más terrible de ellos. Es un terópodo, es decir que es bípedo, pero a diferencia de otros terópodos, como el tiranosaurio, sus brazos eran más largos y podían ser usados para atacar y sujetar las presas.
+
+Como depredadores, pueden llegar a cazar estegosaurios, aunque siempre especímenes jóvenes, viejos o enfermos. Su vista les permite calcular bastante precisamente las distancias, con lo que son bastante efectivos en sus ataques por sorpresa.
+
+* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
+* **Habilidades:** Atletismo d6, Intimidar d12, Notar d6, Pelear d8, Supervivencia d6
+* **Paso:** 8; **Parada:** 6; **Dureza:** 17(3)
+* **Ventajas:** Nervios de Acero Mejorados
+* **Capacidades especiales:**
+  * **Armadura +3:** Piel escamosa y dura.
+  * **Mordisco:** FUE+d8.
+  * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
+  * **Impávido:** Es inmune a las tiradas de miedo e Intimidar.
+  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
+  * **Tamaño +6:** +6 a Dureza
+  * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
+  * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
+
+[![Escala Alosaurio](./assests/images/escala-alosaurio.png 'Size comparison between the carnosaurian theropod dinosaur Allosaurus and a human. 	Dropzink')](https://es.wikipedia.org/wiki/Archivo:Human-allosaurus_size_comparison.png 'Size comparison between the carnosaurian theropod dinosaur Allosaurus and a human. 	Dropzink')
+
+Un alosaurio adulto de talla media crece hasta 12 metros de longitud de la cabeza a la punta de la cola y pesa entre 1.500 y 2.000 kg. Todo esto convierte a este cazador solitario en el mayor depredador de la tierra de Maple White.
+
+Sus potentes piernas también le convierten en el dinosaurio terrestre más rápido del mundo perdido con una velocidad máxima de 55 km/h.
+
+> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio subiéndole un punto al tamaño.
+
+[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Life restoration of the «Sophie» Stegosaurus specimen - Fred Wierum')](https://es.wikipedia.org/wiki/Stegosaurus#/media/Archivo:Stegosaurus_stenops_Life_Reconstruction.png 'Life restoration of the «Sophie» Stegosaurus specimen - Fred Wierum')
+
+#### Estegosaurio
+
+**Herbívoro | Terrestre | 3x2 casillas**
+
+Debido a sus distintivas espinas de la cola y sus placas dorsales, el estegosaurio es uno de los más reconocidos dinosaurios. Es el mayor herbívoro del mundo perdido y gracias a su masa y a su fuerte y elevada cola puede hacerle frente, incluso derrotar a un alosaurio. Sus placas dorsales son una mezcla de sistema de termorregulación y de protección. 
+
+En general son lentos y tranquilos, pero la creencia de que eran poco inteligentes por su pequeño cerebro es falsa. Viven en manadas y son muy protectores con sus crías. No hay que olvidar que debajo de su imagen de tranquilos herbívoros hay unas máquinas letales capaces de hacer frente a cualquier enemigo mucho más si no está solo. 
+
+* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d8, Fuerza d12+3, Vigor d12
+* **Habilidades:** Atletismo d4, Notar d8, Pelear d8
+* **Paso:** 6; **Parada:** 5; **Dureza:** 16(2)
+* **Ventajas:** Atletismo d6, Pelea d6, Notar d8
+* **Capacidades especiales:**
+  * **Armadura +2:** Piel escamosa.
+  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
+  * **Tamaño +6:** +6 a Dureza
+  * **Coletazo:** FUE+d6. Si durante su turno no se mueve, puede hacer un ataque de área en 3 casillas adyacentes entre sí y alrededor suyo. Hace una tirada por cada enemigo en el área. Todo enemigo que pase por esa zona hasta el siguiente turno del estegosaurio recibe un ataque. Varios estegosaurios puede combinar estos barridos con sus colas con pinchos de forma que crean una barrera defensiva que nadie en su sano juicio querría atravesar.
+  * **Placas dorsales:** Las placas de su espalda hacen que los ataques cuerpo a cuerpo de enemigos más altos o que solo puedan atacar desde arriba sean más difíciles y tengan un -2. 
+
+[![Escala Estegosaurio](./assests/images/escala-estegosaurio.png 'Tamaño de S. ungulatus y S. stenops comparados con un ser humano. Matt Martyniuk')](https://es.wikipedia.org/wiki/Archivo:Human-allosaurus_size_comparison.png 'Tamaño de S. ungulatus y S. stenops comparados con un ser humano. Matt Martyniuk')
+
+El estegosaurio pesa 3 y 4 de toneladas y crece hasta 9 metros de largo de la cabeza a la punta de la cola y 4 metros de alto. 
+
+Como ya hemos comentado, este saurio es famoso por sus placas dorsales y también tiene cuatro espinas en la cola, cada una de 60 a 90 cm de largo, que usa para su defensa.
+
+[![Foto recreación artística de un Ictiosaurio](./assests/images/ictiosaurio.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')](https://es.wikipedia.org/wiki/Ichthyosauria#/media/Archivo:Shonisaurus_BW_2.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')
+
+#### Ictiosaurio
+
+**Carnívoro | Acuático | 2x1 casillas**
+
+Los ictiosaurios descienden reptiles que volvieron al mar, como hicieron delfines y ballenas. Como ellos respiran aire con lo que cada cierto tiempo tienen que subir a la superficie a tomar aire. Están totalmente adaptados al medio acuático y se alimentan de peces y calamares.  
+
+Ictiosaurio fue el primer fósil completo descubierto a principios del siglo XIX por Mary Anning en Inglaterra.
+
+* **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d6, Notar d6, Pelear d8, Sigilo d6
+* **Paso:** 6; **Parada:** 6; **Dureza:** 7(1)
+* **Capacidades especiales:**
+  * **Acuático:** Paso 10 nadando.
+  * **Mordisco:** FUE+d6
+  * **Piel dura +1:** Su piel dura y lisa no solo le protege del frío del mar, también de ataques de otros animales.
+  * **Grandes ojos:** Tiene una vista excelente dentro del agua de forma que no sufre ninguna penalización de visibilidad debajo del agua.
+
+[![Escala Ictiosaurio](./assests/images/escala-ictiosaurio.png 'Ichthyosaurus con un humano a escala. Abyssal leviathin')](https://es.wikipedia.org/wiki/Ichthyosaurus#/media/Archivo:Ichthyooscale.png 'Ichthyosaurus con un humano a escala. Abyssal leviathin')
+
+El ictiosaurio mide unos 2 metros de largo y pesa entre unos 150 y 170 kilos. Se caracterizan por tener unos grandes ojos adaptados perfectamente para ver debajo del agua.
+
+Su forma es una mezcla de pez espada y delfín lo que le convierte en un depredador rápido y ágil que puede llegar a los 40 km/h en condiciones óptimas.
+
+### Plesiosaurio
+**Carnívoro | Acuático | 3x1 casillas | Código: DUKW (Pronunciado como DUCK, PATO en castellano)**
+
+Otro reptil que volvió al mar como el ictiosaurio, pero quizás en vez de evolucionar a algo parecido a delfines o peces espadas, lo hizo hacia mamíferos marinos como focas y morsas.
+
+Su largo cuello les permite sacar la cabeza fuera del agua y poder mirar en todas las direcciones y evitar ataques por sorpresa. Su boca tienes unos poderosos dientes capaces de romper los caparazones de los crustáceos de los que se alimenta.
+
+* **Atributos:** Agilidad d8, Astucia d6 (A), Espíritu d8, Fuerza d12, Vigor d12
+* **Habilidades:** Atletismo d10, Notar d8, Pelear d8, Sigilo d6
+* **Paso:** --; **Parada:** 6; **Dureza:** 11
+* **Capacidades especiales:**
+  * **Acuático:** Paso 10 nadando.
+  * **Mordisco:** FUE+d6
+  * **Tamaño +3:** Mide de 3 a 5 metros de longitud y pesa entre 500 y 700 kg.
+
+[![Escala Plesiosaurio](./assests/images/escala-plesiosaurio.png 'Plesiosaurus con un humano a escala. Abyssal leviathin')](https://es.wikipedia.org/wiki/Plesiosaurus#/media/Archivo:Plesioscale.png 'Plesiosaurus con un humano a escala. Abyssal leviathin')
+
+Un plesiosaurio adulto de talla media crece entre 3 a 5 metros de longitud y pesa entre 500 y 700 kg. 
+
+Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa, sino lisa para una mejor hidrodinámica. Tienen un largo cuello que mide más o menos la mitad de su cuerpo y que usa como timón a la hora de nadar. Para terminar, sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
+
+[![Dibujo de pteranodonte volando](./assests/images/pteranodonte.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')](https://commons.wikimedia.org/wiki/File:Pteranodon_NT.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')
+
+#### Pteranodonte
+
+**Carnívoro | Volador | 3x1 casillas**
+
+Que los reptiles aprendieron a volar y que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodontes son el culmen de los reptiles voladores y aunque torpes en tierra, son los amos de los aires.
+
+Los pteranodontes pasan mucho tiempo pescando en el mar y como las grandes aves marinas, su vuelo se basaba más en el planeo con sus grandes alas que en el aleteo.
+
+Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse contra sus presas o enemigos, agarrarlos y elevarse con ellos para llevarlos a su nido para alimentar a sus crías o para dejarlos caer de grandes alturas. 
+
+* **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
+* **Habilidades:** Notar d10, Pelear d6
+* **Paso:** 4; **Parada:** 5; **Dureza:** 9(1)
+* **Capacidades especiales:**
+  * **Armadura +1:** Piel escamosa.
+  * **Picotazo/Garras:** FUE+d6.
+  * **Volar:** Los pteranodontes tienen un paso de volando de 12 (solo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
+  * **Ataque volador:** Cuando el pteranodonte vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente, a su nido.
+  * **Tamaño +2:** Podían llegar a tener una envergadura de alas de 5 o 6 m y un peso de unos 60 kilos.
+  * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
+  * **Veneno:** Después de un combate contra pteranodontes, si recibes una herida, debes tirar VIG. En caso de fallar, el día siguiente tendrá un nivel de fatiga, que se recupera tras dormir una noche, debido a la fiebre y malestar general generados por la infección de las bacterias de su pico y sus garras.
+
+[![Escala Pteranodon](./assests/images/escala-pteranodon.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')](https://commons.wikimedia.org/wiki/File:Pteranodon_scale.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')
+
+Los pteranodontes son unos de los saurios voladores de mayor tamaño, llegando a 5 o 6 metros de envergadura de alas y un peso entre 30 y 90 kilos. Se caracterizan frente a otras especies por su cresta de infinidad de formas y tamaños.  
+

@@ -50,6 +50,8 @@ La familia Villalba tiene una larga tradición como adoradores de Cthulhu. Lo ha
 
 Con los años la familia prosperó económica y socialmente hasta obtener de los reyes de Aragón un título nobiliario. En un par de generaciones las creencias de la numerosa familia y sus siervos llamaron la atención de la Orden del Gran Cthulhu que los incluyo como un poderoso recurso en el Mediterráneo Occidental.
 
+\sp
+
 Pronto el cabeza de la familia Villalba paso a tener un puesto en el círculo interior de la Orden y durante 300 años los Villalba aumentaron su poder tratando con entidades de los Mitos y decidieron el destino de Europa y sus territorios colonizados.
 
 Los Villalba hicieron y deshicieron a su gusto con la ayuda del dinero y la magia que les proporcionaba de la Orden, hasta que en 1629 fueron apresados, juzgados y ejecutados por la Santa Inquisición Romana. Se les acusó de brujería, mezclar su sangre con demonios y rezar a dioses paganos. Los Villalba intentaron pedir ayuda a la Orden, pero esta prefiero amputar la extremidad gangrenada para evitar problemas.
@@ -68,7 +70,11 @@ Llegado el momento volvió a España y luego viajó por toda Europa reuniendo a 
 
 La empresa de pesca empezó a expandirse por todas las islas controladas por el Reino de España y a tener delegaciones comerciales en las islas controladas por las otras potencias europeas. Y con ella, los sectarios de la Orden se fueron expandiendo por todo el Caribe como directores de casas comerciales, capitanes de barco, incluso políticos y militares. Y así es como la Orden fue extendiendo sus tentáculos.
 
-En 1689 se funda la Compañía de Comercio del Caribe. La pequeña empresa pesquera ahora era una potencia comercial que manejaba más del 30% del comercio del Caribe. En pocos años con la aprobación del rey de España se convierte en la Real Compañía Privilegiada del Caribe, con Hernando como la persona más rica y poderosa del Caribe.
+En 1689 se funda la Compañía de Comercio del Caribe. La pequeña empresa pesquera ahora era una potencia comercial que manejaba más del 30% del comercio del Caribe.
+
+\sp
+
+En pocos años con la aprobación del rey de España se convierte en la Real Compañía Privilegiada del Caribe, con Hernando como la persona más rica y poderosa del Caribe.
 
 Desde hace unos 15 años, Hernando se ha retirado de la vida pública y de la empresarial. Solo se dedica, desde su mansión a las afueras de La Habana, a dirigir la Orden y a llevar a cabo sus planes para levantar R’lyeh de las aguas y despertar a Cthulhu.
 

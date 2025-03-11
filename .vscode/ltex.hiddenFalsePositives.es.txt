@@ -20,3 +20,12 @@
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nBotín: 1d4 en su madriguera\\E$"}
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nTelepatía:\\E$"}
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nVolar:\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|09Recursos.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|08Epilogo.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|07DandoColor.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|06QuienEsQuien.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|05MonstruosDelosMitos.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|04HistoriasSalvajes.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|03GuiaDeViajes.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|01ElCaribeDeLosMitos.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|02ReglasDeAmbientacion.md|\\E$"}
