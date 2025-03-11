@@ -18,6 +18,8 @@ Hay una serie de reglas en esta ambientación que modifican las normas generales
 
 No es estrictamente necesario, pero te recomendamos que tu personaje tenga como uno de sus objetivos vitales ser pirata o por lo menos que tenga conocimientos y pericias relacionadas con los barcos y el mar. Las aventuras que van a correr van a suponer muchas veces viajar en barco, batirse en duelo sobre la cubierta de un buque y luchar contra demonios subacuáticos en simas marinas.
 
+\sp
+
 Si quieres hacerte un ratón de biblioteca que sepa de todo, trata de que su biblioteca tenga velas y si quieres que tu personaje sea duelista, que lo sea, pero que sepa lanzar estocadas mientras hace equilibrios en los aparejos de un barco.
 
 Aquí tienes algunos conceptos sobre los que construir tu PJ.
@@ -30,6 +32,9 @@ Aquí tienes algunos conceptos sobre los que construir tu PJ.
 * **Divulgante:** La verdad debe ser conocida y la mentira debe ser combatida. Ese es tu objetivo en el Caribe, que la verdad llegue a todos, ya que sin verdad no somos libres.
 * **Hedonista:** La vida es una fiesta eterna y tú has venido a vivirla. No hay placer que no hayas experimentado o que no quieras experimentar. En el Caribe y en la vida pirata puedes encontrar nuevos placeres que hasta ahora no habías experimentado. ¿Te lo vas a perder?
 * **Intelectual:** El conocimiento y el saber es lo más importante para ti y el Caribe es un mundo que explorar y del que aprender. Todos esos misterios escondidos en sus fondos oceánicos y en sus junglas esperan que los saques a la luz.
+
+\sp
+
 * **Paria:** Hay algo en ti que no encaja con los demás y estás cansado de esconder tus diferencias o de pelearte por ellas. Quizás el Caribe es el lugar donde esas diferencias no importen o donde puedas conseguir que no importen.
 * **Triunfal:** El éxito y la fortuna han sido tus compañeros desde que naciste, pero nunca es suficiente, siempre necesitas más. El Caribe es ese lugar donde puedes explotar tu potencial al máximo y conseguir el triunfo definitivo.
 
@@ -60,7 +65,11 @@ Esta habilidad no se puede escoger en la creación del personaje. Solo mediante 
 
 ### Idioma criollo (Astucia)
 
-El Criollo es la lengua más común del Caribe, casi todas las personas lo entienden y lo hablan. Empezó como una lengua muy básica creada con la mezcolanza de lenguas indígenas, africanas y europeas con la que comunicarse y comerciar y se fue haciendo más rica y compleja según se extendía su uso y se necesitaban transmitir conceptos más complejos. Aun así, es vista por muchas personas de origen europeo como una lengua de gente de bajo nivel cultural. Reserva estas conductas a tus personajes malvados.
+El Criollo es la lengua más común del Caribe, casi todas las personas lo entienden y lo hablan. Empezó como una lengua muy básica creada con la mezcolanza de lenguas indígenas, africanas y europeas con la que comunicarse y comerciar y se fue haciendo más rica y compleja según se extendía su uso y se necesitaban transmitir conceptos más complejos. 
+
+\sp
+
+Aun así, es vista por muchas personas de origen europeo como una lengua de gente de bajo nivel cultural. Reserva estas conductas a tus personajes malvados.
 
 ### Idioma cthulhunés (Astucia)
 
@@ -73,15 +82,19 @@ R’lyeh wgah'nagl fhtagn_
 _En la Ciudad de R’lyeh, el difunto  
 Cthulhu, espera soñando_
 
-Durante la creación de personaje no puedes ponerle puntos a Idioma Cthulhunés a no ser que tengas la ventaja Experiencia con los Mitos.
+> Durante la creación de personaje no puedes ponerle puntos a Idioma Cthulhunés a no ser que tengas la ventaja Experiencia con los Mitos.
 
-El Cthulhunés puede ser entendido y leído (si está escrito en caracteres latinos) pero el usuario tiene dos niveles menos a la hora de hablarlo. Si no llega a d4 no podrá pronunciarlo. Es decir, con Cthulhunés d8, podrá hablarlo a d4. Con un d6 no podrá hablarlo, pero si leerlo y entenderlo.
+\sc
 
-El Cthulhunés es una lengua creada para pronunciar cosas impronunciables y es por ello que afecta a la cordura del hablante. Así pues, cada vez que se suba este idioma, deberá hacerse una TPC (tirada de perdida de cordura) igual al nivel que se quiere conseguir.
+> El Cthulhunés puede ser entendido y leído (si está escrito en caracteres latinos) pero el usuario tiene dos niveles menos a la hora de hablarlo. Si no llega a d4 no podrá pronunciarlo. Es decir, con Cthulhunés d8, podrá hablarlo a d4. Con un d6 no podrá hablarlo, pero si leerlo y entenderlo.
+
+> El Cthulhunés es una lengua creada para pronunciar cosas impronunciables y es por ello que afecta a la cordura del hablante. Así pues, cada vez que se suba este idioma, deberá hacerse una TPC (tirada de perdida de cordura) igual al nivel que se quiere conseguir.
 
 ### Idioma Naacal (Astucia)
 
-El naacal es el idioma que habla la serpigente. Era el idioma que se hablaba en el continente perdido de Mu hace más de 173.000 años. Las letras son ligeramente similares en apariencia a lenguajes mesoamericanos como el maya. Su pronunciación es complicada para los humanos debido a que está pensada para la lengua y las cuerdas vocales de la serpigente.
+El naacal es el idioma que habla la serpigente. Era el idioma que se hablaba en el continente perdido de Mu hace más de 173.000 años.
+
+Las letras son ligeramente similares en apariencia a lenguajes mesoamericanos como el maya. Su pronunciación es complicada para los humanos debido a que está pensada para la lengua y las cuerdas vocales de la serpigente.
 
 \sp
 
@@ -99,19 +112,23 @@ La mayoría de las desventajas que hay en esta ambientación están relacionadas
 
 Hay personas que no están preparadas para enfrentarse al horror y esta desventaja lo refleja. No estás preparado para todas las terribles visiones que vas a presenciar y las horribles situaciones que vas a experimentar. Pero por todo eso, enfrentarte al horror como vas a hacerlo es una señal de tu valor.
 
-Todas las TPC tiene un nivel más. Es decir, una TPC de d8 será de d10 para alguien con una mente débil. Este nivel extra se aplica al final, después de hacer todas las cuentas. Si sale que no hay tirar TPC, en realidad, tira una TPC de d4. Si hay un mínimo de d4, para esta persona sería de d6.
+> Todas las TPC tiene un nivel más. Es decir, una TPC de d8 será de d10 para alguien con una mente débil. Este nivel extra se aplica al final, después de hacer todas las cuentas. Si sale que no hay tirar TPC, en realidad, tira una TPC de d4. Si hay un mínimo de d4, para esta persona sería de d6.
 
 ### Más cerca de la locura (mayor)
 
-Te encuentras más cerca de la locura que el resto del mundo. Tu equilibrio mental es más frágil que el común de los mortales. Puede ser por muchas razones: genética, infancia traumática, etc. Sea como sea, tu psique es más débil de lo normal y estás más cerca de la locura que el resto de tu equipo.
+Te encuentras más cerca de la locura que el resto del mundo. Tu equilibrio mental es más frágil que el común de los mortales.
 
-Empiezas con 3 puntos de cordura en vez de 4 como es normalmente. Nunca podrás tener más de 3 puntos de cordura, aunque termines una campaña con éxito y el DJ diga que recuperáis todos los puntos de cordura.
+\sp
+
+Puede ser por muchas razones: genética, infancia traumática, etc. Sea como sea, tu psique es más débil de lo normal y estás más cerca de la locura que el resto de tu equipo.
+
+> Empiezas con 3 puntos de cordura en vez de 4 como es normalmente. Nunca podrás tener más de 3 puntos de cordura, aunque termines una campaña con éxito y el DJ diga que recuperáis todos los puntos de cordura.
 
 ### La llamada de Cthulhu (menor)
 
 Tu mente artística e imaginativa es muy susceptible a las ondas mentales del Gran Cthulhu, teniendo terribles pesadillas sobre Cthulhu y su tumba acuática de R’lyeh.
 
-Siempre que te duermas sin tener benis, tendrás unas horribles pesadillas que no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una noche entera teniendo un beni y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer uso de tu habilidad de Mitos de Cthulhu para tratar de sacar información, sobre Cthulhu, R’lyeh, sus adoradores y sus planes.
+> Siempre que te duermas sin tener benis, tendrás unas horribles pesadillas que no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una noche entera teniendo un beni y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer uso de tu habilidad de Mitos de Cthulhu para tratar de sacar información, sobre Cthulhu, R’lyeh, sus adoradores y sus planes.
 
 ### Camaradería pirata (mayor)
 
@@ -123,25 +140,29 @@ Todo el sistema de horror/cordura típica de los juegos basados en la obra de Lo
 
 Todos estos trastornos mentales debemos tratarlos como desventajas y se les aplican todas las reglas de las desventajas.
 
+\sp
+
 Además, de las desventajas listadas a continuación puedes usar como trastornos mentales Avaricioso, Arrogante, Envidioso, Exceso de Confianza, Delirio, Fobia, Hábito, Manía y Sanguinario.
 
 ### Amnesia y flashbacks (menor/mayor)
 
 El cerebro de tu personaje, muy sabiamente, ha bloqueado parcialmente el recuerdo concreto de una situación traumática (cómo le torturaron, cómo presenció como un vampiro de fuego quemaba a toda su familia, …). No quiere decir que no recuerde ese hecho concreto, pero solo generalmente. Los detalles son lo que ha reprimido y todos sabemos que el demonio está en los detalles. Esos detalles vuelven a su mente como flashbacks mostrándoles los momentos más traumáticos del evento que produjo la amnesia, los gritos espeluznantes, el olor a sangre podrida, los brillantes ojos del asesino, …
 
-En juego, supone que una vez por sesión en momentos de estrés puede sufrir esos flashbacks fallando la tirada que vaya a hacer sin posibilidad de gastar un Beni para repetirla. Por estrés entendemos cualquier tirada enfrentada, desde jugar al póquer a discutir con un oponente político o tratar de entrar sigilosamente en la casa del gobernador. Si se coge como mayor, el DJ podrá hacerle fallar cualquier tirada de combate y dejarle aturdido como si le hubieran hecho una finta o un truco sucio.
+> En juego, supone que una vez por sesión en momentos de estrés puede sufrir esos flashbacks fallando la tirada que vaya a hacer sin posibilidad de gastar un Beni para repetirla. Por estrés entendemos cualquier tirada enfrentada, desde jugar al póquer a discutir con un oponente político o tratar de entrar sigilosamente en la casa del gobernador. Si se coge como mayor, el DJ podrá hacerle fallar cualquier tirada de combate y dejarle aturdido como si le hubieran hecho una finta o un truco sucio.
 
 ### Depresión (mayor/menor)
 
 Tu PJ sufre depresión y todo se le hace cuesta arriba, tiene siempre un bajo estado de ánimo y sentimientos de tristeza.
 
-Si es menor al principio de cada sesión deberá tirar un d6. Si consigue un éxito, sobrelleva la depresión hasta la próxima sesión. Si falla, pierde uno de sus benis hasta la próxima sesión. Si es mayor directamente cuenta con un beni menos.
+> Si es menor al principio de cada sesión deberá tirar un d6. Si consigue un éxito, sobrelleva la depresión hasta la próxima sesión. Si falla, pierde uno de sus benis hasta la próxima sesión. Si es mayor directamente cuenta con un beni menos.
 
 ### Trastorno de ansiedad generalizada (mayor/menor)
 
 Este complejo trastorno mental consiste en una ansiedad general y continua por todos los aspectos de la vida. Se siente una ansiedad tremenda por asuntos que no son tan importantes, se siente ansiedad por tomar decisiones y elegir la peor, se sienten situaciones normales como más amenazantes de lo que son e incluso se siente ansiedad por tener ansiedad.
 
-En juego, el personaje con este trastorno recibe un -2 a todas las tiradas que necesite para tomar decisiones. Por ejemplo, hará una tirada de Tácticas con -2 para decidir que puerta es mejor para atacar la cárcel local y liberar a tus compañeros.
+\sp
+
+> En juego, el personaje con este trastorno recibe un -2 a todas las tiradas que necesite para tomar decisiones. Por ejemplo, hará una tirada de Tácticas con -2 para decidir que puerta es mejor para atacar la cárcel local y liberar a tus compañeros.
 
 Como mayor directamente no podrá hacer la tirada, la ansiedad le atenazará dejándole en blanco.
 
@@ -149,9 +170,9 @@ Como mayor directamente no podrá hacer la tirada, la ansiedad le atenazará dej
 
 Están muy asociados con el trastorno anterior. Tu personaje sufre un miedo terrible de repente y sin sentido ante una situación o evento normal (normal para el personaje).
 
-Como desventaja menor, una vez por sesión el DJ podrá obligar a tu PJ a hacer una tirada de Espíritu o sufrirá un terrible ataque de pánico que le imposibilitará llevar a cabo la acción que quería hacer.
+> Como desventaja menor, una vez por sesión el DJ podrá obligar a tu PJ a hacer una tirada de Espíritu o sufrirá un terrible ataque de pánico que le imposibilitará llevar a cabo la acción que quería hacer.
 
-En caso de que sea mayor, no hará falta tirada, el DJ podrá hacer que el miedo atenace al personaje directamente imposibilitándole seguir con la acción que deseaba hacer.
+> En caso de que sea mayor, no hará falta tirada, el DJ podrá hacer que el miedo atenace al personaje directamente imposibilitándole seguir con la acción que deseaba hacer.
 
 Como DJ te aconsejo que uses sabiamente esta desventaja, sobre todo en mayor. Puede ser muy frustrante para cualquier persona no tener control de su personaje. Mi consejo es que lo uses como una forma de encauzar a quien se salgan de madre.
 
@@ -159,21 +180,23 @@ Como DJ te aconsejo que uses sabiamente esta desventaja, sobre todo en mayor. Pu
 
 El trastorno obsesivo-compulsivo (TOC) se caracteriza por un miedo no deseado (obsesiones) que provocan comportamientos repetitivos (compulsiones). Por ejemplo, un miedo a las enfermedades puede llevar a un paciente de TOC a lavarse compulsivamente las manos.
 
-Deberás elegir una fobia menor y un hábito menor relacionado para formar el TOC de tu personaje.
+> Deberás elegir una fobia menor y un hábito menor relacionado para formar el TOC de tu personaje.
 
 ### Paranoia (mayor/menor)
 
 Tu personaje está convencido de que los enemigos están en todas partes, y cree que todos están contra él. Siempre está mirando a su espalda esperando una traición de sus compañeros o tratando de escuchar cómo conspiran a sus espaldas.
 
-Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor.
+\sp
 
-Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.
+> Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor.
+
+> Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.
 
 ### Megalomanía (mayor/menor)
 
 La megalomanía se caracteriza porque la persona tiene ideas de grandeza, de manera que puede mentir, manipular o exagerar algunas situaciones o a las personas, a fin de conseguir sus objetivos.
 
-A nivel menor deberá elegir algo en el que quiere el mejor (el más fuerte, el más rápido, el más rico, …), esto hará que actúe de forma desafiante y agresiva contra las personas que es mejor que él y obtendrá un -1 a todas las tiradas de interacción social con esas personas. A nivel mayor será a nivel general contra toda persona que pueda ser mejor que él en algún campo en el que esté cualificado, es decir, que tenga atributo/habilidad d8 o más.
+> A nivel menor deberá elegir algo en el que quiere el mejor (el más fuerte, el más rápido, el más rico, …), esto hará que actúe de forma desafiante y agresiva contra las personas que es mejor que él y obtendrá un -1 a todas las tiradas de interacción social con esas personas. A nivel mayor será a nivel general contra toda persona que pueda ser mejor que él en algún campo en el que esté cualificado, es decir, que tenga atributo/habilidad d8 o más.
 
 \sp
 
@@ -191,7 +214,7 @@ _Prerrequisitos: Novato_
 
 A base de enfrentarte a un horror específico te has acostumbrado y tu cordura no sufre al estar en su presencia.
 
-A efectos de juego baja 4 niveles el TPC de un monstruo. Si el TPC modificado baja por debajo de d4 no necesitas hacer tirada de TPC. Por ejemplo, si estás «acostumbrado a los profundos» al ver un profundo (TPC d4) no tendrás que tirar, pero si ves una horda de 1000 profundos (TCP d12+1) solo tendrás que enfrentarse a un TPC (d6, 4 niveles menos).
+> A efectos de juego baja 4 niveles el TPC de un monstruo. Si el TPC modificado baja por debajo de d4 no necesitas hacer tirada de TPC. Por ejemplo, si estás «acostumbrado a los profundos» al ver un profundo (TPC d4) no tendrás que tirar, pero si ves una horda de 1000 profundos (TCP d12+1) solo tendrás que enfrentarse a un TPC (d6, 4 niveles menos).
 
 ### Experiencia con los Mitos
 
@@ -199,7 +222,9 @@ _Prerrequisitos: Novato_
 
 Has tenido experiencias con los Mitos, quizás en tu niñez o adolescencia. Puede ser que vengas de un linaje de adoradores de Primigenios o que la sangre de profundo corra por sus venas. Puede ser que te enfrentaras a un monstruo de los Mitos y consiguieras sobrevivir o que tu abuela te transmitiera parte de los conocimientos prohibidos de su akelarre de brujas.
 
-A nivel de juego, podrás empezar con las ventajas «Nuevos poderes» y «Puntos de poder». Es decir, podrás empezar tus aventuras con la capacidad de hacer hechizos. Además, podrás adquirir con puntos de creación la habilidad Mitos de Cthulhu a d4 y dispondrás de un libro de los Mitos generado aleatoriamente. También podrás gastar puntos hasta d4 para la habilidad idioma Cthulhunés.
+> A nivel de juego, podrás empezar con las ventajas «Nuevos poderes» y «Puntos de poder». Es decir, podrás empezar tus aventuras con la capacidad de hacer hechizos. Además, podrás adquirir con puntos de creación la habilidad Mitos de Cthulhu a d4 y dispondrás de un libro de los Mitos generado aleatoriamente. También podrás gastar puntos hasta d4 para la habilidad idioma Cthulhunés.
+
+\sp
 
 ### Imán de lo extraño
 
@@ -207,7 +232,7 @@ _Prerrequisitos: Novato_
 
 Todo lo extraño se siente atraído hacia ti para bien y para mal. Abres y lees el libro maldito, te pierdes en el bosque y acabas encontrando la casa de la bruja o se te cae una probeta del laboratorio del científico loco.
 
-Todas las tiradas de botín en las que te veas involucrado podrás repetirlas gastando un beni y el grupo podrá quedarse con el mejor resultado. En caso de no conseguir ningún éxito en ninguna de las tiradas, el imán de lo extraño deberá hacer una tirada en la tabla de maldiciones, pero la duración solo será en horas y recuperarás el beni gastado.
+> Todas las tiradas de botín en las que te veas involucrado podrás repetirlas gastando un beni y el grupo podrá quedarse con el mejor resultado. En caso de no conseguir ningún éxito en ninguna de las tiradas, el imán de lo extraño deberá hacer una tirada en la tabla de maldiciones, pero la duración solo será en horas y recuperarás el beni gastado.
 
 En caso de que haya varias personas con esta ventaja, cada uno tendrá que gastarse un beni y añadirá una tirada extra. En caso de maldición, todos los jugadores con la ventaja serán maldecidos.
 
@@ -217,7 +242,7 @@ _Prerrequisitos: Novato_
 
 Tienes una sensibilidad especial a las energías extrañas que nos rodean, desde los diferentes planos, pasando por otras dimensiones, hasta la magia y en general todo lo relacionado con los Mitos. Como la desventaja «Llamada de Cthulhu» está muy relacionado con la sensibilidad y la creatividad.
 
-TU PJ obtiene un +2 a todas las tiradas de Mitos de Cthulhu, pero también un -1 a todas las tiradas de TPC.
+> TU PJ obtiene un +2 a todas las tiradas de Mitos de Cthulhu, pero también un -1 a todas las tiradas de TPC.
 
 ### Ritualista
 
@@ -225,7 +250,9 @@ _Prerrequisitos: Novato_
 
 No has llegado a desarrollar tus dotes de hechicería, pero si controlas una serie de rituales que son de uso común en tu comunidad o en tu familia.
 
-Empiezas con 4 rituales, puedes elegirlos tú mismo, pero debe tener cierta coherencia con tu historia. Si tienes «Brindar al mar» porque vienes de un pueblo de pescadores, no tiene mucho sentido que sepas «Protección de la cosecha» que sería más de campesinos de interior. Además, tienes un +2 a las tiradas de Conocimientos generales relacionados con magia y hechicería.
+> Empiezas con 4 rituales, puedes elegirlos tú mismo, pero debe tener cierta coherencia con tu historia. Si tienes «Brindar al mar» porque vienes de un pueblo de pescadores, no tiene mucho sentido que sepas «Protección de la cosecha» que sería más de campesinos de interior. Además, tienes un +2 a las tiradas de Conocimientos generales relacionados con magia y hechicería.
+
+\sp
 
 ### Integrante de la Hermandad del sargazo
 
@@ -233,11 +260,13 @@ _Prerrequisitos: Especial_
 
 Eres integrante de pleno derecho de esta sociedad secreta que lucha contra los seres de los Mitos y sus terribles planes para la humanidad.
 
-Todas las personas que forman parte de la hermandad podrán ser considerados como aliados. Por contrapartida deberás seguir a rajatabla las decisiones que la hermandad tome. Además, deberás ayudar al resto de cofrades.
+> Todas las personas que forman parte de la hermandad podrán ser considerados como aliados. Por contrapartida deberás seguir a rajatabla las decisiones que la hermandad tome. Además, deberás ayudar al resto de cofrades.
 
-Te da acceso también a la red de pisos francos de la Hermandad. Diciendo la contraseña correcta a su cuidador, este te dará acceso al piso y podrás hacer uso de sus instalaciones. Toda ciudad de más de 2.000 habitantes tiene un piso franco que puede ser desde un habitáculo a un lujoso apartamento.
+> Te da acceso también a la red de pisos francos de la Hermandad. Diciendo la contraseña correcta a su cuidador, este te dará acceso al piso y podrás hacer uso de sus instalaciones. Toda ciudad de más de 2.000 habitantes tiene un piso franco que puede ser desde un habitáculo a un lujoso apartamento.
 
-Esta ventaja no puede ponerse en la creación del personaje y solo el DJ puede dártela. No se pueden gastar avances para conseguir esta ventaja.
+> Esta ventaja no puede ponerse en la creación del personaje y solo el DJ puede dártela. No se pueden gastar avances para conseguir esta ventaja.
+
+\sc
 
 ### Jerga Pirata
 
@@ -245,9 +274,11 @@ _Prerrequisitos: Novato, Especial_
 
 La jerga pirata no es un idioma en sí, no tiene una gramática, una pronunciación ni una grafía. Es un batiburrillo de palabras y expresiones mal pronunciadas con un montón de gestos con las manos que solo con práctica y oído puedes aprender de otros piratas. Un pirata puede estar hablando inglés y no entenderle una sola palabra de lo que dice. Nada tiene mucho sentido y solo si estás familiarizado puedes pillar.
 
-Puedes hablar con otra persona que sepan jerga pirata y vuestra conservación no podrá ser entendida por nadie más que no tenga jerga pirata. Esto se aplica a todo tipo de razas no-humanas, incluso deidades menores. Si alguien consigue una transcripción de la conversación y consigue un avance en una tirada de Investigar, podrá entender la conversación.
+> Puedes hablar con otra persona que sepan jerga pirata y vuestra conservación no podrá ser entendida por nadie más que no tenga jerga pirata. Esto se aplica a todo tipo de razas no-humanas, incluso deidades menores. Si alguien consigue una transcripción de la conversación y consigue un avance en una tirada de Investigar, podrá entender la conversación.
 
-La jerga pirata no puede escogerse en la creación del personaje, a no ser que tu historia este relacionado con la piratería, por ejemplo, siendo grumete en un barco pirata o trabajando en una taberna del puerto.
+> La jerga pirata no puede escogerse en la creación del personaje, a no ser que tu historia este relacionado con la piratería, por ejemplo, siendo grumete en un barco pirata o trabajando en una taberna del puerto.
+
+\sp
 
 ### Barco propio
 
@@ -299,6 +330,15 @@ Puedes hacer uso de todas las armas antiguas y medievales que vienen en el manua
 |---|---|---|
 |Sable de abordaje|Los sables de abordaje es una hoja curva con un solo filo, pero tiene menos curva que el de caballería.|Espada corta|
 |Alfanje|Es una espada a una mano de hoja ancha y curva, con filo en un solo lado.|Espada larga|
+
+\conc
+
+\sp
+
+\sinc
+
+|Nombre|Descripción|Estadísticas&ast;|
+|---|---|---|
 |Hacha de abordaje|Esta hacha de tamaño pequeño a una mano tiene una hoja curva en un lado para cortar cuerdas y un pico en la otra para romper puertas y para poder clavarla en la madera y usarla como ayuda al escalar.|Hacha de mano|
 |Machete|Se trata de un cuchillo largo (menos de 60 cm y tiene un solo filo), pero más corto que una espada. Se utiliza para cortar la caña de azúcar, abrir camino en la jungla o como arma blanca.|Espada corta|
 |Espada ropera|Es una espada de hoja recta y larga, esgrimida a una mano y con una empuñadura de diferentes estilos que protegía toda la mano. Es la típica arma que vemos en las películas de mosqueteros.|Espada larga|
@@ -310,6 +350,10 @@ Puedes hacer uso de todas las armas antiguas y medievales que vienen en el manua
 \conc
 
 Dentro del combate a distancia puedes hacer uso de las armas a distancias primitivas y armas de pólvora negra, es decir pistolas de chispa, mosquetes y trabucos.
+
+\sinc
+
+\sp
 
 \sinc
 
@@ -330,8 +374,6 @@ Dentro del combate a distancia puedes hacer uso de las armas a distancias primit
 
 Esta arma de rayos, parecida a una cámara de fotos de gran tamaño, posee un gran poder destructivo. Tiene dos grandes asas y al pulsarse los gatillos que hay en cada asa lanza unos rayos que calcinan a su objetivo. Es por ello que se necesitan dos manos para poder usarla. Al dispararse los rayos de eléctricos generan un gran zumbido del mismo nivel que disparando un arma de pólvora, es por ello que no son armas de infiltración si no de guerra.
 
-El rayo de energía que lanza es plenamente visible, mucho más de noche, y usarla en público podría suponer ser acusado de brujería.
-
 \sinc
 
 |Distancia|Daño|PA|CDF|Munición|FUE Min.|Peso|Coste|
@@ -342,6 +384,9 @@ El rayo de energía que lanza es plenamente visible, mucho más de noche, y usar
 
 \conc
 
+\sp
+
+El rayo de energía que lanza es plenamente visible, mucho más de noche, y usarla en público podría suponer ser acusado de brujería.
 
 #### Cañón lanzarrayos yithiano
 
@@ -355,11 +400,15 @@ Los laboratorios de RCPC han podido aprender mucho de la tecnología yith y, com
 
 **Notas:** Necesita una dotación de 1 persona al no tener que recargar. Puede hacer que se sobrecaliente y termine explotando. Haría un daño de 3d10 en una plantilla mediana. Recarga 1 de munición por cada media hora, forma que en menos de 1 día tendrías el cañón plenamente cargado.
 
+&nbsp;
+
 \conc
 
 ### Protecciones
 
 En el 1722 las armaduras y los escudos están ya en franco desuso con la aparición de la pólvora. Además, son pesadas, muy caras y quitan maniobrabilidad, por no hablar de que no son nada frescas. En unas pocas rondas de combate, un defensor con armadura puede caer inconsciente por el calor y el esfuerzo que supone combatir con armadura pesada. Sin olvidar que si te caes el agua date por muerto.
+
+\sc
 
 Lo normal es que el cuero de diferentes animales, desde cuero de vaca hasta piel de cocodrilo, y la ropa de tela resistente sean las únicas protecciones que se vean normalmente.
 
@@ -383,7 +432,11 @@ Qué sería de una ambientación pirata sin barcos, que muchas veces casi son pe
 * **De combate:** una media de las anteriores, rápidas, con capacidad de carga y con defensas.
 * **De guerra:** como las anteriores, pero preparadas no solo para la defensa sino también para el ataque.
 
-Los barcos tienen dos campos especiales Además, de los normales de vehículos. La carga es el número de barriles llenos de carga para comerciar que puede llevar el barco sin sufrir penalizaciones. Provisiones son el coste de las provisiones necesarias para navegar una semana en doblones.
+Los barcos tienen dos campos especiales Además, de los normales de vehículos. La carga es el número de barriles llenos de carga para comerciar que puede llevar el barco sin sufrir penalizaciones. 
+
+\sp
+
+Provisiones son el coste de las provisiones necesarias para navegar una semana en doblones.
 
 ### Naves pequeñas
 
@@ -421,6 +474,8 @@ Las más rápidas y maniobrables del Caribe, estas naves son perfectas para los 
 
 \conc
 
+\sp
+
 ### Naves de carga
 
 Es el más grande de los navíos con una gran capacidad de carga, pero es tremendamente lento y muy poco maniobrable. Está preparado para largas travesías por mar. No suelen estar armadas, lo normal es que varias de estas naves lleven una escolta de buques de combate o de guerra.
@@ -457,6 +512,8 @@ Las naves perfectas para los piratas y las fuerzas del orden. Su buena velocidad
 
 \conc
 
+\sp
+
 ### Naves de guerra
 
 Auténticas fortalezas flotantes. Ellas solo pueden tener controlada una ruta comercial y varias de ellas sincronizadas podrían atacar y tomar cualquier ciudad portuaria del caribe. Solo grupos muy fuertes y muy bien organizados de piratas pensarían en plantarle cara a esta bestia de los mares.
@@ -479,17 +536,25 @@ Auténticas fortalezas flotantes. Ellas solo pueden tener controlada una ruta co
 
 Las historias de Lovecraft tienen en muchas de ellas unos tintes de ciencia extraña, de inventos imposibles que explotan singulares conceptos científicos y queremos introducir todo eso a través de las modificaciones de los navíos. Es por ello que tenemos modificaciones medianamente realistas, pero a la vez locas y futuristas que explotan todo ese concepto de ciencia extraña y luego tenemos modificaciones más propias de los Mitos fruto de experimentar con las criaturas monstruosas para mejorar los barcos.
 
-Si tu mesa captura un barco modificado sin más de dos heridas y pueden llevarlo a tierra, podrán desmotar las mejoras e instalarlas en su barco. Por cada modificación tendrán que hacer una tirada de Reparar (o de Mitos si es una modificación extraña) para entender como hicieron la modificación y una segunda tirada de Reparar para estudiar como quitarla e instalarla en su barco. Cada avance en la tirada de Reparar le quitará media semana a los trabajos de modificación de su nave. La modificación tiene un coste en materiales y también se pueden usar avances para abaratarlo, a un coste de un quinto del coste por avance. Si una modificación cuesta 500 doblones y gasto 2 avances tendré que pagar solo 300 doblones.
+Si tu mesa captura un barco modificado sin más de dos heridas y pueden llevarlo a tierra, podrán desmotar las mejoras e instalarlas en su barco. Por cada modificación tendrán que hacer una tirada de Reparar (o de Mitos si es una modificación extraña) para entender como hicieron la modificación y una segunda tirada de Reparar para estudiar como quitarla e instalarla en su barco.
+
+Cada avance en la tirada de Reparar le quitará media semana a los trabajos de modificación de su nave. La modificación tiene un coste en materiales y también se pueden usar avances para abaratarlo, a un coste de un quinto del coste por avance. Si una modificación cuesta 500 doblones y gasto 2 avances tendré que pagar solo 300 doblones.
+
+\sp
 
 Si las modificaciones se hacen en un astillero, el maestro carpintero podrá hacer la tirada de Reparar y duran la mitad de tiempo, pero el coste se dobla. Lo divertido puede ser como le explicas a los artesanos que trabajan en el dique seco los olores raros que provienen de los barcos o porque se oyen chillidos de dolor cuando clavan un clavo en la madera del casco.
 
 Recordad que no se pueden poner modificaciones que ocupen espacios que ya se han modificado, por ejemplo, no puedes poner velas de profundo si ya tenías velas de noctivago. Deberás quitar la modificación anterior (con un coste en tiempo de la mitad de ponerla, mínimo media semana).
 
-No vamos a ponernos exquisitos y las modificaciones podrán traspasarse de un barco a otro sin importar el tamaño o la forma del barco de origen y de destino. Pero si quieres eres libre de poner las limitaciones que quieras.
+\sc
+
+> No vamos a ponernos exquisitos y las modificaciones podrán traspasarse de un barco a otro sin importar el tamaño o la forma del barco de origen y de destino. Pero si quieres eres libre de poner las limitaciones que quieras.
 
 #### Modificaciones normales para barcos
 
 Gran parte de las aventuras que pasen tus héroes van a ser en navíos de todo tipo, es por ello que queremos darles la oportunidad a los jugadores de poder jugar con ellos personalizándolos y mejorándolos. Es por ello que te mostramos una serie de modificaciones divertidas que podrán instalarles a sus naves para darles personalidad. Si van de contrabandistas que le pongan una esclusa para poder meter y sacar contrabando ilegal. Si van de exploradores que tengan ojos de buey en el fondo para poder investigar el fondo, …
+
+\sp
 
 \sinc
 
@@ -500,11 +565,22 @@ Gran parte de las aventuras que pasen tus héroes van a ser en navíos de todo t
 |**Ariete:** Toda la proa es reforzada para sostener una gran pieza de metal en forma de ariete que permite al barco embestir otros barcos o monstruos marinos de gran tamaño. El barco queda enganchado por el ariete y no pueden separarse. En ese momento aprovecha para hacer un abordaje. Esta modificación permite que todas las tiradas de embestir exitosas se conviertan. Además, en una maniobra de abordaje exitosa. Además, la forma del ariete y su gran tamaño hace muy difícil desengancharse, el -4 normal a la tirada de soltarse se convierte en un -6.|1|300|Proa|
 |**Exclusa de aire en el fondo:** Esta modificación es un desarrollo de los maestres de la RCPC que permite a los profundos entrar y salir de un barco por el fondo sin ser vistos. Puede ser una forma muy simple de sacar o meter contrabando en el barco. En un combate naval, los profundos podrían salir del barco por la esclusa y abordar el barco enemigo por sorpresa.|2|300|Quilla|
 |**Ojos de buey en fondo del barco:** A lo largo del casco se han colocado una serie de ojos de buey por debajo de la línea de flotación que permiten observar el fondo marino. Puede que así descubran barcos hundidos, ciudades sumergidas o detecten el ataque de un grupo de profundos. Si se ponen vigías en estos ventanucos, cualquier ataque por sorpresa de seres acuáticos no obtendrá ningún beneficio.|1|400|Casco|
+
+\conc
+
+\sp
+
+\sinc
+
+|Nombre/Descripción|Semanas|Coste|Parte del barco|
+|---|---|---|---|---|
 |**Velas reforzadas:** Una combinación de fibras naturales descubiertas en el nuevo mundo y mejores sistemas de tejido y entrelazado de esas fibras dan como resultado unas velas muy resistentes que pueden aguantar en las peores tormentas. La embarcación obtiene un 20% de velocidad extra debido a que puede largarse más vela sin temer que se rajen.|1/2|200|Aparejos|
 |**Cortacadenas:** Muchos puertos desplegaban en su entrada unas gigantescas cadenas para evitar que los piratas pudieran entrar al puerto y atacarlo. También lo usaban para evitar que escaparan barcos del puerto. El cortacadenas es una gigantesca horquilla afilada que se puede desplegar en la proa del barco en la línea de flotación y que ayuda a cortar las cadenas cuando se embiste contra ellas. Al realizar la maniobra de embestida contra la cadena con el cortacadenas se obtiene un +4 a Navegar y +4 al daño para cortarla.|1/2|400|Proa|
 |**Cometa de vigía:** Esta cometa de gran tamaño se ata al barco y se hace volar cuando hay viento. Tiene un arnés de cuerdas que permite a una persona elevarse por los aires y vigilar desde alturas mayores que la cofa del barco. Otorga +2 a Notar a los vigías y es especialmente útil en alta mar, ya que permite ver los barcos que se acercan incluso antes de que ellos puedan verte, permitiendo montar o escapar de emboscadas. Si se corta la cuerda, el vigía puede intentar planear y aterrizar con una tirada exitosa de Atletismo. El tiempo de instalación realmente es de entrenamiento para hacer volar y aterrizar la cometa.|1/2|600|Popa|
 
 \conc
+
+\sp
 
 #### Modificaciones extrañas para barcos
 
@@ -520,21 +596,59 @@ Qué decir que las modificaciones extrañas pueden generar horror, sobre todo en
 
 |Nombre/Descripción|Semanas|Coste|Parte del barco|
 |---|---|---|---|---|
-|**Casco de shoggoth:** El casco de la nave está cubierto por un shoggoth que le otorga mucha dureza y que sella el casco en caso de fugas. Desafortunadamente, el caso también se llena de pseudópodos, proto-globos oculares y tiene cierta fosforescencia de noche. +10 dureza y a todo intento de provocar fugas en el barco fallan. **TPC: 1d6**|3|800|Casco|
-|**Velas de alas de noctivago:** Las velas negras del barco tienen una forma extraña, ya que se han hecho cosiendo la piel curtida de las alas noctivagos demacrados. La embarcación obtiene un 40% de velocidad extra debido a que puede largarse más vela sin temer que se rajen y están preparadas para interactuar correctamente con el viento. **TPC: 1d4**|1/2|100|Aparejos|
-|**Tecnología mi-Go (navegación):** Este aparato de tecnología mi-Go parece una estación meteorológica muy avanzada con todo tipo de funciones. La estación tiene diferentes funciones como dar la posición del barco, su dirección, la previsión del tiempo, etc. A efectos de juego, aporta un +1 a las tiradas de navegación para llegar a determinado punto en el mapa. También permite saber el tiempo antes de partir y decidir si partir o esperar una semana a ver si hay buen tiempo.|1/2|200|Proa|
-|**Mascarón de anulación de magia Lloigor:** Usando la capacidad de drenar la magia de los lloigors, el mascarón de proa de la nave absorbe toda la magia de la zona, evitando que se puedan lanzar en el barco y 500 metros a su alrededor. El barco drena 1d6 puntos por turno si estás alrededor y 1d8 por turno si estás subido al barco.|1/2|300|Proa|
-|**Tecnología mi-Go (comunicación):** En el puente del capitán se coloca un gran tubo (2 metros de altura por 1 metro de diámetro) metálico con llaves, tubos e indicadores que produce un extraño zumbido. El tubo cuyo contenido se desconoce es un metal extraterrestre parecido al bronce. Este artilugio es tecnología Mi-Go que permite comunicación telepática. El capitán o el contramaestre se colocan una banda metálica en la frente y pueden enviar órdenes a todos los sujetos que haya en el barco. Esto permite dar órdenes claras y precisas y recibir respuesta a la velocidad del pensamiento. Esta eficiencia en el trabajo en equipo de los marineros otorga un +1 a la maniobrabilidad de la nave. No debe usarse muy de seguido, ya que genera jaquecas y cansancio en los receptores de la telepatía.|1/2|200|Popa|
-|**Camuflaje de pólipo volante:** La cubierta, los mástiles y las velas han sito trato con un barniz y una cera con extracto de pólipo volante que hace que la luz actúe de forma extraña como cuando ves una carretera a lo lejos un día de sol y calor. No se puede hacer invisible como los pólipos, pero ganan bonus al camuflaje si pueden esconderse, por ejemplo, en la niebla o entre los islotes de los cayos. Desde luego lo que no permite es entrar a un puerto sin ser visto. Otorga un -2 a las tiradas para detectar la nave.|2|400|Cubierta, mástiles, velas|
-|**Tentáculos de Retoño oscuro:** Se ha fusionado la quilla del barco con un retoño oscuro, dotando al navío de tentáculos que permiten durante periodos cortos de tiempo pasar por zonas de poco calado, incluso moverse por tierra. Los tentáculos se despliegan por toda la quilla y el barco puede literalmente andar usando los pseudópodos como piernas hasta 500 metros. **TPC: 1d6**|3|800|Casco|
-|**Velas de piel de profundo:** Estas velas de textura gomosa y color verdoso están literalmente hechas con piel de profundo. Son muy resistentes y casi imposibles de rasgar, pudiendo incluso aguantar la fuerza de un huracán. Son ignífugas y muy elásticas, hinchándose más de lo normal con buen viento. En general ofrecen un 20% más de velocidad máxima al barco que las lleve. Los profundos que vean estas velas atacarán rabiosos a la nave que las use.|1/2|100|Aparejos|
-|**Generador de oscuridad de Mi-Go:** La RCPC ha conseguido crear unos hongos basados en la genética de los Mi-go que reproducen su capacidad de crear oscuridad. Los hongos crecen en un gran cajón (2 metros cúbicos) cerrado casi herméticamente que se coloca en la proa o popa del barco. Si se abre el cajón y se proyecta una fuente de luz, estos reaccionan y se defienden de la luz creando una zona oscura que sustrae toda la luz cercana. Si bien de día no sirve para nada, de noche hace al navío totalmente invisible. El barco solo puede ser detectado por el ruido que haga o entrando en contacto con él, pudiendo por ejemplo colarse dentro de un puerto sin ser visto. El único problema es que la oscuridad también afecta al interior del barco y la tripulación no ve nada. Este problema se puede solucionar haciendo uso de hechizos de visión nocturna, vista lejana o luz. Desde fuera, un hechizo de luz podría contrarrestar el efecto de los hongos.|1/2|300|Popa o Proa|
-|**Tentáculos de shoggoths:** Se han cortado e injertado una serie de tentáculos en el casco del barco a la altura de la línea de flotación. Estos tentáculos han sido transformados hipnóticamente (como hacían los Antiguos con sus siervos shoggoths) para que se transformen en remos y obedezcan las órdenes del capitán del barco. Estos tentáculos proporcionan máxima velocidad durante una hora, aunque no haya viento y permiten que el barco tenga plena maniobrabilidad excepcional en situaciones complicadas. Podrían meterse en un campo de arrecifes sin problemas, moverse de lado, de forma que no ofreces el largo de navío enemigo al girar, pasar por angostos pasos… Como problema es que solo son funcionales si el capitán está en el barco y está consciente. Un capitán dormido, malherido o inconsciente no puede hacer uso de los tentáculos. Al mover los tentáculos a un nuevo barco, su control deberá ser dado por el antiguo capitán al nuevo mediante una palabra de control que solo conoce el anterior capitán. **TPC: 1d6**|1|800|Casco|
-|**Cañones Yithianos:** Basándose en la tecnología yith de lanzarrayos, parte o todos los cañones han sido reemplazados por armas lanzarrayos de gran tamaño. Son más destructivos que un cañón normal, tremendamente precisos, pudiéndose apuntar fácilmente a la Santa Bárbara del enemigo y hacerla estallar. Otra gran ventaja es que no necesitan munición solo un tiempo de recarga después de usarlo, con lo que no necesitas volver a puerto para abastecerte de munición. **TPC: 1d4. Después de dispararlos la primera vez.**|1|200 por cañón|Armamento|
-
-**Notas:** esta parte de la ambientación referente a las modificaciones extrañas puede ser muy exagerada y romper el juego. Siéntete libre de olvidarte de ella si crees que no encaja con tu juego. También puedes reservarla para momentos muy especiales y dejar estas modificaciones, por ejemplo, solo en el barco de Barbanegra.
+|**Camuflaje de pólipo volante**|2|400|Cubierta, mástiles, velas|
+|**Cañones Yithianos**|1|200 por cañón|Armamento|
+|**Casco de shoggoth**|3|800|Casco|
+|**Generador de oscuridad de Mi-Go**|1/2|300|Popa o Proa|
+|**Mascarón de anulación de magia Lloigor**|1/2|300|Proa|
+|**Tecnología mi-Go (comunicación)**|1/2|200|Popa|
+|**Tecnología mi-Go (navegación)**|1/2|200|Proa|
+|**Tentáculos de retoño oscuro**|3|800|Casco|
+|**Tentáculos de shoggoths**|1|800|Casco|
+|**Velas de alas de noctivago**|1/2|100|Aparejos|
+|**Velas de piel de profundo**|1/2|100|Aparejos|
 
 \conc
+
+\sp
+
+> **Notas:** esta parte de la ambientación referente a las modificaciones extrañas puede ser muy exagerada y romper el juego. Siéntete libre de olvidarte de ella si crees que no encaja con tu juego. También puedes reservarla para momentos muy especiales y dejar estas modificaciones, por ejemplo, solo en el barco de Barbanegra.
+
+**Cañones Yithianos:** Basándose en la tecnología yith de lanzarrayos, parte o todos los cañones han sido reemplazados por armas lanzarrayos de gran tamaño. Son más destructivos que un cañón normal, tremendamente precisos, pudiéndose apuntar fácilmente a la Santa Bárbara del enemigo y hacerla estallar. Otra gran ventaja es que no necesitan munición solo un tiempo de recarga después de usarlo, con lo que no necesitas volver a puerto para abastecerte de munición.
+
+**Cañones Yithianos:** Basándose en la tecnología yith de lanzarrayos, parte o todos los cañones han sido reemplazados por armas lanzarrayos de gran tamaño. Son más destructivos que un cañón normal, tremendamente precisos, pudiéndose apuntar fácilmente a la Santa Bárbara del enemigo y hacerla estallar. Otra gran ventaja es que no necesitan munición solo un tiempo de recarga después de usarlo, con lo que no necesitas volver a puerto para abastecerte de munición. **TPC: 1d4. Después de dispararlos la primera vez.**
+
+**Casco de shoggoth:** El casco de la nave está cubierto por un shoggoth que le otorga mucha dureza y que sella el casco en caso de fugas. Desafortunadamente, el caso también se llena de pseudópodos, proto-globos oculares y tiene cierta fosforescencia de noche. +10 dureza y a todo intento de provocar fugas en el barco fallan. **TPC: 1d6**
+
+**Generador de oscuridad de Mi-Go:** La RCPC ha conseguido crear unos hongos basados en la genética de los Mi-go que reproducen su capacidad de crear oscuridad. Los hongos crecen en un gran cajón (2 metros cúbicos) cerrado casi herméticamente que se coloca en la proa o popa del barco. 
+
+Si se abre el cajón y se proyecta una fuente de luz, estos reaccionan y se defienden de la luz generando una zona oscura que sustrae toda la luz cercana. Si bien de día no sirve para nada, de noche hace al navío totalmente invisible. El barco solo puede ser detectado por el ruido que haga o entrando en contacto con él, pudiendo por ejemplo colarse dentro de un puerto sin ser visto. 
+
+\sp
+
+El único problema es que la oscuridad también afecta al interior del barco y la tripulación no ve nada. Este problema se puede solucionar haciendo uso de hechizos de visión nocturna, vista lejana o luz. Desde fuera, un hechizo de luz podría contrarrestar el efecto de los hongos.
+
+**Mascarón de anulación de magia Lloigor:** Usando la capacidad de drenar la magia de los lloigors, el mascarón de proa de la nave absorbe toda la magia de la zona, evitando que se puedan lanzar en el barco y 500 metros a su alrededor. El barco drena 1d6 puntos por turno si estás alrededor y 1d8 por turno si estás subido al barco.
+
+**Tecnología mi-Go (comunicación):** En el puente del capitán se coloca un gran tubo (2 metros de altura por 1 metro de diámetro) metálico con llaves, tubos e indicadores que produce un extraño zumbido. El tubo cuyo contenido se desconoce es un metal extraterrestre parecido al bronce. Este artilugio es tecnología Mi-Go que permite comunicación telepática.
+
+El capitán o el contramaestre se colocan una banda metálica en la frente y pueden enviar órdenes a todos los sujetos que haya en el barco. Esto permite dar órdenes claras y precisas y recibir respuesta a la velocidad del pensamiento. Esta eficiencia en el trabajo en equipo de los marineros otorga un +1 a la maniobrabilidad de la nave. No debe usarse muy de seguido, ya que genera jaquecas y cansancio en los receptores de la telepatía.
+
+**Tecnología mi-Go (navegación)** Este aparato de tecnología mi-Go parece una estación meteorológica muy avanzada con todo tipo de funciones. La estación tiene diferentes funciones como dar la posición del barco, su dirección, la previsión del tiempo, etc. A efectos de juego, aporta un +1 a las tiradas de navegación para llegar a determinado punto en el mapa. También permite saber el tiempo antes de partir y decidir si partir o esperar una semana a ver si hay buen tiempo.
+
+**Tentáculos de Retoño oscuro:** Se ha fusionado la quilla del barco con un retoño oscuro, dotando al navío de tentáculos que permiten durante periodos cortos de tiempo pasar por zonas de poco calado, incluso moverse por tierra. Los tentáculos se despliegan por toda la quilla y el barco puede literalmente andar usando los pseudópodos como piernas hasta 500 metros. **TPC: 1d6**
+
+**Tentáculos de shoggoths:** Se han cortado e injertado una serie de tentáculos en el casco del barco a la altura de la línea de flotación.
+
+\sp
+
+Estos tentáculos han sido transformados hipnóticamente (como hacían los Antiguos con sus siervos shoggoths) para que se transformen en remos y obedezcan las órdenes del capitán del barco. Estos tentáculos proporcionan máxima velocidad durante una hora, aunque no haya viento y permiten que el barco tenga plena maniobrabilidad excepcional en situaciones complicadas.
+
+Podrían meterse en un campo de arrecifes sin problemas, moverse de lado, de forma que no ofreces el largo de navío enemigo al girar, pasar por angostos pasos… Como problema es que solo son funcionales si el capitán está en el barco y está consciente. Un capitán dormido, malherido o inconsciente no puede hacer uso de los tentáculos. Al mover los tentáculos a un nuevo barco, su control deberá ser dado por el antiguo capitán al nuevo mediante una palabra de control que solo conoce el anterior capitán. **TPC: 1d6**
+
+**Velas de alas de noctivago:** Las velas negras del barco tienen una forma extraña, ya que se han hecho cosiendo la piel curtida de las alas noctivagos demacrados. La embarcación obtiene un 40% de velocidad extra debido a que puede largarse más vela sin temer que se rajen y están preparadas para interactuar correctamente con el viento. **TPC: 1d4**
+
+**Velas de piel de profundo:** Estas velas de textura gomosa y color verdoso están literalmente hechas con piel de profundo. Son muy resistentes y casi imposibles de rasgar, pudiendo incluso aguantar la fuerza de un huracán. Son ignífugas y muy elásticas, hinchándose más de lo normal con buen viento. En general ofrecen un 20% más de velocidad máxima al barco que las lleve. Los profundos que vean estas velas atacarán rabiosos a la nave que las use.
 
 \sp
 
@@ -568,6 +682,8 @@ Sin embargo, todos estos problemas los compensan con mucho ingenio y mucha exper
 * **Capacidades especiales:**
     * **Modificaciones:** El barco puede tener 1 o 2 modificaciones normales.
 
+\sp
+
 ### Barco cazapirata
 
 Los barcos cazapiratas suelen ser barcos de combate muy parecidos a los barcos piratas, con la ventaja de que suelen ser más nuevos y modernos y no llevan una vida de tormentas y cañonazos. Las reparaciones han sido hechas por profesionales bien pagados en astilleros. Lo que pasa es que les falta la chispa y el ingenio que las tripulaciones piratas ponen en sus queridos navíos.
@@ -591,6 +707,8 @@ Es importante que les pongas nombre, ya que seguramente puedan aparecer más vec
     * **Fama:** Solo con ver su silueta y su pabellón podrás a saber a quién pertenece este navío. Su fama le precede y le otorga un +2 una tirada específica según su fama. Por ejemplo, si tiene fama de buen marino tendrá +2 a Navegar. Si es famoso por sus emboscadas, tendrá un +2 al Sigilo. O un +2 al ataque si es conocido por ser un asesino sanguinario.
     * **Modificaciones:** El barco puede tener 2 modificaciones normales.
     * **Aliados:** Las leyendas son leyendas por algo y tienen naves aliadas que van con ellos. Suelen ser menos poderosas y grandes. Puedes usar barcos piratas y patrulleras como plantillas para los aliados.
+
+\sp
 
 ### Desgracia
 
@@ -631,6 +749,8 @@ Cada vez que un personaje se enfrente a un ser de los Mitos deberá hacer una ti
 
 Si falla la tirada, deberá hacer una segunda tirada de Espíritu, si saca más éxitos que la tirada TPC simplemente quedará aturdido. Si falla, perderá un punto de cordura. Como ya hemos explicado, si pierde toda su cordura, cederá ante el horror y la locura y pasará a ser un PNJ.
 
+\sp
+
 Puede evitarse la pérdida de puntos de cordura, adquiriendo un trastorno mental permanente con un máximo de 3 trastornos permanentes o gastando todos tus benis (mínimo 1) y adquiriendo un trastorno mental de forma temporal.
 
 Los trastornos mentales son un tipo de desventaja y siguen sus mismas reglas. Para decidir el trastorno deberá sacar una carta y revisar la tabla de Trastornos. Si es temporal deberá consultar la tabla de Duración del trastorno. Los trastornos permanentes repetidos pueden apilarse si son menores, convirtiéndose en un trastorno mayor. Si no tendrá que volver a coger una carta nueva. Los temporales simplemente ampliarán el tiempo.
@@ -649,6 +769,15 @@ Si se saca un Joker en cualquier carta relacionada con trastornos, no solo no ad
 |8-9|Amnesia y flashbacks (menor)|Ataques de pánico (menor)|Fobia (menor)|Arrogante (mayor)|
 |10|Avaricioso (menor)|Megalomanía (menor)|Envidioso (mayor)|Arrogante (mayor)|
 |J|Ataques de pánico (menor)|Megalomanía (mayor)|Avaricioso (menor)|Fobia (mayor)|
+
+\conc
+
+\sp
+
+\sinc
+
+|&nbsp;|♥|♣|♠|♦|
+|---|---|---|---|---|
 |Q|Trastorno de ansiedad generalizada (mayor)|Avaricioso (mayor)|Exceso de Confianza (mayor)|Sanguinario|
 |K|Trastorno obsesivo-compulsivo (mayor)|Amnesia y flashbacks (mayor)|Ataques de pánico (mayor)|Delirio (mayor)|
 |A|Fobia (mayor)|Paranoia (Mayor)|Hábito (mayor)|Depresión (mayor)|
@@ -675,10 +804,17 @@ La TPC del monstruo es específica para cada PJ, pero solo debe hacerse una tira
 
 Las TPCs pueden ser modificadas en determinadas situaciones.
 
-* **Grandes grupos:** Normalmente, los monstruos de los Mitos son seres solitarios o como mucho viven en grupos muy pequeños, Sin embargo, hay monstruos que viven en grandes grupos y producen más o menos locura según su número. No es lo mismo encontrarse un profundo solitario en una cueva (TPC d4) que ver como cientos de ellos salen del agua y devoran a toda la tripulación y hunden el barco. (TPC d12). Para los monstruos que tengan manada en su TPC deberás consultar la tabla de Grandes grupos.
-* **Acostumbrarse:** Cada vez que pasas la tirada enfrentada de Astucia contra TPC te vas acostumbrando a ese horror en específico. Deberás apuntar las veces que ha pasado el TPC de determinado monstruo y hasta obtener 4 marcas, con lo que estará acostumbrado a ese horror y obtendrá la ventaja Acostumbrado al horror. Si falla la TPC y pierde puntos de cordura o adquiere un trastorno mental permanente o temporal, perderá una marca.
-* **Pásame la jarra de ron:** Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, trincándose un buen lingotazo de ron de su petaca antes de abrir la puerta del laboratorio donde los Mi-Go experimentan con humanos, obtendrá un +1 a su tirada de TPC y durará toda la escena. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta), no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, … y deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
-* **Frenesí del combate:** Una vez empezado el combate, los jugadores no tendrán necesidad de hacer TPC. La adrenalina se encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede pasar que el monstruo aparezca por sorpresa, les deje aturdidos y los ataque a continuación.
+**Grandes grupos:** Normalmente, los monstruos de los Mitos son seres solitarios o como mucho viven en grupos muy pequeños, Sin embargo, hay monstruos que viven en grandes grupos y producen más o menos locura según su número. 
+
+\sp
+
+No es lo mismo encontrarse un profundo solitario en una cueva (TPC d4) que ver como cientos de ellos salen del agua y devoran a toda la tripulación y hunden el barco. (TPC d12). Para los monstruos que tengan manada en su TPC deberás consultar la tabla de Grandes grupos.
+
+**Acostumbrarse:** Cada vez que pasas la tirada enfrentada de Astucia contra TPC te vas acostumbrando a ese horror en específico. Deberás apuntar las veces que ha pasado el TPC de determinado monstruo y hasta obtener 4 marcas, con lo que estará acostumbrado a ese horror y obtendrá la ventaja Acostumbrado al horror. Si falla la TPC y pierde puntos de cordura o adquiere un trastorno mental permanente o temporal, perderá una marca.
+
+**Pásame la jarra de ron:** Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, trincándose un buen lingotazo de ron de su petaca antes de abrir la puerta del laboratorio donde los Mi-Go experimentan con humanos, obtendrá un +1 a su tirada de TPC y durará toda la escena. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta), no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, … y deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
+
+**Frenesí del combate:** Una vez empezado el combate, los jugadores no tendrán necesidad de hacer TPC. La adrenalina se encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede pasar que el monstruo aparezca por sorpresa, les deje aturdidos y los ataque a continuación.
 
 \sinc
 
@@ -690,6 +826,15 @@ Las TPCs pueden ser modificadas en determinadas situaciones.
 |hasta tamaño del grupo x 2 (+1)|d6|d8|d10|d12|d12+1|
 |hasta tamaño del grupo x 5 (+2)|d8|d10|d12|d12+1|d12+2|
 |hasta tamaño del grupo x 10 (+3)|d10|d12|d12+1|d12+2|d12+3|
+
+\conc
+
+\sp
+
+\sinc
+
+|Tamaño de la manada|d4|d6|d8|d10|d12|
+|---|---|---|---|---|---|
 |hasta tamaño del grupo x 20 (+5)|d12|d12+1|12+2|d12+3|d12+4|
 |hasta tamaño del grupo x 50 (+6)|d12+1|d12+2|d12+3|d12+4|d12+5|
 
@@ -700,6 +845,8 @@ Las TPCs pueden ser modificadas en determinadas situaciones.
 La cordura solo se recupera entre campañas o en situaciones especiales de heroísmo excepcional. No hay psicólogos ni psiquiatras que puedan reparar tu quebrada psique, solo enfrentarse al horror y vencerlo puede ayudar a sanar tu mente.
 
 Estas situaciones vendrán marcadas en la campaña. Por ejemplo, puede establecerse que salvar a un pueblo de pescadores de ser masacrado por una horda de profundos puede recuperar 1 punto de cordura. Hacer que Cthulhu vuelva a yacer eternamente en R’lyeh podría devolver toda la cordura.
+
+\sc
 
 ### Horror y secuaces
 
@@ -720,6 +867,8 @@ Queda a discreción del DJ que le pasa al secuaz/aliado después de perder su pu
 La magia es una parte fundamental de ¡Arrr! Cthulhu, tan fundamental como en los relatos de los Mitos y como en estos, tiene una mezcla de magia ritual y de ciencia extraterrestre y futurista. Pero no se nos debe olvidar que tiene que ser oscura y maligna. Es por ello que es una magia que tira más de perversiones, acechadores en las sombras, velas y cálices y rituales con sacrificios que de auras de luz, bolas de fuego, rayos eléctricos y bendiciones. Si revisitas los relatos de Lovecraft verás que no hay magos con cayados en mano lanzando rayos fuego, sino de siniestros hechiceros que lanzan maldiciones y sombras asesinas a sus enemigos desde sus círculos de invocación.
 
 Es por ello que la santería o vudú (o por lo menos el vudú de las películas y series de miedo) casa tan bien con la magia de ¡Arrr! Cthulhu. Es tenebroso, impuro, con sacrificios y muertos que se levantan. Como podrás ver más adelante, muchos de los poderes de SWEA, toman forma en hechizos de inspiración vudú. Además, como bien nos ha enseñado Monkey Island el vudú y los piratas combinan muy bien.
+
+\sp
 
 En los relatos de Lovecraft todas las personas pueden llevar a cabo rituales y hechizos. No necesitas tener sangre de demonio o ser descendiente de magos o ser un elegido de un dios. Solo necesita estudiar el hechizo y hacerlo correctamente usando las fórmulas mágicas y los ingredientes adecuados.
 
@@ -749,6 +898,8 @@ La ventaja de Nuevos poderes solo podrá adquirirse tras leer un libro de los mi
 
 Recuperación rápida supondrá que necesitará la mitad de tiempo de descanso para recuperar todos sus puntos de poder. Como ejemplo:
 
+\sp
+
 * Un personaje con Espíritu d6 y Puntos de poder, recuperará 12 puntos de poder tras dormir 8 horas.
 * Un personaje con Espíritu d6, Puntos de poder x3 y Recuperación rápida, recuperará 24 puntos de poder tras descansar 4 horas.
 
@@ -773,97 +924,35 @@ Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lov
 
 No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un listado de los poderes y sus versiones en hechizos que son posibles en ¡Arrr! Cthulhu.
 
+\sp
+
 \sinc
 
 #### Tabla de Poderes y Hechizos
 
 |Poder|d100|Hechizo|Ornamento|
 |---|---|---|---|
+|Adivinación|1|Augurios del soñador|El hechicero recita los diferentes ensalmos antes de dormir y recibe los augurios en sueños.|
+|Adivinación|2|Ritual vudú de adivinación|Tras el sacrificio de un animal pequeño como una gallina o un conejo, el hechicero puede leer sus entrañas.
+|Alivio|3|Café especiado|El curandero ofrece una pócima a base de concentrado de café, ron y especies secretas.|
+|Alivio|4|Ensalmo de Babalú Ayé|El chamán yoruba recita el ensalmo secreto de Babalú Aye, orisha de la salud y las enfermedades, que ayuda a restaurar el vigor y quitar el cansancio.|
+|Amistad animal|5|Dominar a las bestias|El brujo empieza a hablar el idioma primitivo de las bestias.|
+|Amistad animal|6|El don de Ossaín|El orisha Ossaín concede a sus fieles yoruba el don de hablar y ordenar a los animales.|
+|Aura dañina|7|Sombras lacerantes|Las sombras que rodean al taumaturgo se convierten en sólidas y cortan y laceran a los que se le acercan.|
+|Aura dañina|8|Llamas verdes de Tulzscha|El taumaturgo invoca el poder Tulzscha y este le concede parte de su poder rodeándolo de voraces llamas verdes.|
+|Barrera|9|Muro de Yog-Sapha|Mediante una fórmula mágica el conjurador levanta una barrera gelatinosa de gran fuerza a su alrededor, sacada directamente del propio Yog-Sapha, el Habitante de las Profundidades. El muro es casi invisible, pero distorsiona un poco la luz.|
 
-Adivinación
+\conc
 
-1
+\sp
 
-Augurios del soñador
+\sinc
 
-El hechicero recita los diferentes ensalmos antes de dormir y recibe los augurios en sueños.
-
-2
-
-Ritual vudú de adivinación
-
-Tras el sacrificio de un animal pequeño como una gallina o un conejo, el hechicero puede leer sus entrañas.
-
-Alivio
-
-3
-
-Café especiado
-
-El curandero ofrece una pócima a base de concentrado de café, ron y especies secretas.
-
-4
-
-Ensalmo de Babalú Ayé
-
-El chamán yoruba recita el ensalmo secreto de Babalú Aye, orisha de la salud y las enfermedades, que ayuda a restaurar el vigor y quitar el cansancio.
-
-Amistad  
-animal
-
-5
-
-Dominar a las bestias
-
-El brujo empieza a hablar el idioma primitivo de las bestias.
-
-6
-
-El don de Ossaín
-
-El orisha Ossaín concede a sus fieles yoruba el don de hablar y ordenar a los animales.
-
-Aura  
-dañina
-
-7
-
-Sombras lacerantes
-
-Las sombras que rodean al taumaturgo se convierten en sólidas y cortan y laceran a los que se le acercan.
-
-8
-
-Llamas verdes de Tulzscha
-
-El taumaturgo invoca el poder Tulzscha y este le concede parte de su poder rodeándolo de voraces llamas verdes.
-
-Barrera
-
-9
-
-Muro de Yog-Sapha
-
-Mediante una fórmula mágica el conjurador levanta una barrera gelatinosa de gran fuerza a su alrededor, sacada directamente del propio Yog-Sapha, el Habitante de las Profundidades. El muro es casi invisible, pero distorsiona un poco la luz.
-
-10
-
-Invocar los apéndices de Dygra
-
-El invocador lanza unas piedras cristalinas (cuarzos, peridotos, amatistas, …) para invocar a la Piedra-Cosa Dygra. Sus tentáculos minerales de Dygra salen de suelo formando una barrera cristalina.
-
-Cambio  
-de forma
-
-No permitido
-
-Captura
-
-11
-
-Aferrar
-
-El taumaturgo dirige su mano hacia su objetivo y hace como que lo agarra.
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Barrera|10|Invocar los apéndices de Dygra|El invocador lanza unas piedras cristalinas (cuarzos, peridotos, amatistas, …) para invocar a la Piedra-Cosa Dygra. Sus tentáculos minerales de Dygra salen de suelo formando una barrera cristalina.|
+|Cambio de forma|No permitido|&nbsp;|&nbsp;|
+|Captura|11|Aferrar|El taumaturgo dirige su mano hacia su objetivo y hace como que lo agarra.|
 
 12
 
@@ -885,9 +974,7 @@ Emponzoñar arma
 
 El hechicero escupe sobre el arma emponzoñándola y esta se cubre de óxido, moho y suciedad.
 
-Cavar
-
-No permitido
+|Cavar|No permitido|&nbsp;|&nbsp;|
 
 Ceguera
 
@@ -903,9 +990,7 @@ Ajar ojos
 
 El hechicero señala a los ojos del objetivo y estos se secan y marchitan hasta que se caen de sus cuencas.
 
-Chorro
-
-No permitido
+|Chorro|No permitido|&nbsp;|&nbsp;|
 
 Confusión
 
@@ -1054,22 +1139,13 @@ Invocar vampiro estelar
 
 El hechicero invoca este ser extradimensional que drena la vida al objetivo y se lo entrega a su amo invocador.
 
-Empatía
+|Empatía|No permitido|&nbsp;|&nbsp;|
 
-No permitido
+|Empujón|No permitido|&nbsp;|&nbsp;|
 
-Empujón
+|Explosión|No permitido|&nbsp;|&nbsp;|
 
-No permitido
-
-Explosión
-
-No permitido
-
-Gigantismo  
-Enanismo
-
-No permitido
+|Gigantismo Enanismo|No permitido|&nbsp;|&nbsp;|
 
 Ilusión
 
@@ -1099,9 +1175,7 @@ Forma de sombras
 
 El objetivo se convierte en una sombra. La sombra es mucho más grande y con elementos extras que la real del objetivo.
 
-Invisibilidad
-
-No permitido
+|Invisibilidad|No permitido|&nbsp;|&nbsp;|
 
 Invocación  
 de aliados
@@ -1160,14 +1234,9 @@ Lectura de aura
 
 Tocando y concentrándose en el objeto, este revela el aura psíquica que ha ido acumulando a lo largo de su historia.
 
-Lenguas
+|Lenguas|No permitido|&nbsp;|&nbsp;|
 
-No permitido
-
-Lentitud  
-Rapidez
-
-No permitido
+|Lentitud Rapidez|No permitido|&nbsp;|&nbsp;|
 
 Luz  
 Oscuridad
@@ -1258,14 +1327,8 @@ Muñeca vudú
 
 El hechicero crea una muñeca vudú que representa el objetivo que quiere controlar.
 
-Mejora/Reducción  
-de rasgo
-
-No permitido
-
-Miedo
-
-No permitido
+|Mejora/Reducción de rasgo|No permitido|&nbsp;|&nbsp;|
+|Miedo|No permitido|&nbsp;|&nbsp;|
 
 Protección
 
@@ -1434,10 +1497,7 @@ Ventosas pulpoides
 
 Las manos se llenan de ventosas que secretan una sustancia pegajosa que permiten pegarse a las paredes.
 
-Ventaja  
-de combate
-
-No permitido
+|Ventaja de combate|No permitido|&nbsp;|&nbsp;|
 
 Vínculo  
 mental
@@ -1706,9 +1766,9 @@ Se van a necesitar muchos elementos para llevar a cabo este ritual, los agentes 
 
 En partida, este ritual permite comunicarse con cualquier entidad primigenia, pero para ello el behike debe conocerla para poder invocarla adecuadamente con las fórmulas mágicas adecuadas y debe haber tallado la vasija que lo representa.
 
-Todos los asistentes deberán drenar toda su reserva de puntos de magia y hacer una tirada primero de Vigor y fallarla para verse afectado por las drogas y a continuación pasar una de Espíritu para que su consciencia trascienda a un plano superior. En este plano los participantes entrarán en contacto con la deidad/primigenia (con una tirada de TPC a la mitad si son seres de los Mitos, mínimo 1d4) y estás les ofrecerán visiones que les ayudarán a tomar una decisión.
+> Todos los asistentes deberán drenar toda su reserva de puntos de magia y hacer una tirada primero de Vigor y fallarla para verse afectado por las drogas y a continuación pasar una de Espíritu para que su consciencia trascienda a un plano superior. En este plano los participantes entrarán en contacto con la deidad/primigenia (con una tirada de TPC a la mitad si son seres de los Mitos, mínimo 1d4) y estás les ofrecerán visiones que les ayudarán a tomar una decisión.
 
-Los seres más inescrutables como Azathoth no suelen ser de gran ayuda con visiones locas y sin sentido, mientras que seres más cercanos a la humanidad como Nyarlathotep pueden incluso ofrecer una conversación coherente con información medianamente clara (que no verdadera) o incluso tratos y pactos casi siempre con un fondo engañoso y lleno de peligros.
+> Los seres más inescrutables como Azathoth no suelen ser de gran ayuda con visiones locas y sin sentido, mientras que seres más cercanos a la humanidad como Nyarlathotep pueden incluso ofrecer una conversación coherente con información medianamente clara (que no verdadera) o incluso tratos y pactos casi siempre con un fondo engañoso y lleno de peligros.
 
 ### Libros de los Mitos
 
@@ -1923,6 +1983,8 @@ Durante los viajes se puede perder carga. Si se sufren tormentas se perderá un 
 
 Si vas a usar tu barco para comerciar entre las islas, deberás llenar tus bodegas de carga que vender en otra isla con un beneficio. Puedes comprar dos tipos de carga: materias primas y productos manufacturados. Hay un tercer tipo de carga, el botín, que no puede ser comprada, solo puede obtenerse asaltando barcos, buscando tesoro y en general corriendo aventuras. El precio de compra/venta del barril de cada tipo de carga depende de donde se compra y vende. La siguiente tabla te dice el precio de compra y venta de cada tipo de carga según donde se haga la transacción. Puede haber ciudades en la Guía de viajes que tengan reglas especiales.
 
+\sinc
+
 #### Tabla de compra/venta de carga
 
 Materias primas
@@ -2027,13 +2089,15 @@ de 25.001 a 50.000 habitantes
 
 200
 
+\conc
+
 Para comprar la carga y cargarla o para descargarla y venderla necesitarás que el barco esté en un puerto mínimo de media semana. Si se tienen que irse del puerto antes de ese tiempo, no podrán haber vendido o comprado carga y tendrán que hacerlo en otro puerto.
 
 Los puertos tienen una capacidad de compra y venta de materias primas. Son el número de barriles que pueden comprar y vender a la semana. Si el barco lleva en sus bodegas más barriles de los que puede comprar un puerto, tendrán que quedarse en la bodega y venderse en otro puerto. Si intentan comprar barriles solo podrán comprar hasta la capacidad de venta del puerto.
 
 La compra/venta de carga es automática, no se necesita ninguna tirada. Puedes como DJ darles beneficios extras, si en determinadas ocasiones, comercian con productos de especial interés. Por ejemplo, van a buscar material de minería par venderlo en una zona donde se ha encontrado oro. También pueden conseguir beneficios extras (aunque deberías avisarles de las implicaciones éticas) especulando con ciertos productos. Por ejemplo, comprando específicamente alimentos y medicinas y vendiéndolos más caros en zonas que están sufriendo hambrunas o guerras. Por último, pueden rebajar el precio de sus productos todo lo que quieran incluso regalarlos. En ese caso, cóbrales unas pequeñas tasas de amarre en el puerto.
 
-_**Sugerencia de beni:** Premia a tu mesa con benis siempre que comercien pensando en la gente y no en el beneficio. Cosas como comprar comida, llevarla a una zona asolada por un huracán y venderla a precio de coste o incluso regalarla debe tener algún beni de premio._
+> _**Sugerencia de beni:** Premia a tu mesa con benis siempre que comercien pensando en la gente y no en el beneficio. Cosas como comprar comida, llevarla a una zona asolada por un huracán y venderla a precio de coste o incluso regalarla debe tener algún beni de premio._
 
 ### La muerte y los impuestos
 
@@ -2077,6 +2141,8 @@ Si se consigue:
 
 Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan tirada de botín que deberemos usar como si fuera la tirada de pérdida de cordura, salvo que en esos casos no se podrán usar éxitos en la tabla de más allá del tiempo y el espacio.
 
+\sp
+
 ### Riquezas
 
 #### Tabla de Riquezas
@@ -2108,196 +2174,68 @@ Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan ti
 
 |1d6|Nombre|
 |---|---|
+|1|Sable de abordaje|
+|2|Alfanje|
+|3|Hacha de abordaje|
+|4|Machete|
+|5|Espada ropera|
+|6|Daga|
 
-1
+#### Tabla de capacidades de Armas cuerpo a cuerpo
 
-Sable de abordaje
-
-2
-
-Alfanje
-
-3
-
-Hacha de abordaje
-
-4
-
-Machete
-
-5
-
-Espada ropera
-
-6
-
-Daga
-
-Tabla de capacidades de Armas cuerpo a cuerpo
-
-1d10
-
-Capacidad
-
-1-4
-
-De buena calidad, +1 a pelea +1 a daño
-
-5-6
-
-Afilada, +2 a daño
-
-7
-
-Ornamentada, x10 su precio normal
-
-8
-
-De duelo, +1 a pelea y +2 a daño
-
-9
-
-De parada, +2 a parada
-
-10
-
-Legendaria, +2 a pelea y +2 a daño. Tiene nombre propio y perteneció a alguien famoso.
+|1d10|Capacidad|
+|---|---|
+|1-4|De buena calidad, +1 a pelea +1 a daño|
+|5-6|Afilada, +2 a daño|
+|7|Ornamentada, x10 su precio normal|
+|8|De duelo, +1 a pelea y +2 a daño|
+|9|De parada, +2 a parada|
+|10|Legendaria, +2 a pelea y +2 a daño. Tiene nombre propio y perteneció a alguien famoso.|
 
 #### Tabla de Armas de fuego
 
 |1d4|Nombre|
 |---|---|
+|1|Pistola de chispa|
+|2|Mosquete|
+|3|Trabuco|
+|4|Granadas|
 
-1
+#### Tabla de capacidades de Armas de fuego
 
-Pistola de chispa
-
-2
-
-Mosquete
-
-3
-
-Trabuco
-
-4
-
-Granadas
-
-Tabla de capacidades de Armas de fuego
-
-1d10
-
-Capacidad
-
-1-4
-
-De buena calidad, +1 a disparo +1 a daño
-
-5-6
-
-Precisa, +2 a disparo
-
-7
-
-Ornamentada, x10 su precio normal
-
-8
-
-De duelo, +2 a disparo y +1 a daño
-
-9
-
-De tirador, dobla las distancias
-
-10
-
-Legendaria, +2 a disparo y +2 a daño. Tiene nombre propio y perteneció a alguien famoso.
+|1d10|Capacidad|
+|---|---|
+|1-4|De buena calidad, +1 a disparo +1 a daño|
+|5-6|Precisa, +2 a disparo|
+|7|Ornamentada, x10 su precio normal|
+|8|De duelo, +2 a disparo y +1 a daño|
+|9|De tirador, dobla las distancias|
+|10|Legendaria, +2 a disparo y +2 a daño. Tiene nombre propio y perteneció a alguien famoso.|
 
 #### Tabla de Objetos pequeños y útiles
 
 |1d20|Nombre|
 |---|---|
-
-1
-
-Anestésico natural de la jungla
-
-2
-
-Tinta invisible
-
-3
-
-Brea pegalotodo
-
-4
-
-Canicas magnetizadas
-
-5
-
-Pollo de goma con polea dentro
-
-6
-
-Capa de salamandra de fuego
-
-7
-
-Prototipo de cronómetro marino
-
-8
-
-Microscopio compuesto
-
-9
-
-Cajas de botellas de Champaña
-
-10
-
-Capucha de buceo
-
-11
-
-Prototipo de extintor de incendios
-
-12
-
-Caja de pirotecnia
-
-13
-
-Tabletas de purificación
-
-14
-
-Instrumento musical de calidad
-
-15
-
-Caja de música
-
-16
-
-Dados trucados
-
-17
-
-Traje de protección
-
-18
-
-Mapa falso de un tesoro
-
-19
-
-Mapa de un tesoro
-
-20
-
-Mapa real de un tesoro
+|1|Anestésico natural de la jungla|
+|2|Tinta invisible|
+|3|Brea pegalotodo|
+|4|Canicas magnetizadas|
+|5|Pollo de goma con polea dentro|
+|6|Capa de salamandra de fuego|
+|7|Prototipo de cronómetro marino|
+|8|Microscopio compuesto|
+|9|Cajas de botellas de Champaña|
+|10|Capucha de buceo|
+|11|Prototipo de extintor de incendios|
+|12|Caja de pirotecnia|
+|13|Tabletas de purificación|
+|14|Instrumento musical de calidad|
+|15|Caja de música|
+|16|Dados trucados|
+|17|Traje de protección|
+|18|Mapa falso de un tesoro|
+|19|Mapa de un tesoro|
+|20|Mapa real de un tesoro|
 
 **Anestésico natural de la jungla:** Este bebedizo hecho con extractos de misteriosas plantas de la jungla quita un nivel de penalización por daño durante una escena. El recipiente tiene 1d6 usos.
 
@@ -2344,86 +2282,26 @@ Si se quiere reparar algo de mayor tamaño, el director de juego podrá establec
 
 |1d20|Nombre|
 |---|---|
-
-1
-
-Campana de buceo de cristal
-
-2
-
-Cometa de vigía
-
-3
-
-Faro del diablo
-
-4
-
-Globo aerostático
-
-5
-
-Tabla para deslizarse sobre las olas
-
-6
-
-Cepo para horrores
-
-7
-
-Jaula reforzada desmontable
-
-8
-
-Restos fosilizados de un reptil terrible
-
-9
-
-Redes de hilo de seda
-
-10
-
-Gran recipiente lleno de formol
-
-11
-
-Estatua romana de mármol
-
-12
-
-Balas de cañón trucadas
-
-13
-
-Armadura de caballero ornamentada
-
-14
-
-Enciclopedia
-
-15
-
-Dunun
-
-16
-
-Gran bloque de mármol
-
-17
-
-Tonel lleno de especias exóticas
-
-18
-
-Lanzaplatos
-
-19
-
-Tonel de brea noruega
-
-20
-
-Cabeza gigante olmeca
+|1|Campana de buceo de cristal|
+|2|Cometa de vigía|
+|3|Faro del diablo|
+|4|Globo aerostático|
+|5|Tabla para deslizarse sobre las olas|
+|6|Cepo para horrores|
+|7|Jaula reforzada desmontable|
+|8|Restos fosilizados de un reptil terrible|
+|9|Redes de hilo de seda|
+|10|Gran recipiente lleno de formol|
+|11|Estatua romana de mármol|
+|12|Balas de cañón trucadas|
+|13|Armadura de caballero ornamentada|
+|14|Enciclopedia|
+|15|Dunun|
+|16|Gran bloque de mármol|
+|17|Tonel lleno de especias exóticas|
+|18|Lanzaplatos|
+|19|Tonel de brea noruega|
+|20|Cabeza gigante olmeca|
 
 **Armadura de caballero ornamentada:** Esta antigüedad de otros tiempos se ha conservado estupendamente y seguramente que algún noble europeo lo trajo al Caribe como una reliquia familiar. Pero es plenamente funcional y si bien en un barco es una sentencia de muerte, si se cae al agua, puede ser útil en tierra firme para luchar cuerpo a cuerpo contra criaturas de los Mitos. Usar las características de la Coraza completa de SWEA (pectoral, brazales, grebas y yelmo). Está muy ornamentada y tiene incrustaciones por lo que su valor es x4. Puede ser también un regalo perfecto para las clases altas europeas que quieran aparentar tener un origen medieval importante.
 
@@ -2479,88 +2357,35 @@ Todos los objetos de la siguiente tabla son objetos extraños y misteriosos, muc
 
 |1d20|Nombre|
 |---|---|
+|1|Amuleto con símbolo arcano|
+|2|Polvo de Ibn-Ghazi|
+|3|Arma lanzarrayos de la gran raza de Yith|
+|4|Carta náutica de los profundos|
+|5|Flauta de hueso de byakhee|
+|6|Llave de plata|
+|7|Ventana de Leng|
+|8|Ánfora de viaje por las Tierras del sueño|
+|9|Cilindro cerebral de los Mi-Go|
+|10|Objeto perdido en el tiempo|
+|11|Gafas del Doctor Corvus Labranza|
+|12|Hamaca de sanación|
+|13|Extraña moneda antigua|
+|14|Espora de Ubbo-Sathla|
+|15|Cuerda de la horca de Anacaona|
+|16|Vasos canopos del Faraón negro|
+|17|Tonel portal|
+|18|Mascarón de Cthulhu|
+|19-20|Maldición|
 
-1
-
-Amuleto con símbolo arcano
-
-2
-
-Polvo de Ibn-Ghazi
-
-3
-
-Arma lanzarrayos de la gran raza de Yith
-
-4
-
-Carta náutica de los profundos
-
-5
-
-Flauta de hueso de byakhee
-
-6
-
-Llave de plata
-
-7
-
-Ventana de Leng
-
-8
-
-Ánfora de viaje por las Tierras del sueño
-
-9
-
-Cilindro cerebral de los Mi-Go
-
-10
-
-Objeto perdido en el tiempo
-
-11
-
-Gafas del Doctor Corvus Labranza
-
-12
-
-Hamaca de sanación
-
-13
-
-Extraña moneda antigua
-
-14
-
-Espora de Ubbo-Sathla
-
-15
-
-Cuerda de la horca de Anacaona
-
-16
-
-Vasos canopos del Faraón negro
-
-17
-
-Tonel portal
-
-18
-
-Mascarón de Cthulhu
-
-19-20
-
-**Maldición:** Alguien abre un cofre con raros símbolos, quita una joya de un esqueleto polvoriento o rompe unos sellos sagrados y queda maldito. Tira en la tabla de maldiciones, la maldición durará 1d10 días. La maldición debería caer al azar a una persona de tu mesa que haya participado en la búsqueda del botín. Si alguna persona se quedo curando heridos, por ejemplo, no debería entran en el sorteo de maldiciones.
+**Maldición:** Alguien abre un cofre con raros símbolos, quita una joya de un esqueleto polvoriento o rompe unos sellos sagrados y queda maldito. Tira en la tabla de maldiciones, la maldición durará 1d10 días. La maldición debería caer al azar a una persona de tu mesa que haya participado en la búsqueda del botín. Si alguna persona se quedó curando heridos, por ejemplo, no debería entrar en el sorteo de maldiciones.
 
 **Amuleto con símbolo arcano:** Este amuleto, que puede tener muchas formas, desde pentáculos de plata a saquitos de polvos, tiene un símbolo en forma de una línea diagonal con otros cinco trazos emergiendo a los lados. Ofrece a su portador un +1 a todas las tiradas enfrentadas de hechizos y habilidades especiales de los monstruos de los Mitos.
 
-**Ánfora de viaje por las Tierras del sueño:** Esta pequeña ánfora griega con infinidad de nombres grabados en su superficie contiene un icor de color verde. Si se graba el nombre de un lugar y todos los tripulantes de un barco toman el bebedizo de el ánfora, caerán en un profundo sueño. La nave entrará en las Tierras de los Sueños, viajará por sus mares para volver al mundo normal y aparecerá en el lugar escrito en el ánfora.  
+**Ánfora de viaje por las Tierras del sueño:** Esta pequeña ánfora griega con infinidad de nombres grabados en su superficie contiene un icor de color verde. Si se graba el nombre de un lugar y todos los tripulantes de un barco toman el bebedizo del ánfora, caerán en un profundo sueño. La nave entrará en las Tierras de los Sueños, viajará por sus mares para volver al mundo normal y aparecerá en el lugar escrito en el ánfora.  
 La nave puede tirarse días y semanas en las Tierras de los Sueños, pero cuando vuelva a nuestro mundo solo habrán pasado unas horas. De hecho, los tripulantes verán que su pelo y sus uñas han crecido, sus ropas están sucias y malolientes como si no se hubieran bañado en semanas y tendrán una sed y un hambre atroz al despertarse.  
-El ánfora se quedará en la Tierra de los sueños, para volver a aparecer años más tarde en el mundo de la Vigilia.  
+
+El ánfora se quedará en la Tierra de los sueños, para volver a aparecer años más tarde en el mundo de la Vigilia.
+
 Si algún tripulante se despierta mientras están en la Tierra de los Sueños, el barco y su tripulación se quedarán allí atrapados hasta que encuentren la forma de volver.
 
 **Arma lanzarrayos de la gran raza de Yith:** Esta arma de rayos parecida a una cámara de fotos de gran tamaño, posee un gran poder destructivo. Ver características en la sección de Equipo. Hay un 50% de posibilidades de que venga con un cargador extra.
@@ -2568,31 +2393,39 @@ Si algún tripulante se despierta mientras están en la Tierra de los Sueños, e
 **Carta náutica de los profundos:** Estos mapas hechos por los profundos en piel curtida de tiburones y grandes cetáceos son muy detallados en temas de corrientes, costas, arrecifes, etc. y otorgan +2 a las tiradas de Navegar dentro de la zona representada por el mapa.
 
 **Cilindro cerebral de los Mi-Go:** Dentro de estos cilindros de metal verdusco hay un cerebro humano vivo. Los Mi-Go se dedican a meter cerebros de humano sobresalientes en estos cilindros para llevárselos a su planeta y poder estudiarlos y aprender de ellos. Estos cilindros tiene un sensor que le permite al cerebro escuchar que pasa a su alrededor y otro dispositivo que le permite comunicarse con una voz metálica.  
-Estos cilindros están pensados para transportar cerebros y por eso los mantienen medio desactivados. El cerebro puede contestar preguntas y elaborar teorías a partir de sus conocimientos, pero sus funciones sociales/sentimentales están desactivadas, ni se aburre, ni se emociona, ni siente miedo, … Tampoco tiene muy claro qué es ahora, quién fue o cómo acabo en un cilindro.  
+Estos cilindros están pensados para transportar cerebros y por eso los mantienen medio desactivados. El cerebro puede contestar preguntas y elaborar teorías a partir de sus conocimientos, pero sus funciones sociales/sentimentales están desactivadas, ni se aburre, ni se emociona, ni siente miedo, … Tampoco tiene muy claro qué es ahora, quién fue o cómo acabo en un cilindro.
+
 A nivel de juego, cada cerebro permite a su propietario hacer una tirada de d10 (sin dado salvaje) de Conocimientos Generales, Ciencias, Humanidades, Medicina o Tácticas. El DJ puede decidir la habilidad al azar o escoger una según el contexto donde se encontró.  
 Si alguna persona abre el cilindro o se rompe y deja ver su contenido, todos los presentes tendrán que hacer una TPC de d6.
 
 **Cuerda de la horca de Anacaona:** Anacaona fue una cacique taína que fue ahorcada por los españoles 1506 a pesar de haber ayudado a Colón y el resto de españoles de su expedición. Escapo a la masacre de los 80 caciques y fue apresada y juzgada por insurrección y finalmente condenada a la horca. [_Más información en la Wikipedia_](https://es.wikipedia.org/wiki/Anacaona)  
+
 Este trozo cuerda maldita permite a portador que la lleve al cuello hablar y entender taíno. También entender los petroglifos que usaban para escribir, cosa que solo hacían muy esporádicamente para grandes ocasiones.  
+
 Pero también está maldita, imbuida por todo el odio de Anacaona hacia los españoles que la mataron a pesar de haberlos ayudado en sus peores momentos. La persona que porte la soga irá volviéndose más y más furioso y vengativo, a medida que parte de la fuerza de espiritual de Anacaona y los 80 caciques masacrados le vaya poseyendo. Ponle en situaciones que le saquen de sus casillas y que le hagan actuar violentamente. En su siguiente avance asígnale las desventajas Vengativo (mayor) y Sanguinario (mayor).  
+
 Podrá deshacerse de esas desventajas cuando se haga sobre él un hechizo de Destierro si no han acabado con él sus ansias de sangre y venganza. Solo una tirada de Mitos con 2 avances permitirá detectar la maldición que porta este objeto.
 
-**Espora de Ubbo-Sathla:** Ubbo-Sathla es un dios primigenio que vino nuestro planeta desde el espacio. Se cree que es el origen de la vida en la tierra. Es una masa informe con un color y textura parecida al légamo sin cabeza ni extremidades reconocibles. Lo que tienes entre las manos es una de sus esporas. Si se planta en la tierra, a mañana siguiente en el lugar donde se plantó saldrán todo tipo de plantas cubriendo toda la zona de vegetación (un círculo de 100 metros de radio).  
-Las plantas no son naturales de la zona, sino que son versiones prehistóricas de las plantas que había en esa zona. Puede, por ejemplo, usarse para volver a esconder en la jungla unas ruinas perdidas u obstaculizar el paso del enemigo. Si se tira al mar puede crear grandes zonas de sargazos que dificulte el paso de las embarcaciones. Podría usarse, por ejemplo, en un puerto para dificultar y retrasar la salida de barcos de un puerto durante unos días.  
+**Espora de Ubbo-Sathla:** Ubbo-Sathla es un dios primigenio que vino nuestro planeta desde el espacio. Se cree que es el origen de la vida en la tierra. Es una masa informe con un color y textura parecida al légamo sin cabeza ni extremidades reconocibles. Lo que tienes entre las manos es una de sus esporas. Si se planta en la tierra, a mañana siguiente en el lugar donde se plantó saldrán todo tipo de plantas cubriendo toda la zona de vegetación (un círculo de 100 metros de radio).
+
+Las plantas no son naturales de la zona, sino que son versiones prehistóricas de las plantas que había en esa zona. Puede, por ejemplo, usarse para volver a esconder en la jungla unas ruinas perdidas u obstaculizar el paso del enemigo. Si se tira al mar puede crear grandes zonas de sargazos que dificulte el paso de las embarcaciones. Podría usarse, por ejemplo, en un puerto para dificultar y retrasar la salida de barcos de un puerto durante unos días.
+
 Presenciar en vivo este proceso de crecimiento descontrolado de plantas y árboles no va a provocar horror, pero desde luego las insinuaciones, rumores y acusaciones de brujería se dispararán en las comunidades cercanas.
 
 **Extraña moneda antigua:** Esta extraña moneda de oro parece muy antigua y es una mezcla entre maya y azteca. De hecho, no tiene una forma clara y cada vez que se examina parece tener detalles nuevos. Está maldita y su portador deberá tirar en la tabla de Maldiciones (apunta la maldición que tiene por si se la pasan a otra persona). Mientras tenga la moneda, la maldición seguirá con él. La ventaja es que no podrá morir por la maldición en caso de tener efectos mortales. Por ejemplo, tendrá una sed insaciable, pero no podrá morir de deshidratación. La única forma de librarse de la maldición es devolverla al tesoro donde fue robada o lanzarla a algún lugar especial como otras realidades, pozos insondables o incluso, si eres muy valiente, la boca del gran Cthulhu. Si intentan deshacerse de ella por medios normales, volverá a su bolsillo mágicamente.
 
 **Flauta de hueso de byakhee:** Al tocar esta flauta hecha con hueso de byakhee, se puede convocar en minutos una gran tormenta, cuyo centro será donde se encuentre el flautista. Con una tirada de Interpretar exitosa se convoca la tormenta (Ver Tabla de Tiempo atmosférico durante los viajes para ver sus efectos). Por cada éxito adicional, la tormenta impondrá un -1 a todas las tiradas de maniobra y combate naval. Es una táctica perfecta para escaparse de combates navales, pero el gran problema de este objeto es que te encontrarás en el centro de la tormenta y tu barco también tendrá que luchar por salir de la tormenta.
 
-**Gafas del Doctor Corvus Labranza:** Estas gafas de cristales octagonales y rosados permiten a su usuario ver en la oscuridad (espectro ultravioleta e infrarrojo), incluso en total oscuridad (visión calorífica). Son una versión portátil y adaptada a la vista de su máquina de amplificadora de la glándula pineal que según se dice permitía ver otras dimensiones y a través del tiempo. También permiten ver directamente a seres invisibles de los Mitos.  
+**Gafas del Doctor Corvus Labranza:** Estas gafas de cristales octagonales y rosados permiten a su usuario ver en la oscuridad (espectro ultravioleta e infrarrojo), incluso en total oscuridad (visión calorífica). Son una versión portátil y adaptada a la vista de su máquina de amplificadora de la glándula pineal que según se dice permitía ver otras dimensiones y a través del tiempo. También permiten ver directamente a seres invisibles de los Mitos.
+ 
 Pero estas gafas van mucho más allá y funcionan también en el otro sentido, las radiaciones que emiten para hacer funcionar sus fabulosas capacidades son como un faro en la oscuridad para los seres de los Mitos y estos podrán ver perfectamente a la persona que las esté usando. Para este será imposible ocultarse de los seres de los Mitos hasta una hora después de haber usado las gafas. Lo verán, lo olerán, sentirán sus vibraciones, o el sentido especial que use el monstruo.
 
 **Hamaca de sanación:** Esta hamaca tejida por un chamán taíno tiene propiedades curativas. Si un enfermo grave descansa en ella, necesitará la mitad de tiempo para curarse. El único problema es que está ligada a una poderosa magia de tierra y lunar y solo funciona en tierra firme las noches con luna, es decir, menos cuando hay luna nueva.
 
 **Llave de plata:** Esta llave de gran tamaño, de un material desconocido parecido a la plata y con extraños jeroglíficos, abre cualquier cerradura automáticamente, incluso aquellas cerradas mágicamente. Cada vez que la usen saca una carta de acción. Si sale el comodín, tira en la tabla de Encuentros con lugares más allá del tiempo y el espacio. La puerta se habrá abierto al lugar que diga la tabla en vez de al otro lado de la puerta.
 
-**Mascarón de Cthulhu:** Este mascarón es en realidad una figura de piedra verdusca montada sobre una estructura de madera y hierro para poder acoplarla a la proa del barco. La figura representa a Cthulhu como un humanoide escamoso con alas de dragón y cabeza de pulpo y parece que era usada como algún tipo de ídolo religioso por cultos de adoradores de Cthulhu. La figura tiene unas inscripciones en la base en un idioma perdido.  
+**Mascarón de Cthulhu:** Este mascarón es en realidad una figura de piedra verdusca montada sobre una estructura de madera y hierro para poder acoplarla a la proa del barco. La figura representa a Cthulhu como un humanoide escamoso con alas de dragón y cabeza de pulpo y parece que era usada como algún tipo de ídolo religioso por cultos de adoradores de Cthulhu. La figura tiene unas inscripciones en la base en un idioma perdido.
+
 Con este mascarón en tu barco ningún profundo ni otras criaturas sirvientes de Cthulhu se atreverá a asaltarlo y atacarlo. Por el contrario, muchos adeptos de la Orden del Gran Cthulhu tratarán de atacar al barco para recuperar el ídolo o los seguirán para poder robarlo. Las noticias sobre el barco correrá entre las células cultistas.
 
 **Objeto perdido en el tiempo:** El objeto que han encontrado es algo venido del futuro por alguna extraña razón. Puede ser cualquier cosa, desde una bandeja de plástico con dibujos de bicicletas hasta una botella de refresco de cola o un reproductor MP3. Descríbelo de la forma más críptica que puedas. Todas las tiradas de Mitos para identificarlo fallarán siempre y nadie podrá decirles qué es. Puedes usarlo como gancho para alguna loca aventura o haz que alguien descubra por casualidad su función. Igual algún genio loco se lo compra para patentar la idea.
@@ -2605,67 +2438,36 @@ Con este mascarón en tu barco ningún profundo ni otras criaturas sirvientes de
 Contienen los restos del Faraón Negro, un avatar de Nyarlathotep, y son tan poderosos que pueden sustituir cualquier ingrediente que se necesite en un ritual. Da igual lo raro que sea el componente mágico se puede sustituir con un poco de los restos putrefactos que hay en los vasos canopos. El recipiente tiene 1d4 usos.
 
 **Ventana de Leng:** A este cristal traslúcido se le ha añadido un marco de madera con unas contraventanas para cerrarlo. Cuando se coloca sobre una superficie y se abren las contraventanas, el cristal se vuelve transparente y permite ver a través del cristal como si fuera una ventana abierta en la superficie colocada. El principal problema es que la ventana se abre hacia los dos lados y también pueden verte desde el otro lado.  
+
 Para activar el cristal de Leng el personaje debe estar en contacto con el cristal y este con la superficie y gastar la mitad de los puntos de armadura del material de la superficie. El efecto durará mientras el cristal esté en contacto con el hechicero y la superficie. El personaje puede mover el cristal a través de la superficie mientras no cambie el material. Por ejemplo, si quiere verse a través de una pared de piedra (armadura 10) deberá gastar 5 puntos de poder.  
+
 El cristal tiende a distorsionar de alguna manera lo que se ve y hacerlo más perturbado y caótico. Por ello, si se tiene que hacer una TPC por algo visto a través del cristal, la TPC tiene un nivel más.
 
 #### Tabla de Maldiciones
 
 |1d12|Nombre|
 |---|---|
+|1|Pestilencia de shoggoth|
+|2|Mal de ojo|
+|3|Percepción no euclidiana|
+|4|Sed insaciable|
+|5|Extraña hambre de gul|
+|6|Campanas del Infierno|
+|7|Mal de San Guido|
+|8|Apagafaroles|
+|9|Decrepitud|
+|10|Castigo de Nodens|
+|11|Maldición de Jasy Jateré|
+|12|Venganza de Montezuma|
 
-1
+**Apagafaroles:** Toda forma de luz artificial se apaga si entra en el rango de visión del maldito y no se volverá a encender hasta que deje de verla. Da lo mismo una antorcha cercana que un faro a kilómetros de distancia, si el portador de la maldición ve el brillo de artilugio luminoso este se apagará. Para más inri, si cierra los ojos y, por tanto, se queda a oscuras, las luces podrán volver a encenderse.
 
-Pestilencia de shoggoth
-
-2
-
-Mal de ojo
-
-3
-
-Percepción no euclidiana
-
-4
-
-Sed insaciable
-
-5
-
-Extraña hambre de gul
-
-6
-
-Campanas del Infierno
-
-7
-
-Mal de San Guido
-
-8
-
-Apagafaroles
-
-9
-
-Decrepitud
-
-10
-
-Castigo de Nodens
-
-11
-
-Maldición de Jasy Jateré
-
-12
-
-Venganza de Montezuma
-
-**Apagafaroles:** Toda forma de luz artificial se apaga si entra en el rango de visión del maldito y no se volverá a encender hasta que deje de verla. Da lo mismo una antorcha cercana que un faro a kilómetros de distancia, si el portador de la maldición ve el brillo de artilugio luminoso este se apagará. Para más inri, si cierra los ojos y, por tanto, se queda a oscuras, las luces podrán volver a encenderse.  
 Parece muy simple, pero puede dar mucho juego, por ejemplo, si quieren hacer misiones de robo o infiltración. Además, puedes jugarlo como la maldición de las campanas. Los gentiles verán algo oscuro y diabólico en aquel que acaba con sus antorchas, lámparas y linternas y los sume en la oscuridad. Esas son cosas del demonio y la gente de bien no debería acercarse al maldito.
 
-**Campanas del Infierno:** Esta maldición es muy sutil y bastante inofensiva, pero, bien llevada por el DJ, puede ser tremendamente inquietante e interesante. Todas las campanas, campanillas, cencerros y similares cercanas a la persona maldita solo emiten un muy débil tañido, independientemente de la fuerza con que se golpee y del tamaño de la campana. De hecho, si las golpea el maldito ni sonarán y en general producirá mucho menos ruido de normal (obtendrá +1 a sigilo mientras dure la maldición).  
+**Campanas del Infierno:** Esta maldición es muy sutil y bastante inofensiva, pero, bien llevada por el DJ, puede ser tremendamente inquietante e interesante. Todas las campanas, campanillas, cencerros y similares cercanas a la persona maldita solo emiten un muy débil tañido, independientemente de la fuerza con que se golpee y del tamaño de la campana. De hecho, si las golpea el maldito ni sonarán y en general producirá mucho menos ruido de normal (obtendrá +1 a sigilo mientras dure la maldición). 
+
 Lo importante es que la paranoia se extienda entre la gente, temiendo que lo de las campanas solo es una señal del mal que vendrá después. Los marineros murmurarán quién puede ser el gafe que hace que no suene la campana del barco, los campesinos sacarán sus horcas y antorchas buscando al culpable de que sus campanas y su protector sonido no suenen y los clérigos hablarán de como esto es una señal de que el demonio anda entre ellos.  
+
 Si alguien consigue averiguar quién es el maldito, seguramente se formará una gran turba para lincharle.
 
 **Castigo de Nodens:** El propio Nodens corta la conexión entre el maldito y sus puntos de poder. El sujeto maldecido no podrá hacer uso de sus puntos de poder de ninguna manera.
@@ -2687,7 +2489,6 @@ Si alguien consigue averiguar quién es el maldito, seguramente se formará una 
 **Sed insaciable:** Los líquidos se niegan a deslizarse por la garganta del maldito, desde agua y alcohol hasta bebedizos mágicos. Según pasen los días, el personaje se irá deshidratando y puede que termine muriendo.
 
 **Venganza de Montezuma:** La venganza de Montezuma no deja de ser una simple diarrea del viajero, pero en este caso será muy grave. El héroe saldrá corriendo al váter (si es que lo hay) cada dos por tres y se pasará horas en él. A nivel de juego será incapaz llevar cualquier tarea que exija tiempo realizarla. Por ejemplo, no podrá hacer guardias o vigilancias, tampoco ponerse a estudiar un libro o buscar en los archivos de una biblioteca.
-
 
 \sp
 
@@ -2717,7 +2518,7 @@ Los viajes en barco son peligrosos, sobre todo si se avecina una tormenta, pero 
 
 También puedes recurrir a esta tabla para saber el clima en momentos clave de tu historia. Seguro que el asalto a la fortaleza del malo entre niebla o con un huracán de fondo es el aderezo perfecto a tu partida.
 
-Tabla de Tiempo atmosférico durante los viajes
+#### Tabla de Tiempo atmosférico durante los viajes
 
 Carta
 
@@ -2800,134 +2601,40 @@ Cada vez que se realiza un viaje largo por mar puedes tirar en la siguiente tabl
 
 ![Encuentros en el mar](./images/encuentros-mar.webp)
 
+\sinc
+
 #### Tabla de Encuentros en el mar
 
 |1d20|Nombre|Descripción|
 |---|---|---|
+|1|La bandera pirata|A lo lejos vuestro vigía del barco observa un barco con la bandera pirata más temida del Caribe. Es el momento de decidir si huir o luchar, pero solo los mejores pueden plantearse enfrentarse a Barbanegra, el azote del mar.|
+|2|Sargazos|El barco se encuentra con una gigantesca masa de sargazos. No va a pasar nada en especial, si atraviesan los sargazos. Simplemente es para darle color al viaje. Puedes jugar con la paranoia, sobre todo si ya han tenido encuentros con profundos, diciéndoles que no se ve a través de los sargazos y que podrían tener una emboscada profunda.|
+|3|Grupo de cetáceos|Vuestra nave se encuentra con un grupo de cetáceos (delfines, orcas, rorcuales o ballenas jorobadas) que acompañaran al barco jugando y saltando delante de la proa. Pueden ser una buena provisión de carne fresca si cazan algunos ejemplares. Si atacan a los cetáceos, estos tratarán de huir. Si muere o es herido algún integrante de la manada, el resto tratará de llevárselo. Esta afrenta no será olvidada y si vuelve a salir este resultado en un viaje, volverá a aparecer este grupo, pero esta vez se defenderán activamente golpeando primero. Según como vayan los encuentros con el grupo de cetáceos, pueden convertirse en Aliados o Enemigos.|
+|4|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
+|5|Registro aleatorio de contrabando|El grupo se encuentra un barco patrulla en busca de contrabandistas. Deberán decidir si huir, luchar o dejar que hagan su trabajo.|
+|6|Ejemplar de La verdad de La Habana|Uno de los marineros saca un ejemplar de la VLH y empieza a comentar alguna noticia extraña. Tu mesa podrá tirar en la Tabla de Noticias de La verdad de La Habana.|
+|7|La tortuga|Empieza el relato salvaje «La tortuga».|
+|8|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
+|9|Mensaje en una botella|Encontráis una botella flotando en el agua. Dentro lleva un mensaje de un náufrago (tira un idioma al azar Tabla de Idioma para libros). Con una tirada de Navegar o Supervivencia para interpretar las indicaciones del mensaje podrá encontrar un islote donde hay restos de un naufragio de una pequeña embarcación y un cadáver reseco hace años. Pueden tirar un botín de d6.|
+|10|Saboteadores profundos|Un pequeño grupo de profundos provoca daños en la embarcación, como robar el ancla, abrir una vía de agua o atorar el timón. Los tripulantes deberán arreglar los desperfectos antes poder continuar.|
+|11|Grupo de cetáceos|Vuestra nave se encuentra con un grupo de cetáceos (delfines, orcas, rorcuales o ballenas jorobadas) que acompañaran al barco jugando y saltando delante de la proa. Pueden ser una buena provisión de carne fresca si cazan algunos ejemplares. Si atacan a los cetáceos, estos tratarán de huir. Si muere o es herido algún integrante de la manada, el resto tratará de llevárselo. Esta afrenta no será olvidada y si vuelve a salir este resultado en un viaje, volverá a aparecer este grupo, pero esta vez se defenderán activamente golpeando primero. Según como vayan los encuentros con el grupo de cetáceos, pueden convertirse en Aliados o Enemigos.|
+|12|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
+|13|Avistamiento de cetáceos|El vigía del barco avista un grupo de cetáceos, delfines, orcas, ballenas, … En ese momento pueden decidir qué hacen. Pueden cazarlos y vender sus cuerpos por un buen precio. Por ejemplo, el ámbar gris, usado en perfumería y que valía más que el oro, era una secreción de los cachalotes para proteger su sistema digestivo. Si algunos de los cetáceos tiene problemas y los personajes le ayudan, puedes usarlo más tarde para salvar a los jugadores si se caen al mar, su barco es hundido o si les abandonan en una balsa en mitad del mar.|
+|14|Emboscada de profundos|En la oscuridad de la noche, un grupo de profundos ataca el barco. El grupo es de 3 profundos por cada comodín y 1 profundo por cada tripulante secuaz. Si el vigía pasa una tirada de Notar podrá avisar a campanadas al resto del barco. Si fallan, los profundos cogerán al grupo por sorpresa y tendrán ventaja.|
+|15|Abandonado a su suerte|Empieza el relato salvaje «Abandonado a su suerte».|
+|16|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
+|17|Bandera pirata|El grupo se encuentra un barco pirata en busca de presas. Deberán decidir si huir, luchar o rendirse, pero recuerda los piratas no suelen hacer prisioneros.|
+|18|Expedición de guerra de los profundos|Un inmenso grupo de profundos se acerca al barco. El grupo es de 6 profundos por cada comodín y 2 profundos por cada tripulante secuaz. Tu mesa puede enfrentarse al grupo de profundos o tratar de huir.|
+|19|El cementerio de barcos|Encuentran el alta mar un islote que tiene gran cantidad de restos de barcos. Empieza el relato salvaje «La isla de Tekeli-li».|
+|20|Perdidos en el tiempo y el espacio|Tu mesa se adentra sin saberlo en una fisura de la realidad que lleva a alguno de los lugares de los Mitos. Puede ser que atraviesen un portal temporal abandonado de los yithianos, una zona de teletransporte de la serpigente o entren en la Tierra de los sueños. Tira en la Tabla de Perdidos en el tiempo y el espacio.|
 
-1
-
-La bandera pirata
-
-A lo lejos vuestro vigía del barco observa un barco con la bandera pirata más temida del Caribe. Es el momento de decidir si huir o luchar, pero solo los mejores pueden plantearse enfrentarse a Barbanegra, el azote del mar.
-
-2
-
-Sargazos
-
-El barco se encuentra con una gigantesca masa de sargazos. No va a pasar nada en especial, si atraviesan los sargazos. Simplemente es para darle color al viaje. Puedes jugar con la paranoia, sobre todo si ya han tenido encuentros con profundos, diciéndoles que no se ve a través de los sargazos y que podrían tener una emboscada profunda.
-
-3
-
-Grupo de cetáceos
-
-Vuestra nave se encuentra con un grupo de cetáceos (delfines, orcas, rorcuales o ballenas jorobadas) que acompañaran al barco jugando y saltando delante de la proa. Pueden ser una buena provisión de carne fresca si cazan algunos ejemplares. Si atacan a los cetáceos, estos tratarán de huir. Si muere o es herido algún integrante de la manada, el resto tratará de llevárselo. Esta afrenta no será olvidada y si vuelve a salir este resultado en un viaje, volverá a aparecer este grupo, pero esta vez se defenderán activamente golpeando primero. Según como vayan los encuentros con el grupo de cetáceos, pueden convertirse en Aliados o Enemigos.
-
-4
-
-Cambia el tiempo
-
-Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.
-
-5
-
-Registro aleatorio de contrabando
-
-El grupo se encuentra un barco patrulla en busca de contrabandistas. Deberán decidir si huir, luchar o dejar que hagan su trabajo.
-
-6
-
-Ejemplar de La verdad de La Habana
-
-Uno de los marineros saca un ejemplar de la VLH y empieza a comentar alguna noticia extraña. Tu mesa podrá tirar en la Tabla de Noticias de La verdad de La Habana
-
-7
-
-La tortuga
-
-Empieza el relato salvaje «La tortuga».
-
-8
-
-Cambia el tiempo
-
-Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.
-
-9
-
-Mensaje en una botella
-
-Encontráis una botella flotando en el agua. Dentro lleva un mensaje de un náufrago (tira un idioma al azar Tabla de Idioma para libros). Con una tirada de Navegar o Supervivencia para interpretar las indicaciones del mensaje podrá encontrar un islote donde hay restos de un naufragio de una pequeña embarcación y un cadáver reseco hace años. Pueden tirar un botín de d6.
-
-10
-
-Saboteadores profundos
-
-Un pequeño grupo de profundos provoca daños en la embarcación, como robar el ancla, abrir una vía de agua o atorar el timón. Los tripulantes deberán arreglar los desperfectos antes poder continuar.
-
-11
-
-Grupo de cetáceos
-
-Vuestra nave se encuentra con un grupo de cetáceos (delfines, orcas, rorcuales o ballenas jorobadas) que acompañaran al barco jugando y saltando delante de la proa. Pueden ser una buena provisión de carne fresca si cazan algunos ejemplares. Si atacan a los cetáceos, estos tratarán de huir. Si muere o es herido algún integrante de la manada, el resto tratará de llevárselo. Esta afrenta no será olvidada y si vuelve a salir este resultado en un viaje, volverá a aparecer este grupo, pero esta vez se defenderán activamente golpeando primero. Según como vayan los encuentros con el grupo de cetáceos, pueden convertirse en Aliados o Enemigos.
-
-12
-
-Cambia el tiempo
-
-Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.
-
-13
-
-Avistamiento de cetáceos
-
-El vigía del barco avista un grupo de cetáceos, delfines, orcas, ballenas, … En ese momento pueden decidir qué hacen. Pueden cazarlos y vender sus cuerpos por un buen precio. Por ejemplo, el ámbar gris, usado en perfumería y que valía más que el oro, era una secreción de los cachalotes para proteger su sistema digestivo. Si algunos de los cetáceos tiene problemas y los personajes le ayudan, puedes usarlo más tarde para salvar a los jugadores si se caen al mar, su barco es hundido o si les abandonan en una balsa en mitad del mar.
-
-14
-
-Emboscada de profundos
-
-En la oscuridad de la noche, un grupo de profundos ataca el barco. El grupo es de 3 profundos por cada comodín y 1 profundo por cada tripulante secuaz. Si el vigía pasa una tirada de Notar podrá avisar a campanadas al resto del barco. Si fallan, los profundos cogerán al grupo por sorpresa y tendrán ventaja.
-
-15
-
-Abandonado a su suerte
-
-Empieza el relato salvaje «Abandonado a su suerte».
-
-16
-
-Cambia el tiempo
-
-Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.
-
-17
-
-Bandera pirata
-
-El grupo se encuentra un barco pirata en busca de presas. Deberán decidir si huir, luchar o rendirse, pero recuerda los piratas no suelen hacer prisioneros.
-
-18
-
-Expedición de guerra de los profundos
-
-Un inmenso grupo de profundos se acerca al barco. El grupo es de 6 profundos por cada comodín y 2 profundos por cada tripulante secuaz. Tu mesa puede enfrentarse al grupo de profundos o tratar de huir.
-
-19
-
-El cementerio de barcos
-
-Encuentran el alta mar un islote que tiene gran cantidad de restos de barcos. Empieza el relato salvaje «La isla de Tekeli-li».
-
-20
-
-Perdidos en el tiempo y el espacio
-
-Tu mesa se adentra sin saberlo en una fisura de la realidad que lleva a alguno de los lugares de los Mitos. Puede ser que atraviesen un portal temporal abandonado de los yithianos, una zona de teletransporte de la serpigente o entren en la Tierra de los sueños. Tira en la Tabla de Perdidos en el tiempo y el espacio.
+\conc
 
 ### Encuentros en la jungla
 
 Cada vez que se realiza un viaje largo por tierra, normalmente atravesando junglas y pantanos, puedes tirar en la siguiente tabla. Si algún resultado no puede ser aplicado, como el comienzo de algún relato salvaje, puede volver a tirar otro encuentro o simplemente es un viaje tranquilo.
+
+\sinc
 
 ![Encuentros en la jungla](./images/encuentros-tierra.webp)
 
@@ -2935,130 +2642,34 @@ Cada vez que se realiza un viaje largo por tierra, normalmente atravesando jungl
 
 |1d20|Nombre|Descripción|
 |---|---|---|
+|1|La senda de piedra|Encuentran un trozo de calzada, un hito o un mojón. No se puede seguir porque se lo ha comido la jungla. Es muy antiguo y lleva oculto durante años, incluso siglos. Con una tirada de Supervivencia podrán cartografiar el punto y cuando tengan 3 podrán triangular algún tipo de templo, un cenote u otro elemento de esta tabla. Puedes también aprovechar esto para introducir una aventura propia como un templo tipo dungeon que explorar, …|
+|2|Restos de una caravana|Se encuentran los restos de una caravana comercial perdida, hay restos humanos que deberían dar santa sepultura. Pueden que les atacaran bandidos, animales salvajes o cosas peores. Quizás los mataron, los esclavizaron o algo les hizo huir abandonándolo todo. Tira tesoro con TPC 1d4 y solo podrán escoger tirar en la tabla de Riquezas.|
+|3|La ceiba sagrada|En mitad de un claro de la selva encuentran una gigantesca ceiba. Este árbol que los mayas consideraban mágico tiene un aura de poder alrededor suyo que podrá detectarse con una tirada de Mitos o lanzando un hechizo de Detección arcana. Todo hechizo o ritual hecho a la sombra de la ceiba sagrada (por eso solo funciona de día o durante la luna llena) gasta la mitad de puntos de poder y tiene un +2. Con una tirada de Supervivencia podrán trazar un mapa de su localización y volver a encontrarlo si lo desean.|
+|4|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto, Calma chicha o Viento en contra y quédate con el nuevo resultado.|
+|5|Frutales|Se encuentran una zona de frutales, papayas, mangos, bananas, etc. con las ramas cargadas de frutas. Si gastan un par de horas forrajeando tendrá raciones para todo el viaje.|
+|6|Ejemplar de La verdad de La Habana|Uno de los viajeros saca un viejo y usado ejemplar de la VLH y empieza a comentar alguna noticia extraña. Podrán tirar en la Tabla de Noticias de La verdad de La Habana.|
+|7|Pantanos|La ruta que han de tomar obliga al grupo a atravesar una zona pantanosa. Si no pasan una tirada de supervivencia, tienen problemas para moverse por la zona pantanosa y el tiempo de viaje se duplica.|
+|8|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto, Calma chicha o Viento en contra y quédate con el nuevo resultado.|
+|9|El yeho|El grupo se encuentra una expedición de caza en la jungla que busca al misterioso Yeho. Empieza el relato salvaje «El yeho».|
+|10|Restos de expedición de guerra|Encuentran los restos de una expedición militar. Hay restos humanos a los que deberían dar una digna sepultura. Seguramente les atacaron soldados enemigos o cosas peores. Tira un botín con 1d6 y solo podrán escoger tirar en la tabla de Riquezas y la tabla de Objetos extraordinarios.|
+|11|El templo perdido|Empieza el relato salvaje «El templo perdido».|
+|12|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto, Calma chicha o Viento en contra y quédate con el nuevo resultado.|
+|13|Cenote|Encuentras un cenote oculto en la maleza y parece que hace siglos que nadie pasa cerca de él. Puedes explorarlo buceando en sus cristalinas aguas. Si pasas una tirada Atletismo para nadar y bucear y consigues un avance en una tirada de Notar podrán obtener hacer una tirada de tesoro de 1d6. Podrás tirar en la tabla que quieras (incluso en la tabla de Más allá del tiempo y el espacio). Si tienes algún método para moverte sin problemas debajo del agua no hace falta tirar Atletismo y no necesitas un avance en la tirada de Notar.|
+|14|Madre de aguas|Encuentran restos de ropajes taínos con manchas de barro y sangre y una tosca muñeca de madera en la jungla. Cerca encontrarán un poblado de taínos que parece conmocionado por algún suceso extraño. Empieza el relato salvaje «Madre de aguas».|
+|15|Cultivos salvajes|En mitad de la jungla encontráis un campo de algún tipo de vegetal en estado salvaje. Según en que relatos salvajes estén metidos podría ser achiote, tabaco o cohoba (el alucinógeno más potente del caribe y parte fundamental del ritual de la cohoba). Si alargáis vuestro viaje un par de días, podréis dedicarlos a recolectar y preparar para transportar la cosecha. Si tenéis prisa por llegar a vuestro destino llegaréis un día tarde, si no, no importará llegar unos días más tarde.|
+|16|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes, si había Tiempo perfecto, Calma chicha o Viento en contra. Quédate con el nuevo resultado.|
+|17|Cenote profundo|Encuentras un cenote oculto en la maleza y parece que hace siglos que nadie pasa cerca de él. Con una tirada de Supervivencia encontrarás huellas de pies palmeados de profundos. Puedes explorarlo buceando en sus cristalinas aguas, pero no encontrarás más que un grupo de profundos (2 por cada comodín). El cenote se conecta a una red de cuevas subacuáticas que llega hasta el mar y que los profundos suelen usar en sus incursiones tierra adentro.|
+|18|Restos fosilizados|En una zona rocosa encuentran gran cantidad de restos fosilizados de dinosaurios. Si disponen de equipo adecuado (picos, palas, cubos, …) en 1 semana completa de trabajo pueden sacar 1d4 esqueletos completos de dinosaurios de tamaño medio (tamaño 5-6). Si sacan 4 sacarán uno de tamaño gigantesco (10-12). Con el hechizo de Control elemental tierra podrán hacerlo en 1 día. Empieza, si quiere tu mesa, el relato salvaje «Cazadores de huesos».|
+|19|Restos de expedición perdida|Encuentran los restos de una mítica expedición perdida que buscaba alguna ciudad perdida de oro o la fuente de la juventud. Es tan antigua que no quedan restos humanos y estaba todo cubierto de maleza. Seguramente les atacaron los defensores de los lugares que saquearon. Tira un tesoro de 1d8 y podrán tirar en la tabla que quieran hasta en la tabla de Más allá del tiempo y el espacio.|
+|20|Perdidos en el tiempo y el espacio|Tu mesa se adentra sin saberlo en una fisura de la realidad que lleva a alguno de los lugares de los Mitos. Puede ser que atraviesen un portal temporal abandonado de los yithianos, una zona de teletransporte de la serpigente o entren en la Tierra de los sueños. Tira en la Tabla de Perdidos en el tiempo y el espacio.|
 
-1
-
-La senda de piedra
-
-Encuentran un trozo de calzada, un hito o un mojón. No se puede seguir porque se lo ha comido la jungla. Es muy antiguo y lleva oculto durante años, incluso siglos. Con una tirada de Supervivencia podrán cartografiar el punto y cuando tengan 3 podrán triangular algún tipo de templo, un cenote u otro elemento de esta tabla. Puedes también aprovechar esto para introducir una aventura propia como un templo tipo dungeon que explorar, …
-
-2
-
-Restos de una caravana
-
-Se encuentran los restos de una caravana comercial perdida, hay restos humanos que deberían dar santa sepultura. Pueden que les atacaran bandidos, animales salvajes o cosas peores. Quizás los mataron, los esclavizaron o algo les hizo huir abandonándolo todo. Tira tesoro con TPC 1d4 y solo podrán escoger tirar en la tabla de Riquezas.
-
-3
-
-La ceiba sagrada
-
-En mitad de un claro de la selva encuentran una gigantesca ceiba. Este árbol que los mayas consideraban mágico tiene un aura de poder alrededor suyo que podrá detectarse con una tirada de Mitos o lanzando un hechizo de Detección arcana. Todo hechizo o ritual hecho a la sombra de la ceiba sagrada (por eso solo funciona de día o durante la luna llena) gasta la mitad de puntos de poder y tiene un +2. Con una tirada de Supervivencia podrán trazar un mapa de su localización y volver a encontrarlo si lo desean.
-
-4
-
-Cambia el tiempo
-
-Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto, Calma chicha o Viento en contra y quédate con el nuevo resultado.
-
-5
-
-Frutales
-
-Se encuentran una zona de frutales, papayas, mangos, bananas, etc. con las ramas cargadas de frutas. Si gastan un par de horas forrajeando tendrá raciones para todo el viaje.
-
-6
-
-Ejemplar de La verdad de La Habana
-
-Uno de los viajeros saca un viejo y usado ejemplar de la VLH y empieza a comentar alguna noticia extraña. Podrán tirar en la Tabla de Noticias de La verdad de La Habana
-
-7
-
-Pantanos
-
-La ruta que han de tomar obliga al grupo a atravesar una zona pantanosa. Si no pasan una tirada de supervivencia, tienen problemas para moverse por la zona pantanosa y el tiempo de viaje se duplica.
-
-8
-
-Cambia el tiempo
-
-Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto, Calma chicha o Viento en contra y quédate con el nuevo resultado.
-
-9
-
-El yeho
-
-El grupo se encuentra una expedición de caza en la jungla que busca al misterioso Yeho. Empieza el relato salvaje «El yeho».
-
-10
-
-Restos de expedición de guerra
-
-Encuentran los restos de una expedición militar. Hay restos humanos a los que deberían dar una digna sepultura. Seguramente les atacaron soldados enemigos o cosas peores. Tira un botín con 1d6 y solo podrán escoger tirar en la tabla de Riquezas y la tabla de Objetos extraordinarios.
-
-11
-
-El templo perdido
-
-Empieza el relato salvaje «El templo perdido».
-
-12
-
-Cambia el tiempo
-
-Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto, Calma chicha o Viento en contra y quédate con el nuevo resultado.
-
-13
-
-Cenote
-
-Encuentras un cenote oculto en la maleza y parece que hace siglos que nadie pasa cerca de él. Puedes explorarlo buceando en sus cristalinas aguas. Si pasas una tirada Atletismo para nadar y bucear y consigues un avance en una tirada de Notar podrán obtener hacer una tirada de tesoro de 1d6. Podrás tirar en la tabla que quieras (incluso en la tabla de Más allá del tiempo y el espacio). Si tienes algún método para moverte sin problemas debajo del agua no hace falta tirar Atletismo y no necesitas un avance en la tirada de Notar.
-
-14
-
-Madre de aguas
-
-Encuentran restos de ropajes taínos con manchas de barro y sangre y una tosca muñeca de madera en la jungla. Cerca encontrarán un poblado de taínos que parece conmocionado por algún suceso extraño. Empieza el relato salvaje «Madre de aguas».
-
-15
-
-Cultivos salvajes
-
-En mitad de la jungla encontráis un campo de algún tipo de vegetal en estado salvaje. Según en que relatos salvajes estén metidos podría ser achiote, tabaco o cohoba (el alucinógeno más potente del caribe y parte fundamental del ritual de la cohoba). Si alargáis vuestro viaje un par de días, podréis dedicarlos a recolectar y preparar para transportar la cosecha. Si tenéis prisa por llegar a vuestro destino llegaréis un día tarde, si no, no importará llegar unos días más tarde.
-
-16
-
-Cambia el tiempo
-
-Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes, si había Tiempo perfecto, Calma chicha o Viento en contra. Quédate con el nuevo resultado.
-
-17
-
-Cenote profundo
-
-Encuentras un cenote oculto en la maleza y parece que hace siglos que nadie pasa cerca de él. Con una tirada de Supervivencia encontrarás huellas de pies palmeados de profundos. Puedes explorarlo buceando en sus cristalinas aguas, pero no encontrarás mas que un grupo de profundos (2 por cada comodín). El cenote se conecta a una red de cuevas sub-acuáticas que llega hasta el mar y que los profundos suelen usar en sus incursiones tierra adentro.
-
-18
-
-Restos fosilizados
-
-En una zona rocosa encuentran gran cantidad de restos fosilizados de dinosaurios. Si disponen de equipo adecuado (picos, palas, cubos, …) en 1 semana completa de trabajo pueden sacar 1d4 esqueletos completos de dinosaurios de tamaño medio (tamaño 5-6). Si sacan 4 sacarán uno de tamaño gigantesco (10-12). Con el hechizo de Control elemental tierra podrán hacerlo en 1 día. Empieza, si quiere tu mesa, el relato salvaje «Cazadores de huesos».
-
-19
-
-Restos de expedición perdida
-
-Encuentran los restos de una mítica expedición perdida que buscaba alguna ciudad perdida de oro o la fuente de la juventud. Es tan antigua que no quedan restos humanos y estaba todo cubierto de maleza. Seguramente les atacaron los defensores de los lugares que saquearon. Tira un tesoro de 1d8 y podrán tirar en la tabla que quieran hasta en la tabla de Más allá del tiempo y el espacio.
-
-20
-
-Perdidos en el tiempo y el espacio
-
-Tu mesa se adentra sin saberlo en una fisura de la realidad que lleva a alguno de los lugares de los Mitos. Puede ser que atraviesen un portal temporal abandonado de los yithianos, una zona de teletransporte de la serpigente o entren en la Tierra de los sueños. Tira en la Tabla de Perdidos en el tiempo y el espacio.
+\conc
 
 ### Perdidos en el tiempo y el espacio
 
 Puede ser que en algún momento los héroes sean absorbidos por un agujero dimensional, sean desterrados a otros planos por un hechicero, abducidos por alguna raza extraterrestre o simplemente al usar una llave de plata la puerta se abra a un nuevo plano. Con esta tabla podrás elegir donde acaba tu mesa. Cada opción viene con ideas de aventuras y de cómo volver.
+
+\sinc
 
 ![Perdidos en el tiempo y el espacio](./images/encuentros-mas.webp)
 
@@ -3066,75 +2677,17 @@ Puede ser que en algún momento los héroes sean absorbidos por un agujero dimen
 
 |1d12|Nombre|Descripción|
 |---|---|---|
+|1|Carcosa|Carcosa es una ciudad de uno de los planetas de las Híades, cerca de Aldebarán. Está situada junto al lago Hiade. Frecuentemente confunde dimensiones con la Tierra, arrastrando a aventureros que se hablan adentrado en la ciudad. Se cree que esto se produce, ya que es la morada/prisión de Hastur.|
+|2|Carcosa en ruinas|No se sabe muy como, pero la ciudad de Carcosa cayó en desgracia en algún momento de su historia y ahora solo quedan ruinas de sus edificios y fantasma de sus antiguos habitantes. Además, múltiples byakhee anidaron en la ciudad.|
+|3|Ulthar|Ulthar es una vieja población de casas de madera situada más allá del río Skai, junto al Bosque encantado, en las Tierras del Sueño. Por ley los gatos no pueden ser dados a muerte por nadie.|
+|4|Meseta de Leng|La tradición dice que la Meseta de Leng está ubicada en Asia Central, pero debido a lo difícil que es localizarla seguramente sea una paradoja espacial que puede estar en muchas partes y en ninguna al mismo tiempo. Es una amplia región fría y desértica en cuyo centro se encuentra el Monasterio de Leng, donde vive el terrible Tcho-tcho Lama, posiblemente un avatar de Nyarlathotep o de Hastur.|
+|5|K'n-yan|Es un reino subterráneo que se encuentra debajo de Oklahoma (EUA). Es una inmensa caverna iluminada por una fosforescencia azul. Sus ramificaciones ocupan casi toda Norteamérica y además de permitirte volver a la superficie, dan acceso a otros mundos como las Tierras de los Sueños o Yoth. Está habitada por unos humanoides inmortales llamados Vieja Raza de K'n-yan y su capital se Tsath en honor a su deidad principal, Tsathoggua. Se puede acceder a K'n-yan desde cuevas y cenotes. La ciencia de la Vieja Raza es muy avanzada y puede que necesiten conseguirla para alguno de sus descabellados planes.|
+|6|Yoth|Yoth es un reino en ruinas situado debajo de K'n-yan. Fue creado por serpigente, pero atrajeron la ira Yig al empezar a adorar a Tsathoggua y este los maldijo haciendo que degeneraran y perdieran su inteligencia.|
+|7|Jungla de Kled|La Jungla de Kled es una inmensa jungla que se encuentra en las Tierras de los Sueños. Por toda la jungla hay palacios y templos perfectamente conservados en los que la jungla no ha podido entrar. Si tu mesa se pierde en la jungla, pueden que aparezca aquí. Quizás tengan que explorar alguno de los palacios para encontrar la forma de volver.|
+|8|Hiperbórea|No voy a decir más: conoce a Conan y combate a su lado.|
+|9|Corona Mundi|Corona Mundi es una inmensa ciudad abandonada en la Antártida creada por los Antiguos. Ya solo está habitada por pingüinos gigantes y los sirvientes de los Antiguos, los shoggoth. Esta ciudad se ha conservado perfectamente gracias al hielo a las montañas que lo rodean y lo protegen. Está lleno de edificios que son maravillas de la arquitectura, llenos de bajorrelieves y estatuas contando la historia de los Antiguos.|
+|10|Pnakotus|Pnakotus fue construida hace millones de años por la Gran Raza de Yith en el Gran Desierto de Australia. Es conocida por su gran biblioteca, donde está recopilado todo lo que ha pasado y mucho de lo que pasará. Recordemos su capacidad para lanzar sus mentes atrás y adelante en el tiempo. Igual necesitan visitar su biblioteca para conseguir algún dato importante para sus misiones. El viaje de regreso al Caribe desde Australia puede ser una aventura en sí misma.|
+|11|R’lyeh|Ya hemos hablado de R’lyeh mucho en esta ambientación, así que ya sabes qué van a encontrar.|
+|12|El vacío|Este gran espacio vació, es la nada, el fin del tiempo y el espacio sin origen y sin final. Igual es el centro de un agujero negro o lo que queda de una dimensión devorada por dholes. Pero desde luego mejor no tener que entrar nunca.|
 
-1
-
-Carcosa
-
-Carcosa es una ciudad de uno de los planetas de las Híades, cerca de Aldebarán. Está situada junto al lago Hiade. Frecuentemente confunde dimensiones con la Tierra, arrastrando a aventureros que se hablan adentrado en la ciudad. Se cree que esto se produce, ya que es la morada/prisión de Hastur.
-
-2
-
-Carcosa en ruinas
-
-No se sabe muy como, pero la ciudad de Carcosa cayó en desgracia en algún momento de su historia y ahora solo quedan ruinas de sus edificios y fantasma de sus antiguos habitantes. Además, múltiples byakhee anidaron en la ciudad.
-
-3
-
-Ulthar
-
-Ulthar es una vieja población de casas de madera situada más allá del río Skai, junto al Bosque encantado, en las Tierras del Sueño. Por ley los gatos no pueden ser dados a muerte por nadie.
-
-4
-
-Meseta de Leng
-
-La tradición dice que la Meseta de Leng está ubicada en Asia Central, pero debido a lo difícil que es localizarla seguramente sea una paradoja espacial que puede estar en muchas partes y en ninguna al mismo tiempo. Es una amplia región fría y desértica en cuyo centro se encuentra el Monasterio de Leng, donde vive el terrible Tcho-tcho Lama, posiblemente un avatar de Nyarlathotep o de Hastur.
-
-5
-
-K'n-yan
-
-Es un reino subterráneo que se encuentra debajo de Oklahoma (EUA). Es una inmensa caverna iluminada por una fosforescencia azul. Sus ramificaciones ocupan casi toda Norteamérica y además de permitirte volver a la superficie, dan acceso a otros mundos como las Tierras de los Sueños o Yoth. Está habitada por unos humanoides inmortales llamados Vieja Raza de K'n-yan y su capital se Tsath en honor a su deidad principal, Tsathoggua. Se puede acceder a K'n-yan desde cuevas y cenotes. La ciencia de la Vieja Raza es muy avanzada y puede que necesiten conseguirla para alguno de sus descabellados planes.
-
-6
-
-Yoth
-
-Yoth es un reino en ruinas situado debajo de K'n-yan. Fue creado por serpigente, pero atrajeron la ira Yig al empezar a adorar a Tsathoggua y este los maldijo haciendo que degeneraran y perdieran su inteligencia.
-
-7
-
-Jungla de Kled
-
-La Jungla de Kled es una inmensa jungla que se encuentra en las Tierras de los Sueños. Por toda la jungla hay palacios y templos perfectamente conservados en los que la jungla no ha podido entrar. Si tu mesa se pierde en la jungla, pueden que aparezca aquí. Quizás tengan que explorar alguno de los palacios para encontrar la forma de volver.
-
-8
-
-Hiperbórea
-
-No voy a decir más: conoce a Conan y combate a su lado.
-
-9
-
-Corona Mundi
-
-Corona Mundi es una inmensa ciudad abandonada en la Antártida creada por los Antiguos. Ya solo está habitada por pingüinos gigantes y los sirvientes de los Antiguos, los shoggoth. Esta ciudad se ha conservado perfectamente gracias al hielo a las montañas que lo rodean y lo protegen. Está lleno de edificios que son maravillas de la arquitectura, llenos de bajorrelieves y estatuas contando la historia de los Antiguos.
-
-10
-
-Pnakotus
-
-Pnakotus fue construida hace millones de años por la Gran Raza de Yith en el Gran Desierto de Australia. Es conocida por su gran biblioteca, donde está recopilado todo lo que ha pasado y mucho de lo que pasará. Recordemos su capacidad para lanzar sus mentes atrás y adelante en el tiempo. Igual necesitan visitar su biblioteca para conseguir algún dato importante para sus misiones. El viaje de regreso al Caribe desde Australia puede ser una aventura en sí misma.
-
-11
-
-R’lyeh
-
-Ya hemos hablado de R’lyeh mucho en esta ambientación, así que ya sabes qué van a encontrar.
-
-12
-
-El vacío
-
-Este gran espacio vació, es la nada, el fin del tiempo y el espacio sin origen y sin final. Igual es el centro de un agujero negro o lo que queda de una dimensión devorada por dholes. Pero desde luego mejor no tener que entrar nunca.
+\conc

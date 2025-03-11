@@ -6,9 +6,19 @@
 
 \conc
 
-Estás en 1722 en el Caribe. La conocida como Edad de Oro de la piratería está acabando. Los grandes piratas han muerto o se han retirado y los grandes tesoros se han enterrado para que los busquen durante generaciones. Las potencias europeas han «civilizado y apaciguado» el Caribe y expolian sus recursos. El azúcar, el tabaco y el café fluyen desde las plantaciones de las grandes islas del Caribe, llenando las arcas de los gobiernos europeos, mientras las gentes del Caribe sobrevive como puede.
+Estás en 1722 en el Caribe. La conocida como Edad de Oro de la piratería está acabando. Los grandes piratas han muerto o se han retirado y los grandes tesoros se han enterrado para que los busquen durante generaciones.
+
+Las potencias europeas han «civilizado y apaciguado» el Caribe y expolian sus recursos. El azúcar, el tabaco y el café fluyen desde las plantaciones de las grandes islas del Caribe, llenando las arcas de los gobiernos europeos, mientras las gentes del Caribe sobrevive como puede.
 
 Mientras, entre las sombras, una antigua y diabólica sociedad secreta lleva décadas moviendo los hilos de la política y la economía para conseguir su objetivo: El surgimiento de entre las aguas de R’lyeh, la ciudad sumergida donde yace el gran Cthulhu.
+
+\sinc
+
+![](./images/mapa.webp)
+
+\conc
+
+\sp
 
 Esta sociedad, autodenominada como la Orden del Gran Cthulhu, y su brazo público y legal, la Real Compañía Privilegiada del Caribe (RCPC), no tiene ningún tipo de escrúpulo en asesinar, torturar, robar, chantajear e incluso hacer pactos con demoníacas entidades extraplanares para lograr sus objetivos.
 
@@ -17,12 +27,6 @@ Gracias a sus casi infinitos recursos económicos, los conocimientos mágicos de
 Solo el anárquico mundo de la piratería ha logrado evadir sus tentáculos y es por ello que son los únicos que han empezado a ver lo que realmente está pasando en el Caribe y empiezan a vislumbrar que busca el Culto.
 
 Unas pocas personas, casi todas piratas o con pasado pirata, conocen el terrible secreto que se esconde detrás de la Orden del Gran Cthulhu. Estos valientes han creado la Hermandad del Sargazo que busca desbaratar los planes del culto y hacer que paguen por sus múltiples crímenes.
-
-\sinc
-
-![](./images/mapa.webp)
-
-\conc
 
 \sp
 
@@ -46,11 +50,13 @@ A su vez fue institucionalizándose, creando conclaves, jerarquías, mandamiento
 
 ### La familia Villalba
 
-La familia Villalba tiene una larga tradición como adoradores de Cthulhu. Lo han sido desde que en 1323 un antepasado de Hernando, que era pescador en Peñíscola, recibiera de un líder profundo una gran pepita de oro. A esa pepita le siguieron otras. Rápidamente, la familia se emparentó con los profundos y empezó a adorar al gran Cthulhu.
-
-Con los años la familia prosperó económica y socialmente hasta obtener de los reyes de Aragón un título nobiliario. En un par de generaciones las creencias de la numerosa familia y sus siervos llamaron la atención de la Orden del Gran Cthulhu que los incluyo como un poderoso recurso en el Mediterráneo Occidental.
+La familia Villalba tiene una larga tradición como adoradores de Cthulhu. Lo han sido desde que en 1323 un antepasado de Hernando, que era pescador en Peñíscola, recibiera de un líder profundo una gran pepita de oro. 
 
 \sp
+
+A esa pepita le siguieron otras. Rápidamente, la familia se emparentó con los profundos y empezó a adorar al gran Cthulhu.
+
+Con los años la familia prosperó económica y socialmente hasta obtener de los reyes de Aragón un título nobiliario. En un par de generaciones las creencias de la numerosa familia y sus siervos llamaron la atención de la Orden del Gran Cthulhu que los incluyo como un poderoso recurso en el Mediterráneo Occidental.
 
 Pronto el cabeza de la familia Villalba paso a tener un puesto en el círculo interior de la Orden y durante 300 años los Villalba aumentaron su poder tratando con entidades de los Mitos y decidieron el destino de Europa y sus territorios colonizados.
 
@@ -62,9 +68,11 @@ A pesar de esto, muchos de los socios de la Orden cayeron poco a poco como ficha
 
 Solo sobrevivió un adolescente, Hernando de Villalba, que huyo a la costa sur de Cuba para ponerse fuera del alcance de la Inquisición. En su huida logro poner a salvo varios libros y reliquias prohibidas de su familia.
 
-Con el poco dinero que se pudo llevar montó una pequeña explotación pesquera siguiendo la tradición de la familia. Y como era tradición familiar, un líder profundo de la tribu N'gha syha'h terminó acercándosele seguramente por la sangre profunda que corre por sus venas.
+Con el poco dinero que se pudo llevar montó una pequeña explotación pesquera siguiendo la tradición de la familia. Y como era tradición familiar, un líder profundo de la tribu N’gha syha’h terminó acercándosele seguramente por la sangre profunda que corre por sus venas.
 
 Primero lleno sus redes de peces haciéndole ganar mucho dinero y poco a poco ofreciendo resto de tesoros hundidos o metales preciosos. En unos 10 años el poder de un Hernando ya adulto fue creciendo tanto económicamente como en poder mágico.
+
+\sp
 
 Llegado el momento volvió a España y luego viajó por toda Europa reuniendo a los adeptos desperdigados de la Orden. Se consagró como sumo sacerdote de la nueva Orden y les ofreció un nuevo credo basado en que R’lyeh estaba sepultado bajo las aguas del Caribe y que cuando su señor se despierte les otorgará la inmortalidad, parte de su poder y la Tierra como su dominio. Muchos se unieron a él y a algunos les ordeno quedarse en Europa como espías y otros volvieron con él al Caribe.
 
@@ -72,7 +80,7 @@ La empresa de pesca empezó a expandirse por todas las islas controladas por el 
 
 En 1689 se funda la Compañía de Comercio del Caribe. La pequeña empresa pesquera ahora era una potencia comercial que manejaba más del 30% del comercio del Caribe.
 
-\sp
+\sc
 
 En pocos años con la aprobación del rey de España se convierte en la Real Compañía Privilegiada del Caribe, con Hernando como la persona más rica y poderosa del Caribe.
 
@@ -83,6 +91,8 @@ Desde hace unos 15 años, Hernando se ha retirado de la vida pública y de la em
 La Real Compañía Privilegiada del Caribe (RCPC) tiene, como bien dice su nombre, privilegios en todos los territorios del Caribe controlados por España. Esta empresa tiene el control de todo el comercio entre España y el Caribe español. Nada entra o sale del Caribe sin pasar por sus barcos tras haber pagado diferentes impuestos y tasas.
 
 Debido al apoyo del gobierno de España y a que controla la mayoría del comercio del Caribe tiene gran poder en la zona pudiéndose considerar que el director de cada casa comercial que hay en cada isla del Caribe es casi más poderoso que los propios gobernadores de las islas.
+
+\sp
 
 Es tanto su poder que tiene su propia armada de barcos, su propio ejército y sus propias instalaciones militares y si eso no fuera poco, cuenta con el apoyo y la protección de la Armada Española.
 
@@ -97,6 +107,8 @@ La RCPC también se encarga de conseguir gente para la secta, los de «recursos 
 El trabajo más costoso de todos es la ocultación de las actividades y el silenciamiento de testigos. La RCPC se encarga de deshacerse de cadáveres de humanos y de no humanos, de intimidar a familiares que hacen muchas preguntas, de limpiar los destrozos de seres descontrolados y de explosiones desafortunadas o, por último, de sobornar a jueces que podrían desvelar los asuntos de la Orden.
 
 En resumen, la RCPC es una gran máquina de hacer dinero y controlar a la gente para que la Orden pueda hacer lo que tenga que hacer para despertar a Cthulhu y este le otorgue a Villalba la inmortalidad que tanto anhela.
+
+\sp
 
 #### Los tentáculos de la RCPC
 
@@ -116,6 +128,8 @@ Como compañía privilegiada, Además, puede imponer un canon en los puertos que
 
 El contrabando y los ataques de piratas a sus barcos es lo que permitió a la RCPC solicitar y conseguir de la corona de España poder tener su propia de flota de barcos de combate. Esta flota está compuesta de buques de guerra que protegen sus convoyes y sus puertos y de barcos guardacostas que controlan el contrabando.
 
+\sp
+
 A pesar de que la rama comercial genera cantidades ingentes de dinero, nunca hay suficiente para llevar a cabo los locos planes de Hernando Villalba y ha tenido muchas veces que empezar a trabajar en operaciones ilegales.
 
 ##### El tentáculo científico y mágico
@@ -130,7 +144,11 @@ Uno de los mayores activos de la rama científica es Onofre de las Torres, que h
 
 ##### El tentáculo militar y de espionaje
 
-La RCPC es una potencia militar en sí misma, tan importante como el reino de España o Gran Bretaña. Tiene una gran cantidad de combatientes, armas y barcos. Su crecimiento ha sido muy sutil y si las potencias europeas hicieran cuentas de su tamaño actual se asustarían. Empezó siendo pequeños grupos de guardias para proteger almacenes y barcos de escolta para los convoyes comerciales. Cuando consiguió el control de todo el comercio del Caribe español, pidió permiso para tener más medios (personas y barcos) para controlar la piratería y el contrabando. Estableció oficinas y cuarteles en los grandes puertos y barcos que patrullaban los puertos menores.
+La RCPC es una potencia militar en sí misma, tan importante como el reino de España o Gran Bretaña. Tiene una gran cantidad de combatientes, armas y barcos. Su crecimiento ha sido muy sutil y si las potencias europeas hicieran cuentas de su tamaño actual se asustarían. Empezó siendo pequeños grupos de guardias para proteger almacenes y barcos de escolta para los convoyes comerciales.
+
+\sp
+
+Cuando consiguió el control de todo el comercio del Caribe español, pidió permiso para tener más medios (personas y barcos) para controlar la piratería y el contrabando. Estableció oficinas y cuarteles en los grandes puertos y barcos que patrullaban los puertos menores.
 
 Su gran avance fue cuando consiguió el control del Castillo del Morro en la entrada del puerto de La Habana. Esto les daba el control del puerto más importante del Caribe y una fortificación casi inexpugnable en la que proteger los elementos más importantes de la Orden.
 
@@ -148,6 +166,8 @@ Una pequeña sección se encarga del espionaje y si fuera necesario asesinato. L
 
 El tentáculo propagandístico se encarga de controlar la opinión pública para que las verdaderas actividades de la RCPC y la Orden no salgan a la luz. También trabaja hundiendo la reputación de los enemigos de la Orden y prepara el terreno a futuras sublevaciones y linchamientos, calentando los ánimos de la gente.
 
+\sp
+
 Son relativamente pocos, habiendo 3 o 4 en cada ciudad y llegando a 10 o 12 en grandes ciudades como La Habana. Suelen ser personas con don de gentes y a diferencia de otros tentáculos, no suelen pertenecer a la RCPC, para mantener sus tapaderas. Tienen profesiones y oficios ficticios y cobran bajo cuerda.
 
 Otra diferencia con otras ramas es que todas las personas que lo integran son integrantes de la Orden de más o menos nivel que conocen y acepta su credo. También son mucho más fanáticos y seguramente morirían por la causa o se suicidarían antes de dejarse atrapar.
@@ -160,7 +180,11 @@ Actualmente, están centrando sus recursos en dos puntos del Caribe; las islas d
 
 ### Organigrama de la empresa
 
-La RCPC sigue la estructura piramidal de la secta que la creo. Eso supone que, salvo escasas excepciones, las personas más arriba en el culto están más arriba en la compañía. También hay que tener en cuenta que no toda la gente que trabaja en la RCPC son cultistas, muchos trabajadores de bajo nivel son simplemente eso, trabajadores mal pagados y casi esclavizados.
+La RCPC sigue la estructura piramidal de la secta que la creo. Eso supone que, salvo escasas excepciones, las personas más arriba en el culto están más arriba en la compañía. 
+
+\sp
+
+También hay que tener en cuenta que no toda la gente que trabaja en la RCPC son cultistas, muchos trabajadores de bajo nivel son simplemente eso, trabajadores mal pagados y casi esclavizados.
 
 En la cima de la compañía y de la secta está, indiscutiblemente, Hernando de Villalba. Sus decisiones no son discutidas, solo ejecutadas. Por suerte, para la RCPC y desgracia de resto del Caribe, Villalba ha aprendido a delegar de forma eficiente en sus subalternos. Estos llevan a cabo sus órdenes de forma eficaz y precisa y, normalmente, con excelentes resultados. Aun así, Villalba no acepta muy bien el fallo o el fracaso y es muy dado a segar de raíz a los individuos que le fallan.
 
@@ -171,6 +195,8 @@ Bajando un escalafón tenemos capitanes de navíos y a jefes de fábricas. No to
 El anteúltimo escalón son los ejecutores especializados, espías de la rama militar, gente entrenada en venenos y asesinato o científicos locos. Pueden formar parte de la cadena de mando o ser agentes solitarios de los que el resto de la secta no tienen ni idea.
 
 En la base de la pirámide tenemos a los cultistas de más bajo nivel y los híbridos de profundos. Son la mano de obra que hace todo el trabajo sucio y la carne de cañón que se encarga de defender los intereses de la orden. Normalmente, son fanáticos que no tienen mucha idea de porque luchan, pero lo hacen sin cuestionárselo.
+
+\sp
 
 ### Edward Teach alias Barbanegra
 
@@ -190,6 +216,8 @@ En noviembre de 1718 una flota cazapiratas capitaneada por Robert Maynard y paga
 
 La historia cuenta que Barbanegra y su gente consiguieron acabar con toda las fuerzas de Maynard, que tenían una ventaja de 3 a 1. Tras masacrarlos y rematar a los heridos, el barco desencalló y continuó su viaje.
 
+\sp
+
 Lo que realmente paso, es totalmente distinto. Mientras Maynard y Barbanegra se preparaban para la lucha final, un barco de velas negras y el casco de extraña forma se acercó por detrás a la flotilla de Maynard y empezó a dispararles con una especie de rayos eléctricos. Mientras, de las aguas, surgieron cientos de profundos que subieron a los barcos de Maynard y masacraron a sus tripulaciones.
 
 El navío negro se acercó al «Aventura» y un viejo caballero español paso al barco de Barbanegra para ofrecerle un trato. Era Hernando Villalba en persona, después de varios años encerrado en su casa, ofreciéndole un trato: Saldría vivo de allí si le servía fielmente o sus hombres y sus monstruos acabarían con todos ellos. Firmaron un acuerdo por el cual debía servirle 10 años y obedecer todas sus órdenes, a cambio le daría el barco negro, recursos ilimitados y grandes riquezas para retirarse cuando pasaran los 10 años. En inferioridad, Barbanegra tuvo que aceptar el trato.
@@ -203,6 +231,8 @@ Barbanegra lleva 4 años como sirviente de Villalba, cumpliendo sus órdenes a r
 Su principal directriz es cazar a Mary Read algo en lo que no ha tenido mucho éxito y entre medias ha atacado todos los objetivos que la Orden le ha marcado. Sin embargo, todo esto no llena el corazón de Teach que por más dinero que atesora sigue sintiéndose desdichado.
 
 Lleva todos estos 4 años buscando la forma de romper el pacto con Villalba y recuperar su corazón, pero no ha conseguido nada, solo ha perdido tiempo que no tiene y dinero que por suerte si dispone. Está tan desesperado que escuchará a cualquiera que le ofrezca un buen plan para librarse de su trato.
+
+\sp
 
 ### El plan final
 
@@ -238,6 +268,8 @@ Durante muchos años fue una fuerza muy poderosa en el Caribe, pero a medida que
 
 Si bien la Cofradía había desaparecido, personas que formaron parte de ella y que habían creado fuertes lazos de amistad siguieron en contacto. Se contaban sus historias y sus desgracias y empezaron a ver que algo estaba cambiando en el Caribe y siempre para mal. Detrás de esos cambios siempre estaba la RCPC y donde aparecía la RCPC siempre pasaban cosas extrañas y terribles.
 
+\sp
+
 Empezaron a circular entre ellos historias de demonios acuáticos, de terribles tormentas que aparecían de la nada, de muertes misteriosas y de un extraño culto que manejaba desde las sombras a la RCPC. Poco a poco vieron como la RCPC se convertía en su mayor enemigo y en el principal causante de los males que asolaban a los habitantes de las islas del Caribe.
 
 En 1708, en la playa de las 7 millas de la isla de Gran Caimán, se reunieron 10 capitanes, antiguos y nuevos asociados de la Cofradía, junto a sus tripulaciones y crearon la Hermandad del Sargazo. El principal objetivo sería destruir a la RCPC y la Orden del Gran Cthulhu y frustrar sus apocalípticos planes.
@@ -253,6 +285,8 @@ La RCPC declaró abiertamente la guerra a la piratería y reforzó su rama milit
 La RCPC tiene órdenes de no capturar prisioneros cuando se enfrenta a piratas. Aunque los informes y las declaraciones a las autoridades digan lo contrario, pasa a todos los tripulantes por la quilla y hunde el barco.
 
 Su mayor éxito fue acabar con la pareja de piratas de Bonny/Rackham, pero a la vez es su mayor fracaso, ya que puso al frente de la casi extinta Hermandad a Mary Read que ha jurado mantenerla viva como sea y acabar con la Orden. Por ahora su principal misión está siendo en conseguir sangre nueva para la Hermandad. Gracias a sus talentos puede que encuentre a las personas que necesita para llevar su misión a buen puerto.
+
+\sp
 
 ### Quiénes están dentro de la hermandad
 
@@ -272,6 +306,8 @@ Como ya hablaremos más adelante, la Hermandad tiene una red pisos francos y cad
 
 Ser de la Hermandad es una obligación más que un privilegio, pero para llevar a cabo las directrices de la Orden ofrece una serie de ventajas.
 
+\sp
+
 #### Derecho de ayuda
 
 Esto es muy simple, cualquier persona que esté en la Hermandad tiene derecho a pedir ayuda a otros integrantes y estos deben hacer lo que sea para ayudarle, incluso pudiendo perder su vida. Aunque no pueda pedir ayuda, se presupone que se debe dársela.
@@ -289,6 +325,8 @@ Ser de la hermandad te permite hacer uso de una red de pisos francos. En toda ci
 Cada piso franco tiene una persona encargada de velar por su seguridad. Diciéndole la contraseña correcta te dará acceso al piso y se encargará de proporcionarte lo que necesites durante tu estancia, que no deberá superar las dos noches. Si tienes heridos graves podrás quedarte hasta que se curen.
 
 El portero puede conseguirte sin problemas comida, medicinas, incluso armas. Para productos especiales como productos químicos o para servicios profesionales como matasanos deberás darle tiempo y dinero. Lo que tienes que tener en cuenta es que lo que te consiga será de total confianza. Si trae un galeno será discreto y totalmente profesional.
+
+\sp
 
 Las instalaciones del piso suelen venir marcadas por la riqueza de la ciudad. Siendo en las más pobres, simples cuchitriles y en las ricas, pisos grandes y cómodos, pero lo que siempre tienen todos es una salida secundaría por la que huir en caso de problemas.
 
@@ -310,6 +348,8 @@ Las obligaciones para con la Hermandad son pocas, pero muy exigentes. La primera
 
 La otra obligación es el Deber de ayuda. Debes prestar ayuda a otros integrantes de la Hermandad siguiendo las directrices del Derecho de Ayuda.
 
+\sp
+
 Por último, en la medida de lo posible se debe ayudar a mantener la red de pisos francos y a conseguir gente que pueda ayudar a la Hermandad.
 
 ### Mary Read
@@ -323,6 +363,8 @@ Su vida pirata empezó cuando el barco en el que viajaba Mary fue atacado y capt
 Durante varios años la formaron en los secretos de la Hermandad y los conocimientos de los Mitos y la entrenaron en lucha con espada y el combate naval. Ella por su cuenta trato de cultivarse en historia, literatura, etc. De hecho, esto le llevo a escribir para la VLH.
 
 En 1722 la Orden del Gran Cthulhu consiguió que el gobernador de Jamaica contratara a John Barnet, un famoso cazapiratas, para que atrapara a Rackham/Bonny. Cosa que consiguió en Nigril en la punta oeste de Jamaica mientras estaban borrachos como cubas. Mary Read consiguió escapar con algunos tripulantes y robo un navío de combate en el puerto de Kingston, lanzándose en solitario a la piratería hasta el día de hoy.
+
+\sp
 
 Tras la muerte de Anne Bonny y Jack Rackham, que lideraron la Hermandad hasta su muerte, Mary Read ocupó su lugar y se le convirtió en la persona más buscada del Caribe. La RCPC ha puesto precio a su cabeza de manera no oficial. Los mercenarios y asesinos a sueldo de todas las Antillas saben que la RCPC paga una fortuna por su cabeza.
 
@@ -371,6 +413,8 @@ Antes de las llegadas de las potencias europeas, los taínos se dividían en cua
 
 El poder del cacique era absoluto y se heredaba. Cada cacique tenía su cacicazgo, su reino, que se dividía en nitaínos, controlado por un noble nitaínos. Cuando llego Colón había 5 grandes cacicazgos en Cuba y 2 en Puerto Rico.
 
+\sp
+
 Sin embargo, el poder de los caciques ha desaparecido en 1722, de forma que los grandes cacicazgos han desaparecido y un cacique solo controla una o dos comunidades en el interior de la selva, lejos de la influencia de los colonizadores.
 
 ### Vida diaria
@@ -391,6 +435,8 @@ Estas viviendas se construyen con hojas de gran tamaño, maderas y corteza de á
 
 La tecnología de los colonizadores ha ido poco a poco entrando en las vidas de los taínos, de forma que podemos ver productos como el hierro forjado o el vidrio soplado. No debemos olvidarnos que en muchos de asentamientos se están creando misiones cristianas construidas con nuevos materiales donde los misioneros enseñan su fe y muchas veces atienden a los enfermos con los avances médicos que han traído de ultramar.
 
+\sp
+
 ### Contacto e interacciones con los colonos europeos
 
 Como hemos dicho anteriormente, los colonizadores europeos fueron a lo largo de los siglos diezmando la población de taínos y arrebatándoles poder. Los pocos taínos que sobreviven son esclavizados menos en el Reino de España que se les considera súbditos del rey.
@@ -403,7 +449,11 @@ En el tema económico, las comunidades tienen un sistema mixto de trueque y mone
 
 Otro punto de contacto entre taínos y los colonizadores son las misiones. Los franciscanos se han dedicado desde hace años a montar misiones en las comunidades taínas que todavía hay en el interior. Estas misiones sirven como iglesias y como hospitales para las comunidades donde se construyen.
 
-No debemos olvidar que los colonos europeos y el tráfico de esclavos introdujo graves enfermedades como la viruela que ayudaron a exterminar la población taína. Y estas epidemias no siempre fueron sucesos desafortunados. La Orden ha jugado a la guerra bacteriológica en el Caribe y la población taína ha sido tanto objetivo como banco de pruebas.
+No debemos olvidar que los colonos europeos y el tráfico de esclavos introdujo graves enfermedades como la viruela que ayudaron a exterminar la población taína. Y estas epidemias no siempre fueron sucesos desafortunados.
+
+\sp
+
+La Orden ha jugado a la guerra bacteriológica en el Caribe y la población taína ha sido tanto objetivo como banco de pruebas.
 
 ### Cultura taína
 
@@ -418,6 +468,8 @@ El ritual de la cohoba era la ceremonia taína más importante. Los caciques y b
 Los behikes de los taínos tallan máscaras usando las conchas de los caracoles pala (Lobatus gigas), unos caracoles marinos de gran tamaño. Estas máscaras representan a los cemíes, las diferentes deidades de su panteón, como Yúcahu (el dios principal del panteón) o Atabey (su madre y representación de la fertilidad y la Luna). Se utilizaban en diferentes rituales y ceremonias y como toda máscara era una forma de invocar a la deidad representada.
 
 Otras representaciones de los cemíes son los llamados trigonolitos. Pequeñas figurillas de forma triangular o con 3 puntas de diversos materiales como hueso, madera, barro o piedra que también representaban a los dioses y eran usados como amuletos de protección o de suerte.
+
+\sp
 
 #### Tatuajes y piercings
 
@@ -434,6 +486,8 @@ Es un importante evento social y puede tener un carácter religioso, ya que en d
 La influencia de los taínos en otras culturas es muy palpable y se ve fácilmente en toda una serie de palabras que usamos en el día a día: canoa, maraca, guano, hamaca, caimán, macuto o maíz.
 
 Sin querer invalidar toda una cultura y reducirla a un único detalle, diremos que hay algo que disfrutamos hoy en día en todo el mundo y que tiene su origen en una actividad del día a día de los taínos: la barbacoa.
+
+\sp
 
 Barbakoa es un vocablo taíno que describe un hoyo en el suelo con brasas dentro que se cubría con una estructura de cañas parecidas a una parrilla donde se asaba o ahumaba la carne y el pescado.
 
@@ -469,6 +523,8 @@ Paradójicamente, también es el más débil al tener mucho más que perder que 
 
 Todo esto obligo a la corona de España a cederle el monopolio del comercio del Caribe a la RCPC. Necesitaba un aliado que le quitará trabajo y le ahorrase recursos. Ya no tiene que proteger tantas rutas comerciales porque el RCPC se protege solo y solo tiene que poner la mano para cobrar las comisiones que firmo al dar el monopolio al RCPC.
 
+\sp
+
 ### La Española y Santo Domingo
 
 La Española fue la primera isla importante que los españoles tomaron y colonizaron. Pero en 1697, con el tratado de Ryswick perdió toda la parte este de la isla.
@@ -486,6 +542,8 @@ Santo Domingo fue la primera ciudad europea en América y durante muchas década
 Posee la más antigua universidad de las Antillas y la única hasta hace unos años que se fundó la Universidad de La Habana. Esto le daba cierto elitismo y poder al controlar única entidad educativa superior. Todas las familias poderosas y ricas debían mandar a Santo Domingo y allí podían influenciar sus jóvenes.
 
 La RCPC ha aprovechado a comprar a precios de saldo todas las empresas que entraban en banca rota de la ciudad y las ha convertido en plantas de procesamiento de materias primas. Eso ha supuesto nuevos puestos de trabajo especializados (los más duros siguen siendo para los esclavos) e ingresos para la ciudad, con lo que todos están contentos. En algunas de las instalaciones tiene laboratorios donde busca nuevos métodos de producción más baratos.
+
+\sp
 
 El problema es que todas esas industrias están al lado de río Ozama y descargan todos sus desperdicios en él. Ahora mismo, los 15 km navegables del río están tan contaminados que casi no hay vida en ellos. Ni los profundos intentan meterse en sus aguas. Los pescadores se están arruinando, ya que no hay pesca, pero encuentran trabajo en las fábricas con lo que a nadie le importa.
 
@@ -505,6 +563,8 @@ Por último, solo 80 kilómetros separan la isla de Cuba de La Española, llamad
 
 En definitiva, Cuba es la joya del Caribe, una joya que todos quieren poseer.
 
+\sp
+
 #### La Habana
 
 Si Cuba es la joya de las Antillas, La Habana es el diamante que lo corona. Es la ciudad entre las ciudades del Caribe. Es la más rica y la más poblada y todo el mundo tarde o temprano acaba pasando por ella y muchos se quedan en busca de fama y fortuna.
@@ -521,6 +581,8 @@ La antigua capital de Cuba perdió su capitalidad frente a La Habana porque las 
 
 Lo que hace singular a Santiago de Cuba es el mestizaje. La ciudad está en el centro geográfico del Caribe. Eso hizo que durante siglos por ella pasarán y pasen gentes de todas las partes de la Antillas. En sus calles viven y trabajan taínos, españoles, ingleses, franceses y esclavos libertos provenientes de África Occidental. Gentes de diferentes orígenes y condiciones conviven más o menos pacíficamente y se mezclan entre sí, dando lugar a una cultura diferente al resto de las Antillas.
 
+\sp
+
 Mientras que en el resto de ciudades las diferencias entre ricos y pobres, entre amos y esclavos y entre europeos, taínos y africanos son muy palpables, en Santiago de Cuba son más difusas. Sigue habiéndolas, pero en ciertos momentos y sitios esas diferencias no existen.
 
 ### La isla de Puerto Rico
@@ -535,7 +597,11 @@ Esto tuvo dos consecuencias directas. La primera es que la riqueza volvió a la 
 
 La otra consecuencia es que la población de Puerto Rico está creciendo de forma exponencial no solo debido a la inmigración, sino también a la alta natalidad. Las familias que llevan generaciones en la isla están prosperando y eso les permite crecer y las recién llegadas se ven con posibilidades de prosperar y también buscan crecer.
 
-A día de hoy se puede decir que la isla está completamente controlada por la RCPC. Controla la economía y con ella la política y como todos ganan dinero tienen a la gente contenta y sumisa. La RCPC hace y deshace lo que quiera en la isla y nadie pregunta nunca nada. Esto ha convertido a la isla en uno de los sitios preferidos para montar instalaciones de dudosa legalidad y cuestionable reputación.
+\sp
+
+A día de hoy se puede decir que la isla está completamente controlada por la RCPC. Controla la economía y con ella la política y como todos ganan dinero tienen a la gente contenta y sumisa.
+
+La RCPC hace y deshace lo que quiera en la isla y nadie pregunta nunca nada. Esto ha convertido a la isla en uno de los sitios preferidos para montar instalaciones de dudosa legalidad y cuestionable reputación.
 
 Lo curioso de todo esto, es que contra todo pronóstico (principalmente de la RCPC), en el Puerto Rico de 1722 está apareciendo un sentimiento de identidad nacional. Los habitantes han dejado de sentirse taínos, españoles o africanos para sentirse puertorriqueño. Todo esto está siendo el germen de un movimiento de independencia del que se habla en los salones y las mansiones, pero también en las tabernas y las calles.
 
@@ -550,6 +616,8 @@ Cada día se establecen en sus viejas casas nuevas familias de colonos a los que
 #### Ponce
 
 Ponce es conocida como la Perla del Sur. Es la principal ciudad de Puerto Rico que da al Caribe, ya que, como hemos visto, la principal ciudad es San Juan. No es una gran ciudad comercial, sino que es una ciudad productora de melaza de azúcar. De sus puertos salen barcos cargados de azúcar hacia Europa.
+
+\sp
 
 Como ya hemos dicho, no es una ciudad comercial con un gran tráfico de barcos, con lo que no está muy fortificada. Tampoco es que haya sufrido grandes ataques de piratas o de ejércitos extranjeros.
 
@@ -577,6 +645,8 @@ Todo esto también ha hecho que en los territorios semiautónomos o autónomos a
 
 Como tantas otras islas de las Antillas Occidentales, Jamaica es una vaca que hay ordeñar como sea. Los ingleses desde su colonización han convertido a Jamaica en el principal productor de azúcar del mundo gracias al trabajo de los esclavos. Las condiciones de las plantaciones son tan brutales que muchos escapan a las montañas y crean comunidades de cimarrones.
 
+\sp
+
 Estas comunidades subsisten en la cordillera central de la isla, combatiendo al ejército inglés en guerrillas y atacando a las plantaciones para liberar a sus iguales, hacer justicias con sus antiguos años y conseguir recursos para sobrevivir.
 
 Cuando una patrulla militar entra en territorio cimarrón, una red de exploradores y vigías avisa a las comunidades cercanas para que se defiendan o para que escapen. Esto está haciendo muy complicado al ejército inglés sofocar el problema de los cimarrones.
@@ -593,7 +663,11 @@ Por otro lado, Jamaica fue y sigue siendo un refugio de piratas y sobre todo de 
 
 Kingston y Port Royal son dos caras de una misma moneda, donde la desgracia y caída de una fue el inicio y la ascensión de la otra. El terremoto que destruyo Port Royal y las siguientes desgracias que cayeron sobre la ciudad, hizo que los ingleses abandonaran Port Royal y tuvieran que establecerse en tierra firme, fundando Kingston y convirtiéndola en su nueva capital.
 
-Lo que nadie sabe es que todo esto ha sido uno de los mayores planes llevado a cabo por la Orden. Port Royal era un puerto seguro para piratas ingleses y franceses que la RCPC debía destruir. No era una simple cala abandonada donde hacer reparaciones y llenar los toneles de agua potable. Era un puerto donde vender sus botines a buen precio, donde reparar y mejorar sus barcos, donde organizarse y planificar golpes y donde reclutar a nuevos marinos que quisieran prosperar como piratas.
+Lo que nadie sabe es que todo esto ha sido uno de los mayores planes llevado a cabo por la Orden. Port Royal era un puerto seguro para piratas ingleses y franceses que la RCPC debía destruir. 
+
+\sp
+
+No era una simple cala abandonada donde hacer reparaciones y llenar los toneles de agua potable. Era un puerto donde vender sus botines a buen precio, donde reparar y mejorar sus barcos, donde organizarse y planificar golpes y donde reclutar a nuevos marinos que quisieran prosperar como piratas.
 
 El terremoto y la decadencia posterior de la ciudad fue un plan magistral ejecutado con precisión quirúrgica por la Orden en la que participaron chthonianos, lloigors y cultistas de gran poder de la Orden durante varios años.
 
@@ -669,7 +743,11 @@ Si bien la cofradía por su propia esencia terminó desapareciendo para 1670. Po
 
 Es hoy en día un refugio pirata que ha resistido a las incursiones inglesas, francesas y principalmente españolas. El norte de la isla es inaccesible con grandes acantilados y fuerte oleaje y el sur ha sido fortificado con los años. Además, una flota pirata descoordinada, pero muy feroz y combativa defiende sus aguas.
 
-Ante la imposibilidad de acabar con este refugio de pirata, las potencias europeas y la RCPC detrás han probado otras estrategias para acabar los piratas de Tortuga. La RCPC lleva meses mandando a establecerse a agricultores en la costa enfrente de Tortuga. Quieren que poco a poco la civilización les rodee, que empiecen a comerciar y conseguir dinero fácilmente y que se relacionen con los hortelanos, que son especialmente religiosos.
+Ante la imposibilidad de acabar con este refugio de pirata, las potencias europeas y la RCPC detrás han probado otras estrategias para acabar los piratas de Tortuga. La RCPC lleva meses mandando a establecerse a agricultores en la costa enfrente de Tortuga.
+
+\sp
+
+Quieren que poco a poco la civilización les rodee, que empiecen a comerciar y conseguir dinero fácilmente y que se relacionen con los hortelanos, que son especialmente religiosos.
 
 La RCPC está gastando un montón de recursos en materiales, dinero y personal para que estas poblaciones campesinas prosperen. Ya empiezan a ver signos de civilización entre las gentes de Tortuga y saben que no en mucho tiempo la isla caerá.
 
@@ -683,7 +761,11 @@ Las actividades de los piratas causaron el caos en el comercio y navegación de 
 
 Si alguien o toda tu mesa ha sido acusado de piratería por los ingleses, podría ir Nasáu y pedir perdón al gobernador, amparándose en la Proclamación para la Supresión de Piratas (también conocida simplemente como Acta de Gracia​). En realidad el indulto acababa en julio de 1719, pero ha habido varias ampliaciones hasta el día de hoy.
 
-A pesar de los esfuerzos del gobernador, las pequeñas islas deshabitadas que rodean Nueva Providencia siguen siendo un buen refugio pirata. Esconden sus barcos en las pequeñas calas de las islas colindantes y van a conseguir provisiones a las poblaciones costeras de Nueva Providencia. También se disfrazan y disfrutan de las diversiones que Nasáu ofrece a los que tengan oro y ganas de gastarlo. En general, es un buen cobijo pirata, sobre todo para aquellos que no hayan atacado a barcos ingleses o a intereses ingleses con los que el gobernador tiene bastante manga ancha.
+A pesar de los esfuerzos del gobernador, las pequeñas islas deshabitadas que rodean Nueva Providencia siguen siendo un buen refugio pirata. Esconden sus barcos en las pequeñas calas de las islas colindantes y van a conseguir provisiones a las poblaciones costeras de Nueva Providencia. 
+
+\sp
+
+También se disfrazan y disfrutan de las diversiones que Nasáu ofrece a los que tengan oro y ganas de gastarlo. En general, es un buen cobijo pirata, sobre todo para aquellos que no hayan atacado a barcos ingleses o a intereses ingleses con los que el gobernador tiene bastante manga ancha.
 
 El autogobierno que ha vivido los habitantes de las Bahamas durante años han hecho que corran por las calles de las poblaciones de las Bahamas los vientos de la independencia y empieza a haber grupos organizados que buscan que las Bahamas se libren de la «tiranía opresora» de Gran Bretaña. En las tabernas y en las tertulias de las mansiones se habla acaloradamente sobre este tema. De hecho, George Phenney, aspirante a gobernador, predica las bondades de unas Bahamas libres de la opresión inglesa.
 
@@ -694,6 +776,8 @@ Aunque los cayos de la Florida pertenecen al reino de España, como otras partes
 Al estar casi deshabitados y a la vez estar bajo el control de España y cerca de grandes colonias como Cuba, lo hace perfecto para que la RCPC lo use como laboratorios. Puede montar un pequeño pueblo de cabañas en un cayo desierto en el que testar durante meses algún invento nuevo o un realizar un ritual de invocación o abrir un portal a las tierras del sueño. Sin embargo, nadie de La Habana lo sabría, aunque solo estén a 100 km de distancia.
 
 Como las Bahamas y otras islas piratas, los cayos son perfectos para esconderse entre sus miles de islas. Sus calas deshabitadas son perfectas para fondear en ellas, sus arrecifes son la mejor protección y sus pequeñas comunidades semi-independientes son perfectas para abastecerse y vender el botín. También son perfectas para enterrar tesoros y corren por todo el Caribe muchas historias de las riquezas que puedes encontrar en los cayos.
+
+\sp
 
 ### Las islas Caimán
 
@@ -713,13 +797,21 @@ Por último, como los cayos de Florida y Bahamas y por su pasado y presente pira
 
 \conc
 
-La trama principal de esta ambientación gira en torno al surgimiento de R’lyeh de entre las aguas y al despertar del gran Cthulhu. El gran enemigo a batir es la Orden del Gran Cthulhu y su mano pública, la RCPC, cuyo objetivo es despertar a su señor Cthulhu. El objetivo de tu mesa es evitar que Cthulhu despierte de su sueño de eones y traiga el apocalipsis al mundo del siglo XVIII.
+La trama principal de esta ambientación gira en torno al surgimiento de R’lyeh de entre las aguas y al despertar del gran Cthulhu. 
+
+El gran enemigo a batir es la Orden del Gran Cthulhu y su mano pública, la RCPC, cuyo objetivo es despertar a su señor Cthulhu. El objetivo de tu mesa es evitar que Cthulhu despierte de su sueño de eones y traiga el apocalipsis al mundo del siglo XVIII.
+
+\sc
 
 ### El gran y poderoso Cthulhu
 
 No creo que hayas llegado hasta esta ambientación rolera sin saber quién es Cthulhu. Pero por si se da el caso, aquí tienes una pequeña descripción del gran y poderoso Cthulhu.
 
-Cthulhu es un primigenio del universo de ficción de H. P. Lovecraft (y sus seguidores), una entidad equiparable a dioses de inmenso poder y generalmente de un tamaño colosal. Cthulhu no es el más poderoso de los primigenios, pero sí el más conocido y adorado por diferentes cultos y sectas, en parte por encontrarse en la Tierra. Tiene aspecto mezcla de dragón y de humanoide con cabeza de pulpo.
+Cthulhu es un primigenio del universo de ficción de H. P. Lovecraft (y sus seguidores), una entidad equiparable a dioses de inmenso poder y generalmente de un tamaño colosal. 
+
+\sp
+
+Cthulhu no es el más poderoso de los primigenios, pero sí el más conocido y adorado por diferentes cultos y sectas, en parte por encontrarse en la Tierra. Tiene aspecto mezcla de dragón y de humanoide con cabeza de pulpo.
 
 Cthulhu reposa dormido/encerrado en la ciudad sumergida de R’lyeh (en alguna parte del Caribe). Espera escapar el día en que «Las estrellas estén de nuevo en posición» con la ayuda de cultos y sectas como la Orden del Gran Cthulhu y así poder volver a extender su poder sobre la Tierra y muy posiblemente desatar la destrucción y el apocalipsis en nuestro planeta.
 
@@ -736,6 +828,8 @@ Una de las características de esta mítica ciudad son sus prodigiosas dimension
 Si bien en los libros de Lovecraft, R’lyeh se encuentra en Pacífico Sur (en la latitud 47° 9’ S, longitud 126° 43' O). Esa es su ubicación a principios del siglo XX. En nuestra ambientación, R’lyeh está al norte de Puerto Rico, en el centro de la Fosa de Puerto Rico. La Fosa de Puerto Rico es una fosa mariana de más 8 kilómetros de profundidad y 1.500 de longitud provocada la colisión de la placa tectónica del Caribe con la de Norteamérica. Dicha fosa es el punto más profundo de todo el océano Atlántico. Que R’lyeh esté sobre una falla tendrá gran importancia para la Orden del Gran Cthulhu.
 
 La fosa de Puerto Rico es un lugar tan inhóspito que ni los profundos lo han explorado. No hay luz y ni hay pesca y aunque soporten la presión supone mucho esfuerzo bucear por sus aguas.
+
+\sp
 
 ### Otros primigenios y seres de los Mitos
 
@@ -765,11 +859,14 @@ En ¡Arrr! Cthulhu los profundos son más complejos que en otros juegos basados 
 
 Los profundos del Caribe se dividen en 3 grandes tribus que tienen diferentes zonas de influencia. Cada tribu controla los territorios dominados por una de las 3 principales corrientes marítimas del Caribe.
 
+
 \sinc
 
 ![](./images/mapa-profundos.webp)
 
 \conc
+
+\sp
 
 * **Throd s'uhn (Corriente del Golfo).** Esta tribu se localiza en la parte norte del Caribe, en las aguas bañadas por la corriente cálida del Golfo. Sería el golfo de México, costa Norte de Cuba y La Española, Florida y sus cayos.
 * **N'gha syha'h (Corriente del Caribe).** Esta tribu se encuentra en las aguas que recorre la corriente del Caribe, que baña la costa sur de Cuba y La Española hasta el llegar al continente sudamericano.
@@ -787,6 +884,8 @@ Si bien estos caciques no tienen mucha influencia en la vida diaria de un profun
 
 Tener el beneplácito de los 3 caciques es conocido con el título del «tridente de Dagón». Supone un increíble poder para su poseedor, ya que pone a tu disposición miles y miles de profundos dispuestos a hacer lo que se les ordene sin ningún tipo de duda o remordimiento y sin ninguna señal de rebeldía o insurrección. Tú ordenas y ellos obedecen hasta la muerte.
 
+\sp
+
 Sería muy fácil, poseyendo el tridente, hacer que las 3 tribus profundas te ayuden a alzar de las aguas la ciudad sumergida de R’lyeh. Solo necesitarías una buena idea para sacarla de las aguas. Luego sería aplicarla con tiempo y usando mano de obra profunda.
 
 ### Sociedad y cultura
@@ -803,9 +902,13 @@ Los asentamientos pueden ir desde pequeños grupos de 3 o 4 familias (unos 20 o 
 
 Los asentamientos profundos suelen tener animales de «compañía» como tortugas marinas o tiburones a los que han domesticado y cuidan cuando enferman. No es extraño que los adornen con piezas de joyería de oro.
 
+\sp
+
 #### Artesanía
 
-Los profundos tienen nociones básicas de artesanía disponiendo de herramientas que estarían, como ya hemos dicho, a nivel del neolítico. Pueden crear armas simples como tridentes o cuchillos y son capaces de tejer tanto redes de pesca como otros tejidos bastos a partir de algas.
+Los profundos tienen nociones básicas de artesanía disponiendo de herramientas que estarían, como ya hemos dicho, a nivel del neolítico.
+
+Pueden crear armas simples como tridentes o cuchillos y son capaces de tejer tanto redes de pesca como otros tejidos bastos a partir de algas.
 
 Si bien la artesanía es bastante básica, van mejorando poco a poco gracias a las técnicas que los híbridos de profundos aprenden de los artesanos humanos antes de ser llamados por el mar. Estos híbridos también aportan conocimientos como la construcción de barcos, que si bien no los aplican para construirlos, sí los aplican para hundirlos.
 
@@ -818,6 +921,8 @@ En general, la relación de los profundos con los humanos se basa en la simple r
 La forma más normal de relación con los humanos es mediante la hibridación, siempre violenta contra las mujeres, aunque pueda estar aceptada socialmente por la comunidad donde se produzca. Los híbridos pueden pasar como humanos, por lo menos durante sus años jóvenes. Si bien son extraños y poco sociables, tampoco quedan tan raros en la mezcolanza de culturas y etnias que hay en el Caribe.
 
 Como ya hemos dicho antes, las relaciones económicas entre profundos son muy básicas. Sin embargo, han aprendido a comerciar con los humanos y saben que el oro es algo muy importante para los habitantes de la superficie. Para ellos no es más que otro material con el que hacer cosas, pero siempre que han querido conseguir algo rápido de los humanos saben que el oro facilita las cosas. También saben que es un buen tributo para los humanos que de alguna manera tienen control sobre ellos.
+
+\sp
 
 Otra forma que tienen de relacionarse con los humanos es a través de la pesca. Suelen seducir a las comunidades costeras favoreciendo su pesca. Hacen que sean prósperas y estas comunidades empiezan a ver a los profundos con mejores ojos, no solo como monstruos marinos sino como fuentes de riqueza. Empiezan entonces a hibridarse con las mujeres de dichas comunidades, prometiendo que sus descendientes serán poderosos e inmortales y que podrán combatir a los poblados vecinos que envidian su prosperidad. Finalmente, con el paso del tiempo, acaban convirtiendo a toda la comunidad en híbridos que poco a poco deja de relacionarse con el mundo exterior.
 
@@ -843,7 +948,7 @@ Por último, como se pueden hibridar con humanos, también podrás usarlos como 
 
 En 1722 la esclavitud y los trabajos forzados son algo real en el Caribe. Normalmente, no es un tema que se tenga en cuenta en las ambientaciones piratas, sobre todo si son muy fantásticas. En ¡Arrr! Cthulhu la esclavitud y los trabajos forzados son una realidad y pueden ser el leitmotiv de alguna aventura o campaña.
 
-Los trabajos forzados y sobre todo la esclavitud son temas muy sensibles que van en contra de los derechos humanos y que no deberías tomarte a la ligera en tus partidas. Sé respetuoso con la memoria de toda las personas que sufrieron bajo el yugo de la esclavitud.
+> Los trabajos forzados y sobre todo la esclavitud son temas muy sensibles que van en contra de los derechos humanos y que no deberías tomarte a la ligera en tus partidas. Sé respetuoso con la memoria de toda las personas que sufrieron bajo el yugo de la esclavitud.
 
 ### Esclavitud
 
@@ -853,19 +958,25 @@ Una importantísima parte de la población del Caribe sufre bajo el yugo de la e
 
 En su mayoría son usados en las grandes plantaciones de azúcar, tabaco, algodón, etc. y en industrias que transforman esas materias primas. Proceden principalmente del oeste de África occidental, pero también puede haber indígenas taínos, aunque son una minoría debido a que su población ha sido masacrada en la mayoría de las islas del Caribe.
 
-Pero las cosas están cambiando y ni los más crueles castigos, ni las matanzas indiscriminadas pueden parar las palabras de esperanza que recorren sus cabañas hablando de un futuro mejor donde serán libres. Las insurrecciones están a la orden del día en todas partes y cuando se sofoca una duramente aparecen otras dos.
+Pero las cosas están cambiando y ni los más crueles castigos, ni las matanzas indiscriminadas pueden parar las palabras de esperanza que recorren sus cabañas hablando de un futuro mejor donde serán libres.
+
+\sp
+
+Las insurrecciones están a la orden del día en todas partes y cuando se sofoca una duramente aparecen otras dos.
 
 Oficialmente, la RCPC ha hecho uso de esclavos, ya que en su ámbito de actuación la esclavitud es legal, pero no se dedica al tráfico de esclavos, de hecho, es de las pocas actividades comerciales en las que no participa. Para la RCPC es importante controlar a sus trabajadores y que sean en cierta medida adeptos a la compañía. Además, la esclavitud está asociada a formas muy concretas de economía como son las plantaciones y las fábricas de transformación de materias primas y la RCPC no se mueve en esos ámbitos. Solo ha comprado vidas humanas para montar y mantener cultivos de extrañas plantas extraplanares en plantaciones ocultas en mitad de pantanos, para extraer metales raros en peligrosas minas o canteras o excavando ruinas malditas perdidas en lo más profundo de la jungla.
 
 Al contrario de con los presos, en los sacrificios con humanos de la Orden no se suelen usar esclavos. Tristemente, para la Orden los esclavos son un recurso que ha costado dinero, que ha de recuperarse y que después hay que sacarle provecho y beneficio. Además, sus descendientes también son de su propiedad, con lo que son un recurso que genera más recurso. Usarlos en sacrificios solo es algo reservado a los esclavos huidos o más rebeldes.
 
-La esclavitud es una lacra social que solo deberían practicar tus villanos que por algo son malvados. No permitas que tu mesa trafique con personas y se lucre con ello. Tu mesa debería tratar de acabar con el tráfico de esclavos, no fomentarlo. Y sinceramente, si lo fomentan, como DJ, te diré que ahí no es.
+> La esclavitud es una lacra social que solo deberían practicar tus villanos que por algo son malvados. No permitas que tu mesa trafique con personas y se lucre con ello. Tu mesa debería tratar de acabar con el tráfico de esclavos, no fomentarlo. Y sinceramente, si lo fomentan, como DJ, te diré que ahí no es.
 
-Si alguien de tu mesa quiere jugar con un esclavo, un cimarrón o una persona racializada, hablad antes de los límites que queréis establecer y fijad que ventajas y desventajas va a tener esa parte trasfondo del personaje.
+> Si alguien de tu mesa quiere jugar con un esclavo, un cimarrón o una persona racializada, hablad antes de los límites que queréis establecer y fijad que ventajas y desventajas va a tener esa parte trasfondo del personaje.
 
 ### Trabajos forzados
 
 Durante el siglo XVIII los trabajos forzados son una pena bastante normal en el Caribe. A diferencia de siglos anteriores, ya no es una condena a muerte encubierta como las minas de azufre. De hecho, remar en las galeras como trabajo forzado, que también eran una sentencia de muerte, desaparece poco a poco según entran en desuso las galeras.
+
+\sp
 
 En 1722 el trabajo forzado se centra principalmente en realizar obras públicas en lugares peligrosos como el interior de la selva o en manglares y los peores y más peligrosos trabajos en astilleros militares y arsenales.
 
@@ -882,6 +993,8 @@ Claramente, el principal agente que hace uso de trabajo forzado es la RCPC. Las 
 * **Son fácilmente sustituibles.** La RCPC tiene capacidad de legal de detener a personas libres, sobre todo acusándolas de contrabando y piratería. Eso le da capacidad si soborna a jueces o están dentro de la Orden para conseguir presos fácilmente. Si fuera necesario, también puede deshacerse de ellos fácilmente, simulando un ataque de piratas o ejércitos enemigos.
 
 Callado está dicho que muchos de los sacrificios humanos que necesita la Orden en sus rituales pueden provenir de los presos condenados a trabajos forzados.
+
+\sp
 
 ### Cimarrones
 
@@ -910,6 +1023,8 @@ Como en tantas religiones, el poder político del dirigente se sustenta en el po
 ### Cultos de origen africano
 
 El tráfico de esclavos desde el África occidental supuso la expansión de sus tradiciones religiosas por el Caribe. Muchas de estas tradiciones se mezclaron entre sí generando nuevas creencias religiosas. Todas estas nuevas creencias se mezclaron, muchas veces obligados, con el cristianismo.
+
+\sp
 
 Así es como se crearon creencias religiosas como el Vudú con sus loas o la Santería cubana con sus orishas a partir de creencias como la religión de los Yorubas o los Kongo.
 
@@ -944,6 +1059,8 @@ Las historias de los Mitos y el profesorado de las universidades es algo muy tí
 ### Archivos y bibliotecas
 
 En temas de bibliotecas, sin tener acceso a colecciones privadas, las mejores opciones son las bibliotecas de las universidades. Por otro lado, el comercio desde el Caribe a toda Europa y América es fluido y constante y con el dinero y los contactos adecuados puedes ponerte en contacto con las mejores bibliotecas del mundo y pedir información específica sobre pasajes y páginas de tomos de gran valor que guardan en sus estanterías.
+
+\sp
 
 Pero desde luego, en temas de Mitos, la biblioteca más extensa y completa sería la colección privada de Isadora de la Guía y Arango. Si le caes bien y pareces de fiar te la permitirá ver y consultar. Podrás comprarle y venderle libros relacionados con los Mitos y saber su experta opinión sobre los tomos que buscas o necesitas consultar.
 

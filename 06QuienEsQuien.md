@@ -400,7 +400,7 @@ Ahora mismo se está dedicando en su tiempo libre a aprender de los artesanos lo
 
 **Sugerencia de interpretación:** Eres muy retraída, casi no te comunicas y si lo haces es en monosílabos. Solo escuchas, susurras un trato justo sin regatear y si lo aceptan, entras en la trastienda y te pones a trabajar. En la trastienda todo cambia. Lo que no hablas con los humanos, lo hablas con las máquinas. Cotilleas, sueltas chistes, bromeas y les cuentas tus penas.
 
-_**Sugerencia de beni:** Si alguien apoya económicamente a Ifá para que pueda acceder a educación superior puedes darle 1 beni. Si le traen manuales de ciencia y tecnología también podrían ganar 1 beni._
+> _**Sugerencia de beni:** Si alguien apoya económicamente a Ifá para que pueda acceder a educación superior puedes darle 1 beni. Si le traen manuales de ciencia y tecnología también podrían ganar 1 beni._
 
 _**Recompensa extra de cordura (+1):** Si alguien decide becar a Ifá posibilitándole tener unos estudios universitarios, recompénsale con un punto de cordura. Alguien con un valor alto en Ciencias puede llevársela de aprendiza. Si se preocupa por su educación y su seguridad, también puedes otórgale un punto de cordura, además, de obtener una valiosa Aliada. Otras soluciones interesantes pueden ser convencer a Isadora de la Guía para que lo tenga de ayudante en su librería. A Isadora le ayudaría con sus problemas mentales e Ifá tendría una fuente inagotable de conocimientos entre las estanterías de libros. No debéis olvidar que sigue siendo una esclava cosa que complicará todo lo anterior._
 

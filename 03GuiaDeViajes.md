@@ -150,7 +150,7 @@ Los Santos eran una familia muy creyente que cuando entraron en contacto con los
 
 Los Santos saben todo lo que se puede saber sobre los profundos del Caribe. Aunque huraños son muy religiosos y una persona que muestre su fe cristiana podría acercárseles y sacarles información útil sobre los profundos.
 
-**El ostracismo o «Ymg' yog ah»** es una antigua ley de los profundos reservada a las tribus que hayan hecho actos terribles contra otros profundos o hayan ofendido al Gran Cthulhu. Cualquier profundo que sea excluido no podrá salir de un pequeño territorio que se les asignará. Ningún profundo tendrá tratos con ellos y si se los encuentran fuera de su territorio los deben matar. Solo un gran cacique puede declarar la exclusión, pero nadie puede quitarla, es para siempre. Teniendo en cuenta que los profundos son inmortales es una pena muy dura.
+> **El ostracismo o «Ymg' yog ah»** es una antigua ley de los profundos reservada a las tribus que hayan hecho actos terribles contra otros profundos o hayan ofendido al Gran Cthulhu. Cualquier profundo que sea excluido no podrá salir de un pequeño territorio que se les asignará. Ningún profundo tendrá tratos con ellos y si se los encuentran fuera de su territorio los deben matar. Solo un gran cacique puede declarar la exclusión, pero nadie puede quitarla, es para siempre. Teniendo en cuenta que los profundos son inmortales es una pena muy dura.
 
 #### El infierno
 
@@ -692,7 +692,7 @@ Mucha gente ha intentado conseguir la receta del gumbo, pero Mamá se ha negado 
 
 La terrible verdad del gumbo es que el primer gumbo lo hizo con carne humana. Mamá Larisa mató al marido maltratador de unas de sus hijas mientras dormía la mona y se deshizo del cadáver en el gumbo (como en Tomates verdes fritos). Lo que empezó como una estratagema para evadir la cárcel, se convirtió en algo que lleva salvando vidas desde hace 15 años.
 
-_**Sugerencia de beni:** Recompensa con un par de benis a cualquiera que deje comestibles para el gumbo eterno como carne ahumada, limones, pescado seco, especias, sal, etc._
+> _**Sugerencia de beni:** Recompensa con un par de benis a cualquiera que deje comestibles para el gumbo eterno como carne ahumada, limones, pescado seco, especias, sal, etc._
 
 ### Fèt Gede
 
@@ -958,7 +958,7 @@ Avery es un fantástico estratega, lo cual explica su gran éxito como pirata. S
 
 En juego, tiene Tácticas d12+2 y si le presentas un plan puede tirar sus Tácticas. Por cada avance que consiga tu mesa puede hacerte una pregunta sobre su plan y deberás contestarles con la verdad, pero sin ofrecer más información de la que tengan. Serían preguntas como: ¿Cuál es el principal fallo de mi plan? ¿Debo hacerlo de noche o de día? …
 
-_**Sugerencia de beni:** Recompensa con un par de benis al que averigüe quién es el viejo pirata de Nasáu. Y con alguno más si no se lo cuenta a nadie._
+> _**Sugerencia de beni:** Recompensa con un par de benis al que averigüe quién es el viejo pirata de Nasáu. Y con alguno más si no se lo cuenta a nadie._
 
 ### Otros lugares de las Bahamas
 

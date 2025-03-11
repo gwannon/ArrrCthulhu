@@ -1757,7 +1757,7 @@ Adolfé no entiende nada, elle solo quiere llevarse bien con todo el mundo y pin
 
 Con toda la información recogida, tu mesa puede decidir si ayuda a Adolfé a le abandona a su suerte.
 
-_**Sugerencia de beni:** Si tu grupo puede ver más allá de la piel escamosa de Adolfé y que a pesar de ser serpigente es una buena persona que solo quiere vivir tranquilamente en su estudio pintando sus óleos, recompénsales con benis. Los van a necesitar en el juicio y en lo que vendrá después._
+> _**Sugerencia de beni:** Si tu grupo puede ver más allá de la piel escamosa de Adolfé y que a pesar de ser serpigente es una buena persona que solo quiere vivir tranquilamente en su estudio pintando sus óleos, recompénsales con benis. Los van a necesitar en el juicio y en lo que vendrá después._
 
 #### El juicio de Adolfé
 
@@ -1833,7 +1833,7 @@ Mientras les explica sus estudios o negocia la compra de los huesos que traigan,
 
 El viaje por la selva puede durar media semana ida y medía semana de vuelta y espera estar como mucho una semana estudiando el yacimiento arqueológico de donde sacaron los restos. Les ofrecerá 200 doblones por el trabajo a cada integrante de tu mesa y lo que para él es lo más importante que es aparecer nombrado como ayudantes en los estudios y libros que publique sobre el esqueleto que ha encontrado.
 
-_**Sugerencia de beni:** Jansen, como europeo blanco, se está atribuyendo haber encontrado el exoesqueleto, lo que es mentira, ya que solo lo compró. Si consiguen que reconozca que no lo encontró y que meta a Nigua como un ayudante de la investigación y descubridor de los restos óseos en las anotaciones del estudio, dales un beni a tus héroes._
+> _**Sugerencia de beni:** Jansen, como europeo blanco, se está atribuyendo haber encontrado el exoesqueleto, lo que es mentira, ya que solo lo compró. Si consiguen que reconozca que no lo encontró y que meta a Nigua como un ayudante de la investigación y descubridor de los restos óseos en las anotaciones del estudio, dales un beni a tus héroes._
 
 #### El esqueleto
 
