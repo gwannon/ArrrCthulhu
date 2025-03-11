@@ -36,9 +36,9 @@
 
 ### Ambientación para SWEA
 
-# ¡Arrr! Cthulhu
+## ¡Arrr! Cthulhu
 
-## Creado por [|AUTHOR|](|AUTHOR_URL|)
+### Creado por [|AUTHOR|](|AUTHOR_URL|)
 
 ¡Arrr! Cthulhu es una ambientación para el juego del rol Savage Worlds Edición Aventura (SWEA) con el que podrás jugar aventuras de piratas en el Caribe de los Mitos de Cthulhu.
 
