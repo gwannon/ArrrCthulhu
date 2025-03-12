@@ -953,204 +953,149 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 |Barrera|10|Invocar los apéndices de Dygra|El invocador lanza unas piedras cristalinas (cuarzos, peridotos, amatistas, …) para invocar a la Piedra-Cosa Dygra. Sus tentáculos minerales de Dygra salen de suelo formando una barrera cristalina.|
 |Cambio de forma|No permitido|&nbsp;|&nbsp;|
 |Captura|11|Aferrar|El taumaturgo dirige su mano hacia su objetivo y hace como que lo agarra.|
-
-12
-
-Invocar avatar de Atlach-Nacha
-
-El hechicero invoca al Dios-araña Atlach-Nacha que captura a su objetivo con su tela de araña.
-
-Castigo
-
-13
-
-Bendecir arma
-
-El brujo toca el arma y la bendice en nombre de una divinidad tomando un brillo especial.
-
-14
-
-Emponzoñar arma
-
-El hechicero escupe sobre el arma emponzoñándola y esta se cubre de óxido, moho y suciedad.
-
+|Captura|12|Invocar avatar de Atlach-Nacha|El hechicero invoca al Dios-araña Atlach-Nacha que captura a su objetivo con su tela de araña.|
+|Castigo|13|Bendecir arma|El brujo toca el arma y la bendice en nombre de una divinidad tomando un brillo especial.|
+|Castigo|14|Emponzoñar arma|El hechicero escupe sobre el arma emponzoñándola y esta se cubre de óxido, moho y suciedad.|
 |Cavar|No permitido|&nbsp;|&nbsp;|
-
-Ceguera
-
-15
-
-Nublar la vista
-
-El mago sopla un polvo especial a su objetivo que nubla su vista.
-
-16
-
-Ajar ojos
-
-El hechicero señala a los ojos del objetivo y estos se secan y marchitan hasta que se caen de sus cuencas.
-
+|Ceguera|15|Nublar la vista|El mago sopla un polvo especial a su objetivo que nubla su vista.|
+|Ceguera|16|Ajar ojos|El hechicero señala a los ojos del objetivo y estos se secan y marchitan hasta que se caen de sus cuencas.|
 |Chorro|No permitido|&nbsp;|&nbsp;|
-
-Confusión
-
-17
-
-Verdadero nombre de Hastur
-
-El brujo pronuncia parte el auténtico nombre de Hastur y la víctima es aturdida al enfrentarse a lo incognoscible.
-
-18
-
-Náuseas
-
-El mago empieza a girar sobre sí mismo e induce náuseas y vómitos a su objetivo.
-
-Conmoción
-
-19
-
-Luces hipnóticas
-
-El lanzador del hechizo proyecta una serie de luces con un patrón hipnótico que deja conmocionada a la víctima.
-
-20
-
-Estruendo
-
-El grito de taumaturgo crea tal estruendo que conmociona a su objetivo.
+|Confusión|17|Verdadero nombre de Hastur|El brujo pronuncia parte el auténtico nombre de Hastur y la víctima es aturdida al enfrentarse a lo incognoscible.|
+|Confusión|18|Náuseas|El mago empieza a girar sobre sí mismo e induce náuseas y vómitos a su objetivo.|
+|Conmoción|19|Luces hipnóticas|El lanzador del hechizo proyecta una serie de luces con un patrón hipnótico que deja conmocionada a la víctima.|
+|Conmoción|20|Estruendo|El grito de taumaturgo crea tal estruendo que conmociona a su objetivo.|
+|Conmoción
 
 21
 
 Rotura temporal
 
-El hechicero lanza a su objetivo fuera de la línea de tiempo durante una fracción de segundo. El shock de producido por la rotura temporal puede dejar conmocionado al objetivo.
-
-Curación
+El hechicero lanza a su objetivo fuera de la línea de tiempo durante una fracción de segundo. El shock de producido por la rotura temporal puede dejar conmocionado al objetivo.|
+|Curación
 
 22
 
 Canto de Babalú Ayé
 
-El brujo yoruba entona la canción de Babalú Aye, orisha de la salud y las enfermedades, para acelerar la curación del herido.
+El brujo yoruba entona la canción de Babalú Aye, orisha de la salud y las enfermedades, para acelerar la curación del herido.|
+|Curación
 
 23
 
 Poder de Imhotep, Imposición de manos de Imhotep
 
-Haciendo una imposición de manos al herido, el sanador invoca a Imhotep, el dios egipcio de la medicina.
-
-Destierro
+Haciendo una imposición de manos al herido, el sanador invoca a Imhotep, el dios egipcio de la medicina.|
+|Destierro
 
 24
 
 Expulsar ente
 
-El practicante de magia invoca el auténtico nombre de la criatura de más allá del tiempo y el espacio para expulsarla de este mundo.
+El practicante de magia invoca el auténtico nombre de la criatura de más allá del tiempo y el espacio para expulsarla de este mundo.|
+|Destierro
 
 25
 
 Exorcizar
 
-Invocando el poder de una entidad poderosa de los Mitos, el exorcista puede devolver al demonio/fantasma/entidad a su dimensión de origen.
-
-Desvío
+Invocando el poder de una entidad poderosa de los Mitos, el exorcista puede devolver al demonio/fantasma/entidad a su dimensión de origen.|
+|Desvío
 
 26
 
 Vibración dimensional
 
-El hechicero empieza a mover rápidamente manos y cabeza y empieza a vibrar entre dimensiones. Esto hace más difícil que sea golpeado al no estar total o parcialmente en la dimensión del atacante.
+El hechicero empieza a mover rápidamente manos y cabeza y empieza a vibrar entre dimensiones. Esto hace más difícil que sea golpeado al no estar total o parcialmente en la dimensión del atacante.|
+|Desvío
 
 27
 
 Vibración temporal
 
-El hechicero se queda totalmente inmóvil y empieza a vibrar atrás y adelante en el tiempo. Esto hace más difícil que sea golpeado al no estar total o parcialmente en la misma corriente temporal del atacante.
-
-Detección  
-Ocultamiento  
-arcano
+El hechicero se queda totalmente inmóvil y empieza a vibrar atrás y adelante en el tiempo. Esto hace más difícil que sea golpeado al no estar total o parcialmente en la misma corriente temporal del atacante.|
+|Detección arcana
 
 28
 
 Varita de zahorí, Radiestesia
 
-Usando una ramita de árbol, el zahorí puede detectar objetos mágicos, portales, seres sobrenaturales, …
+Usando una ramita de árbol, el zahorí puede detectar objetos mágicos, portales, seres sobrenaturales, …|
+|Detección arcana
 
 29
 
 Péndulo de cuarzo
 
-El buscador saca un péndulo con una piedra de cuarzo o cristal. El movimiento del péndulo indica la dirección y la distancia de lo que se busca.
+El buscador saca un péndulo con una piedra de cuarzo o cristal. El movimiento del péndulo indica la dirección y la distancia de lo que se busca.|
+|Ocultamiento arcano
 
 30
 
 Círculo de ocultación
 
-El conjurador crea un círculo alrededor de lo que desea ocultar con sal, arena, agua, etc. en general elementos o productos muy básicos.
+El conjurador crea un círculo alrededor de lo que desea ocultar con sal, arena, agua, etc. en general elementos o productos muy básicos.|
+|Ocultamiento arcano 
 
 31
 
 Perdido en el tiempo
 
-El mago crea una zona de disrupción temporal en la zona donde está lo que quiere ocultar. El objetivo a ocultar está en el lugar donde debe estar, pero temporalmente no está allí.
-
-Disfraz
+El mago crea una zona de disrupción temporal en la zona donde está lo que quiere ocultar. El objetivo a ocultar está en el lugar donde debe estar, pero temporalmente no está allí.|
+|Disfraz
 
 32
 
 Robar la piel
 
-El brujo (normalmente serpigente) roba literalmente la piel de aquel del que quiere disfrazarse.
+El brujo (normalmente serpigente) roba literalmente la piel de aquel del que quiere disfrazarse.|
+|Disfraz
 
 33
 
 Moldear apariencia
 
-El mago moldea su carne y huesos como si fueran barro hasta ser exactamente igual que su objetivo.
-
-Disipación
+El mago moldea su carne y huesos como si fueran barro hasta ser exactamente igual que su objetivo.|
+|Disipación
 
 34
 
 Poder de Nodens
 
-El brujo invoca el poder de Nodens levantando sus brazos y gritando uno de sus muchos nombres para disipar un efecto mágico. A veces el invocador puede ver al propio Nodens en su carro volador por el rabillo del ojo.
+El brujo invoca el poder de Nodens levantando sus brazos y gritando uno de sus muchos nombres para disipar un efecto mágico. A veces el invocador puede ver al propio Nodens en su carro volador por el rabillo del ojo.|
+|Disipación
 
 35
 
 Anti magia
 
-El mago usa su poder para negar la magia de su objetivo, repitiendo los pases y las palabras mágicas al revés.
-
-Drenaje de  
-puntos de poder
+El mago usa su poder para negar la magia de su objetivo, repitiendo los pases y las palabras mágicas al revés.|
+|Drenaje de puntos de poder
 
 36
 
 Rayo vampírico, Rayo nigromántico
 
-El hechicero lanza un rayo escarlata que drena la esencia vital del objetivo.
+El hechicero lanza un rayo escarlata que drena la esencia vital del objetivo.|
+|Drenaje de puntos de poder
 
 37
 
 Invocar vampiro estelar
 
-El hechicero invoca este ser extradimensional que drena la vida al objetivo y se lo entrega a su amo invocador.
-
+El hechicero invoca este ser extradimensional que drena la vida al objetivo y se lo entrega a su amo invocador.|
 |Empatía|No permitido|&nbsp;|&nbsp;|
 |Empujón|No permitido|&nbsp;|&nbsp;|
 |Explosión|No permitido|&nbsp;|&nbsp;|
 |Gigantismo Enanismo|No permitido|&nbsp;|&nbsp;|
-
-Ilusión
+|Ilusión
 
 38
 
 Sombras ilusorias
 
-El brujo empieza a manipular la forma de las sombras hasta que parecen objetos reales.
+El brujo empieza a manipular la forma de las sombras hasta que parecen objetos reales.|
+
+Ilusión
 
 39
 
@@ -1423,7 +1368,7 @@ El hechicero agita una pequeña campanilla de plata sin badajo y todo el sonido 
 
 Invocar a Alala
 
-Al invocar mediante una plegaria a Alala, heraldo de S'glhuo, este ser hecho de sonido vivo muestra su poder absorbiendo todo el ruido de la zona.
+Al invocar mediante una plegaria a Alala, heraldo de S’glhuo, este ser hecho de sonido vivo muestra su poder absorbiendo todo el ruido de la zona.
 
 77
 
@@ -1433,9 +1378,9 @@ Xirdneth, el hacedor de ilusiones, enseña a sus fieles a crear sonidos e imitar
 
 78
 
-Ecos pervertidos de Xa'ligha
+Ecos pervertidos de Xa’ligha
 
-Xa'ligha, el demonio del sonido retorcido, permite a sus creyentes dar forma al ruido producido por carracas, maracas, baquetas y demás instrumentos de percusión simples y crear sonidos, ruidos y voces.
+Xa’ligha, el demonio del sonido retorcido, permite a sus creyentes dar forma al ruido producido por carracas, maracas, baquetas y demás instrumentos de percusión simples y crear sonidos, ruidos y voces.
 
 Sueño
 
@@ -1598,7 +1543,7 @@ Esta modificación solo se puede usar con: Aura dañina, Barrera, Ceguera, Drena
 
 Esta modificación permite hacer permanente cierto hechizo. En principio no debería poder aplicarse a cualquier hechizo, sobre todo si son hechizos de mejora personal como Desvío o Protección. Deberían ser hechizos que afecten a objetos o zonas. Pero todo esto queda a discreción del DJ. Por regla general solo los poderes con duración mayor de Instantáneo debería poder hacer permanente. Mi recomendación es que solo los siguientes hechizos se deben poder hacer permanentes: Barrera, Castigo, Destierro, Ocultamiento arcano, Ilusión, Luz/Oscuridad, Silencio. Las manipulaciones elementales podrían usarse, por ejemplo, para crear unas llamas eternas que nuca se apaguen o una fuente de la que mane agua potable. Usar Castigo en un arma y hacerlo permanente podría crear un arma mágica.
 
-Hacer un hechizo permanente exige el sacrificio del 20% del coste de lanzar el hechizo en PM permanentes redondeando hacia arriba (mínimo 1 PP). Si lanzar un ocultación arcana, nos cuesta 8 puntos de magia, para hacerlo permanente deberá sacrificar 2 PM (20% de 8 es 1,6 redondeando hacia arriba 2 PM). Además, el tiempo de preparación y de realización del hechizo, de forma que se necesita un día por PP que se vaya a gastar. No se podrán sacrificar más puntos de PP que tu Espíritu.
+Hacer un hechizo permanente exige el sacrificio del 20% del coste de lanzar el hechizo en PM permanentes redondeando hacia arriba (mínimo 1 PP). Si lanzar un «Ocultación arcana», nos cuesta 8 puntos de magia, para hacerlo permanente deberá sacrificar 2 PM (20% de 8 es 1,6 redondeando hacia arriba 2 PM). Además, el tiempo de preparación y de realización del hechizo, de forma que se necesita un día por PP que se vaya a gastar. No se podrán sacrificar más puntos de PP que tu Espíritu.
 
 **Deshacer hechizos permanentes:** El taumaturgo que lanzo el hechizo de forma permanente podrá siempre que quiera deshacer el hechizo permanente con las siguientes reglas. Debe estar en contacto con el objeto o en el lugar si es una área; deberá gastar en deshacerlo un minuto por PP sacrificado; deberá gastar la mitad de los PM que gasto al lanzarlo. El hechizo permanente desaparecerá y la persona que lanzo de hechizo recuperará un PP sacrificado por semana.
 
@@ -1703,7 +1648,7 @@ Los rituales menores normalmente se enseñan oralmente y no suelen estar escrito
 |17|Trigonolito de Atabey|
 |18|Astillas en la planta de los pies|
 |19|Queimada|
-|20|Sanación Obeah|
+|20|Sanación obeah|
 
 **Adivinación con mandiocas:** Antes de acostarse debemos meter en un saco 3 mandiocas (también conocidas como yucas), una pelada, una medio pelada y otra con piel. A la mañana siguiente debemos pensar una pregunta de sí o no y meter la mano en el saco y coger la primera yuca que se toque. Si sacamos la pelada es sí, si se saca la yuca sin pelar será no y si se saca la medio pelada es un «quizás». La pregunta debe ser bastante genérica y sobre cosas del futuro como si tendré buena pesca o cosecha o si llegaré a mi destino.  
 Si se falla la tirada del ritual siempre saldrá la yuca medio pelada. Si se pasa la tirada, el DJ deberá responderle a la pregunta lo más acertadamente posible. El DJ debería hacer lo posible porque se cumpla la profecía, por ejemplo, falseando la tirada de encuentros en el Mar. Has de tener en cuenta que si le dices que sí tendrá una buena cosecha y no planta las semillas, pues terminará siendo un no por mucho que la mandioca pelada diga que sí.  
@@ -1743,7 +1688,7 @@ El aguardiente puede ser cualquier alcohol destilado, por ejemplo el ron.
 **Ritual de buena suerte:** Hay montones de rituales de buena, desde meter un trébol de cuatro hojas en tu zapato hasta dejar una copa de bebida para los espíritus, pasando por llevar ropa de color rojo o comer uvas con las campanadas. Cuando se aprende el ritual se debe especificar el ritual que se va a seguir.  
 Una vez por sesión solo una persona de tu mesa podrá intentar este ritual de buena suerte y si se consigue se crea un beni comunitario que podrá ser usado por los jugadores como quieran, incluso en tiradas de PNJ. El beni dura hasta el final de la sesión.
 
-**Sanación Obeah:** El obeah es toda una mezcla de religiones de África Occidental que se caracteriza por tener muchos y variados rituales de sanación, desde cuidados de las parturientas hasta tratamiento de heridas graves y epidemias. El practicante de esta fe sabe realizar una serie de prácticas que pueden parecer mágicas, pero en la mayoría de los casos son buenas prácticas médicas como limpiar y desinfectar heridas o bebedizos de plantas para provocar abortos.  
+**Sanación obeah:** El obeah es toda una mezcla de religiones de África Occidental que se caracteriza por tener muchos y variados rituales de sanación, desde cuidados de las parturientas hasta tratamiento de heridas graves y epidemias. El practicante de esta fe sabe realizar una serie de prácticas que pueden parecer mágicas, pero en la mayoría de los casos son buenas prácticas médicas como limpiar y desinfectar heridas o bebedizos de plantas para provocar abortos.  
 Este ritual puede cogerse varias veces tratando diferentes tipos de prácticas médicas (traumatismos, epidemias, obstetricia, neumología, …) Pasando la tirada de Espíritu podrás otorgar un +1 extra a las tiradas de recuperación de tu paciente si sufre alguna dolencia relacionada con tus conocimientos de sanación obeah.
 
 **Silbar al viento:** En momentos de calma chica en el mar, el más joven del barco debe silbar (cosa prohibida en los barcos) para atraer el viento. Otra opción es que toda la tripulación, incluso capitanes y oficiales, cuelguen su ropa interior en las velas. Con este ritual podemos cambiar una «Calma chicha» por un «Tiempo perfecto».
@@ -2109,7 +2054,7 @@ El botín no puede venderse en cualquier sitio, solo en puertos piratas que son 
 
 El precio del barril de botín será 3 veces el precio de venta más alto que se dé en el puerto por carga y un tercio de la capacidad menor. Es decir, que si puedes vender materias primas por 15 barriles a 100 doblones por barril y 30 barriles de productos manufacturados por 120, el precio del barril será de 360 doblones (120 doblones x 3) y la capacidad de carga será de 5 barriles (15 barriles / 3).
 
-NOTA: Si a tu mesa le encanta todo este mini juego de comercio, disfrutadlo. Si no es vuestro rollo, simplemente hazles una tirada de tesoro d6 (solo tiradas en la tabla de Riquezas) y ese es el dinero que han sacado de beneficio con el comercio entre islas del Caribe. Para poder hacer la tirada han tenido que poder comprar y cargar mercancía en el puerto de origen, es decir que si el puerto era pequeño o la ciudad estaba saqueada solo podrán tirar un d4. Si han tenido que salir pitando no podrán hacer la tirada porque tienen la bodega vacía.
+NOTA: Si a tu mesa le encanta todo este minijuego de comercio, disfrutadlo. Si no es vuestro rollo, simplemente hazles una tirada de tesoro d6 (solo tiradas en la tabla de Riquezas) y ese es el dinero que han sacado de beneficio con el comercio entre islas del Caribe. Para poder hacer la tirada han tenido que poder comprar y cargar mercancía en el puerto de origen, es decir que si el puerto era pequeño o la ciudad estaba saqueada solo podrán tirar un d4. Si han tenido que salir pitando no podrán hacer la tirada porque tienen la bodega vacía.
 
 \sp
 
@@ -2136,8 +2081,6 @@ Si se consigue:
 * 3 éxitos suponen, 3 tiradas en la tabla de riquezas, 1 en la de riqueza más 1 en la de objetos extraordinarios o solo 1 en la tabla más allá del tiempo y el espacio.
 
 Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan tirada de botín que deberemos usar como si fuera la tirada de pérdida de cordura, salvo que en esos casos no se podrán usar éxitos en la tabla de más allá del tiempo y el espacio.
-
-\sp
 
 ### Riquezas
 
@@ -2305,7 +2248,7 @@ Si se quiere reparar algo de mayor tamaño, el director de juego podrá establec
 
 **Cabeza gigante olmeca:** La cultura olmeca se desarrolló en el sur de México entre el 3000 y el 400 a. C. De este pueblo nos han quedado unas enigmáticas cabezas colosales de piedra, exactamente alabastro. No se sabe ciertamente si representan a deidades o a personas importantes e influyentes. Cómo ha llegado a donde ha llegado (recuerda que es del continente) y para qué lo querían debería ser un misterio y cómo se lo van a llevar tus jugadores también debería serlo, ya que miden entre 2 y 3 metros de altura y pueden pesar entre 5 y 20 toneladas. Disfruta de cómo se las ingenian para llevársela a la civilización y cómo, después del esfuerzo, se dan cuenta de que nadie da un doblón de oro por ella y de qué no sirve de nada en rituales y otros temas mágicos.
 
-**Campana de buceo de cristal:** Esta campana de metal y cristal permite que hasta dos personas bajen al fondo marino, mientras otra opera una bomba de aire. La campana tiene unos brazos mecánicos que permiten operar en el fondo marino. La campana se puede desplazar muy lentamente y debido a su tamaño (+2) no podrá entrar en sitios pequeños.
+**Campana de buceo de cristal:** Esta campana de metal y cristal permite que hasta dos personas bajen al fondo marino, mientras otra maneja una bomba de aire. La campana tiene unos brazos mecánicos que permiten operar en el fondo marino. La campana se puede desplazar muy lentamente y debido a su tamaño (+2) no podrá entrar en sitios pequeños.
 
 **Cepo para horrores:** Este cepo es una versión gigantesca de los cepos de caza. Mide un metro y medio de radio y pesa unos 200 kilos. Está preparado para atrapar animales de inmenso tamaño e incluso de horrores de los Mitos, siempre que sean tangibles.  
 Tiene 4 anclajes al suelo y un potente muelle que cierra el cepo. Para poder escapar hay que superar una tirada enfrentada de Fue contra 1d12 + 3. Debido a su tamaño es difícil de esconder. La dificultad para detectarlo es la tirada de Supervivencia -2 que hizo el trampero.  
@@ -2319,7 +2262,7 @@ Al saltar hace daño con una FUE 1d12 + 3 y corta directamente por la mitad a cu
 
 **Estatua romana de mármol:** Es una estatua de mármol de algún personaje de la antigua Roma de cintura para arriba (busto más torso). Pero es tan raro y están tan fuera de lugar que los jugadores se tirarán horas intentando averiguar para qué sirve o cómo funciona. Si quieres divertirte puedes sugerir que se parece a algún personaje que odien mucho que se hayan encontrado en sus aventuras y que empiecen a elaborar teorías locas como que es inmortal o viene de un antiguo linaje. Al final harán como en las aventuras gráficas clásicas, probarán la estatua con todo lo que se encuentren. Por otro lado, como elemento decorativo en la cabina del capitán es muy bonito y es perfecto para colgar el sombrero.
 
-**Faro del diablo:** Este aparato de gran peso y un tamaño de 1m3 es la evolución mecánica y moderna de los fuegos que encendían los piratas, fingiendo ser faros para atraer a los barcos a los arrecifes para hundirlos y saquearlos.  
+**Faro del diablo:** Este aparato de gran peso y un tamaño de 1 m³ es la evolución mecánica y moderna de los fuegos que encendían los piratas, fingiendo ser faros para atraer a los barcos a los arrecifes para hundirlos y saquearlos.  
 Contiene un intrincado mecanismo que mueve una serie de lentes y espejos. Poniéndolo sobre una fuente de luz y configurándolo mediante palancas, permite fingir la cadencia e intensidad de los destellos de cualquier faro. Un marino experimentado deberá superar una tirada enfrentada de Navegar contra 1d10 del faro del diablo o será engañado, pudiendo acabar perdido en la noche y chocando contra arrecifes y rocas.
 
 **Globo aerostático:** Dentro de una gran caja de madera hay un prototipo de globo aerostático muy ornamentado. Montarlo e hincharlo lleva como una hora y permite elevarse como unos 200 metros, pero no se puede controlar la dirección del vuelo. Se necesita una tirada de Ciencias para llevar a buen fin todo el proceso. Es perfecto para vigilar, ya que permite ver a grandes distancias y también como una forma rápida de huida siempre que el enemigo no tenga voladores.
@@ -2673,12 +2616,12 @@ Puede ser que en algún momento los héroes sean absorbidos por un agujero dimen
 
 |1d12|Nombre|Descripción|
 |---|---|---|
-|1|Carcosa|Carcosa es una ciudad de uno de los planetas de las Híades, cerca de Aldebarán. Está situada junto al lago Hiade. Frecuentemente confunde dimensiones con la Tierra, arrastrando a aventureros que se hablan adentrado en la ciudad. Se cree que esto se produce, ya que es la morada/prisión de Hastur.|
+|1|Carcosa|Carcosa es una ciudad de uno de los planetas de las Híades, cerca de Aldebarán. Está situada junto al lago Híade. Frecuentemente confunde dimensiones con la Tierra, arrastrando a aventureros que se hablan adentrado en la ciudad. Se cree que esto se produce, ya que es la morada/prisión de Hastur.|
 |2|Carcosa en ruinas|No se sabe muy como, pero la ciudad de Carcosa cayó en desgracia en algún momento de su historia y ahora solo quedan ruinas de sus edificios y fantasma de sus antiguos habitantes. Además, múltiples byakhee anidaron en la ciudad.|
 |3|Ulthar|Ulthar es una vieja población de casas de madera situada más allá del río Skai, junto al Bosque encantado, en las Tierras del Sueño. Por ley los gatos no pueden ser dados a muerte por nadie.|
 |4|Meseta de Leng|La tradición dice que la Meseta de Leng está ubicada en Asia Central, pero debido a lo difícil que es localizarla seguramente sea una paradoja espacial que puede estar en muchas partes y en ninguna al mismo tiempo. Es una amplia región fría y desértica en cuyo centro se encuentra el Monasterio de Leng, donde vive el terrible Tcho-tcho Lama, posiblemente un avatar de Nyarlathotep o de Hastur.|
-|5|K'n-yan|Es un reino subterráneo que se encuentra debajo de Oklahoma (EUA). Es una inmensa caverna iluminada por una fosforescencia azul. Sus ramificaciones ocupan casi toda Norteamérica y además de permitirte volver a la superficie, dan acceso a otros mundos como las Tierras de los Sueños o Yoth. Está habitada por unos humanoides inmortales llamados Vieja Raza de K'n-yan y su capital se Tsath en honor a su deidad principal, Tsathoggua. Se puede acceder a K'n-yan desde cuevas y cenotes. La ciencia de la Vieja Raza es muy avanzada y puede que necesiten conseguirla para alguno de sus descabellados planes.|
-|6|Yoth|Yoth es un reino en ruinas situado debajo de K'n-yan. Fue creado por serpigente, pero atrajeron la ira Yig al empezar a adorar a Tsathoggua y este los maldijo haciendo que degeneraran y perdieran su inteligencia.|
+|5|K’n-yan|Es un reino subterráneo que se encuentra debajo de Oklahoma (EUA). Es una inmensa caverna iluminada por una fosforescencia azul. Sus ramificaciones ocupan casi toda Norteamérica y además de permitirte volver a la superficie, dan acceso a otros mundos como las Tierras de los Sueños o Yoth. Está habitada por unos humanoides inmortales llamados Vieja Raza de K’n-yan y su capital se Tsath en honor a su deidad principal, Tsathoggua. Se puede acceder a K’n-yan desde cuevas y cenotes. La ciencia de la Vieja Raza es muy avanzada y puede que necesiten conseguirla para alguno de sus descabellados planes.|
+|6|Yoth|Yoth es un reino en ruinas situado debajo de K’n-yan. Fue creado por serpigente, pero atrajeron la ira Yig al empezar a adorar a Tsathoggua y este los maldijo haciendo que degeneraran y perdieran su inteligencia.|
 |7|Jungla de Kled|La Jungla de Kled es una inmensa jungla que se encuentra en las Tierras de los Sueños. Por toda la jungla hay palacios y templos perfectamente conservados en los que la jungla no ha podido entrar. Si tu mesa se pierde en la jungla, pueden que aparezca aquí. Quizás tengan que explorar alguno de los palacios para encontrar la forma de volver.|
 |8|Hiperbórea|No voy a decir más: conoce a Conan y combate a su lado.|
 |9|Corona Mundi|Corona Mundi es una inmensa ciudad abandonada en la Antártida creada por los Antiguos. Ya solo está habitada por pingüinos gigantes y los sirvientes de los Antiguos, los shoggoth. Esta ciudad se ha conservado perfectamente gracias al hielo a las montañas que lo rodean y lo protegen. Está lleno de edificios que son maravillas de la arquitectura, llenos de bajorrelieves y estatuas contando la historia de los Antiguos.|

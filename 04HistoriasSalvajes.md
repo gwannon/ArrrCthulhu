@@ -21,15 +21,15 @@ Lo que tampoco sabe Villalba es que hay un grupo de descastados y parias que van
 
 ![](./images/batalla-naval.webp)
 
-### En el Carcosa
+### En el «Carcosa»
 
 **Comienzo:** En el Paso de los Vientos
 
 Como todas las grandes aventuras de piratas, esta tiene un simple inicio. Con un barco mercante en ruta por el mar y un grupo de desconocidos que no saben que sus vidas van a cambiar para siempre.
 
-El Carcosa es un buque mercante de la RCPC en ruta entre La Habana (Cuba) y Santo Domingo (La Española). El Carcosa transporta principalmente pasajeros y un cargamento de tela, ron y melaza de caña. Su ruta de navegación les está llevando por el Paso de los Vientos (el estrecho entre Cuba y La Española). Es una zona infestada de piratas, ya que van a pasar cerca de Tortuga y Port Royal en Jamaica. Las Caimán tampoco quedan lejos.
+El «Carcosa» es un buque mercante de la RCPC en ruta entre La Habana (Cuba) y Santo Domingo (La Española). El «Carcosa» transporta principalmente pasajeros y un cargamento de tela, ron y melaza de caña. Su ruta de navegación les está llevando por el Paso de los Vientos (el estrecho entre Cuba y La Española). Es una zona infestada de piratas, ya que van a pasar cerca de Tortuga y Port Royal en Jamaica. Las islas Caimán tampoco quedan lejos.
 
-Los marineros están nerviosos, por que no hay ni escolta y los guardacostas no parecen estar cerca. En cualquier momento podría aparecer una bandera negra en el horizonte y eso significaría serios problemas.
+Los marineros están nerviosos, porque no hay ni escolta y los guardacostas no parecen estar cerca. En cualquier momento podría aparecer una bandera negra en el horizonte y eso significaría serios problemas.
 
 Tu mesa está embarcada como tripulantes o pasajeros. Quizás algunos se conozcan porque son familia, socios comerciales o compañeros de aventuras. Lo importante es que están bajo cubierta en la misma mesa de bancos corridos cenando su ración de alubias con tocino y tostones fritos, mientras fuera la oscuridad lo cubre todo.
 
@@ -49,23 +49,23 @@ Cada uno se tendrá que enfrentar a dos piratas. Primero lleva el combate de los
 
 #### Brusco despertar
 
-Un cubo de fría agua de mar despierta a tu mesa. Ya es de día y el sol les ciega. Están atados a la borda del barco pirata y rodeados de piratas con caras de pocos amigos. Una mujer está de cuclillas muy cerca de sus caras apoyándose sobre su sable. Con sarcasmo dice — Vaya, vaya. ¿Que tenemos aquí? — Acto seguido se ríe y de repente sus ojos se quedan en blanco, balbucea algo y se levanta y grita — ¡¡¡Soltadlos!!!
+Un cubo de fría agua de mar despierta a tu mesa. Ya es de día y el sol les ciega. Están atados a la borda del barco pirata y rodeados de piratas con caras de pocos amigos. Una mujer está de cuclillas muy cerca de sus caras apoyándose sobre su sable. Con sarcasmo dice — Vaya, vaya. ¿Qué tenemos aquí? — Acto seguido se ríe y de repente sus ojos se quedan en blanco, balbucea algo y se levanta y grita — ¡¡¡Soltadlos!!!
 
-Ira mirando a cada uno y les irá preguntando quiénes son y a qué se dedican. Aprovecha para que se describan y así se conoce tu mesa. Les pondrá apodos divertidos y les dirá que vuelvan a su barco y que si no obedecen a su capitán serán pasto de tiburones. Prepárate los motes de antes, en base a su ficha, con lo cabronas que suelen ser las mesas seguro que se quedan con el mote el resto de la campaña.
+Irá mirando a cada uno y les irá preguntando quiénes son y a qué se dedican. Aprovecha para que se describan y así se conoce tu mesa. Les pondrá apodos divertidos y les dirá que vuelvan a su barco y que si no obedecen a su capitán serán pasto de tiburones. Prepárate los motes de antes, basándote en su ficha. Con lo cabronas que suelen ser las mesas seguro que se quedan con el mote el resto de la campaña.
 
-Al cruzar al Carcosa verán el nombre del barco pirata, «El golpe de suerte» así que la capitán será la temida Mary Read. Haz que tiren un dado y al que menos saque le golpearán la plancha y deberá tirar Atletismo para no caer al mar.
+Al cruzar al «Carcosa» verán el nombre del barco pirata, «El golpe de suerte» así que la capitán será la temida Mary Read. Haz que tiren un dado y al que menos saque le golpearán la plancha y deberá tirar Atletismo para no caer al mar.
 
 Déjales tirar Conocimientos generales y cuéntales que el índice de su supervivencia es muy variado o se carga a toda la tripulación o los deja a todos vivos.
 
-Los piratas y unos pocos supervivientes están limpiando la cubierta del Carcosa de sangre y tirando un par de cadáveres al mar. Los supervivientes están desarmados y son menos, así que no hay oportunidad de rebelarse.
+Los piratas y unos pocos supervivientes están limpiando la cubierta del «Carcosa» de sangre y tirando un par de cadáveres al mar. Los supervivientes están desarmados y son menos, así que no hay oportunidad de rebelarse.
 
 Un pirata sale gritando de los camarotes de los oficiales gritando y enseñando una caja de madera — ¡Mi señora! ¡Mi señora! Lo he encontrado.
 
-Si se paran a mirar un pirata les pinchará con el sable para que sigan limpiando. El marinero lanza la caja desde el Carcosa a Mary que la recoge con elegancia. Abre la caja y sonríe con satisfacción — ¡Tenemos lo que queríamos! Esta misión ha sido un éxito. Habrá doble ración de ron cuando lleguemos a casa.
+Si se paran a mirar un pirata les pinchará con el sable para que sigan limpiando. El marinero lanza la caja desde el «Carcosa» a Mary que la recoge con elegancia. Abre la caja y sonríe con satisfacción — ¡Tenemos lo que queríamos! Esta misión ha sido un éxito. Habrá doble ración de ron cuando lleguemos a casa.
 
 #### El interrogatorio
 
-Tras limpiar la cubierta, hacer unas reparaciones básicas y cargar el ron de la bodega en el Golpe de Suerte, son encerrados en la bodega del Carcosa. El Carcosa y el Golpe de suerte empiezan a navegar en rumbo Suroeste. Una tirada de Navegar o Supervivencia les dirá que se dirigen seguramente a Jamaica.
+Tras limpiar la cubierta, hacer unas reparaciones básicas y cargar el ron de la bodega en el Golpe de Suerte, son encerrados en la bodega del «Carcosa». El «Carcosa» y el Golpe de suerte empiezan a navegar en rumbo Suroeste. Una tirada de Navegar o Supervivencia les dirá que se dirigen seguramente a Jamaica.
 
 Al anochecer les abren para darles agua y comida. Un par de guardias van haciendo salir y entrar uno a uno los prisioneros. Un par de veces oirán un grito de dolor, un golpe seco contra el suelo, gente arrastrando algo por la cubierta y algo que cae el mar. Curiosamente, cuando eso pasa no vuelve a entrar el último prisionero que salió.
 
@@ -73,7 +73,7 @@ Arriba Mary Read y sus suboficiales están entrevistando a cada prisionero. Busc
 
 Mary, desde de un estrado improvisado con unas tablas y unos toneles, empezará a interrogar a cada personaje. Pregunta cosas como lugar de nacimiento, profesión o edad. Es un buen momento para rellenar estas partes de la ficha que nunca nadie completa. Después pasará a preguntas como:
 
-* ¿Qué hacías en el Carcosa? ¿A dónde ibas?
+* ¿Qué hacías en el «Carcosa»? ¿A dónde ibas?
 * ¿A qué te dedicas?
 * ¿De dónde es tu familia?
 * ¿Has trabajado para la Real Compañía Privilegiada del Caribe? ¿Qué hacías?
@@ -85,15 +85,15 @@ No les dejes mucho tiempo para contestar, es preferible que sean espontáneos. C
 
 Saca la baraja y reparte cartas de iniciativa, un grupo de profundos salta a cubierta con sus tridentes y entre gorgojeos ininteligibles atacan a la gente que hay en la cubierta. Antes de poder actuar deberán tirar la TPC de una manada de 15 profundos.
 
-A cada personaje se le acercará un profundo con intenciones funestas y el resto se repartirá entre el resto de tripulantes del Carcosa. Recuerda que están desarmados y son novatos. Tras 5 turnos o antes de caer incapacitados, algún tripulante pirata o la propia Mary Read decapitará al profundo mientras un chorro de sangre verde salpica al personaje.
+A cada personaje se le acercará un profundo con intenciones funestas y el resto se repartirá entre el resto de tripulantes del «Carcosa». Recuerda que están desarmados y son novatos. Tras 5 turnos o antes de caer incapacitados, algún tripulante pirata o la propia Mary Read decapitará al profundo mientras un chorro de sangre verde salpica al personaje.
 
-Tras deshacerse de los cadáveres de los profundos, Mary ordenará largar trapo y salir de allí pitando. Desde el castillo de popa del Carcosa les soltará el discurso que tenía preparado.
+Tras deshacerse de los cadáveres de los profundos, Mary ordenará largar trapo y salir de allí pitando. Desde el castillo de popa del «Carcosa» les soltará el discurso que tenía preparado.
 
 > Sabed que si he llegado viva hasta hoy es porque siempre me he fiado de mi intuición. Y esta vez mis entrañas me dicen que en vez de pasaros por la quilla os ofrezca la oportunidad de vuestra vida. Ya habéis visto a que nos enfrentamos, horrores del infierno invocados por la más oscura brujería. Detrás de esos monstruos está la corrupta Real Compañía Privilegiada del Caribe que trata de apoderarse de todo el Caribe para poder traer el Apocalipsis a nuestro mundo.
 
 Hace una pequeña pausa dramática y mira sus reacciones
 
-> Necesitamos un barco legal y leal que pueda entrar y salir de los puertos, ser nuestros ojos y nuestras manos donde nuestra bandera no nos deja acercarnos. Os entregaremos el Carcosa y podréis moveros libremente por estos mares haciendo de vez en cuando misiones para nosotros. A cambio podréis evitar el fin del mundo y quizás, solo quizás, haceros ricos. La hermandad del sargazo paga a sus fieles ayudantes y paga bien.
+> Necesitamos un barco legal y leal que pueda entrar y salir de los puertos, ser nuestros ojos y nuestras manos donde nuestra bandera no nos deja acercarnos. Os entregaremos el «Carcosa» y podréis moveros libremente por estos mares haciendo de vez en cuando misiones para nosotros. A cambio podréis evitar el fin del mundo y quizás, solo quizás, haceros ricos. La hermandad del sargazo paga a sus fieles ayudantes y paga bien.
 
 Se gira dando la espalda y pone un tono de voz más grave.
 
@@ -103,27 +103,27 @@ Mira a unos de sus tripulantes y este se levanta una de las mangas de su camisa 
 
 > ¿Qué contestáis?
 
-En caso de que diga que aceptan, Mary Read elegirá al jugador con más experiencia como capitán y le pondrá al mando del Carcosa. El resto de su mesa será sus ayudantes y dejará algunos de sus tripulantes para ayudar en el barco. El título de capitán es algo burocrático, deberán votar entre todos los asuntos que afecten al barco, su tripulación y su carga.
+En caso de que diga que aceptan, Mary Read elegirá al jugador con más experiencia como capitán y le pondrá al mando del «Carcosa». El resto de su mesa será sus ayudantes y dejará algunos de sus tripulantes para ayudar en el barco. El título de capitán es algo burocrático, deberán votar entre todos los asuntos que afecten al barco, su tripulación y su carga.
 
-En caso de que se nieguen, les dirá que cuando lleguen a tierra firme segura les dejará irse con el Carcosa. Pueden pensárselo hasta ese momento.
+En caso de que se nieguen, les dirá que cuando lleguen a tierra firme segura les dejará irse con el «Carcosa». Pueden pensárselo hasta ese momento.
 
 #### ¿Qué ha estado pasando?
 
 Cuando se vieron por primera vez, Mary tuvo una visión de que tu mesa sería muy importante en la futura gran batalla con la Orden del Gran Cthulhu. No sabe ni cómo, ni cuándo, ni por qué, pero su don de Casandra nunca le ha fallado.
 
-El objeto que encontraron en el Carcosa es un descifrador de códigos. Es un disco con letras grabadas sobre el que se pone otro disco con perforaciones, según se mueven los discos las perforaciones permiten ver unos caracteres u otros. El artilugio está lleno de grabados de seres horribles y es de algún tipo de piedra verde. Mary recibió un chivatazo de que en el Carcosa iba un decodificador nuevo para los cultistas de la Orden del Gran Cthulhu de Santo Domingo y asaltó el navío para conseguir uno.
+El objeto que encontraron en el «Carcosa» es un descifrador de códigos. Es un disco con letras grabadas sobre el que se pone otro disco con perforaciones, según se mueven los discos las perforaciones permiten ver unos caracteres u otros. El artilugio está lleno de grabados de seres horribles y es de algún tipo de piedra verde. Mary recibió un chivatazo de que en el «Carcosa» iba un decodificador nuevo para los cultistas de la Orden del Gran Cthulhu de Santo Domingo y asaltó el navío para conseguir uno.
 
 #### Islas piratas
 
-Tras un par de días de viaje, los barcos llegarán a las Islas Caimán. Fondean en una paradisíaca y secreta cala de la isla Caimán Brac (la más oriental de las islas). Hay agua potable, fruta y tortugas con las que alimentarse. Podrán sanar sus heridas y disfrutar de lo que los taínos llaman barbacoa, una comida hecha a la brasa en la playa, acompañada de algo del ron que llevaba el Carcosa.
+Tras un par de días de viaje, los barcos llegarán a las Islas Caimán. Fondean en una paradisíaca y secreta cala de la isla Caimán Brac (la más oriental de las islas Caimán). Hay agua potable, fruta y tortugas con las que alimentarse. Podrán sanar sus heridas y disfrutar de lo que los taínos llaman barbacoa, una comida hecha a la brasa en la playa, acompañada de algo del ron que llevaba el «Carcosa».
 
 ### Devil came to me
 
 **Comienzo:** En Caimán Brac (Islas Caimán)
 
-Tras los sucesos del Carcosa tu mesa empieza a ver que hay fuerzas actuando en el Caribe que escapan a su cordura. La RCPC parece ser algo más una gran empresa comercial. Es el momento tener una conversación con Mary Read.
+Tras los sucesos del «Carcosa» tu mesa empieza a ver que hay fuerzas actuando en el Caribe que escapan a su cordura. La RCPC parece ser algo más una gran empresa comercial. Es el momento tener una conversación con Mary Read.
 
-Durante una semana estarán haciendo modificaciones al Carcosa, entre ellas cambiarle el nombre para evitar la mala suerte del nombre anterior si van a seguir a Mary. También hay que modificarlo de forma que no se pueda detectar que es un barco capturado.
+Durante una semana estarán haciendo modificaciones al «Carcosa», entre ellas cambiarle el nombre para evitar la mala suerte del nombre anterior si van a seguir a Mary. También hay que modificarlo de forma que no se pueda detectar que es un barco capturado.
 
 Si no han aceptado el trato, el equipo de Mary hará reparaciones básicas, pero las alargarán todo lo que se pueda. Mary quiere tenerlos unos días bajo su influencia para hacerles cambiar de opinión.
 
@@ -132,7 +132,7 @@ Si no han aceptado el trato, el equipo de Mary hará reparaciones básicas, pero
 * Dos tripulantes cogen instrumentos y empiezan a contar las aventuras de la capitán Read y los golpes más duros que ha asestado a la RCPC y la Orden.
 * Mary Read coqueteará e intentará seducir a alguien de tu mesa.
 
-Al final de la semana les volverá reunir y les volverá a preguntar. Si después de todo esto no aceptan déjales irse con el Carcosa, pero la predicción de Mary se cumplirá a la perfección.
+Al final de la semana les volverá reunir y les volverá a preguntar. Si después de todo esto no aceptan déjales irse con el «Carcosa», pero la predicción de Mary se cumplirá a la perfección.
 
 De hecho les seguirá de cerca y cuando sean detenidos, encerrados y torturados por la RCPC, ella les liberará y les ofrecerá por última vez su propuesta. Esta vez solo les podrá darles el Buenaventura, una pequeña goleta. Negarle a Read tiene sus desventajas.
 
@@ -174,7 +174,7 @@ Tras haber terminado con sus obligaciones es el momento perfecto para que empiec
 
 ### Trabajando para la hermandad
 
-Mary Read tiene confianza en el grupo de parias que saco del Carcosa, pero necesita saber que si son lo suficientemente hábiles y valientes para luchar contra la Orden del Gran Cthulhu, así que los pondrá a hacer misiones para probar su valía.
+Mary Read tiene confianza en el grupo de parias que saco del «Carcosa», pero necesita saber que si son lo suficientemente hábiles y valientes para luchar contra la Orden del Gran Cthulhu, así que los pondrá a hacer misiones para probar su valía.
 
 Mary Read tiene que probar la valía de tu mesa y par eso les va a pasar ciertos trabajos que tenía que hacer ella y su tripulación. Si los hacen sin problemas, podrá aceptarlos en la Hermandad. Si prefieres, puedes meter otros relatos salvajes como parte de estos trabajos y dejar estas aventuras para otro momento.
 
@@ -294,7 +294,7 @@ Quizás más delante puedan «cazar» a todos estos seres y lanzarlos en tromba 
 
 **Comienzo:** Isla de la Tortuga
 
-Mary sabe que sus visiones nunca le defraudan y aquellos patéticos seres que se encontró en el Carcosa han demostrado ser eficaces y dignos de confianza, pero sobre todo buenos y nobles. Es el momento de que ingresen en la Hermandad.
+Mary sabe que sus visiones nunca le defraudan y aquellos patéticos seres que se encontró en el «Carcosa» han demostrado ser eficaces y dignos de confianza, pero sobre todo buenos y nobles. Es el momento de que ingresen en la Hermandad.
 
 A diferencia de otras veces, en esta ocasión la propia Read se presentará ante ellos disfrazada de lo que quieras, dama rica, mendiga, estibadora, vendedora de aperitivos como morros de nutria rellenos, etc. y les felicitará por su última misión.
 
@@ -344,7 +344,7 @@ Con esta información pueden volver a la superficie y entrar en contacto con Rea
 
 **Comienzo:** La Habana
 
-Villalba se llevo una sección de bajorrelieves del interior de las pirámides. Intentar entrar en la mansión Villalba a este nivel puede ser un suicidio. Pero Mary Read cree que la librera Isadora puede ayudarles a encontrar una solución.
+Villalba se llevó una sección de bajorrelieves del interior de las pirámides. Intentar entrar en la mansión Villalba a este nivel puede ser un suicidio. Pero Mary Read cree que la librera Isadora puede ayudarles a encontrar una solución.
 
 El principal problema que tiene tu mesa ahora mismo es que no saben qué había en los grabados que se llevó Villalba. Los hechizos normales de lectura de objetos no funcionan porque no pueden tocar la sección que ha sido quitada. A priori, la única solución es infiltrarse en la casa de Villalba y hacer una copia de los grabados. Déjales que empiecen a planificarlo todo, compren equipo, busquen fallos en la seguridad.
 
@@ -510,7 +510,7 @@ La persona que lanzo el hechizo de la droga tendrá que dictar al resto de la me
 
 **Droga plutónica:** Destilando loto negro en unas proporciones exactas, se obtiene una droga que lanza tu mente miles de años en el pasado y te permite ver lo que había alrededor tuyo en esa época. Su consumo tiene un TPC d8 por las terribles cosas que puedes ver aparecer entre las visiones. Hay que hacer una tirada de Espíritu al tomarla y si se falla no puede viajar atrás en el tiempo. Si se fracasa, es mucho peor, la mente se queda atrapada en el pasado para siempre.
 
-El problema de la droga plutónica es que, si viajamos demasiado atrás en el tiempo como en este caso, atraemos a los sabuesos de Tindalos. Al subir al barco se encontrarán que por sorpresa de entre los marcos de una puerta o de otra estructura con esquinas aparecerá un par de Sabuesos de Tindalos. Su objetivo es el sujeto que mando su mente al pasado. Deben acabar con él a toda costa y volver a su tiempo. Solo si otro combatiente les hace mucho daño, dejarán de atacar a su objetivo actual y cambiarán de presa.
+El problema de la droga plutónica es que, si viajamos demasiado atrás en el tiempo como en este caso, atraemos a los sabuesos de Tíndalos. Al subir al barco se encontrarán que por sorpresa de entre los marcos de una puerta o de otra estructura con esquinas aparecerá un par de Sabuesos de Tíndalos. Su objetivo es el sujeto que mando su mente al pasado. Deben acabar con él a toda costa y volver a su tiempo. Solo si otro combatiente les hace mucho daño, dejarán de atacar a su objetivo actual y cambiarán de presa.
 
 ### El enigma de los Antiguos
 

@@ -26,7 +26,11 @@ Toda esta ambientación está muy influenciada por el juego de rol de “La Llam
 
 Este juego tiene muchas tablas, sobre todo de generación de objetos y tesoros. Esto se debe a mi deformación como DJ llevando a un grupo al que le encanta estar media hora después de la sesión haciendo tiradas de tesoro. Y yo le doy a mi público lo que le gusta.
 
-Puedes obviar estas tablas tranquilamente y crear tú directamente los objetos y los tesoros que mejor se ajusten a tu partida. Si no quieres perder tiempo de partida, también puedes crear en casa el tesoro y llevarlo preparado a la partida. Lo que mejor se adapte a tu estilo de dirección, a tu grupo y a tu tiempo.
+Puedes obviar estas tablas tranquilamente y crear tú directamente los objetos y los tesoros que mejor se ajusten a tu partida.
+
+\sp
+
+Si no quieres perder tiempo de partida, también puedes crear en casa el tesoro y llevarlo preparado a la partida. Lo que mejor se adapte a tu estilo de dirección, a tu grupo y a tu tiempo.
 
 ### Inclusión, diversidad y ecología
 
@@ -37,6 +41,8 @@ Está claro que los malos van a ser racistas, machistas, homófobos, etc. vamos 
 Muchas «sugerencias de beni» están pensadas para premiar a los jugadores por ser más empáticos y ayudar a grupos discriminados. En ese sentido, bastantes formas extras de recuperar cordura están asociadas a acciones en favor de colectivos desfavorecidos que van más allá de salvarles la vida. Muchas veces se premiará devolverles derechos que les han sido robados o mejorar sus condiciones de vida en general. Como DJ creo que debes tratar de que las decisiones y acciones que tomen tus jugadores para conseguir esos «premios» sean porque creen que es lo bueno y justo en nuestra sociedad y no porque es un beneficio para su PJ en el juego.
 
 Nada puede ser inclusivo y abierto si no tiene en cuenta el medio ambiente y la ecología, así que he tratado de darle una mirada ecologista con varias aventuras en las que la protección de la naturaleza es importante, Además, de recompensas de cordura y sugerencias de benis. Así pues, trata de evitar que tus jugadores utilicen muchas veces el camino rápido y tomen decisiones con grandes repercusiones para el medio ambiente. Puede que quemar la selva para destruir la fortaleza del enemigo sea un plan muy bueno, pero sus consecuencias para la fauna y flora local pueden ser desastrosas, así como para las comunidades que vivan en ella.
+
+\sp
 
 [![This website is hosted Green - checked by thegreenwebfoundation.org](https://api.thegreenwebfoundation.org/greencheckimage/arrrcthulhu.com?nocache=true)](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Farrrcthulhu.com%2F "This website is hosted Green - checked by thegreenwebfoundation.org")
 
@@ -56,15 +62,19 @@ Como en el punto anterior, estaré encantado de escuchar cualquier crítica que 
 
 ### ¿Puedo hacer con esta ambientación lo quiera?
 
-Sí, puedes. Con referenciarla puedes hacer lo que quieras.
+Sí, puedes. Con referenciarla puedes hacer lo que quieras. Si te gusta como se tratan los Mitos, olvídate de los piratas y quédate con el sistema de magia y cordura para tus aventuras en los años 20.
 
-Si te gusta como se tratan los Mitos, olvídate de los piratas y quédate con el sistema de magia y cordura para tus aventuras en los años 20. O puedes quedarte el tema pirata y cambiar a los primigenios por enemigos más normales como vampiros, zombis y licántropos. Te gusta un objeto o una maldición, úsalo en tus partidas.
+\sp
+
+O puedes quedarte el tema pirata y cambiar a los primigenios por enemigos más normales como vampiros, zombis y licántropos. Te gusta un objeto o una maldición, úsalo en tus partidas.
 
 ### Si algo no me gusta
 
 En esta ambientación se tratan temas que pueden herir sensibilidades, así que mi consejo antes de empezar a jugar es poner en prácticas estas herramientas de seguridad.
 
 Si algo no te gusta eres libre de cambiarlo o descartarlo, pero hay partes en esta ambientación que pido encarecidamente en su propio texto que no se cambien. Por ejemplo, Adolfé es un personaje no binario y me gustaría que así se le tratará.
+
+\sc
 
 ### Romancear PNJ
 
@@ -86,7 +96,7 @@ Damos las gracias y el crédito apropiado a estos increíbles artistas que nos h
 
 * [portada.webp](https://www.deviantart.com/artofragnar/art/A-pirate-night-618741314) por [ArtofRagnar](https://www.deviantart.com/artofragnar)
 * [caribe.webp](https://www.deviantart.com/skavenzverov/art/Into-The-Deep-325731829) por [SkavenZverov](https://www.deviantart.com/skavenzverov)
-* [historias.webp](https://www.deviantart.com/veronika/art/Dagon-306304950) por [veronika](https://www.deviantart.com/veronika)
+* [historias.webp](https://www.deviantart.com/veronika/art/Dagon-306304950) por [Veronika](https://www.deviantart.com/veronika)
 * [ambientacion.webp](https://www.deviantart.com/badluckart/art/Pirate-Ship-The-Night-Cutter-420271502) por [BadLuckArt](https://www.deviantart.com/badluckart)
 * [botin.webp](https://www.deviantart.com/samize/art/Cthulhu-Statuette-I-669368333) por [Samize](https://www.deviantart.com/samize)
 * [encuentros.webp](https://www.deviantart.com/samize/art/When-the-Stars-are-Right-643216790) por [Samize](https://www.deviantart.com/samize)
@@ -114,18 +124,21 @@ Damos las gracias y el crédito apropiado a estos increíbles artistas que nos h
 * [yith.webp](https://www.deviantart.com/nottsuo/art/Grate-race-of-YITH-retouch2-875186832) por [Nottsuo](https://www.deviantart.com/nottsuo)
 * [profundo.webp](https://www.deviantart.com/raphtor/art/Fishy-Alien-creature-315217052) por [RAPHTOR](https://www.deviantart.com/raphtor)
 * [johanna.webp](https://www.deviantart.com/arthurhenri/art/Shaniqua-762581640) por [ArthurHenri](https://www.deviantart.com/arthurhenri)
-* [tindalos.webp](https://www.deviantart.com/fernand0fc/art/Hound-of-Tindalos-572596215) por [Fernand0FC](https://www.deviantart.com/fernand0fc)
+* [tindalos.webp](https://www.deviantart.com/fernand0fc/art/Hound-of-Tíndalos-572596215) por [Fernand0FC](https://www.deviantart.com/fernand0fc)
 * [isadora.webp](https://www.deviantart.com/arthurhenri/art/Shining-768612780) por [ArthurHenri](https://www.deviantart.com/arthurhenri)
 * [samedi.webp](https://www.deviantart.com/blondinfrenchtouch/art/Voodoo-653438288) por [BlondinFrenchTouch](https://www.deviantart.com/arthurhenri)
 * [maryread.webp](https://www.deviantart.com/femarot/art/Bonny-from-black-sails-690333501) por [femarot](https://www.deviantart.com/femarot)
 * [embarcaciones.webp](https://www.deviantart.com/ahmetcankahraman/art/Chase-735144464) por [AhmetCanKahram](https://www.deviantart.com/ahmetcankahraman)
 * [guia.webp](https://www.deviantart.com/umbatman/art/Pirates-Ahoy-666863611) por [umbatman](https://www.deviantart.com/umbatman)
+
+\sp
+
 * [contraportada.webp](https://www.deviantart.com/bear1037/art/Jungle-Swamp-482759290) por [Bear1037](https://www.deviantart.com/bear1037)
 * [nochedelestreno.webp](https://angelamaps.com/2021/07/24/opera-house/) por [AngelaMaps](https://angelamaps.com/)
 * [callejon.webp](https://angelamaps.com/2021/09/06/alley/) por [AngelaMaps](https://angelamaps.com/)
 * [parquepublico.webp](https://angelamaps.com/2021/08/25/gardens/) por [AngelaMaps](https://angelamaps.com/)
 * [callesestrechas.webp](https://angelamaps.com/2023/01/10/narrow-street/) por [AngelaMaps](https://angelamaps.com/)
-* [juzgados.jgg](https://angelamaps.com/2022/04/19/courthouse/) por [AngelaMaps](https://angelamaps.com/)
+* [juzgados.jpg](https://angelamaps.com/2022/04/19/courthouse/) por [AngelaMaps](https://angelamaps.com/)
 * [batu.webp](https://angelamaps.com/2023/06/20/burial-mound/) por [AngelaMaps](https://angelamaps.com/)
 * [adolfe.webp](https://www.deviantart.com/pinchealvarito/art/Digital-Self-Portrait-637532445) por [pinchealvarito](https://www.deviantart.com/pinchealvarito)
 * [vampirofuego.webp](https://www.deviantart.com/the-night-bird/art/Light-My-Fire-BG-01-331012312) por [the-night-bird](https://www.deviantart.com/the-night-bird/)
@@ -158,9 +171,11 @@ Damos las gracias y el crédito apropiado a estos increíbles artistas que nos h
 * [piedra-escrita.webp](https://en.wikipedia.org/wiki/La_Piedra_Escrita#/media/File:Piedra_y_Rio.jpg) por [Jailynnettemarie](https://commons.wikimedia.org/w/index.php?title=User:Jailynnettemarie)
 * [plaza-Maguana.webp](https://www.pinterest.es/pin/546554104756011326/) por [Alexandra Montás Reynoso](https://www.pinterest.es/alexandramontsr/)
 * [la-habana.webp](https://www.loc.gov/resource/g4924h.ar181600/) por [Jacques Nicolas](https://www.loc.gov/resource/g4924h.ar181600/)
-* [mapa-el-morro.webp](https://commons.wikimedia.org/wiki/File:Upper_View_of_the_Castillo_del_Morro_Situated_at_the_Mouth_of_the_Bay_of_Havana_WDL10088.png) por Anonimo
+* [mapa-el-morro.webp](https://commons.wikimedia.org/wiki/File:Upper_View_of_the_Castillo_del_Morro_Situated_at_the_Mouth_of_the_Bay_of_Havana_WDL10088.png) por Anónimo
 * [lusca.webp](https://www.deviantart.com/yunaxd/art/Kraken-814508024) por [YunaXD](https://www.deviantart.com/yunaxd)
 * [tortuga.webp](https://www.deviantart.com/glazyrin/art/Tortuga-149523283) por [glazyrin](https://www.deviantart.com/glazyrin)
+
+\sp
 
 A [Bebe a Mordor](https://twitter.com/bebeamordor) por sus [consejos de lenguaje inclusivo](https://bebeamordor.com/comunicacion-inclusiva-redaccion-manuales-juegos/). También a [Miss Launnister](https://twitter.com/Miss_Launnister) por sus [consejos](https://bastionrolero.blogspot.com/2019/04/el-lenguaje-inclusivo-en-nuestros.html). He tratado de hacer un mix y aplicarlo lo mejor posible a mis textos. Cuando esté todo terminado volveremos a darle una nueva revisión para solucionar todos los fallos que se me hayan podido escapar. No es fácil, pero merece la pena.
 
@@ -179,8 +194,6 @@ Gracias por su documentación a:
 * [sectarios.org](http://www.sectarios.org/)
 * [Wiki Amor de Otro Mundo](https://amor-de-otro-mundo.fandom.com/es/wiki/Wiki_Amor_de_Otro_Mundo)
 
-\sp
-
 \sinc
 
 ## Música para las partidas
@@ -188,6 +201,8 @@ Gracias por su documentación a:
 \conc
 
 Esta es mi selección de música para jugar a ¡Arrr! Cthulhu. Es casi imposible encontrar música que pegue con piratas y con Cthulhu así que primero vamos a ver música para momentos más «piratescos».
+
+\sc
 
 * Los 3 mosqueteros (1993)
 * La isla de las cabezas cortadas
@@ -218,12 +233,16 @@ Si quieres saber la opinión de otras personas, aquí tienes algunas reseñas qu
 
 ## Otros proyectos que te pueden interesar
 
-\conc
-
 [![OPERACIÓN: Tras El Mundo Perdido](./images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios")
 
 **[OPERACIÓN: Tras El Mundo Perdido - Una campaña donde lucharás contra nazis a lomos de dinosaurios.](https://mundoperdido.gwannon.com/pdf/)**
 
+&nbsp;
+
+&nbsp;
+
 [![¡Arrr! Cthulhu](./images/1001ghules.jpg "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")](https://1001ghules.gwannon.com/pdf/ "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")
 
 **[Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)**
+
+\conc

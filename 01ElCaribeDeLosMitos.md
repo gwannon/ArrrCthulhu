@@ -964,7 +964,9 @@ Pero las cosas están cambiando y ni los más crueles castigos, ni las matanzas 
 
 Las insurrecciones están a la orden del día en todas partes y cuando se sofoca una duramente aparecen otras dos.
 
-Oficialmente, la RCPC ha hecho uso de esclavos, ya que en su ámbito de actuación la esclavitud es legal, pero no se dedica al tráfico de esclavos, de hecho, es de las pocas actividades comerciales en las que no participa. Para la RCPC es importante controlar a sus trabajadores y que sean en cierta medida adeptos a la compañía. Además, la esclavitud está asociada a formas muy concretas de economía como son las plantaciones y las fábricas de transformación de materias primas y la RCPC no se mueve en esos ámbitos. Solo ha comprado vidas humanas para montar y mantener cultivos de extrañas plantas extraplanares en plantaciones ocultas en mitad de pantanos, para extraer metales raros en peligrosas minas o canteras o excavando ruinas malditas perdidas en lo más profundo de la jungla.
+Oficialmente, la RCPC ha hecho uso de esclavos, ya que en su ámbito de actuación la esclavitud es legal, pero no se dedica al tráfico de esclavos, de hecho, es de las pocas actividades comerciales en las que no participa. Para la RCPC es importante controlar a sus trabajadores y que sean en cierta medida adeptos a la compañía.
+
+Además, la esclavitud está asociada a formas muy concretas de economía como son las plantaciones y las fábricas de transformación de materias primas y la RCPC no se mueve en esos ámbitos. Solo ha comprado vidas humanas para montar y mantener cultivos de extrañas plantas extraplanares en plantaciones ocultas en mitad de pantanos, para extraer metales raros en peligrosas minas o canteras o excavando ruinas malditas perdidas en lo más profundo de la jungla.
 
 Al contrario de con los presos, en los sacrificios con humanos de la Orden no se suelen usar esclavos. Tristemente, para la Orden los esclavos son un recurso que ha costado dinero, que ha de recuperarse y que después hay que sacarle provecho y beneficio. Además, sus descendientes también son de su propiedad, con lo que son un recurso que genera más recurso. Usarlos en sacrificios solo es algo reservado a los esclavos huidos o más rebeldes.
 
@@ -1010,7 +1012,11 @@ Es curioso que con el paso del tiempo se han ido creando comunidades de cimarron
 
 \conc
 
-Hay 3 grandes grupos de creencias religiosas actualmente en la zona del caribe, una de los habitantes originarios del caribe, los taínos, otras dos de origen exterior, África y Europa. Lo más curioso es que todas estas creencias en muchos casos lucharon por imponerse unas a otras. Por ejemplo, las misiones religiosas de los católicos españoles que buscaban convertir a los «paganos» taínos. Sin embargo, en otros sitios se fusionaron (por necesidad en muchos casos) creando, por ejemplo, la santería que fusionaba las creencias de los espíritus animistas de los esclavos africanos con los santos católicos.
+Hay 3 grandes grupos de creencias religiosas actualmente en la zona del caribe, una de ellas es de los habitantes originarios del caribe, los taínos, y otras dos de origen exterior, África y Europa.
+
+Lo más curioso es que todas estas creencias en muchos casos lucharon por imponerse unas a otras. Por ejemplo, las misiones religiosas de los católicos españoles que buscaban convertir a los «paganos» taínos.
+
+Sin embargo, en otros sitios se fusionaron (por necesidad en muchos casos) creando, por ejemplo, la santería que fusionaba las creencias de los espíritus animistas de los esclavos africanos con los santos católicos.
 
 ### Religión taína
 

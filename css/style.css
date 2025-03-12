@@ -495,16 +495,16 @@ section h1 + .saltopagina:after {
   }
 
   section:nth-of-type(10) .saltopagina:before {
-    height: 68vh;
-    bottom: calc(32vh + 2px);
+    height: 74vh;
+    bottom: calc(26vh + 2px);
     content: "D \A a \A n \A d \A o \A \A c \A o \A l \A o \A r \A \A a \A \A l \A a \A s \A \A a \A v \A e \A n \A t \A u \A r \A a \A s ";
     white-space: pre;
     background-color: var(--green-dark);
   }
 
   section:nth-of-type(11) .saltopagina:before {
-    height: 57vh;
-    bottom: calc(43vh + 2px);
+    height: 23vh;
+    bottom: calc(77vh + 2px);
     content: "E \A p \A í \A l \A o \A g \A o ";
     white-space: pre;
     background-color: var(--green-gul);

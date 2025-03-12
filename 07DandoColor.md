@@ -14,6 +14,9 @@ No te cortes de meter estas costumbres piratas para crear ambiente en tus partid
 * No era raro que el cocinero del barco aderezará las recetas con pólvora cuando andaba escaso de condimentos para sus platos.
 * El ron era la bebida por excelencia de los piratas y si se rebajaba con agua y se le echaban especias y limón se convertía en grog. Se puede considerar como un antecesor del mojito y la palabra grogui, tan usada en boxeo para cuando un boxeador está casi inconsciente, viene de grog. La receta del grog es una mezcla secreta que contiene uno o más de los siguientes: queroseno, propilenglicol, edulcorantes artificiales, ácido sulfúrico, ron, acetona, ácido de batería, tinte rojo #2, SCUMM, grasa para ejes y/o pepperoni.
 * El _matelotage_ era común entre piratas. Era una unión formal y permanente entre dos varones adultos. Ambos unían sus propiedades, luchaban juntos y se cuidaban el uno al otro en caso de enfermedad. Esta práctica era muy frecuente en las islas habitadas por piratas, como Tortuga y La Española, debido a que la población femenina era muy baja. [Wikipedia](https://es.wikipedia.org/wiki/Matelotage)
+
+\sp
+
 * La famosa mota negra que aterrorizaba a Billy Bones en «La isla del tesoro» se cree que está basada en la costumbre pirata de entregar a los traidores y chivatos un as de picas. Cualquiera de las dos opciones puede ser divertida para meterla en tus partidas.
 * Abandonar a su suerte a personas en islotes perdidos con algo de comida y agua o _maroon_ era una práctica habitual, sobre todo, para capturados en batalla. Pocas veces se les dejaba con una pistola cargada para suicidarse, ya que las pistolas eran escasas y preciadas.
 
@@ -35,6 +38,9 @@ Las gentes del mar son bastante supersticiosas y todo puede ser una señal de bu
 * Es 2023 y esto es juego de rol, así que olvídate de la tontería de que las mujeres en los barcos traían mala suerte y deja a la gente jugar con lo que quiera. De hecho, hubo grandes mujeres piratas como Mary Read que es un personaje principal en la campaña de esta ambientación.
 * No debías hacer daño a un ave marina que se posaba en tu barco, esas aves llevaban almas de marinos muertos.
 * Había diferentes supersticiones con el barquero Caronte y las monedas de plata para pagarle. Desde ponerlas en los ojos de los muertos a clavarlas en los mástiles o esconderlas en el barco para atraer la buena suerte.
+
+\sp
+
 * Estaba prohibido silbar, ya que los silbidos atraen a las tormentas. Sin embargo, en momentos de «calma chicha» el contramaestre hacía silbar al más joven de los marineros para atraer a los vientos.
 * También se colgaba ropa interior de los mástiles para atraer los vientos. Para haceros una idea tenéis que imaginar un barco con enaguas y calzoncillos de pata larga hinchados por el aire y atados a los aparejos de las velas. Y pensad que la higiene en los barcos era complicada, así que imaginad todo tipo de manchas en esa ropa.
 * Los marineros solo se cortaban el pelo en tierra, nunca navegando.
@@ -84,6 +90,9 @@ Como bien nos han enseñado Guybrush Threepwood y el Capitán Haddock los insult
 * **Infame:** Que carece de honra, crédito y estimación.
 * **Lameplatos:** Persona pobre que se alimenta de las sobras de otros.
 * **Lenguaraz:** Persona deslenguada, atrevida en el hablar.
+
+\sp
+
 * **Malasangre:** Persona aviesa, que desea el mal a los demás sin razón alguna.
 * **Mercachifle:** Mercader de bajo nivel o que vende productos de baja calidad.
 * **Mindundi:** Persona insignificante o de poca categoría.
@@ -120,17 +129,20 @@ Eran firmados por toda la tripulación. Al enrolarte en la tripulación pirata f
 
 Aquí te presentamos el del pirata Bartholomew Roberts (Ha sido modificado a propósito para evitar ciertos prejuicios durante el juego. Si quieres el original, búscalo en la Wikipedia).
 
-1.  Todo tripulante tiene voto; tiene derecho a provisiones frescas o licores fuertes, y si le corresponden, puede usarlos a voluntad, salvo en periodos de escasez o por el bien de todos.
-2.  El botín se repartirá uno a uno, por lista; pero si alguien defrauda o engaña, el abandono en una isla desierta será su castigo.
-3.  No se puede jugar a las cartas o a los dados por dinero.
-4.  Las luces y velas se apagan a las ocho en punto de la noche: si alguien de la tripulación quisiera seguir bebiendo, tendrá que hacerlo en cubierta.
-5.  Mantener la pistola y sable limpios y aptos para el combate.
-6.  No se permiten niños en el barco.
-7.  Abandonar el barco o quedarse encerrado durante una batalla se castigará con la muerte o abandono.
-8.  No se permiten las peleas a bordo. Se pondrá fin en la costa, a espada y pistola. Si tras disparar, ninguno acierta, se batirán con sus espadas, siendo declarado vencedor el que consiga la primera sangre del rival.
-9.  Ningún tripulante puede abandonar esta forma de vida hasta que haya compartido mil libras en el fondo común.
-10.  El Capitán y el Intendente reciben dos partes de cada botín; el maestre, contramaestre y el cañonero una parte y media; y el resto de oficiales parte y cuarta.
-11.  Los músicos tienen que descansar el sábado.
+1. Todo tripulante tiene voto; tiene derecho a provisiones frescas o licores fuertes, y si le corresponden, puede usarlos a voluntad, salvo en periodos de escasez o por el bien de todos.
+2. El botín se repartirá uno a uno, por lista; pero si alguien defrauda o engaña, el abandono en una isla desierta será su castigo.
+3. No se puede jugar a las cartas o a los dados por dinero.
+4. Las luces y velas se apagan a las ocho en punto de la noche: si alguien de la tripulación quisiera seguir bebiendo, tendrá que hacerlo en cubierta.
+5. Mantener la pistola y sable limpios y aptos para el combate.
+6. No se permiten niños en el barco.
+7. Abandonar el barco o quedarse encerrado durante una batalla se castigará con la muerte o abandono.
+8. No se permiten las peleas a bordo. Se pondrá fin en la costa, a espada y pistola. Si tras disparar, ninguno acierta, se batirán con sus espadas, siendo declarado vencedor el que consiga la primera sangre del rival.
+9. Ningún tripulante puede abandonar esta forma de vida hasta que haya compartido mil libras en el fondo común.
+
+\sp
+
+10. El Capitán y el Intendente reciben dos partes de cada botín; el maestre, contramaestre y el cañonero una parte y media; y el resto de oficiales parte y cuarta.
+11. Los músicos tienen que descansar el sábado.
 
 Los castigos iban desde la propia muerte hasta ser abandonado en una isla con un poco de agua y alimento, hasta ser entregado a las autoridades, lo cual suponía muchas veces la muerte, ya que la piratería se sentenciaba con la horca.
 
@@ -150,7 +162,7 @@ Te pasamos un listado de famosos piratas que en 1722 estaban activos para sacarl
 * Nicholas Brown: se sabe que también se dedicó al tráfico de esclavos. John Drudge, el cazapiratas que acabó con su vida, era un antiguo compañero del colegio de Nicholas. Conservo su cabeza en ron para poder cobrar las 500 libras de recompensa.
 * Olivier Levasseur «El gavilán»: La leyenda dice que cuando este pirata francés estaba en el cadalso que le llevó a la muerte, con la cuerda al cuello, lanzó a la multitud [un papel con un mensaje cifrado](https://es.wikipedia.org/wiki/Olivier_Levasseur#/media/Archivo:Crypto_de_la_buse.jpg), mientras que exclamaba: ¡Que encuentre mi tesoro, el que pueda entenderlo! Nunca se ha encontrado su fabuloso tesoro valorado en la actualidad en 100 millones de libras.
 
-La verdad es que la mayoría de nombres famosos de la piratería como Calico Jack, Annie Bony, Bartholomew Roberts o Stede Bonnet han muerto antes de 1722. De hecho, Edward Teach muere en 1918, pero gracias a la RCPC en esta ambientación está vivo y coleando. Eres libre de devolverlos de entre los muertos, algo no tan raro en una ambientación lovecraftiana. También puedes hacer que no hayan muerto y escaparan en el último momento de la trampa mortal en la que murieron.
+La verdad es que la mayoría de nombres famosos de la piratería como Calico Jack, Anne Bonny, Bartholomew Roberts o Stede Bonnet han muerto antes de 1722. De hecho, Edward Teach muere en 1918, pero gracias a la RCPC en esta ambientación está vivo y coleando. Eres libre de devolverlos de entre los muertos, algo no tan raro en una ambientación lovecraftiana. También puedes hacer que no hayan muerto y escaparan en el último momento de la trampa mortal en la que murieron.
 
 \sp
 
@@ -176,5 +188,8 @@ La gente del Caribe no pide cerveza o vino, aquí el ron y su bastardo, el grog 
 * **Ron:** El ron es sinónimo de Caribe y no se entiende el uno sin el otro.
 * **Grog:** Ron rebajado con zumo de limón o agua y clavo
 * **Mojito:** Cuenta la leyenda que el pirata Sir Francis Drake refino esta bebida de origen cubano para luchar contra el escorbuto.
+
+\sp
+
 * **Sangría:** Aunque todavía no se la conoce con ese nombre, el vino con trozos de frutas dulces tropicales se consumía desde siempre en el Caribe.
 * **Tequila y mezcal:** Desde el continente llega el diablo en forma líquida y el origen de muchas malas decisiones.
