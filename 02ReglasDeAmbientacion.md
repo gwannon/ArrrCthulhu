@@ -951,583 +951,223 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 |---|---|---|---|
 |Barrera|9|Muro de Yog-Sapha|Mediante una fórmula mágica el conjurador levanta una barrera gelatinosa de gran fuerza a su alrededor, sacada directamente del propio Yog-Sapha, el Habitante de las Profundidades. El muro es casi invisible, pero distorsiona un poco la luz.|
 |Barrera|10|Invocar los apéndices de Dygra|El invocador lanza unas piedras cristalinas (cuarzos, peridotos, amatistas, …) para invocar a la Piedra-Cosa Dygra. Sus tentáculos minerales de Dygra salen de suelo formando una barrera cristalina.|
-|Cambio de forma|No permitido|&nbsp;|&nbsp;|
+|Cambio de forma|--|--|No permitido|
 |Captura|11|Aferrar|El taumaturgo dirige su mano hacia su objetivo y hace como que lo agarra.|
 |Captura|12|Invocar avatar de Atlach-Nacha|El hechicero invoca al Dios-araña Atlach-Nacha que captura a su objetivo con su tela de araña.|
 |Castigo|13|Bendecir arma|El brujo toca el arma y la bendice en nombre de una divinidad tomando un brillo especial.|
 |Castigo|14|Emponzoñar arma|El hechicero escupe sobre el arma emponzoñándola y esta se cubre de óxido, moho y suciedad.|
-|Cavar|No permitido|&nbsp;|&nbsp;|
+|Cavar|--|--|No permitido|
 |Ceguera|15|Nublar la vista|El mago sopla un polvo especial a su objetivo que nubla su vista.|
 |Ceguera|16|Ajar ojos|El hechicero señala a los ojos del objetivo y estos se secan y marchitan hasta que se caen de sus cuencas.|
-|Chorro|No permitido|&nbsp;|&nbsp;|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Chorro|--|--|No permitido|
 |Confusión|17|Verdadero nombre de Hastur|El brujo pronuncia parte el auténtico nombre de Hastur y la víctima es aturdida al enfrentarse a lo incognoscible.|
 |Confusión|18|Náuseas|El mago empieza a girar sobre sí mismo e induce náuseas y vómitos a su objetivo.|
 |Conmoción|19|Luces hipnóticas|El lanzador del hechizo proyecta una serie de luces con un patrón hipnótico que deja conmocionada a la víctima.|
 |Conmoción|20|Estruendo|El grito de taumaturgo crea tal estruendo que conmociona a su objetivo.|
-|Conmoción
-
-21
-
-Rotura temporal
-
-El hechicero lanza a su objetivo fuera de la línea de tiempo durante una fracción de segundo. El shock de producido por la rotura temporal puede dejar conmocionado al objetivo.|
-|Curación
-
-22
-
-Canto de Babalú Ayé
-
-El brujo yoruba entona la canción de Babalú Aye, orisha de la salud y las enfermedades, para acelerar la curación del herido.|
-|Curación
-
-23
-
-Poder de Imhotep, Imposición de manos de Imhotep
-
-Haciendo una imposición de manos al herido, el sanador invoca a Imhotep, el dios egipcio de la medicina.|
-|Destierro
-
-24
-
-Expulsar ente
-
-El practicante de magia invoca el auténtico nombre de la criatura de más allá del tiempo y el espacio para expulsarla de este mundo.|
-|Destierro
-
-25
-
-Exorcizar
-
-Invocando el poder de una entidad poderosa de los Mitos, el exorcista puede devolver al demonio/fantasma/entidad a su dimensión de origen.|
-|Desvío
-
-26
-
-Vibración dimensional
-
-El hechicero empieza a mover rápidamente manos y cabeza y empieza a vibrar entre dimensiones. Esto hace más difícil que sea golpeado al no estar total o parcialmente en la dimensión del atacante.|
-|Desvío
-
-27
-
-Vibración temporal
-
-El hechicero se queda totalmente inmóvil y empieza a vibrar atrás y adelante en el tiempo. Esto hace más difícil que sea golpeado al no estar total o parcialmente en la misma corriente temporal del atacante.|
-|Detección arcana
-
-28
-
-Varita de zahorí, Radiestesia
-
-Usando una ramita de árbol, el zahorí puede detectar objetos mágicos, portales, seres sobrenaturales, …|
-|Detección arcana
-
-29
-
-Péndulo de cuarzo
-
-El buscador saca un péndulo con una piedra de cuarzo o cristal. El movimiento del péndulo indica la dirección y la distancia de lo que se busca.|
-|Ocultamiento arcano
-
-30
-
-Círculo de ocultación
-
-El conjurador crea un círculo alrededor de lo que desea ocultar con sal, arena, agua, etc. en general elementos o productos muy básicos.|
-|Ocultamiento arcano 
-
-31
-
-Perdido en el tiempo
-
-El mago crea una zona de disrupción temporal en la zona donde está lo que quiere ocultar. El objetivo a ocultar está en el lugar donde debe estar, pero temporalmente no está allí.|
-|Disfraz
-
-32
-
-Robar la piel
-
-El brujo (normalmente serpigente) roba literalmente la piel de aquel del que quiere disfrazarse.|
-|Disfraz
-
-33
-
-Moldear apariencia
-
-El mago moldea su carne y huesos como si fueran barro hasta ser exactamente igual que su objetivo.|
-|Disipación
-
-34
-
-Poder de Nodens
-
-El brujo invoca el poder de Nodens levantando sus brazos y gritando uno de sus muchos nombres para disipar un efecto mágico. A veces el invocador puede ver al propio Nodens en su carro volador por el rabillo del ojo.|
-|Disipación
-
-35
-
-Anti magia
-
-El mago usa su poder para negar la magia de su objetivo, repitiendo los pases y las palabras mágicas al revés.|
-|Drenaje de puntos de poder
-
-36
-
-Rayo vampírico, Rayo nigromántico
-
-El hechicero lanza un rayo escarlata que drena la esencia vital del objetivo.|
-|Drenaje de puntos de poder
-
-37
-
-Invocar vampiro estelar
-
-El hechicero invoca este ser extradimensional que drena la vida al objetivo y se lo entrega a su amo invocador.|
-|Empatía|No permitido|&nbsp;|&nbsp;|
-|Empujón|No permitido|&nbsp;|&nbsp;|
-|Explosión|No permitido|&nbsp;|&nbsp;|
-|Gigantismo Enanismo|No permitido|&nbsp;|&nbsp;|
-|Ilusión
-
-38
-
-Sombras ilusorias
-
-El brujo empieza a manipular la forma de las sombras hasta que parecen objetos reales.|
-
-Ilusión
-
-39
-
-Espejismos de Xirdneth
-
-Xirdneth, el hacedor de ilusiones, enseña a sus fieles a crear ilusiones, trampantojos y espejismos mediante pases mágicos con sus manos.
-
-Intangibilidad
-
-40
-
-Forma astral, Viaje astral
-
-El objetivo pasa a su forma astral.
-
-41
-
-Forma de sombras
-
-El objetivo se convierte en una sombra. La sombra es mucho más grande y con elementos extras que la real del objetivo.
-
-|Invisibilidad|No permitido|&nbsp;|&nbsp;|
-
-Invocación  
-de aliados
-
-42
-
-Animar tatuaje
-
-El lanzador se arranca un tatuaje de un monstruo de los Mitos de su cuerpo y este anima y va tomando tamaño y volumen hasta transformarse en ese ser.
-
-43
-
-Animar figurita vudú
-
-El sacerdote vudú crea unas figurillas de arcilla que representan al ser que quiere invocar y las destruye con sus manos para poder convocarlo.
-
-44
-
-Círculo de invocación
-
-El hechicero crea un círculo de invocación en el suelo con sal, cal, arena, tiza, … e invoca a un ser de otro tiempo o de otra dimensión.
-
-45
-
-Doppelgänger
-
-En vez de invocar un monstruo, el mago se divide en dos y crea un clon de aspecto horrible de sí mismo con la apariencia del monstruo. Puede hacer un clon suyo con aspecto de profundo, serpigente o un shoggoth con tu cara entre su limo.
-
-Lectura  
-de mentes
-
-46
-
-Percepción extrasensorial
-
-El telépata cierra los ojos y se concentra en su objetivo. Mediante una mezcla de lectura de alma, percepción extrasensorial e intuición, puede averiguar cosas de su objetivo.
-
-47
-
-Espejo de Alétheia
-
-Reflejando en un espejo a su objetivo, el taumaturgo obtendrá la respuesta verdadera en el reflejo.
-
-Lectura  
-de objetos
-
-48
-
-Hablar con las cosas
-
-Al tocar un objeto, el mago puede hablar con él y este pueden contarle cosas que han pasado.
-
-49
-
-Lectura de aura
-
-Tocando y concentrándose en el objeto, este revela el aura psíquica que ha ido acumulando a lo largo de su historia.
-
-|Lenguas|No permitido|&nbsp;|&nbsp;|
-|Lentitud Rapidez|No permitido|&nbsp;|&nbsp;|
-
-Luz  
-Oscuridad
-
-50
-
-Invocar avatar de Thanaroa
-
-Se invoca a un avatar de Thanaroa, el dios malvado con forma de pilar de luz deslumbrante.
-
-51
-
-Invocar avatar de Mordiggian
-
-Al invocar a un Avatar de Mordiggian, la gran sombra, toda la zona queda a oscuras.
-
-52
-
-Luz del día
-
-El lanzador de conjuros invoca una zona de luz solar alrededor suyo.
-
-53
-
-Abismo de sombras
-
-Las sombras empiezan a crecer hasta sumir la zona en una total oscuridad.
-
-Manipulación  
-de recuerdos
-
-54
-
-Toque del olvido
-
-El brujo toca las sienes del objetivo con las manos y se concentra en el recuerdo que quiere manipular.
-
-55
-
-Poción del recuerdo perdido
-
-Se prepara una pócima para el objetivo que le hará olvidar el recuerdo que se desee.
-
-Manipulación  
-elemental
-
-56
-
-Dominio del agua, Hidromancia
-
-El mago elemental entrega como ofrenda su propia agua en forma de alguno de sus fluidos (sangre, saliva, …).
-
-57
-
-Dominio de la tierra, Geomancia
-
-Esparce un puñado de tierra que no sea del lugar donde se encuentra el elementalista.
-
-58
-
-Dominio del fuego, Pirokinesia, Piromancia
-
-Calienta sus manos frotándolas y luego sopla sobre sus palmas como avivando el fuego que quiere crear y manejar.
-
-59
-
-Dominio del aire, Eolomancia
-
-El invocador usa algún tipo de artilugio para soplar aire como un abanico o un fuelle.
-
-60
-
-Dominio de la madera, Xilomancia
-
-El invocador golpea el suelo con algún tipo de bastón, cayado o báculo de madera.
-
-Marioneta
-
-61
-
-Hipnosis, Mirada hipnótica
-
-Los ojos del hechicero empiezan a brillar mientras mira fijamente a su víctima y le da órdenes con una voz grave.
-
-62
-
-Muñeca vudú
-
-El hechicero crea una muñeca vudú que representa el objetivo que quiere controlar.
-
-|Mejora/Reducción de rasgo|No permitido|&nbsp;|&nbsp;|
-|Miedo|No permitido|&nbsp;|&nbsp;|
-
-Protección
-
-63
-
-Bendición de Yig, Protección de Yig
-
-El dios-serpiente Yig bendice al hechicero con una piel dura y llena de escamas que le protege del daño.
-
-64
-
-Protección de Dagón, Armadura de Hydra
-
-Dagón otorga su protección haciendo que la piel del hechicero sea gomosa y resistente para bloquear muchos ataques.
-
-Protección  
-arcana
-
-65
-
-Signo de Nodens
-
-El brujo dibuja el símbolo del dios Nodens en el aire y su cuerpo empieza a brillar.
-
-66
-
-Muñeco vudú de protección
-
-El brujo saca un muñeco vudú réplica de él mismo al que se desviará casi todos los ataques mágicos que se le lancen.
-
-Protección  
-ambiental
-
-67
-
-Hidromiel espacial
-
-El mago elabora una hidromiel que permite resistir las inclemencias del vacío estelar. Pero también vale para el fondo marino, por ejemplo.
-
-68
-
-Adaptación
-
-Entre gritos de dolor, el cuerpo del conjurador empieza a modificarse grotescamente para desarrollar órganos que le den posibilidad de sobrevivir y moverse en el ambiente que desee. Por ejemplo, agallas y extremidades palmeadas para poder respirar y moverse debajo del agua y capas de grasa para aguantar las bajas temperaturas del agua.
-
-Proyectil
-
-69
-
-Pudrir carne
-
-De las manos del brujo salen unos rayos negros que al impactar sobre su objetivo lo pudre, corrompe u oxida produciéndole mucho daño.
-
-70
-
-Impacto sónico
-
-El grito desgarrador del mago toma forma sólida golpeando brutalmente a su objetivo.
-
-71
-
-Maldición de escarabajos
-
-De los pies del invocador sale una informe masa de escarabajos (alados si es necesario) de grandes pinzas que atacan a su objetivo.
-
-72
-
-Incineración de Cthugha
-
-Una bola de fuego, parte de Cthugha la llama viviente, cae sobre el objetivo incinerándolo.
-
-Resurrección
-
-73
-
-Líquido restaurador del ciclo de la vida
-
-Mediante una serie de destilados de plantas y elementos químicos se crea un líquido que devuelve un cuerpo muerto a la vida si se sumerge en él.
-
-74
-
-Convocar al Barón Samedí
-
-Se hace una ritual de invocación para llamar el barón Samedí, el loa de la muerte, y se le ofrece un sacrificio animal. Si le parece un pago justo, el barón Samedí sacará el alma del difunto del Guinee (inframundo haitiano) y este volverá a la vida.
-
-Silencio  
-Sonido
-
-75
-
-Campanilla muda
-
-El hechicero agita una pequeña campanilla de plata sin badajo y todo el sonido es absorbido por la campanilla.
-
-76
-
-Invocar a Alala
-
-Al invocar mediante una plegaria a Alala, heraldo de S’glhuo, este ser hecho de sonido vivo muestra su poder absorbiendo todo el ruido de la zona.
-
-77
-
-Resonancias de Xirdneth
-
-Xirdneth, el hacedor de ilusiones, enseña a sus fieles a crear sonidos e imitar voces cuando ponen sus manos sobre su boca en forma de altavoz.
-
-78
-
-Ecos pervertidos de Xa’ligha
-
-Xa’ligha, el demonio del sonido retorcido, permite a sus creyentes dar forma al ruido producido por carracas, maracas, baquetas y demás instrumentos de percusión simples y crear sonidos, ruidos y voces.
-
-Sueño
-
-79
-
-Don de Hypnos
-
-El hechicero lanza arena sobre su objetivo.
-
-80
-
-Pesadillas de R’lyeh
-
-El conjurador canta una nana en cthulhunés (el idioma de R’lyeh) que hace que sus objetivos caigan dormidos y sufran terribles pesadillas con los horrores que se esconden en la ciudad sumergida.
-
-Telekinesis
-
-81
-
-Poder mental
-
-El mentalista se concentra en un objeto, pudiendo moverlo con el poder bruto de su mente.
-
-82
-
-Siervo invisible
-
-El taumaturgo invoca a unos seres extradimensionales, casi invisibles e intangibles que obedecen sus órdenes moviendo objeto. Las formas de estos seres pueden vislumbrarse al distorsionar la luz a través de ellos, como hace el calor en los espejismos en el desierto.
-
-Teleportación
-
-83
-
-Viaje angular
-
-El hechicero usa los ángulos y las líneas rectas en los objetos y estancias para conectar con la estructura interna del espacio y poder así teleportarse.
-
-84
-
-Geometría no-euclidiana
-
-Dibujando en el aire una figura que no cumple las leyes matemáticas de Euclides y atravesándola, el mago puede teleportarse.
-
-Trepamuros
-
-85
-
-Garras reptilianas
-
-Las uñas de manos y pies crecen, de forma que posibilitan andar por las paredes como un reptil.
-
-86
-
-Ventosas pulpoides
-
-Las manos se llenan de ventosas que secretan una sustancia pegajosa que permiten pegarse a las paredes.
-
-|Ventaja de combate|No permitido|&nbsp;|&nbsp;|
-
-Vínculo  
-mental
-
-87
-
-Red neural Mi-go
-
-El hechicero entrega a los integrantes de la red neural unos colgantes con símbolos extraños (lengua Mi-go) para poder crear la red telepática.
-
-88
-
-Mente colmena de la gran raza de Yith
-
-El hechicero sabe como extender su mente formando una mente colmena como puede hacer los yithianos.
-
-Visión oscura
-
-89
-
-Ojo nocturno de Bast, Nictalopía
-
-Los ojos de mago cambian de forma y se asemejan a los de un felino.
-
-90
-
-Ungüento ocular para ver de noche
-
-El hechicero unta en sus parpados un ungüento pastoso a base de hierbas y tinta de cefalópodos.
-
-Vista lejana
-
-91
-
-Ojo de Rhogog
-
-Rhogog, el roble negro, presta su ojo al invocador para que pueda ver más allá del horizonte.
-
-92
-
-Bálsamo ocular para ver lejos, Columbrar
-
-El hechicero unge en sus parpados un bálsamo lechoso a base de brea y plumón de rapaz.
-
-Vuelo
-
-93
-
-Invocar noctivago demacrado
-
-Un noctivago demacrado sirve al mago permitiéndole volar.
-
-94
-
-Levitación
-
-El mago se coloca en una posición de meditación para elevarse a continuación.
-
-95
-
-Don de Ithaqua, Nubes de Ithaqua
-
-Ithaqua, el que camina con el viento, concede a su invocador la capacidad andar sobre el aire. Unos pequeños cúmulos aparecen donde el hechicero quiere pisar, lo que le permite moverse por los aires.
-
-Zombi
-
-96
-
-Danza de los muertos
-
-El hechicero vudú baila de forma descontrolada haciendo que los muertos se levanten para seguir su danza.
-
-97
-
-Ritmo macabro
-
-El taumaturgo empieza a tocar un ritmo con algún instrumento musical percusivo tipo tambor, pandereta, baquetas, etc. que hace que los muertos se levanten y lo sigan.
-
-Ritual menor
-
-98-100
-
-Tira en la tabla de rituales menores
-
-En vez de un hechizo hay 2 rituales menores. Elígelos al azar tirando en la tabla Rituales menores
+|Conmoción|21|Rotura temporal|El hechicero lanza a su objetivo fuera de la línea de tiempo durante una fracción de segundo. El shock de producido por la rotura temporal puede dejar conmocionado al objetivo.|
+|Curación|22|Canto de Babalú Ayé|El brujo yoruba entona la canción de Babalú Aye, orisha de la salud y las enfermedades, para acelerar la curación del herido.|
+|Curación|23|Poder de Imhotep, Imposición de manos de Imhotep|Haciendo una imposición de manos al herido, el sanador invoca a Imhotep, el dios egipcio de la medicina.|
 
 \conc
 
-Por cada poder tenemos varias opciones de hechizos y rituales que no son más que ornamentos para ese poder. La idea es que el jugador tenga diferentes opciones al adquirir un nuevo poder, todos ellos con tintes cthulhulianos. Al leer un libro no encontrará, como tal, poderes, sino hechizos con ornamentos prefijados. Es decir, leyendo el «Extraño relato de Elizabeth en la isla de Jamaica» no encontrará el poder Protección, sino la Bendición de Yig que le dará protección contra el daño, haciendo que su piel se vuelva escamosa y dura.
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Destierro|24|Expulsar ente|El practicante de magia invoca el auténtico nombre de la criatura de más allá del tiempo y el espacio para expulsarla de este mundo.|
+|Destierro|25|Exorcizar|Invocando el poder de una entidad poderosa de los Mitos, el exorcista puede devolver al demonio/fantasma/entidad a su dimensión de origen.|
+|Desvío|26|Vibración dimensional|El hechicero empieza a mover rápidamente manos y cabeza y empieza a vibrar entre dimensiones. Esto hace más difícil que sea golpeado al no estar total o parcialmente en la dimensión del atacante.|
+|Desvío|27|Vibración temporal|El hechicero se queda totalmente inmóvil y empieza a vibrar atrás y adelante en el tiempo. Esto hace más difícil que sea golpeado al no estar total o parcialmente en la misma corriente temporal del atacante.|
+|Detección arcana|28|Varita de zahorí, Radiestesia|Usando una ramita de árbol, el zahorí puede detectar objetos mágicos, portales, seres sobrenaturales, …|
+|Detección arcana|29|Péndulo de cuarzo|El buscador saca un péndulo con una piedra de cuarzo o cristal. El movimiento del péndulo indica la dirección y la distancia de lo que se busca.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Ocultamiento arcano|30|Círculo de ocultación|El conjurador crea un círculo alrededor de lo que desea ocultar con sal, arena, agua, etc. en general elementos o productos muy básicos.|
+|Ocultamiento arcano|31|Perdido en el tiempo|El mago crea una zona de disrupción temporal en la zona donde está lo que quiere ocultar. El objetivo a ocultar está en el lugar donde debe estar, pero temporalmente no está allí.|
+|Disfraz|32|Robar la piel|El brujo (normalmente serpigente) roba literalmente la piel de aquel del que quiere disfrazarse.|
+|Disfraz|33|Moldear apariencia|El mago moldea su carne y huesos como si fueran barro hasta ser exactamente igual que su objetivo.|
+|Disipación|34|Poder de Nodens|El brujo invoca el poder de Nodens levantando sus brazos y gritando uno de sus muchos nombres para disipar un efecto mágico. A veces el invocador puede ver al propio Nodens en su carro volador por el rabillo del ojo.|
+|Disipación|35|Anti magia|El mago usa su poder para negar la magia de su objetivo, repitiendo los pases y las palabras mágicas al revés.|
+|Drenaje de puntos de poder|36|Rayo nigromántico|El hechicero lanza un rayo escarlata que drena la esencia vital del objetivo.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Drenaje de puntos de poder|37|Invocar vampiro estelar|El hechicero invoca este ser extradimensional que drena la vida al objetivo y se lo entrega a su amo invocador.|
+|Empatía|--|--|No permitido|
+|Empujón|--|--|No permitido|
+|Explosión|--|--|No permitido|
+|Gigantismo Enanismo|--|--|No permitido|
+|Ilusión|38|Sombras ilusorias|El brujo empieza a manipular la forma de las sombras hasta que parecen objetos reales.|
+|Ilusión|39|Espejismos de Xirdneth|Xirdneth, el hacedor de ilusiones, enseña a sus fieles a crear ilusiones, trampantojos y espejismos mediante pases mágicos con sus manos.|
+|Intangibilidad|40|Forma astral, Viaje astral|El objetivo pasa a su forma astral.|
+|Intangibilidad|41|Forma de sombras|El objetivo se convierte en una sombra. La sombra es mucho más grande y con elementos extras que la real del objetivo.|
+|Invisibilidad|--|--|No permitido|
+|Invocación de aliados|42|Animar tatuaje|El lanzador se arranca un tatuaje de un monstruo de los Mitos de su cuerpo y este anima y va tomando tamaño y volumen hasta transformarse en ese ser.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Invocación de aliados|43|Animar figurita vudú|El sacerdote vudú crea unas figurillas de arcilla que representan al ser que quiere invocar y las destruye con sus manos para poder convocarlo.|
+|Invocación de aliados|44|Círculo de invocación|El hechicero crea un círculo de invocación en el suelo con sal, cal, arena, tiza, … e invoca a un ser de otro tiempo o de otra dimensión.|
+|Invocación de aliados|45|Doppelgänger|En vez de invocar un monstruo, el mago se divide en dos y crea un clon de aspecto horrible de sí mismo con la apariencia del monstruo. Puede hacer un clon suyo con aspecto de profundo, serpigente o un shoggoth con tu cara entre su limo.|
+|Lectura de mentes|46|Percepción extrasensorial|El telépata cierra los ojos y se concentra en su objetivo. Mediante una mezcla de lectura de alma, percepción extrasensorial e intuición, puede averiguar cosas de su objetivo.|
+|Lectura de mentes|47|Espejo de Alétheia|Reflejando en un espejo a su objetivo, el taumaturgo obtendrá la respuesta verdadera en el reflejo.|
+|Lectura de objetos|48|Hablar con las cosas|Al tocar un objeto, el mago puede hablar con él y este pueden contarle cosas que han pasado.|
+|Lectura de objetos|49|Lectura de aura|Tocando y concentrándose en el objeto, este revela el aura psíquica que ha ido acumulando a lo largo de su historia.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Lenguas|--|--|No permitido|
+|Lentitud Rapidez|--|--|No permitido|
+|Luz|50|Invocar avatar de Thanaroa|Se invoca a un avatar de Thanaroa, el dios malvado con forma de pilar de luz deslumbrante.|
+|Luz|51|Luz del día|El lanzador de conjuros invoca una zona de luz solar alrededor suyo.|
+|Oscuridad|52|Invocar avatar de Mordiggian|Al invocar a un Avatar de Mordiggian, la gran sombra, toda la zona queda a oscuras.|
+|Oscuridad|53|Abismo de sombras|Las sombras empiezan a crecer hasta sumir la zona en una total oscuridad.|
+|Manipulación de recuerdos|54|Toque del olvido|El brujo toca las sienes del objetivo con las manos y se concentra en el recuerdo que quiere manipular.|
+|Manipulación de recuerdos|55|Poción del recuerdo perdido|Se prepara una pócima para el objetivo que le hará olvidar el recuerdo que se desee.|
+|Manipulación elemental|56|Dominio del agua, Hidromancia|El mago elemental entrega como ofrenda su propia agua en forma de alguno de sus fluidos (sangre, saliva, …).|
+|Manipulación elemental|57|Dominio de la tierra, Geomancia|Esparce un puñado de tierra que no sea del lugar donde se encuentra el elementalista.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Manipulación elemental|58|Dominio del fuego, Pirokinesia, Piromancia|Calienta sus manos frotándolas y luego sopla sobre sus palmas como avivando el fuego que quiere crear y manejar.|
+|Manipulación elemental|59|Dominio del aire, Eolomancia|El invocador usa algún tipo de artilugio para soplar aire como un abanico o un fuelle.|
+|Manipulación elemental|60|Dominio de la madera, Xilomancia|El invocador golpea el suelo con algún tipo de bastón, cayado o báculo de madera.|
+|Marioneta|61|Hipnosis, Mirada hipnótica|Los ojos del hechicero empiezan a brillar mientras mira fijamente a su víctima y le da órdenes con una voz grave.|
+|Marioneta|62|Muñeca vudú|El hechicero crea una muñeca vudú que representa el objetivo que quiere controlar.|
+|Mejora/Reducción de rasgo|--|--|No permitido|
+|Miedo|--|--|No permitido|
+|Protección|63|Bendición de Yig, Protección de Yig|El dios-serpiente Yig bendice al hechicero con una piel dura y llena de escamas que le protege del daño.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Protección|64|Protección de Dagón, Armadura de Hydra|Dagón otorga su protección haciendo que la piel del hechicero sea gomosa y resistente para bloquear muchos ataques.|
+|Protección arcana|65|Signo de Nodens|El brujo dibuja el símbolo del dios Nodens en el aire y su cuerpo empieza a brillar.|
+|Protección arcana|66|Muñeco vudú de protección|El brujo saca un muñeco vudú réplica de él mismo al que se desviará casi todos los ataques mágicos que se le lancen.|
+|Protección ambiental|67|Hidromiel espacial|El mago elabora una hidromiel que permite resistir las inclemencias del vacío estelar. Pero también vale para el fondo marino, por ejemplo.|
+|Protección ambiental|68|Adaptación|Entre gritos de dolor, el cuerpo del conjurador empieza a modificarse grotescamente para desarrollar órganos que le den posibilidad de sobrevivir y moverse en el ambiente que desee. Por ejemplo, agallas y extremidades palmeadas para poder respirar y moverse debajo del agua y capas de grasa para aguantar las bajas temperaturas del agua.|
+|Proyectil|69|Pudrir carne|De las manos del brujo salen unos rayos negros que al impactar sobre su objetivo lo pudre, corrompe u oxida produciéndole mucho daño.|
+|Proyectil|70|Impacto sónico|El grito desgarrador del mago toma forma sólida golpeando brutalmente a su objetivo.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Proyectil|71|Maldición de escarabajos|De los pies del invocador sale una informe masa de escarabajos (alados si es necesario) de grandes pinzas que atacan a su objetivo.|
+|Proyectil|72|Incineración de Cthugha|Una bola de fuego, parte de Cthugha la llama viviente, cae sobre el objetivo incinerándolo.|
+|Resurrección|73|Líquido restaurador del ciclo de la vida|Mediante una serie de destilados de plantas y elementos químicos se crea un líquido que devuelve un cuerpo muerto a la vida si se sumerge en él.|
+|Resurrección|74|Convocar al Barón Samedí|Se hace una ritual de invocación para llamar el barón Samedí, el loa de la muerte, y se le ofrece un sacrificio animal. Si le parece un pago justo, el barón Samedí sacará el alma del difunto del Guinee (inframundo haitiano) y este volverá a la vida.|
+|Silencio|75|Campanilla muda|El hechicero agita una pequeña campanilla de plata sin badajo y todo el sonido es absorbido por la campanilla.|
+|Silencio|76|Invocar a Alala|Al invocar mediante una plegaria a Alala, heraldo de S’glhuo, este ser hecho de sonido vivo muestra su poder absorbiendo todo el ruido de la zona.|
+|Sonido|77|Resonancias de Xirdneth|Xirdneth, el hacedor de ilusiones, enseña a sus fieles a crear sonidos e imitar voces cuando ponen sus manos sobre su boca en forma de altavoz.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Sonido|78|Ecos pervertidos de Xa’ligha|Xa’ligha, el demonio del sonido retorcido, permite a sus creyentes dar forma al ruido producido por carracas, maracas, baquetas y demás instrumentos de percusión simples y crear sonidos, ruidos y voces.|
+|Sueño|79|Don de Hypnos|El hechicero lanza arena sobre su objetivo.|
+|Sueño|80|Pesadillas de R’lyeh|El conjurador canta una nana en cthulhunés (el idioma de R’lyeh) que hace que sus objetivos caigan dormidos y sufran terribles pesadillas con los horrores que se esconden en la ciudad sumergida.|
+|Telekinesis|81|Poder mental|El mentalista se concentra en un objeto, pudiendo moverlo con el poder bruto de su mente.|
+|Telekinesis|82|Siervo invisible|El taumaturgo invoca a unos seres extradimensionales, casi invisibles e intangibles que obedecen sus órdenes moviendo objeto. Las formas de estos seres pueden vislumbrarse al distorsionar la luz a través de ellos, como hace el calor en los espejismos en el desierto.|
+|Teleportación|83|Viaje angular|El hechicero usa los ángulos y las líneas rectas en los objetos y estancias para conectar con la estructura interna del espacio y poder así teleportarse.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Teleportación|84|Geometría no-euclidiana|Dibujando en el aire una figura que no cumple las leyes matemáticas de Euclides y atravesándola, el mago puede teleportarse.|
+|Trepamuros|85|Garras reptilianas|Las uñas de manos y pies crecen, de forma que posibilitan andar por las paredes como un reptil.|
+|Trepamuros|86|Ventosas pulpoides|Las manos se llenan de ventosas que secretan una sustancia pegajosa que permiten pegarse a las paredes.
+|Ventaja de combate|--|--|No permitido|
+|Vínculo mental|87|Red neural Mi-go|El hechicero entrega a los integrantes de la red neural unos colgantes con símbolos extraños (lengua Mi-go) para poder crear la red telepática.|
+|Vínculo mental|88|Mente colmena de la gran raza de Yith|El hechicero sabe como extender su mente formando una mente colmena como puede hacer los yithianos.|
+|Visión oscura|89|Ojo nocturno de Bast, Nictalopía|Los ojos de mago cambian de forma y se asemejan a los de un felino.|
+|Visión oscura|90|Ungüento ocular para ver de noche|El hechicero unta en sus parpados un ungüento pastoso a base de hierbas y tinta de cefalópodos.|
+|Vista lejana|91|Ojo de Rhogog|Rhogog, el roble negro, presta su ojo al invocador para que pueda ver más allá del horizonte.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|d100|Hechizo|Ornamento|
+|---|---|---|---|
+|Vista lejana|92|Bálsamo ocular para ver lejos, Columbrar|El hechicero unge en sus parpados un bálsamo lechoso a base de brea y plumón de rapaz.|
+|Vuelo|93|Invocar noctivago demacrado|Un noctivago demacrado sirve al mago permitiéndole volar.|
+|Vuelo|94|Levitación|El mago se coloca en una posición de meditación para elevarse a continuación.|
+|Vuelo|95|Don de Ithaqua, Nubes de Ithaqua|Ithaqua, el que camina con el viento, concede a su invocador la capacidad andar sobre el aire. Unos pequeños cúmulos aparecen donde el hechicero quiere pisar, lo que le permite moverse por los aires.|
+|Zombi|96|Danza de los muertos|El hechicero vudú baila de forma descontrolada haciendo que los muertos se levanten para seguir su danza.|
+|Zombi|97|Ritmo macabro|El taumaturgo empieza a tocar un ritmo con algún instrumento musical percusivo tipo tambor, pandereta, baquetas, etc. que hace que los muertos se levanten y lo sigan.|
+|Ritual menor|98-100|Tira en la tabla de rituales menores|En vez de un hechizo hay 2 rituales menores. Elígelos al azar tirando en la tabla Rituales menores|
+
+\conc
+
+Por cada poder tenemos varias opciones de hechizos y rituales que no son más que ornamentos para ese poder. La idea es que el jugador tenga diferentes opciones al adquirir un nuevo poder, todos ellos con tintes cthulhulianos. Al leer un libro no encontrará, como tal, poderes, sino hechizos con ornamentos prefijados.
+
+\sp
+
+Es decir, leyendo el «Extraño relato de Elizabeth en la isla de Jamaica» no encontrará el poder Protección, sino la Bendición de Yig que le dará protección contra el daño, haciendo que su piel se vuelva escamosa y dura.
 
 ### Modificadores de poder
 
@@ -1543,7 +1183,11 @@ Esta modificación solo se puede usar con: Aura dañina, Barrera, Ceguera, Drena
 
 Esta modificación permite hacer permanente cierto hechizo. En principio no debería poder aplicarse a cualquier hechizo, sobre todo si son hechizos de mejora personal como Desvío o Protección. Deberían ser hechizos que afecten a objetos o zonas. Pero todo esto queda a discreción del DJ. Por regla general solo los poderes con duración mayor de Instantáneo debería poder hacer permanente. Mi recomendación es que solo los siguientes hechizos se deben poder hacer permanentes: Barrera, Castigo, Destierro, Ocultamiento arcano, Ilusión, Luz/Oscuridad, Silencio. Las manipulaciones elementales podrían usarse, por ejemplo, para crear unas llamas eternas que nuca se apaguen o una fuente de la que mane agua potable. Usar Castigo en un arma y hacerlo permanente podría crear un arma mágica.
 
-Hacer un hechizo permanente exige el sacrificio del 20% del coste de lanzar el hechizo en PM permanentes redondeando hacia arriba (mínimo 1 PP). Si lanzar un «Ocultación arcana», nos cuesta 8 puntos de magia, para hacerlo permanente deberá sacrificar 2 PM (20% de 8 es 1,6 redondeando hacia arriba 2 PM). Además, el tiempo de preparación y de realización del hechizo, de forma que se necesita un día por PP que se vaya a gastar. No se podrán sacrificar más puntos de PP que tu Espíritu.
+Hacer un hechizo permanente exige el sacrificio del 20% del coste de lanzar el hechizo en PM permanentes redondeando hacia arriba (mínimo 1 PP).
+
+\sp
+
+Si lanzar un «Ocultación arcana», nos cuesta 8 puntos de magia, para hacerlo permanente deberá sacrificar 2 PM (20% de 8 es 1,6 redondeando hacia arriba 2 PM). Además, el tiempo de preparación y de realización del hechizo, de forma que se necesita un día por PP que se vaya a gastar. No se podrán sacrificar más puntos de PP que tu Espíritu.
 
 **Deshacer hechizos permanentes:** El taumaturgo que lanzo el hechizo de forma permanente podrá siempre que quiera deshacer el hechizo permanente con las siguientes reglas. Debe estar en contacto con el objeto o en el lugar si es una área; deberá gastar en deshacerlo un minuto por PP sacrificado; deberá gastar la mitad de los PM que gasto al lanzarlo. El hechizo permanente desaparecerá y la persona que lanzo de hechizo recuperará un PP sacrificado por semana.
 
@@ -1554,6 +1198,8 @@ Hacer un hechizo permanente exige el sacrificio del 20% del coste de lanzar el h
 Los aliados que pueden invocarse son monstruos de los Mitos, normalmente razas servidoras como los profundos o los gules. Las razas independientes y poderosas como los lloigor son más complejas de invocar. Según el rango del lanzador podrá invocar los aliados de rango igual o inferior. Para poder invocar a un ser de los Mitos ha debido conocerse y haber sobrevivido a su visión, es decir, haber hecho una TPC y haberla pasado.
 
 Los monstruos invocados generan una TPC igual a la del monstruo menos dos niveles con un mínimo de d4 a todos los que lo vean, excepto el invocador. Si queremos que generen el horror, completo el hechizo debe lanzarse usando el modificador de Horror anterior.
+
+\sp
 
 \sinc
 
@@ -1589,6 +1235,8 @@ Podrá purificar un barril de agua al día, incluso salada.
 
 Puede caminar sobre el agua durante 5 turnos.
 
+\sp
+
 #### Fuego
 
 Puedes incendiar una sección de las velas de un barco, una choza o la parte del tamaño de una choza de un edificio de mayor tamaño (a discreción del DJ cuantas veces tendrá que lanzar el hechizo para quemar todo el edificio). Incendiar supondrá que empezará un fuego, no que lo destruya directamente calcinándolo.
@@ -1615,6 +1263,8 @@ En el mar solo doblando o combando madera podrías abrir vías de agua en los ba
 
 En tierra podrías romper las ruedas de un carromato, abrir alguna puerta atrancada o incluso hacer una sección de un puente de madera.
 
+\sp
+
 Puedes tallar con las manos desnudas diferentes piezas de madera de tamaño pequeño como cuñas o incluso fundir madera, de forma que puedas reparar vías de agua. En general, todos los temas de carpintería pueden hacerse más fácilmente con este hechizo. Un náufrago con este dominio podría montarse en muy poco tiempo una buena choza donde vivir o una barca sólida con la que salir de una isla.
 
 Por último, podría hacer brotar raíces y crecer las plantas para dificultar el movimiento en una pequeña zona.
@@ -1638,6 +1288,11 @@ Los rituales menores normalmente se enseñan oralmente y no suelen estar escrito
 |7|Silbar al viento|
 |8|Protección del hogar|
 |9|Clavo en la calavera|
+
+\sp
+
+|1d20|Nombre|
+|---|---|
 |10|Cornucopia|
 |11|Soltar al gallo|
 |12|Consagrar persona|
@@ -1658,6 +1313,8 @@ Según la comunidad en que te encuentres, la mandioca puede ser otras frutas y h
 
 **Astillas en la planta de los pies:** Este sencillo ritual evitar que el cadáver de un ser querido se levante por un nigromante. Simplemente consiste en clavar astillas de madera en la planta de los pies de cadáver. Otras versiones hablan de tijeras abiertas en el pecho debajo de la ropa o la clásica estaca en el corazón. Puedes adaptarlo fácilmente a comunidad que desees. Aunque se retiren las astillas, su magia ya está hecha y el cuerpo seguirá sin poder animarse.
 
+\sp
+
 **Bendecir un arma:** Un clérigo consagrado de cualquier religión puede bendecir un arma de filo o hasta que vaya a portar un creyente de dicha religión. El método de bendición va en función de la religión y puede ser desde salpicar agua bendita en la hoja a escupir ron. En juego, el arma bendita se considera un arma mágica, pero sin ningún tipo de bonus extra y el efecto dura hasta media noche.
 
 **Bendecir la cosecha:** Este ritual en el que se entrega ron, tabaco y miel a los espíritus de la cosecha para que la protejan de los insectos, gusanos, larvas y otras plagas y alimañas. También puede usarse en la bodega del barco para evitar que las ratas se coman el cargamento. Este ritual puede usarse como una forma de crear una zona que repela hasta cierto punto monstruos insectoides como los shans o de gusanos y larvas como los chthonianos.
@@ -1670,7 +1327,11 @@ Según la comunidad en que te encuentres, la mandioca puede ser otras frutas y h
 
 **Clavo en la calavera:** Para realizar este ritual debemos clavar un clavo de plata en una calavera humana o animal. Si no se rompe el cráneo y el clavo queda sujeto, allá donde se entierre la calavera ni entrarán no-muertos ni se levantarán.
 
-**Consagrar persona:** Un clérigo de cualquier religión puede consagrar una persona a una deidad de la religión. El método de consagración va en función de la religión y puede ser desde ungir con aceites a la persona consagrada hasta ponerle unas vestiduras rituales. En juego, el héroe consagrado obtiene un +1 a todas las tiradas que impliquen estrictamente ayudar o defender a la deidad y sus adoradores. El efecto dura hasta media noche.
+**Consagrar persona:** Un clérigo de cualquier religión puede consagrar una persona a una deidad de la religión. El método de consagración va en función de la religión y puede ser desde ungir con aceites a la persona consagrada hasta ponerle unas vestiduras rituales.
+
+\sp
+
+En juego, el héroe consagrado obtiene un +1 a todas las tiradas que impliquen estrictamente ayudar o defender a la deidad y sus adoradores. El efecto dura hasta media noche.
 
 **Cornucopia:** La cornucopia o cuerno de la abundancia es un cuerno de cabra del que salen frutas, cereales, pan, vino, dulces, … Si el ritualista consigue hacer sonar un cuerno soplándolo, conseguirá riquezas. En juego, en el próximo negocio que hagan recibirán un 20% más de beneficios, pero si fallan, perderán un 20%.
 
@@ -1681,8 +1342,12 @@ La máscara solo puede usarse para hacer una pregunta y luego debe destruirse. F
 
 **Protección del hogar:** Quemando diferentes hierbas aromáticas en el lar de la casa y esparciendo sal en el umbral, se protege la casa de muchos tipos de males. Los monstruos no podrán atravesar el umbral ni amenazar físicamente a las gentes de su interior. Si podrán usar poderes mentales para, por ejemplo, hacer que los habitantes de la casa rompan el umbral. Es importante que sea un hogar, un sitio donde gente haga vida hogareña. Se podría hacer en una casa o un barco, pero no en una tienda o una biblioteca.
 
+\sp
+
 **Queimada:** La queimada es una popular bebida alcohólica gallega de origen medieval que llevaron al caribe los conquistadores españoles. Principalmente es aguardiente con azúcar, cáscara de limón o naranja y a veces granos de café, que se flambea. Cuando se extingue la llama puede beberse, así que normalmente se toma caliente.  
+
 Es un ritual para expulsar a las meigas (brujas gallegas) y proteger a los participantes de sus maldiciones. En partida, cada ritual de queimada protege a 5 personas y hace que cualquier practicante de magia deba pasar una tirada de Espíritu para poder lanzar un conjuro con el objetivo protegido. Esto también afecta a hechizos con efectos beneficiosos o de área. El efecto dura hasta la próxima luna nueva (1 semana). Si el brujo pasa la tirada, no tendrá que hacerla nunca más, pudiendo lanzar hechizos a ese objetivo sin problemas, pero si falla, podrá intentarlo el siguiente turno y no pierde los puntos de poder del hechizo perdido.  
+
 El aguardiente puede ser cualquier alcohol destilado, por ejemplo el ron.
 
 **Ritual de buena suerte:** Hay montones de rituales de buena, desde meter un trébol de cuatro hojas en tu zapato hasta dejar una copa de bebida para los espíritus, pasando por llevar ropa de color rojo o comer uvas con las campanadas. Cuando se aprende el ritual se debe especificar el ritual que se va a seguir.  
@@ -1690,6 +1355,8 @@ Una vez por sesión solo una persona de tu mesa podrá intentar este ritual de b
 
 **Sanación obeah:** El obeah es toda una mezcla de religiones de África Occidental que se caracteriza por tener muchos y variados rituales de sanación, desde cuidados de las parturientas hasta tratamiento de heridas graves y epidemias. El practicante de esta fe sabe realizar una serie de prácticas que pueden parecer mágicas, pero en la mayoría de los casos son buenas prácticas médicas como limpiar y desinfectar heridas o bebedizos de plantas para provocar abortos.  
 Este ritual puede cogerse varias veces tratando diferentes tipos de prácticas médicas (traumatismos, epidemias, obstetricia, neumología, …) Pasando la tirada de Espíritu podrás otorgar un +1 extra a las tiradas de recuperación de tu paciente si sufre alguna dolencia relacionada con tus conocimientos de sanación obeah.
+
+\sp
 
 **Silbar al viento:** En momentos de calma chica en el mar, el más joven del barco debe silbar (cosa prohibida en los barcos) para atraer el viento. Otra opción es que toda la tripulación, incluso capitanes y oficiales, cuelguen su ropa interior en las velas. Con este ritual podemos cambiar una «Calma chicha» por un «Tiempo perfecto».
 
@@ -1705,6 +1372,8 @@ El ritual de la Cohoba no es un ritual menor, es quizás el ritual más importan
 
 Se van a necesitar muchos elementos para llevar a cabo este ritual, los agentes psicotrópicos, las vasijas de los cemíes, el tambor mayohabao que tocaba el behike y los duhos o bancos de 3 patas donde se sentaban los asistentes. Además, este ritual solo van a poder realizarlo los personajes con ayuda de un behike que dirija el ritual y que sepa la fórmula secreta de los alucinógenos.
 
+\sp
+
 En partida, este ritual permite comunicarse con cualquier entidad primigenia, pero para ello el behike debe conocerla para poder invocarla adecuadamente con las fórmulas mágicas adecuadas y debe haber tallado la vasija que lo representa.
 
 > Todos los asistentes deberán drenar toda su reserva de puntos de magia y hacer una tirada primero de Vigor y fallarla para verse afectado por las drogas y a continuación pasar una de Espíritu para que su consciencia trascienda a un plano superior. En este plano los participantes entrarán en contacto con la deidad/primigenia (con una tirada de TPC a la mitad si son seres de los Mitos, mínimo 1d4) y estás les ofrecerán visiones que les ayudarán a tomar una decisión.
@@ -1719,9 +1388,15 @@ La idea es que los libros no sean los clásicos de los mitos de Cthulhu sino bit
 
 Son libros más mundanos donde el autor cuenta sus experiencias con el horror y la locura de los mitos de Cthulhu. Además, elementos como el formato, edición o estado de conversación puede hacerlos todavía más únicos.
 
-También hay que tener en cuenta que muchas veces puede que sean únicos y no haya más copias, ya que, como hemos dicho, no sean libros en sí, sino que sean correspondencia entre dos personas, un diario personal o las notas de campo con las que luego se hizo un libro completo. Esto hará que se tengan que conservar adecuadamente porque no hay más copias y si se pierden se acabó la información que contenían. También son buenos regalos que pueden conseguirte favores y contactos si los entregas a las personas adecuadas.
+También hay que tener en cuenta que muchas veces puede que sean únicos y no haya más copias, ya que, como hemos dicho, no sean libros en sí, sino que sean correspondencia entre dos personas, un diario personal o las notas de campo con las que luego se hizo un libro completo.
 
-En cuanto a su valor monetario, los personajes no deberían poder venderlos fácilmente porque los no-iniciados en el mundo de los Mitos no los encontrarán interesantes y con los iniciados es más interesante usarlos como moneda de cambio para conseguir otros libros u objetos extraños. En caso de que necesitarán urgentemente dinero para situaciones extremas, como pagar un rescate o sacar a un compañero de la cárcel, hazles unas tiradas de botín usando el TPC del libro, pero solo pudiendo tirar luego en la tabla de riquezas.
+\sp
+
+Esto hará que se tengan que conservar adecuadamente porque no hay más copias y si se pierden se acabó la información que contenían. También son buenos regalos que pueden conseguirte favores y contactos si los entregas a las personas adecuadas.
+
+En cuanto a su valor monetario, los personajes no deberían poder venderlos fácilmente porque los no-iniciados en el mundo de los Mitos no los encontrarán interesantes y con los iniciados es más interesante usarlos como moneda de cambio para conseguir otros libros u objetos extraños.
+
+En caso de que necesitarán urgentemente dinero para situaciones extremas, como pagar un rescate o sacar a un compañero de la cárcel, hazles unas tiradas de botín usando el TPC del libro, pero solo pudiendo tirar luego en la tabla de riquezas.
 
 #### Leer libros
 
@@ -1738,6 +1413,8 @@ Serían periodos de varios días de relativa tranquilidad en la que poder centra
 Si necesitan leer el libro para continuar y paran expresamente para leerlo, necesitarán 7 días para leerlo y estudiarlo.
 
 Durante esa semana podrá llevar una vida normal e incluso hacer pequeñas acciones, como visitar al gobernador, batirse en duelo, etc. cosas rápidas y sencillas. No podrá hacer, por ejemplo, vigilancias, adentrarse en la jungla, construir algún artilugio o ayudar activamente en el barco (dando bonus a pilotaje o a combate).
+
+\sp
 
 Una vez leído el libro se marcará como leído y hará la TPC. Cuando pueda gastar avances podrá adquirir las ventajas, habilidades y demás elementos que exigen leer libros de los Mitos.
 
@@ -1763,6 +1440,8 @@ Cada libro tiene una serie de características que se definen haciendo tiradas e
 * Tamaño.
 * Estado de conservación.
 
+\sp
+
 \sinc
 
 ##### Tabla de Título para libro
@@ -1787,6 +1466,15 @@ Cada libro tiene una serie de características que se definen haciendo tiradas e
 |16|Historias inconfesables|16|&#91;en/por&#93; el Caribe|
 |17|Extraños relatos eróticos|17|&#91;en/por&#93; &#91;Isla del Caribe&#93;|
 |18|El manuscrito perdido|18|en el fondo del mar|
+
+\conc
+
+\sp
+
+\sinc
+
+|1d20|Inicio del título|1d20|Final de título|
+|---|---|---|---|
 |19|El diario perdido de &#91;Nombre&#93;|19|más allá del tiempo|
 |20|El viejo cantar|20|más allá de la muerte|
 
@@ -1808,6 +1496,8 @@ Cuando un libro saca el mismo número en las partes de su título o saca un 1 o 
 |6|La historia tiene un buen final y se narra de una forma tan reconfortante que el lector recupera 1 punto de cordura.|
 
 \conc
+
+\sp
 
 ##### Tabla de Idioma para libros
 
@@ -1832,7 +1522,10 @@ Cuando un libro saca el mismo número en las partes de su título o saca un 1 o 
 |11|d12|
 |12|d12 + 1|
 
+
 \sinc
+
+&nbsp;
 
 ##### Tabla de Tamaño para libros
 
@@ -1846,6 +1539,8 @@ Cuando un libro saca el mismo número en las partes de su título o saca un 1 o 
 |10|**Varios tomos.** Exige 2 semanas para estudiarlo en vez de 1.|
 
 \conc
+
+\sp
 
 \sinc
 
@@ -1881,8 +1576,11 @@ Si bien las reglas de persecuciones en vehículos de SWEA cubren los combates na
 ### Horror
 
 Puede darse el caso de que una nave quiera luchar contra un gigantesco ser los Mitos u barcos con TPC (con modificaciones horrorosas). Para poder hacerlo, la tripulación deberá pasar una tirada TPC usando el Espíritu medio de la tripulación (coge la ficha del tripulante normal y usa su Espíritu). Si se falla la nave huirá y será decisión del DJ si el monstruo se aprovecha de la situación y es el que persigue a la nave. En ese caso, la nave tratará como sea de evitar entrar en combate.  
+
 Como en las TPC normales, puede darse el caso de que el DJ decida que los tripulantes están acostumbrados al horror (regla de «Acostumbrarse») o que el capitán intente dar una arenga antes de hacer la TPC (regla de «Pásame la jarra de ron»).  
 Si consiguen huir los marineros quedarán trastornados mentalmente (-1 a todas las tiradas) hasta que consigan darse una buena juerga.
+
+\sp
 
 ### Hechicería
 
@@ -1916,6 +1614,8 @@ La capacidad de carga de los barcos ha sido marcada en barriles y esa es la cant
 
 En condiciones normales, como viajes de hasta dos semanas, las raciones de agua y comida de la tripulación y los pasajeros no ocupan espacio de carga y no influyen en las características del barco. En viajes más largos queda a tu discreción como DJ.
 
+\sp
+
 Como habrás visto ya en las fichas de las naves, algunos tipos permiten intercambiar la capacidad de carga por armamento o tripulación. Los cálculos de penalizaciones se hacen sobre la ficha tipo, no la real del barco. Los barriles extras en ningún caso podrán convertirse en armamento o tripulación.
 
 Durante los viajes se puede perder carga. Si se sufren tormentas se perderá un 1d10 barriles debido a que se han roto el barril o se ha mojado y estropeado el contenido. En caso de lluvia serán 1d6 barriles.
@@ -1923,8 +1623,6 @@ Durante los viajes se puede perder carga. Si se sufren tormentas se perderá un 
 ### Comprando y vendiendo carga
 
 Si vas a usar tu barco para comerciar entre las islas, deberás llenar tus bodegas de carga que vender en otra isla con un beneficio. Puedes comprar dos tipos de carga: materias primas y productos manufacturados. Hay un tercer tipo de carga, el botín, que no puede ser comprada, solo puede obtenerse asaltando barcos, buscando tesoro y en general corriendo aventuras. El precio de compra/venta del barril de cada tipo de carga depende de donde se compra y vende. La siguiente tabla te dice el precio de compra y venta de cada tipo de carga según donde se haga la transacción. Puede haber ciudades en la Guía de viajes que tengan reglas especiales.
-
-\sinc
 
 #### Tabla de compra/venta de carga
 
@@ -1957,6 +1655,8 @@ Cap.
 Precio
 
 Cap.
+
+\sp
 
 &lt; 5.000 habitantes
 
@@ -2030,7 +1730,7 @@ de 25.001 a 50.000 habitantes
 
 200
 
-\conc
+\sp
 
 Para comprar la carga y cargarla o para descargarla y venderla necesitarás que el barco esté en un puerto mínimo de media semana. Si se tienen que irse del puerto antes de ese tiempo, no podrán haber vendido o comprado carga y tendrán que hacerlo en otro puerto.
 
@@ -2043,6 +1743,8 @@ La compra/venta de carga es automática, no se necesita ninguna tirada. Puedes c
 ### La muerte y los impuestos
 
 Hasta los piratas más piratas tienen que pagar impuestos o mordida si quiere vender sus productos en un puerto del Caribe. Lo normal es que el gobierno se quede con un 10% del total obtenido de venta de la carga. Esto incluye el precio del amarre, protección del puerto y otros gastos burocráticos. Puede haber ciudades como algunos enclaves piratas que tengan impuestos más baratos o incluso no los haya o ciudades como La Habana donde el gobierno te cobre el 10% y la RCPC te cobra otro 10% extra debido a su monopolio comercial del Caribe.
+
+\sp
 
 ### Botín y contrabando
 
@@ -2080,7 +1782,11 @@ Si se consigue:
 * 2 éxitos puede tirar 2 veces en la tabla de riquezas o 1 en la tabla de objetos extraordinarios.
 * 3 éxitos suponen, 3 tiradas en la tabla de riquezas, 1 en la de riqueza más 1 en la de objetos extraordinarios o solo 1 en la tabla más allá del tiempo y el espacio.
 
+\sp
+
 Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan tirada de botín que deberemos usar como si fuera la tirada de pérdida de cordura, salvo que en esos casos no se podrán usar éxitos en la tabla de más allá del tiempo y el espacio.
+
+\sinc
 
 ### Riquezas
 
@@ -2102,12 +1808,23 @@ Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan ti
 |1d12|Tipo|
 |---|---|
 |1-3|**Arma cuerpo a cuerpo:** Tira en la tabla de armas cuerpo a cuerpo y luego en la de capacidades.|
+
+\conc
+
+\sp
+
+\sinc
+
+|1d12|Tipo|
+|---|---|
 |4-6|**Arma de fuego:** Tira en la tabla de armas de fuego y luego en la de capacidades.|
 |7|Ejemplar de La Verdad de La Habana|
 |8|**Ritual menor:** Un conjunto de apuntes, un telar con extraños símbolos, una piedra tallada, etc. que explica como realizar el ritual. Saca al azar un hechizo de la tabla de Rituales menores.|
 |9-10|**Libro prohibido:** Vete a la sección de Generación de libros de los Mitos para crearlo.|
 |11|**Objetos pequeños y útiles:** Tira en la tabla de objetos pequeños y útiles.|
 |12|**Objetos de gran tamaño:** Tira en la tabla de objetos de gran tamaño.|
+
+\conc
 
 #### Tabla de Armas cuerpo a cuerpo
 
@@ -2120,6 +1837,8 @@ Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan ti
 |5|Espada ropera|
 |6|Daga|
 
+\sc
+
 #### Tabla de capacidades de Armas cuerpo a cuerpo
 
 |1d10|Capacidad|
@@ -2130,6 +1849,8 @@ Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan ti
 |8|De duelo, +1 a pelea y +2 a daño|
 |9|De parada, +2 a parada|
 |10|Legendaria, +2 a pelea y +2 a daño. Tiene nombre propio y perteneció a alguien famoso.|
+
+\sp
 
 #### Tabla de Armas de fuego
 
@@ -2151,11 +1872,17 @@ Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan ti
 |9|De tirador, dobla las distancias|
 |10|Legendaria, +2 a disparo y +2 a daño. Tiene nombre propio y perteneció a alguien famoso.|
 
+
 #### Tabla de Objetos pequeños y útiles
 
 |1d20|Nombre|
 |---|---|
 |1|Anestésico natural de la jungla|
+
+\sc
+
+|1d20|Nombre|
+|---|---|
 |2|Tinta invisible|
 |3|Brea pegalotodo|
 |4|Canicas magnetizadas|
@@ -2176,6 +1903,8 @@ Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan ti
 |19|Mapa de un tesoro|
 |20|Mapa real de un tesoro|
 
+\sp
+
 **Anestésico natural de la jungla:** Este bebedizo hecho con extractos de misteriosas plantas de la jungla quita un nivel de penalización por daño durante una escena. El recipiente tiene 1d6 usos.
 
 **Brea pegalotodo:** Este ungüento maloliente es un potente pegamento de secado muy rápido que permite reparar un objeto roto de tamaño normal (algo que se pueda llevar en una mano) en un solo turno con una tirada exitosa de Reparar. La duración de la reparación no suele ser muy larga, utiliza la Tabla de Duración del trastorno para determinar la duración de la reparación. También puede usarse para reparar como pequeñas fugas del casco.  
@@ -2187,7 +1916,15 @@ Si se quiere reparar algo de mayor tamaño, el director de juego podrá establec
 
 **Caja de pirotecnia:** Dentro de una caja de madera puedes encontrar diferentes tipos artefactos pirotécnicos. Puede usarse para señalizar una posición, como entretenimiento o espectáculo o como arma (cada cohete haría el daño de una granada y tendría la distancia de un mosquete). Siempre harán un montón de luz y de ruido. Hay 1d12 + 10 cohetes.
 
-**Canicas magnetizadas:** Estas bolas de metal ennegrecidas del tamaño de canicas se magnetizaron cuando las toco un rayo de tormenta. Ahora se atraen entre sí, aunque haya mucha distancia entre ellas. Son perfectas para meter una de las canicas en un cofre o ponérsela en un bolsillo a una persona y así poder seguirle el rastro a distancia. Mientras el personaje que lleva la canica este a menos de un kilómetro, podrá saber dónde está la otra canica, dejando la suya rodar por el suelo y siguiendo la dirección que indique.
+**Canicas magnetizadas:** Estas bolas de metal ennegrecidas del tamaño de canicas se magnetizaron cuando las toco un rayo de tormenta. 
+
+\sp
+
+Ahora se atraen entre sí, aunque haya mucha distancia entre ellas. 
+
+Son perfectas para meter una de las canicas en un cofre o ponérsela en un bolsillo a una persona y así poder seguirle el rastro a distancia.
+
+Mientras el personaje que lleva la canica este a menos de un kilómetro, podrá saber dónde está la otra canica, dejando la suya rodar por el suelo y siguiendo la dirección que indique.
 
 **Capa de salamandra de fuego:** Esta capa, que permite tapar a una persona y un acompañante, está hecha de una tela tratada químicamente para no quemarse y proteger del fuego y calor, que no del humo. Solo protege de fuegos de tamaño y temperatura normal, pudiendo meterse en una casa en llamas y salvar a un bebé. Para fuegos y temperaturas extremas como lava se quema en 1d6 turnos, pudiéndose, por ejemplo, colocar sobre lava y ponerse encima mientras se consume.
 
@@ -2197,7 +1934,13 @@ Si se quiere reparar algo de mayor tamaño, el director de juego podrá establec
 
 **Instrumento musical de calidad:** Es un instrumento de muy buena calidad con partes enjoyadas o de metales preciosos. Es un instrumento del tamaño de un violín, una guitarra, … Otorga un +2 cuando se utiliza en actuaciones. Tiene un precio en mercado de un 1d10 x 500 doblones. También puede ser un excelente regalo para granjearse la amistad de algún personaje.
 
-**Mapa falso de un tesoro:** Es un mapa del tesoro totalmente falso. Está muy elaborado con muchos detalles fantásticos y visualmente es muy bonito. Puede que un cartógrafo lo hiciera como decoración para gente rica y después alguien le añadió algún tipo de elemento para que pareciera un mapa del tesoro. Puede venderse como un mapa por 1d20 doblones o tratar de timar a alguien vendiéndolo como auténtico. Pueden tratar de colárselo a un enemigo que desaparecerá de la partida durante 2d4 sesiones de juego mientras busca el tesoro, pero cuando vuelva seguramente vendrá con ganas de venganza, más de las normales.
+**Mapa falso de un tesoro:** Es un mapa del tesoro totalmente falso. Está muy elaborado con muchos detalles fantásticos y visualmente es muy bonito. Puede que un cartógrafo lo hiciera como decoración para gente rica y después alguien le añadió algún tipo de elemento para que pareciera un mapa del tesoro.
+
+Puede venderse como un mapa por 1d20 doblones o tratar de timar a alguien vendiéndolo como auténtico. 
+
+\sp
+
+Pueden tratar de colárselo a un enemigo que desaparecerá de la partida durante 2d4 sesiones de juego mientras busca el tesoro, pero cuando vuelva seguramente vendrá con ganas de venganza, más de las normales.
 
 **Mapa de un tesoro:** Es un mapa auténtico, pero ya ha sido saqueado. Puede ser un mapa como tal, un diario del capitán, unas coordenadas, etc. el problema es que ya ha sido total o parcialmente saqueado. Lo que queda del tesoro está relativamente cerca de la civilización (media semana ir y media volver) y podría ir a buscarlo mientras arreglan el barco, les traducen algún texto importante, esperan juicio, … No siempre se gana y se llevarán una decepción cuando encuentren un cofre abierto y vacío. Si quieres déjales alguna nota manuscrita de algún odiado enemigo riéndose de ellos por haberles dejado sin tesoro.
 
@@ -2209,7 +1952,11 @@ Si se quiere reparar algo de mayor tamaño, el director de juego podrá establec
 
 **Prototipo de cronómetro marino:** Este cronómetro de gran precisión, preparado para funcionar en un barco, permite conocer la longitud en que se encuentra el barco. La latitud se puede saber por el sol y las estrellas. Otorga un +2 a las tiradas de navegación y pilotaje de un barco que no tengan que ver con maniobras en combate. También otorga el +2 a la hora de trazar mapas y cartas marinas.
 
-**Prototipo de extintor de incendios:** Este artilugio es muy valioso en sitios como los barcos donde el fuego es una gran amenaza. Con este invento puede apagarse un fuego del tamaño de un grupo de velas de barco o una cabaña pequeña en 5 turnos. Está formado por 4 cilindros, 1 de sosa y otros 3 de agua. Al darse al pulsador se junta la sosa con el agua que sale a presión. Tras usarse debe recargarse la sosa y el agua.
+\sp
+
+**Prototipo de extintor de incendios:** Este artilugio es muy valioso en sitios como los barcos donde el fuego es una gran amenaza. Con este invento puede apagarse un fuego del tamaño de un grupo de velas de barco o una cabaña pequeña en 5 turnos.
+
+Está formado por 4 cilindros, 1 de sosa y otros 3 de agua. Al darse al pulsador se junta la sosa con el agua que sale a presión. Tras usarse debe recargarse la sosa y el agua.
 
 **Tabletas de purificación:** Estas tabletas de cloro permiten potabilizar agua dulce. Permiten limpiar agua para 1d6 semanas para una persona. Aunque su sabor es horrible, está totalmente limpia de peligros.
 
@@ -2232,6 +1979,11 @@ Si se quiere reparar algo de mayor tamaño, el director de juego podrá establec
 |9|Redes de hilo de seda|
 |10|Gran recipiente lleno de formol|
 |11|Estatua romana de mármol|
+
+\sp
+
+|1d20|Nombre|
+|---|---|
 |12|Balas de cañón trucadas|
 |13|Armadura de caballero ornamentada|
 |14|Enciclopedia|
@@ -2246,7 +1998,11 @@ Si se quiere reparar algo de mayor tamaño, el director de juego podrá establec
 
 **Balas de cañón trucadas:** Dentro de una caja de munición entre paja hay 10 + 1d20 balas de cañón trucadas. Parecen balas totalmente reales, tienen el mismo peso, color, tacto, … Solo una tirada de Reparar con dos avances podría detectarlas. Al dispararse desde un cañón hacen estallar el propio cañón, inhabilitándolo y haciendo 3d6 de daño a los artilleros cercanos al cañón. Unos héroes listos usarían las balas de cañón trucadas para engañar a sus enemigos. Podrían sustituir las balas verdaderas por las trucadas en la batería de cañones que defiende el puerto para poder atacarlo o escapar de él sin recibir daño.
 
-**Cabeza gigante olmeca:** La cultura olmeca se desarrolló en el sur de México entre el 3000 y el 400 a. C. De este pueblo nos han quedado unas enigmáticas cabezas colosales de piedra, exactamente alabastro. No se sabe ciertamente si representan a deidades o a personas importantes e influyentes. Cómo ha llegado a donde ha llegado (recuerda que es del continente) y para qué lo querían debería ser un misterio y cómo se lo van a llevar tus jugadores también debería serlo, ya que miden entre 2 y 3 metros de altura y pueden pesar entre 5 y 20 toneladas. Disfruta de cómo se las ingenian para llevársela a la civilización y cómo, después del esfuerzo, se dan cuenta de que nadie da un doblón de oro por ella y de qué no sirve de nada en rituales y otros temas mágicos.
+**Cabeza gigante olmeca:** La cultura olmeca se desarrolló en el sur de México entre el 3000 y el 400 a. C. De este pueblo nos han quedado unas enigmáticas cabezas colosales de piedra, exactamente alabastro. No se sabe ciertamente si representan a deidades o a personas importantes e influyentes. Cómo ha llegado a donde ha llegado (recuerda que es del continente) y para qué lo querían debería ser un misterio y cómo se lo van a llevar tus jugadores también debería serlo, ya que miden entre 2 y 3 metros de altura y pueden pesar entre 5 y 20 toneladas.
+
+\sp
+
+Disfruta de cómo se las ingenian para llevársela a la civilización y cómo, después del esfuerzo, se dan cuenta de que nadie da un doblón de oro por ella y de qué no sirve de nada en rituales y otros temas mágicos.
 
 **Campana de buceo de cristal:** Esta campana de metal y cristal permite que hasta dos personas bajen al fondo marino, mientras otra maneja una bomba de aire. La campana tiene unos brazos mecánicos que permiten operar en el fondo marino. La campana se puede desplazar muy lentamente y debido a su tamaño (+2) no podrá entrar en sitios pequeños.
 
@@ -2258,7 +2014,11 @@ Al saltar hace daño con una FUE 1d12 + 3 y corta directamente por la mitad a cu
 
 **Dunun:** Este grupo tambores de origen africano está compuesto por 3 piezas: kenkeni (el más pequeño), sangban (el medio) y doundounba (el más grande). Seguramente fueron hechos por los esclavos africanos traídos al Caribe para trabajar en plantaciones de caña y tabaco. Puede ser usado en rituales que exijan percusión y por su alto valor cultural serán un regalo estupendo para granjearse la amistad y la ayuda de las comunidades de origen africano del caribe.
 
-**Enciclopedia:** Un innovador impresor ha recopilado varios tratados de ciencias, historia, arte, etc. en unos 10 tomos de gran tamaño. Casi todo el conocimiento general del mundo actual está entre sus hojas. A nivel de juego, si se puede dedicar una 1 hora a revisar sus tomos, se obtendrá un +1 a la siguiente tirada de Conocimientos generales.
+\sp
+
+**Enciclopedia:** Un innovador impresor ha recopilado varios tratados de ciencias, historia, arte, etc. en unos 10 tomos de gran tamaño. Casi todo el conocimiento general del mundo actual está entre sus hojas.
+
+A nivel de juego, si se puede dedicar una 1 hora a revisar sus tomos, se obtendrá un +1 a la siguiente tirada de Conocimientos generales.
 
 **Estatua romana de mármol:** Es una estatua de mármol de algún personaje de la antigua Roma de cintura para arriba (busto más torso). Pero es tan raro y están tan fuera de lugar que los jugadores se tirarán horas intentando averiguar para qué sirve o cómo funciona. Si quieres divertirte puedes sugerir que se parece a algún personaje que odien mucho que se hayan encontrado en sus aventuras y que empiecen a elaborar teorías locas como que es inmortal o viene de un antiguo linaje. Al final harán como en las aventuras gráficas clásicas, probarán la estatua con todo lo que se encuentren. Por otro lado, como elemento decorativo en la cabina del capitán es muy bonito y es perfecto para colgar el sombrero.
 
@@ -2267,7 +2027,11 @@ Contiene un intrincado mecanismo que mueve una serie de lentes y espejos. Ponié
 
 **Globo aerostático:** Dentro de una gran caja de madera hay un prototipo de globo aerostático muy ornamentado. Montarlo e hincharlo lleva como una hora y permite elevarse como unos 200 metros, pero no se puede controlar la dirección del vuelo. Se necesita una tirada de Ciencias para llevar a buen fin todo el proceso. Es perfecto para vigilar, ya que permite ver a grandes distancias y también como una forma rápida de huida siempre que el enemigo no tenga voladores.
 
-**Gran bloque de mármol:** Este gran bloque de mármol tiene un muy buen precio si consiguen transportarlo y encontrar el artesano adecuado que lo convierta en losas, encimeras, baldosas o incluso un buen busto de un personaje famoso. Como en otros de los objetos de esta tabla, tratado adecuadamente puede ser un gran regalo para congraciarse con los ricos y poderosos.
+**Gran bloque de mármol:** Este gran bloque de mármol tiene un muy buen precio si consiguen transportarlo y encontrar el artesano adecuado que lo convierta en losas, encimeras, baldosas o incluso un buen busto de un personaje famoso. 
+
+\sp
+
+Como en otros de los objetos de esta tabla, tratado adecuadamente puede ser un gran regalo para congraciarse con los ricos y poderosos.
 
 **Gran recipiente lleno de formol:** Este recipiente de metal y cristal de gran tamaño está lleno de formol. Seguramente perteneció a algún naturalista que lo usaba para conservar grandes mamíferos. Permite conservar un cadáver de un animal o monstruo de hasta tamaño 3 indefinidamente y con mínima degradación. El monstruo tiene que tener forma física y desde luego debe quedar un cadáver, por ejemplo, no se podría conservar un vampiro de fuego, ya que realmente al morir no queda nada.
 
@@ -2278,7 +2042,13 @@ Puedes entrenar con él tus habilidades con armas de fuego de pólvora negra. Po
 
 **Redes de hilo de seda:** Estas redes hechas de hilo de seda son tremendamente resistentes (consistencia 10) y muy ligeras (5 kilos). Parecen ser de origen chino y permiten atrapar peces de gran tamaño sin romperse (+1 a toda actividad de pesca). Un manitas podría adaptarlas fácilmente para crear una trampa para atrapar animales (y monstruos) de gran tamaño (tamaño 3).
 
-**Restos fosilizados de un reptil terrible:** Envueltos en lona de vela hay un conjunto de huesos fosilizados de algún tipo de caimán o tortuga de gran tamaño. A priori no parecen de gran valor, pero vendidos a la persona indicada puede sacarse 1d10 x 200 doblones. Si quieren traspasar líneas que no debieran, igual podrían intentar usar hechizos de resurrección o de creación de zombis con los restos … Total, ¿qué puede salir mal por devolver a la vida reptiles gigantes? _(Gracias a Jim Butcher por esta maravillosa idea)_  
+\sp
+
+**Restos fosilizados de un reptil terrible:** Envueltos en lona de vela hay un conjunto de huesos fosilizados de algún tipo de caimán o tortuga de gran tamaño. 
+
+A priori no parecen de gran valor, pero vendidos a la persona indicada puede sacarse 1d10 x 200 doblones.
+
+Si quieren traspasar líneas que no debieran, igual podrían intentar usar hechizos de resurrección o de creación de zombis con los restos … Total, ¿qué puede salir mal por devolver a la vida reptiles gigantes? _(Gracias a Jim Butcher por esta maravillosa idea)_  
 Estos huesos pueden ser usados en el relato salvaje «Cazadores de huesos».
 
 **Tabla para deslizarse sobre las olas:** Estas tablas de madera de origen peruano permiten a una persona moverse rápidamente en el mar haciendo uso de la fuerza de las olas. En caso de no haber olas pueden tumbarse y remar con los brazos. Están pulidas para conseguir la menor resistencia al agua y tiene un extremo redondeado y otro plano. Suelen medir 1 vez y media o 2 veces un humano normal.  
@@ -2290,7 +2060,13 @@ Para moverse con ellas remando no se necesita hacer tiradas. Si se quiere aprove
 
 ### Objetos más allá del tiempo y el espacio
 
-Todos los objetos de la siguiente tabla son objetos extraños y misteriosos, muchas veces malditos, que los personajes deben identificar y aprender a usar. Para ello deberán pasar una tirada de Mitos, o que alguien que los reconozca les explique qué son y cómo funcionan. No les digan nunca que son y como funcionan hasta que no los identifiquen. Cuando los encuentres solo descríbeselos.
+Todos los objetos de la siguiente tabla son objetos extraños y misteriosos, muchas veces malditos, que los personajes deben identificar y aprender a usar.
+
+\sp
+
+Para ello deberán pasar una tirada de Mitos, o que alguien que los reconozca les explique qué son y cómo funcionan. 
+
+No les digan nunca que son y como funcionan hasta que no los identifiquen. Cuando los encuentres solo descríbeselos.
 
 #### Tabla de Objetos más allá del tiempo y el espacio
 
@@ -2320,7 +2096,10 @@ Todos los objetos de la siguiente tabla son objetos extraños y misteriosos, muc
 
 **Amuleto con símbolo arcano:** Este amuleto, que puede tener muchas formas, desde pentáculos de plata a saquitos de polvos, tiene un símbolo en forma de una línea diagonal con otros cinco trazos emergiendo a los lados. Ofrece a su portador un +1 a todas las tiradas enfrentadas de hechizos y habilidades especiales de los monstruos de los Mitos.
 
-**Ánfora de viaje por las Tierras del sueño:** Esta pequeña ánfora griega con infinidad de nombres grabados en su superficie contiene un icor de color verde. Si se graba el nombre de un lugar y todos los tripulantes de un barco toman el bebedizo del ánfora, caerán en un profundo sueño. La nave entrará en las Tierras de los Sueños, viajará por sus mares para volver al mundo normal y aparecerá en el lugar escrito en el ánfora.  
+\sp
+
+**Ánfora de viaje por las Tierras del sueño:** Esta pequeña ánfora griega con infinidad de nombres grabados en su superficie contiene un icor de color verde. Si se graba el nombre de un lugar y todos los tripulantes de un barco toman el bebedizo del ánfora, caerán en un profundo sueño. La nave entrará en las Tierras de los Sueños, viajará por sus mares para volver al mundo normal y aparecerá en el lugar escrito en el ánfora.
+
 La nave puede tirarse días y semanas en las Tierras de los Sueños, pero cuando vuelva a nuestro mundo solo habrán pasado unas horas. De hecho, los tripulantes verán que su pelo y sus uñas han crecido, sus ropas están sucias y malolientes como si no se hubieran bañado en semanas y tendrán una sed y un hambre atroz al despertarse.  
 
 El ánfora se quedará en la Tierra de los sueños, para volver a aparecer años más tarde en el mundo de la Vigilia.
@@ -2331,10 +2110,16 @@ Si algún tripulante se despierta mientras están en la Tierra de los Sueños, e
 
 **Carta náutica de los profundos:** Estos mapas hechos por los profundos en piel curtida de tiburones y grandes cetáceos son muy detallados en temas de corrientes, costas, arrecifes, etc. y otorgan +2 a las tiradas de Navegar dentro de la zona representada por el mapa.
 
-**Cilindro cerebral de los Mi-Go:** Dentro de estos cilindros de metal verdusco hay un cerebro humano vivo. Los Mi-Go se dedican a meter cerebros de humano sobresalientes en estos cilindros para llevárselos a su planeta y poder estudiarlos y aprender de ellos. Estos cilindros tiene un sensor que le permite al cerebro escuchar que pasa a su alrededor y otro dispositivo que le permite comunicarse con una voz metálica.  
-Estos cilindros están pensados para transportar cerebros y por eso los mantienen medio desactivados. El cerebro puede contestar preguntas y elaborar teorías a partir de sus conocimientos, pero sus funciones sociales/sentimentales están desactivadas, ni se aburre, ni se emociona, ni siente miedo, … Tampoco tiene muy claro qué es ahora, quién fue o cómo acabo en un cilindro.
+**Cilindro cerebral de los Mi-Go:** Dentro de estos cilindros de metal verdusco hay un cerebro humano vivo. Los Mi-Go se dedican a meter cerebros de humano sobresalientes en estos cilindros para llevárselos a su planeta y poder estudiarlos y aprender de ellos. Estos cilindros tiene un sensor que le permite al cerebro escuchar que pasa a su alrededor y otro dispositivo que le permite comunicarse con una voz metálica.
+
+Estos cilindros están pensados para transportar cerebros y por eso los mantienen medio desactivados. El cerebro puede contestar preguntas y elaborar teorías a partir de sus conocimientos, pero sus funciones sociales/sentimentales están desactivadas, ni se aburre, ni se emociona, ni siente miedo, … 
+
+\sp
+
+Tampoco tiene muy claro qué es ahora, quién fue o cómo acabo en un cilindro.
 
 A nivel de juego, cada cerebro permite a su propietario hacer una tirada de d10 (sin dado salvaje) de Conocimientos Generales, Ciencias, Humanidades, Medicina o Tácticas. El DJ puede decidir la habilidad al azar o escoger una según el contexto donde se encontró.  
+
 Si alguna persona abre el cilindro o se rompe y deja ver su contenido, todos los presentes tendrán que hacer una TPC de d6.
 
 **Cuerda de la horca de Anacaona:** Anacaona fue una cacique taína que fue ahorcada por los españoles 1506 a pesar de haber ayudado a Colón y el resto de españoles de su expedición. Escapo a la masacre de los 80 caciques y fue apresada y juzgada por insurrección y finalmente condenada a la horca. [_Más información en la Wikipedia_](https://es.wikipedia.org/wiki/Anacaona)  
@@ -2347,6 +2132,8 @@ Podrá deshacerse de esas desventajas cuando se haga sobre él un hechizo de Des
 
 **Espora de Ubbo-Sathla:** Ubbo-Sathla es un dios primigenio que vino nuestro planeta desde el espacio. Se cree que es el origen de la vida en la tierra. Es una masa informe con un color y textura parecida al légamo sin cabeza ni extremidades reconocibles. Lo que tienes entre las manos es una de sus esporas. Si se planta en la tierra, a mañana siguiente en el lugar donde se plantó saldrán todo tipo de plantas cubriendo toda la zona de vegetación (un círculo de 100 metros de radio).
 
+\sp
+
 Las plantas no son naturales de la zona, sino que son versiones prehistóricas de las plantas que había en esa zona. Puede, por ejemplo, usarse para volver a esconder en la jungla unas ruinas perdidas u obstaculizar el paso del enemigo. Si se tira al mar puede crear grandes zonas de sargazos que dificulte el paso de las embarcaciones. Podría usarse, por ejemplo, en un puerto para dificultar y retrasar la salida de barcos de un puerto durante unos días.
 
 Presenciar en vivo este proceso de crecimiento descontrolado de plantas y árboles no va a provocar horror, pero desde luego las insinuaciones, rumores y acusaciones de brujería se dispararán en las comunidades cercanas.
@@ -2354,6 +2141,8 @@ Presenciar en vivo este proceso de crecimiento descontrolado de plantas y árbol
 **Extraña moneda antigua:** Esta extraña moneda de oro parece muy antigua y es una mezcla entre maya y azteca. De hecho, no tiene una forma clara y cada vez que se examina parece tener detalles nuevos. Está maldita y su portador deberá tirar en la tabla de Maldiciones (apunta la maldición que tiene por si se la pasan a otra persona). Mientras tenga la moneda, la maldición seguirá con él. La ventaja es que no podrá morir por la maldición en caso de tener efectos mortales. Por ejemplo, tendrá una sed insaciable, pero no podrá morir de deshidratación. La única forma de librarse de la maldición es devolverla al tesoro donde fue robada o lanzarla a algún lugar especial como otras realidades, pozos insondables o incluso, si eres muy valiente, la boca del gran Cthulhu. Si intentan deshacerse de ella por medios normales, volverá a su bolsillo mágicamente.
 
 **Flauta de hueso de byakhee:** Al tocar esta flauta hecha con hueso de byakhee, se puede convocar en minutos una gran tormenta, cuyo centro será donde se encuentre el flautista. Con una tirada de Interpretar exitosa se convoca la tormenta (Ver Tabla de Tiempo atmosférico durante los viajes para ver sus efectos). Por cada éxito adicional, la tormenta impondrá un -1 a todas las tiradas de maniobra y combate naval. Es una táctica perfecta para escaparse de combates navales, pero el gran problema de este objeto es que te encontrarás en el centro de la tormenta y tu barco también tendrá que luchar por salir de la tormenta.
+
+\sp
 
 **Gafas del Doctor Corvus Labranza:** Estas gafas de cristales octagonales y rosados permiten a su usuario ver en la oscuridad (espectro ultravioleta e infrarrojo), incluso en total oscuridad (visión calorífica). Son una versión portátil y adaptada a la vista de su máquina de amplificadora de la glándula pineal que según se dice permitía ver otras dimensiones y a través del tiempo. También permiten ver directamente a seres invisibles de los Mitos.
  
@@ -2365,7 +2154,12 @@ Pero estas gafas van mucho más allá y funcionan también en el otro sentido, l
 
 **Mascarón de Cthulhu:** Este mascarón es en realidad una figura de piedra verdusca montada sobre una estructura de madera y hierro para poder acoplarla a la proa del barco. La figura representa a Cthulhu como un humanoide escamoso con alas de dragón y cabeza de pulpo y parece que era usada como algún tipo de ídolo religioso por cultos de adoradores de Cthulhu. La figura tiene unas inscripciones en la base en un idioma perdido.
 
-Con este mascarón en tu barco ningún profundo ni otras criaturas sirvientes de Cthulhu se atreverá a asaltarlo y atacarlo. Por el contrario, muchos adeptos de la Orden del Gran Cthulhu tratarán de atacar al barco para recuperar el ídolo o los seguirán para poder robarlo. Las noticias sobre el barco correrá entre las células cultistas.
+Con este mascarón en tu barco ningún profundo ni otras criaturas sirvientes de Cthulhu se atreverá a asaltarlo y atacarlo. 
+
+\sp
+
+Por el contrario, muchos adeptos de la Orden del Gran Cthulhu tratarán de atacar al barco para recuperar el ídolo o los seguirán para poder robarlo. Las noticias sobre el barco correrá entre las células cultistas.
+
 
 **Objeto perdido en el tiempo:** El objeto que han encontrado es algo venido del futuro por alguna extraña razón. Puede ser cualquier cosa, desde una bandeja de plástico con dibujos de bicicletas hasta una botella de refresco de cola o un reproductor MP3. Descríbelo de la forma más críptica que puedas. Todas las tiradas de Mitos para identificarlo fallarán siempre y nadie podrá decirles qué es. Puedes usarlo como gancho para alguna loca aventura o haz que alguien descubra por casualidad su función. Igual algún genio loco se lo compra para patentar la idea.
 
@@ -2376,7 +2170,11 @@ Con este mascarón en tu barco ningún profundo ni otras criaturas sirvientes de
 **Vasos canopos del Faraón negro:** Nadie sabe como estos vasos canopos (recipientes de piedra con tapa de cabeza de animal/dios egipcio que contienen restos extraídos a un cuerpo que se va a momificar como cerebro, entrañas, …) han acabado en el Caribe, pero ahí están.  
 Contienen los restos del Faraón Negro, un avatar de Nyarlathotep, y son tan poderosos que pueden sustituir cualquier ingrediente que se necesite en un ritual. Da igual lo raro que sea el componente mágico se puede sustituir con un poco de los restos putrefactos que hay en los vasos canopos. El recipiente tiene 1d4 usos.
 
-**Ventana de Leng:** A este cristal traslúcido se le ha añadido un marco de madera con unas contraventanas para cerrarlo. Cuando se coloca sobre una superficie y se abren las contraventanas, el cristal se vuelve transparente y permite ver a través del cristal como si fuera una ventana abierta en la superficie colocada. El principal problema es que la ventana se abre hacia los dos lados y también pueden verte desde el otro lado.  
+**Ventana de Leng:** A este cristal traslúcido se le ha añadido un marco de madera con unas contraventanas para cerrarlo. 
+
+\sp
+
+Cuando se coloca sobre una superficie y se abren las contraventanas, el cristal se vuelve transparente y permite ver a través del cristal como si fuera una ventana abierta en la superficie colocada. El principal problema es que la ventana se abre hacia los dos lados y también pueden verte desde el otro lado.  
 
 Para activar el cristal de Leng el personaje debe estar en contacto con el cristal y este con la superficie y gastar la mitad de los puntos de armadura del material de la superficie. El efecto durará mientras el cristal esté en contacto con el hechicero y la superficie. El personaje puede mover el cristal a través de la superficie mientras no cambie el material. Por ejemplo, si quiere verse a través de una pared de piedra (armadura 10) deberá gastar 5 puntos de poder.  
 
@@ -2387,6 +2185,11 @@ El cristal tiende a distorsionar de alguna manera lo que se ve y hacerlo más pe
 |1d12|Nombre|
 |---|---|
 |1|Pestilencia de shoggoth|
+
+\sc
+
+|1d12|Nombre|
+|---|---|
 |2|Mal de ojo|
 |3|Percepción no euclidiana|
 |4|Sed insaciable|
@@ -2401,7 +2204,11 @@ El cristal tiende a distorsionar de alguna manera lo que se ve y hacerlo más pe
 
 **Apagafaroles:** Toda forma de luz artificial se apaga si entra en el rango de visión del maldito y no se volverá a encender hasta que deje de verla. Da lo mismo una antorcha cercana que un faro a kilómetros de distancia, si el portador de la maldición ve el brillo de artilugio luminoso este se apagará. Para más inri, si cierra los ojos y, por tanto, se queda a oscuras, las luces podrán volver a encenderse.
 
-Parece muy simple, pero puede dar mucho juego, por ejemplo, si quieren hacer misiones de robo o infiltración. Además, puedes jugarlo como la maldición de las campanas. Los gentiles verán algo oscuro y diabólico en aquel que acaba con sus antorchas, lámparas y linternas y los sume en la oscuridad. Esas son cosas del demonio y la gente de bien no debería acercarse al maldito.
+Parece muy simple, pero puede dar mucho juego, por ejemplo, si quieren hacer misiones de robo o infiltración. Además, puedes jugarlo como la maldición de las campanas.
+
+\sp
+
+Los gentiles verán algo oscuro y diabólico en aquel que acaba con sus antorchas, lámparas y linternas y los sume en la oscuridad. Esas son cosas del demonio y la gente de bien no debería acercarse al maldito.
 
 **Campanas del Infierno:** Esta maldición es muy sutil y bastante inofensiva, pero, bien llevada por el DJ, puede ser tremendamente inquietante e interesante. Todas las campanas, campanillas, cencerros y similares cercanas a la persona maldita solo emiten un muy débil tañido, independientemente de la fuerza con que se golpee y del tamaño de la campana. De hecho, si las golpea el maldito ni sonarán y en general producirá mucho menos ruido de normal (obtendrá +1 a sigilo mientras dure la maldición). 
 
@@ -2413,7 +2220,11 @@ Si alguien consigue averiguar quién es el maldito, seguramente se formará una 
 
 **Decrepitud:** La vida se le escapa rápidamente de su cuerpo y envejece un montón de años en unos minutos. La piel se llena de arrugas y se vuelve flácida, el pelo se vuelve ralo y blanco y empieza a caerse, te mueves más lento y tus reflejos ya no son como eran. El cuerpo en general pierde fuerza y resistencia, AGI, FUE y VIG y las habilidades asociadas caen un rango con un máximo de d8.
 
-**Extraña hambre de gul:** Los alimentos se niegan a entrar en la boca del maldito, desde carne, pan o pescado hasta los más caros platos de gourmet. Según pasen los días, el personaje se irá quedando más débil y puede que termine muriendo de inanición. Esta maldición no tiene tiempo de duración. Durará hasta que el maldito muera o coma carne humana cruda, teniendo que hacer una TPC de 1d6. Para saber como acabar con la maldición vale con pasar una tirada de Mitos o puedes darles pistas como que se siente atraído por el olor a sangre o se relame al ver heridas abiertas.
+**Extraña hambre de gul:** Los alimentos se niegan a entrar en la boca del maldito, desde carne, pan o pescado hasta los más caros platos de gourmet. Según pasen los días, el personaje se irá quedando más débil y puede que termine muriendo de inanición. Esta maldición no tiene tiempo de duración. Durará hasta que el maldito muera o coma carne humana cruda, teniendo que hacer una TPC de 1d6. 
+
+\sp
+
+Para saber como acabar con la maldición vale con pasar una tirada de Mitos o puedes darles pistas como que se siente atraído por el olor a sangre o se relame al ver heridas abiertas.
 
 **Mal de ojo:** Mientras el personaje esté maldito, el usuario no podrá usar sus benis para repetir tiradas.
 
@@ -2427,7 +2238,11 @@ Si alguien consigue averiguar quién es el maldito, seguramente se formará una 
 
 **Sed insaciable:** Los líquidos se niegan a deslizarse por la garganta del maldito, desde agua y alcohol hasta bebedizos mágicos. Según pasen los días, el personaje se irá deshidratando y puede que termine muriendo.
 
-**Venganza de Montezuma:** La venganza de Montezuma no deja de ser una simple diarrea del viajero, pero en este caso será muy grave. El héroe saldrá corriendo al váter (si es que lo hay) cada dos por tres y se pasará horas en él. A nivel de juego será incapaz llevar cualquier tarea que exija tiempo realizarla. Por ejemplo, no podrá hacer guardias o vigilancias, tampoco ponerse a estudiar un libro o buscar en los archivos de una biblioteca.
+**Venganza de Montezuma:** La venganza de Montezuma no deja de ser una simple diarrea del viajero, pero en este caso será muy grave. El héroe saldrá corriendo al váter (si es que lo hay) cada dos por tres y se pasará horas en él. 
+
+\sp
+
+A nivel de juego será incapaz llevar cualquier tarea que exija tiempo realizarla. Por ejemplo, no podrá hacer guardias o vigilancias, tampoco ponerse a estudiar un libro o buscar en los archivos de una biblioteca.
 
 \sp
 
@@ -2442,6 +2257,8 @@ Si alguien consigue averiguar quién es el maldito, seguramente se formará una 
 En esta sección encontrarás todo lo necesario para darle un poco de vida a los viajes por mar y por tierra y que no sea un simple «llegas a Cuba tres días más tarde» sino que haya situaciones, personas y lugares que lo hagan diferente e incluso sirvan de introducción a otros relatos salvajes.
 
 **Duración de los viajes:** Como ya hemos visto en otras partes, vamos a usar la semana con forma de contar el tiempo cuando se viaje. Todos los viajes que supongan viajar de una isla a otra duran una semana. Los viajes por barco dentro de una misma isla duran media semana y por tierra una semana. Si crees que el viaje es extremadamente corto, podría hacerse en un día, con lo que no podrá usarse para, por ejemplo, estudiar libros de los Mitos. Un viaje extremadamente largo podría durar dos semanas. Moverse de un extremo a otro del Caribe no debería durar más de 2 semanas con buen tiempo.
+
+\sp
 
 Te proponemos primero un clima aleatorio acorde con el Caribe y luego encuentros aleatorios por mar y por tierra.
 
@@ -2538,9 +2355,9 @@ El huracán en tierra no es menos terrible, puede arrasar una isla, destruyendo 
 
 Cada vez que se realiza un viaje largo por mar puedes tirar en la siguiente tabla. Si algún resultado no puede ser aplicado, como el comienzo de algún relato salvaje, puede volver a tirar otro encuentro o simplemente es un viaje tranquilo.
 
-![Encuentros en el mar](./images/encuentros-mar.webp)
-
 \sinc
+
+![Encuentros en el mar](./images/encuentros-mar.webp)
 
 #### Tabla de Encuentros en el mar
 
