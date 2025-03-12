@@ -4,6 +4,7 @@ En nuestra guía de viajes te vamos a mostrar los sitios más interesantes, más
 
 La estructura es muy sencilla. El Caribe está dividido en diferentes zonas. Cada zona en las principales ciudades y cada ciudad en los lugares más interesantes. Podrás encontrar, tiendas, tabernas, monumentos, cuevas, lagos, … Muchas zonas tienen lugares de interés que no pertenecen a ninguna comunidad, pero que son lo suficientemente interesantes como para ser destacados en los apartados de «Otros lugares de …».
 
+
 \sinc
 
 ## Islas piratas
@@ -14,8 +15,6 @@ En 1722 podemos encontrar diferentes enclaves piratas, puertos seguros donde ref
 
 Algunos de estos enclaves son lugares independientes fuera del control de las potencias europeas y otras veces son territorios controlados, donde sus gobernadores son altamente corruptos o les interesa dar cobijo a piratas para que causen problemas a sus enemigos.
 
-![Isla de la Tortuga](./images/tortuga.jpg)
-
 ### Isla de la Tortuga
 
 _Población:_ 6.000 habitantes
@@ -23,6 +22,14 @@ _Población:_ 6.000 habitantes
 _Controlada por:_ Oficialmente Reino de Francia, pero es una zona libre para los piratas.
 
 La Isla de la Tortuga se encuentra en la costa noroeste de La Española, la zona controlada por Francia. Hoy en día es un refugio pirata cuyo nombre es sinónimo de aventuras, riquezas y ron.
+
+\sp
+
+\sinc
+
+![Isla de la Tortuga](./images/tortuga.jpg)
+
+\conc
 
 El norte de la isla es inaccesible (de ahí su nombre de Costa de Hierro) con grandes acantilados y fuerte oleaje y el sur ha sido fortificado con los años por los diferentes conquistadores, de forma que sus puertos y fondeaderos son muy difíciles de tomar.
 
@@ -32,7 +39,11 @@ Hay desde hace unos pocos años varias poblaciones de agricultores muy creyentes
 
 #### Hôtel de ville
 
-Se conoce como «Hôtel de ville» o ayuntamiento a un viejo edificio de gran tamaño y de estilo francés situado en el centro de Tortuga. Es el único órgano de gobierno de Tortuga. En él se reúnen los capitanes piratas y toman decisiones sobre el gobierno de la isla y su defensa. También resuelven sus disputas siguiendo el antiguo código de la hermandad de la Costa. Las deudas de honor se resuelven en el patio interior del ayuntamiento con duelos a muerte. El patio también se usa de cadalso en casos muy graves de traición.
+Se conoce como «Hôtel de ville» o ayuntamiento a un viejo edificio de gran tamaño y de estilo francés situado en el centro de Tortuga. Es el único órgano de gobierno de Tortuga. 
+
+En él se reúnen los capitanes piratas y toman decisiones sobre el gobierno de la isla y su defensa. También resuelven sus disputas siguiendo el antiguo código de la hermandad de la Costa. Las deudas de honor se resuelven en el patio interior del ayuntamiento con duelos a muerte. El patio también se usa de cadalso en casos muy graves de traición.
+
+\sp
 
 A la entrada del ayuntamiento hay un tablón de anuncios con montones de ofertas. Si no sabes leer, siempre hay alguien que te pueda ayudar por unas monedas con los anuncios de compra y venta de objetos y de propuestas de trabajo.
 
@@ -49,6 +60,8 @@ La taberna más popular de Tortuga es la Flor de Lis. Es el bar más sucio y dep
 La Flor de Lis es propiedad de Dupont, un personaje de turbio y oscuro pasado que se sospecha fue pirata o corsario. Se cuenta que construyo la Flor con el botín pirata que consiguió en su carrera delictiva.
 
 En realidad, Dupont es un lengnita llamado Xeros que escapo a la Tierra y se busca la vida construyendo la Flor de Lis. Nadie sabe que no es humano, ya que lo oculta muy bien. Además, ayuda mucho que la mayoría de la gente a su alrededor esté borracha o más interesada en las cartas o en los cuerpos que se mueven seductoramente en el escenario. Parte del éxito de la Flor de Lis se deben a la fortuna en rubís lunares que se trajo de su mundo y que le han permitido hacer de todo.
+
+\sp
 
 El local tiene 2 plantas y un sótano. En la primera planta están las barras de bar, las salas de juego y un par de escenarios donde bailan sensualmente todo tipo de personas en cualquier tipo de combinación, solos, parejas, tríos, etc. En el piso superior, hay diferentes espacios privados para todo tipo de prácticas sexuales y no sexuales.
 
@@ -70,6 +83,8 @@ Los cayos de Florida son un conjunto de más de 800 pequeñas islas colocadas un
 
 Los cayos de Florida es uno de esos territorios de frontera donde las gentes que no encajan en la sociedad se establecían para vivir a su manera. Aunque oficialmente son parte de los territorios de ultramar del Reino de España, sus habitantes son bastante independientes viviendo bajo sus reglas.
 
+\sp
+
 Debido a que está muy cerca de La Habana y en la ruta entre las poblaciones de la costa este de la Florida como San Agustín y las ciudades de Cuba, tiene un importante tráfico de cargueros comerciales. Lo que hace que sus aguas estén llenas de barcos piratas.
 
 #### Cayo Hueso
@@ -86,43 +101,31 @@ Por 300 doblones y una semana de entrenamiento pueden entrenarte para mejorar tu
 
 Si tienes la desventaja Mal Nadador y pagas 400 doblones y entrenas 1 semana podrás quitarte la desventaja.
 
+\sp
+
 #### El tesoro de Cesar
 
 Se dice que en alguna de las islas desiertas de los cayos está escondido el tesoro que el pirata Cesar ha acumulado como pirata independiente y luego como lugarteniente de Barbanegra.
 
 El tesoro de Cesar se encuentra en el actual cayo Big Pine. Escogió ese lugar debido a que tenía una gran zona rocosa en el interior del cayo que no filtraba el agua del mar. En 1720, con la ayuda de dos tripulantes de su confianza, excavó en la roca viva y deposito su cofre del tesoro dentro, lo tapó con una losa y lo sello.
 
-El tesoro de Cesar tiene una tirada de TPC 12+2 para determinar su contenido y puede tener de todo menos objetos de gran tamaño. Lo más interesante es que cesar dejo dentro su diario personal narrado en una mezcla de memorias hasta aprender a escribir y diario a partir de ese momento. Si lo descubriera la Orden o Barbanegra comprometería su tapadera y pondría en peligro su vida. También se le podría chantajear con entregarlo para conseguir dinero o favores. Se puede considerar como un libro de los Mitos.
+> El tesoro de Cesar tiene una tirada de TPC 12+2 para determinar su contenido y puede tener de todo menos objetos de gran tamaño. Lo más interesante es que cesar dejo dentro su diario personal narrado en una mezcla de memorias hasta aprender a escribir y diario a partir de ese momento. Si lo descubriera la Orden o Barbanegra comprometería su tapadera y pondría en peligro su vida. También se le podría chantajear con entregarlo para conseguir dinero o favores. Se puede considerar como un libro de los Mitos.
 
-**Título:**  
-Diario personal de Cesar
-
-**Autor:**  
-Cesar
-
-**Idioma:**  
-Castellano
-
-**TPC:**  
-d4
-
-**Tamaño:**  
-Libro
-
-**Estado de conservación:**  
-Usado y leído
-
-**Rituales:**  
-Silbar al viento, Cegar el mascarón de proa, Brindar por el mar, Cornucopia
-
-**Tiempo de lectura:**  
-1 semana
-
-**Características especiales:** Si la Orden o Barbanegra descubriera este diario comprometería su tapadera y pondría en peligro la vida de Cesar. También se le podría chantajear con entregarlo para conseguir dinero o favores.
+* **Título:** Diario personal de Cesar
+* **Autor:** Cesar
+* **Idioma:** Castellano
+* **TPC:** d4
+* **Tamaño:** Libro
+* **Estado de conservación:** Usado y leído
+* **Rituales:** Silbar al viento, Cegar el mascarón de proa, Brindar por el mar, Cornucopia
+* **Tiempo de lectura:** 1 semana
+* **Características especiales:** Si la Orden o Barbanegra descubriera este diario comprometería su tapadera y pondría en peligro la vida de Cesar. También se le podría chantajear con entregarlo para conseguir dinero o favores.
 
 #### Raqueros
 
 Un tipo muy especial de piratería se da en los Cayos de Florida, los «wreckers» o raqueros. Las gentes de los cayos dedican a engañar a los barcos que van por sus aguas con faros falsos y los hacen encallar o hundirse y luego a saquear los restos. No es exactamente una actividad ilegal, por lo que no son tan perseguidos como los piratas de alta mar.
+
+\sp
 
 Es muy difícil demostrar que alguien ha usado luces falsas para engañar a los barcos y este método de vida está tan integrado en la vida de los cayos que nadie quiere matar a la gallina de los huevos de oro. Además, el derecho de salvamento les da a los raqueros la propiedad de los restos de los barcos.
 
@@ -132,9 +135,11 @@ _Población:_ 300 habitantes
 
 _Controlada por:_ Gran Bretaña
 
-Las islas Caimán se encuentran al sur de Cuba, al noroeste de Jamaica y al este del Yucatán. Este archipiélago está formado por 3 islas y solo Gran Caimán, la mayor isla tiene una localidad estable, George Town. Las islas están bajo el control del Gobernador de Jamaica desde 1670, aunque son bastante autosuficientes y auto-gobernadas.
+Las islas Caimán se encuentran al sur de Cuba, al noroeste de Jamaica y al este del Yucatán. Este archipiélago está formado por 3 islas y solo Gran Caimán, la mayor isla tiene una localidad estable, George Town. Las islas están bajo el control del Gobernador de Jamaica desde 1670, aunque son bastante autosuficientes y autogobernadas.
 
 Las dos islas menores han sido refugio de piratas y de cimarrones durante décadas. En sus calas han fondeado barcos para carenarlos y en sus selvas se han conseguido carne, fruta y agua potable. También ha sido lugar de reunión y parlamento en épocas de grandes crisis para los piratas.
+
+\sc
 
 #### George Town
 
@@ -145,6 +150,8 @@ Los profundos han empezado a hibridarse con los habitantes de la zona, especialm
 Si se pregunta o investiga, todos los híbridos son parte de una familia de pescadores de origen español que viven fuera de la población, los Santos. Son muy reservados y huraños, pero no son agresivos.
 
 Los Santos y la tribu profunda con la que se hibridaron están desterrados por alguna actividad ignominiosa que realizaron hace más de un siglo. Ningún profundo se acercará a ellos ni tendrá tratos con ellos y si los encuentran fuera de su territorio serán ejecutados.
+
+\sp
 
 Los Santos eran una familia muy creyente que cuando entraron en contacto con los profundos vieron su divinidad y que eran hijos de Dios en vez de demonios. Trataron de evangelizarlos en su fe cristiana y lo lograron. Dejaron de adorar al dios pulpo y la tribu terminó adoptando los preceptos cristianos e hibridándose con los Santos.
 
@@ -160,13 +167,17 @@ En el extremo noroeste de la isla Gran Caimán hay una zona con extrañas formac
 
 Todos estos bulos los ha hecho correr la rama propagandística de la RCPC para identificar a practicantes de magia. Tienen un agente cerca que registra quién llega y qué hace y manda informes sobre sus actividades. La rama decide, según esos informes, si los seduce para su casa, si los deja en paz por ahora o si manda acabar con ellos a la rama militar.
 
+\sp
+
 Cuando necesiten hacer algún tipo de ritual o ceremonia mágica puedes hacerles llegar las historias de este lugar. Como poco perderán el tiempo y como mucho tendrán una emboscada de agentes de la Orden.
 
 #### La playa de 7 millas
 
 La playa de 7 millas es una playa larguísima en forma de media luna de arena blanca situada en el extremo occidental de la isla de Gran Caimán.
 
-Esta playa ha sido usada desde hace décadas por los piratas para hacer sus concilios. Cuando un gran peligro amenazaba a las tripulaciones piratas de todo el Caribe, se organizaba un gran conclave pirata en esta playa en las noches de luna llena. Los barcos fondeaban en sus aguas y los representantes de los diferentes barcos desembarcaban en la playa para parlamentar y llegar a acuerdos y planes para acabar con la amenaza. No ha vuelto a usarse desde que se disolvió la Hermandad de la Costa.
+Esta playa ha sido usada desde hace décadas por los piratas para hacer sus concilios. Cuando un gran peligro amenazaba a las tripulaciones piratas de todo el Caribe, se organizaba un gran conclave pirata en esta playa en las noches de luna llena.
+
+Los barcos fondeaban en sus aguas y los representantes de los diferentes barcos desembarcaban en la playa para parlamentar y llegar a acuerdos y planes para acabar con la amenaza. No ha vuelto a usarse desde que se disolvió la Hermandad de la Costa.
 
 \sp
 
@@ -194,7 +205,21 @@ _Controlada por:_ Reino de España
 
 La Habana en 1722 es la mayor ciudad de todo el Caribe. Es la ciudad con más población y el epicentro comercial del Caribe. Todas las novedades de resto del mundo llegan primero a La Habana y luego al resto del Caribe.
 
-El puerto de La Habana es el mayor puerto del Caribe y todo el comercio entre las colonias españolas del Caribe y su metrópolis pasan por La Habana. El puerto está protegido contra invasiones de piratas y potencias extranjeras por dos fortalezas armadas con cañones de gran calibre, una de ellas controlada por la RCPC. Cada fortaleza está a un lado de la entrada a la bahía de La Habana y sin tomar ambas fortalezas es casi imposible tomar la ciudad.
+El puerto de La Habana es el mayor puerto del Caribe y todo el comercio entre las colonias españolas del Caribe y su metrópolis pasan por La Habana. 
+
+\sp
+
+\sinc
+
+![Mapa de La Habana](./images/la-habana.webp)
+
+Mapa de La Habana
+
+\conc
+
+\sp
+
+El puerto está protegido contra invasiones de piratas y potencias extranjeras por dos fortalezas armadas con cañones de gran calibre, una de ellas controlada por la RCPC. Cada fortaleza está a un lado de la entrada a la bahía de La Habana y sin tomar ambas fortalezas es casi imposible tomar la ciudad.
 
 Todo el dinero que el comercio trae a La Habana se ha transformado en todo tipo de lujos comparables a ciudades como Madrid, Londres o París. Hay mansiones de todo tipo de estilos arquitectónicos, grandes edificios gubernamentales, teatros e incluso su propio periódico. Hay artistas que pintan sus calles y a sus habitantes bajo el cobijo de mecenas de las artes.
 
@@ -202,15 +227,13 @@ Su prosperidad está atrayendo a gentes del campo y a emigrantes de España busc
 
 La persona más importante de Cuba es Gregorio Guazo y Calderón, Gobernador de Cuba y Capitán General. En él reside todo el poder político y militar de la isla. La segunda persona más poderosa es Hernando de Villalba, propietario de la RCPC y, por tanto, la persona más rica de Cuba y posiblemente del Caribe.
 
-![Mapa de La Habana](./images/la-habana.webp)
-
-Mapa de La Habana
-
 #### Plaza de Armas
 
 La plaza de Armas es el centro de la vida comercial y social de La Habana. Varios edificios gubernamentales y militares están a su alrededor, así como la sede central de la RCPC. En las tabernas de las calles aledañas se pueden disfrutar de las delicias culinarias de la cocina criolla y en sus tabernas probar el mejor ron de la isla. Hay mucha agitación día y noche y es un lugar de encuentro de los locales y los foráneos.
 
 En plena plaza hay varios postes y tablones donde se colocan los diferentes bandos municipales, nuevas leyes y tratados comerciales, sentencias de juicios y condenas, … Por unas monedas el ayuntamiento te deja poner mensajes personales como anuncios de bodas, defunciones o nacimientos u textos más empresariales como ofertas de trabajo, propuestas comerciales o compraventas de productos y bienes inmuebles por poner unos ejemplos.
+
+\sp
 
 En momentos especiales y con piratas violentos y famosos y criminales muy buscados que han creado gran conmoción social, el gobernador monta un cadalso donde colgar a los sentenciados a muerte. Esto atraen a mucha gente, con lo que no sería imposible montar una huida espectacular a la desesperada de PJ o PNJ que hayan sido condenados a morir en la horca.
 
@@ -220,21 +243,31 @@ El castillo de los Tres Reyes, también conocido como castillo del Morro, se ter
 
 A diferencia del Castillo de San Salvador de la Punta, que está enfrente en la ribera sur, el Morro, como lo conoces los locales, está controlado por el RCPC. La guarnición está controlada por el director general de la RCPC en La Habana, de forma que la RCPC controla todos los barcos que entran y salen de La Habana.
 
-Todo el personal del Morro son empleados de la RCPC y son adeptos de la Orden del Gran Cthulhu en mayor o menor grado. En sus sótanos se practican ritos de adoración a Cthulhu, se retiene y tortura a individuos que son peligrosos para el culto y se guarda una buena biblioteca de libros y objetos de los mitos. Es la sede del culto más importante y mejor defendida en todo el Caribe. Es donde Hernando de Villalba hace sus ritos más importante y donde una vez al año se monta un importante conclave de directores generales de la RCPC.
+Todo el personal del Morro son empleados de la RCPC y son adeptos de la Orden del Gran Cthulhu en mayor o menor grado. En sus sótanos se practican ritos de adoración a Cthulhu, se retiene y tortura a individuos que son peligrosos para el culto y se guarda una buena biblioteca de libros y objetos de los mitos. Es la sede del culto más importante y mejor defendida en todo el Caribe. Es donde Hernando de Villalba hace sus ritos más relevantes y donde una vez al año se monta un conclave de directores generales de la RCPC.
 
 Si tu mesa es atrapado por la RCPC o la Orden, seguramente acabarán aquí. Tienes un relato titulado «Escapando del Morro» que puedes llevarles para que se fuguen de esta prisión de «máxima seguridad».
 
 Dentro del Morro hay siempre una media de 200 militares entre oficialía y soldadesca. Usa Infantes de Marina para los soldados y añádeles Idioma Cthulhunés d6 y Mitos d4 a los oficiales, además de una arma emponzoñada +1.
 
-Solos los cargos más altos viven fuera del castillo, el resto viven y trabajan dentro de la fortaleza. Hay turnos de 8 horas, con que un tercio trabaja y vigila, otro tercio se entretiene en los barracones o está de permiso y el último tercio duerme. Eso supone que siempre hay unas 70 personas vigilando y unas 140 despiertas.
+Solos los cargos más altos viven fuera del castillo, el resto viven y trabajan dentro de la fortaleza. 
 
-Parte de la fortaleza da a unos acantilados contra el mar. Estos acantilados son muy complicados de escalar y caerse al agua supone acabar aplastado contra las rocas que hay debajo. La parte que da a tierra tiene unos sólidos muros de entre 15 y 30 metros según la zona. Ambas partes están vigiladas, pero, sobre todo, la del muro que da a la península. Solo se puede entrar al Morro desde tierra, a través de una puerta levadiza reforzada que hay en el muro terrestre. El muro terrestre es escalable, pero está bastante vigilado.
+\sp
 
-Dentro de la fortaleza hay una serie de edificios que sirven de barracones, oficinas, comedores, cocinas, etc. El más grande de todos, que está en medio de la plaza, lo usan los oficiales para temas importantes, como guardar objetos valiosos o retener a prisioneros importantes en un gran sótano con celdas que tiene debajo. Para acceder al sótano, hay una trampilla de madera reforzaba con hierro con un candado de seguridad (-2 a Latrocinio), cuya llave lleva el oficial de servicio en ese turno.
+\sinc
 
 ![Mapa del Morro](./images/mapa-el-morro.webp)
 
 Mapa del Castillo de los Tres Reyes Magos del Morro
+
+\conc
+
+\sp
+
+Hay turnos de 8 horas, con que un tercio trabaja y vigila, otro tercio se entretiene en los barracones o está de permiso y el último tercio duerme. Eso supone que siempre hay unas 70 personas vigilando y unas 140 despiertas.
+
+Parte de la fortaleza da a unos acantilados contra el mar. Estos acantilados son muy complicados de escalar y caerse al agua supone acabar aplastado contra las rocas que hay debajo. La parte que da a tierra tiene unos sólidos muros de entre 15 y 30 metros según la zona. Ambas partes están vigiladas, pero, sobre todo, la del muro que da a la península. Solo se puede entrar al Morro desde tierra, a través de una puerta levadiza reforzada que hay en el muro terrestre. El muro terrestre es escalable, pero está bastante vigilado.
+
+Dentro de la fortaleza hay una serie de edificios que sirven de barracones, oficinas, comedores, cocinas, etc. El más grande de todos, que está en medio de la plaza, lo usan los oficiales para temas importantes, como guardar objetos valiosos o retener a prisioneros importantes en un gran sótano con celdas que tiene debajo. Para acceder al sótano, hay una trampilla de madera reforzaba con hierro con un candado de seguridad (-2 a Latrocinio), cuya llave lleva el oficial de servicio en ese turno.
 
 #### La mansión Villalba
 
@@ -242,7 +275,11 @@ La mansión Villalba, en la que Hernando de Villalba lleva enclaustrado los últ
 
 Antiguamente, Hernando solía dar grandes fiestas con las personas más ricas e importantes de La habana, pero ha dejado de perder tiempo con la vida social para centrar todos sus esfuerzos en sus planes apocalípticos. La rama propagandística de la RCPC se ha encargado de desviar todos los actos sociales que se hacían en la mansión Villalba a los casoplones de cultistas de rango superior en al Orden y clase alta y con recursos. Se ha demostrado el valor de estos actos sociales para detectar y extender rumores y contactar con personas importantes a las que atraer a la Orden, seducir, amenazar o tentar.
 
-Físicamente, hay un pequeño ejército de guardas adeptos a la Orden que darían su vida por Hernando. Hay unos 42 guardas, 14 por turno. Los que no están de guardia están descansando en unos barracones detrás de la mansión. Podrían estar activos en un par de minutos.
+Físicamente, hay un pequeño ejército de guardas adeptos a la Orden que darían su vida por Hernando. Hay unos 42 guardas, 14 por turno. 
+
+\sp
+
+Los que no están de guardia están descansando en unos barracones detrás de la mansión. Podrían estar activos en un par de minutos.
 
 Los guardias solo vigilan los jardines y el perímetro de la casa. Por orden expresa de Villalba, los vigilantes no entran en la casa. En el interior solo hay personal de servicio de total confianza de Villalba y el propio Villalba. En sus tiempos podría tener prisioneros en su sótano, pero hace mucho que nadie los usa. Esos tiempos de torturas y asesinatos rituales acabaron hace unos años para este viejo líder sectario.
 
@@ -265,7 +302,11 @@ Estos perros han sufrido peligrosos experimentos que les han dado mayor tamaño 
 
 **Guardia de la mansión:**
 
-Los guardias son adeptos de la orden y tiene conocimientos básicos de Mitos, de magia y de cthulhunés. Son muy meticulosos en sus registros y no sobornables, con lo que es muy difícil meter armas escondidas entre la ropa u objetos de mayor tamaño en carros y carretas. Tampoco se retrasan en sus rondas, ni paran para fumar o beber. Cumple estrictamente sus horarios con lo que es muy difícil encontrar agujeros en su seguridad.
+Los guardias son adeptos de la orden y tiene conocimientos básicos de Mitos, de magia y de cthulhunés. 
+
+\sp
+
+Son muy meticulosos en sus registros y no sobornables, con lo que es muy difícil meter armas escondidas entre la ropa u objetos de mayor tamaño en carros y carretas. Tampoco se retrasan en sus rondas, ni paran para fumar o beber. Cumple estrictamente sus horarios con lo que es muy difícil encontrar agujeros en su seguridad.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d6, Disparar d8, Idioma materno d6, Idioma cthulhunés d4, Mitos d4, Intimidar d6, Notar d6, Pelear d8, Sigilo d6
@@ -285,11 +326,15 @@ El palacio tiene su propio pozo en caso de necesitarlo y una pequeña granja con
 
 Si tu mesa necesita infiltrarse en la mansión, tienes un relato titulado «Infiltración» que puedes dirigirles para entrar y salir de la mansión sin ser detectados.
 
+\sp
+
 #### Calle Empedrado
 
 La Hermandad del Sargazo tiene en esta calle un piso franco. Si te acercas al portero y le dices la contraseña adecuada, él, tras comprobar que nadie te sigue, te dará una llave que te abrirá la puerta del segundo piso.
 
-Este piso franco está muy completo con camas para 5 personas, comida, bebida, cocina. Lo más importante es una pequeña mesa de operaciones con material médico para todo tipo de situaciones, desde extracciones de balas y piernas rotas, hasta medicamentos para fiebres y diferentes males del Caribe. También puedes encontrar munición y suele ser costumbre aprovisionar el piso con cosas que te sobren, de forma que se pueden encontrar cosas muy curiosas entre los objetos que han dejado antiguos huéspedes de la Hermandad, desde ejemplares de la VLH hasta extrañas plantas de la selva o muestras de seres de los Mitos.
+Este piso franco está muy completo con camas para 5 personas, comida, bebida, cocina. Lo más importante es una pequeña mesa de operaciones con material médico para todo tipo de situaciones, desde extracciones de balas y piernas rotas, hasta medicamentos para fiebres y diferentes males del Caribe. 
+
+También puedes encontrar munición y suele ser costumbre aprovisionar el piso con cosas que te sobren, de forma que se pueden encontrar cosas muy curiosas entre los objetos que han dejado antiguos huéspedes de la Hermandad, desde ejemplares de la VLH hasta extrañas plantas de la selva o muestras de seres de los Mitos.
 
 La norma es que no puedes estar más de dos noches o en caso de heridos hasta que sane el herido. El propio portero se hará cargo de cumplir la norma si te la saltas. Él se encargará de traer todo tipo de matasanos, menestrales, etc. en caso de necesitarlos.
 
@@ -300,6 +345,8 @@ El piso tiene salida al tejado, de forma que si descubren a sus inquilinos pueda
 A principios del siglo XVIII la marina española ha empezado a renovarse y el Real Astillero, construido en 1716, será unos de los lugares donde se monten los nuevos barcos de la marina real española. Además, siendo La Habana el centro del comercio marítimo del Caribe, la construcción de barcos civiles también es un importante negocio y fuente de poder. Una compañía naviera no puede crecer ni funcionar sino se construyen o arreglan los barcos a la velocidad que exige el flujo comercial.
 
 Es por ello que una de las jugadas más interesantes de la RCPC en Cuba fue conseguir adelantar varios años el proyecto del Astillero y conseguir que parte del astillero y del arsenal estén controlados por ella. De esta forma, la competencia queda en desventaja en cuanto a su capacidad naval y tienen unas instalaciones lejos de ojos curiosos donde poner en práctica toda su ciencia y magia naval.
+
+\sp
 
 El actual astillero tiene 2 partes bien diferenciadas, la pública y la privada de la RCPC. Cada una con sus talleres, sus diques, sus almacenes y sus propios trabajadores. De hecho, los diques de la RCPC están cubiertos por grandes toldos a los lados que no permiten ver en que se está trabajando.
 
@@ -314,6 +361,8 @@ Debido a la naturaleza, digamos, demoníaca de muchas de las cosas que hay en el
 El sistema de autodestrucción se basa en tecnología serpigente y desde su despacho el gerente del astillero, siempre un cultista de la Orden de nivel medio, puede activar una gran cantidad de explosivos por todo el astillero de la RCPC.
 
 Activar la autodestrucción significa tener un minuto para huir del astillero o el fuego y las explosiones acabarán con tu vida. La salida mejor es tirarse al agua, pero para llegar al mar habrá que pasar un infierno de fuego.
+
+\sp
 
 #### Local ilegal de juego de Alfredo Usía
 
@@ -337,6 +386,8 @@ _**Recompensa extra de cordura (+1):** Desbaratar el local ilegal de Alfredo es 
 
 La Universidad de La Habana está siendo construida por frailes Dominicos, que acaban de conseguir el permiso real y del Papa para crear la universidad. El campus se está construyendo en el convento de San Juan de Letrán.
 
+\sp
+
 Los dominicos necesitan de todo, materiales de construcción, objetos educativos o científicos, libros para su biblioteca, … Seguramente una persona de cualquier condición social que aporte algo de lo que los dominicos necesitan en su proyecto, puede conseguir que acepten dar una educación de calidad a quien fuese necesario. Si alguien que de normal no podría entrar a estudiar en la universidad puede conseguirlo si tiene un mecenas que le ayude.
 
 #### Colegio San José
@@ -353,6 +404,8 @@ El archivo del colegio San José otorga un +1 las tiradas de Investigar cuando s
 
 En uno de los callejones aledaños a la plaza de Armas, Isadora de la Guía y Arango tiene una pequeña librería, Librería Guía. Su padre la abrió hace 40 años cuando llego a Cuba desde España. Al morir este, Isadora continuo con el negocio de compraventa de libros.
 
+\sp
+
 La librería es pequeña, oscura y destartalada, con estanterías hasta el techo abarrotadas de libros. Y siempre encontrarás a Isadora en alguna esquina fresca a resguardo del sol y el calor enfrascada en la lectura de alguno de los nuevos tomos que han caído en sus manos. Levantará la vista de su libro, te mirará de arriba abajo y si ve que llevas algún libro te lo quitará de las manos y empezará a ojearlo.
 
 Solo Isadora conoce el sistema de clasificación que usaba su padre y solo ella puede encontrar algo en ese laberinto de estantes llenos de libros. Lo que a Isadora le lleva minutos, si no segundos, a cualquier otra persona no entrenada podría llevarle días revisando libros y más libros.
@@ -367,7 +420,11 @@ El periódico más leído del Caribe (sobre todo por ser el único) tiene su sed
 
 La imprenta, sin embargo, es un modelo nuevo que Mary Read le ha proporcionado del botín de un mercante español y que imprime ejemplares muy rápidamente. La imprenta es manejada por Ernesto, oficio que le enseño de pequeño su padre, el hermano de Antoine y su socio en la imprenta que tenían en París.
 
-En la segunda planta está la vivienda de Antoine y Ernesto. En este piso Antoine tiene su biblioteca personal y el archivo con todas las ediciones de la VLH. Este archivo es una estupenda biblioteca de los Mitos (con un bono de +3) que Antoine te permitirá usar si le caes bien. La VLH lleva unos 10 años recabando cada mes todos los sucesos raros que han pasado en el Caribe con más o menos «rigor» y Antoine siempre puede confirmarte si la historia que buscas es real o una exageración para vender ejemplares.
+En la segunda planta está la vivienda de Antoine y Ernesto. En este piso Antoine tiene su biblioteca personal y el archivo con todas las ediciones de la VLH. Este archivo es una estupenda biblioteca de los Mitos (con un bono de +3) que Antoine te permitirá usar si le caes bien.
+
+\sp
+
+La VLH lleva unos 10 años recabando cada mes todos los sucesos raros que han pasado en el Caribe con más o menos «rigor» y Antoine siempre puede confirmarte si la historia que buscas es real o una exageración para vender ejemplares.
 
 Antoine ofrece dinero contante y sonante al que venga con una historia lo suficientemente buena, sobre todo si trae algún tipo de prueba. Puedes venderle tu historia, pero no trates de mentirle, Antoine es un viejo zorro y sabe cuando le cuentan la verdad y cuando no. Además, ya se encargará él de meterle las exageraciones y el sensacionalismo que la historia necesite para vender su periódico. Puedes empezar si quieres el relato salvaje «Primera plana».
 
@@ -387,15 +444,23 @@ Como curiosidad de la ciudad fue fundada por entre unas 20 o 30 familias procede
 
 Estas dos fortificaciones son las principales defensas del puerto de Matanzas, cada una a un lado de la Bahía de Matanzas. El castillo es una gran obra de ingeniería que se empezó a construir en 1653, pero se paró en 1697 debido a su elevado coste. Es por ello que se tuvo que construir el Morillo para tener por lo menos una defensa activa en la ciudad.
 
+\sp
+
+\sinc
+
+![El Morrillo](./images/el-morrillo.webp)
+
+Fortaleza de El Morrillo
+
+\conc
+
+\sp
+
 El Morrillo es un proyecto mucho más pequeño que se ha terminado hace poco (1720). Tiene la última tecnología militar y aunque es mucho más pequeño que San Severino tiene una batería de cañones mucho más precisos, más destructivos y con mayor alcance.
 
 Como plan para pagar su mantenimiento, la administración local ha cedido/alquilado San Severino a la RCPC. El dinero que pagan como alquiler les sirve para en un futuro poder terminar la obra y sufragar su mantenimiento actual.
 
 La RCPC la usa como sede central en Matanzas, pero también como almacén. Los sótanos son territorio de la Orden que usa para sus oscuros planes y sus diabólicos rituales.
-
-![El Morrillo](./images/el-morrillo.webp)
-
-Fortaleza de El Morrillo
 
 #### Escuela de la Destreza de Diego Rodríguez de Guzmán
 
@@ -412,6 +477,8 @@ Por unos 500 doblones y dos semanas de entrenamiento intensivo, mejorará el val
 _Población:_ 24.000 habitantes
 
 _Controlada por:_ Reino de España
+
+\sp
 
 Santiago de Cuba se encuentra entre el mar y la montaña, entre la costa sur de Cuba, en su propia bahía, y la Sierra Maestra, la cordillera más alta de la isla. Es por ello que se caracteriza por sus cuestas. Como dicen los lugareños, todo está arriba o abajo de una cuesta.
 
@@ -433,7 +500,9 @@ El jefe de puerto de Santiago de Cuba posee un cañonete de pólvora negra que h
 
 Este archipiélago casi deshabitado de hasta 600 islas en la costa sur de Cuba es uno de los lugares preferidos por los barcos piratas para evadir a sus perseguidores. Si se conoce esas aguas es muy fácil esconderse entre sus cayos o perder a tus perseguidores que deberán andar con cuidado de no encallar en sus aguas bajas y sus bancos de arena.
 
-No es el mejor lugar para fondear por su falta de agua potable y posibilidad de conseguir provisiones en muchos de sus islotes y cayos, pero puede ser una opción viable y segura para hacer reparaciones básicas. Tampoco es mal lugar para abandonar a los traidores, para enterrar tesoros o para dejar a rehenes mientras esperas a cobrar la recompensa.
+\sp
+
+No es la mejor ubicación para fondear por su falta de agua potable y posibilidad de conseguir provisiones en muchos de sus islotes y cayos, pero puede ser una opción viable y segura para hacer reparaciones básicas. Tampoco es mal sitio para abandonar a los traidores, para enterrar tesoros o para dejar a rehenes mientras esperas a cobrar la recompensa.
 
 La Orden de Cthulhu suele usar algunas de las islas más pequeñas como zoos improvisados donde dejar (o abandonar) a sus experimentos y engendros y poder estudiarlos en libertad. Explorando el interior de las islas podrías encontrarte con seres como gugos o retoños oscuros.
 
@@ -473,6 +542,8 @@ La ciudad de San Juan se fundó en una isla que tapa la entrada a la bahía, con
 
 Juan Ponce de León es conocido por explorar/conquistar la Florida y por buscar la fuente de la eterna juventud. Pero de 1508 a 1513 fue gobernado gobernador de San Juan que entonces se conocía como Caparras.
 
+\sp
+
 Fue aquí donde escuchó a los taínos de la zona las historias de los cemíes diabólicos del mar. De como te daban regalos de oro, perlas y buena pesca y de como se cruzaban con los humanos y tenían una descendencia híbrida. Y de como esas tribus terminaban convirtiéndose en comunidades corruptas y abyectas, repudiadas por el resto de la nación taína.
 
 Sabiendo todo esto, hizo tratos herejes con tribus profundas donde entregaba sacrificios humanos a cambio de conocimientos prohibidos. Así es como supo de las ciudades de oro como Cíbola o la fuente de la eterna juventud.
@@ -488,6 +559,8 @@ Aun así, la población de extraños y deformes seres malhumorados y medio idos 
 Cuando la Orden supo de estos antiguos pactos, los volvió a refrendar. San Juan es ahora el lugar de donde saca a la mayoría de sus híbridos. Como ya sabemos los usa en sus barcos más poderosos y terribles como marineros o como fuerza de choque por su lealtad (o fanatismo según se vea), su fuerza y su resistencia.
 
 La RCPC ha pasado a ser el mayor benefactor del hospicio local para asegurarse que los híbridos sean cuidados y controlados. De hecho, la rema propagandística ha vendido esto como parte de las buenas acciones de la compañía por los más necesitados.
+
+\sp
 
 #### Garita del Diablo
 
@@ -509,7 +582,11 @@ _Población:_ 8.500 habitantes
 
 _Controlada por:_ Reino de España
 
-Ponce, conocida como la Perla del Sur, se localiza en la desembocadura del río Portugués en la costa meridional de Puerto Rico. Es la segunda ciudad en población y en importancia de la isla. Las plantaciones de caña de azúcar que la rodean son su principal producción. A diferencia de otras ciudades españolas, no está tan fortificada y son frecuentes los ataques piratas y de potencias enemigas.
+Ponce, conocida como la Perla del Sur, se localiza en la desembocadura del río Portugués en la costa meridional de Puerto Rico. Es la segunda ciudad en población y en importancia de la isla. Las plantaciones de caña de azúcar que la rodean son su principal producción. 
+
+\sp
+
+A diferencia de otras ciudades españolas, no está tan fortificada y son frecuentes los ataques piratas y de potencias enemigas.
 
 #### Ceiba legendaria
 
@@ -525,28 +602,43 @@ En el carnaval de Ponce, los vejigantes son monstruos que representan el mal. El
 
 Ser el rey Momo es un gran honor y no se descubre quién es hasta el final del carnaval. De hecho, se apuesta por quién es cada año.
 
-Un experto en Mitos puede detectar que las máscaras vegigantes representan muchos de los peores seres de pesadilla de los Mitos, desde simples profundos al propio Cthulhu. Como todo lo relacionado con los Mitos detrás de los bailes y los cantos, hay cultos que aprovechan estos días para llevar extraños rituales. No es tan salvaje como el Fèt Gede, pero puede pasar muchas cosas extrañas. De hecho, que los vegigantes secuestren niños se debe a varios casos de secuestros reales de niños por parte de sectas «demoníacas».
+Un experto en Mitos puede detectar que las máscaras vegigantes representan muchos de los peores seres de pesadilla de los Mitos, desde simples profundos al propio Cthulhu. Como todo lo relacionado con los Mitos detrás de los bailes y los cantos, hay cultos que aprovechan estos días para llevar extraños rituales.
+
+\sp
+
+No es tan salvaje como el Fèt Gede, pero puede pasar muchas cosas extrañas. De hecho, que los vegigantes secuestren niños se debe a varios casos de secuestros reales de niños por parte de sectas «demoníacas».
 
 **Cánticos del carnaval:** Los cantos que los participantes del carnaval usan funcionan como un ritual de protección contra los monstruos y los brujos. Al recitar en pareja los llamados y las respuestas, los 2 participantes obtienen un solo beni para los dos que solo dura hasta el final de la escena para luchar contra la magia y los seres de los Mitos.
 
 Los cánticos que tu mesa debe recitar son:
 
-«Vegigante a la bolla / Pan y Cebolla»  
-«Toco toco toco / Vegigante come coco»  
-«Prucuta prucuta / Y bueno que'tá»  
-«Esa vieja e' bruja / Y Tiene los ojos color café»  
-«Vegigante comió mango / Y hasta las unas se las lambio»  
-«El vegigante está pintado / De amarillo y colorado»
+_Vegigante a la bolla / Pan y Cebolla_
+
+_Toco toco toco / Vegigante come coco_
+
+_Prucuta prucuta / Y bueno que'tá_
+
+_Esa vieja e' bruja / Y Tiene los ojos color café_
+
+_Vegigante comió mango / Y hasta las unas se las lambio_
+
+_El vegigante está pintado / De amarillo y colorado_
+
+\sc
 
 #### Campos de batú de Tibes
 
-![Campos de batú de Tibes](./images/tibes.webp)
-
 En las afueras de la ciudad de Ponce existe un antiguo complejo religioso/deportivo abandonado por los taínos y los irenis (etnia que provenía de las tierras recorridas por el Orinoco) hace siglos sin conocerse la razón. Se pueden encontrar 4 campos de batú de diferentes tamaños que aún se suelen usar en encuentros importantes entre las comunidades cercanas.
 
-Hay, además, un importante cementerio de 8 o 9 años de antigüedad. Teniendo los poderes necrománticos adecuados se podría conseguir importante información de tiempos pasados. Debido a que los taínos y los ireni creían en una vida después de la muerte, eran enterrados con sus objetos personales, joyas, armas, utensilios de cocina, … Es por ello que se podría saquear las tumbas para obtener objetos de valor.
+![Campos de batú de Tibes](./images/tibes.webp)
 
-El saqueo de tumbas es algo horrible, ya que no solo estropea el yacimiento para su estudio y poder así conocer a las gentes que vivieron allí. También es robar una riqueza a las gentes del lugar, al saquear su historia y su cultura y estropear la oportunidad de saber quiénes son y de dónde vienen. No seas como el British Museum, no robes reliquias. Dentro de una ambientación basada en los Mitos de Cthulhu saquear una tumba para robar un cadáver podría ser considerado «aceptable», pero desde luego no deberías permiten que tu mesa coja pico y pala y se dedique a saquear tumbas para robar sus objetos valiosos.
+Hay, además, un importante cementerio de 8 o 9 años de antigüedad. Teniendo los poderes necrománticos adecuados se podría conseguir información muy útil de tiempos pasados. Debido a que los taínos y los ireni creían en una vida después de la muerte, eran enterrados con sus objetos personales, joyas, armas, utensilios de cocina, … Es por ello que se podría saquear las tumbas para obtener objetos de valor.
+
+\sp
+
+El saqueo de tumbas es algo horrible, ya que no solo estropea el yacimiento para su estudio y poder así conocer a las gentes que vivieron allí. También es robar una riqueza a las gentes del lugar, al saquear su historia y su cultura y estropear la oportunidad de saber quiénes son y de dónde vienen. No seas como el British Museum, no robes reliquias.
+
+Dentro de una ambientación basada en los Mitos de Cthulhu saquear una tumba para robar un cadáver podría ser considerado «aceptable», pero desde luego no deberías permiten que tu mesa coja pico y pala y se dedique a saquear tumbas para robar sus objetos valiosos.
 
 ### Otros lugares de Puerto Rico
 
@@ -586,6 +678,8 @@ Posee una fortaleza defensiva, Fortaleza Ozama, y muchos edificios que nos recue
 
 Todavía se pueden visitar los restos de la primera ciudad. Las ruinas han sido tomadas por las clases más bajas de Santo Domingo y las bandas de criminales campan a sus anchas. En los tenderetes de su antigua plaza mayor pueden comprarse toda suerte de productos ilegales y contratar los servicios de matones a sueldo.
 
+\sp
+
 Debido a que la Iglesia ha prohibido los duelos de espada a muerte y el rey ha establecido una serie de leyes que los hacen menos peligrosos, los jóvenes y no tan jóvenes dirimen sus deudas de honor en la vieja ciudad lejos de los ojos de la guardia. No es extraño encontrar duelistas batiéndose en los solares de los antiguos edificios.
 
 #### La Taberna del Alción
@@ -598,7 +692,9 @@ La clientela es muy variada, desde la gente de mar típica de las tabernas del p
 
 Detrás de la barra, Bartolo y Antonia han ido acumulando «objetos piratas» como garfios, machetes, bandanas, etc. con placas con los nombres de los supuestos piratas a los que pertenecieron. La mayoría de los objetos son falsos o por lo menos no pertenecen a quien dicen, pero un pequeño porcentaje son auténticos.
 
-**Colección de objetos piratas:** Si alguien necesita algún objeto que haya pertenecido a un pirata famoso para realizar, por ejemplo, algún tipo de hechizo, hay un 20% de posibilidades de que haya algo entre la colección de Antonia y Bartolo. El precio y disponibilidad queda a tu elección. Puedes decirles que no les venden el objeto y montar una pequeña aventura en la que tengan que robar el objeto.
+> **Colección de objetos piratas:** Si alguien necesita algún objeto que haya pertenecido a un pirata famoso para realizar, por ejemplo, algún tipo de hechizo, hay un 20% de posibilidades de que haya algo entre la colección de Antonia y Bartolo. El precio y disponibilidad queda a tu elección. Puedes decirles que no les venden el objeto y montar una pequeña aventura en la que tengan que robar el objeto.
+
+\sp
 
 #### Universidad Santo Tomás de Aquino
 
@@ -617,6 +713,8 @@ Puede pagarse una pequeña suma a un niño de la calle para que te enseñe una e
 La peste es horrible y solo hay la luz que entra por los desagües. Puedes encontrar desde ratas y caimanes (sí, caimanes, pero no albinos) que entrar a cazar desde el río, hasta contrabandistas o partidas de guerra de profundos.
 
 Si santo Domingo es atacado o los guardias lo cierran, el mejor método de huida son las alcantarillas. Los guardias saben de las existencias de estos túneles, pero son reacios a entrar en ellos.
+
+\sp
 
 #### Los Tres Ojos
 
@@ -638,7 +736,11 @@ La nevera tiene una pequeña cavidad en el fondo que accede a un río subterrán
 
 En el centro de La Española, en la región de Maguana, se encuentra un gran círculo de piedras de unos 300 metros de radio. Este círculo de piedra, en forma de calzada, contiene en su centro otro círculo de piedras y dentro hay un monolito tumbado de dos metros de largo. Es un bloque pulimentado que parece representar una figura humana.
 
-Este círculo, conocido actualmente como Corral de Los Indios, fue antes de la llegada de los españoles a la isla el mayor centro religioso de Santo Domingo. Dentro de sus piedras se reunían cada año delegaciones de todos los cacicazgos de la isla, para hacer ceremonias lúdico-religiosas y para hacer negociaciones y pactos entre los caciques. Se hacían cantos, bailes, se jugaba al batú, etc.
+Este círculo, conocido actualmente como Corral de Los Indios, fue antes de la llegada de los españoles a la isla el mayor centro religioso de Santo Domingo. 
+
+\sp
+
+Dentro de sus piedras se reunían cada año delegaciones de todos los cacicazgos de la isla, para hacer ceremonias lúdico-religiosas y para hacer negociaciones y pactos entre los caciques. Se hacían cantos, bailes, se jugaba al batú, etc.
 
 También se aprovechaba para realizar la cohoba, que como ya sabemos es la ceremonia religiosa más importante de la religión taína. La realizaban todos los caciques juntos. Lo que los dioses les dijeran durante las visiones de esa cohoba tenía gran importancia para todas las gentes de la isla.
 
@@ -655,6 +757,8 @@ Isla Catalina se encuentra en la costa sureste de Santo Domingo, es una isla de 
 Se montaron una serie de cabañas donde viven los enfermos de lepra, un pozo, un embarcadero y campos de cultivos para que pudieran cultivar su comida. Disponen de herramientas para reparar sus cabañas y construir otras nuevas.
 
 Una vez a la semana llega un barco que lleva provisiones y personal sanitario que tratan a los enfermos más graves. Un clérigo aprovecha también para celebrar misa y toma confesión. Las banderas avisando de lepra están por toda la costa, así que ningún barco más se acerca a sus costas.
+
+\sp
 
 Los enfermos están completamente incomunicados con el resto del mundo. No reciben visitas de familiares y no tienen contacto con nadie de fuera, excepto los médicos que les visitan semanalmente. Las corrientes hacen casi imposible salir de la isla con una embarcación improvisada.
 
@@ -676,6 +780,8 @@ Estas tierras fueron desechadas por los españoles y nunca las colonizaron, pero
 
 La costa norte que tiene enfrente la isla de la Tortuga está siendo colonizado por agricultores puritanos convencidos por sus fanáticos pastores de que civilizar esas tierras es el deseo de su señor.
 
+\sc
+
 ### Hôpital
 
 _Población:_ 8.000 habitantes
@@ -686,7 +792,11 @@ Hôpital es una zona en el centro de Saint-Domingue, conocida por el hospital qu
 
 #### El gumbo eterno
 
-Hace 15 años, durante una gran hambruna en un campamento de chabolas de Hôpital, Mamá Larisa sacó su olla de gumbo a la calle y empezó a repartir platos de comida a sus vecinos. Cada uno trajo lo que pudo y Mamá siguió cocinando gumbo. El fuego de su cocina lleva sin apagarse desde entonces y nunca le ha negado un plato de comida. La gente trae lo poco que les sobra para el llamado gumbo eterno de Mamá Larisa y ella lo reparte entre los más desfavorecidos.
+Hace 15 años, durante una gran hambruna en un campamento de chabolas de Hôpital, Mamá Larisa sacó su olla de gumbo a la calle y empezó a repartir platos de comida a sus vecinos. Cada uno trajo lo que pudo y Mamá siguió cocinando gumbo.
+
+El fuego de su cocina lleva sin apagarse desde entonces y nunca le ha negado un plato de comida. La gente trae lo poco que les sobra para el llamado gumbo eterno de Mamá Larisa y ella lo reparte entre los más desfavorecidos.
+
+\sp
 
 Mucha gente ha intentado conseguir la receta del gumbo, pero Mamá se ha negado a darla. También le han hecho ofertas de trabajo como cocinera para ricos comerciantes de La Habana o Kingston y las ha declinado todas. Ella es feliz con su gente.
 
@@ -728,6 +838,8 @@ La ciudad de Kingston se funda en tierra en firme como un campamento de refugiad
 
 A diferencia de Port Royal los británicos aprovecharon este cambio para limpiar sus puertos de piratas, especialmente los de la Cofradía de la Hermandad de la Costa que durante muchos años usaron Port Royal y Tortuga como puertos seguros.
 
+\sp
+
 Para 1716 era la ciudad más importante de Jamaica a nivel económico, político y social. De hecho, casi todo el comercio de Jamaica pasará por Kingston camino de Gran Bretaña. Su gran ventaja es que al estar en tierra firme y no en una península, podía crecer en extensión sin problemas.
 
 La parte vieja de la ciudad es conocida como Spanish Town que corresponde la Villa de la Vega (una pequeña villa fundada por los españoles) sobre la que se creó Kingston.
@@ -738,17 +850,19 @@ Cerca del puerto de Kingston se erige el Teatro Real, donado por varios ricos co
 
 Actualmente, se está preparando una obra de una dramaturga principiante, Johanna Ribeiro, cuya familia ha puesto fondos para arreglar las terribles goteras y humedades que sufre el teatro. Si se pasan por aquí podrán conocerla y comenzar el relato «El capitán de amarillo».
 
-#### The captain's portrait
+#### The captain’s portrait
 
-The captain's portrait (Retrato del Capitán) es la más concurrida taberna del puerto de Kingston. Comida abundante y económica, bebida no aguada en exceso, música en directo por las noches y partidas de naipes y apuestas no del todo legales. Las peleas no son frecuentes y suelen acabar con los dos contrincantes recibiendo una tunda de personal y siendo expulsados de la taberna.
+The captain’s portrait (Retrato del Capitán) es la más concurrida taberna del puerto de Kingston. Comida abundante y económica, bebida no aguada en exceso, música en directo por las noches y partidas de naipes y apuestas no del todo legales. Las peleas no son frecuentes y suelen acabar con los dos contrincantes recibiendo una tunda de personal y siendo expulsados de la taberna.
 
 Está regentado por el viejo Capitán Lawrence, que con el dinero de su retiro de la armada inglesa compro la taberna. El capitán Lawrence puso el nombre de su barco (Assistance) a la taberna y en el letrero de la taberna pinto también su cara con su traje de gala de la armada. Así que los parroquianos que no sabían leer terminaron llamándola el Retrato del capitán.
 
 Este viejo edificio de madera cuenta con dos plantas, un sótano de almacén y un jardín interior con mesas para estar al fresco en las noches de verano. En la planta baja está la barra, la cocina y las mesas, mientras que en la superior están los reservados y unas oficinas. El sótano suele usarse de almacén, no siempre de productos legales.
 
+\sp
+
 Es bastante frecuente encontrarse a grupos de marineros de fortuna que están gastando su sueldo antes de volver a su barco. Y pagando unos 500 doblones, el capitán Lawrence organiza fiestas privadas en el jardín interior con música, una barbacoa y barra libre de bebidas.
 
-Michelle LeCourt, la dama vudú de Kingston, posee el 51% del local, pero no es algo de dominio público. Para todo el mundo el bar es del capitán y el toma todas las decisiones. LeCourt usa el bar para sus reuniones de negocios y de vez en cuando guarda en su sótano algunos barriles de dudosa procedencia.
+Michelle LeCourt, la dama vudú de Kingston, posee el 51% del local, pero no es algo de dominio público. Para todo el mundo el bar es del capitán y él toma todas las decisiones. LeCourt usa el bar para sus reuniones de negocios y de vez en cuando guarda en su sótano algunos barriles de dudosa procedencia.
 
 #### The Mystery Shack
 
@@ -761,6 +875,8 @@ Si tiene un objeto extraño con montones de engranajes, palancas y botones, es e
 En realidad, Ifá es la que repara todos estos cachivaches de ciencia extraña. Los mete en la trastienda y pone a funcionar sus dones tecnológicos otorgados por Oggun, el orisha de la herrería.
 
 Por unos 200 doblones, Ifá puede decirte qué es y cómo funciona cualquier objeto tecnológico. Por 500 doblones puede repararlo siempre que sea materialmente posible. Si está quemado, hecho trozos o le faltan piezas, Ifá no podrá hacer nada. Tampoco puede hacerles mejoras, ni cambiar aspectos de su funcionalidad.
+
+\sp
 
 ### Port Royal
 
@@ -780,7 +896,11 @@ Lo único que mantiene con algo de vida a Port Royal es que todavía es puerto s
 
 #### El queso Chester
 
-El Queso Chester es una taberna creada en 1684 que sobrevivió al maremoto de 1692. Se dice que las aguas se pararon en su puerta. Lo monto un comerciante de quesos que quería establecerse en Port Royal. Los propietarios y sus descendientes fueron brutalmente asesinados en el asalto de Nick Catania y su flota pirata en 1703. Es por ello que fue subastado y comprado por su actual propietario que lo tiene subarrendado.
+El Queso Chester es una taberna creada en 1684 que sobrevivió al maremoto de 1692. Se dice que las aguas se pararon en su puerta. Lo monto un comerciante de quesos que quería establecerse en Port Royal. 
+
+\sp
+
+Los propietarios y sus descendientes fueron brutalmente asesinados en el asalto de Nick Catania y su flota pirata en 1703. Es por ello que fue subastado y comprado por su actual propietario que lo tiene subarrendado.
 
 Todos los que han trabajado o arrendado el local dicen que hay una presencia maligna que va minando tu mente hasta tener pensamientos depresivos y suicidas. La realidad es que fue la morada de un lloigor durante varios años y su esencia todavía impregna el lugar.
 
@@ -800,91 +920,38 @@ Si se tienen métodos para moverse por debajo del agua (tanto mágicos como cien
 
 Si por alguna razón se posee una caracola de los profundos, se podría usar con los profundos de la zona para que hagan una búsqueda por ti. En vez de media semana tardarán unas horas y en vez de un d20 podrás tirar dos d20 y elegir el resultado que más os interese.
 
-Tabla de Tesoros en las ruinas sumergidas de Port Royal
+\sp
 
-1d20
+\sinc
 
-Nombre
+##### Tabla de Tesoros en las ruinas sumergidas de Port Royal
 
-Descripción
+|1d20|Nombre|Descripción|
+|---|---|---|
+|1|Tenemos un problema|Se encuentran con un asentamiento profundo. Tú decides su tamaño, su agresividad y si han detectado o no al equipo submarino.|
+|2-3|Bisutería|Una vulgar caja de madera con algunas joyas de bisutería y algo de plata. Consiguen 1d4 monedas de oro.|
+|4-5|Cubertería de plata|Los restos de una cubertería de plata que se puede fundir y conseguir 1d4 x5 doblones.|
+|6-7|Joyero de sirviente|Un joyero de madera que contiene algunas joyas de plata y algo de oro. Consiguen 1d6 x10 monedas de oro.|
+|8-9|Marfil|Guardado en alguna lona hay un buen pedazo de marfil o hueso de ballena tallado valorado en 1d8 x20 doblones de oro.|
+|10-11|Botellas de vino o licor|En un armario o en un estante encuentras botellas bien conservadas de vinos o licores de buena calidad.|
+|12-13|Joyero de noble|En un joyero con incrustaciones de oro y plata hay varias joyas de gran valor de oro con gemas preciosas. Un perista podría comprarlo por 1d8 x 100 doblones.|
+|14-15|Caja fuerte|Si bien todos los pagarés, letras de cambio y demás papel moneda se ha estropeado por el agua, hay bastantes doblones de oro. Consiguen 2d6 x 100 monedas de oro. El único problema será como abrirla o llevársela.|
+|16|Gemas preciosas|En una bolsa de cuero tratado que se está pudriendo hay un buen conjunto de gemas preciosas. Seguro que era de algún viajero que así llevaba mucho dinero en poco peso. Pueden valer 2d8 x 100 doblones.|
 
-1
+\conc
 
-Tenemos un problema
+\sp
 
-Se encuentran con un asentamiento profundo. Tú decides su tamaño, su agresividad y si han detectado o no al equipo submarino.
+\sinc
 
-2-3
+|1d20|Nombre|Descripción|
+|---|---|---|
+|17|Lingotes de oro|En una caja metálica hay varios lingotes de oro, seguramente estaban preparados para hacer una compra importante o un gran negocio. 2d8 x 200 doblones de oro. Hay que festejar este hallazgo con una fiesta digna de un pirata, perdiendo un día de trabajo.|
+|18|¡Bingo!|Un objeto extraño ha aguantado bien debajo del agua dentro de algún contenedor estanco. Haz una tirada en la Tabla de Objetos pequeños y útiles.|
+|19|¡Yujuuu!|Un objeto extraño de gran tamaño ha aguantado bien debajo del agua dentro de algún contenedor estanco. Haz una tirada en la Tabla de Objetos de gran tamaño.|
+|20|¡Eureka!|Un objeto extraño ha aguantado bien debajo del agua dentro de algún contenedor estanco. Haz una tirada en la Tabla de Objetos más allá del tiempo y el espacio|
 
-Bisutería
-
-Una vulgar caja de madera con algunas joyas de bisutería y algo de plata. Consiguen 1d4 monedas de oro.
-
-4-5
-
-Cubertería de plata
-
-Los restos de una cubertería de plata que se puede fundir y conseguir 1d4 x5 doblones.
-
-6-7
-
-Joyero de sirviente
-
-Un joyero de madera que contiene algunas joyas de plata y algo de oro. Consiguen 1d6 x10 monedas de oro.
-
-8-9
-
-Marfil
-
-Guardado en alguna lona hay un buen pedazo de marfil o hueso de ballena tallado valorado en 1d8 x20 doblones de oro.
-
-10-11
-
-Botellas de vino o licor
-
-En un armario o en un estante encuentras botellas bien conservadas de vinos o licores de buena calidad.
-
-12-13
-
-Joyero de noble
-
-En un joyero con incrustaciones de oro y plata hay varias joyas de gran valor de oro con gemas preciosas. Un perista podría comprarlo por 1d8 x 100 doblones.
-
-14-15
-
-Caja fuerte
-
-Si bien todos los pagarés, letras de cambio y demás papel moneda se ha estropeado por el agua, hay bastantes doblones de oro. Consiguen 2d6 x 100 monedas de oro. El único problema será como abrirla o llevársela.
-
-16
-
-Gemas preciosas
-
-En una bolsa de cuero tratado que se está pudriendo hay un buen conjunto de gemas preciosas. Seguro que era de algún viajero que así llevaba mucho dinero en poco peso. Pueden valer 2d8 x 100 doblones.
-
-17
-
-Lingotes de oro
-
-En una caja metálica hay varios lingotes de oro, seguramente estaban preparados para hacer una compra importante o un gran negocio. 2d8 x 200 doblones de oro. Hay que festejar este hallazgo con una fiesta digna de un pirata, perdiendo un día de trabajo.
-
-18
-
-¡Bingo!
-
-Un objeto extraño ha aguantado bien debajo del agua dentro de algún contenedor estanco. Haz una tirada en la Tabla de Objetos pequeños y útiles
-
-19
-
-¡Yujuuu!
-
-Un objeto extraño de gran tamaño ha aguantado bien debajo del agua dentro de algún contenedor estanco. Haz una tirada en la Tabla de Objetos de gran tamaño
-
-20
-
-¡Eureka!
-
-Un objeto extraño ha aguantado bien debajo del agua dentro de algún contenedor estanco. Haz una tirada en la Tabla de Objetos más allá del tiempo y el espacio
+\conc
 
 ### Otros lugares de Jamaica
 
@@ -897,6 +964,8 @@ Troncos de árboles de palo de tinte se bajan por el río Negro hasta la ciudad 
 La ciudad de Black River es también famoso por uno de los principales puntos de tráfico de esclavos de Jamaica. Este intenso tráfico de esclavos ha hecho que haya varias comunidades de cimarrones en las zonas elevadas y secas del pantano.
 
 Por entre las gentes de Black River corre el rumor que una poderosa hechicera Vudú tiene su guarida en lo más profundo del pantano. Se cuenta que tiene un jardín lleno de estatuas de piedras de aquellos que han osado entrar en sus dominios. La realidad es que es un rumor que los cimarrones han hecho correr para que los esclavistas y los soldados ingleses no se adentren en la ciénaga.
+
+\sp
 
 Si tu mesa se adentra en el pantano buscando la sabiduría o el poder de la bruja vudú, no encontrarán a la hechicera ni señales de ellas. Pero quizás encuentren un templo medio sumergido en las aguas, los restos de una expedición perdida o la guarida de una madre de aguas.
 
@@ -914,6 +983,8 @@ Alguna de las islas de mayor tamaño de las Bahamas fue donde desembarcó Colón
 
 La población lucaya está muy mermada debido a las nuevas enfermedades y las migraciones forzosas que impusieron los españoles durante su dominio de las Bahamas. La mayoría de la población es inglesa, descendiente de puritanos que buscaron libertad religiosa en las colonias, o esclavos que trabajan forzados en las plantaciones de las grandes islas.
 
+\sc
+
 ### Nueva Providencia
 
 _Población:_ 2.000 habitantes, más de la mitad son piratas acogidos al perdón real.
@@ -928,13 +999,22 @@ Aunque sus platas y puertos son tranquilos, la navegación por sus aguas y en ge
 
 En 1722 Nasáu es la capital y la principal ciudad de Nueva Providencia. Ha sufrido varios ataques de españoles, de piratas y de los propios ingleses desde su fundación en 1670. De forma que la mayoría de las construcciones son nuevas o reformadas.
 
-Nasáu es el típico puerto del Caribe de tamaño mediano. Un puerto comercial y de pescadores con sus zonas de almacenaje, un centro histórico rico y amurallado y unos extramuros de cabañas y chabolas donde viven las clases más pobres.
 
-Posee una fortaleza defensiva que ha reconstruido el propio gobernador con su propio dinero para evitar futuros ataques de los españoles. No hará ni 2 años que la ciudad fue asediada por mar por la marina española ayudada por navíos de combate de la RCPC. Buscaban acabar con el refugio pirata que supone el archipiélago de las Bahamas.
+\sp
+
+\sinc
 
 ![Nasáu](./images/nassau.webp)
 
 Nasáu
+
+\conc
+
+\sp
+
+Nasáu es el típico puerto del Caribe de tamaño mediano. Un puerto comercial y de pescadores con sus zonas de almacenaje, un centro histórico rico y amurallado y unos extramuros de cabañas y chabolas donde viven las clases más pobres.
+
+Posee una fortaleza defensiva que ha reconstruido el propio gobernador con su propio dinero para evitar futuros ataques de los españoles. No hará ni 2 años que la ciudad fue asediada por mar por la marina española ayudada por navíos de combate de la RCPC. Buscaban acabar con el refugio pirata que supone el archipiélago de las Bahamas.
 
 #### Guthrie's premises
 
@@ -948,7 +1028,11 @@ Si visitas las tabernas de Nueva Providencia, tarde o temprano te encontrarás c
 
 Si pregunta a la gente local les dirán que apareció hace unos años con su barco, lo hizo sacar del agua, lo planto en una colina con vistas al puerto de su propiedad y ahora lo usa de casa. Siempre paga generosamente en relucientes monedas de oro y no parece tener problemas de dinero.
 
-Hay muchas historias sobre quién es, pero solo una es correcta. Es un viejo pirata retirado que disfruta de su botín. De hecho, es Henry Avery, uno de los piratas de mayor éxito de la historia. Desapareció en 1699 tras un gran golpe en el Índico a la flota de Aurangzeb, un emperador mogol de la India.
+Hay muchas historias sobre quién es, pero solo una es correcta. Es un viejo pirata retirado que disfruta de su botín. 
+
+\sp
+
+De hecho, es Henry Avery, uno de los piratas de mayor éxito de la historia. Desapareció en 1699 tras un gran golpe en el Índico a la flota de Aurangzeb, un emperador mogol de la India.
 
 Si alguien registra su barco no encontrará su tesoro, ya que lo ha enterrado bajo una palmera cercana. Pero puede que encuentre objetos de su vieja vida como su bandera pirata (una calavera de lado con pendientes y con un pañuelo con dos tibias cruzadas sobre fondo rojo), cartas navales del Índico, viejos diarios de capitán, …
 
@@ -966,7 +1050,11 @@ En juego, tiene Tácticas d12+2 y si le presentas un plan puede tirar sus Tácti
 
 ![Agujero azul de Dean](./images/agujero-azul.webp)
 
-El agujero azul de Dean (Dean's blue hole) es un [agujero azul](https://es.wikipedia.org/wiki/Agujero_azul) ubicado en una bahía en la costa oeste de la isla Larga en las Bahamas. Tiene una profundidad de 202 metros. Se encuentra en territorio Uh'e kn'a y es usado por los profundos como lugar donde dejar ofrendas a sus dioses. En el fondo podemos encontrar una gran variedad de esculturas de piedra, plata y oro de Cthulhu que los profundos dejan caer en forma de ofrenda.
+El agujero azul de Dean (Dean's blue hole) es un [agujero azul](https://es.wikipedia.org/wiki/Agujero_azul) ubicado en una bahía en la costa oeste de la isla Larga en las Bahamas. Tiene una profundidad de 202 metros. 
+
+\sp
+
+Se encuentra en territorio Uh'e kn'a y es usado por los profundos como lugar donde dejar ofrendas a sus dioses. En el fondo podemos encontrar una gran variedad de esculturas de piedra, plata y oro de Cthulhu que los profundos dejan caer en forma de ofrenda.
 
 La fortuna en oro y plata que hay en el fondo del agujero azul es comparable al tesoro de un pirata, pero el que se lleve algo del agujero azul quedara maldito. Tira al azar una maldición que sufrirán todos los implicados en el saqueo. La maldición empezará a revelarse al de una semana. En principio solo devolver lo robado hará desaparecer la maldición, pero puedes montarte una buena historia tipo Piratas del Caribe.
 
@@ -1000,7 +1088,9 @@ La VLH fue creado por Antoine Delapore en 1708. Delapore es un editor francés q
 
 La VLH se distribuye por todo el Caribe, los marineros y comerciantes los compran en La Habana y los venden allá donde van. También los intercambian, los prestan, los apuestan, etc. Y lo más importante, nadie los tira. Puedes encontrar ediciones de la VLH con años de antigüedad que la gente sigue releyendo una y otra vez, a pesar de estar doblados, arrugados y descoloridos.
 
-A nivel de juego, es una forma perfecta de meter a tu mesa en diferentes aventuras. Pueden encontrar alguna extraña oferta de trabajo o enterarse de algún extraño suceso que investigar. De hecho, siempre que encuentren una edición de la VLH, podrán tirar en la tabla de Sucesos extraños de La verdad de La Habana en la sección de «Viajes y encuentros».
+\sp
+
+> A nivel de juego, es una forma perfecta de meter a tu mesa en diferentes aventuras. Pueden encontrar alguna extraña oferta de trabajo o enterarse de algún extraño suceso que investigar. De hecho, siempre que encuentren una edición de la VLH, podrán tirar en la tabla de Sucesos extraños de La verdad de La Habana en la sección de «Viajes y encuentros».
 
 ### Mary Read y La verdad de La Habana
 
@@ -1014,137 +1104,81 @@ Mary Read consigue papel y tinta de los barcos que asalta y suele ser ella la qu
 
 Los ejemplares de la VLH pueden encontrarse en cualquier parte del Caribe y cuando alguien se encuentra con un ejemplar si gasta una hora en leerlo podrá descubrir alguna noticia que le llame la atención.
 
-Tabla de Noticias de La verdad de La Habana
+\sinc
 
-1d20
+&nbsp;
 
-Titular
+#### Tabla de Noticias de La verdad de La Habana
 
-Descripción
+|1d20|Titular|Descripción|
+|---|---|---|
+|1|Se buscan escritores|Un anuncio busca redactores para VLH y se ofrece dinero por buenas historias. Empieza el relato salvaje «Primera plana».|
 
-1
+\conc
 
-Se buscan escritores
+\sp
 
-Un anuncio busca redactores para VLH y se ofrece dinero por buenas historias. Empieza el relato salvaje «Primera plana».
+\sinc
 
-2
+|1d20|Titular|Descripción|
+|---|---|---|
+|2|Aparecen pepitas de oro en las playas de \[isla\]|Las mareas vivas y un reciente huracán han arrastrado hasta la playa una gran cantidad de pepitas de oro. Se desconoce su origen, pero no pueden ser de un barco hundido porque se transformaban en lingotes. Los pescadores y campesinos locales han dejado sus trabajos para ir a la playa buscar pepitas. Se han montado campamentos improvisados en las playas donde estos buscadores de oro esperan nuevas mareas para tratar de conseguir oro./br/Las pepitas, si encuentran una o pueden ver alguna de las que han recogido los buscadores, tienen formas extrañas y desde luego no naturales. Con una tirada de Mitos verán que son joyas de los profundos y seguramente querrán recuperarlas. Si ya habían visto este tipo de joyas lo verán sin necesidad de tirada./br/Las pepitas proceden de un asentamiento profundo en los arrecifes cercanos. El huracán junto a las mareas vivas casi han destruido su poblado submarino. La mayoría de las pepitas de oro son en realidad joyas de los profundos que han perdido durante la destrucción de su aldea./br/La misma noche que lleguen los PJ los profundos harán un ataque salvaje al asentamiento de la playa para recuperar su oro. Si los jugadores no hacen algo los profundos masacrarán a la gente de la playa. Pueden convencerles de que devuelvan el oro o serán perseguidos por los demonios del mar, pueden defenderse o pueden huir.|
+|3|¿Te atreves a pasar una noche en una casa encantada?|Anya Corbitt ofrece 200 doblones a quien averigüe qué pasa en la casa familiar, la mansión. Empieza el relato salvaje «El tesoro de la mansión Corbitt».|
 
-Aparece una coliflor de 500 kilos en una plantación de \[isla\]
+\conc
 
-Una espora de Ubbo-Sathla, dios primigenio que vino a la tierra desde el espacio que se que cree que es el origen de la vida en la tierra, ha caído en el huerto de un campesino y ha hecho que sus vegetales crezcan en tamaño descomunal. La espora ha llegado de río arriba de un almacén de la RCPC. El almacén es una tapadera donde la Orden del Gran Cthulhu está haciendo experimentos. Si los personajes investigan podrán dar con el laboratorio secreto. Es una construcción muy simple de madera de dos pisos, primera planta almacén y laboratorio en una sola gran estancia; segunda planta, oficinas del capitán, dormitorio con 8 camastros y cocina/despensa. Hay un 1 capitán, 10 guardas y 2 cultistas/científicos y 3 peones.  
-Si desmantelan el almacén pueden hacer una tirada de tesoro con un TPC 1d8.
+\sp
 
-3
+\sinc
 
-Aparecen pepitas de oro en las playas de \[isla\]
+|1d20|Titular|Descripción|
+|---|---|---|
+|4|Aparece una coliflor de 500 kilos en una plantación de \[isla\]|Una espora de Ubbo-Sathla, dios primigenio que vino a la tierra desde el espacio que se que cree que es el origen de la vida en la tierra, ha caído en el huerto de un campesino y ha hecho que sus vegetales crezcan en tamaño descomunal. La espora ha llegado de río arriba de un almacén de la RCPC. El almacén es una tapadera donde la Orden del Gran Cthulhu está haciendo experimentos. Si los personajes investigan podrán dar con el laboratorio secreto. Es una construcción muy simple de madera de dos pisos, primera planta almacén y laboratorio en una sola gran estancia; segunda planta, oficinas del capitán, dormitorio con 8 camastros y cocina/despensa. Hay un 1 capitán, 10 guardas y 2 cultistas/científicos y 3 peones. Si desmantelan el almacén pueden hacer una tirada de tesoro con un TPC 1d8.|
+|5|Entre las redes de unos pescadores de \[puerto\] ha aparecido el cuerpo de una sirena|En realidad es el cuerpo hinchado y putrefacto de un profundo que murió a causa del ataque de un tiburón. Si tu mesa busca a los pescadores, estos lo tendrán conservado en sal. Podrán comprarlo por 150 doblones, algo menos si regatean. Si un personaje gasta una semana estudiando estas bacaladas saladas gigantes, obtiene un +1 a todas las tiradas relacionadas con los profundos.|
+|6|Anuncio de The Mystery Shack|Hay un anuncio que ofrece 20% de descuento a quien presente este periódico al comprar algún producto en la tienda de curiosidades de The Mystery Shack.|
+|7|Compramos libros antiguos|Librería Guía, en La Habana, compra libros antiguos. Si tu mesa visita a Isadora y se gana su confianza, obtendrá una valiosa aliada con los mayores conocimientos de los Mitos de todo el Caribe.|
 
-Las mareas vivas y un reciente huracán han arrastrado hasta la playa una gran cantidad de pepitas de oro. Se desconoce su origen, pero no pueden ser de un barco hundido porque se transformaban en lingotes. Los pescadores y campesinos locales han dejado sus trabajos para ir a la playa buscar pepitas. Se han montado campamentos improvisados en las playas donde estos buscadores de oro esperan nuevas mareas para tratar de conseguir oro.  
-Las pepitas, si encuentran una o pueden ver alguna de las que han recogido los buscadores, tienen formas extrañas y desde luego no naturales. Con una tirada de Mitos verán que son joyas de los profundos y seguramente querrán recuperarlas. Si ya habían visto este tipo de joyas lo verán sin necesidad de tirada.  
-Las pepitas proceden de un asentamiento profundo en los arrecifes cercanos. El huracán junto a las mareas vivas casi han destruido su poblado submarino. La mayoría de las pepitas de oro son en realidad joyas de los profundos que han perdido durante la destrucción de su aldea.  
-La misma noche que lleguen los PJ los profundos harán un ataque salvaje al asentamiento de la playa para recuperar su oro. Si los jugadores no hacen algo los profundos masacrarán a la gente de la playa. Pueden convencerles de que devuelvan el oro o serán perseguidos por los demonios del mar, pueden defenderse o pueden huir.
+\conc
 
-4
+\sp
 
-Entre las redes de unos pescadores de \[puerto\] ha aparecido el cuerpo de una sirena
+\sinc
 
-En realidad es el cuerpo hinchado y putrefacto de un profundo que murió a causa del ataque de un tiburón. Si tu mesa busca a los pescadores, estos lo tendrán conservado en sal. Podrán comprarlo por 150 doblones, algo menos si regatean. Si un personaje gasta una semana estudiando estas bacaladas saladas gigantes, obtiene un +1 a todas las tiradas relacionadas con los profundos.
+|1d20|Titular|Descripción|
+|---|---|---|
+|8|Extrañas frutas aparecen en los árboles de \[ciudad\] ante el asombro de la gente de ciencia|Los campesinos locales han recogido extrañas frutas de sus árboles frutales que al ser consumidas tienen efectos alucinógenos. Podrán comprar algunas piezas por 10 doblones cada una. Si se consumen, las ondas cerebrales del gran Cthulhu se infiltran en el cerebro de los comensales, dándoles visiones terribles de la ciudad sumergida de R’lyeh. Durante las visiones podrán hacer uso de su habilidad de Mitos de Cthulhu para tratar de sacar información sobre Cthulhu, R’lyeh, sus adoradores y sus planes.|
+|9|La joven diletante Johanna Ribeiro presentará su primera obra en el teatro de Kingston.|Johanna Ribeiro está preparando su primera obra de teatro «El capitán de amarillo» que espera que sea un éxito. La noticia narra las dificultades que está teniendo la dramaturga para sacar su obra. Empieza el relato salvaje «El capitán de amarillo».|
+|10|La actividad sísmica se dispara en los Cayos de Florida|En los últimos meses, ha aumentado drásticamente la actividad sísmica en los Cayos de Florida. Los locales se lo achacan desde demonios tratando de escapar del infierno a locas teorías sobre placas de corteza terrestre que chocan entre sí. La verdad es que los temblores han crecido desde que se instalaron en Cayo Hueso un grupo de religiosos ascetas.|
+|11|Desde Galicia hasta el Caribe|La noticia recoge la migración de gallegos desde España hasta el caribe en busca de fortuna. Permite aprender el ritual de La Queimada, cuya receta se recoge en el artículo.|
+|12|Se buscan modelos|Un anuncio busca modelos. Empieza el relato salvaje «Se buscan modelos».|
 
-5
+\conc
 
-Extrañas frutas aparecen en los árboles de \[ciudad\] ante el asombro de la gente de ciencia
+\sp
 
-Los campesinos locales han recogido extrañas frutas de sus árboles frutales que al ser consumidas tienen efectos alucinógenos. Podrán comprar algunas piezas por 10 doblones cada una. Si se consumen, las ondas cerebrales del gran Cthulhu se infiltran en el cerebro de los comensales, dándoles visiones terribles de la ciudad sumergida de R’lyeh. Durante las visiones podrán hacer uso de su habilidad de Mitos de Cthulhu para tratar de sacar información sobre Cthulhu, R’lyeh, sus adoradores y sus planes.
+\sinc
 
-6
+|1d20|Titular|Descripción|
+|---|---|---|
+|13|Las curiosas tradiciones de los habitantes de \[lugar\]|El artículo cuenta las extrañas tradiciones de las gentes de algún pueblo/ciudad/isla del Caribe. Puede ser que hablen de procesiones, recetas de platos típicos, ceremonias religiosas, … la cuestión es que de esas tradiciones se pueden sacar un ritual al azar de la tabla de Rituales.|
+|14|Entrevista a la Gobernadora Marley|En una entrevista a la Gobernadora Marley de isla Melee sobre sus últimas leyes en materia de impuestos a parques de atracciones habla del ritual de belleza que hace cada día para estar tan guapa. Puedes aprender un ritual de belleza que consiste en pedirle a tu reflejo (espejos, superficie pulida o incluso agua) que te haga más bello mediante una fórmula mágica rimada. Te otorga la ventaja Atractivo hasta la mañana siguiente.|
+|15|Nuevo avistamiento de una madre de aguas en \[zona\]|Campesinos de la zona aseguran que algunos de sus animales de granja han sido víctimas de estas boas gigantescas. Se buscan aventureros que les libren de estas alimañas. Empieza el relato salvaje «Madre de aguas».|
+|16|El famoso cazador de monstruos Fabio Castelli llega a Ponce para comenzar una nueva aventura|Un famoso cazador italiano ha llegado a la ciudad para cazar a «El yeho», una especie de eslabón perdido entre los humanos y los primates que vive en los bosques de la zona. Empieza el relato salvaje «El yeho».|
+|17|La Destreza Indiana|Este reportaje habla sobre el maestro de esgrima Don Diego Rodríguez de Guzmán que enseña a sus alumnos la Destreza Indiana, su estilo de lucha. La Destreza Indiana es una evolución de la Destreza de origen español con adaptaciones a las peculiaridades del Caribe y de los navíos.|
 
-La joven diletante Johanna Ribeiro presentará su primera obra en el teatro de Kingston.
+\conc
 
-Johanna Ribeiro está preparando su primera obra de teatro «El capitán de amarillo» que espera que sea un éxito. La noticia narra las dificultades que está teniendo la dramaturga para sacar su obra. Empieza el relato salvaje «El capitán de amarillo».
+\sp
 
-7
+\sinc
 
-La actividad sísmica se dispara en los Cayos de Florida
+|1d20|Titular|Descripción|
+|---|---|---|
+|18|Extrañas luces iluminan la costa de \[puerto\]|Las luces se pueden ver en una zona de cuevas y acantilados. Si se investiga la zona por la noche, un grupo de delincuentes (unos 6 piratas) está intentando saber como funciona un faro del diablo que han adquirido. Lo que buscan es aprender a simular las luces de los faros cercanos y engañar a los barcos para llevarlos los arrecifes y quedarse con su carga.|
+|19|Se buscan repartidores|Un anuncio busca repartidores para VLH. Empieza el relato salvaje «Repartidores».|
+|20|Tú eres el protagonista|El artículo narrará de forma muy heroica alguna de vuestras aventuras. El relato os pondrá de paladines del bien. Si los que lo lean fallan su tirada de Astucia, se tragarán todas las exageraciones del periodista y podrán recuperar un punto de cordura. Sienta bien para el ego y la salud mental que hablen bien de ti y alaben tus acciones. En caso de no tener puntos de cordura que recuperar, obtendrá un beni.|
 
-En los últimos meses, ha aumentado drásticamente la actividad sísmica en los Cayos de Florida. Los locales se lo achacan desde demonios tratando de escapar del infierno a locas teorías sobre placas de corteza terrestre que chocan entre sí. La verdad es que los temblores han crecido desde que se instalaron en Cayo Hueso un grupo de religiosos ascetas.
-
-8
-
-Desde Galicia hasta el Caribe
-
-La noticia recoge la migración de gallegos desde España hasta el caribe en busca de fortuna. Permite aprender el ritual de La Queimada, cuya receta se recoge en el artículo.
-
-9
-
-Se buscan modelos
-
-Un anuncio busca modelos. Empieza el relato salvaje «Se buscan modelos».
-
-10
-
-Las curiosas tradiciones de los habitantes de \[lugar\]
-
-El artículo cuenta las extrañas tradiciones de las gentes de algún pueblo/ciudad/isla del Caribe. Puede ser que hablen de procesiones, recetas de platos típicos, ceremonias religiosas, … la cuestión es que de esas tradiciones se pueden sacar un ritual al azar de la tabla de Rituales.
-
-11
-
-Entrevista a la Gobernadora Marley
-
-En una entrevista a la Gobernadora Marley de isla Melee sobre sus últimas leyes en materia de impuestos a parques de atracciones habla del ritual de belleza que hace cada día para estar tan guapa. Puedes aprender un ritual de belleza que consiste en pedirle a tu reflejo (espejos, superficie pulida o incluso agua) que te haga más bello mediante una fórmula mágica rimada. Te otorga la ventaja Atractivo hasta la mañana siguiente.
-
-12
-
-Nuevo avistamiento de una madre de aguas en \[zona\]
-
-Campesinos de la zona aseguran que algunos de sus animales de granja han sido víctimas de estas boas gigantescas. Se buscan aventureros que les libren de estas alimañas. Empieza el relato salvaje «Madre de aguas».
-
-13
-
-Se buscan repartidores
-
-Un anuncio busca repartidores para VLH. Empieza el relato salvaje «Repartidores».
-
-14
-
-El famoso cazador de monstruos Fabio Castelli llega a Ponce para comenzar una nueva aventura
-
-Un famoso cazador italiano ha llegado a la ciudad para cazar a «El yeho», una especie de eslabón perdido entre los humanos y los primates que vive en los bosques de la zona. Empieza el relato salvaje «El yeho».
-
-15
-
-Extrañas luces iluminan la costa de \[puerto\]
-
-Las luces se pueden ver en una zona de cuevas y acantilados. Si se investiga la zona por la noche, un grupo de delincuentes (unos 6 piratas) está intentando saber como funciona un faro del diablo que han adquirido. Lo que buscan es aprender a simular las luces de los faros cercanos y engañar a los barcos para llevarlos los arrecifes y quedarse con su carga.
-
-16
-
-Compramos libros antiguos
-
-Librería Guía, en La Habana, compra libros antiguos. Si tu mesa visita a Isadora y se gana su confianza, obtendrá una valiosa aliada con los mayores conocimientos de los Mitos de todo el Caribe.
-
-17
-
-La Destreza Indiana
-
-Este reportaje habla sobre el maestro de esgrima Don Diego Rodríguez de Guzmán que enseña a sus alumnos la Destreza Indiana, su estilo de lucha. La Destreza Indiana es una evolución de la Destreza de origen español con adaptaciones a las peculiaridades del Caribe y de los navíos.
-
-18
-
-¿Te atreves a pasar una noche en una casa encantada?
-
-Anya Corbitt ofrece 200 doblones a quien averigüe qué pasa en la casa familiar, la mansión. Empieza el relato salvaje «El tesoro de la mansión Corbitt».
-
-19
-
-Tú eres el protagonista
-
-El artículo narrará de forma muy heroica alguna de vuestras aventuras. El relato os pondrá de paladines del bien. Si los que lo lean fallan su tirada de Astucia, se tragarán todas las exageraciones del periodista y podrán recuperar un punto de cordura. Sienta bien para el ego y la salud mental que hablen bien de ti y alaben tus acciones. En caso de no tener puntos de cordura que recuperar, obtendrá un beni.
-
-20
-
-Anuncio de The Mystery Shack
-
-Hay un anuncio que ofrece 20% de descuento a quien presente este periódico al comprar algún producto en la tienda de curiosidades de The Mystery Shack.
+\conc
 
 \sp
 
@@ -1172,6 +1206,9 @@ Es por ello que para plantearse arreglar los errores viajando en el tiempo, debe
 
 * **Hechizos basados en viajes temporales:** Rotura temporal, Vibración temporal, Perdido en el tiempo y Droga Plutónica. Cuando aprendan esos hechizos se darán cuenta de las posibilidades y las implicaciones de los viajes temporales.
 * **Relatos salvajes:** Hay varios relatos salvajes que implican viajes en el tiempo, muchas veces involuntarios. Entre ellos tenemos: Mar antigua o Cazadores de huesos.
+
+\sp
+
 * **Objetos:** Hay también objetos de los Mitos que pueden estar relacionados con los viajes en el tiempo: Ánfora de viaje por las Tierras del sueño u Objeto perdido en el tiempo.
 
 **2\. Solo para arreglar grandes errores:** No pueden hacerlo todo el rato, solo en momentos dramáticos: muertes de personajes importantes, grandes masacres, …
@@ -1205,6 +1242,8 @@ Las Antillas Menores es una zona del Caribe plagada de pequeñas islas de origen
 * Soufrière Hills (Montserrat).
 * Soufrière St. Vincent (San Vicente).
 
+\sp
+
 ### Volcanes sub-acuáticos
 
 El único volcán submarino registrado en el Caribe es el Diamond Islet (Islote del Diamante) en alusión a unas rocas emergidas cercanas. Se encuentra a unos kilómetros al norte de la isla de Granada. Su cráter está a unos 160 metros de profundidad y está activo. Aunque hasta 1939 no se registrará ninguna actividad. Así que siente libre de hacerlo estallar cuando quieras. Las aguas del cráter tienen una media de 150/200 grados, lo que dificulta su exploración. Igual a alguien de tu mesa se le ocurre una forma de cocer a algún ser acuático gigantesco en sus aguas o de freírlo haciéndole expulsar lava.
@@ -1231,88 +1270,37 @@ Queda a discreción del director de juego cuando los jugadores pueden ser buscad
 
 ## Línea de tiempo
 
+|Año|Evento|
+|---|---|
+|1629|Hernando de Villalba, con 16 años, escapa de España y se establece en la costa sur de Cuba.|
+|1610|Se termina de construir el castillo de los Tres Reyes en La Habana.|
+|1659|La mitad occidental de la isla de La Española y la isla de la Tortuga pasan a ser controladas oficialmente por Francia con el nombre de Saint-Domingue.|
+|1689|Hernando de Villalba funda la Compañía de Comercio del Caribe.|
+|1690|Se funda Universidad de Miskatonic.|
+|1692|Un maremoto hunde bajo el mar 2/3 partes de la ciudad de Port Royal.
+|1692|Se funda la ciudad de Kingston.|
+|1691|La Compañía de Comercio del Caribe obtiene la exclusiva comercial del rey de España y pasa a llamarse la Real Compañía Privilegiada del Caribe.|
+|1697|España cede a Francia por el tratado de Ryswick la parte oeste de La Española pasándose a llamar Saint-Domingue.|
+|1703|La ciudad de Port Royal sufre grandes destrozos por parte de la flota del pirata Catania Nick.|
+|1706|Se funda la República de Piratas en la isla de Nueva Providencia convirtiéndose en el mayor refugio pirata de las Antillas Menores.|
+|1708|Se publica el primer número de La verdad de La Habana.|
+|1711|Hernando Villalba descubre unas ruinas sumergidas al oeste de Cuba que puede que le indiquen dónde está sumergida la ciudad de R’lyeh. Desde ese momento Villalba lleva enclaustrado en su mansión buscando su tesoro hundido.|
+
 \conc
 
-línea de tiempo
+\sp
 
-Año
+\sinc
 
-Evento
+|Año|Evento|
+|---|---|
+|1715|Una flota de la plata capitaneada por Juan Esteban de Ubilla es hundida por un huracán frente a las costas de Florida.|
+|1716|Tras años moviendo hilos, la RCPC consigue que se construya el Real Astillero de La Habana.|
+|1718|El gobernador Woodes Rogers toma Nasáu y acaba con la República de Piratas, el refugio pirata de Bahamas.|
+|1718|Barbanegra consigue escapar de la flotilla cazapirata de Robert Maynard gracias a la ayuda del culto de Cthulhu con los que contrae una deuda de sangre que deberá pagar trabajando para ellos durante 10 años.|
+|1719|Se inaugura la Universidad de La Habana.|
+|1720|El capitán Barnet captura Anne Bonny y Jack Rackham, Mary Read escapa iniciando sus andaduras en solitario como pirata.|
+|1722|Los jesuitas fundan el colegio público San José en La Habana.|
+|1722|**El presente**|
 
-1629
-
-Hernando de Villalba, con 16 años, escapa de España y se establece en la costa sur de Cuba.
-
-1610
-
-Se termina de construir el castillo de los Tres Reyes en La Habana.
-
-1659
-
-La mitad occidental de la isla de La Española y la isla de la Tortuga pasan a ser controladas oficialmente por Francia con el nombre de Saint-Domingue.
-
-1689
-
-Hernando de Villalba funda la Compañía de Comercio del Caribe.
-
-1690
-
-Se funda Universidad de Miskatonic.
-
-1692
-
-Un maremoto hunde bajo el mar 2/3 partes de la ciudad de Port Royal.
-
-Se funda la ciudad de Kingston.
-
-1691
-
-La Compañía de Comercio del Caribe obtiene la exclusiva comercial del rey de España y pasa a llamarse la Real Compañía Privilegiada del Caribe.
-
-1697
-
-España cede a Francia por el tratado de Ryswick la parte oeste de La Española pasándose a llamar Saint-Domingue.
-
-1703
-
-La ciudad de Port Royal sufre grandes destrozos por parte de la flota del pirata Catania Nick.
-
-1706
-
-Se funda la República de Piratas en la isla de Nueva Providencia convirtiéndose en el mayor refugio pirata de las Antillas Menores.
-
-1708
-
-Se publica el primer número de La verdad de La Habana.
-
-1711
-
-Hernando Villalba descubre unas ruinas sumergidas al oeste de Cuba que puede que le indiquen dónde está sumergida la ciudad de R’lyeh. Desde ese momento Villalba lleva enclaustrado en su mansión buscando su tesoro hundido.
-
-1715
-
-Una flota de la plata capitaneada por Juan Esteban de Ubilla es hundida por un huracán frente a las costas de Florida.
-
-1716
-
-Tras años moviendo hilos, la RCPC consigue que se construya el Real Astillero de La Habana.
-
-1718
-
-El gobernador Woodes Rogers toma Nasáu y acaba con la República de Piratas, el refugio pirata de Bahamas.
-
-Barbanegra consigue escapar de la flotilla cazapirata de Robert Maynard gracias a la ayuda del culto de Cthulhu con los que contrae una deuda de sangre que deberá pagar trabajando para ellos durante 10 años.
-
-1719
-
-Se inaugura la Universidad de La Habana.
-
-1720
-
-El capitán Barnet captura Anne Bonny y Jack Rackham, Mary Read escapa iniciando sus andaduras en solitario como pirata.
-
-1722
-
-Los jesuitas fundan el colegio público San José en La Habana.
-
-El presente
+\conc

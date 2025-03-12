@@ -279,6 +279,7 @@ ul li:not(ul li ul li):after {
 
 img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
   width: 100%;
+  max-height: 1000px;
 }
 
 
@@ -463,8 +464,8 @@ section h1 + .saltopagina:after {
   }
 
   section:nth-of-type(6) .saltopagina:before {
-    height: 39vh;
-    bottom: calc(61vh + 2px);
+    height: 42vh;
+    bottom: calc(58vh + 2px);
     content: "G \A u \A í \A a \A \A d \A e \A \A v \A i \A a \A j \A e \A s ";
     white-space: pre;
     background-color: var(--green-dark);

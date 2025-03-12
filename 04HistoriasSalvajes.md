@@ -13,15 +13,23 @@ El tesoro hundido es cómo llama Hernando de Villalba, dueño de la RCPC, a la c
 
 Para llevar a cabo su plan necesita primero encontrar la ciudad, que sospecha que se encuentra en algún lugar del Caribe. Lleva años estudiando viejos tomos malditos, apócrifas cartas náuticas y mandando a sus espías a tabernas portuarias a escuchar los locos relatos de los marineros. Está muy cerca de encontrarla, pero hay algo que todavía se le escapa para encontrar su «tesoro hundido».
 
-Y si eso no fuera poco, debe encontrar la manera de sacar a la ciudad de las profundidades marinas para poder despertar al gran Cthulhu. Gracias a su descendencia profunda ha obtenido el Tridente de Dagón que le permite tener bajo su mando cualquier profundo del Caribe. El tridente le ha convertido en la persona más poderosa del Caribe. Con su ejército de profundos puede destruir flotas enteras o hacer desaparecer ciudades portuarias solo con desearlo.
+Y si eso no fuera poco, debe encontrar la manera de sacar a la ciudad de las profundidades marinas para poder despertar al gran Cthulhu.
+
+Gracias a su descendencia profunda ha obtenido el Tridente de Dagón que le permite tener bajo su mando cualquier profundo del Caribe. El tridente le ha convertido en la persona más poderosa del Caribe. Con su ejército de profundos puede destruir flotas enteras o hacer desaparecer ciudades portuarias solo con desearlo.
 
 Lo que tampoco sabe Villalba es que hay un grupo de descastados y parias que van a tratar de estropear sus planes. Puede que ahora sean solo una molestia menor, pero si no los vigila y los controla, se convertirán en la gran piedra en el zapato de sus planes.
 
 «En el Carcosa» y «Devil came to me» puedes usarlas como una aventura introductoria y después puedes dejarles libres en el Caribe para explorarlo o para que sigan la trama de «El tesoro hundido».
 
+\sp
+
+\sinc
+
 ![](./images/batalla-naval.webp)
 
 ### En el «Carcosa»
+
+\conc
 
 **Comienzo:** En el Paso de los Vientos
 
@@ -32,6 +40,8 @@ El «Carcosa» es un buque mercante de la RCPC en ruta entre La Habana (Cuba) y 
 Los marineros están nerviosos, porque no hay ni escolta y los guardacostas no parecen estar cerca. En cualquier momento podría aparecer una bandera negra en el horizonte y eso significaría serios problemas.
 
 Tu mesa está embarcada como tripulantes o pasajeros. Quizás algunos se conozcan porque son familia, socios comerciales o compañeros de aventuras. Lo importante es que están bajo cubierta en la misma mesa de bancos corridos cenando su ración de alubias con tocino y tostones fritos, mientras fuera la oscuridad lo cubre todo.
+
+\sp
 
 #### Una bandera que significa muerte
 
@@ -49,7 +59,11 @@ Cada uno se tendrá que enfrentar a dos piratas. Primero lleva el combate de los
 
 #### Brusco despertar
 
-Un cubo de fría agua de mar despierta a tu mesa. Ya es de día y el sol les ciega. Están atados a la borda del barco pirata y rodeados de piratas con caras de pocos amigos. Una mujer está de cuclillas muy cerca de sus caras apoyándose sobre su sable. Con sarcasmo dice — Vaya, vaya. ¿Qué tenemos aquí? — Acto seguido se ríe y de repente sus ojos se quedan en blanco, balbucea algo y se levanta y grita — ¡¡¡Soltadlos!!!
+Un cubo de fría agua de mar despierta a tu mesa. Ya es de día y el sol les ciega. Están atados a la borda del barco pirata y rodeados de piratas con caras de pocos amigos. Una mujer está de cuclillas muy cerca de sus caras apoyándose sobre su sable. 
+
+\sp
+
+Con sarcasmo dice — Vaya, vaya. ¿Qué tenemos aquí? — Acto seguido se ríe y de repente sus ojos se quedan en blanco, balbucea algo y se levanta y grita — ¡¡¡Soltadlos!!!
 
 Irá mirando a cada uno y les irá preguntando quiénes son y a qué se dedican. Aprovecha para que se describan y así se conoce tu mesa. Les pondrá apodos divertidos y les dirá que vuelvan a su barco y que si no obedecen a su capitán serán pasto de tiburones. Prepárate los motes de antes, basándote en su ficha. Con lo cabronas que suelen ser las mesas seguro que se quedan con el mote el resto de la campaña.
 
@@ -68,6 +82,8 @@ Si se paran a mirar un pirata les pinchará con el sable para que sigan limpiand
 Tras limpiar la cubierta, hacer unas reparaciones básicas y cargar el ron de la bodega en el Golpe de Suerte, son encerrados en la bodega del «Carcosa». El «Carcosa» y el Golpe de suerte empiezan a navegar en rumbo Suroeste. Una tirada de Navegar o Supervivencia les dirá que se dirigen seguramente a Jamaica.
 
 Al anochecer les abren para darles agua y comida. Un par de guardias van haciendo salir y entrar uno a uno los prisioneros. Un par de veces oirán un grito de dolor, un golpe seco contra el suelo, gente arrastrando algo por la cubierta y algo que cae el mar. Curiosamente, cuando eso pasa no vuelve a entrar el último prisionero que salió.
+
+\sp
 
 Arriba Mary Read y sus suboficiales están entrevistando a cada prisionero. Buscan a cultistas de la Orden a los que interrogar. En las escaleras, mientras les apuntan con varias pistolas de chispa, les hacen ponerse en paños menores para ver que no tienen marcas de la Orden o extrañas malformaciones fruto del contacto con los Mitos, por ejemplos agallas como los híbridos de profundo. Si están limpios les devuelven la ropa y les dejan subir a cubierta.
 
@@ -89,6 +105,8 @@ A cada personaje se le acercará un profundo con intenciones funestas y el resto
 
 Tras deshacerse de los cadáveres de los profundos, Mary ordenará largar trapo y salir de allí pitando. Desde el castillo de popa del «Carcosa» les soltará el discurso que tenía preparado.
 
+\sp
+
 > Sabed que si he llegado viva hasta hoy es porque siempre me he fiado de mi intuición. Y esta vez mis entrañas me dicen que en vez de pasaros por la quilla os ofrezca la oportunidad de vuestra vida. Ya habéis visto a que nos enfrentamos, horrores del infierno invocados por la más oscura brujería. Detrás de esos monstruos está la corrupta Real Compañía Privilegiada del Caribe que trata de apoderarse de todo el Caribe para poder traer el Apocalipsis a nuestro mundo.
 
 Hace una pequeña pausa dramática y mira sus reacciones
@@ -103,7 +121,11 @@ Mira a unos de sus tripulantes y este se levanta una de las mangas de su camisa 
 
 > ¿Qué contestáis?
 
-En caso de que diga que aceptan, Mary Read elegirá al jugador con más experiencia como capitán y le pondrá al mando del «Carcosa». El resto de su mesa será sus ayudantes y dejará algunos de sus tripulantes para ayudar en el barco. El título de capitán es algo burocrático, deberán votar entre todos los asuntos que afecten al barco, su tripulación y su carga.
+En caso de que diga que aceptan, Mary Read elegirá al jugador con más experiencia como capitán y le pondrá al mando del «Carcosa». El resto de su mesa será sus ayudantes y dejará algunos de sus tripulantes para ayudar en el barco.
+
+\sp
+
+El título de capitán es algo burocrático, deberán votar entre todos los asuntos que afecten al barco, su tripulación y su carga.
 
 En caso de que se nieguen, les dirá que cuando lleguen a tierra firme segura les dejará irse con el «Carcosa». Pueden pensárselo hasta ese momento.
 
@@ -124,6 +146,8 @@ Tras un par de días de viaje, los barcos llegarán a las Islas Caimán. Fondean
 Tras los sucesos del «Carcosa» tu mesa empieza a ver que hay fuerzas actuando en el Caribe que escapan a su cordura. La RCPC parece ser algo más una gran empresa comercial. Es el momento tener una conversación con Mary Read.
 
 Durante una semana estarán haciendo modificaciones al «Carcosa», entre ellas cambiarle el nombre para evitar la mala suerte del nombre anterior si van a seguir a Mary. También hay que modificarlo de forma que no se pueda detectar que es un barco capturado.
+
+\sp
 
 Si no han aceptado el trato, el equipo de Mary hará reparaciones básicas, pero las alargarán todo lo que se pueda. Mary quiere tenerlos unos días bajo su influencia para hacerles cambiar de opinión.
 

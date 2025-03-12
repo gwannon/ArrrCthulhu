@@ -2,7 +2,7 @@
 
 ***
 
-|02ReglasDeAmbientacion.md|
+-02ReglasDeAmbientacion.md|
 
 ***
 
@@ -10,7 +10,7 @@
 
 ***
 
--04HistoriasSalvajes.md|
+|04HistoriasSalvajes.md|
 
 ***
 
