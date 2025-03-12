@@ -1624,111 +1624,23 @@ Durante los viajes se puede perder carga. Si se sufren tormentas se perderá un 
 
 Si vas a usar tu barco para comerciar entre las islas, deberás llenar tus bodegas de carga que vender en otra isla con un beneficio. Puedes comprar dos tipos de carga: materias primas y productos manufacturados. Hay un tercer tipo de carga, el botín, que no puede ser comprada, solo puede obtenerse asaltando barcos, buscando tesoro y en general corriendo aventuras. El precio de compra/venta del barril de cada tipo de carga depende de donde se compra y vende. La siguiente tabla te dice el precio de compra y venta de cada tipo de carga según donde se haga la transacción. Puede haber ciudades en la Guía de viajes que tengan reglas especiales.
 
-#### Tabla de compra/venta de carga
+#### Tablas de compra/venta de carga
 
-Materias primas
+|Materias primas|Compra|Venta|
+|---|---|---|
+|**Puerto**|**Precio / Cap.**|**Precio / Cap.**|
+|&lt; 5.000 habitantes|50 / 20|40 / 15|
+|de 5.000 a 25.000 habitantes|60 / 40|50 / 45|
+|de 25.001 a 50.000 habitantes|70 / 60|60 / 75|
+|&gt; 50.000 habitantes|80 / 80|70 / 100|
 
-Productos manufacturados
-
-Compra
-
-Venta
-
-Compra
-
-Venta
-
-Puerto
-
-Precio
-
-Cap.
-
-Precio
-
-Cap.
-
-Precio
-
-Cap.
-
-Precio
-
-Cap.
-
-\sp
-
-&lt; 5.000 habitantes
-
-50
-
-20
-
-40
-
-15
-
-100
-
-25
-
-65
-
-30
-
-de 5.000 a 25.000 habitantes
-
-60
-
-40
-
-50
-
-45
-
-80
-
-100
-
-70
-
-60
-
-de 25.001 a 50.000 habitantes
-
-70
-
-60
-
-60
-
-75
-
-60
-
-200
-
-75
-
-110
-
-&gt; 50.000 habitantes
-
-80
-
-80
-
-70
-
-100
-
-40
-
-300
-
-80
-
-200
+|Productos manufacturados|Compra|Venta|
+|---|---|---|
+|**Puerto**|**Precio / Cap.**|**Precio / Cap.**|
+|&lt; 5.000 habitantes|100 / 25|65 / 30|
+|de 5.000 a 25.000 habitantes|80 / 100|70 / 60|
+|de 25.001 a 50.000 habitantes|60 / 200|75 / 110|
+|&gt; 50.000 habitantes|40 / 300|80 / 200|
 
 \sp
 
@@ -2256,21 +2168,31 @@ A nivel de juego será incapaz llevar cualquier tarea que exija tiempo realizarl
 
 En esta sección encontrarás todo lo necesario para darle un poco de vida a los viajes por mar y por tierra y que no sea un simple «llegas a Cuba tres días más tarde» sino que haya situaciones, personas y lugares que lo hagan diferente e incluso sirvan de introducción a otros relatos salvajes.
 
-**Duración de los viajes:** Como ya hemos visto en otras partes, vamos a usar la semana con forma de contar el tiempo cuando se viaje. Todos los viajes que supongan viajar de una isla a otra duran una semana. Los viajes por barco dentro de una misma isla duran media semana y por tierra una semana. Si crees que el viaje es extremadamente corto, podría hacerse en un día, con lo que no podrá usarse para, por ejemplo, estudiar libros de los Mitos. Un viaje extremadamente largo podría durar dos semanas. Moverse de un extremo a otro del Caribe no debería durar más de 2 semanas con buen tiempo.
+**Duración de los viajes:** Como ya hemos visto en otras partes, vamos a usar la semana con forma de contar el tiempo cuando se viaje. Todos los viajes que supongan viajar de una isla a otra duran una semana. Los viajes por barco dentro de una misma isla duran media semana y por tierra una semana. 
+
+Si crees que el viaje es extremadamente corto, podría hacerse en un día, con lo que no podrá usarse para, por ejemplo, estudiar libros de los Mitos. Un viaje extremadamente largo podría durar dos semanas. Moverse de un extremo a otro del Caribe no debería durar más de 2 semanas con buen tiempo.
 
 \sp
 
 Te proponemos primero un clima aleatorio acorde con el Caribe y luego encuentros aleatorios por mar y por tierra.
 
-### Tiempo atmosférico durante los viajes
+\sinc
 
 ![Tiempo atmosférico](./images/flotaplata.webp)
+
+### Tiempo atmosférico durante los viajes
+
+\conc
 
 El tiempo atmosférico es un elemento muy interesante que le puede dar mucho ambiente a tus partidas. Es por ello que cada vez que los personajes inicien un viaje tanto por mar como por tierra, saca una carta de acción, consulta la siguiente tabla y aplica el resultado (si quieres). Solo hay que hacer una tirada por viaje, no por día. La tabla representa el clima durante todo el viaje. No supone que haya tormenta o niebla todos los días, sino que gran parte del viaje sí hay niebla o tormenta.
 
 Se puede contrarrestar los efectos del clima (a discreción del director). La calma chicha igual se puede contrarrestar controlando mágicamente a una ballena para que tire del barco o el calor abrasador viajando de noche con algún artilugio que dé luz del día.
 
-Los viajes en barco son peligrosos, sobre todo si se avecina una tormenta, pero en esta ambientación nunca van a ser mortales. Es por ello que hasta el más tremendo huracán les podrá las cosas difíciles, pero nunca va a suponer un riesgo real. Un héroe nunca debería morir ahogado en el mar porque un huracán hundió su barco. Si quieres hundir el barco de los personajes que sea para avanzar en la historia y que aparezcan medio muertos en la playa de una isla desierta.
+Los viajes en barco son peligrosos, sobre todo si se avecina una tormenta, pero en esta ambientación nunca van a ser mortales. Es por ello que hasta el más tremendo huracán les podrá las cosas difíciles, pero nunca va a suponer un riesgo real.
+
+\sp
+
+Un héroe nunca debería morir ahogado en el mar porque un huracán hundió su barco. Si quieres hundir el barco de los personajes que sea para avanzar en la historia y que aparezcan medio muertos en la playa de una isla desierta.
 
 También puedes recurrir a esta tabla para saber el clima en momentos clave de tu historia. Seguro que el asalto a la fortaleza del malo entre niebla o con un huracán de fondo es el aderezo perfecto a tu partida.
 
