@@ -307,3 +307,10 @@ dungeon
 Jaragua
 Caonao
 Lobatus
+elementalista
+Guinee
+Alala
+pulpoides
+Trepamuros
+insectoides
+flambea

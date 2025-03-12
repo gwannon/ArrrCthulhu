@@ -599,10 +599,30 @@ section > h2:after {
 
 /* ----------------- Portada --------------- */
 
+section:first-of-type {
+  background: var(--black-color) url(../images/portada.webp) center center no-repeat;
+  background-size: cover;
+  color: var(--white-color);
+}
 
+section:first-of-type > div:first-of-type {
+  text-align: center;
+}
 
-
-
+section:first-of-type .saltopagina {
+  opacity: 0;
+}
 
 /* ----------------- Contraportada --------------- */
+
+section:last-of-type {
+  height: 100vh;
+  display: flex;
+  background: var(--black-color) url(../images/contraportada.webp) 58% center no-repeat;
+  flex-direction: column;
+  justify-content: space-between;
+  background-size: cover;
+  color: var(--white-color);
+  align-items: center;
+}
 

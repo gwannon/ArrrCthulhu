@@ -940,7 +940,6 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 |Amistad animal|6|El don de Ossaín|El orisha Ossaín concede a sus fieles yoruba el don de hablar y ordenar a los animales.|
 |Aura dañina|7|Sombras lacerantes|Las sombras que rodean al taumaturgo se convierten en sólidas y cortan y laceran a los que se le acercan.|
 |Aura dañina|8|Llamas verdes de Tulzscha|El taumaturgo invoca el poder Tulzscha y este le concede parte de su poder rodeándolo de voraces llamas verdes.|
-|Barrera|9|Muro de Yog-Sapha|Mediante una fórmula mágica el conjurador levanta una barrera gelatinosa de gran fuerza a su alrededor, sacada directamente del propio Yog-Sapha, el Habitante de las Profundidades. El muro es casi invisible, pero distorsiona un poco la luz.|
 
 \conc
 
@@ -950,6 +949,7 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 
 |Poder|d100|Hechizo|Ornamento|
 |---|---|---|---|
+|Barrera|9|Muro de Yog-Sapha|Mediante una fórmula mágica el conjurador levanta una barrera gelatinosa de gran fuerza a su alrededor, sacada directamente del propio Yog-Sapha, el Habitante de las Profundidades. El muro es casi invisible, pero distorsiona un poco la luz.|
 |Barrera|10|Invocar los apéndices de Dygra|El invocador lanza unas piedras cristalinas (cuarzos, peridotos, amatistas, …) para invocar a la Piedra-Cosa Dygra. Sus tentáculos minerales de Dygra salen de suelo formando una barrera cristalina.|
 |Cambio de forma|No permitido|&nbsp;|&nbsp;|
 |Captura|11|Aferrar|El taumaturgo dirige su mano hacia su objetivo y hace como que lo agarra.|
@@ -1140,11 +1140,8 @@ Invocar vampiro estelar
 El hechicero invoca este ser extradimensional que drena la vida al objetivo y se lo entrega a su amo invocador.
 
 |Empatía|No permitido|&nbsp;|&nbsp;|
-
 |Empujón|No permitido|&nbsp;|&nbsp;|
-
 |Explosión|No permitido|&nbsp;|&nbsp;|
-
 |Gigantismo Enanismo|No permitido|&nbsp;|&nbsp;|
 
 Ilusión
@@ -1235,7 +1232,6 @@ Lectura de aura
 Tocando y concentrándose en el objeto, este revela el aura psíquica que ha ido acumulando a lo largo de su historia.
 
 |Lenguas|No permitido|&nbsp;|&nbsp;|
-
 |Lentitud Rapidez|No permitido|&nbsp;|&nbsp;|
 
 Luz  
@@ -1586,7 +1582,7 @@ En vez de un hechizo hay 2 rituales menores. Elígelos al azar tirando en la tab
 
 \conc
 
-Por cada poder tenemos varias opciones de hechizos y rituales que no son más que ornamentos para ese poder. La idea es que el jugador tenga diferentes opciones al adquirir un nuevo poder, todos ellos con tintes cthulhulianos. Al leer un libro no encontrará como tal poderes, sino hechizos con ornamentos prefijados. Es decir, leyendo el «Extraño relato de Elizabeth en la isla de Jamaica» no encontrará el poder Protección, sino la Bendición de Yig que le dará protección contra el daño, haciendo que su piel se vuelva escamosa y dura.
+Por cada poder tenemos varias opciones de hechizos y rituales que no son más que ornamentos para ese poder. La idea es que el jugador tenga diferentes opciones al adquirir un nuevo poder, todos ellos con tintes cthulhulianos. Al leer un libro no encontrará, como tal, poderes, sino hechizos con ornamentos prefijados. Es decir, leyendo el «Extraño relato de Elizabeth en la isla de Jamaica» no encontrará el poder Protección, sino la Bendición de Yig que le dará protección contra el daño, haciendo que su piel se vuelva escamosa y dura.
 
 ### Modificadores de poder
 
@@ -1602,11 +1598,11 @@ Esta modificación solo se puede usar con: Aura dañina, Barrera, Ceguera, Drena
 
 Esta modificación permite hacer permanente cierto hechizo. En principio no debería poder aplicarse a cualquier hechizo, sobre todo si son hechizos de mejora personal como Desvío o Protección. Deberían ser hechizos que afecten a objetos o zonas. Pero todo esto queda a discreción del DJ. Por regla general solo los poderes con duración mayor de Instantáneo debería poder hacer permanente. Mi recomendación es que solo los siguientes hechizos se deben poder hacer permanentes: Barrera, Castigo, Destierro, Ocultamiento arcano, Ilusión, Luz/Oscuridad, Silencio. Las manipulaciones elementales podrían usarse, por ejemplo, para crear unas llamas eternas que nuca se apaguen o una fuente de la que mane agua potable. Usar Castigo en un arma y hacerlo permanente podría crear un arma mágica.
 
-Hacer un hechizo permanente exige el sacrificio del 20% del coste de lanzar el hechizo en PMs permanentes redondeando hacia arriba (mínimo 1 PP). Si lanzar un ocultación arcana, nos cuesta 8 puntos de magia, para hacerlo permanente deberá sacrificar 2 PMs (20% de 8 es 1,6 redondeando hacia arriba 2 PMs). Además, el tiempo de preparación y de realización del hechizo, de forma que se necesita un día por PP que se vaya a gastar. No se podrán sacrificar más puntos de PP que tu Espíritu.
+Hacer un hechizo permanente exige el sacrificio del 20% del coste de lanzar el hechizo en PM permanentes redondeando hacia arriba (mínimo 1 PP). Si lanzar un ocultación arcana, nos cuesta 8 puntos de magia, para hacerlo permanente deberá sacrificar 2 PM (20% de 8 es 1,6 redondeando hacia arriba 2 PM). Además, el tiempo de preparación y de realización del hechizo, de forma que se necesita un día por PP que se vaya a gastar. No se podrán sacrificar más puntos de PP que tu Espíritu.
 
-**Deshacer hechizos permanentes:** El taumaturgo que lanzo el hechizo de forma permanente podrá siempre que quiera deshacer el hechizo permanente con las siguientes reglas. Debe estar en contacto con el objeto o en el lugar si es una área; deberá gastar en deshacerlo un minuto por PP sacrificado; deberá gastar la mitad de los PMs que gasto al lanzarlo. El hechizo permanente desaparecerá y la persona que lanzo de hechizo recuperará un PP sacrificado por semana.
+**Deshacer hechizos permanentes:** El taumaturgo que lanzo el hechizo de forma permanente podrá siempre que quiera deshacer el hechizo permanente con las siguientes reglas. Debe estar en contacto con el objeto o en el lugar si es una área; deberá gastar en deshacerlo un minuto por PP sacrificado; deberá gastar la mitad de los PM que gasto al lanzarlo. El hechizo permanente desaparecerá y la persona que lanzo de hechizo recuperará un PP sacrificado por semana.
 
-**Disipar hechizos permanentes:** Para disipar un hechizo permanente primero deberá pasarse una tirada de Mitos para identificar exactamente el hechizo exacto usado. Una vez pasada la tirada debemos estar en contacto con el objeto hechizado o en el área sobre la que se lanzó; deberá pasarse una hora por PP sacrificado para hacerlo permanente; y gastar tantos PP como sacrificó el lanzador del hechizo permanente. Si no puede gastar tantos puntos, recuerda que pueden usarse benis para lanzar hechizos sin tener PP los necesarios. No hace falta ninguna tirada, se consigue directamente. Pueden hacer tiradas de Mitos para acortar el tiempo necesitando una hora menos por cada avance. Si se falla se perderá el tiempo y los PP. El lanzador del hechizo recuperará sus PMs sacrificados normalmente, un PP a la semana.
+**Disipar hechizos permanentes:** Para disipar un hechizo permanente primero deberá pasarse una tirada de Mitos para identificar exactamente el hechizo exacto usado. Una vez pasada la tirada debemos estar en contacto con el objeto hechizado o en el área sobre la que se lanzó; deberá pasarse una hora por PP sacrificado para hacerlo permanente; y gastar tantos PP como sacrificó el lanzador del hechizo permanente. Si no puede gastar tantos puntos, recuerda que pueden usarse benis para lanzar hechizos sin tener PP los necesarios. No hace falta ninguna tirada, se consigue directamente. Pueden hacer tiradas de Mitos para acortar el tiempo necesitando una hora menos por cada avance. Si se falla se perderá el tiempo y los PP. El lanzador del hechizo recuperará sus PM sacrificados normalmente, un PP a la semana.
 
 ### Aliados que pueden ser invocados
 

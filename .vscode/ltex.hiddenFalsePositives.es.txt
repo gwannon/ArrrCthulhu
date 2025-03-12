@@ -31,3 +31,5 @@
 {"rule":"SEPARADO","sentence":"^\\Q|02ReglasDeAmbientacion.md|\\E$"}
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QAnacaona fue una cacique taína que fue ahorcada por los españoles 1506 a pesar de haber ayudado a Colón y el resto de españoles de su expedición. Escapo a la masacre de los 80 caciques y fue apresada y juzgada por insurrección y finalmente condenada a la horca.\\E$"}
 {"rule":"PREP_VERB","sentence":"^\\QEl ritual de la cohoba era la ceremonia taína más importante.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QEl mago elabora una hidromiel que permite resistir las inclemencias del vacío estelar.\\E$"}
+{"rule":"EL_TILDE","sentence":"^\\QSe hace una ritual de invocación para llamar el barón Samedí, el loa de la muerte, y se le ofrece un sacrificio animal.\\E$"}
