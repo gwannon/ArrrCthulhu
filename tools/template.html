@@ -13,12 +13,10 @@
   </head>
   <body>
     <section>
-      <div>
-        <h3 class="noindex">|SHORTDESCRIPTION|</h3>
-        <h1 class="noindex">|TITLE|</h1 >
-        <h2 class="noindex">|DESCRIPTION|</h2>
-        <img style="width:150px; height:100px;" src="./images/pinnaclelogo.webp" alt="Logo Pinnacle">
-      </div>
+      <h3 class="noindex">|SHORTDESCRIPTION|</h3>
+      <h1 class="noindex">|TITLE|</h1 >
+      <h2 class="noindex">|DESCRIPTION|</h2>
+      <img src="./images/pinnaclelogo.webp" alt="Logo Pinnacle">
       <div class="saltopagina"></div>
     </section>
     <section>
@@ -28,11 +26,11 @@
       <p><b>Versión:</b> |VERSION|</p>
       <p><b>Páginas:</b> <span></span></p>
       <p><b>Palabras:</b> <span></span></p>
-      <div class="saltopagina"></div>
       <p class="nopdf"><a href="/pdf/" class="download">VERSIÓN EN PDF</a></p>
+      <div class="saltopagina"></div>
       <h2 class="noindex">Licencia de uso</h2>
       <p style="word-break: break-word;">La presente obra se encuentra bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0) (<a href="https://creativecommons.org/licenses/by/4.0/deed.es">https://creativecommons.org/licenses/by/4.0/deed.es</a>). Puedes usar este contenido en cualquier forma que te permita la licencia incluso comercial, siempre que incluyas el siguiente texto de atribución:</p>
-      <p style="word-break: break-word; font-style: italic;">Este trabajo está basado en la ambientación para Savage Worlds |TITLE| creada por Jorge Monclús Fernández (|AUTHOR|) y está disponible de forma gratuita en <a href="|URL|">|URL|</a> y el código original puede obtenerse en <a href="|GITHUB|">|GITHUB|</a>. Está licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional cuyo texto legal puede verse en <a href="https://creativecommons.org/licenses/by/4.0/legalcode.es">https://creativecommons.org/licenses/by/4.0/legalcode.es</a>.
+      <p style="word-break: break-word; font-style: italic;">Este trabajo está basado en la ambientación para Savage Worlds |TITLE| creada por |AUTHOR| y está disponible de forma gratuita en <a href="|URL|">|URL|</a> y el código original puede obtenerse en <a href="|GITHUB|">|GITHUB|</a>. Está licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional cuyo texto legal puede verse en <a href="https://creativecommons.org/licenses/by/4.0/legalcode.es">https://creativecommons.org/licenses/by/4.0/legalcode.es</a>.
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
           <img alt="Licencia de Creative Commons" style="border-width:0; display: block; margin: 15px auto 0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png">
         </a>
@@ -57,10 +55,10 @@
     cont = cont.replace(/\s+/g, ' ');
     cont = cont.trim();
     var n = cont.split(" ").length;
-    let words = document.querySelector('section:nth-of-type(2) p:nth-of-type(4) span');
+    let words = document.querySelector('section:nth-of-type(2) p:nth-of-type(5) span');
     words.innerHTML = n+" palabras";
     //PageCount
-    let pages = document.querySelector('section:nth-of-type(2) p:nth-of-type(3) span');
+    let pages = document.querySelector('section:nth-of-type(2) p:nth-of-type(4) span');
     pages.innerHTML = (document.querySelectorAll('.saltopagina').length + 1)+" páginas";
   </script>
 </html>

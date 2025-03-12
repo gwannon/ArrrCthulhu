@@ -288,7 +288,7 @@ img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-t
 }
 
 body {
-  counter-reset: primary 0;
+  counter-reset: primary 1;
 }
 
 .saltopagina {
@@ -522,7 +522,7 @@ section h1 + .saltopagina:after {
 
 /* ---------- Lazos ----------- */
 
-section > h2 {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) > h2 {
   --bgcolor1: #b5c1ac;
   --bgcolor2: #879f85;
   --bgcolor3: #0f6800;
@@ -600,29 +600,143 @@ section > h2:after {
 /* ----------------- Portada --------------- */
 
 section:first-of-type {
-  background: var(--black-color) url(../images/portada.webp) center center no-repeat;
-  background-size: cover;
+  --barheight: 230px;
+  background: var(--green-dark) url(../images/portada.webp) top center no-repeat;
+  background-size: auto calc(100% - var(--barheight));
   color: var(--white-color);
+  box-sizing: border-box;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
 }
 
-section:first-of-type > div:first-of-type {
-  text-align: center;
+section:first-of-type > * {
+  position: relative;
+  z-index: 10;
+}
+
+section:first-of-type:before {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  height: calc(var(--barheight) + 100px);
+  clip-path: polygon(
+    0% 0%,
+    100% 100px,
+    100% 100%,
+    0% 100%
+  );
+  background-color: var(--green-dark);
 }
 
 section:first-of-type .saltopagina {
-  opacity: 0;
+  display: none;
+}
+
+section:first-of-type > h1,
+section:first-of-type > h2,
+section:first-of-type > h3 {
+  margin: 0 100px 0 40px;
+}
+
+section:first-of-type > h2 {
+  margin-bottom: 40px;
+  max-width: 490px;
+  line-height: 120%;
+}
+
+section:first-of-type > img {
+  width:100px;
+  height:auto;
+  position: absolute;
+  right: 40px;
+  bottom: 40px;
 }
 
 /* ----------------- Contraportada --------------- */
 
 section:last-of-type {
+  --barheight: 560px;
   height: 100vh;
   display: flex;
-  background: var(--black-color) url(../images/contraportada.webp) 58% center no-repeat;
-  flex-direction: column;
-  justify-content: space-between;
-  background-size: cover;
+  background: var(--green-dark) url(../images/contraportada.webp) top center no-repeat;
+  background-size: auto calc(100% - var(--barheight));
+  position: relative;
   color: var(--white-color);
-  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+section:last-of-type > * {
+  position: relative;
+  z-index: 10;
+}
+
+section:last-of-type > p {
+  margin: 0 0 0 40px;
+}
+
+section:last-of-type > p > a {
+  color: var(--color-white);
+}
+
+section:last-of-type > p:first-of-type {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  font-size: 1.2em;
+}
+
+section:last-of-type > p:nth-of-type(2) {
+  font-family: "Jolly Lodger", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 2.5em;
+}
+
+section:last-of-type > p:last-of-type {
+  margin-bottom: 40px;
+}
+
+section:last-of-type > ol {
+  margin-left: 65px;
+  margin-bottom: 40px;
+}
+
+section:last-of-type > ol > li:not(li:last-of-type) {
+  margin-bottom: 8px;
+}
+
+section:last-of-type:before {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  height: calc(var(--barheight) + 100px);
+  clip-path: polygon(
+    0% 0%,
+    100% 100px,
+    100% 100%,
+    0% 100%
+  );
+  background-color: var(--green-dark);
+}
+
+section:last-of-type > p:has(img) {
+  position: absolute;
+  right: 35px;
+  top: 35px;
+}
+
+section:last-of-type > p > img {
+  width: 120px;
+  height: auto;
 }
 

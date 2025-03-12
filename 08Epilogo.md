@@ -82,7 +82,7 @@ Las vidas sentimentales y sexuales de la mayoría de los personajes de esta ambi
 
 ### Participar en el proyecto
 
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](https://github.com/gwannon/ArrrCthulhu). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](https://github.com/gwannon/ArrrCthulhu). Si no estás familiarizado con Git, pues me mandas un DM en [mis redes](|AUTHOR_URL|) y hablamos.
 
 \sp
 
