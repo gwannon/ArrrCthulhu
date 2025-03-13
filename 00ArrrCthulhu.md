@@ -14,11 +14,11 @@
 
 ***
 
-|05MonstruosDelosMitos.md|
+-05MonstruosDelosMitos.md|
 
 ***
 
--06QuienEsQuien.md|
+|06QuienEsQuien.md|
 
 ***
 

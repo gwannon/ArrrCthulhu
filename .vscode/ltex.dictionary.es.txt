@@ -473,3 +473,4 @@ Estegosaurio
 estegosaurios
 terópodo
 terópodos
+extrarresistente
