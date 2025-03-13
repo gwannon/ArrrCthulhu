@@ -84,3 +84,8 @@
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi puede ser, adornándola un poco.\\E$"}
 {"rule":"SE","sentence":"^\\QPor otro lado, cualquier tipo de interacción violenta hará que no se fie y no confiese que realmente es un yithiano perdido en el tiempo, pero callará su proyecto de volver a su tiempo.\\E$"}
 {"rule":"MIN_DIAS_SEMANA","sentence":"^\\QCuando llegaron a Jamaica se dedicaron a plantaciones de caña de azúcar y cuando amasaron una fortuna compraron la mansión Domingo y le cambiaron el nombre por Corbitt.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QLas pequeñas islas como las Bahamas, o las Caimán, desaparecerán y las grandes como Cuba o Puerto Rico verán sus ciudades de la costa inundadas.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QVolverán a la isla flotante resignados, sabiendo que tu mesa es su enemigo.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QRápido\nCapacidades especiales:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nHechizos:\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEmpieza a farfullar los nombres de los PJ cada vez más alto, hasta que alguno responda.\\E$"}

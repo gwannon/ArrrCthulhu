@@ -402,7 +402,7 @@ Ahora mismo se está dedicando en su tiempo libre a aprender de los artesanos lo
 
 > _**Sugerencia de beni:** Si alguien apoya económicamente a Ifá para que pueda acceder a educación superior puedes darle 1 beni. Si le traen manuales de ciencia y tecnología también podrían ganar 1 beni._
 
-_**Recompensa extra de cordura (+1):** Si alguien decide becar a Ifá posibilitándole tener unos estudios universitarios, recompénsale con un punto de cordura. Alguien con un valor alto en Ciencias puede llevársela de aprendiza. Si se preocupa por su educación y su seguridad, también puedes otórgale un punto de cordura, además, de obtener una valiosa Aliada. Otras soluciones interesantes pueden ser convencer a Isadora de la Guía para que lo tenga de ayudante en su librería. A Isadora le ayudaría con sus problemas mentales e Ifá tendría una fuente inagotable de conocimientos entre las estanterías de libros. No debéis olvidar que sigue siendo una esclava cosa que complicará todo lo anterior._
+> _**Recompensa extra de cordura (+1):** Si alguien decide becar a Ifá posibilitándole tener unos estudios universitarios, recompénsale con un punto de cordura. Alguien con un valor alto en Ciencias puede llevársela de aprendiza. Si se preocupa por su educación y su seguridad, también puedes otórgale un punto de cordura, además, de obtener una valiosa Aliada. Otras soluciones interesantes pueden ser convencer a Isadora de la Guía para que lo tenga de ayudante en su librería. A Isadora le ayudaría con sus problemas mentales e Ifá tendría una fuente inagotable de conocimientos entre las estanterías de libros. No debéis olvidar que sigue siendo una esclava cosa que complicará todo lo anterior._
 
 ## George Jansen (comodín)
 

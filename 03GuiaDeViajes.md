@@ -378,7 +378,9 @@ Alfredo tiene para días importantes una modalidad de pelea especial, caimán co
 
 El foso de caimanes también ha sido usado para interrogar a personas que no querían hablar y en última instancia para deshacerse de cadáveres.
 
-_**Recompensa extra de cordura (+1):** Desbaratar el local ilegal de Alfredo es librar al Caribe de una gran maldad. Supone sacar de las calles a un criminal peligroso con delitos de sangre, ayudar a sus deudores a salir a flote y evitar maltrato animal._
+\sp
+
+> _**Recompensa extra de cordura (+1):** Desbaratar el local ilegal de Alfredo es librar al Caribe de una gran maldad. Supone sacar de las calles a un criminal peligroso con delitos de sangre, ayudar a sus deudores a salir a flote y evitar maltrato animal._
 
 **Recuerda:** El juego patológico es un problema grave y no debe tomarse a la ligera.
 
