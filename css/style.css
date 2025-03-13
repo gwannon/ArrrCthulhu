@@ -653,14 +653,18 @@ section:first-of-type:before {
     100% 100%,
     0% 100%
   );
-  background-color: var(--green-dark);
+  background: #1e271d url(../images/madera.png) top center no-repeat;
+  background-size: 120% auto;
 }
 
 section:first-of-type .saltopagina {
   display: none;
 }
 
-section:first-of-type > h1,
+section:first-of-type > * {
+  text-shadow: 0px 0px 5px #000;
+}
+
 section:first-of-type > h2,
 section:first-of-type > h3 {
   margin: 0 100px 0 40px;
@@ -699,6 +703,7 @@ section:last-of-type {
 section:last-of-type > * {
   position: relative;
   z-index: 10;
+  text-shadow: 0px 0px 5px #000;
 }
 
 section:last-of-type > p {

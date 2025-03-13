@@ -58,9 +58,13 @@ La Orden tiene su corazón y si les desafía o les desobedece morirá de la form
 * **Desventajas:** Buscado (Mayor, por piratería), Juramente (Mayor, servir a la Orden durante 10 años)
 * **Ventajas:** Amenazador, Berserker, Bloqueo, Manos Firmes, Nuevos poderes, Rápido, Reflejos de Combate, Trasfondo Arcano (Hechicería primigenia)
 * **Capacidades especiales:**
-    * **Sin corazón:** Al son de cantos de «kalima, kalima, …», el propio Villalba extrajo el corazón de Teach y con él su alma. Mientras Villalba tenga su corazón, Teach está obligado a obedecerle o podría matarle simplemente estrujando su corazón con sus manos. Como ventajas, Edward tiene Resistencia Arcana Mejorada y los hechizos de Marioneta y Manipulación de recuerdos fallan siempre. Si se lanza hechizos de detección mágica se verá un gran agujero negro donde debería estar su corazón. Una tirada de Mitos permitirá saber que le han quitado el corazón y los detalles de esta maldición.
-    * **Hechizos:** 8 PP, Canto de Babalú Ayé, Vibración dimensional
-    * **Rituales:** Silbar al viento, Cegar el mascarón de proa, Brindar por el mar, El clavo en la calavera, Canción pirata, Astillas en la planta de los pies
+  * **Hechizos:** 8 PP, Canto de Babalú Ayé, Vibración dimensional
+  * **Rituales:** Silbar al viento, Cegar el mascarón de proa, Brindar por el mar, El clavo en la calavera, Canción pirata, Astillas en la planta de los pies
+
+\sp
+
+* **Capacidades especiales:**
+  * **Sin corazón:** Al son de cantos de «kalima, kalima, …», el propio Villalba extrajo el corazón de Teach y con él su alma. Mientras Villalba tenga su corazón, Teach está obligado a obedecerle o podría matarle simplemente estrujando su corazón con sus manos. Como ventajas, Edward tiene Resistencia Arcana Mejorada y los hechizos de Marioneta y Manipulación de recuerdos fallan siempre. Si se lanza hechizos de detección mágica se verá un gran agujero negro donde debería estar su corazón. Una tirada de Mitos permitirá saber que le han quitado el corazón y los detalles de esta maldición.
 * **Equipo:** Cimitarra (FUE+d8), Protecciones de cuero +1, 2 Pistolas de chispas cargadas
 
 **Sugerencia de interpretación:** Eres Edward Teach alias Barbanegra, la leyenda pirata, el terror de los mares del Caribe. Nada ni nadie puede detenerte, ni la muerte, y ahora cuentas con poderosos aliados de otras dimensiones. La arrogancia no es tal si respaldas tus palabras con hechos. Eres el mejor y punto. Si algo se interpone en tu camino, lo eliminas. Que digo lo eliminas, lo destruyes y lo destierras alguna dimensión perdida en el tiempo y el espacio.
@@ -86,6 +90,9 @@ Hernando de Villalba tiene más de 100 años y solo aparenta tener unos 60 años
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Exceso de confianza, Megalomanía (mayor), Paranoia (mayor), Fobia(mayor, miedo al fuego), La llamada de Cthulhu (menor)
 * **Ventajas:** Alcurnia, Asquerosamente rico, Seguidores, Resistencia arcana, Nuevos Poderes x6, Puntos de Poder x3, Fervor, Recuperación Rápida, Canalización, Trasfondo Arcano (Hechicería primigenia)
+
+\sp
+
 * **Capacidades especiales:**
     * **Hechizos:** 48 PP, Augurios del soñador, Sombras lacerantes, Invocar los apéndices de Dygra, Emponzoñar arma, Expulsar ente, Vibración temporal, Perdido en el tiempo, Invocar vampiro estelar, Círculo de invocación, Hidromancia, Incineración de Cthugha, Nubes de Ithaqua
     * **Longevidad:** Gracia a su sangre profunda puede llegar a vivir hasta 130 o 140 años.
@@ -219,9 +226,13 @@ El otro punto débil es que tiene cero capacidades sociales. No sabe moverse ent
 
 ### Avatares de Nyarlathotep
 
-Nyarlathotep es el dios de las mil máscaras y desde luego un par de ellas rondan por el Caribe llevando a cabo sus extraños planes metafísicos. Aquí te mostramos dos de ellas, el barón Samedí que es un avatar clásico y el Abandonado que es una mezcla entre alivio cómico y genio de los deseos. Siéntete libre de usar otras máscaras. Tiene muchas de origen africano, europeo o maya/azteca que podrían cuadrar en el Caribe. O, si te cuadra, mete avatares de origen egipcio que le den un toque totalmente exótico.
+Nyarlathotep es el dios de las mil máscaras y desde luego un par de ellas rondan por el Caribe llevando a cabo sus extraños planes metafísicos. Aquí te mostramos dos de ellas, el barón Samedí que es un avatar clásico y el Abandonado que es una mezcla entre alivio cómico y genio de los deseos.
+
+Siéntete libre de usar otras máscaras. Tiene muchas de origen africano, europeo o maya/azteca que podrían cuadrar en el Caribe. O, si te cuadra, mete avatares de origen egipcio que le den un toque totalmente exótico.
 
 Cuando aparece un avatar de Nyarlathotep, se puede hacer una tirada de Notar para escuchar un extraño sonido de flautas. Esas flautas son de los dioses menores servidores que tocan para Azathoth y significa que Nyarlathotep viene de visitar a Azathoth. Esos sonidos de flauta no provocan terror, pero generan una sensación desagradable y alerta a los que los escuchan.
+
+\sc
 
 #### Barón Samedí (comodín)
 
@@ -229,7 +240,11 @@ Cuando aparece un avatar de Nyarlathotep, se puede hacer una tirada de Notar par
 
 El Barón es un avatar de Nyarlathotep. Es un hombre negro con tatuajes de esqueleto por todo el cuerpo que lleva un taparrabos blanco y un sombrero negro. Para pasar desapercibido suele llevar un gran abrigo negro que le cubre entero.
 
-El Barón solo aparece durante el Fèt Gede, el Día de los Muertos en Haití y se dedica a sembrar el caos en las calles y cementerios entre los creyentes del vudú. Durante esta festividad es el momento en que cualquier persona puede interactuar con el propio Nyarlathotep en su avatar del Barón si es capaz de encontrarlo entre las multitudes que festejan el Fèt Gede. Recuerda es un dios caótico y maligno y seguramente saldrás perdiendo en el acuerdo.
+El Barón solo aparece durante el Fèt Gede, el Día de los Muertos en Haití y se dedica a sembrar el caos en las calles y cementerios entre los creyentes del vudú. 
+
+\sp
+
+Durante esta festividad es el momento en que cualquier persona puede interactuar con el propio Nyarlathotep en su avatar del Barón si es capaz de encontrarlo entre las multitudes que festejan el Fèt Gede. Recuerda es un dios caótico y maligno y seguramente saldrás perdiendo en el acuerdo.
 
 El Barón no tiene poderes mágicos como tal en esta forma, no puede hacer prodigios mágicos. Sus poderes divinos están ligados a los tratos que haga. No puede hacer aparecer agua y comida de la nada a no ser que haya llegado a un acuerdo con un náufrago en una isla desierta.
 
@@ -246,6 +261,8 @@ El Barón no tiene poderes mágicos como tal en esta forma, no puede hacer prodi
 
 **Sugerencia de interpretación:** Eres el caos mismo, muchas de tus acciones no tienen por qué tener ningún sentido, pero todo cambia cuando alguien te ofrece un trato. En ese momento te transformas en una especie de genio maligno de los deseos. Tu objetivo es buscar la argucia para saltarte el trato con el mortal y escaparte de hacer tu parte o cumplirla tan retorcidamente que sea un problema más que un beneficio.
 
+\sp
+
 #### Totep
 
 Totep es un avatar de Nyarlathotep. Se presenta como un marinero que naufragó en el mar (o abandonaron a su suerte) y ha estado años perdido en un islote. Está escuálido, con una gran barba, el pelo largo y sucio y ropa andrajosa. Está un poco ido y reacciona raro a cosas y situaciones normales, pero claro, lleva años solo en esa isla.
@@ -259,24 +276,39 @@ Al ser casi todopoderoso, puede aparecerse en cualquier parte en cualquier momen
 * **Paso:** 5; **Parada:** 5; **Dureza:** 6
 * **Ventajas:** Muy afortunado
 * **Capacidades especiales:**
-    * **Mitos de Cthulhu:** No necesita hacer tiradas de Mitos, lo sabe literalmente todo de los Mitos y nunca falla las tiradas para saber cosas de los Mitos. Sí debe tirar Mitos para el lanzamiento de hechizos.
-    * **Código de honor:** Está ligado mágicamente a no poder romper las promesas y los pactos que haga o los contratos que firme. Si bien, siempre buscará un agujero legal porque el que romper los pactos o sacarles más partido del que a priori se firmó.
-    * **Hechizos y rituales:** Sabe todos los hechizos y rituales y cada turno tiene 20 PP para gastar como desee. La duración es indefinida y el tiempo de lanzamiento es inmediato. El problema es que debe lanzar sus hechizos a escondidas, si alguien le ve lanzar un hechizo no funcionará.
-    * **Debilidad Ron:** Su principal debilidad es el ron. No puede resistirse a él y se le puede emborrachar. Tampoco puede lanzar hechizos estando borracho.
-    * **Debilidad Seducción:** Otra debilidad tiene es que le es imposible resistirse a los avances amorosos y sexuales vengan del ser o entidad de la que vengan. Mediante tiradas de Persuadir de carácter erótico y/o amoroso (para el ser que las realiza) enfrentadas a su Espíritu se puede hacer que haga cosas que no quiera como firmar contratos, hacer promesas, …
-    * **Inmortal:** Si muere volverá a la vida a la mañana siguiente.
+  * **Debilidad Ron:** Su principal debilidad es el ron. No puede resistirse a él y se le puede emborrachar. Tampoco puede lanzar hechizos estando borracho.
+  * **Mitos de Cthulhu:** No necesita hacer tiradas de Mitos, lo sabe literalmente todo de los Mitos y nunca falla las tiradas para saber cosas de los Mitos. Sí debe tirar Mitos para el lanzamiento de hechizos.
+  * **Código de honor:** Está ligado mágicamente a no poder romper las promesas y los pactos que haga o los contratos que firme. Si bien, siempre buscará un agujero legal porque el que romper los pactos o sacarles más partido del que a priori se firmó.
+
+\sp
+
+* **Capacidades especiales:**
+  * **Hechizos y rituales:** Sabe todos los hechizos y rituales y cada turno tiene 20 PP para gastar como desee. La duración es indefinida y el tiempo de lanzamiento es inmediato. El problema es que debe lanzar sus hechizos a escondidas, si alguien le ve lanzar un hechizo no funcionará.
+  * **Debilidad Seducción:** Otra debilidad tiene es que le es imposible resistirse a los avances amorosos y sexuales vengan del ser o entidad de la que vengan. Mediante tiradas de Persuadir de carácter erótico y/o amoroso (para el ser que las realiza) enfrentadas a su Espíritu se puede hacer que haga cosas que no quiera como firmar contratos, hacer promesas, …
+  * **Inmortal:** Si muere volverá a la vida a la mañana siguiente.
+
 
 **Sugerencia de interpretación:** Eres un extraño dios en un cuerpo mortal. Todo es extraño y divertido y ser Totep son unas vacaciones en tus obligaciones como sirviente de Azathoth. Estás aquí para divertirte y por Hastur que te vas a divertir. Sonríe mucho, cuenta chistes y prueba de todo.
+
+\sc
 
 ### Avatares de Shub-Niggurath
 
 #### La llorona
 
-La llorona es mito que lleva circulando por el Caribe desde tiempos ancestrales. En líneas generales es el fantasma de una mujer que perdió a sus hijos. Eso provoco que perdiera la cordura y ahora los busca entre lloros por los campos y caminos. En algunas versiones es ella misma quien asesino a sus hijos ahogándolos.
+La llorona es mito que lleva circulando por el Caribe desde tiempos ancestrales. 
+
+En líneas generales es el fantasma de una mujer que perdió a sus hijos. Eso provoco que perdiera la cordura y ahora los busca entre lloros por los campos y caminos. En algunas versiones es ella misma quien asesino a sus hijos ahogándolos.
 
 La historia más extendida es que era una princesa taína que se enamoró de un conquistador español con el que tuvo un hijo. Aquí la historia se bifurca; él la abandona y mata a su hijo mestizo. En otras versiones, ella asesina a su hijo en venganza.
 
-Sin embargo, la realidad dista mucho de la ficción. La llorona es un avatar de Shub-Niggurath, la perversa deidad de la fertilidad, la madre de monstruos que llora por su prole asesinada por héroes y dioses. Su objetivo es asustar a los débiles de espíritu con sus lloros y su aspecto fantasmal y atraer a su trampa con sus lloros y suplicas a los valerosos para acabar con sus vidas. Su objetivo es acabar con las personas que buscan matar a su camada.
+Sin embargo, la realidad dista mucho de la ficción. La llorona es un avatar de Shub-Niggurath, la perversa deidad de la fertilidad, la madre de monstruos que llora por su prole asesinada por héroes y dioses.
+
+Como avatar de la deidad de la fertilidad buscará acabar con las personas que buscan matar a su camada.
+
+\sp
+
+El objetivo de su apariencia es asustar a los débiles de espíritu con sus lloros y su aspecto fantasmal y atraer a su trampa con sus lloros y suplicas a los valerosos para acabar con sus vidas. 
 
 Normalmente, se aparece como una mujer muy demacrada y pálida, con ropajes blancos y desgastados que solloza mientras se tapa la cara con las manos. Cuando te acercas es cuando se quita las manos de la cara y ves su verdadera cara, una masa informe de tentáculos acabados en ojos y bocas de dientes afiladísimos.
 
@@ -315,7 +347,10 @@ Su última obra la tiene obsesionada y según cuenta se la susurra en sueños un
 * **Desventajas:** La llamada de Cthulhu
 * **Ventajas:** Atractivo, Rico, Trasfondo Arcano (Hechicería primigenia)
 * **Capacidades especiales:**
-    * **Esgrima escénica:** Un nivel extra a Pelear al hacer filigranas y trucos con armas de filo.
+  * **Esgrima escénica:** Un nivel extra a Pelear al hacer filigranas y trucos con armas de filo.
+
+\sp
+
 * **Equipo:** Ropas elegantes y a la última moda, papel, tinta y pluma para escribir o dibujar escenas.
 
 **Sugerencia de interpretación:** Johanna es una apasionada de su arte y lo vive siempre al extremo. Cuando prepara una obra, solo existe esa obra. Buscando inspiración para nuevas obras, no para de hacer preguntas a todo el mundo sobre su vida y aventuras hasta ser muy entrometida e impertinente.
@@ -330,13 +365,19 @@ Su última obra la tiene obsesionada y según cuenta se la susurra en sueños un
 
 Arturo Gandía es jefe del puerto en La Habana desde hace muchos años. A base de hacer favores a los altos cargos de La Habana consiguió la jefatura del puerto. Sus conocimientos navales son casi nulos, aunque se mueve como un pez en las aguas de la burocracia.
 
+Arturo es bastante laxo en el cumplimiento de su trabajo, por no decir que es fácilmente sobornable, por no decir corrupto. Pero es lo suficientemente listo para redistribuir los sobornos entre superiores y subordinados, de forma que todos están contentos y todos miran hacia otro lado.
+
+\sinc
+
 ![Maestre Arturo Gandía](./images/gandia.webp)
 
-Arturo es bastante laxo en el cumplimiento de su trabajo, por no decir que es fácilmente sobornable, por no decir corrupto. Pero es lo suficientemente listo para redistribuir los sobornos entre superiores y subordinados, de forma que todos están contentos y todos miran hacia otro lado.
+\conc
 
 Permite, tras cobrar una buena mordida, introducir en La Habana todo tipo de productos e incluso puede conseguirte un buen comprador al que también le cobrará una «comisión». Todo ese dinero que gana lo gasta sin problemas en buenas ropas, buena comida y buena bebida para él y su familia.
 
 Últimamente, se ha estado pasando bastante con el ron, pero todavía no está afectando a su vida profesional y familiar. Está a un par de jarras de grog de empezar a tener problema de alcoholismo.
+
+\sp
 
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Idioma(todos) d6, Intimidar d8, Notar d10, Pelea d6, Persuadir d8
@@ -413,7 +454,29 @@ Siempre lleva su mosquete personalizado y ocultas entre sus ropajes 2 pistolas d
 * **Ventajas:** Arma distintiva mejorada (Mosquete), Muy atractivo, Puntería, Temple, Trasfondo Arcano (Hechicería primigenia)
 * **Equipo:**Mosquete (10/20/40, 2d8, Recarga 3) y 2 pistolas de chispa (5/10/20, 2d6+1, Recarga 3)
 
-**Sugerencia de interpretación:** Eres una de las personas más egocéntricas que existe, solo hablas de ti mismo e incluso interrumpes las conversaciones de otros para hablar de ti. Reconduces las conversaciones para poder meter tus anécdotas de caza que contienen tremendas exageraciones. Piensa en Gastón de la Bella y la Bestia y ese es Fabio. También eres italiano, así que déjate llevar por los estereotipos y gesticula mucho.
+**Sugerencia de interpretación:** Eres una de las personas más egocéntricas que existe, solo hablas de ti mismo e incluso interrumpes las conversaciones de otros para hablar de ti.
+
+\sp
+
+Reconduces las conversaciones para poder meter tus anécdotas de caza que contienen tremendas exageraciones. Piensa en Gastón de la Bella y la Bestia y ese es Fabio. También eres italiano, así que déjate llevar por los estereotipos y gesticula mucho.
+
+\sinc
+
+## Aurora y Flora Esteban (comodín)
+
+\conc
+
+Aurora y Flora son un ejemplo perfecto de jóvenes de la alta sociedad de la época. Recibieron una educación clásica para señoritas, literatura, historia, música, etc. y han ido afilando sus dotes sociales en fiestas y reuniones sociales. Saben moverse en sociedad, saben las reglas no escritas y cómo usarlas en su favor. El fracaso de su padre con la flota de la plata supusieron un grave revés en sus aspiraciones sociales, pero van a luchar por volver al lugar que las correspondes.
+
+Estas hermanas se odian y se quieren, todo a la vez, cosas de hermanos. De hecho, no podrían vivir la una sin la otra. No se separan nunca y toman todas las decisiones conjuntamente.
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Humanidades d6, Idioma materno d6, Interpretar d8, Intimidar d8, Notar d8, Pelear d4, Persuadir d8
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Desventajas:** Cauto (deben tomar las decisiones conjuntamente).
+* **Ventajas:** Conexiones (Alta sociedad), Alcurnia, Trasfondo Arcano (Hechicería primigenia)
+
+**Sugerencia de interpretación:** Sois bastante clasistas despreciando a las personas que están socialmente por debajo. Pero si hay que enfangarse para encontrar la plata perdida por papa, pues habrá que hacerlo, pero con toda la clase y dignidad que se pueda.
 
 \sp
 
@@ -463,6 +526,22 @@ Michelle se puede convertir en un importante aliado y la mejor manera es proporc
 \sp
 
 El terrible viaje en el barco negrero es una de las experiencias más traumática que ha afrontado y todavía tiene flashbacks horribles recordando detalles de ese viaje. No es difícil ver como de repente Michelle se queda en silencio y se le tuerce el gesto. Algunas veces hasta se le escapa algún grito o le corre alguna lágrima por las mejillas.
+
+\sinc
+
+## George Jansen (comodín)
+
+\conc
+
+El Doctor George Jansen es un joven catedrático de la recientemente creada Universidad de Miskatonic. Es profesor de Historia Natural. Está ahora mismo de expedición científica (pagada por su asquerosamente rica familia) por el Caribe tratando de buscar pruebas de su nueva teoría sobre la transformación de las especies a través de las eras.
+
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
+* **Habilidades:** Ciencias d8, Humanidades d8, Idioma inglés d8, Idioma latín d8, Investigar d8, Notar d6, Pelear d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+Daga* **Desventajas:** Megalomanía (mayor), Escéptico (menor)
+* **Ventajas:** Muy atractivo, Rico, Asquerosamente Rico, Trasfondo Arcano (Hechicería primigenia)
+
+**Sugerencia de interpretación:** Eres tremendamente snob, cualquiera que no tenga una educación superior es inferior a ti y es por ello que lo tratas como tal. No admites consejo ni favores de este tipo de gente, ya que los estarías igualando a ti. Es por ello que lo solucionas todo pagando. Con dinero son tus siervos y no tienes que ponerte a su nivel.
 
 \sp
 
@@ -526,24 +605,6 @@ Ahora mismo se está dedicando en su tiempo libre a aprender de los artesanos lo
 > _**Sugerencia de beni:** Si alguien apoya económicamente a Ifá para que pueda acceder a educación superior puedes darle 1 beni. Si le traen manuales de ciencia y tecnología también podrían ganar 1 beni._
 
 > _**Recompensa extra de cordura (+1):** Si alguien decide becar a Ifá posibilitándole tener unos estudios universitarios, recompénsale con un punto de cordura. Alguien con un valor alto en Ciencias puede llevársela de aprendiza. Si se preocupa por su educación y su seguridad, también puedes otórgale un punto de cordura, además, de obtener una valiosa Aliada. Otras soluciones interesantes pueden ser convencer a Isadora de la Guía para que lo tenga de ayudante en su librería. A Isadora le ayudaría con sus problemas mentales e Ifá tendría una fuente inagotable de conocimientos entre las estanterías de libros. No debéis olvidar que sigue siendo una esclava cosa que complicará todo lo anterior._
-
-\sp
-
-\sinc
-
-## George Jansen (comodín)
-
-\conc
-
-El Doctor George Jansen es un joven catedrático de la recientemente creada Universidad de Miskatonic. Es profesor de Historia Natural. Está ahora mismo de expedición científica (pagada por su asquerosamente rica familia) por el Caribe tratando de buscar pruebas de su nueva teoría sobre la transformación de las especies a través de las eras.
-
-* **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
-* **Habilidades:** Ciencias d8, Humanidades d8, Idioma inglés d8, Idioma latín d8, Investigar d8, Notar d6, Pelear d4
-* **Paso:** 6; **Parada:** 4; **Dureza:** 5
-Daga* **Desventajas:** Megalomanía (mayor), Escéptico (menor)
-* **Ventajas:** Muy atractivo, Rico, Asquerosamente Rico, Trasfondo Arcano (Hechicería primigenia)
-
-**Sugerencia de interpretación:** Eres tremendamente snob, cualquiera que no tenga una educación superior es inferior a ti y es por ello que lo tratas como tal. No admites consejo ni favores de este tipo de gente, ya que los estarías igualando a ti. Es por ello que lo solucionas todo pagando. Con dinero son tus siervos y no tienes que ponerte a su nivel.
 
 \sp
 
@@ -677,23 +738,3 @@ Balua’k ha ido con el tiempo creándose un equipo de supervivencia para viajes
 \sp
 
 **Sugerencia de interpretación:** Eres tremendamente pausado y tranquilo, a veces exasperantemente tranquilo. Pero claro, pertenecer a una raza milenaria que controla el viaje en el tiempo y que ha sobrevivido a una extinción ocupando el cuerpo de crustáceos y Además, estar perdido en el tiempo en el cuerpo de un humano sin posibilidad de volver te da una perspectiva única de la vida. Lo que peor llevas es hablar, te parece una forma muy burda de comunicarse tras haber usado toda la vida la telepatía. Te gusta tener todo anotado, apuntado y registrado, manía adquirida como viajero del tiempo que debe tomar nota de todo lo que suceda a su alrededor.
-
-\sp
-
-\sinc
-
-## Aurora y Flora Esteban (comodín)
-
-\conc
-
-Aurora y Flora son un ejemplo perfecto de jóvenes de la alta sociedad de la época. Recibieron una educación clásica para señoritas, literatura, historia, música, etc. y han ido afilando sus dotes sociales en fiestas y reuniones sociales. Saben moverse en sociedad, saben las reglas no escritas y cómo usarlas en su favor. El fracaso de su padre con la flota de la plata supusieron un grave revés en sus aspiraciones sociales, pero van a luchar por volver al lugar que las correspondes.
-
-Estas hermanas se odian y se quieren, todo a la vez, cosas de hermanos. De hecho, no podrían vivir la una sin la otra. No se separan nunca y toman todas las decisiones conjuntamente.
-
-* **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Humanidades d6, Idioma materno d6, Interpretar d8, Intimidar d8, Notar d8, Pelear d4, Persuadir d8
-* **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Desventajas:** Cauto (deben tomar las decisiones conjuntamente).
-* **Ventajas:** Conexiones (Alta sociedad), Alcurnia, Trasfondo Arcano (Hechicería primigenia)
-
-**Sugerencia de interpretación:** Sois bastante clasistas despreciando a las personas que están socialmente por debajo. Pero si hay que enfangarse para encontrar la plata perdida por papa, pues habrá que hacerlo, pero con toda la clase y dignidad que se pueda.
