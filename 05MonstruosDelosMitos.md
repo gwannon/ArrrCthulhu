@@ -485,6 +485,8 @@ Suelen infiltrarse en las comunidades humanas, haciéndose pasar por humanos par
 
 Adoran a Yig el dios serpiente como su padre y creador, aunque pequeñísimos grupos le rezan a Tsathoggua, el Durmiente de N'kai.
 
+\sp
+
 Como curiosidad diremos que la serpigente no es una creación de Lovecraft, sino de su amigo Robert E. Howard. Antes que tu mesa, Conan ya machacaba serpigente en sus relatos.
 
 ### Serpigente científico (secuaz)
@@ -496,9 +498,9 @@ Puedes encontrarlos en sus guaridas subterráneas rodeadas de todo tipo de herra
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6 (1)
 * **Ventajas:** Hechicería primigenia, Nuevos poderes x2
 * **Capacidades especiales:**
+    * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
     * **Armadura +1:** Piel escamosa.
     * **Garras:** FUE+d6
-    * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
     * **Hechizos:** 12 PP, Conoce 3 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
 * **TPC:** 1d6
 
@@ -511,13 +513,15 @@ Son las fuerzas de choque de la serpigente, crueles y brutales con los humanos. 
 * **Paso:** 6; **Parada:** 6; **Dureza:** 7 (1)
 * **Ventajas:** Hechicería primigenia, Nuevos poderes
 * **Capacidades especiales:**
-    * **Armadura +1:** Piel escamosa.
-    * **Garras:** FUE+d6
     * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
-    * **Hechizos:** 8 PP, Conoce 1 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
-* **TPC:** 1d6
 
 \sp
+
+* **Capacidades especiales:**
+    * **Armadura +1:** Piel escamosa.
+    * **Garras:** FUE+d6
+    * **Hechizos:** 8 PP, Conoce 1 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
+* **TPC:** 1d6
 
 \sinc
 
@@ -551,9 +555,9 @@ Sirven a los Dioses Exteriores, en especial al gran Azathoth y en menor medida a
 
 \conc
 
-![Shoggoth (comodín)](./images/shoggoth.webp)
-
 Los shoggoths son masas informes y burbujeantes de protoplasma. Tiene un tamaño de unos 6 metros de diámetro y unos 3 de altura. Pueden generar ojos y tentáculos en cualquier parte de su estructura. Fueron creados por Los Antiguos como mulas de carga en la construcción de sus ciudades acuáticas. No quedan muchos, pero aún se pueden encontrar en oscuras fosas marinas sirviendo a los profundos.
+
+![Shoggoth (comodín)](./images/shoggoth.webp)
 
 A lo largo de los milenios han ido evolucionando, haciéndose anfibios y aumentando su inteligencia hasta tener una inteligencia humana, aunque tampoco es que sean muy inteligentes. Se conocen casos en los que han desarrollado la capacidad de habla.
 
@@ -568,6 +572,10 @@ A lo largo de los milenios han ido evolucionando, haciéndose anfibios y aumenta
     * **Masa informe:** Como muchos otros monstruos, no tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
     * **Tamaño 6:** 6 metros de diámetro (+6 dureza, +2 bonificación al atacarla, +1 herida).
     * **Tentáculos:** FUE+d6
+
+\sp
+
+* **Capacidades especiales:**
     * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida excepto las creadas por fuego o electricidad.
     * **Inmunidad:** Ataques físicos como armas de corte, pistolas, …
     * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego o granadas.
@@ -589,6 +597,10 @@ Este shoggoth ha crecido descomunalmente, de forma que se ha convertido en una i
     * **Tamaño 8:** 12 metros de diámetro (+8 dureza, +4 bonificación al atacarla, +2 herida).
     * **Tentáculos:** FUE+d6
     * **Regeneración rápida:** Realiza una tirada de curación natural por ronda, pudiendo sanar de este modo cualquier herida, excepto las creadas por fuego o electricidad.
+
+\sp
+
+* **Capacidades especiales:**
     * **Inmunidad:** Ataques físicos como armas de corte, pistolas, …
     * **Debilidad:** Fuego y electricidad. Podrían ser dañados por artilugios incendiarios o explosivos como fuego griego o granadas.
 * **TPC:** 1d12
@@ -601,9 +613,9 @@ Este shoggoth ha crecido descomunalmente, de forma que se ha convertido en una i
 
 \conc
 
-![](./images/vampirofuego.webp)
-
 Los vampiros de fuego son unos seres gaseosos e inteligentes que al contacto con atmósferas ricas en oxígeno estallan en llamas. Su forma puede variar desde una especie de enjambre de cientos de chispas de fuego hasta bolas o espirales de fuego.
+
+![](./images/vampirofuego.webp)
 
 Sirven a los primigenios Cthugha y Fthaggua (dos primigenios relacionados con el fuego). Ambos los usan como avanzadilla cuando son invocados o cuando van a conquistar un mundo. También pueden ser invocados independientemente.
 
@@ -615,13 +627,15 @@ Como seres de fuego que son se les puede atacar con agua o arena y para proteger
 * **Capacidades especiales:**
     * **Invulnerables:** Son gaseosos y solo pueden ser atacados con agua o con magia (que no tenga ornamentos de fuego).
     * **Lenguas de fuego:** Pueden hacer ataques cuerpo a cuerpo (tirada Pelear) con sus lenguas de fuego de 2d6 de daño.
+
+\sp
+
+* **Capacidades especiales:**
     * **Proyectiles de fuego:** Tratar como un hechizo de Proyectil con ornamento de fuego. Tiene 6 PP.
     * **Toque vampírico:** Si el vampiro consigue hacerte daño por fuego (cuerpo a cuerpo o a distancia), hay que hacer una tirada enfrentada de Espíritu contra Espíritu y obtendrá un ítem de información (más o menos útil) o 2 PP.
     * **Tamaño -2:** Tiene un tamaño pequeño. Todo ataque dirigido a ellos tiene un -2.
     * **Debilidad Agua:** El agua (y otras materiales que extingan el fuego como la arena) les hace daño, por cada 5 litros de agua que se le lance se puede hacerle d4 de daño. Si se le consigue meter debajo, por ejemplo, de una cascada o dentro del agua, muere directamente.
 * **TPC:** 1d4 (manada)
-
-\sp
 
 \sinc
 
@@ -648,9 +662,9 @@ El yeho es un críptido, una animal a medio camino entre humano y primate que vi
 
 \conc
 
-![](./images/yith.webp)
-
 Los yithianos es una raza extraterrestre que no tiene forma corpórea. Vinieron a la Tierra para escapar de la destrucción de su mundo y se vieron obligados a tomar los cuerpos actuales, una raza de moluscos cónicos mucho más grandes que un humano con 4 pseudópodos en la parte superior, dos acaban en pinzas, otro en unos ojos y otro en una especie de boca.
+
+![](./images/yith.webp)
 
 Se caracterizan por su control del viaje a través del tiempo. De hecho, se les conoce como Gran raza, ya que han sido capaces de controlar los viajes temporales. Cuando te encuentres con un yithiano debe tener en cuenta que igual estás hablando con alguien de tu pasado o de tu futuro con todas las implicaciones que tiene eso.
 
@@ -661,6 +675,9 @@ Pueden mandar su mente a través del tiempo y ocupar los cuerpos de seres inteli
 Los yithianos son grandes científicos, como demuestra su capacidad de viajar en el tiempo o sus armas de rayos. El más simple de los yithianos está al nivel de grandes nombres de la ciencia como Isaac Newton o Émilie du Châtelet.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d12, Vigor d12
+
+\sp
+
 * **Habilidades:** Ciencias d10, Disparar d6, Investigar d10, Mitos de Cthulhu d8, Notar d8, Pelear d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 17 (4)
 * **Capacidades especiales:**
@@ -680,10 +697,14 @@ Los yithianos combatieron y derrotaron a un gran enemigo, los pólipos volantes,
 * **Paso:** 6; **Parada:** 5; **Dureza:** 18 (4)
 * **Capacidades especiales:**
     * **Armadura quitinosa +4:** Como los moluscos, poseen un exoesqueleto quitinoso que les protege de ataques.
-    * **Tecnología yithiana:** Puedes asignarle a un yithiano hasta 2 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los yithianos pueden usar cualquier poder del manual básico, no tienen las limitaciones de esta ambientación, pero suelen ser de orientados al combate.
     * **Tamaño +5:** Mide entre 3 y 4 metros. Los atacantes añaden +2 a sus tiradas de ataque contra un yithiano. También tiene 1 herida extra.
     * **Pinzas:** FUE+d6
     * **Telepatía:** Los yithianos son capaces de comunicarse con cualquier especie inteligente mentalmente.
+
+\sp
+
+* **Capacidades especiales:**
+    * **Tecnología yithiana:** Puedes asignarle a un yithiano hasta 2 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los yithianos pueden usar cualquier poder del manual básico, no tienen las limitaciones de esta ambientación, pero suelen ser de orientados al combate.
 * **TPC:** 1d8
 
 Su capacidad de viajar en el tiempo no tiene reglas, ya que creemos que es más un recurso narrativo que una habilidad para usar en el juego. Puede que a tus jugadores se les ocurra usar a un yithiano para se intercambie con sus yoes del pasado y poder hablar con ellos para advertirles de un peligro. Si quieren hacerlo y se lo curran al convencer al yithiano el viaje en el tiempo funciona sin necesitar ningún tipo de tirada.
@@ -692,17 +713,25 @@ Su capacidad de viajar en el tiempo no tiene reglas, ya que creemos que es más 
 
 \sinc
 
+![](./images/mi-go.webp)
+
 ## Yuggothianos
 
 \conc
 
 Los yuggothianos, hongos de Yuggoth o Mi-Go tienes aspecto de crustáceos, aunque en realidad son parte animal, parte hongo. Tienen varios pares de extremidades terminadas en pinzas y alas membranosas funcionales. Se comunican mediante patrones de color en sus cabezas.
 
-![](./images/mi-go.webp)
+Los Yuggothianos son una raza que se dedica a moverse por el espacio e ir conquistando planetas de los que explotan sus recursos minerales. Su asentamiento más cercano a la Tierra se encuentra ahora mismo en Plutón (que no será descubierto hasta 1930).
 
-Los Yuggothianos son una raza que se dedica a moverse por el espacio e ir conquistando planetas de los que explotan sus recursos minerales. Su asentamiento más cercano a la Tierra se encuentra ahora mismo en Plutón (que no será descubierto hasta 1930). Suelen buscarse aliados indígenas en los planetas que quieren conquistar para que les ayuden en sus planes. Adoran a varios dioses primigenios como difundiendo Nyarlathotep y Shub-Niggurath y en sus planes de colonización siempre está difundir el culto a estos primigenios.
+\sp
 
-Los yuggothianos son famosos por sus conocimientos en cirugía cerebral que les permite extraer un cerebro de un cuerpo humano y mantenerlo conservados en unos tubos metálicos llenos de líquido llamados cilindros cerebrales. Estos tubos pueden conectarse a diferentes aparatos que le permiten al cerebro, ver, oír, hablar, etc. Esta tecnología les permite a los Mi-Go llevarse con ellos en sus viajes especiales a los humanos con los mínimos riesgos para los cerebros. También saben como conservar los cuerpos y si es necesario, pueden devolver al cerebro a su cuerpo sin ningún tipo de problema.
+Suelen buscarse aliados indígenas en los planetas que quieren conquistar para que les ayuden en sus planes. 
+
+Adoran a varios dioses primigenios como difundiendo Nyarlathotep y Shub-Niggurath y en sus planes de colonización siempre está difundir el culto a estos primigenios.
+
+Los yuggothianos son famosos por sus conocimientos en cirugía cerebral que les permite extraer un cerebro de un cuerpo humano y mantenerlo conservados en unos tubos metálicos llenos de líquido llamados cilindros cerebrales. Estos tubos pueden conectarse a diferentes aparatos que le permiten al cerebro, ver, oír, hablar, etc. 
+
+Esta tecnología les permite a los Mi-Go llevarse con ellos en sus viajes especiales a los humanos con los mínimos riesgos para los cerebros. También saben como conservar los cuerpos y si es necesario, pueden devolver al cerebro a su cuerpo sin ningún tipo de problema.
 
 ### Yuggothiano colono (secuaz)
 
@@ -726,6 +755,9 @@ Sobre ellos recae todo el desarrollo tecnológico de su raza. No son tan fuertes
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d4, Vigor d6
 * **Habilidades:** Ciencias d10, Medicina d10, Mitos d6, Notar d6, Pelear d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
+
+\sp
+
 * **Capacidades especiales:**
     * **Armadura +2:** Caparazón de crustáceo
     * **Pinzas:** FUE+d4
@@ -749,6 +781,8 @@ Con el material adecuado, un Mi-go científico puede extraer el cerebro de un hu
 Vas a necesitar llenar tus tabernas de turbios personajes de miradas perdidas, tus mercados de extraños vendedores, tus mares de barcos sin bandera con oscuras velas y tus junglas de animales de grandes dientes y afiladas garras acechando entre la vegetación. Aquí tienes todo lo necesario para que rellenes todos esos huecos en tus historias.
 
 En algunos casos te encontrarás algunas opciones de personalización muy simples del PNJ para que tu mesa no termine por aprenderse los PNJ. Por ejemplo, los piratas pueden ser avariciosos, borrachos, cojos, mancos o tuertos y los agricultores puede que lleven cuchillos o machetes.
+
+\sp
 
 ### Secuaces
 
@@ -774,7 +808,7 @@ Usa estas estadísticas para todas esas personas que habitan los puertos y los c
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6)
 
-![](./images/piratas.webp)
+\sp
 
 #### Infante de marina
 
@@ -803,6 +837,9 @@ Estamos hablando de todo el rango de oficiales de un navío y de puestos especia
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Dispar d6, Humanidades d6, Idioma materno d4, Idioma Criollo d4, Intimidar d6, Pelear d6, Navegar d6, Supervivencia d4
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
+
+\sp
+
 * **Ventajas:** Elige 1 o más: Callejear, Intimidador, Mando, Manos firmes
 * **Equipo:** Sable de abordaje (FUE+d6) y pistola de chispa (5/10/20, 2d6+1, Recarga 3)
 
@@ -828,6 +865,16 @@ Los perros del mar son duros, saben pelear y no tienen escrúpulos en robar, saq
 * **Ventajas:** Manos Firmes
 * **Equipo:** Cuchillo (FUE+d4), machete (FUE+d6) y pistola de chispa (5/10/20, 2d6+1, Recarga 3)
 
+\sp
+
+\sinc
+
+![](./images/piratas.webp)
+
+&nbsp;
+
+\conc
+
 #### Capitán Pirata
 
 La piratería es un mundo duro y solo siendo el más diestro y duro puedes ser capitán pirata. Trata de personalizarle, puede ser carismático, cruel, un bellezón u horrible.
@@ -839,7 +886,9 @@ La piratería es un mundo duro y solo siendo el más diestro y duro puedes ser c
 * **Ventajas:** Manos Firmes, Inspiración, Elige 1 o más: Carismático, Rico, Guapo, Famoso
 * **Equipo:** Cuchillo (FUE+d4), alfanje (FUE+d8) y pistola de chispa (5/10/20, 2d6+1, Recarga 3)
 
-#### Caza piratas
+\sp
+
+#### Cazapiratas
 
 Los cazapiratas son mercenarios contratados por las autoridades para limpiar sus aguas de piratas. Es gente que muchas veces ha sido pirata y sabe como actúan y piensa un pirata. Usan tácticas, digamos, poco honorables para acabar con los piratas, desde sobornos hasta a tortura y asesinato.
 
@@ -863,7 +912,11 @@ Estamos hablando desde la herrera del pueblo hasta profesiones muy especializada
 
 #### Mercader
 
-Vamos desde dependientes de tienda hasta taberneros y toda la estructura de gente que trabaja en las grandes empresas comerciales, desde almaceneros hasta altos directivos. Puedes gastar un par de puntos de habilidad en especializarles.
+Vamos desde dependientes de tienda hasta taberneros y toda la estructura de gente que trabaja en las grandes empresas comerciales, desde almaceneros hasta altos directivos. 
+
+\sp
+
+Puedes gastar un par de puntos de habilidad en especializarles.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d4
 * **Habilidades:** Atletismo d4, Ciencias d4, Idioma materno d6, Idioma extra d6, Idioma criollo d4, Notar d8, Pelear d4, Persuadir d6
@@ -890,6 +943,9 @@ Estamos hablando de cultistas de nivel bajo que se dedican a hacer el trabajo su
 * **Habilidades:** Atletismo d6, Idioma materno d6, Idioma criollo d4, Mitos d4, Notar d6, Pelear d6, Reparar d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Elige 1 o más: Arrogante, Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Leal (Menor)
+
+\sp
+
 * **Ventajas:** Elige 1 o más: Alerta, Callejear, Responsable, Ritualista
 
 #### Cultista superior
@@ -915,6 +971,9 @@ Aquí tenéis una lista de animales salvajes del manual de SWEA que puedes usar 
 * **Mula**
 * **Serpiente constrictora/venenosa**
 * **Tiburón:** escualo o tiburón blanco. Hay mucha variedad de tiburones en las aguas del Caribe, siendo el más peligroso el tiburón toro o sarda. Sin embargo, el gran blanco no está entre ellas. Es por ello que puedes usar sus características para tiburones que por alguna razón son extremadamente grandes. ¿Quién dice que Barbanegra no tenga un tiburón tigre mutado gigante que siga sus órdenes mentales?
+
+\sp
+
 * **Toro:** puedes usar sus estadísticas para encuentros con grandes herbívoros que protegen su territorio en la jungla, pero hazte un favor a ti y a tus compañeros de mesa y evita usarlo para que montar una corrida de toros. Nadie quiere eso, en serio.
 
 ### Nuevos animales salvajes
@@ -947,7 +1006,11 @@ Estos increíbles peces emparentados con los tiburones se caracterizan por su ex
 
 #### Mantarraya:
 
-Es la especie más grande de manta y puede llegar a igualar en tamaño a los grandes tiburones. Sin embargo, no tienen aguijón venenoso. Como tiburones y delfines pueden saltar fuera del agua para atacar. Se alimentan de plancton y solo atacan si se ven en peligro.
+Es la especie más grande de manta y puede llegar a igualar en tamaño a los grandes tiburones. Sin embargo, no tienen aguijón venenoso. Como tiburones y delfines pueden saltar fuera del agua para atacar. 
+
+\sp
+
+Se alimentan de plancton y solo atacan si se ven en peligro.
 
 * **Atributos:** Agilidad d8, Astucia d4 (A), Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d8, Notar d12, Pelear d8, Sigilo d8
@@ -977,11 +1040,13 @@ Estos cetáceos son uno de los seres más inteligentes del reino animal. Se sabe
 
 #### Alosaurio
 
-**Carnívoro | Terrestre | 4x2 casillas**
+El alosaurio es el mayor de los saurios que sobreviven en R’lyeh y al más terrible de ellos. Es un terópodo, es decir que es bípedo, pero a diferencia de otros terópodos, como el tiranosaurio, sus brazos eran más largos y podían ser usados para atacar y sujetar las presas.
 
-El alosaurio es el mayor de los saurios que sobreviven en la tierra de Maple White y al más terrible de ellos. Es un terópodo, es decir que es bípedo, pero a diferencia de otros terópodos, como el tiranosaurio, sus brazos eran más largos y podían ser usados para atacar y sujetar las presas.
+\sp
 
 Como depredadores, pueden llegar a cazar estegosaurios, aunque siempre especímenes jóvenes, viejos o enfermos. Su vista les permite calcular bastante precisamente las distancias, con lo que son bastante efectivos en sus ataques por sorpresa.
+
+Un alosaurio adulto de talla media crece hasta 12 metros de longitud de la cabeza a la punta de la cola y pesa entre 1.500 y 2.000 kg. Todo esto convierte a este cazador solitario en el mayor depredador de la selva de R’lyeh. Sus potentes piernas también le convierten en el dinosaurio terrestre más rápido del mundo perdido con una velocidad máxima de 55 km/h.
 
 * **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
 * **Habilidades:** Atletismo d6, Intimidar d12, Notar d6, Pelear d8, Supervivencia d6
@@ -992,28 +1057,22 @@ Como depredadores, pueden llegar a cazar estegosaurios, aunque siempre especíme
   * **Mordisco:** FUE+d8.
   * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
   * **Impávido:** Es inmune a las tiradas de miedo e Intimidar.
-  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
-  * **Tamaño +6:** +6 a Dureza
+  * **Grande (4x2 casillas):** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
+  * **Tamaño +6:** +6 a Dureza 
   * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
   * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
 
-[![Escala Alosaurio](./assests/images/escala-alosaurio.png 'Size comparison between the carnosaurian theropod dinosaur Allosaurus and a human. 	Dropzink')](https://es.wikipedia.org/wiki/Archivo:Human-allosaurus_size_comparison.png 'Size comparison between the carnosaurian theropod dinosaur Allosaurus and a human. 	Dropzink')
-
-Un alosaurio adulto de talla media crece hasta 12 metros de longitud de la cabeza a la punta de la cola y pesa entre 1.500 y 2.000 kg. Todo esto convierte a este cazador solitario en el mayor depredador de la tierra de Maple White.
-
-Sus potentes piernas también le convierten en el dinosaurio terrestre más rápido del mundo perdido con una velocidad máxima de 55 km/h.
-
-> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio subiéndole un punto al tamaño.
-
-[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Life restoration of the «Sophie» Stegosaurus specimen - Fred Wierum')](https://es.wikipedia.org/wiki/Stegosaurus#/media/Archivo:Stegosaurus_stenops_Life_Reconstruction.png 'Life restoration of the «Sophie» Stegosaurus specimen - Fred Wierum')
+\sp
 
 #### Estegosaurio
-
-**Herbívoro | Terrestre | 3x2 casillas**
 
 Debido a sus distintivas espinas de la cola y sus placas dorsales, el estegosaurio es uno de los más reconocidos dinosaurios. Es el mayor herbívoro del mundo perdido y gracias a su masa y a su fuerte y elevada cola puede hacerle frente, incluso derrotar a un alosaurio. Sus placas dorsales son una mezcla de sistema de termorregulación y de protección. 
 
 En general son lentos y tranquilos, pero la creencia de que eran poco inteligentes por su pequeño cerebro es falsa. Viven en manadas y son muy protectores con sus crías. No hay que olvidar que debajo de su imagen de tranquilos herbívoros hay unas máquinas letales capaces de hacer frente a cualquier enemigo mucho más si no está solo. 
+
+El estegosaurio pesa 3 y 4 de toneladas y crece hasta 9 metros de largo de la cabeza a la punta de la cola y 4 metros de alto. 
+
+Como ya hemos comentado, este saurio es famoso por sus placas dorsales y también tiene cuatro espinas en la cola, cada una de 60 a 90 cm de largo, que usa para su defensa.
 
 * **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d8, Fuerza d12+3, Vigor d12
 * **Habilidades:** Atletismo d4, Notar d8, Pelear d8
@@ -1021,26 +1080,22 @@ En general son lentos y tranquilos, pero la creencia de que eran poco inteligent
 * **Ventajas:** Atletismo d6, Pelea d6, Notar d8
 * **Capacidades especiales:**
   * **Armadura +2:** Piel escamosa.
-  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
-  * **Tamaño +6:** +6 a Dureza
+  * **Grande (3x2 casillas):** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
+  * **Tamaño +6:** +6 a Dureza 
   * **Coletazo:** FUE+d6. Si durante su turno no se mueve, puede hacer un ataque de área en 3 casillas adyacentes entre sí y alrededor suyo. Hace una tirada por cada enemigo en el área. Todo enemigo que pase por esa zona hasta el siguiente turno del estegosaurio recibe un ataque. Varios estegosaurios puede combinar estos barridos con sus colas con pinchos de forma que crean una barrera defensiva que nadie en su sano juicio querría atravesar.
   * **Placas dorsales:** Las placas de su espalda hacen que los ataques cuerpo a cuerpo de enemigos más altos o que solo puedan atacar desde arriba sean más difíciles y tengan un -2. 
 
-[![Escala Estegosaurio](./assests/images/escala-estegosaurio.png 'Tamaño de S. ungulatus y S. stenops comparados con un ser humano. Matt Martyniuk')](https://es.wikipedia.org/wiki/Archivo:Human-allosaurus_size_comparison.png 'Tamaño de S. ungulatus y S. stenops comparados con un ser humano. Matt Martyniuk')
-
-El estegosaurio pesa 3 y 4 de toneladas y crece hasta 9 metros de largo de la cabeza a la punta de la cola y 4 metros de alto. 
-
-Como ya hemos comentado, este saurio es famoso por sus placas dorsales y también tiene cuatro espinas en la cola, cada una de 60 a 90 cm de largo, que usa para su defensa.
-
-[![Foto recreación artística de un Ictiosaurio](./assests/images/ictiosaurio.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')](https://es.wikipedia.org/wiki/Ichthyosauria#/media/Archivo:Shonisaurus_BW_2.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')
+\sp
 
 #### Ictiosaurio
-
-**Carnívoro | Acuático | 2x1 casillas**
 
 Los ictiosaurios descienden reptiles que volvieron al mar, como hicieron delfines y ballenas. Como ellos respiran aire con lo que cada cierto tiempo tienen que subir a la superficie a tomar aire. Están totalmente adaptados al medio acuático y se alimentan de peces y calamares.  
 
 Ictiosaurio fue el primer fósil completo descubierto a principios del siglo XIX por Mary Anning en Inglaterra.
+
+El ictiosaurio mide unos 2 metros de largo y pesa entre unos 150 y 170 kilos. Se caracterizan por tener unos grandes ojos adaptados perfectamente para ver debajo del agua.
+
+Su forma es una mezcla de pez espada y delfín lo que le convierte en un depredador rápido y ágil que puede llegar a los 40 km/h en condiciones óptimas.
 
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d6, Notar d6, Pelear d8, Sigilo d6
@@ -1051,18 +1106,19 @@ Ictiosaurio fue el primer fósil completo descubierto a principios del siglo XIX
   * **Piel dura +1:** Su piel dura y lisa no solo le protege del frío del mar, también de ataques de otros animales.
   * **Grandes ojos:** Tiene una vista excelente dentro del agua de forma que no sufre ninguna penalización de visibilidad debajo del agua.
 
-[![Escala Ictiosaurio](./assests/images/escala-ictiosaurio.png 'Ichthyosaurus con un humano a escala. Abyssal leviathin')](https://es.wikipedia.org/wiki/Ichthyosaurus#/media/Archivo:Ichthyooscale.png 'Ichthyosaurus con un humano a escala. Abyssal leviathin')
-
-El ictiosaurio mide unos 2 metros de largo y pesa entre unos 150 y 170 kilos. Se caracterizan por tener unos grandes ojos adaptados perfectamente para ver debajo del agua.
-
-Su forma es una mezcla de pez espada y delfín lo que le convierte en un depredador rápido y ágil que puede llegar a los 40 km/h en condiciones óptimas.
-
 ### Plesiosaurio
-**Carnívoro | Acuático | 3x1 casillas | Código: DUKW (Pronunciado como DUCK, PATO en castellano)**
 
 Otro reptil que volvió al mar como el ictiosaurio, pero quizás en vez de evolucionar a algo parecido a delfines o peces espadas, lo hizo hacia mamíferos marinos como focas y morsas.
 
 Su largo cuello les permite sacar la cabeza fuera del agua y poder mirar en todas las direcciones y evitar ataques por sorpresa. Su boca tienes unos poderosos dientes capaces de romper los caparazones de los crustáceos de los que se alimenta.
+
+Un plesiosaurio adulto de talla media crece entre 3 a 5 metros de longitud y pesa entre 500 y 700 kg. 
+
+Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa, sino lisa para una mejor hidrodinámica. Tienen un largo cuello que mide más o menos la mitad de su cuerpo y que usa como timón a la hora de nadar.
+
+\sp
+
+Para terminar, sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
 
 * **Atributos:** Agilidad d8, Astucia d6 (A), Espíritu d8, Fuerza d12, Vigor d12
 * **Habilidades:** Atletismo d10, Notar d8, Pelear d8, Sigilo d6
@@ -1072,23 +1128,15 @@ Su largo cuello les permite sacar la cabeza fuera del agua y poder mirar en toda
   * **Mordisco:** FUE+d6
   * **Tamaño +3:** Mide de 3 a 5 metros de longitud y pesa entre 500 y 700 kg.
 
-[![Escala Plesiosaurio](./assests/images/escala-plesiosaurio.png 'Plesiosaurus con un humano a escala. Abyssal leviathin')](https://es.wikipedia.org/wiki/Plesiosaurus#/media/Archivo:Plesioscale.png 'Plesiosaurus con un humano a escala. Abyssal leviathin')
-
-Un plesiosaurio adulto de talla media crece entre 3 a 5 metros de longitud y pesa entre 500 y 700 kg. 
-
-Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa, sino lisa para una mejor hidrodinámica. Tienen un largo cuello que mide más o menos la mitad de su cuerpo y que usa como timón a la hora de nadar. Para terminar, sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
-
-[![Dibujo de pteranodonte volando](./assests/images/pteranodonte.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')](https://commons.wikimedia.org/wiki/File:Pteranodon_NT.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')
-
 #### Pteranodonte
-
-**Carnívoro | Volador | 3x1 casillas**
 
 Que los reptiles aprendieron a volar y que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodontes son el culmen de los reptiles voladores y aunque torpes en tierra, son los amos de los aires.
 
 Los pteranodontes pasan mucho tiempo pescando en el mar y como las grandes aves marinas, su vuelo se basaba más en el planeo con sus grandes alas que en el aleteo.
 
 Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse contra sus presas o enemigos, agarrarlos y elevarse con ellos para llevarlos a su nido para alimentar a sus crías o para dejarlos caer de grandes alturas. 
+
+Los pteranodontes son unos de los saurios voladores de mayor tamaño, llegando a 5 o 6 metros de envergadura de alas y un peso entre 30 y 90 kilos. Se caracterizan frente a otras especies por su cresta de infinidad de formas y tamaños.  
 
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Notar d10, Pelear d6
@@ -1098,11 +1146,12 @@ Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse cont
   * **Picotazo/Garras:** FUE+d6.
   * **Volar:** Los pteranodontes tienen un paso de volando de 12 (solo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
   * **Ataque volador:** Cuando el pteranodonte vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente, a su nido.
+
+\sp
+
+* **Capacidades especiales:**
   * **Tamaño +2:** Podían llegar a tener una envergadura de alas de 5 o 6 m y un peso de unos 60 kilos.
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
   * **Veneno:** Después de un combate contra pteranodontes, si recibes una herida, debes tirar VIG. En caso de fallar, el día siguiente tendrá un nivel de fatiga, que se recupera tras dormir una noche, debido a la fiebre y malestar general generados por la infección de las bacterias de su pico y sus garras.
 
-[![Escala Pteranodon](./assests/images/escala-pteranodon.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')](https://commons.wikimedia.org/wiki/File:Pteranodon_scale.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')
-
-Los pteranodontes son unos de los saurios voladores de mayor tamaño, llegando a 5 o 6 metros de envergadura de alas y un peso entre 30 y 90 kilos. Se caracterizan frente a otras especies por su cresta de infinidad de formas y tamaños.  
-
+\sc

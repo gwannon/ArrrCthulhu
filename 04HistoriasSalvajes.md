@@ -1727,7 +1727,7 @@ Necesitan unos 10 barriles de tinte amarillo que tendrán que reunir en sus viaj
 
 \sp
 
-* **Guthrie's premises:** Siempre se puede ir a mirar que hay en los almacenes de Robert Guthrie en Nasáu. Los tintes no son algo con lo que Guthrie negocio, pero a veces te puede dar una sorpresa con lo que guarda en el fondo de sus almacenes.
+* **Guthrie’s premises:** Siempre se puede ir a mirar que hay en los almacenes de Robert Guthrie en Nasáu. Los tintes no son algo con lo que Guthrie negocio, pero a veces te puede dar una sorpresa con lo que guarda en el fondo de sus almacenes.
 
 #### Los ensayos
 
@@ -2369,7 +2369,11 @@ Si con todo, se van hazles saber en unas semanas el resultado del partido. Puede
 
 #### El entrenamiento
 
-El entrenamiento de Corozo es un tanto especial. Ponles a hacer cosas absurdas como en Karate Kid. Disfrútalo haciéndoles esquivar cocos que caen de árboles, correr delante de rumiantes enfurecidos, etc. estas escenas suelen ser muy buenas y divertidas. Puedes montarles minijuegos para que compitan entre ellos y pasar un rato divertido. El que pierda el minijuego cae al montón de cacas, se tiene que comer algo horrible, friega las letrinas, etc. Recuerda todas las escenas de entrenamientos de Rocky y Karate Kid o de Creed si eres mucho más joven.
+El entrenamiento de Corozo es un tanto especial. Ponles a hacer cosas absurdas como en Karate Kid. Disfrútalo haciéndoles esquivar cocos que caen de árboles, correr delante de rumiantes enfurecidos, etc. estas escenas suelen ser muy buenas y divertidas. 
+
+\sp
+
+Puedes montarles minijuegos para que compitan entre ellos y pasar un rato divertido. El que pierda el minijuego cae al montón de cacas, se tiene que comer algo horrible, friega las letrinas, etc. Recuerda todas las escenas de entrenamientos de Rocky y Karate Kid o de Creed si eres mucho más joven.
 
 Mientras el cacique Corozo entrena a tu mesa en las sutilezas del batú, un grupo de taínos prepara el claro para el partido. Corta la maleza, aplana el terreno y coloca las piedras para delimitar el campo. Se montará un campamento improvisado donde podrán dormir, comer y entrenar.
 
@@ -2381,7 +2385,9 @@ Durante la media semana que estén de entrenamiento, deben primero establecer qu
 
 Los espías del equipo contrario han hablado maravillas de los nuevos jugadores y el cacique Penda no se la puede jugar. Pocos minutos antes se presentará al más altamente sobornable de tu mesa y le ofrecerá una buena suma (crea un botín de d8 con incluso objetos). Solos le pagará después de ganar el partido. Si acepta el soborno, no les permitas usar benis durante los turnos de partido en que participe este jugador sobornado.
 
-Si hay algún personaje carismático, déjales dar una charla motivadora antes del partido. Si lo hace especialmente bien, puedes darles unos benis para que puedan utilizarlos durante el partido. Otras opciones pueden ser desde un cántico para el partido (como Nok su kao) hasta himnos (como You'll Never Walk Alone). Igual a alguno se le ocurre inventar la ola, déjales ser un poco ucrónicos. Seguro que es una anécdota que contaran durante mucho tiempo «Te acuerdas cuando inventamos la ola en el partido ese raro …».
+\sp
+
+Si hay algún personaje carismático, déjales dar una charla motivadora antes del partido. Si lo hace especialmente bien, puedes darles unos benis para que puedan utilizarlos durante el partido. Otras opciones pueden ser desde un cántico para el partido (como Nok su kao) hasta himnos (como You’ll Never Walk Alone). Igual a alguno se le ocurre inventar la ola, déjales ser un poco ucrónicos. Seguro que es una anécdota que contaran durante mucho tiempo «Te acuerdas cuando inventamos la ola en el partido ese raro …».
 
 #### El partido
 
@@ -2394,6 +2400,18 @@ En la fase de estrategia se podrán escoger los 5 jugadores (3 jugadores, 1 marr
 En la fase de juego los jugadores tiran Atletismo para pelotear la bola, el marrullero podrá tirar Provocar para distraer al contrario o tirar Atletismo y el táctico podrá tirar Tácticas para manejar a su equipo o Atletismo. Debes sumar los avances de cada equipo y el que más avances saque gana un punto, si empatan ganan los dos. Si alguna de las tiradas de Atletismo falla, el balón cae al suelo y el equipo automáticamente falla la ronda y el contrario gana el punto. Si los dos equipos fallan, ambos ganan un punto.
 
 Uso de benis: convertir un fallo de Atletismo en un éxito directo, pero sin avances; poder participar en una ronda sin cumplir las reglas de participación.
+
+\sp
+
+\sinc
+
+![Campo de batú](./images/batu.webp)
+
+Campo de batú
+
+\conc
+
+\sp
 
 Al final de las 5 rondas gana el que más puntos tenga. En caso de empate, se jugarán rondas extras a «muerte súbita». En el momento que uno de los equipos marque un punto y el otro no gana el encuentro.
 
@@ -2412,27 +2430,15 @@ Los dioses han elegido de quién es el terreno, pero Penda tiene otra idea sobre
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Equipo:** Cuchillo (FUE+d4) y machete (FUE+d6)
 
-\sp
-
-\sinc
-
-![Campo de batú](./images/batu.webp)
-
-Campo de batú
-
-\conc
-
-\sp
-
 #### El tercer tiempo
 
 Esta historia se convertirá en una leyenda del batú y tu mesa conseguirá un +1 en todas las tiradas sociales relacionadas con fans del batú. Les invitarán a beber y contar su historia en las hogueras de las comunidades taínas. Los niños les pedirán que jueguen con ellos y que pongan su marca en sus pelotas de batú.
 
+\sp
+
 > _**Recompensa extra de cordura (+1):** Como en toda película de «underdogs» si, además, de ganar, son buenos ganadores y consiguen que también el equipo contrario sean mejores personas, por ejemplo usando daño no letal, recompénsales con un punto de cordura que les otorga tener una autoestima sana._
 
 ### La parte del rey
-
-![Pecio de la Flota de la Plata](./images/pecio.webp)
 
 **Comienzo:** La Habana
 
@@ -2448,6 +2454,16 @@ Todo esto podrán averiguarlo aurora y Flora y de los archivos municipales o pre
 
 La flota salió de La Habana con destino a España comandada por Juan Esteban de Ubilla con excelente tiempo. Hasta que inesperadamente un huracán arraso la flota cuando estaba frente a la costa de Florida. Murieron unas 1000 personas y se perdieron casi todos los navíos y toneladas y toneladas de plata.
 
+\sp
+
+\sinc
+
+![Pecio de la Flota de la Plata](./images/pecio.webp)
+
+&nbsp;
+
+\conc
+
 La poca plata que se consiguió rescatar fue llevada a España. Desde entonces ha habido buscadores de tesoros en la costa de Florida buscando restos de la plata en las playas cuando hay temporales, huracanes y mareas vivas. Pero nunca con mucha fortuna.
 
 #### Qué paso realmente
@@ -2457,6 +2473,8 @@ El hundimiento de la flota de la plata fue culpa de la Orden del Gran Cthulhu. L
 Desde entonces lleva años sacando poco a poco la plata de los pecios con la ayuda de mano de obra profunda e híbrida y almacenándola en una isla desierta entre Florida y Bahamas. Cuando la Orden necesita dinero que no se pueda rastrear, manda un barco a la isla a coger un cargamento de plata que guarda en el Castillo del Morro de La Habana.
 
 No tienen prisa en ponerlo en circulación y lo usan en ocasiones excepcionales, pero uno de los cultistas adicto al juego ha tenido que robar varios lingotes para pagar sus deudas de juego.
+
+\sp
 
 #### Aurora y Flora
 
@@ -2482,6 +2500,8 @@ Tanto si van ellos como si los matones van a buscarlos, los llevarán al piso su
 
 Alfredo es bastante brusco y directo, no se guarda nada. Si le deben dinero, les pedirá el dinero y les explicará las consecuencias de no volver a pagar a tiempo. Si quieren un préstamo, les explicará las condiciones y las consecuencias de no pagar.
 
+\sp
+
 No va a ser fácil sacarle información sobre la plata, pero se dejará seducir, por una parte, del botín. Aurora y Flora no parece que estén de acuerdo, pero sin la información de Alfredo no puede continuar. Aceptará un mínimo de un 3%, pero tratará de conseguir un 6%.
 
 Usía sabe de donde viene la plata, de un jugador empedernido llamado Viriato que trabaja para la RCPC en el Castillo del Morro. Es un pésimo jugador y siempre anda debiendo dinero a Usía. Les indicará su abrevadero favorito.
@@ -2500,6 +2520,9 @@ Una vez haya soltado todo lo que sabe, Viriato no será de utilidad y hay que re
 
 * Pueden dejarle en paz, pero puede contar todo a sus superiores. Seguramente no lo hará porque es muy cobarde y no tan fanático.
 * Pueden darle el paseo y quitarse problemas.
+
+\sp
+
 * La última opción es tenerlo de informante dentro del Morro ofreciéndole una buena suma. Es la opción más inteligente, pero tarde o temprano seguramente lo pillarán.
 
 Si Viriato sale vivo de la reunión, Usía lo mandará al fondo de mar tan pronto tu mesa abandone La Habana. Alfredo no es una persona que deja cabos sueltos.
@@ -2518,6 +2541,8 @@ La celda es muy difícil de encontrar, ya que tiene hechizos de ocultación perm
 
 Casualmente, La Rodela está atracado en el puerto a la espera de su siguiente misión. La tripulación está bajo mínimos (unos 15 marinos), ya que está de permiso emborrachándose en las tabernas del puerto. Hay bastantes guardias del puerto vigilando las cercanías del barco. Vigilan esa y más naves de la RCPC, con lo que seguramente con una buena tirada de Notar tu mesa podrá ver un agujero en la seguridad.
 
+\sp
+
 La capitán Robles duerme en un hostal del puerto, así que su habitación está vacía. Sin embargo, sus dos suboficiales están en sus camarotes (2 cazapiratas). Si se descubre a los intrusos, en un par de turnos podrían aparecer unos 5 marinos, 3 guardas del puerto y los dos suboficiales. Si están a punto de derrotar a los marinos, puedes sacar un grupo de 5 profundos que vigilan desde debajo del agua los barcos de la RCPC para que no tengan sorpresas ni sabotajes. Según aparezcan los profundos, los guardas y los marinos que no están acostumbrados huirán aterrorizados.
 
 Hay muchas formas de colarse en el barco, desde colarse por los ventanales del camarote de la capitán, hasta hacerse pasar por tripulantes borrachos. Déjales que elaboren un plan y lo ejecuten.
@@ -2530,7 +2555,11 @@ Si roban el diario pondrán en alerta a la capitán y, por tanto, a la Orden, qu
 
 #### Y ahora, ¿qué hacemos con las pruebas?
 
-Acusar a la RCPC de brujería y de traición a la corona es algo difícil de conseguir y es posiblemente la forma más fácil de levantarse un día con la garganta cortada. Puede conseguirse algo de difusión publicando la historia en la VLH, pero solo tendrá calado entre las clases bajas de La Habana. De todas formas no quiere decir que esta historia no levante sospechas en agentes del rey que quieran revisar toda la historia, aunque sea para descartarla.
+Acusar a la RCPC de brujería y de traición a la corona es algo difícil de conseguir y es posiblemente la forma más fácil de levantarse un día con la garganta cortada. 
+
+\sp
+
+Puede conseguirse algo de difusión publicando la historia en la VLH, pero solo tendrá calado entre las clases bajas de La Habana. De todas formas no quiere decir que esta historia no levante sospechas en agentes del rey que quieran revisar toda la historia, aunque sea para descartarla.
 
 Aunque no pueda limpiar el nombre de la familia, si presentan sus pruebas al padre de Aurora y Flora, este volverá a sonreír. Aunque para los demás sea un fracasado, él sabe la verdad y se ha perdonado a sí mismo. Como les ha dicho muchas a veces a sus hijas: El honor es un regalo que se hace una persona a sí misma, solo tú te lo puedes quitar y solo tú te lo puedes devolver.
 
@@ -2538,13 +2567,15 @@ La cantidad de plata escondida es mucha y si han encontrado la ubicación exacta
 
 Otra opción que puede darle muchos problemas a la RCPC es hacer correr el rumor entre la piratería del tesoro en plata y su localización. En pocos días las aguas entre Bahamas y Florida estarían infectadas de piratas y la RCPC tendría muy complicado recuperar la plata antes de que la encuentre alguna tripulación pirata.
 
-_**Semilla de partida:** La plata ya no está segura ni en el castillo ni en la isla desierta y si alguien de la corona husmea alertado por los rumores que corren por las calles podría destapar el pastel. Esto va a obligar a la RCPC a mover la plata a otra ubicación. Es mucha plata que mover y tendrá que ir en varios barcos y protegida con escolta. Tu mesa podría montar una expedición pirata con sus aliados para atacar esa mini flota de la plata._
+> _**Semilla de partida:** La plata ya no está segura ni en el castillo ni en la isla desierta y si alguien de la corona husmea alertado por los rumores que corren por las calles podría destapar el pastel. Esto va a obligar a la RCPC a mover la plata a otra ubicación. Es mucha plata que mover y tendrá que ir en varios barcos y protegida con escolta. Tu mesa podría montar una expedición pirata con sus aliados para atacar esa mini flota de la plata._
 
 ### Cuando la tierra tiembla
 
 **Comienzo:** Los cayos de la Florida
 
 La Orden del Gran Cthulhu está estudiando un huevo de chthoniano en unas instalaciones en un pequeño islote cerca de Cayo Hueso. El problema es que los padres del huevo y sus familiares están buscándolo y puede que si le pasa algo al huevo hundan la isla en el océano junto con sus habitantes.
+
+\sp
 
 Mientras los héroes navegan un día claro, una extraña ola solitaria de tamaño descomunal aparece de la nada, haciendo casi zozobrar al su barco y dañándolo bastante. Desde que el vigía grite «¡Olaaaa!» hasta que les impacte déjales 5 turnos para prepararse. Pueden asegurar la carga y la tripulación, maniobrar a favor de la ola, intentar pararla o esquivar (cosa imposible), etc.
 
@@ -2561,6 +2592,8 @@ Una vez organicen las reparaciones podrán bajar a tierra a conseguir comida y a
 Nada más poner pie en tierra, un temblor de gran poder sacudirá la tierra, las palmeras de la playa temblarán y los cocos caerán. Los temblores no deberían serles extraños, pero nunca son buena señal. Una tirada de Ciencias podría darles a entender que la ola gigante y los temblores están relacionados. De hecho, la gran ola podría haber provenido de cerca de la isla.
 
 El poblado taíno es bastante normal, unas 25 /30 personas con sus casas redondas de materiales vegetales, huertos y cultivos cercanos y cercos con animales de granja. Parecen bastante huidizos y cuando os acercáis se esconden en sus casas. El cacique con un grupo de nitaínos les gritarán y les harán gestos de que se vayan. No son bienvenidos. Ni mostrando dinero o cosas para intercambiar o dejando regalos en el suelo querrán hablar.
+
+\sp
 
 El edificio religioso de piedra pertenece a un grupo de monjes (8 en concreto) que viven como ermitaños y tiene voto de silencio. Parecen bastante esquivos y extraños y solo se les ve a través de la rejilla en la puerta, pero claro, los ascetas son así.
 
@@ -2579,6 +2612,8 @@ Al volver a la playa, cuando estén subiendo a su bote, unos extraños golpes se
 
 Si la valentía es su negocio, se adentrarán en la jungla y sin tirada de ningún tipo podrán ver palmeras caídas y 3 rastros muy grandes de algo que se movía por debajo de la tierra como si fuera un topo.
 
+\sp
+
 De repente, se escuchará una especie de zumbido que parece un cántico y la tierra volverá a temblar y una gran grieta de unos 200 metros se abrirá a sus pies (tirada de Atletismo para no caer dentro). Enseguida empezará a llenarse de agua salada. Una tirada de Ciencias dejará claro que si siguen los temblores, la isla podría hundirse en el mar.
 
 Si van con algún tripulante secuaz buen momento para que desaparezca de repente sin dejar rastro o que algún comodín sufra un ataque desde el suelo, pero sin que puedan ver bien que pasa.
@@ -2593,9 +2628,21 @@ Sin previo aviso se oye el zumbido cántico de nuevo y la tierra tiembla y vuelv
 
 Los monjes vuelven a dentro y en unos minutos los taínos se despiertan y vuelven desorientados a su casa. En este momento el cacique es más receptivo a los foráneos, pero solo habla taíno. Si pueden hablar con él, está muy preocupado. Van a tener que irse porque la isla no es estable. Los cemíes, dice el behike, deben estar furiosos y les están castigando. Desde que llegaron los europeos hace un año los temblores han empezado y hay algo en la jungla que tira los árboles y crea surcos de gran tamaño.
 
-Permíteles hacer tiradas de Mitos para ir entiendo que está pasando. También pueden hacer tiradas de Ciencias para lo temas más técnicos. Pueden intervenir cuando quieran, pero está claro que deberían informarse antes de actuar, deberían investigar qué pasa. El edificio de piedra es inexpugnable sin tener el equipo adecuado y los taínos no se paran en su ataque. Si buscan en los alrededores verán los surcos en la tierra que producen los chthonianos.
+\sp
 
-#### Qué esta pasando
+\sinc
+
+![Monasterio](./images/monasterio.webp)
+
+Monasterio de piedra
+
+\conc
+
+\sp
+
+Permíteles hacer tiradas de Mitos para ir entiendo qué está pasando. También pueden hacer tiradas de Ciencias para los temas más técnicos. Pueden intervenir cuando quieran, pero está claro que deberían informarse antes de actuar, deberían investigar qué pasa. El edificio de piedra es inexpugnable sin tener el equipo adecuado y los taínos no se paran en su ataque. Si buscan en los alrededores verán los surcos en la tierra que producen los chthonianos.
+
+#### Qué está pasando
 
 No es la primera vez que la Orden usa chthonianos para crear terremotos y destruir ciudades, pero sus ataques no discriminan entre amigos y enemigos y están investigando como crear edificios que los resistan. Sería una gran ventaja para ellos poder destruir La Habana sin que el Morro se derrumbe. Así que un grupo de científicos de la Orden está estudiando como construir edificios que por ingeniería y magia aguanten de todo.
 
@@ -2608,6 +2655,8 @@ Para evitarse problemas con los chthonianos montaron todo este tinglado en una i
 #### Solucionando el embrollo
 
 En este punto y con toda la información, déjales que decidan qué quieren hacer.
+
+\sp
 
 * Pueden intentar rescatar el huevo, pero cuando lo entreguen a los padres, estos seguramente destruirán a los monjes y seguramente la isla con ellos.
 * Pueden rescatar a los taínos, pero si los monjes llegan a un trato con los chthonianos y les devuelven el huevo a cambio de su seguridad, la investigación daría bastante poder a la Orden.
@@ -2631,6 +2680,8 @@ Sea como sea, seguramente los chthonianos terminen hundiendo la isla, y la únic
 
 Si consiguen, los cuadernos con la investigación no solo mermarán la capacidad de la Orden de usar chthonianos, sino que, en manos adecuadas, podría ser usado para la construcción más eficiente de fortalezas si fuera necesario. Además, las notas del estudio pueden usarse como libro de los Mitos con las siguientes características.
 
+\sp
+
 * **Título:** De la construcción de edificios anti chthonianos
 * **Autor:** Varios autores
 * **Idioma:** Cthulhunés
@@ -2642,21 +2693,7 @@ Si consiguen, los cuadernos con la investigación no solo mermarán la capacidad
 
 > _**Recompensa extra de cordura (+1):** Preocuparse y salvar a las víctimas colaterales debería ser una prioridad. Si ponen en peligro su vida para proteger a los taínos o desechan planes más fáciles que pondrían a los taínos en peligro por otros más difíciles y mortales deberías recompensarles con un punto de cordura._
 
-\sp
-
-\sinc
-
-![Monasterio](./images/monasterio.webp)
-
-Monasterio de piedra
-
-\conc
-
-\sp
-
 ### El templo perdido
-
-![](./images/temploperdido.webp)
 
 **Comienzo:** Jungla
 
@@ -2666,13 +2703,27 @@ Las ruinas que han encontrado son un antiquísimo puesto avanzado de investigaci
 
 Cubierta de mucha vegetación se ve una especie de cabeza de serpiente o reptil gigantesca cuya boca es una entrada a unas instalaciones subterráneas. Después de desbrozar toda la maleza, hay una gran puerta de piedra circular dentro de sus fauces. Parece que se desliza a un lado, pero el tiempo la ha atascado. Con picos y palas pueden moverla con una hora de trabajo, pero pueden recurrir a la pólvora o a magia para abrirla.
 
-Alrededor de la entrada no encontrarán nada significativo, quizás alguna pieza de metal o cerámica que proceda del interior del templo. Una tirada de Ciencias y Supervivencia le dirá a tu mesa que las plantas de alrededor del templo tienen cambios extraños como hojas de formas raras, flores extrañas o frutos nunca vistos. De hecho, todas las habitaciones estarán llenas de raíces de árbol que han crecido desmesuradamente rompiendo sus muros. Si no tienen fuente de luz, puedes hacer que las raíces emitan una fosforescencia verde que les ilumine. Todo esto es debido a la radiación latente que hay en la zona.
+Alrededor de la entrada no encontrarán nada significativo, quizás alguna pieza de metal o cerámica que proceda del interior del templo. Una tirada de Ciencias y Supervivencia le dirá a tu mesa que las plantas de alrededor del templo tienen cambios extraños como hojas de formas raras, flores extrañas o frutos nunca vistos. 
+
+\sp
+
+\sinc
+
+![](./images/temploperdido.webp)
+
+\conc
+
+De hecho, todas las habitaciones estarán llenas de raíces de árbol que han crecido desmesuradamente rompiendo sus muros. Si no tienen fuente de luz, puedes hacer que las raíces emitan una fosforescencia verde que les ilumine. Todo esto es debido a la radiación latente que hay en la zona.
 
 Por todo el templo hay inscripciones en la piedra que si alguien conoce Naacal podrá traducir. Serían las típicas inscripciones de un laboratorio, como indicaciones del nombre de la sala, advertencias de seguridad o indicaciones de como moverse. Con una tirada de Mitos se podrá identificar el idioma Naacal, pero no se podrá traducir los textos. Muchas de las inscripciones son especialmente técnicas y exigirán tiradas de Ciencias o de Reparar para entender a qué se refieren.
 
 #### Habitaciones de las instalaciones subterráneas:
 
-**1\. Entrada:** La puerta de las fauces da a unas escaleras que terminan en un largo pasillo. El pasillo tiene una trampa de caída desactivada (pensada para la fauna que pudiera entrar), pero que deja un hueco de unos 4 metros de largo y 8 de caída sobre montones cascotes. Con ayuda de cuerdas y palos podrían montar un puente temporal. Cada persona que pase tendrá que hacer una tirada de Vigor contra la tirada de Reparar al crear el puente. Si pasan la tirada enfrentada, el peso de la persona que cruza el foso romperá el puente. Puede hacer una tirada de Atletismo para saltar a un lado u otro del foso (tirada al azar).
+**1\. Entrada:** La puerta de las fauces da a unas escaleras que terminan en un largo pasillo. El pasillo tiene una trampa de caída desactivada (pensada para la fauna que pudiera entrar), pero que deja un hueco de unos 4 metros de largo y 8 de caída sobre montones cascotes. Con ayuda de cuerdas y palos podrían montar un puente temporal. 
+
+\sp
+
+Cada persona que pase tendrá que hacer una tirada de Vigor contra la tirada de Reparar al crear el puente. Si pasan la tirada enfrentada, el peso de la persona que cruza el foso romperá el puente. Puede hacer una tirada de Atletismo para saltar a un lado u otro del foso (tirada al azar).
 
 **2\. Sala central:** Esta gran sala da acceso al resto de las instalaciones. Tiene pinta por los agujeros en la pared y los ganchos que había algún tipo de cuadros colgados de las paredes (en realidad pantallas electrónicas con datos de la investigación). A la altura de la cintura hay por todas las paredes un bajorrelieve que representan serpientes. En los ojos de muchas de ellas hay una cuentas de cristal que se iluminan cuando alguien se acerca a dos casillas de cualquier puerta. Analiza el código genético del sujeto y si es humano, desde todas las serpientes del bajorrelieve cercanas se lanzará una red de rayos eléctricos que atacará al que quiera cruzar la puerta. Hace 3d6 de daño y si hace herida lanza al objetivo a 1d4 pasos en dirección contraria a la puerta que quería cruzar.
 
@@ -2684,9 +2735,11 @@ Por todo el templo hay inscripciones en la piedra que si alguien conoce Naacal p
 
 **6\. Celda 1:** La entrada está cegada por un derrumbamiento. Si quitan las piedras podrán entrar en otra celda como la habitación 7.
 
-**7\. Celda 2:** Esta habitación se usaba de celda para retener las cobayas humanas. En la zona de la entrada parece que había algún tipo puerta por el diseño del marco de la puerta. Si examinan las paredes podrán ver restos de cadenas y ganchos de metal usados para retener a los sujetos de experimentos más peligrosos.
+**7\. Celda 2:** Esta habitación se usaba de celda para retener las cobayas humanas. En la zona de la entrada parece que había algún tipo puerta por el diseño del marco de la puerta. Si examinan las paredes podrán ver restos de cadenas y ganchos de metal usados para retener a los sujetos de experimentos más peligrosos. Con una tirada de Ciencias verán que el metal está solo sucio, sin restos de oxidación. No parece nada hecho por seres humanos.
 
-Con una tirada de Ciencias verán que el metal está solo sucio, sin restos de oxidación. No parece nada hecho por seres humanos. Si lo llevan a un artesano podría montar dos juegos de grilletes para brazos u piernas casi irrompibles (consistencia 30) que permitiría retener a un ser de tamaño de -1 a 2. Es demasiado resistente al calor para intentar forjarlo y crear alguna otra cosa como una espada o una coraza.
+\sp
+
+Si lo llevan a un artesano podría montar dos juegos de grilletes para brazos u piernas casi irrompibles (consistencia 30) que permitiría retener a un ser de tamaño de -1 a 2. Es demasiado resistente al calor para intentar forjarlo y crear alguna otra cosa como una espada o una coraza.
 
 **8\. Sala de pruebas:** Aquí era donde se experimentaba con humanos. Se les sacaba de las celdas, se les ponía en unas camas con sujeciones y se les inyectaba diferentes productos para ver sus efectos. Hay restos de diferentes restos de recipientes.
 
@@ -2698,7 +2751,23 @@ Si se llevan los cables, el metal del interior, al igual que los grilletes de la
 
 #### Saliendo del templo
 
-Al salir del laboratorio les estarán esperando 4 madres de aguas degeneradas (grandes boas constrictor cornudas) que vigilan el templo. Las madres de agua son un experimento genético de la serpigente para crear guardianes de sus enclaves científicos. En su tiempo eran muy inteligentes, como humanos bastante cultos, pero estas 4 son descendientes de aquellas y durante generaciones y generaciones a lo largo de los milenios han recibido radiación para convertirse en las madres de aguas mutadas y degeneradas que están ahora mismo. Han perdido sus poderes y su Astucia ahora es tipo Animal. En compensación son más grandes y resistentes y aguantan 1 herida antes de caer incapacitadas.
+Al salir del laboratorio les estarán esperando 4 madres de aguas degeneradas (grandes boas constrictor cornudas) que vigilan el templo. Las madres de agua son un experimento genético de la serpigente para crear guardianes de sus enclaves científicos. 
+
+\sp
+
+\sinc
+
+![Templo perdido](./images/templo-perdido-jungla.webp)
+
+Templo perdido
+
+&nbsp;
+
+\conc
+
+En su tiempo eran muy inteligentes, como humanos bastante cultos, pero estas 4 son descendientes de aquellas y durante generaciones y generaciones a lo largo de los milenios han recibido radiación para convertirse en las madres de aguas mutadas y degeneradas que están ahora mismo. Han perdido sus poderes y su Astucia ahora es tipo Animal. En compensación son más grandes y resistentes y aguantan 1 herida antes de caer incapacitadas.
+
+\sp
 
 ##### Madres de aguas degeneradas
 
@@ -2719,9 +2788,13 @@ Pueden convertir este templo en una guarida en mitad de la jungla donde refugiar
 
 Debido a los problemas de radiación es un refugio para estancias cortas, si se prolongasen mucho en el tiempo (más de dos semanas seguidas) deberían tirar por envenenamiento por radiación una vez al día. Aun así, sería el perfecto piso franco donde esconder durante poco tiempo a alguien buscado.
 
-_**Semilla de partida:** Si montan su refugio en estas instalaciones perdidas, una aventura interesante sería tratar de defenderse de un grupo de serpigentes que quieren recuperarla. O puedes hacer que alguien de tu mesa contraiga alguna extraña enfermedad que había quedado en el laboratorio y tengan que buscar una cura._
+##### Agua irradiada
 
-**Agua irradiada:** Puede que a alguien se le ocurra llevarse el agua irradiada para algún bizarro plan de ataque. Transportar este material supone tirar Vigor una vez al día (Radiación de bajo nivel). Beberla obligará a hacer una tirada de Vigor con -4. Si se falla se adquirirá una enfermedad crónica por radiación. Si esta agua es vertida en un lago o en un pozo, contaminará toda la zona y la hará inviable para la vida. Beber el agua del pozo o lago exigirá una tirada de Vigor para no adquirir la enfermedad por radiación.
+Puede que a alguien se le ocurra llevarse el agua irradiada para algún bizarro plan de ataque. Transportar este material supone tirar Vigor una vez al día (Radiación de bajo nivel). Beberla obligará a hacer una tirada de Vigor con -4. Si se falla se adquirirá una enfermedad crónica por radiación. 
+
+\sp
+
+Si esta agua es vertida en un lago o en un pozo, contaminará toda la zona y la hará inviable para la vida. Beber el agua del pozo o lago exigirá una tirada de Vigor para no adquirir la enfermedad por radiación.
 
 Cabe recordar que puede funcionar perfectamente en seres de los Mitos, aunque no los mataría al momento. Sería posible dejar caer el agua contaminada sobre un Shoggoth y envenenarle con radiación. Seguramente en unos días morirá envenenado por radiación. Sacar unas cuantas toneladas métricas de agua y echárselas encima al gran Cthulhu no le mataría, pero podría debilitarlo un poco.
 
@@ -2729,17 +2802,7 @@ Los hechizos que permiten purificar agua podrían purificar unos toneles de agua
 
 Por último, recuerda que tu mesa son buenas personas y usar material radioactivo es algo que daña seriamente el medioambiente durante décadas o siglos. Sin olvidarnos de las enfermedades y extrañas mutaciones que producen en personas y animales.
 
-\sp
-
-\sinc
-
-![Templo perdido](./images/templo-perdido-jungla.webp)
-
-Templo perdido
-
-\conc
-
-\sp
+> _**Semilla de partida:** Si montan su refugio en estas instalaciones perdidas, una aventura interesante sería tratar de defenderse de un grupo de serpigentes que quieren recuperarla. O puedes hacer que alguien de tu mesa contraiga alguna extraña enfermedad que había quedado en el laboratorio y tengan que buscar una cura._
 
 ### Madre de aguas
 
@@ -2749,7 +2812,11 @@ Un niño ha desaparecido y el cacique local del pueblo culpa a una madre de agua
 
 Tu mesa llega a un poblado que parece bastante alborotado, hay una familia llorando y gritando y el resto del pueblo parece enfurecido. Por las conversaciones y los gritos pueden enterarse de que el niño de 5 años de la familia ha desaparecido durante la noche.
 
-Hay unas palabras que se repiten de boca en boca; madre de aguas. Con Conocimientos generales podrán saber que una madre de aguas es un críptido de la cultura popular antillana. Es una gran boa (o majá) con poderes mágicos que habita las zonas húmedas de la isla.
+Hay unas palabras que se repiten de boca en boca; madre de aguas. 
+
+\sp
+
+Con Conocimientos generales podrán saber que una madre de aguas es un críptido de la cultura popular antillana. Es una gran boa (o majá) con poderes mágicos que habita las zonas húmedas de la isla.
 
 Con una tirada de Mitos podrían saber que son una especie de experimento genético de la serpigente para crear guardianes para sus instalaciones. Pero parece ser que fue un proyecto que se abandonó.
 
@@ -2764,6 +2831,8 @@ Deberán internarse en los pantanos cercanos y empezar a buscar a la serpiente. 
 Si se les acaban las provisiones tendrán que volver al poblado a por más y continuar la búsqueda, tendrán como para 3 o 4 días. Puedes ponerles algún encuentro con algún animal salvaje, tipo jaguar que ataque a alguien mientras duermen o un ataque nocturno de noctivagos.
 
 Si consiguen un rastro o la serpiente cae en la trampa, podrán enfrentarse con la serpiente, pero esta tratará de escaparse a la mínima. No parece agresiva, solo trata de sobrevivir en el pantano. Seguramente si puede usará sus poderes de Ilusión para hacer copias suyas y despistar a sus atacantes. Si la dejan huir podrían ver dónde está su guarida, donde seguramente esté el niño desaparecido.
+
+\sp
 
 Si la derrotan tendrán que ver si la rematan o se la llevan. Si la matan, con llevar la cabeza, podrán cobrar la recompensa. Si la dejan viva tendrán que transportarla por el pantano. Además, quizás más tarde puedan entregarla a alguien que la estudie, ya que los cuernos y su tamaño no parecen normales.
 
@@ -2783,11 +2852,17 @@ Tu mesa deberá decidir ahora que hacer. Si la sueltan, no cobrarán la recompen
 
 Fabio Castelli es un diletante veneciano que se dedica a cazar críptidos de todo Europa y Norte de África y los vende a espectáculos circenses y paradas de monstruos.
 
+\sp
+
 Al oír la leyenda del yeho, un pitecántropo que vive en las selvas de las islas del Caribe, vio que era perfecto para su negocio. En el Caribe podría huir de sus acreedores y labrarse una nueva reputación en América.
 
-Fabio está contratando bateadores y exploradores para adentrarse en la selva a cazar al Yeho. Su principal problema es que debe cazarlo vivo y transportarlo de vuelta hasta Ponce. Si no fuera por eso, con alguien que conozca la zona se adentraría en la jungla y volvería con el pellejo de su presa. Pero su idea es montar un circo de monstruos como tenía en Italia y necesita un buen primer plato como el yeho y, claro, lo necesita vivo.
+Fabio está contratando bateadores y exploradores para adentrarse en la selva a cazar al Yeho. Su principal problema es que debe cazarlo vivo y transportarlo de vuelta hasta Ponce. 
 
-Puedes meterles en la aventura de varias maneras, desde que les contrate Fabio directamente a que Read les encargue estudiar los ataques que se han producido en los últimos meses por si tuvieran que ver la Orden y alguno de sus planes. Si alguien trabaja de periodista para la VLH sabe perfectamente que cubrir esta noticia podría suponer una primera plana.
+Si no fuera por eso, con alguien que conozca la zona se adentraría en la jungla y volvería con el pellejo de su presa. Pero su idea es montar un circo de monstruos como tenía en Italia y necesita un buen primer plato como el yeho y, claro, lo necesita vivo.
+
+Puedes meterles en la aventura de varias maneras, desde que les contrate Fabio directamente a que Read les encargue estudiar los ataques que se han producido en los últimos meses por si tuvieran que ver la Orden y alguno de sus planes. 
+
+Si alguien trabaja de periodista para la VLH sabe perfectamente que cubrir esta noticia podría suponer una primera plana.
 
 Fabio es realmente arrogante y desagradable y deberías hacer que lo odien a muerte, ya que dado el momento se tendrán que enfrentar a la decisión de arriesgar su vida y salvarle o dejarle abandonado a su suerte.
 
@@ -2795,9 +2870,13 @@ Fabio es realmente arrogante y desagradable y deberías hacer que lo odien a mue
 
 Fabio es un capullo integral como persona, pero tremendamente profesional. Primero estará unos días aprovisionándose y visitando las comunidades cercanas a Ponce y hablando con sus habitantes para saber como es el yeho y trazar una posible zona donde habite.
 
-Con una tirada de Supervivencia podrán establecer su hábitat actual y con Ciencias podrían suponer que unas veces es un carnívoro de un tamaño gigantesco, muy agresivo y con grandes garras que ha matado a bastante ganado y otras veces es grande, pero de menor tamaño, muy huidizo, omnívoro y dispuesto a esconderse a la mínima señal de peligro. Se diría que en realidad son dos animales distintos. En ambos casos parece ser que es nocturno y se oculta en cuevas de la luz solar.
+Con una tirada de Supervivencia podrán establecer su hábitat actual y con Ciencias podrían suponer que unas veces es un carnívoro de un tamaño gigantesco, muy agresivo y con grandes garras que ha matado a bastante ganado.
+
+Otras veces es grande, pero de menor tamaño, muy huidizo, omnívoro y dispuesto a esconderse a la mínima señal de peligro. Se diría que en realidad son dos animales distintos. En ambos casos parece ser que es nocturno y se oculta en cuevas de la luz solar.
 
 Una tirada de Mitos sabiendo todo o parte de lo anterior podría darle a entender a tu mesa que es gugo perdido que ha llegado a nuestro mundo de alguna manera desde la Tierra de los sueños.
+
+\sp
 
 Tras estas pesquisas, Fabio hará unos cálculos bien afortunados y se adentrará en el bosque para empezar la caza. Se dirige a una zona montañosa al norte de Ponce que tiene bastantes cuevas que podrían servirle de guarida.
 
@@ -2815,7 +2894,11 @@ Una tirada ciencias debería decirles que parecen dos especies distintas. Si se 
 
 Las huellas les llevarán a una cueva cercana en las colinas. De normal pondría cebo en un claro y esperaría desde un puesto de caza a cargárselo de un tiro entre ceja y ceja. El problema es que al ser nocturno no sale de día y lo quiere vivo, así que no puede usar su rifle de francotirador. Tendrá que montar una trampa.
 
-De su carromato, que había dejado en una senda cercana, saca un cepo para horrores (Ver Tabla de objetos de gran tamaño) y un juego de cadenas de tamaño gigantesco. Tendrá que poner carne con narcóticos sobre el cepo de los horrores para que caiga en la trampa. Desde una atalaya improvisada cercana vigilarán y si oyen ruidos se acercarán a ver que pasa.
+De su carromato, que había dejado en una senda cercana, saca un cepo para horrores (Ver Tabla de objetos de gran tamaño) y un juego de cadenas de tamaño gigantesco.
+
+\sp
+
+Tendrá que poner carne con narcóticos sobre el cepo de los horrores para que caiga en la trampa. Desde una atalaya improvisada cercana vigilarán y si oyen ruidos se acercarán a ver que pasa.
 
 #### Como un animal acorralado
 
@@ -2835,6 +2918,8 @@ Si incapacitan al gugo tendrán un gran problema, cómo se lo llevan. Las cadena
 
 Déjales que busquen una solución. Pueden buscar colonos o indígenas para que les ayuden, pueden hacer uso de su magia, pueden buscar un río y llevarlo al en una barcaza por su cauce, …
 
+\sp
+
 Si registran la cueva del gugo, podrán hacer la tirada de botín. También encontrarán, entre otros, restos de vacas y cerdos y los restos de una especie de primate gigante, seguramente de la especie de las segundas huellas.
 
 Fabio tiene suficientes narcóticos para tenerlo controlado durante el tiempo suficiente que dure el viaje. Así que el gugo no será problema, solo su tremendo peso y tamaño.
@@ -2850,6 +2935,8 @@ En un par de días tendrá todo el show montado. La noche de estreno la gente se
 El espectáculo es muy simple. En el centro de la pista hay algo de gran tamaño oculto por una cortina. Fabio narrará sus aventuras y cuando termine, con gran ceremonia, retirará la cortina y se verá una plataforma donde está atado y amordazado el gugo. Gran parte del público, caerá inconsciente, vomitará o saldrá corriendo al ver a la horrible bestia. De hecho, muchos de ellos la seguirán viendo en sus pesadillas durante años.
 
 Fabio retirará la mordaza y el gugo empezará a rugir, aullar y mirar con todo el odio del mundo a los humanos que le rodean, pero sobre todo a Fabio. Fabio le ofrecerá de comer una ternera y un cerdo y se las comerá en un par de mordiscos salpicando todo de sangre.
+
+\sp
 
 Nadie se está dando cuenta, pero los eslabones de las cadenas están cediendo a los tirones del gugo hasta que, por sorpresa, consigue liberar un brazo, luego el otro y por último las piernas.
 
@@ -2868,6 +2955,8 @@ Una vez estén fuera, solo se verán siluetas de los monstruos bajo los restos d
 La figura en pie se quitará de encima la carpa, mirará al público con furia y se volverá al bosque que rodea la zona. Allí le espera lo que parece una cría de yeho. El yeho buscaba acabar con el monstruo que acabo con su pareja y por fin se ha vengado.
 
 Si consiguen derribarlo al salir de la carpa, el yeho les gritará desde la vegetación circundante y les hará un gesto de agradecimiento. Luego desaparecerá con su cría.
+
+\sp
 
 #### A la mañana siguiente
 
@@ -2896,6 +2985,8 @@ Tras haber hechos pruebas con unos pobres desafortunados que secuestraron en la 
 
 Todo esto ha llevado a que se haya buscado a una persona inteligente (la víctima que hayas elegido), se le haya sacado el cerebro e insertado en un dispositivo submarino. Ahora mismo están trabajando para que el cerebro rebelde acepte órdenes.
 
+\sp
+
 Se ha intentado tratar que profundos aliados de la Orden hagan este trabajo, pero son bastante territoriales y duros de mollera, con lo que son reacios a salir de sus zonas, a trabajar con otros grupos de profundos y no son capaces seguir pistas viables.
 
 Este proyecto es la más prometedora forma que tiene la Orden de encontrar R’lyeh y si es saboteado sería un duro golpe a los planes de Hernando Villalba.
@@ -2917,6 +3008,9 @@ Tiene una autonomía de semanas con lo que podría seguir una pista submarina si
 Para investigar la desaparición puede hacer varias opciones.
 
 * **Preguntar a los vecinos:** Siempre hay alguien cotilla que se pasa el día mirando detrás de las cortinas. Igual vio a la persona desaparecida asaltada por unos encapuchados, o discutir con alguien.
+
+\sp
+
 * **Revisar sus cosas:** Mirando sus cosas como diarios o libretas de notas se pueden enterrar si notaba si le seguían, si habían hablado con alguien extraño últimamente, etc.
 * **Magia:** Como siempre, la magia lo hace todo más fácil. Hechizos de localización podrían indicar quien le secuestro o incluso, con una buena tirada, donde está encerrado la víctima del secuestro.
 
@@ -2931,6 +3025,8 @@ A simple vista el barco parece normal, pero con una tirada de Notar se ve que la
 Los yuggothianos no salen de la zona de carga, mientras que el resto la tripulación, 1 capitán, 2 suboficiales y 36 marinos, se mueve por la cubierta. Hacen turnos de 8 horas con lo que siempre hay un oficial y 12 marinos. Toda la tripulación forma parte de la Orden y la mitad de los marinos son híbridos de profundos. En caso de alarma en unos 6 turnos un tercio de tripulación estará preparada para combatir y en 1 minuto los que estaban dormidos.
 
 Por complicar la cosa, podrías hacer que un guardacostas de la RCPC pase cada cierto tiempo a comprobar que todo está bien para añadir presión a la situación.
+
+\sp
 
 #### Misión de infiltración
 
@@ -2950,6 +3046,8 @@ El problema principal que deberá afrontar ahora tu mesa es como devolver el cer
 
 Deberán negociar con al menos un científico yuggothiano para que regrese el cerebro al cuerpo. Las amenazas de muerte son la mejor forma conseguir su colaboración, pero será difícil hacerlo si no descubren alguna forma de comunicarse con el científico yuggothiano.
 
+\sp
+
 Sin su colaboración será algo completamente imposible. La operación exige otra hora. Tras la cual el operado casi no podrá moverse. Tendrán que cargar con él para sacarlo del barco.
 
 Presenciar la operación, única forma de comprobar que el médico no hace nada raro, supone una tirada de TPC de d6.
@@ -2964,9 +3062,11 @@ Si se van sin más, nada impedirá que secuestren a otra persona y sigan con sus
 * Destruir el ingenio submarino y destruir toda la documentación podría valer para frenar el proyecto.
 * Podrían hundir el barco con todos los avances y toda la tecnología. Los meses de trabajo y el coste de las instalaciones harían que se desestimará el proyecto, pero seguramente también acabaría con los yuggothianos trayendo la enemistad de su raza.
 
-#### Post-operatorio
+#### Postoperatorio
 
 Media semana más tarde, el operado del cerebro volverá a la normalidad. Podrá mover sin problemas su cuerpo, sus funciones cognitivas estarán a pleno rendimiento y dejará de tener las pesadillas con seres acuáticos. Para bien o para mal, solo recordará hasta que fue bajado a la bodega de carga del barco laboratorio.
+
+\sp
 
 ### Camarada, ¿dónde está mi pata de palo?
 
@@ -2982,7 +3082,10 @@ Si quiere recuperar el objeto deberá buscar al anterior dueño de la pata de ma
 
 1.  Cada viaje hay un 5% de que la figura este en esa ubicación.
 2.  Cuando hagan una tirada de notar en esa ubicación muy buena y que no sirva para nada detectarán a la figura borrosa. Volverá el flashback y esta vez verán a la figura borrosa perfectamente. Puede o no faltarle una pierna, igual solo lo tenía como un artículo de fantasía o lo ganó en una partida de cartas.
-3.  Unas de las personas que esté en la escena es esa figura borrosa. Puede ser alguien que esté tomando algo en la taberna mientras negocian un trabajo, alguien que trabaja en el puerto cuando atracan, alguien consultando un libro en una biblioteca mientras buscan antiguos tomos de saber arcano o alguien de la Orden en uno de sus lugares de adoración. Incluso puede ser uno de los secuaces del villano de turno que aparece de repente para acabar con tu mesa.
+3.  Unas de las personas que esté en la escena es esa figura borrosa. Puede ser alguien que esté tomando algo en la taberna mientras negocian un trabajo, alguien que trabaja en el puerto cuando atracan, alguien consultando un libro en una biblioteca mientras buscan antiguos tomos de saber arcano o alguien de la Orden en uno de sus lugares de adoración./br/Incluso puede ser uno de los secuaces del villano de turno que aparece de repente para acabar con tu mesa.
+
+\sp
+
 4.  Deberá negociar un nuevo trato si quiere recuperar su objeto, incluso igual tiene que evitar que lo maten si están en medio de un combate. Rolea el trato, no dejes que esta parte sean simples tiradas. Haz que se lo jueguen a unos dardos o unos naipes, o que mientras pelean a espada lleguen a un trato, o que hagan un nuevo intercambio.
 
 También puedes hacer que quien quieras sea la figura. Puede ser cualquier personaje de esta ambientación. Sería divertido que entrarán en la casa de Hernando Villalba y encontraran su objeto perdido y le dejarán la pata de palo en su lugar.
@@ -3001,6 +3104,8 @@ Si son apresados en algún momento por la RCPC o cultistas de la Orden, serán l
 
 Si en algún momento tu mesa es derrotada por agentes de la Orden, acabará en el Morro, en alguna de las celdas que tienen en el sótano de la fortaleza. Para empezar, como mínimo, tendrán dos heridas. Habrán sanado una, pero el resto no, a no ser que se rindiera antes de caer incapacitado.
 
+\sp
+
 Se encontrarán cada uno en una celda de 5x4 metros con una puerta de madera reforzada con hierro. La puerta tiene un ventanuco para vigilar a la altura de los ojos y otro a mitad en el suelo para pasar la bandeja de comida. Solo tendrán consigo unos pantalones, una camisa y una manta gorda.
 
 En el sótano hay 6 celdas, dos de ellas ya ocupadas por alguien desconocido, que ha perdido toda su cordura y no hace más que gemir y a veces gritar como un poseso. Es imposible comunicarse con ellos, pero si los liberan podrían servir de distracción porque saldrán corriendo y montando mucho escándalo. En caso de no haber espacio libre, meterán a quienes vean más enclenques en la misma celda.
@@ -3014,6 +3119,8 @@ Cada sesión de interrogatorio/tortura exigirá una tirada de Espíritu para no 
 El día que tengan planeado fugarse, haz una tirada de clima, ya que puede afectar a la fuga o incluso cancelarla. Una tormenta puede ayudar a escapar porque reduce la visibilidad de los guardas, pero hace mucho más difícil lanzarse al mar y nadar hacia la libertad.
 
 Su plan de fuga tiene que salvar 3 escollos, salir de la celda, salir del sótano y alcanzar los muros y atravesarlos.
+
+\sp
 
 #### Las celdas
 
@@ -3035,6 +3142,8 @@ Alguien con Reparar podría montar un artefacto explosivo para reventar la tramp
 
 Al salir del edificio, pueden intentar correr hacia los muros o ir en sigilo. No hay método mejor o peor. El sigilo mejor de noche y si no ha sonado la alarma y correr de día o si les han descubierto. Si van a esconderse, una ronda de 3 tiradas enfrentadas de Sigilo contra Notar. Recuerda dar bonus, por ejemplo, si es de noche o han robado uniformes militares.
 
+\sp
+
 Si van a correr, deberán correr durante 3 rondas. El primer turno no les dispararán desde las murallas, pero el resto de turnos recibirán un disparo cada uno o dos si fallan la tirada de Atletismo. Si ya estaban preparados de antes por alguna alarma, les dispararán desde el primer turno. Si se cubren o se esconden no se considera que corran ese turno y deberán hacerlo en los siguientes.
 
 Si van por sigilo y les descubren podrán, ponerse a correr y solo tendrán que correr las rondas que les falten de Sigilo. Si salen corriendo ya no quedará otra que seguir corriendo.
@@ -3048,5 +3157,7 @@ La salida por el muro terrestre exigirá o salir por la puerta principal o bajar
 El muro es difícil de escalar, sobre todo sin equipo adecuado. Está hecho de grandes bloques de piedra pulida y hay pocos asideros. Si consiguen 20 metros de cuerda podrán bajar sin problemas, pero si no tendrán un -2 a Atletismo. Tendrán que pasar 4 tiradas de Atletismo para llegar al suelo sin daño. Si fallan dos tiradas de Atletismo seguidas caerán. Calcula en daño en función de los éxitos, teniendo en cuenta que el muro mide 20 metros de alto.
 
 Salir por la puerta exigirá algún tipo de engaño o amenaza. La gente que controla la puerta está en habitáculo cerrado por dentro y solo suben la gran puerta si reciben la orden de su oficial. Esta gente a no ser que sea cambio de turno o vean peligrar su vida, por ejemplo, por un incendio no sale de su cubículo.
+
+\sp
 
 Una vez fuera, si sus carceleros están alertados, será fácil perderlos en la jungla y la marisma que rodean al Morro. Tu mesa deberá pasar un día andando para bordear la bahía de La Habana y llegar a la ciudad. También podrán robar una barca de las que usan para traer material del otro lado de la bahía, pero entonces podrán perseguirlos por el agua con otra barca y dispararles.

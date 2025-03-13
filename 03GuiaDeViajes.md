@@ -576,7 +576,7 @@ La realidad es mucho más simple, pero bastante terrible, las desapariciones son
 
 Los oficiales de San Juan buscan siempre a soldados huérfanos y sin amigos para mandarlos solos a los fuertes de vigilancia en días de temporal para que sean secuestrados. De esa forma, luego pueden justificar su desaparición más fácilmente. La Orden conoce esta práctica y la permite, ya que ayuda a cumplir los pactos con los profundos.
 
-_**Semilla de partida:** Podría aparecer una familiar o una pareja buscando respuestas a dónde está su ser querido desaparecido._
+> _**Semilla de partida:** Podría aparecer una familiar o una pareja buscando respuestas a dónde está su ser querido desaparecido._
 
 ### Ponce
 

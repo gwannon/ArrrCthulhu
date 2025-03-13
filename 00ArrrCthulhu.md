@@ -10,11 +10,11 @@
 
 ***
 
-|04HistoriasSalvajes.md|
+-04HistoriasSalvajes.md|
 
 ***
 
--05MonstruosDelosMitos.md|
+|05MonstruosDelosMitos.md|
 
 ***
 

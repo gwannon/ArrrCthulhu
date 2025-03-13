@@ -89,3 +89,11 @@
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QRápido\nCapacidades especiales:\\E$"}
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nHechizos:\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEmpieza a farfullar los nombres de los PJ cada vez más alto, hasta que alguno responda.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QEntre gritos y cuchicheos (cuando se da cuenta de que habla alto), os pide que provoquéis un incendio en «El Susurros» que lo destruya definitivamente.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\Q«El Susurros» lleva atracado en el puerto desde hace más de 30 años.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QLos locales lo llaman «El Susurros» por los ruidos parecidos a susurros que se supone hacen los viejos tableros de madera al moverse con las olas.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\Q«El Susurros» es un barco abandonado en el puerto de la Habana del que el jefe de puerto quiere deshacerse a toda costa, incluso mediante métodos ilegales.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QEl Susurros\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QAdentrándose en El Susurros\\E$"}
+{"rule":"ES_SPLIT_WORDS","sentence":"^\\QSi son apresados en algún momento por la RCPC o cultistas de la Orden, serán llevados en secreto al Morro en La Habana, donde serán interrogados y torturados y finalmente ejecutados.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QMula\nSerpiente constrictora/venenosa\nTiburón: escualo o tiburón blanco.\\E$"}

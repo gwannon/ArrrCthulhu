@@ -41,7 +41,7 @@ La Orden tiene su corazón y si les desafía o les desobedece morirá de la form
 * **Habilidades:** Atletismo d10, Disparar d10, Humanidades d4, Idioma criollo d8, Idioma nativo d8, Intimidar d12, Latrocinio d6, Mitos de Cthulhu d8, Notar d10, Pelear d10, Persuadir d6, Reparar d6, Sigilo d6, Supervivencia d8, Tácticas d8
 * **Paso:** 6; **Parada:** 8(1); **Dureza:** 9(1)
 * **Desventajas:** Buscado (Mayor, por piratería), Juramente (Mayor, servir a la Orden durante 10 años)
-* **Ventajas:** Amenazador, Berserk, Bloqueo, Manos Firmes, Nuevos poderes, Rápido, Reflejos de Combate, Trasfondo Arcano (Hechicería primigenia)
+* **Ventajas:** Amenazador, Berserker, Bloqueo, Manos Firmes, Nuevos poderes, Rápido, Reflejos de Combate, Trasfondo Arcano (Hechicería primigenia)
 * **Capacidades especiales:**
     * **Sin corazón:** Al son de cantos de «kalima, kalima, …», el propio Villalba extrajo el corazón de Teach y con él su alma. Mientras Villalba tenga su corazón, Teach está obligado a obedecerle o podría matarle simplemente estrujando su corazón con sus manos. Como ventajas, Edward tiene Resistencia Arcana Mejorada y los hechizos de Marioneta y Manipulación de recuerdos fallan siempre. Si se lanza hechizos de detección mágica se verá un gran agujero negro donde debería estar su corazón. Una tirada de Mitos permitirá saber que le han quitado el corazón y los detalles de esta maldición.
     * **Hechizos:** 8 PP, Canto de Babalú Ayé, Vibración dimensional
