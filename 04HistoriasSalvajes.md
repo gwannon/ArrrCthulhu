@@ -170,6 +170,8 @@ De todas las banderas que podrían encontrarse debían avistar una enseña negra
 
 En mitad de su viaje al puerto del Caribe que deseen, el vigía ve un barco de velas negras con una enseña negra y grita: ¡¡¡Piratas!!!
 
+\sp
+
 El resto de la tripulación corre a la borda a ver el barco. Con una tirada de Notar, con positivos si tienen catalejos, podrán ver qué el barco es más grande y mejor armado que el suyo. Con avances puedes darles más detalles como tripulación estimada o cañones. Una tirada de Navegar les dirá que la única solución es huir.
 
 Empezará una persecución con dos cartas de ventaja para el barco de tu mesa. Durante esta fase no podrán atacarse con la artillería porque están fuera de rango. Si les alcanzan, antes de hacer zoom y hacer la persecución con combate naval, podrán ver que el barco es El Sabueso, un barco menor de la flotilla de Barbanegra. Su bandera es una cabeza de perro mordiendo un gran fémur.
@@ -189,6 +191,8 @@ Si alguien te dice que has metido tu propio personaje en la historia, léele est
 ### Haciéndose un nombre
 
 **Comienzo:** El puerto del Caribe que quieran
+
+\sp
 
 Mary Read les dejará unas semanas libres para que se hagan con su barco, empiecen a establecer relaciones con las peculiares gentes del Caribe y, quizás, enfrentarse de nuevo con los Mitos.
 
@@ -210,6 +214,8 @@ Read les hace llegar un encargo, necesita suministros de papel y tinta para la V
 
 Al llegar a su barco, uno de los marineros les pasará un sobre lacrado. Es de Mary Read. Les da un nombre de barco, una fecha estimada de llegada a su puerto y una ruta. El barco lleva los suministros que necesitan para la VLH. Puede intentar interceptarlo o robar la carga mientras los suministros están en el puerto de San Juan. Luego deberán entregarlo en una cala cercana a La Habana.
 
+\sp
+
 ##### Asalto en alta mar
 
 Pueden intentar perseguir el barco en alta mar y cuando estén cerca, abordarlo y robarles su carga de 10 toneles de tinta y 10 de papel. Su objetivo es una goleta (nave rápida con 2+2 cañones y 24 toneles de capacidad de carga) llamada Bastión del Rey que hace la ruta de San Juan de Puerto Rico a Matanzas en Cuba.
@@ -226,7 +232,11 @@ Contando con que no sean ya piratas, si dejan supervivientes, serán declarados 
 
 Si tu mesa elige esta opción, vamos a tener una misión de infiltración. Tendrán que conseguir un carro, meterse en un almacén del puerto de San Juan y llevarse un mínimo de 10 barriles (en el almacén hay 10 barriles de papel y 10 tinta), lo que no será fácil.
 
-El almacén es un edificio de madera de unos 6 metros de alto y de unos 60x60 metros. Tiene una entrada pequeña que da a la calle y otra mucho más grande (3 m de alto y 2 de ancho) para mercancías que da al agua. El interior está lleno de carga apilada una encima de otra, formando pasillos estrechos y rincones donde esconderse. Al lado de la entrada grande hay un despacho donde se registra la entrada y salida de carga.
+El almacén es un edificio de madera de unos 6 metros de alto y de unos 60x60 metros. Tiene una entrada pequeña que da a la calle y otra mucho más grande (3 m de alto y 2 de ancho) para mercancías que da al agua.
+
+\sp
+
+El interior está lleno de carga apilada una encima de otra, formando pasillos estrechos y rincones donde esconderse. Al lado de la entrada grande hay un despacho donde se registra la entrada y salida de carga.
 
 Tiene unos 12 estibadores/guardas (usar ficha Mercader) que trabajan en turnos de 8 horas, 4 guardas por turno. Por el día hay burócratas (usar fichas Burócrata) gestionando la entrada y salida de carga.
 
@@ -243,6 +253,8 @@ En ambas situaciones, si algo falla, puede ser divertido una carrera por las cal
 Read tiene otro trabajo, un grupo de piratas tiene un campamento de rehenes en una isla deshabitada de Las Bahamas. Deberán acabar con los piratas y liberar a los rehenes. Read sabe que todos esos rehenes tienen dinero y contactos y que te deban favores es muy útil.
 
 Como la anterior vez, Read les hará llevar un nuevo trabajo cuando lleguen a algún puerto. En un islote mediano en el extremo sur de las Bahamas, unos piratas han montado un campamento de rehenes. Son personas de cierta alcurnia que iban en barcos abordados por estos piratas y que dejan en campamentos en islas aisladas y fuera de las rutas de navegación mientras piden un rescate a su familia.
+
+\sp
 
 No es la primera vez que la Hermandad rescata a rehenes, ya que la gente de cierto poder que les debe favores les es bastante útil a veces.
 
@@ -266,6 +278,8 @@ Si siguen adelante, llegarán a una cueva en una curiosa formación rocosa de ba
 
 La cueva no tiene casi luz y baja rápidamente por un pasillo escalonado que no parece natural hasta una gran estancia rectangular. Ahora si ya necesitarán luz para entrar, ya que no se ve nada.
 
+\sp
+
 En la esquina contraría de la entrada está gritando el rehén que faltaba. Está atrapado en una maraña de tentáculos que pertenece a un pólipo volante. El pólipo lleva eones en esa cueva de basalto y se le ha fosilizado la piel exterior. Debido a eso no se puede hacer invisible, pero tiene un punto extra de armadura. Tampoco puede volar, pero sí controlar los vientos.
 
 Es muy difícil intentar liberar al rehén, ya que cuando cortan un tentáculo otro ocupa su sitio. Pero si le hacen dos heridas, soltará a su víctima y dejará de atacar esperando que sus enemigos recojan a su compañero y se vayan. Si le siguen atacando combatirá hasta el final, sabiendo que caerá, pero que se llevará a alguien con él. Por eso, se centrará en un atacante al azar y le golpeará con todo.
@@ -288,6 +302,8 @@ Mary Read tiene un último trabajo. Deben patrullar El Jardín de la Reina, un a
 
 Cómo siempre alguien les entregará un sobre con un mensaje de Read. Necesita que alguien vigile las actividades de la RCPC en los Jardines de la Reina, un archipiélago de islotes en la costa sur de Cuba.
 
+\sp
+
 Han detectado que cada cierto tiempo, pero sin ser algo fijo, una goleta de la RCPC se mete en los jardines, se pierde entre sus islas y vuelve a salir, por otro lado, con menos carga por lo que indica su línea de flotación. Lo que lleva y lo que hace con la carga es todo un misterio.
 
 La goleta nunca hace la misma ruta, ya que cada vez cada vez viene desde un destino diferente. Eso hace que Read no haya podido tenderle una emboscada. Seguirla dentro de los jardines es casi imposible por los frecuentes bancos de arenas de la zona. Por donde ella pasa sin problemas, una nave más grande se encalla.
@@ -305,6 +321,8 @@ Hay de todo, desde noctivagos sin membranas aladas, gugos a los que han cortado 
 Hazte tus propias combinaciones. El TPC de estos seres de los Mitos será el TPC del monstruo principal con un nivel más por cada trozo de otro ente. Un gul con agallas de profundo y tentáculos de yithianos tendría un TPC de d8 en vez del d4 normal.
 
 Tendrán que bajar a la isla en barca porque la playa no tiene calado para su barco. Si luego tienen que huir, puede ser divertido verles empujar la barca mientras esquivan zarpazos de monstruos.
+
+\sp
 
 Al bajar a la playa podrán ver enseguida las huellas de los bichos que la habitan y si se internan en la jungla pronto tendrán un encuentro con algún monstruo. Cómo hemos dicho antes, sé creativo y saca lo que quieras. Lo importante es que vean (con unas tiradas de Ciencias o Medicina) que los bichos tienen extremidades amputadas o injertadas, puntos de sutura mugrientos y malolientes, grapas quirúrgicas infectadas y cicatrices de extirpaciones de órganos y trepanaciones.
 
@@ -325,6 +343,8 @@ A diferencia de otras veces, en esta ocasión la propia Read se presentará ante
 Acto seguido les dará una localización cercana, una cala desierta lejos de ojos indiscretos.
 
 En la cala Read les esperará sola junto a una gran fogata. Lleva una botella de ron polvorienta al que ya ha dado un par de sorbos. Tu mesa ya sabe que ella lucha contra la RCPC y que pertenece a una sociedad pirata que la combate. Esta vez les explicará más cosas de la Hermandad y les preguntará si quieren unirse. Los que acepten deberán hacer el siguiente juramento:
+
+\sp
 
 > _Juro por el viento que hincha mis velas y la libertad que guía mi timón que serviré a la hermandad del sargazo en su lucha contra el gran mal que se esconde en los más oscuros rincones del Caribe. ¡Y si no lo cumplo que el ron me sepa agrio, que los moluscos se coman el casco de mi barco y que mi pólvora siempre esté mojada!_
 
@@ -348,6 +368,8 @@ Encontrar el punto donde bajo Villalba puede ser complicado. Tendrán que compra
 
 Esto puede llevarles unos cuantos días y puedes meterles algún encuentro con tiburones toro. Cuando lo creas oportuno encontrarán un grupo de estructuras de piedra negra con formas perfectamente regulares, son cubos, pirámides y conos conectados entre sí con pasarelas y pasillos cubiertos.
 
+\sp
+
 ##### Explorando las estructuras
 
 Las estructuras están perfectas, no hay daños ni derrumbamientos, ni algas o corales pegados, ni peces nadando, etc. parece que no hubiera pasado el tiempo por sus paredes. Los edificios están completamente vacíos, pulcramente vacíos.
@@ -370,7 +392,11 @@ Con esta información pueden volver a la superficie y entrar en contacto con Rea
 
 Villalba se llevó una sección de bajorrelieves del interior de las pirámides. Intentar entrar en la mansión Villalba a este nivel puede ser un suicidio. Pero Mary Read cree que la librera Isadora puede ayudarles a encontrar una solución.
 
-El principal problema que tiene tu mesa ahora mismo es que no saben qué había en los grabados que se llevó Villalba. Los hechizos normales de lectura de objetos no funcionan porque no pueden tocar la sección que ha sido quitada. A priori, la única solución es infiltrarse en la casa de Villalba y hacer una copia de los grabados. Déjales que empiecen a planificarlo todo, compren equipo, busquen fallos en la seguridad.
+\sp
+
+El principal problema que tiene tu mesa ahora mismo es que no saben qué había en los grabados que se llevó Villalba. Los hechizos normales de lectura de objetos no funcionan porque no pueden tocar la sección que ha sido quitada.
+
+A priori, la única solución es infiltrarse en la casa de Villalba y hacer una copia de los grabados. Déjales que empiecen a planificarlo todo, compren equipo, busquen fallos en la seguridad.
 
 Pasadas unos días en La Habana, Read les hará llegar una nota. Puede que Isadora, la propietaria de la Librería Guía, tenga una solución a su problema. Si la conocen podrán hablar con ella directamente y si no la conocen deberán presentarse como enviados de Read, mostrando su misiva.
 
@@ -387,6 +413,8 @@ Si no conoce a Isadora este es un buen momento para conocerla, saber de sus vast
 **Comienzo:** La Habana
 
 La receta de la droga plutónica solo puede conseguirse de un tomo incompleto del Necronomicón que va a subastarse al día siguiente. Tocará intentar comprarlo o robarlo.
+
+\sp
 
 La subasta está atrayendo mucha atención. No por el libro, sino porque que se subastan varias piezas de joyería pertenecientes a monarquías y casas nobles europeas. Hay mucha gente que está dispuesta a gastar fortunas para poder lucir esas piezas.
 
@@ -408,7 +436,11 @@ La subasta empezará a las 5 hasta acabar sobre las 10, que ya será de noche. L
 
 Antes de empezar la subasta, si se quiere el equipo de las subastas puede mostrar algún objeto a quien lo desee. Si se interesan por el libro, se lo enseñarán y podrán comprobar que están unas señas que les dio Isadora para ver que no era falso y efectivamente no es falso.
 
-Granados no parece muy interesado en las joyas. Durante la subasta casi no puja y cuando lo hace parece más por diversión que por interés. Cuando anuncian el libro, mucha gente se levanta al baño, pero Granados se queda sentado agarrando muy fuerte su paleta de pujas.
+Granados no parece muy interesado en las joyas. Durante la subasta casi no puja y cuando lo hace parece más por diversión que por interés.
+
+\sp
+
+Cuando anuncian el libro, mucha gente se levanta al baño, pero Granados se queda sentado agarrando muy fuerte su paleta de pujas.
 
 La puja empieza por 400 y Granados subirá en 100 doblones cualquier otra puja. No le importa el precio, sabe el poder del libro y lo quiere. Dispone de letras de cambio por valor de 25.000 doblones y no dudará en llegar hasta su límite.
 
@@ -430,6 +462,8 @@ La ciudad bulle de emoción; las tiendas están llenas de servidumbre comprando 
 
 La fiesta de disfraces es perfecta para robar el libro. Con un disfraz y una invitación podrá entrar cualquiera sin que nadie sepa quiénes son, habrá bastante descontrol y jaleo en la mansión del gobernador y podrán meter todo tipo de objetos raros que pudieran necesitar.
 
+\sp
+
 #### Las 3 pruebas
 
 Pero lo primero de todo es conseguir un transporte adecuado para ir a la fiesta, un buen disfraz y una invitación y tienen menos de 24 horas para conseguirlo.
@@ -450,6 +484,8 @@ Al entrar verán la seguridad. Hay por lo menos unos 30 infantes de marina fuera
 
 Para darle color a la fiesta en el jardín hay una instalación de fuegos artificiales para el final de fiesta. Con una tirada de Reparar podrían encenderlos y durante 20 turnos tendrán una distracción visual y sonora.
 
+\sp
+
 Cuando dejen su carroza y entreguen sus entradas podrán entrar a la fiesta. Dales un beni si se les ocurre dejar a un PJ o un aliado de cochero con el carro en vez del personal de servicio. Todo robo necesita un conductor atento a todo que ponga la carroza en la entrada para salir pitando.
 
 La fiesta es todo lo ostentosa que te puedas imaginar. Granados ha sacado su mejor vajilla, bandejas y candelabros de planta, servilletas de la mayor calidad y un par de chefs de alto renombre están preparando el refrigerio. Música en directo por parte de un cuarteto de cuerda y la servidumbre arriba y abajo con bandejas de canapés.
@@ -465,6 +501,8 @@ En el piso superior tiene 10 habitaciones entre dormitorios, despachos y baños.
 Según vayan abriendo puertas descríbeles alguna escena divertida y sin sentido, por ejemplo, una persona disfrazada de domador haciendo trucos con un león de peluche y otras dos personas aplaudiendo. Cuando quieras, la puerta que abran, será la del estudio
 
 Al entrar en el estudio se encontrarán a dos personas disfrazadas de cuerpo entero de oso y de león practicando sexo. El oso les señalará y el león saludará y hará un gesto invitando al que tenga el disfraz más ridículo.
+
+\sp
 
 En ese momento hay varias opciones: echarlos y que seguramente avisen a los guardias, rechazar la invitación y empezar a buscar mientras la pareja sigue a lo suyo y, por último, aceptar la invitación y que el resto siga su búsqueda si es que no van solos.
 
@@ -488,7 +526,11 @@ La forma más rápida de escapar es coger la carroza y salir pitando de la mansi
 
 Imagínate la situación, tu mesa con sus coloridos trajes de disfraces bajando a toda velocidad en una elegante carroza hacia el puerto entre las estrechas callejuelas de San Juan, mientras intercambian disparos con guardias a caballo.
 
-Mientras los guardas buscan sus caballos, pasará el tiempo suficiente para que haya dos cartas entre perseguidores y perseguidos. Si se les ocurre disparar a los fuegos artificiales (disparo apuntado de -4 a las mechas) estos prenderán y la luz y el ruido asustarán a los caballos de sus perseguidores y obtendrán una tercera carta de separación. Deberán deshacerse de sus perseguidores antes de llegar a su barco o sabrán quienes son los ladrones del manuscrito. Si se separan, los guardas seguirán al grupo más grande.
+Mientras los guardas buscan sus caballos, pasará el tiempo suficiente para que haya dos cartas entre perseguidores y perseguidos.
+
+\sp
+
+Si se les ocurre disparar a los fuegos artificiales (disparo apuntado de -4 a las mechas) estos prenderán y la luz y el ruido asustarán a los caballos de sus perseguidores y obtendrán una tercera carta de separación. Deberán deshacerse de sus perseguidores antes de llegar a su barco o sabrán quienes son los ladrones del manuscrito. Si se separan, los guardas seguirán al grupo más grande.
 
 ##### El Necronomicón
 
@@ -513,7 +555,13 @@ Ahora que tienen el libro y se lo han estudiado, ya saben cómo destilar y utili
 
 Deberán volver a las ruinas submarinas de los Antiguos para ver si averiguan que había en los grabados. Pueden usar el mismo método de inmersión que usaron la anterior inmersión, ya que las condiciones no han cambiado. Al bajar a las ruinas y deberán buscar el bajorrelieve que arrancó Villalba y tomarse la droga plutónica. La mente de la persona que tome la pócima viajará miles de años en el pasado hasta el momento en que se creó el bajorrelieve.
 
-Verá a un Antiguo (TPC: d6) haciendo las inscripciones en la pared del templo. Los Antiguos tienen la apariencia de un barril de planta pentagonal con un ala en cada lado. Tanto arriba como abajo poseen apéndices en forma de estrella, con cinco puntas. El superior presenta una boca y un ojo en cada extremidad, y un par de pseudópodos. La inferior posee las cinco extremidades con un gran gancho al final que usan para moverse. En la mitad del barril, que es su torso, se extienden tres extremidades que se ramifican en varias más, que usan como brazos y manos.
+Verá a un Antiguo (TPC: d6) haciendo las inscripciones en la pared del templo. 
+
+\sp
+
+Los Antiguos tienen la apariencia de un barril de planta pentagonal con un ala en cada lado.
+
+Tanto arriba como abajo poseen apéndices en forma de estrella, con cinco puntas. El superior presenta una boca y un ojo en cada extremidad, y un par de pseudópodos. La inferior posee las cinco extremidades con un gran gancho al final que usan para moverse. En la mitad del barril, que es su torso, se extienden tres extremidades que se ramifican en varias más, que usan como brazos y manos.
 
 La persona que lanzo el hechizo de la droga tendrá que dictar al resto de la mesa todos los símbolos que vea mientras está con las visiones del pasado. Si pasa una tirada de Astucia, dará una descripción exacta de todos los símbolos. Si saca dos avances será tan buena que dará u+1 a todos los intentos de estudiar los símbolos (ver más adelante). Un fallo obligará a intentarlo de nuevo.
 
@@ -527,7 +575,11 @@ El problema de la droga plutónica es que, si viajamos demasiado atrás en el ti
 
 Ya saben lo que había en los relieves que robo Villalba. Ahora tendrán que descifrarlos. Deberán consultar a sus aliados, ya que cada uno podría tener una pista sobre lo que significan los símbolos grabados en piedra.
 
-Tu mesa tendrá que trabajar en los jeroglíficos y tratar de descifrarlos. El sistema es muy sencillo, deberán acumular 10 avances en tiradas de Mitos. Cada persona que participe en la investigación podrá hacer una sola tirada y acumular avances (con un máximo de 3 por persona). Puede que si se justifica, alguien pueda usar Humanidades o Ciencias, pero debería ser algo especial como que sea lingüista para traducir algún texto o sepa de geología para dar con una ubicación.
+\sp
+
+Tu mesa tendrá que trabajar en los jeroglíficos y tratar de descifrarlos. El sistema es muy sencillo, deberán acumular 10 avances en tiradas de Mitos. 
+
+Cada persona que participe en la investigación podrá hacer una sola tirada y acumular avances (con un máximo de 3 por persona). Puede que si se justifica, alguien pueda usar Humanidades o Ciencias, pero debería ser algo especial como que sea lingüista para traducir algún texto o sepa de geología para dar con una ubicación.
 
 Para darle más emoción no le digas el objetivo de avances, pero dales pistas como «estáis muy lejos», «habéis avanzado mucho», etc.
 
@@ -548,6 +600,9 @@ Puede que tu mesa tenga un ingenio submarino como campanas de buceo y experienci
 Tendrán que buscar alguna forma de poder bajar y subir a tales profundidades y también poder ver en esas profundidades. Veamos algunas opciones.
 
 * La magia puede ser la solución. Los hechizos de Hidromiel espacial o Adaptación permitirían bajar a esas profundidades el hechizo de Luz de día podrían solucionar ese problema. Hidromancia podría crear una burbuja gigante para bajar dentro de ella. Isadora podría conseguirle el libro adecuado con los hechizos que necesitan.
+
+\sp
+
 * Si una tribu de profundos les debe un favor (Caracola de los profundos) igual pueden cobrárselo para que los bajen a esas profundidades.
 * Algún científico loco podría diseñarles algún engendro mecánico.
 
@@ -571,7 +626,11 @@ R’lyeh está rodeado de una especie de esfera de entropía que la oculta, que 
 
 R’lyeh está rodeado por una jungla que no ha cambiado ni un ápice en miles de años. La jungla está llena de árboles inmensos y arbustos llenos de espinas como navajas que hacen muy difícil avanzar. La flora no es reconocible, parecen versiones primigenias de plantas actuales, pero a la vez son totalmente distintas.
 
-En cuanto a la fauna, está repleta de seres de antes del tiempo, como caimanes bípedos del tamaño de elefantes o iguanas, con cuerpos acorazados y colas pinchudas más grandes que un hipopótamo. Si estuvieron en el almacén de George Jansen puede que reconozcan algún esqueleto. Muéstrales espectaculares escenas de luchas entre estos seres y haz que corran por sus vidas delante de alguno de estos seres.
+\sp
+
+En cuanto a la fauna, está repleta de seres de antes del tiempo, como caimanes bípedos del tamaño de elefantes o iguanas, con cuerpos acorazados y colas pinchudas más grandes que un hipopótamo. 
+
+Si estuvieron en el almacén de George Jansen puede que reconozcan algún esqueleto. Muéstrales espectaculares escenas de luchas entre estos seres y haz que corran por sus vidas delante de alguno de estos seres.
 
 Usa las estadísticas de los dinosaurios en la sección de Dinosaurios de «Monstruos de los Mitos y otros enemigos» y déjales muy claro que no tienen ninguna posibilidad de derrotarlos. Si lo consiguen, seguramente, uno más grande ocupará su lugar. Estos fósiles vivientes no abandonan nunca la jungla y si consiguen atravesarla hasta llegar a la ciudad estarán a salvo de ellos.
 
@@ -593,6 +652,12 @@ Mientras exploran las grandes avenidas y las extrañas plazas de R’lyeh, puede
 
 ##### Tabla de Geometría no-euclidiana
 
+Todos estos sucesos extraños tienen un TPC d4, no quiebran tu mente mucho, pero se suele decir, muchos pocos hacen un mucho.
+
+\sp
+
+\sinc
+
 |d6|Suceso extraño|
 |---|---|
 |1|**Esquinas rectas:** Cada vez que doblas la esquina parece que vuelves a estar en el mismo lado de la esquina. Solo doblando la esquina de espaldas podrán avanzar.|
@@ -602,13 +667,15 @@ Mientras exploran las grandes avenidas y las extrañas plazas de R’lyeh, puede
 |5|**Miradores:** Si suben a un edificio o algún mirador para orientarse, si giran 360º aún les quedará otros 90º para volver a donde estaban al principio.|
 |6|**Demasiadas o demasiadas pocas esquinas:** Las habitaciones y estancias, incluso las plazas y los patios, no se corresponden igual dentro que fuera. Si entran en una estancia cuadrada o rectangular puede que una vez dentro tenga 5 o 3 esquinas.|
 
-Todos estos sucesos extraños tienen un TPC d4, no quiebran tu mente mucho, pero se suele decir, muchos pocos hacen un mucho.
+\conc
 
 #### No está muerto lo que puede yacer eternamente
 
 En la cima de la colina se halla una vastísima explanada empedrada con grandes losas de piedra verde. Y en su centro hay un descomunal mausoleo con tantas columnas que pierdes la cuenta donde reposa eternamente el gran y poderoso Cthulhu esperando a que las estrellas se alinee correctamente.
 
 El cuerpo de Cthulhu están grande que se pierde en la distancia, de forma que solo podrán ver una parte de su primigenia majestuosidad al mismo tiempo, quizás una extremidad, su tronco o su cabeza. Si vieran al magnífico Cthulhu en todo su esplendor, perderían la razón completamente.
+
+\sp
 
 Ver a Cthulhu reposando en su sepulcro es posiblemente la TPC más difícil a la que tu mesa tendrá que enfrentarse, d12+12. Si pierden cordura no podrán tratar de coger un trastorno en su lugar. Su visión solo supone horror y tu mente no puede desviar ese horror en forma de trastornos mentales permanentes o temporales. Va directamente a tu razón y la destruye sin contemplaciones.
 
@@ -629,6 +696,8 @@ Alguien, seguramente un pillastre, entrará en la taberna donde este tu mesa rem
 En este punto tienen dos opciones. La primera es entrar en la mansión Villalba y averiguar el plan que esté preparando. La otra opción es empezar a investigar todas las actividades de la RCPC y tratar de averiguar cuál es el plan de la Hermandad.
 
 Y recuerda que Mary Read debería irse con un discurso motivador que dé la vuelta a la situación.
+
+\sp
 
 ### Infiltración
 
@@ -652,6 +721,8 @@ Para llegar al invernadero solo hay que atravesar el jardín. La puerta tiene ce
 
 Para acceder al observatorio hay que llegar al segundo piso y subir por una estrecha escalera que hay dentro de una especie de armario de las escobas. Podrían escalar por las paredes de la casa o si tienen el equipo adecuado, como una cometa de vigía y tratar de planear hasta el observatorio.
 
+\sp
+
 #### La incursión
 
 La opción más viable es montar una distracción que atraiga a los guardias y colarse por el otro extremo. Pueden meter algún animal en el jardín para que los perros se vuelvan locos y traten de cazarlo o montar alguna pelea en la puerta principal que atraiga a los guardias.
@@ -667,6 +738,8 @@ Una vez tengan los datos del plan, hay que escapar. Se encontrarán con los mism
 Si les sorprenden en algún momento, deberán salir pitando y perderlos en una persecución a pie. La guardia tiene órdenes de atacar primero y preguntar después. Así que no tendrán posibilidad de negociar o tratar de engañarlos. Además, no podrán volver a intentar colarse en la mansión, Villalba blindará la hacienda con el doble de vigilantes y moverá sus planes a la mazmorra.
 
 Si son derrotados, ten claro que acabarán encadenados en una celda del sótano del Morro, donde los torturarán para sacarles toda la información que necesiten. Y recuérdales que la Orden tiene métodos para seguir sacándoles información después de muertos.
+
+\sp
 
 Si te sientes malvado y les ha sido muy fácil encontrar las pistas, siempre puedes sugerir que igual ha sido tan fácil porque Villalba quería que encontrarán esas pistas para despistarles sobre sus planes.
 

@@ -254,8 +254,8 @@ ul li:not(ul li ul li, ul.libro li) {
 ul li:not(ul li ul li, ul.libro li):before,
 ul li:not(ul li ul li, ul.libro li):after {
   content: "";
-  top: -6px;
-  left: -24px;
+  top: -2px;
+  left: -30px;
   --size: 1em;
   height: calc(var(--size) * 1.1);
   width: var(--size);
@@ -270,8 +270,8 @@ ul li:not(ul li ul li, ul.libro li):after {
   clip-path: polygon(50% 0%, 50% 50%, 45% 65%, 55% 65%, 50% 50%, 50% 0%, 87% 15%, 100% 50%, 75% 72%, 66% 96%, 60% 70%, 50% 100%, 40% 70%, 34% 96%, 25% 72%, 0 50%, 11% 17%);
 }
 
-ul li:not(ul li ul li):after {
-  top: 10px;
+ul li:not(ul li ul li, ul.libro li):after {
+  top: 14px;
   clip-path: polygon(13% 18%, 0 29%, 30% 50%, 0 68%, 15% 83%, 51% 59%, 80% 85%, 100% 66%, 70% 50%, 99% 27%, 83% 16%, 51% 42%);
 }
 
@@ -488,49 +488,49 @@ section h1 + .saltopagina:after {
   }
 
   section:nth-of-type(7) .saltopagina:before {
-    height: 47vh;
-    bottom: calc(53vh + 2px);
+    height: 52vh;
+    bottom: calc(48vh + 2px);
     content: "H \A i \A s \A t \A o \A r \A i \A a \A s \A \A S \A a \A l \A v \A a \A j \A e \A s ";
     white-space: pre;
     background-color: var(--green-gul);
   }
 
   section:nth-of-type(8) .saltopagina:before {
-    height: 70vh;
-    bottom: calc(30vh + 2px);
-    content: "M \A o \A n \A s \A t \A r \A u \A o \A s \A \A d \A e \A \A l \A o \A s \A \A M \A i \A t \A o \A s \A \A y \A \A o \A t \A r \A o \A s \A \A e \A n \A e \A m \A i \A g \A o \A s ";
+    height: 62vh;
+    bottom: calc(38vh + 2px);
+    content: "M \A o \A n \A s \A t \A r \A u \A o \A s \A \A d \A e \A \A l \A o \A s \A \A M \A i \A t \A o \A s ";
     white-space: pre;
     background-color: var(--green-cthulhu);
   }
 
   section:nth-of-type(9) .saltopagina:before {
-    height: 67vh;
-    bottom: calc(33vh + 2px);
+    height: 75vh;
+    bottom: calc(25vh + 2px);
     content: "Q \A u \A i \A é \A n \A \A e \A s \A \A q \A u \A i \A é \A n \A \A e \A n \A \A e \A l \A \A C \A a \A r \A i \A b \A e ";
     white-space: pre;
     background-color: var(--green-deepone);
   }
 
   section:nth-of-type(10) .saltopagina:before {
-    height: 74vh;
-    bottom: calc(26vh + 2px);
+    height: 75vh;
+    bottom: calc(25vh + 2px);
     content: "D \A a \A n \A d \A o \A \A c \A o \A l \A o \A r \A \A a \A \A l \A a \A s \A \A a \A v \A e \A n \A t \A u \A r \A a \A s ";
     white-space: pre;
     background-color: var(--green-dark);
   }
 
   section:nth-of-type(11) .saltopagina:before {
-    height: 23vh;
-    bottom: calc(77vh + 2px);
+    height: 24vh;
+    bottom: calc(76vh + 2px);
     content: "E \A p \A í \A l \A o \A g \A o ";
     white-space: pre;
     background-color: var(--green-gul);
   }
 
   section:nth-of-type(12) .saltopagina:before {
-    height: 57vh;
-    bottom: calc(43vh + 2px);
-    content: "R \A e \A c \A u \A r \A s \A o \A s \A \A p \A a \A r \A a \A \A p \A i \A r \A a \A t \A a \A s \A \A y \A \A p \A r \A i \A m \A i \A g \A e \A n \A i \A o \A s ";
+    height: 60vh;
+    bottom: calc(40vh + 2px);
+    content: "R \A e \A c \A u \A r \A s \A o \A s \A \A p \A a \A r \A a \A \A p \A i \A r \A a \A t \A a \A s ";
     white-space: pre;
     background-color: var(--green-cthulhu);
   }
