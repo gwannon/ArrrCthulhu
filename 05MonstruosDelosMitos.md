@@ -46,7 +46,7 @@ Son seres voladores de apariencia insectoide con grandes alas membranosas y pies
 * **Ventajas:** Frenesí Mejorado, Temple.
 * **Capacidades especiales:**
     * **Garras:** FUE + d4
-    * **Mordisco:** FUE + d4. Si el Byakhee consigue hacer una herida con mordisco es porque ha mordido en una vena y ha chupado sangre. Adicionalmente al daño hará un nivel de fatiga.
+    * **Mordisco:** FUE + d4. Si el Byakhee consigue hacer una herida con mordisco es porque ha mordido en una vena y ha chupado sangre. Adicionalmente, al daño hará un nivel de fatiga.
     * **Armadura quitinosa:** +2
     * **Tamaño +1:** Hasta 3 metros de tamaño.
     * **Volar:** Paso volando 12. En Tierra, a pesar de no moverse a la velocidad de la luz, son tremendamente rápidos.
@@ -512,7 +512,7 @@ La serpigente son humanoides escamosos de rostro y cola reptiliano. Dominaron la
 
 Suelen infiltrarse en las comunidades humanas, haciéndose pasar por humanos para investigarnos y aprender como exterminarnos o para probar sus experimentos genéticos.
 
-Adoran a Yig el dios serpiente como su padre y creador, aunque pequeñísimos grupos le rezan a Tsathoggua, el Durmiente de N'kai.
+Adoran a Yig el dios serpiente como su padre y creador, aunque pequeñísimos grupos le rezan a Tsathoggua, el Durmiente de N’kai.
 
 \sp
 
@@ -795,7 +795,7 @@ Sobre ellos recae todo el desarrollo tecnológico de su raza. No son tan fuertes
     * **Tecnología Yuggoth:** Puedes asignarle a un científico hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Uno de esos aparatos puede ser uno que se injerta en su «garganta» y que les permite comunicarse con los humanos. En ese caso, podrán hablar 1 idioma a d6.
 * **TPC:** 1d6
 
-Con el material adecuado, un Mi-go científico puede extraer el cerebro de un humano y meterlo en un cilindro cerebral en dos horas pasando una tirada de Medicina. El mismo tiempo para el proceso a la inversa. La extracción de un cerebro supone una tirada de TPC d8 al sujeto que sufra la operación siempre que no la haya permitido.
+Con el material adecuado, un Mi-Go científico puede extraer el cerebro de un humano y meterlo en un cilindro cerebral en dos horas pasando una tirada de Medicina. El mismo tiempo para el proceso a la inversa. La extracción de un cerebro supone una tirada de TPC d8 al sujeto que sufra la operación siempre que no la haya permitido.
 
 \sp
 
@@ -1043,7 +1043,7 @@ Se alimentan de plancton y solo atacan si se ven en peligro.
 
 * **Atributos:** Agilidad d8, Astucia d4 (A), Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d8, Notar d12, Pelear d8, Sigilo d8
-* **Paso:** --; **Parada:** 6; **Dureza:** 9
+* **Paso:** —; **Parada:** 6; **Dureza:** 9
 * **Capacidades especiales:**
     * **Acuático:** Paso 10 nadando
     * **Mordisco:** FUE+d6
@@ -1056,7 +1056,7 @@ Estos cetáceos son uno de los seres más inteligentes del reino animal. Se sabe
 
 * **Atributos:** Agilidad d10, Astucia d8 (A), Espíritu d5, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d12, Notar d10, Pelear d8, Provocar d6
-* **Paso:** --; **Parada:** 6; **Dureza:** 5
+* **Paso:** —; **Parada:** 6; **Dureza:** 5
 * **Capacidades especiales:**
     * **Acuático:** Paso 10 nadando
     * **Mordisco:** FUE+d4
@@ -1151,7 +1151,7 @@ Para terminar, sus extremidades de un metro cada una formaban aletas alargadas, 
 
 * **Atributos:** Agilidad d8, Astucia d6 (A), Espíritu d8, Fuerza d12, Vigor d12
 * **Habilidades:** Atletismo d10, Notar d8, Pelear d8, Sigilo d6
-* **Paso:** --; **Parada:** 6; **Dureza:** 11
+* **Paso:** —; **Parada:** 6; **Dureza:** 11
 * **Capacidades especiales:**
   * **Acuático:** Paso 10 nadando.
   * **Mordisco:** FUE+d6

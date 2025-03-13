@@ -153,7 +153,7 @@ Su principal debilidad es el juego. Es un ludópata de manual con la suerte de q
 
 ![Salvador García (secuaz)](./images/verdad-habana.webp)
 
-Salvador siempre fue un seguidor, no un líder. Su hermano Antonio era el líder. Ahora que es él jefe de la familia se le hace todo cuesta arriba. Todo le agobia, le cuesta tomar decisiones y duerme por las noches pensando en que sus decisiones afectarán al futuro de su familia. Cuando era el segundón era afable y dicharachero, ahora su carácter se ha agriado. A prender a ser el líder o seguramente terminará mal.
+Salvador siempre fue un seguidor, no un líder. Su hermano Antonio era el líder. Ahora que es el jefe de la familia se le hace todo cuesta arriba. Todo le agobia, le cuesta tomar decisiones y duerme por las noches pensando en que sus decisiones afectarán al futuro de su familia. Cuando era el segundón era afable y dicharachero, ahora su carácter se ha agriado. A prender a ser el líder o seguramente terminará mal.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d4
 * **Habilidades:** Atletismo d4, Humanidades d8, Idioma nativo d8, Idioma Criollo d6, Intimidar d6, Pelear d4, Persuadir d6
@@ -316,7 +316,7 @@ Su última obra la tiene obsesionada y según cuenta se la susurra en sueños un
 * **Ventajas:** Atractivo, Rico, Trasfondo Arcano (Hechicería primigenia)
 * **Capacidades especiales:**
     * **Esgrima escénica:** Un nivel extra a Pelear al hacer filigranas y trucos con armas de filo.
-* **Equipo:** Ropas elegantes y a la última moda, papel, tinta y pluma para escribir o dibujar escenerios.
+* **Equipo:** Ropas elegantes y a la última moda, papel, tinta y pluma para escribir o dibujar escenas.
 
 **Sugerencia de interpretación:** Johanna es una apasionada de su arte y lo vive siempre al extremo. Cuando prepara una obra, solo existe esa obra. Buscando inspiración para nuevas obras, no para de hacer preguntas a todo el mundo sobre su vida y aventuras hasta ser muy entrometida e impertinente.
 
@@ -336,7 +336,7 @@ Arturo es bastante laxo en el cumplimiento de su trabajo, por no decir que es f�
 
 Permite, tras cobrar una buena mordida, introducir en La Habana todo tipo de productos e incluso puede conseguirte un buen comprador al que también le cobrará una «comisión». Todo ese dinero que gana lo gasta sin problemas en buenas ropas, buena comida y buena bebida para él y su familia.
 
-Últimamente se ha estado pasando bastante con el ron, pero todavía no está afectando a su vida profesional y familiar. Está a un par de jarras de grog de empezar a tener problema de alcoholismo.
+Últimamente, se ha estado pasando bastante con el ron, pero todavía no está afectando a su vida profesional y familiar. Está a un par de jarras de grog de empezar a tener problema de alcoholismo.
 
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Idioma(todos) d6, Intimidar d8, Notar d10, Pelea d6, Persuadir d8

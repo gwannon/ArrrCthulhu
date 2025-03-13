@@ -392,7 +392,7 @@ El problema es que si la Hermandad no lo evita el mundo está avocado al desastr
 
 \conc
 
-Quisqueya (La Española, 'cosa grande') Boriquén (Puerto Rico, 'tierra nativa'), Jamaica ('espíritu de la tierra') y Cuba ('gran tierra fértil') son los nombres con los que los pobladores originales del Caribe, los taínos, llaman a las principales islas.
+Quisqueya (La Española, «cosa grande») Boriquén (Puerto Rico, «tierra nativa»), Jamaica («espíritu de la tierra») y Cuba («gran tierra fértil») son los nombres con los que los pobladores originales del Caribe, los taínos, llaman a las principales islas.
 
 En un tiempo todo el Caribe era territorio taíno. Sin embargo, el mundo taíno está en decadencia en 1722 debido a la acción de las potencias invasoras y colonizadoras. Estos han traído su tecnología, sus creencias, sus formas de producción y los han impuesto en el Caribe, arrinconando y diezmando a las poblaciones taínas.
 
@@ -406,10 +406,10 @@ Con la llegada de los conquistadores españoles y sobre todo su tecnología mili
 
 Antes de las llegadas de las potencias europeas, los taínos se dividían en cuatro clases sociales distintas, de corte muy feudal:
 
-* **cacique o guare:** El jefe de la tribu
-* **nitaínos:** Los nobles de la tribu. Eran familiares del cacique y actuaban como guerreros.
-* **behikes:** Los sacerdotes que guardaban las creencias religiosas y mágicas.
-* **naborias:** Los aldeanos trabajadores de la tierra.
+* **Cacique o guare:** El jefe de la tribu
+* **Nitaínos:** Los nobles de la tribu. Eran familiares del cacique y actuaban como guerreros.
+* **Behikes:** Los sacerdotes que guardaban las creencias religiosas y mágicas.
+* **Naborías:** Los aldeanos trabajadores de la tierra.
 
 El poder del cacique era absoluto y se heredaba. Cada cacique tenía su cacicazgo, su reino, que se dividía en nitaínos, controlado por un noble nitaínos. Cuando llego Colón había 5 grandes cacicazgos en Cuba y 2 en Puerto Rico.
 
@@ -481,7 +481,7 @@ Los taínos tienen un deporte de pelota llamado batú o batey. Cada equipo tiene
 
 Es un importante evento social y puede tener un carácter religioso, ya que en determinadas situaciones los resultados de los partidos se consideran designios de los cemíes. Los espectadores se sientan alrededor de la cancha y los invitados especiales, el cacique y sus ayudantes ocupan unos asientos especiales llamados duhos. Es utilizado también para la resolución de conflictos entre las comunidades enemistadas, decidiendo conflictos mediante partidos de batey. Las apuestas también son muy normales en este tipo de encuentros.
 
-#### Influencia de los taínos en otras cultura
+#### Influencia de los taínos en otras culturas
 
 La influencia de los taínos en otras culturas es muy palpable y se ve fácilmente en toda una serie de palabras que usamos en el día a día: canoa, maraca, guano, hamaca, caimán, macuto o maíz.
 
@@ -817,7 +817,7 @@ Cthulhu reposa dormido/encerrado en la ciudad sumergida de R’lyeh (en alguna p
 
 Debido a su apariencia y a estar sumergido en el mar, siempre se le ha asociado con el agua y monstruos como los profundos que le sirven.
 
-A él recitan «Ph'nglui mglw'nafh Cthulhu R’lyeh wgah'nagl fhtagn» que significa «En la Ciudad de R’lyeh, el difunto Cthulhu, espera soñando».
+A él recitan «Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn» que significa «En la Ciudad de R’lyeh, el difunto Cthulhu, espera soñando».
 
 ### R’lyeh
 
@@ -825,7 +825,7 @@ R’lyeh es la ciudad sumergida donde yace el primigenio conocido como Cthulhu y
 
 Una de las características de esta mítica ciudad son sus prodigiosas dimensiones con construcciones dignas del propio Cthulhu. Otra es su geometría no-euclidiana. Nada de la ciudad cumple al 100% con la geometría euclidiana, que rige nuestro mundo físico. Puede ser que dobles una esquina y vuelvas a donde estabas o que un cuadrado, tengo 3 o 5 aristas.
 
-Si bien en los libros de Lovecraft, R’lyeh se encuentra en Pacífico Sur (en la latitud 47° 9’ S, longitud 126° 43' O). Esa es su ubicación a principios del siglo XX. En nuestra ambientación, R’lyeh está al norte de Puerto Rico, en el centro de la Fosa de Puerto Rico. La Fosa de Puerto Rico es una fosa mariana de más 8 kilómetros de profundidad y 1.500 de longitud provocada la colisión de la placa tectónica del Caribe con la de Norteamérica. Dicha fosa es el punto más profundo de todo el océano Atlántico. Que R’lyeh esté sobre una falla tendrá gran importancia para la Orden del Gran Cthulhu.
+Si bien en los libros de Lovecraft, R’lyeh se encuentra en Pacífico Sur (en la latitud 47° 9’ S, longitud 126° 43’ O). Esa es su ubicación a principios del siglo XX. En nuestra ambientación, R’lyeh está al norte de Puerto Rico, en el centro de la Fosa de Puerto Rico. La Fosa de Puerto Rico es una fosa mariana de más 8 kilómetros de profundidad y 1.500 de longitud provocada la colisión de la placa tectónica del Caribe con la de Norteamérica. Dicha fosa es el punto más profundo de todo el océano Atlántico. Que R’lyeh esté sobre una falla tendrá gran importancia para la Orden del Gran Cthulhu.
 
 La fosa de Puerto Rico es un lugar tan inhóspito que ni los profundos lo han explorado. No hay luz y ni hay pesca y aunque soporten la presión supone mucho esfuerzo bucear por sus aguas.
 
@@ -837,7 +837,7 @@ En esta ambientación Cthulhu es el principal antagonista, sobre todo por su con
 
 No sería extraño que hubiera sectas adoradoras de poderosos dioses exteriores o primigenios como Hastur, Yog-Sothoth o Azathoth, o de Ghatanothoa, encerrado en un volcán, sería perfecto en el Caribe como zona volcánica con mucha actividad.
 
-Si deseas más deidades marinas a tono con la ambientación pirata, puedes usar a Coinchenn, un primigenio gigante hecho de peces, cetáceos y cefalópodos, o Janai'ngo, un gigantesco crustáceo siervo de Cthulhu. Sin olvidarnos de K'nar'st, un humanoide anfibio con cuatro brazos de siete garras y tentáculos en vez de piernas, o Psuchawrl, un gigante larguirucho con cabeza de anémona.
+Si deseas más deidades marinas a tono con la ambientación pirata, puedes usar a Coinchenn, un primigenio gigante hecho de peces, cetáceos y cefalópodos, o Janai’ngo, un gigantesco crustáceo siervo de Cthulhu. Sin olvidarnos de K’nar’st, un humanoide anfibio con cuatro brazos de siete garras y tentáculos en vez de piernas, o Psuchawrl, un gigante larguirucho con cabeza de anémona.
 
 Los clásicos de casas encantadas, seres aullantes en los bosques y pueblos perdidos en las montañas llenos de agresivos y extraños pueblerinos son fácilmente transformables a barcos fantasma, extrañas leyendas de críptidos en la selva o colonias de degenerados colonos que han empezado a adorar a un ser que vive en un cenote cercano.
 
@@ -859,7 +859,6 @@ En ¡Arrr! Cthulhu los profundos son más complejos que en otros juegos basados 
 
 Los profundos del Caribe se dividen en 3 grandes tribus que tienen diferentes zonas de influencia. Cada tribu controla los territorios dominados por una de las 3 principales corrientes marítimas del Caribe.
 
-
 \sinc
 
 ![](./images/mapa-profundos.webp)
@@ -868,9 +867,9 @@ Los profundos del Caribe se dividen en 3 grandes tribus que tienen diferentes zo
 
 \sp
 
-* **Throd s'uhn (Corriente del Golfo).** Esta tribu se localiza en la parte norte del Caribe, en las aguas bañadas por la corriente cálida del Golfo. Sería el golfo de México, costa Norte de Cuba y La Española, Florida y sus cayos.
-* **N'gha syha'h (Corriente del Caribe).** Esta tribu se encuentra en las aguas que recorre la corriente del Caribe, que baña la costa sur de Cuba y La Española hasta el llegar al continente sudamericano.
-* **Uh'e kn'a (Corriente de las Antillas).** La tribu de la corriente de las Antillas controlaría las costas de las Bahamas y las Antillas Menores.
+* **Throd s’uhn (Corriente del Golfo).** Esta tribu se localiza en la parte norte del Caribe, en las aguas bañadas por la corriente cálida del Golfo. Sería el golfo de México, costa Norte de Cuba y La Española, Florida y sus cayos.
+* **N’gha syha’h (Corriente del Caribe).** Esta tribu se encuentra en las aguas que recorre la corriente del Caribe, que baña la costa sur de Cuba y La Española hasta el llegar al continente sudamericano.
+* **Uh’e kn’a (Corriente de las Antillas).** La tribu de la corriente de las Antillas controlaría las costas de las Bahamas y las Antillas Menores.
 
 Las relaciones entre las 3 grandes tribus son constantes y puede ser de muchas índoles. Desde comerciales hasta disputas por territorios, aunque estás últimas son menos comunes. Todo el comercio se basa en un sistema de trueques. Digamos que su economía es muy básica entre ellos.
 
@@ -912,7 +911,7 @@ Pueden crear armas simples como tridentes o cuchillos y son capaces de tejer tan
 
 Si bien la artesanía es bastante básica, van mejorando poco a poco gracias a las técnicas que los híbridos de profundos aprenden de los artesanos humanos antes de ser llamados por el mar. Estos híbridos también aportan conocimientos como la construcción de barcos, que si bien no los aplican para construirlos, sí los aplican para hundirlos.
 
-Los artesanos de los Uh'e kn'a son considerados de los mejores del Caribe, ya que conocen formas de trabajo usando las chimeneas de lava que hay a lo largo de todas las Antillas Menores.
+Los artesanos de los Uh’e kn’a son considerados de los mejores del Caribe, ya que conocen formas de trabajo usando las chimeneas de lava que hay a lo largo de todas las Antillas Menores.
 
 ### Relaciones con los humanos
 
@@ -991,7 +990,7 @@ No sería extraño que si tu mesa es acusada de piratería y capturada terminen 
 Claramente, el principal agente que hace uso de trabajo forzado es la RCPC. Las ventajas que obtiene del trabajo forzado son muy claras.
 
 * **Mano de obra obligada a trabajar en cualquier condición.** Si la RCPC necesita crear una carretera por una zona pantanosa, ningún trabajador libre querrá trabajar en un sitio en que fácilmente puede morir de fiebres. Los presos son los trabajadores perfectos para este tipo de trabajo.
-* **Nadie les va a creer.** Si cuentan historias extrañas de sus carceleros o de las obras que realizan, nadie les va a creer. Si hay que excavar un templo perdido mi-go o construir una gran capilla de adoración a Cthulhu, nadie creara lo que cuente.
+* **Nadie les va a creer.** Si cuentan historias extrañas de sus carceleros o de las obras que realizan, nadie les va a creer. Si hay que excavar un templo perdido Mi-Go o construir una gran capilla de adoración a Cthulhu, nadie creara lo que cuente.
 * **Son fácilmente sustituibles.** La RCPC tiene capacidad de legal de detener a personas libres, sobre todo acusándolas de contrabando y piratería. Eso le da capacidad si soborna a jueces o están dentro de la Orden para conseguir presos fácilmente. Si fuera necesario, también puede deshacerse de ellos fácilmente, simulando un ataque de piratas o ejércitos enemigos.
 
 Callado está dicho que muchos de los sacrificios humanos que necesita la Orden en sus rituales pueden provenir de los presos condenados a trabajos forzados.
@@ -1052,7 +1051,9 @@ También cabe destacar que el Caribe se ha convertido en el lugar a donde mandar
 
 \conc
 
-Aunque estemos en el Caribe en 1722 rodeados de salvajes piratas, oscuras junglas llenas de misterios y terribles monstruos acechando desde las profundidades marinas, este juego también tiene una importante parte de investigación y que sería de la investigación sin sus archivos y bibliotecas, sin sus registros de entradas y salidas del puerto o sin sus actas de nacimientos y defunciones de las pequeñas parroquias en perdidos pueblos del interior.
+Aunque estemos en el Caribe en 1722 rodeados de salvajes piratas, oscuras junglas llenas de misterios y terribles monstruos acechando desde las profundidades marinas, este juego también tiene una importante parte de investigación. 
+
+Qué sería de la investigación sin sus archivos y bibliotecas, sin sus registros de entradas y salidas del puerto o sin sus actas de nacimientos y defunciones de las pequeñas parroquias en perdidos pueblos del interior.
 
 ### Universidades
 

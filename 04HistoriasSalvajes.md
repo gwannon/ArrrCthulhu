@@ -99,7 +99,7 @@ No les dejes mucho tiempo para contestar, es preferible que sean espontáneos. C
 
 #### ¡¡¡Profundos!!!
 
-Saca la baraja y reparte cartas de iniciativa, un grupo de profundos salta a cubierta con sus tridentes y entre gorgojeos ininteligibles atacan a la gente que hay en la cubierta. Antes de poder actuar deberán tirar la TPC de una manada de 15 profundos.
+Saca la baraja y reparte cartas de iniciativa, un grupo de profundos salta a cubierta con sus tridentes y entre gorgoteos ininteligibles atacan a la gente que hay en la cubierta. Antes de poder actuar deberán tirar la TPC de una manada de 15 profundos.
 
 A cada personaje se le acercará un profundo con intenciones funestas y el resto se repartirá entre el resto de tripulantes del «Carcosa». Recuerda que están desarmados y son novatos. Tras 5 turnos o antes de caer incapacitados, algún tripulante pirata o la propia Mary Read decapitará al profundo mientras un chorro de sangre verde salpica al personaje.
 
@@ -418,7 +418,7 @@ La receta de la droga plutónica solo puede conseguirse de un tomo incompleto de
 
 La subasta está atrayendo mucha atención. No por el libro, sino porque que se subastan varias piezas de joyería pertenecientes a monarquías y casas nobles europeas. Hay mucha gente que está dispuesta a gastar fortunas para poder lucir esas piezas.
 
-El libro, como otros tantos, es un objeto menor que la casa de subastas ha metido para que la gente vaya al excusado entre pieza importante y pieza importante
+El libro, como otros tantos, es un objeto menor que la casa de subastas ha metido para que la gente vaya al excusado entre pieza importante y pieza importante.
 
 Por desgracia, todo esto ha hecho que el edificio de Bernard e hijos sea un fortín con un montón de guardas y todos los objetos estén guardados en una caja de caudales de gran tamaño en el sótano.
 
@@ -610,7 +610,7 @@ Si no pueden hilar un plan mínimamente viable, pueden preguntar a Read y les di
 
 Déjales que monten un plan y que lo lleven a cabo. Total, lo peor que les puede pasar es que la presión licue sus órganos internos antes de implosionar.
 
-Cuando consigan bajar a tal profundidad en las coordenadas exactas encontrarán un gran semi-esfera. No se puede ver dentro y parece como si estuviera hecha de metal muy pulido, casi como un espejo. Si la tocan puede atravesarse como si fuera mercurio líquido.
+Cuando consigan bajar a tal profundidad en las coordenadas exactas encontrarán una gran semiesfera. No se puede ver dentro y parece como si estuviera hecha de metal muy pulido, casi como un espejo. Si la tocan puede atravesarse como si fuera mercurio líquido.
 
 Si intentan usar magia para mirar dentro no funcionará. La magia no puede atravesar la entropía y se disipa a los pocos metros. Dentro funcionará con toda normalidad.
 
@@ -644,9 +644,9 @@ Desde cualquier parte de la ciudad se ve en una colina en el centro de la ciudad
 
 Mientras exploran las grandes avenidas y las extrañas plazas de R’lyeh, puede suceder alguno de estos sucesos. Y recuerda:
 
-> \- Veis un palacio de planta cuadrada con 5 torreones, un solo torreón en cada esquina.  
-> \- Pero eso no puede ser.  
-> \- Anda, es verdad, tira cordura.  
+> — Veis un palacio de planta cuadrada con 5 torreones, un solo torreón en cada esquina.  
+> — Pero eso no puede ser.  
+> — Anda, es verdad, tira cordura.  
 > 
 > _Viejo chiste de la Llamada de Cthulhu_
 
@@ -1341,7 +1341,7 @@ Si la sueltan y la siguen verán que está totalmente desorientada. Está nadand
 
 Pueden intentar ayudarla a volver a casa. Deberán perder media semana para de rastrear la zona hasta encontrar el arrecife donde habitan los cuidadores de la tortuga. Será medio día si tienen ojos de buey en fondo del barco. Pueden dejarla ir sola o tratar de devolverla ellos mismos y tener que tirar TPC. Los profundos al verlos se pondrán violentos, cogiendo sus armas y preparándose para la lucha, pero en cuanto vean a la tortuga se olvidarán de todos y rodearán a su tortuga tótem.
 
-La comunicación sub-acuática es complicada, pero al final el líder profundo de esta pequeña comunidad les hará entender que está en deuda con ellos. Les entregará una caracola de gran tamaño que es un objeto de gran importancia entre los profundos.
+La comunicación subacuática es complicada, pero al final el líder profundo de esta pequeña comunidad les hará entender que está en deuda con ellos. Les entregará una caracola de gran tamaño que es un objeto de gran importancia entre los profundos.
 
 **Caracola de los profundos:** Este objeto es entregado por una tribu profunda como muestra de estar en deuda con el ser que la porta. 
 
@@ -2011,7 +2011,9 @@ Georges está ante el exoesqueleto de una entidad de la gran raza de yith que fu
 
 #### Iniciando la aventura
 
-Tanto si están de pasada por San Juan y han oído los rumores del profesor estadounidense en las tabernas, como si lo leen en la VLH pueden acercarse a hablar con George Jansen en el del puerto que está usando como su laboratorio de campaña. Puede que hayan encontrado fósiles enterrados en la roca o que hayan encontrado en el botín de algún enemigo y quieran vendérselos por un buen pellizco.
+Tanto si están de pasada por San Juan y han oído los rumores del profesor estadounidense en las tabernas, como si lo leen en la VLH pueden acercarse a hablar con George Jansen en el almacén del puerto que está usando como su laboratorio de campaña.
+
+Puede que hayan encontrado fósiles enterrados en la roca o que hayan encontrado en el botín de algún enemigo y quieran vendérselos por un buen pellizco.
 
 Jansen les recibirá cordialmente en su almacén lleno de restos de huesos organizados en el suelo formando siluetas de fantásticos animales. Si muestran interés por los huesos, Jansen estará encantado de mostrarles su colección y explicarles hasta el aburrimiento los mínimos detalles de sus huesos y de sus teorías.
 
@@ -2264,7 +2266,7 @@ Puede provocar ruidos y golpes en cualquier parte de la casa para atraer la gent
 
 **Cocina:** La cocina tienen una fresquera, varios armarios y una cocina de leña. Aún tiene algunos cacharros de los últimos inquilinos. En una esquina al lado de los fuegos hay una trampilla que da acceso al sótano. También hay una puerta que va a las dependencias del servicio.
 
-**Comedor:** Es la mayor estancia de la casa con una gran mesa de roble en el centro con 12 sillas. la gran mesa tiene muchísimas marcas hechas con algo afilado. Walter ha usado la mesa para entrenar sus habilidades de pelea con su daga mágica.
+**Comedor:** Es la mayor estancia de la casa con una gran mesa de roble en el centro con 12 sillas. La gran mesa tiene muchísimas marcas hechas con algo afilado. Walter ha usado la mesa para entrenar sus habilidades de pelea con su daga mágica.
 
 **Biblioteca:** Esta habitación tiene las paredes cubiertas de estanterías, pero parece que los libros han sido saqueados. Solo quedan algunos ejemplares enciclopédicos antiguos y viejos periódicos. Una tirada de Investigar permitirá encontrar un viejo ejemplar de la VLH.
 
@@ -2577,7 +2579,7 @@ La Orden del Gran Cthulhu está estudiando un huevo de chthoniano en unas instal
 
 \sp
 
-Mientras los héroes navegan un día claro, una extraña ola solitaria de tamaño descomunal aparece de la nada, haciendo casi zozobrar al su barco y dañándolo bastante. Desde que el vigía grite «¡Olaaaa!» hasta que les impacte déjales 5 turnos para prepararse. Pueden asegurar la carga y la tripulación, maniobrar a favor de la ola, intentar pararla o esquivar (cosa imposible), etc.
+Mientras los héroes navegan un día claro, una extraña ola solitaria de tamaño descomunal aparece de la nada, haciendo casi zozobrar al su barco y dañándolo bastante. Desde que el vigía grite «¡Olaaaa!», hasta que les impacte déjales 5 turnos para prepararse. Pueden asegurar la carga y la tripulación, maniobrar a favor de la ola, intentar pararla o esquivar (cosa imposible), etc.
 
 Vete contando los turnos en voz alta dándole dramatismo a la escena según se les acaben los turnos y grita «Impacto» cuando hagas una tirada enfrentada del Navegar de la persona que lleve el timón y un d12. Obvia el resultado, tanto si es bueno como malo, y dales esta lista de daño: daños en el timón, una gran fuga de agua en el casco y el aparejo ha debilitado un tramo de un mástil.
 
@@ -2968,7 +2970,7 @@ Los yehos desaparecerán, abandonando su antiguo territorio y buscarán nuevas t
 
 **Comienzo:** En cualquier sitio donde el grupo de personajes tenga un aliado intelectual.
 
-Ha desaparecido una persona de entre los aliados de corte intelectual o artístico de tu mesa: ha sido secuestrado en su casa o ha desaparecido sin dejar rastro. Detrás de esta desaparición están los Mi-go y la Orden del Gran Cthulhu que están buscando a las mejores mentes (literalmente) de la zona del Caribe para uno de sus proyectos secretos de exploración submarina.
+Ha desaparecido una persona de entre los aliados de corte intelectual o artístico de tu mesa: ha sido secuestrado en su casa o ha desaparecido sin dejar rastro. Detrás de esta desaparición están los Mi-Go y la Orden del Gran Cthulhu que están buscando a las mejores mentes (literalmente) de la zona del Caribe para uno de sus proyectos secretos de exploración submarina.
 
 Algunas de las posibles víctimas pueden ser:
 
@@ -2979,7 +2981,7 @@ Algunas de las posibles víctimas pueden ser:
 * Ifá
 * Alguien de tu mesa que no vaya a venir en unas cuantas sesiones.
 
-La Orden necesita un sistema exploración submarina para encontrar R’lyeh y una de sus brillantes ideas ha sido adaptar los dispositivos contenedores para cerebros de los Mi-go para la exploración submarina.
+La Orden necesita un sistema exploración submarina para encontrar R’lyeh y una de sus brillantes ideas ha sido adaptar los dispositivos contenedores para cerebros de los Mi-Go para la exploración submarina.
 
 Tras haber hechos pruebas con unos pobres desafortunados que secuestraron en la calle, se han dado cuenta de que necesitan cerebros inteligentes que sean capaces de analizar lo que capten los sensores, tomar decisiones y seguir la búsqueda por el camino con más probabilidades de éxito.
 
@@ -3038,7 +3040,7 @@ La cubierta de carga ha sido modificada por los yuggothianos para poder trabajar
 
 Si el ingenio está en el barco podrán verlo en el taller y el cerebro en una gran bañera en la zona de enfermería. Si saben que supone el cerebro deberán tirar un TPC de d4.
 
-Cuando lleguen a esta zona, ninguno de los mi-go tendrá preparado sus aparatos de vocalización, con lo que las negociaciones son difíciles. El más mínimo movimiento ofensivo supondrá que los mi-go ataquen y si hacen ruido, esto atraerá a los guardias que estén despiertos. Los mi-go no se jugarán la vida, rindiéndose si se reciben demasiadas heridas. Su vida es más importante que los experimentos.
+Cuando lleguen a esta zona, ninguno de los Mi-Go tendrá preparado sus aparatos de vocalización, con lo que las negociaciones son difíciles. El más mínimo movimiento ofensivo supondrá que los Mi-Go ataquen y si hacen ruido, esto atraerá a los guardias que estén despiertos. Los Mi-Go no se jugarán la vida, rindiéndose si se reciben demasiadas heridas. Su vida es más importante que los experimentos.
 
 #### Operando cerebros
 
@@ -3058,7 +3060,7 @@ El pez metálico es muy pesado para llevárselo tal cual. Así que a no ser que 
 
 Si se van sin más, nada impedirá que secuestren a otra persona y sigan con sus investigaciones. Algunas opciones de sabotaje son:
 
-* Acabar con los yuggothianos es una opción, ya que estos no enviarán a nadie más de reemplazo. La RCPC ha incumplido el acuerdo y desharán el acuerdo. Además, convertiría a los mi-go en enemigos jurados de tu mesa.
+* Acabar con los yuggothianos es una opción, ya que estos no enviarán a nadie más de reemplazo. La RCPC ha incumplido el acuerdo y desharán el acuerdo. Además, convertiría a los Mi-Go en enemigos jurados de tu mesa.
 * Destruir el ingenio submarino y destruir toda la documentación podría valer para frenar el proyecto.
 * Podrían hundir el barco con todos los avances y toda la tecnología. Los meses de trabajo y el coste de las instalaciones harían que se desestimará el proyecto, pero seguramente también acabaría con los yuggothianos trayendo la enemistad de su raza.
 
@@ -3080,13 +3082,13 @@ La pata de palo parece normal, pero se hizo con madera de la ceiba legendaria qu
 
 Si quiere recuperar el objeto deberá buscar al anterior dueño de la pata de madera y deshacer el trato. La figura borrosa podría ser cualquiera, así que aquí te presentamos unas reglas para establecer quién es.
 
-1.  Cada viaje hay un 5% de que la figura este en esa ubicación.
-2.  Cuando hagan una tirada de notar en esa ubicación muy buena y que no sirva para nada detectarán a la figura borrosa. Volverá el flashback y esta vez verán a la figura borrosa perfectamente. Puede o no faltarle una pierna, igual solo lo tenía como un artículo de fantasía o lo ganó en una partida de cartas.
-3.  Unas de las personas que esté en la escena es esa figura borrosa. Puede ser alguien que esté tomando algo en la taberna mientras negocian un trabajo, alguien que trabaja en el puerto cuando atracan, alguien consultando un libro en una biblioteca mientras buscan antiguos tomos de saber arcano o alguien de la Orden en uno de sus lugares de adoración./br/Incluso puede ser uno de los secuaces del villano de turno que aparece de repente para acabar con tu mesa.
+1. Cada viaje hay un 5% de que la figura este en esa ubicación.
+2. Cuando hagan una tirada de notar en esa ubicación muy buena y que no sirva para nada detectarán a la figura borrosa. Volverá el flashback y esta vez verán a la figura borrosa perfectamente. Puede o no faltarle una pierna, igual solo lo tenía como un artículo de fantasía o lo ganó en una partida de cartas.
+3. Unas de las personas que esté en la escena es esa figura borrosa. Puede ser alguien que esté tomando algo en la taberna mientras negocian un trabajo, alguien que trabaja en el puerto cuando atracan, alguien consultando un libro en una biblioteca mientras buscan antiguos tomos de saber arcano o alguien de la Orden en uno de sus lugares de adoración./br/Incluso puede ser uno de los secuaces del villano de turno que aparece de repente para acabar con tu mesa.
 
 \sp
 
-4.  Deberá negociar un nuevo trato si quiere recuperar su objeto, incluso igual tiene que evitar que lo maten si están en medio de un combate. Rolea el trato, no dejes que esta parte sean simples tiradas. Haz que se lo jueguen a unos dardos o unos naipes, o que mientras pelean a espada lleguen a un trato, o que hagan un nuevo intercambio.
+4. Deberá negociar un nuevo trato si quiere recuperar su objeto, incluso igual tiene que evitar que lo maten si están en medio de un combate. Rolea el trato, no dejes que esta parte sean simples tiradas. Haz que se lo jueguen a unos dardos o unos naipes, o que mientras pelean a espada lleguen a un trato, o que hagan un nuevo intercambio.
 
 También puedes hacer que quien quieras sea la figura. Puede ser cualquier personaje de esta ambientación. Sería divertido que entrarán en la casa de Hernando Villalba y encontraran su objeto perdido y le dejarán la pata de palo en su lugar.
 
@@ -3114,7 +3116,7 @@ Es importante saber quién está en cada celda, ya que para hablar y discutir ca
 
 Durante su estancia les darán comida y bebida de la que comen allí, pero con cubiertos de madera. No debería pasar hambre, ni sed, ni frío y si tienen heridas graves serán curados. Quieren mantenerte vivo mientras te sacan información valiosa.
 
-Cada sesión de interrogatorio/tortura exigirá una tirada de Espíritu para no soltar prenda. Un fallo supondrá dar un ítem de información valiosa (a juzgar por ti). Si quiere evitarlo, puede tomar un nivel de fatiga. Puedes darles algún positivo a esta tirada, si se buscan alguna manera de mantener la moral alta, como cantar una canción de ánimo todos juntos, gritar conjuntamente una consigna tipo «todes para une y une para todes» cuando se lleven a alguien a interrogar o hablar de lo que primero que harán cuando salgan.
+Cada sesión de interrogatorio/tortura exigirá una tirada de Espíritu para no soltar prenda. Un fallo supondrá dar un ítem de información crucial (a juzgar por ti). Si quiere evitarlo, puede tomar un nivel de fatiga. Puedes darles algún positivo a esta tirada, si se buscan alguna manera de mantener la moral alta, como cantar una canción de ánimo todos juntos, gritar conjuntamente una consigna tipo «todes para une y une para todes» cuando se lleven a alguien a interrogar o hablar de lo que primero que harán cuando salgan.
 
 El día que tengan planeado fugarse, haz una tirada de clima, ya que puede afectar a la fuga o incluso cancelarla. Una tormenta puede ayudar a escapar porque reduce la visibilidad de los guardas, pero hace mucho más difícil lanzarse al mar y nadar hacia la libertad.
 

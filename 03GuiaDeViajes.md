@@ -267,7 +267,7 @@ Hay turnos de 8 horas, con que un tercio trabaja y vigila, otro tercio se entret
 
 Parte de la fortaleza da a unos acantilados contra el mar. Estos acantilados son muy complicados de escalar y caerse al agua supone acabar aplastado contra las rocas que hay debajo. La parte que da a tierra tiene unos sólidos muros de entre 15 y 30 metros según la zona. Ambas partes están vigiladas, pero, sobre todo, la del muro que da a la península. Solo se puede entrar al Morro desde tierra, a través de una puerta levadiza reforzada que hay en el muro terrestre. El muro terrestre es escalable, pero está bastante vigilado.
 
-Dentro de la fortaleza hay una serie de edificios que sirven de barracones, oficinas, comedores, cocinas, etc. El más grande de todos, que está en medio de la plaza, lo usan los oficiales para temas importantes, como guardar objetos valiosos o retener a prisioneros importantes en un gran sótano con celdas que tiene debajo. Para acceder al sótano, hay una trampilla de madera reforzaba con hierro con un candado de seguridad (-2 a Latrocinio), cuya llave lleva el oficial de servicio en ese turno.
+Dentro de la fortaleza hay una serie de edificios que sirven de barracones, oficinas, comedores, cocinas, etc. El más grande de todos, que está en medio de la plaza, lo usan los oficiales para temas importantes, como guardar objetos valiosos o retener a prisioneros valiosos en un gran sótano con celdas que tiene debajo. Para acceder al sótano, hay una trampilla de madera reforzaba con hierro con un candado de seguridad (-2 a Latrocinio), cuya llave lleva el oficial de servicio en ese turno.
 
 #### La mansión Villalba
 
@@ -342,7 +342,7 @@ El piso tiene salida al tejado, de forma que si descubren a sus inquilinos pueda
 
 #### Real Astillero de La Habana
 
-A principios del siglo XVIII la marina española ha empezado a renovarse y el Real Astillero, construido en 1716, será unos de los lugares donde se monten los nuevos barcos de la marina real española. Además, siendo La Habana el centro del comercio marítimo del Caribe, la construcción de barcos civiles también es un importante negocio y fuente de poder. Una compañía naviera no puede crecer ni funcionar sino se construyen o arreglan los barcos a la velocidad que exige el flujo comercial.
+A principios del siglo XVIII la marina española ha empezado a renovarse y el Real Astillero, construido en 1716, será unos de los lugares donde se monten los nuevos barcos de la marina real española. Además, siendo La Habana el centro del comercio marítimo del Caribe, la construcción de barcos civiles también es un importante negocio y fuente de poder. Una compañía naviera no puede crecer ni funcionar si no se construyen o arreglan los barcos a la velocidad que exige el flujo comercial.
 
 Es por ello que una de las jugadas más interesantes de la RCPC en Cuba fue conseguir adelantar varios años el proyecto del Astillero y conseguir que parte del astillero y del arsenal estén controlados por ella. De esta forma, la competencia queda en desventaja en cuanto a su capacidad naval y tienen unas instalaciones lejos de ojos curiosos donde poner en práctica toda su ciencia y magia naval.
 
@@ -352,7 +352,7 @@ El actual astillero tiene 2 partes bien diferenciadas, la pública y la privada 
 
 Guardias propios de la RCPC vigilan las entradas y las salidas de esta zona y solo las personas recomendadas por los propios trabajadores del astillero pueden entrar a trabajar. La verdad es que todo lo que pasa en esta sección del astillero es alto secreto y o es extraño ver extraños barcos entrar en el astillero amparados por la oscuridad de la noche. Tampoco son infrecuentes los fuegos y las explosiones.
 
-Todos los que trabajan en el astillero están bajo la rama militar de la RCPC y realizan todo tipo de modificaciones a los barcos. Pero solo un grupo muy reducido de menestreles adeptos a la Orden se encargan en un dique especial y secreto de las modificaciones más terribles y profanas.
+Todos los que trabajan en el astillero están bajo la rama militar de la RCPC y realizan todo tipo de modificaciones a los barcos. Pero solo un grupo muy reducido de menestrales adeptos a la Orden se encargan en un dique especial y secreto de las modificaciones más terribles y profanas.
 
 Los almacenes están tan protegidos como bancos, ya que hay en ellos materiales muy valiosos y raros que la RCPC ha ido acumulando con los años.
 
@@ -538,7 +538,9 @@ _Población:_ 14.300 habitantes
 
 _Controlada por:_ Reino de España
 
-La ciudad de San Juan se fundó en una isla que tapa la entrada a la bahía, conocida como la isleta de San Juan. Al ser una isla, su defensa era más fácil y por su disposición solo tenían que proteger la costa norte de la isla y las entradas a la bahía. La ciudad, que está amurallada, fue creciendo y extendiéndose por la isla y cuenta con un castillo de defensa marítima, Castillo San Felipe del Morro, y una red de fuertes de vigilancia por toda la costa.
+La ciudad de San Juan se fundó en una isla que tapa la entrada a la bahía, conocida como la isleta de San Juan. Al ser una isla, su defensa era más fácil. Por su disposición solo tenían que proteger la costa norte de la isla y las entradas a la bahía. 
+
+La ciudad, que está amurallada, fue creciendo y extendiéndose por la isla y cuenta con un castillo de defensa marítima, Castillo San Felipe del Morro, y una red de fuertes de vigilancia por toda la costa.
 
 #### Los profundos de San Juan
 
@@ -618,9 +620,9 @@ _Vegigante a la bolla / Pan y Cebolla_
 
 _Toco toco toco / Vegigante come coco_
 
-_Prucuta prucuta / Y bueno que'tá_
+_Prucuta prucuta / Y bueno que’tá_
 
-_Esa vieja e' bruja / Y Tiene los ojos color café_
+_Esa vieja e‘bruja / Y Tiene los ojos color café_
 
 _Vegigante comió mango / Y hasta las unas se las lambio_
 
@@ -750,7 +752,7 @@ Se estima que el círculo de piedras era usado como calendario, que establecía 
 
 Con la colonización de los españoles y la caída de los caciques, todas estas prácticas desaparecieron, pero el lugar sigue siendo importante para los taínos de la Española. En caso de necesitar reunir a los pocos caciques que aún existen, este sería el lugar perfecto. También sería perfecto para dirimir rencillas entre caciques con una conferencia de paz o con un partido de batú.
 
-Los constructores de este lugar no solo lo eligieron por su emplazamiento en el centro de la isla, quedando cerca a todos los cacicazgos, también porque es un lugar con un gran poder mágico. Toda cohoba celebrada aquí otorga un +2 a las tiradas de Espíritu. Deberías permitir a tu mesa que pueda acceder a visiones de más valor y de seres más poderosos al realizarla aquí. Tampoco debes dejarles que se dediquen a hacer cohobas cada vez que no sepan qué hacer.
+Los constructores de este sitio no solo lo eligieron por su emplazamiento en el centro de la isla, quedando cerca a todos los cacicazgos, también porque es un punto con un gran poder mágico. Toda cohoba celebrada aquí otorga un +2 a las tiradas de Espíritu. Deberías permitir a tu mesa que pueda acceder a visiones de más valor y de seres más poderosos al realizarla aquí. Tampoco debes dejarles que se dediquen a hacer cohobas cada vez que no sepan qué hacer.
 
 #### Isla Catalina
 
@@ -1018,7 +1020,7 @@ Nasáu es el típico puerto del Caribe de tamaño mediano. Un puerto comercial y
 
 Posee una fortaleza defensiva que ha reconstruido el propio gobernador con su propio dinero para evitar futuros ataques de los españoles. No hará ni 2 años que la ciudad fue asediada por mar por la marina española ayudada por navíos de combate de la RCPC. Buscaban acabar con el refugio pirata que supone el archipiélago de las Bahamas.
 
-#### Guthrie's premises
+#### Guthrie’s premises
 
 Robert Guthrie es un mercader que se conoce por tener tratos con piratas y comprar todo el material que le traigan sin hacer preguntas. Botines que han rechazado en otros puertos por ser muy peligrosos Guthrie los compra llevándose una buena comisión del 60% (20% o 30% es lo normal) pero nunca hace preguntas.
 
@@ -1052,11 +1054,11 @@ En juego, tiene Tácticas d12+2 y si le presentas un plan puede tirar sus Tácti
 
 ![Agujero azul de Dean](./images/agujero-azul.webp)
 
-El agujero azul de Dean (Dean's blue hole) es un [agujero azul](https://es.wikipedia.org/wiki/Agujero_azul) ubicado en una bahía en la costa oeste de la isla Larga en las Bahamas. Tiene una profundidad de 202 metros. 
+El agujero azul de Dean (Dean’s blue hole) es un [agujero azul](https://es.wikipedia.org/wiki/Agujero_azul) ubicado en una bahía en la costa oeste de la isla Larga en las Bahamas. Tiene una profundidad de 202 metros. 
 
 \sp
 
-Se encuentra en territorio Uh'e kn'a y es usado por los profundos como lugar donde dejar ofrendas a sus dioses. En el fondo podemos encontrar una gran variedad de esculturas de piedra, plata y oro de Cthulhu que los profundos dejan caer en forma de ofrenda.
+Se encuentra en territorio Uh’e kn’a y es usado por los profundos como lugar donde dejar ofrendas a sus dioses. En el fondo podemos encontrar una gran variedad de esculturas de piedra, plata y oro de Cthulhu que los profundos dejan caer en forma de ofrenda.
 
 La fortuna en oro y plata que hay en el fondo del agujero azul es comparable al tesoro de un pirata, pero el que se lleve algo del agujero azul quedara maldito. Tira al azar una maldición que sufrirán todos los implicados en el saqueo. La maldición empezará a revelarse al de una semana. En principio solo devolver lo robado hará desaparecer la maldición, pero puedes montarte una buena historia tipo Piratas del Caribe.
 
@@ -1258,7 +1260,9 @@ El único volcán submarino registrado en el Caribe es el Diamond Islet (Islote 
 
 \conc
 
-Practicar magia no solo afecta a tu cordura, también a tu reputación y si no tienes cuidado puedes acabar quemado en la plaza del pueblo por brujería. Quien más quien menos en nuestro Caribe ha presenciado prodigios mágicos, pero no es lo mismo que la vieja ermitaña sane las fiebres de un niño con sus bebedizos a que los héroes entren volando en la casa del Gobernador de Jamaica lanzando rayos verdes.
+Practicar magia no solo afecta a tu cordura, también a tu reputación y si no tienes cuidado puedes acabar quemado en la plaza del pueblo por brujería. 
+
+Quien más quien menos en nuestro Caribe ha presenciado prodigios mágicos, pero no es lo mismo que la vieja ermitaña sane las fiebres de un niño con sus bebedizos a que los héroes entren volando en la casa del Gobernador de Jamaica lanzando rayos verdes.
 
 Queda a discreción del director de juego cuando los jugadores pueden ser buscados y perseguidos por brujos o que los pueblerinos atranquen las puertas y las ventanas ante su paso, pero te damos unas sencillas normas que puedes tener en cuenta a la hora de gestionar la reputación de los PJ.
 

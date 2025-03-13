@@ -97,3 +97,42 @@
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QAdentrándose en El Susurros\\E$"}
 {"rule":"ES_SPLIT_WORDS","sentence":"^\\QSi son apresados en algún momento por la RCPC o cultistas de la Orden, serán llevados en secreto al Morro en La Habana, donde serán interrogados y torturados y finalmente ejecutados.\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QMula\nSerpiente constrictora/venenosa\nTiburón: escualo o tiburón blanco.\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QSimplemente era el padre Héctor para la gente de la misión.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QMuy afortunado\nCapacidades especiales:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6.\\E$"}
+{"rule":"ESO_ESE","sentence":"^\\QSu tío quiere que le releve cuando se retire, pero seguramente cuando eso pase venda el periódico.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QImpulsivo\nVentajas:\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QAnciano\nVentajas:\\E$"}
+{"rule":"REP_IMPORTANTE","sentence":"^\\QPoco a poco, durante 20 años, se ha ido asociando con diferentes delincuentes hasta montar una importante banda criminal, que también se ha convertido en su familia, donde todos cuidan de todos y nadie es más importante que el resto.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QPero realmente las Caimán y las Bahamas son territorios muy pequeños y poco interesantes económicamente.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QLos artesanos de los Uh’e kn’a son considerados de los mejores del Caribe, ya que conocen formas de trabajo usando las chimeneas de lava que hay a lo largo de todas las Antillas Menores.\\E$"}
+{"rule":"REP_LUGAR","sentence":"^\\QAlgunos de estos enclaves son lugares independientes fuera del control de las potencias europeas y otras veces son territorios controlados, donde sus gobernadores son altamente corruptos o les interesa dar cobijo a piratas para que causen problemas a sus enemigos.\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QOficialmente Reino de Francia, pero es una zona libre para los piratas.\\E$"}
+{"rule":"OROGRAFIA_DEL_TERRENO","sentence":"^\\QDebido a la orografía del terreno y al ser de las primeras ciudades del Caribe, sus calles no están bien planificadas en grandes calles rectas como La Habana, sino que son todo callejuelas y plazoletas, cuesta arriba o cuesta abajo.\\E$"}
+{"rule":"AGREEMENT_QUEDAR_VP","sentence":"^\\QHernando se quedó impresionado la primera vez que se sumergió y vio las estructuras, pensando que había encontrado la ciudad de su señor.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QVegigante a la bolla / Pan y Cebolla\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QToco toco toco / Vegigante come coco\\E$"}
+{"rule":"REP_IMPORTANTE","sentence":"^\\QHay, además, un importante cementerio de 8 o 9 años de antigüedad.\\E$"}
+{"rule":"REP_LUGAR","sentence":"^\\QEste es un lugar sagrado para los taínos y cualquier promesa o trato que se haga en este lugar se vuelve sagrado y no se puede romper.\\E$"}
+{"rule":"SE","sentence":"^\\Q4 Aparece una coliflor de 500 kilos en una plantación de \\[isla\\] Una espora de Ubbo-Sathla, dios primigenio que vino a la tierra desde el espacio que se que cree que es el origen de la vida en la tierra, ha caído en el huerto de un campesino y ha hecho que sus vegetales crezcan en tamaño descomunal.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl ostracismo o «Ymg’yog ah» es una antigua ley de los profundos reservada a las tribus que hayan hecho actos terribles contra otros profundos o hayan ofendido al Gran Cthulhu.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPrucuta prucuta / Y bueno que’tá\\E$"}
+{"rule":"COMILLAS_APOSTROFO","sentence":"^\\QEsa vieja e‘bruja / Y Tiene los ojos color café\\E$"}
+{"rule":"ES_SIMPLE_REPLACE_SIMPLE_ZOOM","sentence":"^\\QSi les alcanzan, antes de hacer zoom y hacer la persecución con combate naval, podrán ver que el barco es El Sabueso, un barco menor de la flotilla de Barbanegra.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QPuedes darles algún positivo a esta tirada, si se buscan alguna manera de mantener la moral alta, como cantar una canción de ánimo todos juntos, gritar conjuntamente una consigna tipo «todes para une y une para todes» cuando se lleven a alguien a interrogar o hablar de lo que primero que harán cuando salgan.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QSi consiguen salvar a Adolfé, es posible despertar todo su poder y convertirlo en une poderose aliade.\\E$"}
+{"rule":"SI_AFIRMACION2","sentence":"^\\QDe hecho, si, por ejemplo, se interpusiera entre ellos y sus objetivos, estos se pararían hasta que dejara de interponerse.\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi van a esconderse, una ronda de 3 tiradas enfrentadas de Sigilo contra Notar.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE de daño.\nDescerebrados:\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\Q0.5 tókenes por el clan de gules de «El Susurros».\\E$"}
+{"rule":"HA_A","sentence":"^\\QPara hacer explotar el volcán, la RCPC ha comprado terrenos en su falda y ha tunelado hasta llegar a la lava.\\E$"}
+{"rule":"DETRAS_PX","sentence":"^\\QEn las largas avenidas verán varias personas delante suyo, que en realidad son ellos mismos, de hecho, harán los mismos gestos y movimientos.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nTamaño +3: +1 herida.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nEcolocación:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d8.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nPiel dura +1: Su piel dura y lisa no solo le protege del frío del mar, también de ataques de otros animales.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nTamaño +3: Mide de 3 a 5 metros de longitud y pesa entre 500 y 700 kg.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAquí tenéis una lista de animales salvajes del manual de SWEA que puedes usar en tus aventuras «cthulhu-pirateras», desde perros y mulas hasta tiburones toro, también conocidos como sardas:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nHechizos: 8 PP, Conoce 1 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\\E$"}
+{"rule":"REP_IMPORTANTE","sentence":"^\\QEl libro, como otros tantos, es un objeto menor que la casa de subastas ha metido para que la gente vaya al excusado entre pieza importante y pieza importante.\\E$"}

@@ -78,7 +78,7 @@ El cthulhunés (o R’lyehiano) es la lengua hablada por Cthulhu, los habitantes
 La Orden del Gran Cthulhu ha conseguido transcribir el idioma a caracteres latinos, ya que los caracteres escritos del Cthulhunés no han podido ser descifrados. Eso ha llevado a que parezca formado por grupos de consonantes que suenan relativamente extraños para el oído, como «mglw’naph» o «fhtagn».
 
 _ph’nglui mglw’nafh Cthulhu  
-R’lyeh wgah'nagl fhtagn_  
+R’lyeh wgah’nagl fhtagn_  
 _En la Ciudad de R’lyeh, el difunto  
 Cthulhu, espera soñando_
 
@@ -601,8 +601,8 @@ Qué decir que las modificaciones extrañas pueden generar horror, sobre todo en
 |**Casco de shoggoth**|3|800|Casco|
 |**Generador de oscuridad de Mi-Go**|1/2|300|Popa o Proa|
 |**Mascarón de anulación de magia Lloigor**|1/2|300|Proa|
-|**Tecnología mi-Go (comunicación)**|1/2|200|Popa|
-|**Tecnología mi-Go (navegación)**|1/2|200|Proa|
+|**Tecnología Mi-Go (comunicación)**|1/2|200|Popa|
+|**Tecnología Mi-Go (navegación)**|1/2|200|Proa|
 |**Tentáculos de retoño oscuro**|3|800|Casco|
 |**Tentáculos de shoggoths**|1|800|Casco|
 |**Velas de alas de noctivago**|1/2|100|Aparejos|
@@ -620,7 +620,7 @@ Qué decir que las modificaciones extrañas pueden generar horror, sobre todo en
 
 **Casco de shoggoth:** El casco de la nave está cubierto por un shoggoth que le otorga mucha dureza y que sella el casco en caso de fugas. Desafortunadamente, el caso también se llena de pseudópodos, proto-globos oculares y tiene cierta fosforescencia de noche. +10 dureza y a todo intento de provocar fugas en el barco fallan. **TPC: 1d6**
 
-**Generador de oscuridad de Mi-Go:** La RCPC ha conseguido crear unos hongos basados en la genética de los Mi-go que reproducen su capacidad de crear oscuridad. Los hongos crecen en un gran cajón (2 metros cúbicos) cerrado casi herméticamente que se coloca en la proa o popa del barco. 
+**Generador de oscuridad de Mi-Go:** La RCPC ha conseguido crear unos hongos basados en la genética de los Mi-Go que reproducen su capacidad de crear oscuridad. Los hongos crecen en un gran cajón (2 metros cúbicos) cerrado casi herméticamente que se coloca en la proa o popa del barco. 
 
 Si se abre el cajón y se proyecta una fuente de luz, estos reaccionan y se defienden de la luz generando una zona oscura que sustrae toda la luz cercana. Si bien de día no sirve para nada, de noche hace al navío totalmente invisible. El barco solo puede ser detectado por el ruido que haga o entrando en contacto con él, pudiendo por ejemplo colarse dentro de un puerto sin ser visto. 
 
@@ -630,11 +630,11 @@ El único problema es que la oscuridad también afecta al interior del barco y l
 
 **Mascarón de anulación de magia Lloigor:** Usando la capacidad de drenar la magia de los lloigors, el mascarón de proa de la nave absorbe toda la magia de la zona, evitando que se puedan lanzar en el barco y 500 metros a su alrededor. El barco drena 1d6 puntos por turno si estás alrededor y 1d8 por turno si estás subido al barco.
 
-**Tecnología mi-Go (comunicación):** En el puente del capitán se coloca un gran tubo (2 metros de altura por 1 metro de diámetro) metálico con llaves, tubos e indicadores que produce un extraño zumbido. El tubo cuyo contenido se desconoce es un metal extraterrestre parecido al bronce. Este artilugio es tecnología Mi-Go que permite comunicación telepática.
+**Tecnología Mi-Go (comunicación):** En el puente del capitán se coloca un gran tubo (2 metros de altura por 1 metro de diámetro) metálico con llaves, tubos e indicadores que produce un extraño zumbido. El tubo cuyo contenido se desconoce es un metal extraterrestre parecido al bronce. Este artilugio es tecnología Mi-Go que permite comunicación telepática.
 
 El capitán o el contramaestre se colocan una banda metálica en la frente y pueden enviar órdenes a todos los sujetos que haya en el barco. Esto permite dar órdenes claras y precisas y recibir respuesta a la velocidad del pensamiento. Esta eficiencia en el trabajo en equipo de los marineros otorga un +1 a la maniobrabilidad de la nave. No debe usarse muy de seguido, ya que genera jaquecas y cansancio en los receptores de la telepatía.
 
-**Tecnología mi-Go (navegación)** Este aparato de tecnología mi-Go parece una estación meteorológica muy avanzada con todo tipo de funciones. La estación tiene diferentes funciones como dar la posición del barco, su dirección, la previsión del tiempo, etc. A efectos de juego, aporta un +1 a las tiradas de navegación para llegar a determinado punto en el mapa. También permite saber el tiempo antes de partir y decidir si partir o esperar una semana a ver si hay buen tiempo.
+**Tecnología Mi-Go (navegación)** Este aparato de tecnología Mi-Go parece una estación meteorológica muy avanzada con todo tipo de funciones. La estación tiene diferentes funciones como dar la posición del barco, su dirección, la previsión del tiempo, etc. A efectos de juego, aporta un +1 a las tiradas de navegación para llegar a determinado punto en el mapa. También permite saber el tiempo antes de partir y decidir si partir o esperar una semana a ver si hay buen tiempo.
 
 **Tentáculos de Retoño oscuro:** Se ha fusionado la quilla del barco con un retoño oscuro, dotando al navío de tentáculos que permiten durante periodos cortos de tiempo pasar por zonas de poco calado, incluso moverse por tierra. Los tentáculos se despliegan por toda la quilla y el barco puede literalmente andar usando los pseudópodos como piernas hasta 500 metros. **TPC: 1d6**
 
@@ -951,12 +951,12 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 |---|---|---|---|
 |Barrera|9|Muro de Yog-Sapha|Mediante una fórmula mágica el conjurador levanta una barrera gelatinosa de gran fuerza a su alrededor, sacada directamente del propio Yog-Sapha, el Habitante de las Profundidades. El muro es casi invisible, pero distorsiona un poco la luz.|
 |Barrera|10|Invocar los apéndices de Dygra|El invocador lanza unas piedras cristalinas (cuarzos, peridotos, amatistas, …) para invocar a la Piedra-Cosa Dygra. Sus tentáculos minerales de Dygra salen de suelo formando una barrera cristalina.|
-|Cambio de forma|--|--|No permitido|
+|Cambio de forma|---|--|No permitido|
 |Captura|11|Aferrar|El taumaturgo dirige su mano hacia su objetivo y hace como que lo agarra.|
 |Captura|12|Invocar avatar de Atlach-Nacha|El hechicero invoca al Dios-araña Atlach-Nacha que captura a su objetivo con su tela de araña.|
 |Castigo|13|Bendecir arma|El brujo toca el arma y la bendice en nombre de una divinidad tomando un brillo especial.|
 |Castigo|14|Emponzoñar arma|El hechicero escupe sobre el arma emponzoñándola y esta se cubre de óxido, moho y suciedad.|
-|Cavar|--|--|No permitido|
+|Cavar|---|--|No permitido|
 |Ceguera|15|Nublar la vista|El mago sopla un polvo especial a su objetivo que nubla su vista.|
 |Ceguera|16|Ajar ojos|El hechicero señala a los ojos del objetivo y estos se secan y marchitan hasta que se caen de sus cuencas.|
 
@@ -968,7 +968,7 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 
 |Poder|d100|Hechizo|Ornamento|
 |---|---|---|---|
-|Chorro|--|--|No permitido|
+|Chorro|---|--|No permitido|
 |Confusión|17|Verdadero nombre de Hastur|El brujo pronuncia parte el auténtico nombre de Hastur y la víctima es aturdida al enfrentarse a lo incognoscible.|
 |Confusión|18|Náuseas|El mago empieza a girar sobre sí mismo e induce náuseas y vómitos a su objetivo.|
 |Conmoción|19|Luces hipnóticas|El lanzador del hechizo proyecta una serie de luces con un patrón hipnótico que deja conmocionada a la víctima.|
@@ -1017,15 +1017,15 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 |Poder|d100|Hechizo|Ornamento|
 |---|---|---|---|
 |Drenaje de puntos de poder|37|Invocar vampiro estelar|El hechicero invoca este ser extradimensional que drena la vida al objetivo y se lo entrega a su amo invocador.|
-|Empatía|--|--|No permitido|
-|Empujón|--|--|No permitido|
-|Explosión|--|--|No permitido|
-|Gigantismo Enanismo|--|--|No permitido|
+|Empatía|---|--|No permitido|
+|Empujón|---|--|No permitido|
+|Explosión|---|--|No permitido|
+|Gigantismo Enanismo|---|--|No permitido|
 |Ilusión|38|Sombras ilusorias|El brujo empieza a manipular la forma de las sombras hasta que parecen objetos reales.|
 |Ilusión|39|Espejismos de Xirdneth|Xirdneth, el hacedor de ilusiones, enseña a sus fieles a crear ilusiones, trampantojos y espejismos mediante pases mágicos con sus manos.|
 |Intangibilidad|40|Forma astral, Viaje astral|El objetivo pasa a su forma astral.|
 |Intangibilidad|41|Forma de sombras|El objetivo se convierte en una sombra. La sombra es mucho más grande y con elementos extras que la real del objetivo.|
-|Invisibilidad|--|--|No permitido|
+|Invisibilidad|---|--|No permitido|
 |Invocación de aliados|42|Animar tatuaje|El lanzador se arranca un tatuaje de un monstruo de los Mitos de su cuerpo y este anima y va tomando tamaño y volumen hasta transformarse en ese ser.|
 
 \conc
@@ -1052,8 +1052,8 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 
 |Poder|d100|Hechizo|Ornamento|
 |---|---|---|---|
-|Lenguas|--|--|No permitido|
-|Lentitud Rapidez|--|--|No permitido|
+|Lenguas|---|--|No permitido|
+|Lentitud Rapidez|---|--|No permitido|
 |Luz|50|Invocar avatar de Thanaroa|Se invoca a un avatar de Thanaroa, el dios malvado con forma de pilar de luz deslumbrante.|
 |Luz|51|Luz del día|El lanzador de conjuros invoca una zona de luz solar alrededor suyo.|
 |Oscuridad|52|Invocar avatar de Mordiggian|Al invocar a un Avatar de Mordiggian, la gran sombra, toda la zona queda a oscuras.|
@@ -1076,8 +1076,8 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 |Manipulación elemental|60|Dominio de la madera, Xilomancia|El invocador golpea el suelo con algún tipo de bastón, cayado o báculo de madera.|
 |Marioneta|61|Hipnosis, Mirada hipnótica|Los ojos del hechicero empiezan a brillar mientras mira fijamente a su víctima y le da órdenes con una voz grave.|
 |Marioneta|62|Muñeca vudú|El hechicero crea una muñeca vudú que representa el objetivo que quiere controlar.|
-|Mejora/Reducción de rasgo|--|--|No permitido|
-|Miedo|--|--|No permitido|
+|Mejora/Reducción de rasgo|---|--|No permitido|
+|Miedo|---|--|No permitido|
 |Protección|63|Bendición de Yig, Protección de Yig|El dios-serpiente Yig bendice al hechicero con una piel dura y llena de escamas que le protege del daño.|
 
 \conc
@@ -1138,8 +1138,8 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 |Teleportación|84|Geometría no-euclidiana|Dibujando en el aire una figura que no cumple las leyes matemáticas de Euclides y atravesándola, el mago puede teleportarse.|
 |Trepamuros|85|Garras reptilianas|Las uñas de manos y pies crecen, de forma que posibilitan andar por las paredes como un reptil.|
 |Trepamuros|86|Ventosas pulpoides|Las manos se llenan de ventosas que secretan una sustancia pegajosa que permiten pegarse a las paredes.
-|Ventaja de combate|--|--|No permitido|
-|Vínculo mental|87|Red neural Mi-go|El hechicero entrega a los integrantes de la red neural unos colgantes con símbolos extraños (lengua Mi-go) para poder crear la red telepática.|
+|Ventaja de combate|---|--|No permitido|
+|Vínculo mental|87|Red neural Mi-Go|El hechicero entrega a los integrantes de la red neural unos colgantes con símbolos extraños (lengua Mi-Go) para poder crear la red telepática.|
 |Vínculo mental|88|Mente colmena de la gran raza de Yith|El hechicero sabe como extender su mente formando una mente colmena como puede hacer los yithianos.|
 |Visión oscura|89|Ojo nocturno de Bast, Nictalopía|Los ojos de mago cambian de forma y se asemejan a los de un felino.|
 |Visión oscura|90|Ungüento ocular para ver de noche|El hechicero unta en sus parpados un ungüento pastoso a base de hierbas y tinta de cefalópodos.|
