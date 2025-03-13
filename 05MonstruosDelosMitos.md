@@ -74,13 +74,17 @@ En el Caribe sería normal que cayeran en fondos marinos donde pueden sobrevivir
 * **Habilidades:** Pelear d6 (solo esquivar), Sigilo d8
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Capacidades especiales:**
-    * **Morfología alien:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
-    * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener áreas de 20 casillas de cualquier forma. No tienen bonificadores ni penalizadores por tamaño.
-    * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de si para interactuar con su entorno. La parte sólida no inmune a los ataques físicos.
-    * **Volar:** Paso volando 12.
-    * **Viaje espacial:** Pueden sobrevivir es el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
-    * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno serán cosas que le mantengan en encerrado en el lugar donde esté el color como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
-    * **Drenaje de vida:** el color se alimenta de la esencia vital de los seres vivos (humanos, seres de los Mitos, animales y plantas) Todos los seres vivos en un radio de 1 kilómetro tendrán que hacer una tirada enfrentada de Vigor contra el espíritu del color. Si fallan, reciben una herida que se refleja en que envejecen, su piel se llena de arrugas y se vuelve gris y su pelo se vuelve lacio y canoso. Cada día puede drenar de su entorno esencia suficiente para crecer d6 casillas.
+  * **Morfología alien:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
+
+\sp
+
+* **Capacidades especiales:**  
+  * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener áreas de 20 casillas de cualquier forma. No tienen bonificadores ni penalizadores por tamaño.
+  * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de si para interactuar con su entorno. La parte sólida no inmune a los ataques físicos.
+  * **Volar:** Paso volando 12.
+  * **Viaje espacial:** Pueden sobrevivir es el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
+  * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno serán cosas que le mantengan en encerrado en el lugar donde esté el color como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
+  * **Drenaje de vida:** el color se alimenta de la esencia vital de los seres vivos (humanos, seres de los Mitos, animales y plantas) Todos los seres vivos en un radio de 1 kilómetro tendrán que hacer una tirada enfrentada de Vigor contra el espíritu del color. Si fallan, reciben una herida que se refleja en que envejecen, su piel se llena de arrugas y se vuelve gris y su pelo se vuelve lacio y canoso. Cada día puede drenar de su entorno esencia suficiente para crecer d6 casillas.
 * **TPC:** d8
 
 \sp
@@ -103,13 +107,15 @@ En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades y 
     * **Armadura +2:** Estos gusanos están cubiertos por una gruesa piel y un limo pegajoso.
     * **Excavar 12:** Los chthonianos pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 12 pasos.
     * **Telepatía:** Pueden comunicarse telepáticamente con otros de su especie, incluso a miles de kilómetros. También puede detectar mentes de otros seres pensantes y controlar las mentes de los humanos (Marioneta usando Espíritu como habilidad).
-    * **Tentáculos:** FUE+d10
-    * **Terremoto:** Levantando la cola o la cabeza y dejándola caer pueden crear un terremoto. El terremoto es un ataque de Chorro que usa su habilidad de Pelear.
     * **Tamaño enorme (8):** Los chthonianos adultos miden entre 9 y 12 metros y un par de metros de diámetro (+8 dureza, +4 bonificación al atacarla, +2 heridas).
-    * **Debilidad agua:** Los chthonianos son extremadamente sensibles al agua. Pueden soportar pequeñas cantidades de agua, pero una inmersión completa supondría su destrucción.
-* **TPC:** 1d8
+    * **Terremoto:** Levantando la cola o la cabeza y dejándola caer pueden crear un terremoto. El terremoto es un ataque de Chorro que usa su habilidad de Pelear.
 
 \sp
+
+* **Capacidades especiales:**  
+    * **Tentáculos:** FUE+d10
+    * **Debilidad agua:** Los chthonianos son extremadamente sensibles al agua. Pueden soportar pequeñas cantidades de agua, pero una inmersión completa supondría su destrucción.
+* **TPC:** 1d8
 
 \sinc
 
@@ -196,6 +202,8 @@ Aun así, son tremendamente poderosos y sus mentes llevan poco a la locura a los
 
 Los lloigors son seres de energía invisibles en forma de vórtice. En este estado suelen coger a individuos marginales y de mente débiles y convertirlos en sus siervos que se encargan de hacer las tareas que ellos no pueden.
 
+\sp
+
 * **Atributos:** Agilidad —, Astucia d12+1, Espíritu d12+3, Fuerza —, Vigor —
 * **Habilidades:** Mitos d12, Notar d10, Sigilo d8
 * **Paso:** 6; **Parada:** —; **Dureza:** —
@@ -215,11 +223,15 @@ El lloigor puede hacerse corpóreo adoptando la forma de un reptil alargado y pa
 * **Paso:** 6; **Parada:** 7; **Dureza:** 19(15)
 * **Ventajas:** Puntos de poder, Nuevo poder x2
 * **Capacidades especiales:**
+    * **Depresión:** Un aura depresiva rodea siempre a un lloigor, todo ser que pase una hora en una localización donde haya un lloigor y fallen una tirada de Espíritu enfrentada, tendrán que coger como trastorno mental Depresión (mayor). Si fallan la TPC, también tendrán que coger la Depresión como trastorno mental.
+    * **Tamaño enorme (7):** Los lloigor como reptiles adultos miden entre 8 y 10 metros de largo y 3 de alto (+7 dureza, +4 bonificación al atacarla, +2 heridas).
+
+\sp
+
+* **Capacidades especiales:**    
     * **Mordisco/Garras:** FUE+d10
     * **Armadura +4:** Su piel dura y escamosa y es muy resistente.
-    * **Tamaño enorme (7):** Los lloigor como reptiles adultos miden entre 8 y 10 metros de largo y 3 de alto (+7 dureza, +4 bonificación al atacarla, +2 heridas).
     * **Telepatía:** Se comunica con cualquier criatura de forma telepática
-    * **Depresión:** Un aura depresiva rodea siempre a un lloigor, todo ser que pase una hora en una localización donde haya un lloigor y fallen una tirada de Espíritu enfrentada, tendrán que coger como trastorno mental Depresión (mayor). Si fallan la TPC, también tendrán que coger la Depresión como trastorno mental.
 * **Hechizos:** 30 PP, Vórtice (Explosión), Telekinesis, Marioneta, Drenar magia (Drenaje de puntos de poder)
 * **TPC:** 1d12
 
@@ -240,6 +252,8 @@ Hay personas que cuentan que lo han visto y han sobrevivido a su ataque y asegur
 El origen de la lusca es desconocido, pero la teoría más plausible es la que elaboró Hernando Villalba en su juventud. Villalba considera que las luscas son versiones degeneradas e involucionadas de las semillas estelares de su adorado Cthulhu. Durante millones de años, algunas de las semillas que escaparon al hundimiento de R’lyeh han ido degenerando y mutando en los terribles monstruos marinos que conocemos como luscas. De hecho, cuando conoció a una tribu de profundos de cerca de Bahamas que cuidaban, alimentaban y hacían ofrendas a una lusca muy anciana que vivía en una cueva submarina, empezó a elaborar la teoría de que R’lyeh estaba sumergida en el Caribe y la lusca era una prueba de ello.
 
 Debido a ser descendientes de las semillas estelares, son bastante inteligentes, aunque siga siendo inteligencia animal. Son capaces de solucionar pequeños problemas, de usar objetos simples o de atacar puntos débiles, incluso puede desarrollar tácticas simples como volcar una barca para atacar a los tripulantes en el agua y que sean presas más fáciles.
+
+\sp
 
 * **Atributos:** Agilidad d8, Astucia d8 (A), Espíritu d6, Fuerza d12+9, Vigor d10
 * **Habilidades:** Atletismo d6, Notar d6, Pelear d8
@@ -322,6 +336,9 @@ Se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d12, Fuerza d12+6, Vigor d12+2
 * **Habilidades:** Mitos d8, Notar d8, Pelear d12
 * **Paso:** 4; **Parada:** 8; **Dureza:** 16 (14)
+
+\sp
+
 * **Capacidades especiales:**
     * **Armadura +2:** Su gruesa piel les confieren una buena armadura.
     * **Tamaño +5** Los pólipos son del tamaño de un hipopótamo (+5 dureza, +2 bonificación al atacarla, +1 heridas)
@@ -342,9 +359,9 @@ Los pólipos ya son de por sí enemigos temibles, pero pueden ponerles hechizos 
 
 \conc
 
-![Profundo (secuaz)](./images/profundo.webp)
-
 Los Profundos son unas criaturas humanoides acuáticas mezcla de pez y rana. Tienen cabezas de pez con unos grandes ojos sin párpados y agallas en el cuello. Pies y manos palmeadas que acaban en zarpas. Su piel resbaladiza de sapo, que se llena de escamas en la zona de la espina dorsal, es de color gris verdoso, aunque su vientre es blanquecino.
+
+![Profundo (secuaz)](./images/profundo.webp)
 
 Solo mueren de forma violenta. Según las leyendas viven eternamente en el fondo del mar en asentamientos submarinos, sirviendo a Dagón e Hydra y esperando el momento adecuado para alzarse de las profundidades y acabar con la raza humana.
 
@@ -355,6 +372,9 @@ Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d8, Idioma Cthulhunés d8, Pelear d6, Mitos de Cthulhu d4, Notar d8, Sigilo d10, Supervivencia d8
 * **Paso:** 6; **Parada:** 6 (5); **Dureza:** 8 (2)
+
+\sp
+
 * **Capacidades especiales:**
     * **Acuático:** Paso nadando 6. Pueden respirar bajo el agua sin problemas y tampoco tienen problemas con la presión a grandes profundidades.
     * **Armadura +2:** Escamas y piel rugosa.
@@ -382,6 +402,8 @@ Dentro de cada comunidad profunda, el más viejo y, por tanto, el más poderoso 
     * **Rituales:** Atraer a los peces, Consagrar personas
 * **TPC:** 1d4 (manada).
 
+\sp
+
 ### Cacique profundo (comodín)
 
 Solo hay 3 caciques profundos en todo el Caribe y son seres de bastante poder, tanto personal como político. Son de mucho más tamaño que el resto de profundos, pero sin llegar al tamaño de profundos míticos como Dagón o Hydra.
@@ -405,6 +427,8 @@ Solo hay 3 caciques profundos en todo el Caribe y son seres de bastante poder, t
 
 Los profundos pueden hibridarse con los humanos. Estos híbridos parecen humanos, pero según van creciendo empiezan a tomar rasgos de pez: piel pálida y escamosa, ojos saltones, agallas, andares patosos y cuando llegan a la madurez suelen sentir la llamada del mar donde se adentran para desaparecer tras transformarse en profundos. Suelen ser seres ariscos y antisociales con tendencias violentas y no suelen destacar por su intelecto, pero son muy útiles por su capacidad de infiltrarse entre humanos.
 
+\sp
+
 Para hacer un híbrido añádele estas características a un PNJ.
 
 * **Habilidades:** Cthulhunés d6
@@ -417,7 +441,7 @@ Para hacer un híbrido añádele estas características a un PNJ.
 
 \sinc
 
-## etoño oscuro (comodín)
+## Retoño oscuro (comodín)
 
 \conc
 
@@ -444,9 +468,11 @@ Los retoños oscuros son unas masas informes de tentáculos con varias bocas. Pa
 
 \conc
 
+Los perros o sabuesos de Tíndalos son unos seres inmortales que habitan la época en la que la Tierra cuando la vida solo eran unos pocos seres unicelulares. Se dice que viven entre los ángulos del tiempo, mientras que el resto de seres vivimos en las curvas del tiempo. No se sabe muy bien su forma exacta, ya que nadie ha sobrevivido a su ataque. 
+
 ![](./images/tindalos.webp)
 
-Los perros o sabuesos de Tíndalos son unos seres inmortales que habitan la época en la que la Tierra cuando la vida solo eran unos pocos seres unicelulares. Se dice que viven entre los ángulos del tiempo, mientras que el resto de seres vivimos en las curvas del tiempo. No se sabe muy bien su forma exacta, ya que nadie ha sobrevivido a su ataque. Cuando alguien viaje a través del tiempo y se acerca a su época, ellos lo notan y van avanzando a través de los ángulos tiempo hasta que lo encuentran y lo destruyen. Fueron creados a partir de restos ADN de dioses y es por ello que tienen formidables poderes.
+Cuando alguien viaje a través del tiempo y se acerca a su época, ellos lo notan y van avanzando a través de los ángulos tiempo hasta que lo encuentran y lo destruyen. Fueron creados a partir de restos ADN de dioses y es por ello que tienen formidables poderes.
 
 Los perros de Tíndalos representan todo lo que es impuro y odian todo lo que es puro. Desean corromperlo o destruirlo. Esta naturaleza impura vincula a los perros con las formas angulares, pues estas carecen de la pureza que poseen las formas curvas.
 
@@ -455,6 +481,9 @@ Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y l
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d12, Vigor d12+2
 * **Habilidades:** Mitos d8, Notar d12, Pelear d12, Sigilo d12, Supervivencia d10
 * **Paso:** 10; **Parada:** 8; **Dureza:** 11(9)
+
+\sp
+
 * **Capacidades especiales:**
     * **Armadura +2:** Su pelaje y su gruesa piel les confieren una buena armadura.
     * **Garras:** FUE+d6
