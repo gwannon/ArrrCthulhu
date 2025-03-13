@@ -118,7 +118,7 @@ Gracias por su documentación a:
 * Aventura «El tesoro de la mansión Corbitt» terminada
 * Aventura «Cazadores de huesos» terminada.
 * Monstruo nuevo: Pólipos volantes
-* Personajes acabados: Ernesto Delapore, George Jansen, Onofre de las Torres/Balua'k
+* Personajes acabados: Ernesto Delapore, George Jansen, Onofre de las Torres/Balua’k
 * Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)
 * Generador aleatorio de libros de los Mitos
 

@@ -494,29 +494,14 @@ Mientras los guardas buscan sus caballos, pasará el tiempo suficiente para que 
 
 Como no puede ser de otra manera, aún mal traducido e incompleto, tienen en sus manos un ejemplar más o menos fidedigno del famoso Necronomicón, del infame Abdul Alhazred.
 
-**Título:**  
-Necronomicón incompleto y traducido al inglés
-
-**Autor:**  
-Abdul Alhazred (traducción anónima)
-
-**Idioma:**  
-Inglés
-
-**TPC:**  
-d4
-
-**Tamaño:**  
-Libro por entregas del que solo tienen un tomo.
-
-**Estado de conservación:**  
-Usado y leído.
-
-**Hechizos:**  
-Droga plutónica
-
-**Tiempo de lectura:**  
-1 semana
+* **Título:** Necronomicón incompleto y traducido al inglés
+* **Autor:** Abdul Alhazred (traducción anónima)
+* **Idioma:** Inglés
+* **TPC:** d4
+* **Tamaño:** Libro por entregas del que solo tienen un tomo.
+* **Estado de conservación:** Usado y leído.
+* **Hechizos:** Droga plutónica
+* **Tiempo de lectura:** 1 semana
 
 ### Consumo recreativo de droga plutónica
 
@@ -606,35 +591,16 @@ Mientras exploran las grandes avenidas y las extrañas plazas de R’lyeh, puede
 > 
 > _Viejo chiste de la Llamada de Cthulhu_
 
-Tabla de Geometría no-euclidiana
+##### Tabla de Geometría no-euclidiana
 
-d6
-
-Suceso extraño
-
-1
-
-**Esquinas rectas:** Cada vez que doblas la esquina parece que vuelves a estar en el mismo lado de la esquina. Solo doblando la esquina de espaldas podrán avanzar.
-
-2
-
-**Callejones estrechos:** El callejón se hace cada vez más estrecho hasta no poder avanzar. Si una persona entra en el callejón y otro desde fuera se aleja para que el primero se haga más pequeño por su perspectiva, podrá pasar por el callejón. La pregunta es cómo pasará el último.
-
-3
-
-**Escaleras:** Al subir o bajar una escalera no se moverán ellos, se moverá el resto del edificio.
-
-4
-
-**Espejismos:** En las largas avenidas verán varias personas delante suyo, que en realidad son ellos mismos, de hecho, harán los mismos gestos y movimientos. Si salen corriendo, los espejismos saldrán corriendo y será imposible alcanzarlos.
-
-5
-
-**Miradores:** Si suben a un edificio o algún mirador para orientarse, si giran 360º aún les quedará otros 90º para volver a donde estaban al principio.
-
-6
-
-**Demasiadas o demasiadas pocas esquinas:** Las habitaciones y estancias, incluso las plazas y los patios, no se corresponden igual dentro que fuera. Si entran en una estancia cuadrada o rectangular puede que una vez dentro tenga 5 o 3 esquinas.
+|d6|Suceso extraño|
+|---|---|
+|1|**Esquinas rectas:** Cada vez que doblas la esquina parece que vuelves a estar en el mismo lado de la esquina. Solo doblando la esquina de espaldas podrán avanzar.|
+|2|**Callejones estrechos:** El callejón se hace cada vez más estrecho hasta no poder avanzar. Si una persona entra en el callejón y otro desde fuera se aleja para que el primero se haga más pequeño por su perspectiva, podrá pasar por el callejón. La pregunta es cómo pasará el último.|
+|3|**Escaleras:** Al subir o bajar una escalera no se moverán ellos, se moverá el resto del edificio.|
+|4|**Espejismos:** En las largas avenidas verán varias personas delante suyo, que en realidad son ellos mismos, de hecho, harán los mismos gestos y movimientos. Si salen corriendo, los espejismos saldrán corriendo y será imposible alcanzarlos.|
+|5|**Miradores:** Si suben a un edificio o algún mirador para orientarse, si giran 360º aún les quedará otros 90º para volver a donde estaban al principio.|
+|6|**Demasiadas o demasiadas pocas esquinas:** Las habitaciones y estancias, incluso las plazas y los patios, no se corresponden igual dentro que fuera. Si entran en una estancia cuadrada o rectangular puede que una vez dentro tenga 5 o 3 esquinas.|
 
 Todos estos sucesos extraños tienen un TPC d4, no quiebran tu mente mucho, pero se suele decir, muchos pocos hacen un mucho.
 
@@ -1105,29 +1071,14 @@ Este diario sería muy interesante para gente como Mary Read con pruebas de los 
 
 Debido a su contenido también se le puede considerar un libro de los Mitos. Estas son sus estadísticas:
 
-**Título:**  
-El diario de Eusebio García
-
-**Autor:**  
-Eusebio García
-
-**Idioma:**  
-Castellano con muchos pasajes en cthulhunés
-
-**TPC:**  
-d8
-
-**Tamaño:**  
-Libro
-
-**Estado de conservación:**  
-Usado y leído
-
-**Hechizos:**  
-2 hechizos a elegir
-
-**Tiempo de lectura:**  
-1 semana
+* **Título:** El diario de Eusebio García
+* **Autor:** Eusebio García
+* **Idioma:** Castellano con muchos pasajes en cthulhunés
+* **TPC:** d8
+* **Tamaño:** Libro
+* **Estado de conservación:** Usado y leído
+* **Hechizos:** 2 hechizos a elegir
+* **Tiempo de lectura:** 1 semana
 
 **Características especiales:** Es un registro muy exhaustivo de la actividad de los Mitos en el Caribe en los últimos años. Otorga un +1 a las tiradas de Mitos en referencia a sucesos recientes si puede revisarse durante una hora. Como los pasajes más interesantes están en cthulhunés solo podrá aprovecharse de este bonus aquellos que hablen cthulhunés.
 
@@ -1267,7 +1218,7 @@ Todo sería una actividad delictiva de lo más normal y corriente, si no fuera p
 
 Michelle LeCourt, una de las jefas del crimen organizado de Kingston y poderosa bruja vudú, tiene ojeadores en el puerto buscando barcos rápidos con tripulaciones con pinta de criminales y necesitadas de dinero que pueda usar para mover su material ilegal. El ojeador se acercará al que tenga pinta de capitán y les ofrecerá trabajo. Si están interesados en conseguir dinero fácil, deberán ir al Retrato del capitán y preguntar por LeCourt.
 
-Michelle LaCourt ha recibido un encargo secreto de la RCPC de que le consiga unos zombis para una tarea que solo ellos podrían realizar. LeCourt no ha preguntado, solo ha cogido el dinero y se ha puesto a abrir tumbas y a sacar cadáveres. El siguiente paso es buscar una tripulación prescindible que lleve en secreto los zombis a su destino. Es importante que las actividades sobrenaturales de RCPC no salgan a la luz así que quieren hacer pasar el cargamento como contrabando, aunque las patrulleras reales y las de aduanas de la RCPC tienen orden de no molestar al barco de tu mesa.
+Michelle LeCourt ha recibido un encargo secreto de la RCPC de que le consiga unos zombis para una tarea que solo ellos podrían realizar. LeCourt no ha preguntado, solo ha cogido el dinero y se ha puesto a abrir tumbas y a sacar cadáveres. El siguiente paso es buscar una tripulación prescindible que lleve en secreto los zombis a su destino. Es importante que las actividades sobrenaturales de RCPC no salgan a la luz así que quieren hacer pasar el cargamento como contrabando, aunque las patrulleras reales y las de aduanas de la RCPC tienen orden de no molestar al barco de tu mesa.
 
 Michelle estará tomando una infusión en uno de los reservados de la segunda planta del Retrato del capitán. Muy tranquilamente y sin ninguna prisa les explicará que les ofrece 1500 doblones por llevar 20 barriles de ron a Santo Domingo, 750 ahora y 750 a la entrega. No quiere preguntas, solo llevar el material hasta su destino eludiendo las naves de aduanas (aunque sabe de sobra que ni se acercarán, ya que tienen orden de no detener a los contrabandistas).
 
@@ -1363,29 +1314,14 @@ Si no consiguen parar a los vampiros, estos terminarán llegando al pueblo y lo 
 
 El libro que el grupito de adolescentes ha encontrado es un pequeño tratado de hechicería y fuego titulado «Fuego Purificador» y escrito en inglés. En sus páginas hace referencia a distintas divinidades primigenias que están relacionadas con el fuego. Tiene marcas de fuego y zonas quemadas y desprende un extraño olor a humo.
 
-**Título:**  
-Fuego purificador
-
-**Autor:**  
-Anónimo
-
-**Idioma:**  
-Inglés
-
-**TPC:**  
-d4
-
-**Tamaño:**  
-Relato corto.
-
-**Estado de conservación:**  
-Usado y leído.
-
-**Hechizos:**  
-Círculo de invocación, Piromancia
-
-**Tiempo de lectura:**  
-Media semana
+* **Título:** Fuego purificador
+* **Autor:** Anónimo
+* **Idioma:** Inglés
+* **TPC:** d4
+* **Tamaño:** Relato corto.
+* **Estado de conservación:** Usado y leído.
+* **Hechizos:** Círculo de invocación, Piromancia
+* **Tiempo de lectura:** Media semana
 
 ### Abandonado a su suerte
 
@@ -1639,31 +1575,15 @@ Son sectarios fanáticos que lucharán hasta la muerte por su sacerdotisa y su d
 
 El libreto puede ser considerado como un libro de los Mitos más con las siguientes características:
 
-**Título:**  
-El capitán de amarillo
-
-**Autor:**  
-Johanna Ribeiro
-
-**Idioma:**  
-Inglés
-
-**TPC:**  
-d8
-
-**Tamaño:**  
-Libreto teatral.
-
-**Estado de conservación:**  
-Recién impreso.
-
-**Hechizos:**  
-Verdadero nombre de Hastur, Luces hipnóticas
-
-**Tiempo de lectura:**  
-Media semana
-
-**Características especiales:** La TPC afectará tanto al lector como al espectador que presencie la obra. De hecho, los espectadores sufrirán una TPC d12 en vez del d8 de leer el libreto debido a que la experiencia teatral es más intensa. Ver la obra no se considera estudiar el libro. La experiencia es aterradora, pero no permite analizarla adecuadamente.
+* **Título:** El capitán de amarillo
+* **Autor:** Johanna Ribeiro
+* **Idioma:** Inglés
+* **TPC:** d8
+* **Tamaño:** Libreto teatral.
+* **Estado de conservación:** Recién impreso.
+* **Hechizos:** Verdadero nombre de Hastur, Luces hipnóticas
+* **Tiempo de lectura:** Media semana
+* **Características especiales:** La TPC afectará tanto al lector como al espectador que presencie la obra. De hecho, los espectadores sufrirán una TPC d12 en vez del d8 de leer el libreto debido a que la experiencia teatral es más intensa. Ver la obra no se considera estudiar el libro. La experiencia es aterradora, pero no permite analizarla adecuadamente.
 
 \sp
 
@@ -1725,49 +1645,16 @@ Si Adolfé te pinta rodeado de lujo y dinero, seguro que tienes algún golpe de 
 
 Puedes rolear el tema del cuadro con preguntas indiscretas de Adolfé o tirar al azar en la siguiente tabla:
 
-Tabla de Temas de cuadros
+#### Tabla de Temas de cuadros
 
-1d6
-
-Tema
-
-Descripción
-
-1
-
-Apareces rodeado de riquezas, ropas lujosas y muchas joyas.
-
-De alguna manera obtienes 1d8x100 doblones de oro. Puede ser una herencia sorpresa, una buena mano de cartas, …
-
-2
-
-Estas al timón de un barco con el pelo al viento, un gran abrigo con galones de capitán o superior y con una pose imponente
-
-Recibirás algún tipo de ascenso. Puede ser dentro de tu orden, tu barco o de la empresa para la que trabajes.
-
-3
-
-Pareces algún tipo de deidad griega con ropajes clásicos rodeado de alegres seres mitológicos bailando, cantando y tocando música, ánforas de vino y ricos manjares.
-
-De alguna manera se monta alrededor tuyo una fiesta salvaje que dura varios días, desde festejos populares hasta un baile en la casa del gobernador o una extraña bacanal de sectarios.
-
-4
-
-Apareces en el espacio montando en un unicornio/pegaso de un blanco inmaculado que deja estelas multicolores en su camino.
-
-De alguna manera vas a tener algún viaje psicodélico, puede ser una cohoba, alguna droga alienígena o algún ritual vudú en que entres en trance debido al alcohol y la música. La cuestión es que entrarás en contacto con una deidad que tendrá que contestarte a una única pregunta.
-
-5
-
-Estás rodeado de oscuridad. En las sombras puedes ver figuras de seres extraños acechándote con relucientes ojos rojos.
-
-Aparecerá un monstruo de los Mitos al azar para acabar con tu vida.
-
-6
-
-Sales sentado en un sillón con aspecto demacrado y solo con una nota que se está cayendo de tu mano.
-
-Recibirás una muy mala noticia. Alguna muerte de un familiar o amigo, quiebra de algún negocio importante o en general algo muy malo para tí.
+|1d6|Tema|Descripción|
+|---|---|---|
+|1|Apareces rodeado de riquezas, ropas lujosas y muchas joyas.|De alguna manera obtienes 1d8 x 100 doblones de oro. Puede ser una herencia sorpresa, una buena mano de cartas, …|
+|2|Estás al timón de un barco con el pelo al viento, un gran abrigo con galones de capitán o superior y con una pose imponente.|Recibirás algún tipo de ascenso. Puede ser dentro de tu orden, tu barco o de la empresa para la que trabajes.|
+|3|Pareces algún tipo de deidad griega con ropajes clásicos rodeado de alegres seres mitológicos bailando, cantando y tocando música, ánforas de vino y ricos manjares.|De alguna manera se monta alrededor tuyo una fiesta salvaje que dura varios días, desde festejos populares hasta un baile en la casa del gobernador o una extraña bacanal de sectarios.|
+|4|Apareces en el espacio montando en un unicornio/pegaso de un blanco inmaculado que deja estelas multicolores en su camino.|De alguna manera vas a tener algún viaje psicodélico, puede ser una cohoba, alguna droga alienígena o algún ritual vudú en que entres en trance debido al alcohol y la música. La cuestión es que entrarás en contacto con una deidad que tendrá que contestarte a una única pregunta.|
+|5|Estás rodeado de oscuridad. En las sombras puedes ver figuras de seres extraños acechándote con relucientes ojos rojos.|Aparecerá un monstruo de los Mitos al azar para acabar con tu vida.|
+|6|Sales sentado en un sillón con aspecto demacrado y solo con una nota que se está cayendo de tu mano.|Recibirás una muy mala noticia. Alguna muerte de un familiar o amigo, quiebra de algún negocio importante o en general algo muy malo para tí.|
 
 La verdad es que no se sabe muy bien como funcionan los poderes ocultos de Adolfé. Puede que sean proféticos y que pinte lo que va a pasar o realmente toda su esencia mágica haga que ocurra lo que pinta. Pero desde luego, habrá pequeños detalles del cuadro que se cumplirán completamente, por ejemplo, si recibe riquezas, la bolsa donde le entregan el dinero es igual que las del cuadro o alguien se parece increíblemente a un personaje de su cuadro. Todo esto puede llevar a pensar que son más de carácter precognitivos.
 
@@ -1865,7 +1752,7 @@ Los restos óseos está metido en una vitrina sobre una estructura de filamentos
 
 Si no se han encontrado nunca con yithianos con una tirada de Ciencias, podrán extrapolar que podría ser algún tipo de crustáceo con tentáculos. También que son muy antiguos, incluso de antes de la llegada de los europeos al nuevo mundo, puede que incluso de las tribus taínas. Pero lo que les llamará la atención serán una marcas en el cono inferior. Son redondas, cuadradas, hexagonales, etc. demasiado perfectas para ser naturales. Algún héroe podría reconocerlas como hechas a propósito para poner joyas o adornos. Esto supondría que no eran meros animales si no puede que fueran inteligentes.
 
-Con una tirada de Medicina podrán ver que murió porque recibió un gran golpe en lo podría denominarse su cráneo y parece que fue en una lucha porque tiene señales de lucha en sus pinzas.
+Con una tirada de Medicina podrán ver que murió porque recibió un gran golpe en lo que podría denominarse su cráneo y parece que fue en una lucha porque tiene señales de pelea en sus pinzas.
 
 ![Cascada en la selva](./images/cascada.webp)
 
@@ -1879,7 +1766,7 @@ Si fallan las dos tiradas, se habrán perdido totalmente y tendrán que volver a
 
 #### El yacimiento
 
-En mitad de la selva, siguiendo las indicaciones de Nigua, hay una cascada y detrás de ella una cueva con una gran masa rocosa (del tamaño de una furgoneta) de piedra blanca en el centro. En la parte superior hay excavado un hueco rectangular del tamaño del esqueleto. Está lleno de tierra y se ve que Nigua escavó para sacar el exoesqueleto. Si sacan toda la tierra que falta verán que la pared está muy pulida y con un corte perfecto, seguramente hecho con herramientas. Desde luego no es un capricho de la naturaleza.
+En mitad de la selva, siguiendo las indicaciones de Nigua, hay una cascada y detrás de ella una cueva con una gran masa rocosa (del tamaño de una furgoneta) de piedra blanca en el centro. En la parte superior hay excavado un hueco rectangular del tamaño del esqueleto. Está lleno de tierra y se ve que Nigua excavó para sacar el exoesqueleto. Si sacan toda la tierra que falta verán que la pared está muy pulida y con un corte perfecto, seguramente hecho con herramientas. Desde luego no es un capricho de la naturaleza.
 
 Alguien, desde luego, deposito el cadáver del yithiano hace siglos como forma de enterramiento. Una tirada de Ciencias detectará entre la tierra sacada restos antiguos de algún material transparente. Por la cantidad y la forma puede que fuera la tapa del sarcófago. Es imposible reconocer el material, pero no parece natural.
 
@@ -1895,11 +1782,11 @@ El regreso será rápido sin ningún tipo de problemas a no ser que tú quieras 
 
 #### Qué paso hace miles de años
 
-Hace unos 3 millones de años, un pequeño asentamiento de Yithianos tuvo que escapar de un ataque de pólipos volantes. Uno de ellos fue herido por los pólipos en la huida y murió al de unos días. El problema es que dentro del cuerpo del molusco no estaba el yithiano sino un ayudante de un taller de la RCPC, Onofre, con quien había intercambiado la mente. Así pues, su compañero yithiano se quedó atrapado en el futuro en el cuerpo de un humano. Conociendo las costumbres de los humanos, le hicieron una especie de ataúd y le dieron sepultura. A los pocos días los supervivientes del ataque sufrieron una emboscada a manos de los pólipos y no quedo nadie para intentar rescatar a Balua'k, que es como se llama el yithiano que intercambio su mente Onofre.
+Hace unos 3 millones de años, un pequeño asentamiento de Yithianos tuvo que escapar de un ataque de pólipos volantes. Uno de ellos fue herido por los pólipos en la huida y murió al de unos días. El problema es que dentro del cuerpo del molusco no estaba el yithiano sino un ayudante de un taller de la RCPC, Onofre, con quien había intercambiado la mente. Así pues, su compañero yithiano se quedó atrapado en el futuro en el cuerpo de un humano. Conociendo las costumbres de los humanos, le hicieron una especie de ataúd y le dieron sepultura. A los pocos días los supervivientes del ataque sufrieron una emboscada a manos de los pólipos y no quedo nadie para intentar rescatar a Balua’k, que es como se llama el yithiano que intercambio su mente Onofre.
 
-Ante la nueva situación, Balua'k se adaptó rápidamente a la vida humana y paso de ser un simple peón de taller trabajando con azufre y mercurio a ser un reputado científico para la RCPC. Si bien tiene comportamientos extraños debido a la brecha cultural, se han tomado como excentricidades de genio.
+Ante la nueva situación, Balua’k se adaptó rápidamente a la vida humana y paso de ser un simple peón de taller trabajando con azufre y mercurio a ser un reputado científico para la RCPC. Si bien tiene comportamientos extraños debido a la brecha cultural, se han tomado como excentricidades de genio.
 
-Balua'k ha estado detrás de algunos de los descubrimientos más importantes que ha tenido el tentáculo científico de la RCPC. No le gusta el uso que se le está dando a sus descubrimientos, así que ahora que tiene recursos está tratando de desarrollar que le permita a su mente a volver a su tiempo.
+Balua’k ha estado detrás de algunos de los descubrimientos más importantes que ha tenido el tentáculo científico de la RCPC. No le gusta el uso que se le está dando a sus descubrimientos, así que ahora que tiene recursos está tratando de desarrollar que le permita a su mente a volver a su tiempo.
 
 #### Buscando a Onofre
 
@@ -1911,31 +1798,31 @@ Otra opción es que su nombre aparezca en alguna incursión a una instalación d
 
 #### El viajero en el tiempo
 
-Onofre/Balua'k es un científico yithiano y solo tiene su trabajo. Solo va del laboratorio de RCPC a la casa señorial que le ha puesto la RCPC y vuelta. Si lo entrevistan en su casa, sus sirvientes, espías de la RCPC, darán aviso de la extraña visita. No les interesa perder un activo tan importante y lo tienen controlado. Si eso ocurre, mandará una banda de matones a asustarlos (3 piratas por cada persona de tu mesa) o más.
+Onofre/Balua’k es un científico yithiano y solo tiene su trabajo. Solo va del laboratorio de RCPC a la casa señorial que le ha puesto la RCPC y vuelta. Si lo entrevistan en su casa, sus sirvientes, espías de la RCPC, darán aviso de la extraña visita. No les interesa perder un activo tan importante y lo tienen controlado. Si eso ocurre, mandará una banda de matones a asustarlos (3 piratas por cada persona de tu mesa) o más.
 
-Es mejor pillarle en el paseo de camino al o del trabajo y hablar mientras andáis. Se mostrará cordial y hablador. Si le cuentan la verdad de lo que saben, Balua'k confesará toda su historia y si le parecen de fiar les hablará de su proyecto de viaje en el tiempo.
+Es mejor pillarle en el paseo de camino al o del trabajo y hablar mientras andáis. Se mostrará cordial y hablador. Si le cuentan la verdad de lo que saben, Balua’k confesará toda su historia y si le parecen de fiar les hablará de su proyecto de viaje en el tiempo.
 
-Conseguir que Balua'k vuelva a su tiempo es un golpe muy grande a la RCPC. Así que ayudarle a construir la máquina puede ser muy bueno para la causa. Otra opción es darle directamente el paseo, pero recuérdales que son personas heroicas y buenas y esas personas no matan a científicos extraterrestres.
+Conseguir que Balua’k vuelva a su tiempo es un golpe muy grande a la RCPC. Así que ayudarle a construir la máquina puede ser muy bueno para la causa. Otra opción es darle directamente el paseo, pero recuérdales que son personas heroicas y buenas y esas personas no matan a científicos extraterrestres.
 
-Por otro lado, cualquier tipo de interacción violenta hará que no se fie y confiese que realmente es un yithiano perdido en el tiempo, pero callará su proyecto de volver a su tiempo.
+Por otro lado, cualquier tipo de interacción violenta hará que no se fie y no confiese que realmente es un yithiano perdido en el tiempo, pero callará su proyecto de volver a su tiempo.
 
-Si deciden acabar con Balua'k plantará batalla, pero no es un combatiente, aunque puedes hacer que aparezcan matones de la RCPC que le vigilan.
+Si deciden acabar con Balua’k plantará batalla, pero no es un combatiente, aunque puedes hacer que aparezcan matones de la RCPC que le vigilan.
 
 #### Conseguidores
 
-Si deciden ayudarle con su máquina les explicará que necesita para completarla. Balua'k necesita 3 materiales para su ingenio temporal:
+Si deciden ayudarle con su máquina les explicará que necesita para completarla. Balua’k necesita 3 materiales para su ingenio temporal:
 
-* **Plancha de cristal mercurizado de 3x3 metros:** Los únicos productores de cristal tan grande en el Caribe están en La Habana. Por 500 doblones podrán hacerte la lámina de cristal, el problema será transportarlo de vuelta. Una tormenta, un ataque de profundos o una batalla naval podrían dañarlo irreversiblemente. Tampoco será fácil llevarlo al lugar donde lo necesite Balua'k.
-* **Cristales azules de laminar:** Esta piedra semipreciosa de color azul se encuentra solo en la cordillera de Barohuco en el sur de Santo Domingo. Deberán adentrarse en la selva hasta llegar a las montañas y allí buscar un yacimiento. Necesitarán equipo de excavación y algo para los 500 kilos que les ha pedido. Balua'k pide tanto mineral porque debe refinarlo.
+* **Plancha de cristal mercurizado de 3x3 metros:** Los únicos productores de cristal tan grande en el Caribe están en La Habana. Por 500 doblones podrán hacerte la lámina de cristal, el problema será transportarlo de vuelta. Una tormenta, un ataque de profundos o una batalla naval podrían dañarlo irreversiblemente. Tampoco será fácil llevarlo al lugar donde lo necesite Balua’k.
+* **Cristales azules de laminar:** Esta piedra semipreciosa de color azul se encuentra solo en la cordillera de Barohuco en el sur de Santo Domingo. Deberán adentrarse en la selva hasta llegar a las montañas y allí buscar un yacimiento. Necesitarán equipo de excavación y algo para los 500 kilos que les ha pedido. Balua’k pide tanto mineral porque debe refinarlo.
 * **Lentes de precisión:** Necesitarán un juego de lentes ópticas de precisión para centrar la luz solar en un punto adecuado. Podrían costar unos 300 doblones y deberán buscarlas en alguna gran ciudad.
 
-Una vez encontrados los 3 materiales, deberán encontrar un piso franco donde pueda esconder a Balua'k mientras termina de montar su máquina. Deberán «secuestrarlo» y llevarlo a su escondite. Deberán ocultarlo y defenderlo. Es a tu elección que la RCPC encuentre el piso franco y trate de asaltarlo, tienes a tu disposición a montones de maleantes de los barrios bajos que la RCPC pueda pagar y eso son muchos montones. Deberán aguantar una semana escondidos. Pasada la semana, Balua'k debería poder hacer funcionar su motor temporal.
+Una vez encontrados los 3 materiales, deberán encontrar un piso franco donde pueda esconder a Balua’k mientras termina de montar su máquina. Deberán «secuestrarlo» y llevarlo a su escondite. Deberán ocultarlo y defenderlo. Es a tu elección que la RCPC encuentre el piso franco y trate de asaltarlo, tienes a tu disposición a montones de maleantes de los barrios bajos que la RCPC pueda pagar y eso son muchos montones. Deberán aguantar una semana escondidos. Pasada la semana, Balua’k debería poder hacer funcionar su motor temporal.
 
 #### El fallo temporal
 
 El ingenio temporal es una especie de arco circular de madera y metal. El borde interior está lleno de cristales azules de laimar y en la parte superior en un soporte metálico están colocadas las lentes concentrando la luz solar y luego difuminándola por el cristal mercurizado.
 
-Al abrir una claraboya, la luz del mediodía incide en las lentes y se difumina sobre el cristal hasta volverse transparente. El laminar empezará a brillar en tonos azulados y el cristal parecerá desaparecer. Lo increíble es que al otro largo del círculo no se ven las paredes de la habitación, sino una selva prehistórica. Balua'k gritará Eureka emocionado (será la primera vez que le vean así). Balua'k se despedirá y dará un paquete a una persona de tu mesa.
+Al abrir una claraboya, la luz del mediodía incide en las lentes y se difumina sobre el cristal hasta volverse transparente. El laminar empezará a brillar en tonos azulados y el cristal parecerá desaparecer. Lo increíble es que al otro largo del círculo no se ven las paredes de la habitación, sino una selva prehistórica. Balua’k gritará Eureka emocionado (será la primera vez que le vean así). Balua’k se despedirá y dará un paquete a una persona de tu mesa.
 
 Cuando cruza el umbral se gira y sonríe y de repente todo empieza sobrecalentarse, los cristales de laminar se funden y en el cristal aparecen fisuras. Se empiezan a ver imágenes de cosas increíbles de diferentes épocas y dimensiones. Tira en la Tabla de TPC para libros por cada persona de tu mesa. Esa es la TPC que deberá pasar cada uno con un d4 habrá visto gules devorando un cadáver y con un d12 igual ha visto a los dioses danzantes y flautistas alrededor de Azathoth. Si no pasan la tirada, descríbeles lo que ven exactamente cada uno de los que han fallado porque no podrán olvidarlo jamás.
 
@@ -1943,13 +1830,13 @@ Y de repente todo se para, el cristal se raja completamente y la luz deja de inc
 
 #### Sabuesos
 
-Parece que todo ha salido bien, pero lo que no saben es que 3 Sabuesos de Tíndalos están acercándose a través del tiempo. Los sabuesos de Tíndalos han rastreado el ingenio de Balua'k y sus energías temporales y no van a permitir que se repita. Tienen intención de matar a todos los testigos y destruir el invento de Balua'k.
+Parece que todo ha salido bien, pero lo que no saben es que 3 Sabuesos de Tíndalos están acercándose a través del tiempo. Los sabuesos de Tíndalos han rastreado el ingenio de Balua’k y sus energías temporales y no van a permitir que se repita. Tienen intención de matar a todos los testigos y destruir el invento de Balua’k.
 
 La batalla será a muerte, los sabuesos ni se rinden ni huyen, solo puede quedar un bando vivo. Es importante que sepan que esto volverá a pasar si activan el ingenio.
 
 #### Recompensas
 
-Si ayudan a Balua'k y vuelve a su tiempo, este les dará sus libros de notas. Tienen fórmulas, esquemas, teorías, etc. que ha usado en sus proyectos para la RCPC. No pueden considerarse libros de los Mitos, pero si una persona con Ciencias d8 o más se estudia los cuadernos de notas durante una semana, obtendrá un +2 a las tiradas de Ciencias o Reparar cuando traten de sabotear algún artilugio científico de la RCPC. También da el bono para saber sus fallos y como aprovecharlos.
+Si ayudan a Balua’k y vuelve a su tiempo, este les dará sus libros de notas. Tienen fórmulas, esquemas, teorías, etc. que ha usado en sus proyectos para la RCPC. No pueden considerarse libros de los Mitos, pero si una persona con Ciencias d8 o más se estudia los cuadernos de notas durante una semana, obtendrá un +2 a las tiradas de Ciencias o Reparar cuando traten de sabotear algún artilugio científico de la RCPC. También da el bono para saber sus fallos y como aprovecharlos.
 
 Personajes como Ifá, genios de la mecánica, pueden sacarle mucho provecho a este libro y en vez de un bono de +2 sería de +4.
 
@@ -2013,21 +1900,14 @@ Lo peor es un libro con diferentes rituales con sacrificios humanos. Parece que 
 
 El libro sagrado de la Capilla de la Contemplación debe ser considerado un libro de los Mitos con las siguientes características.
 
-**Título:** El libro de la Contemplación
-
-**Autor:** Michael Thomas
-
-**Idioma:** Inglés
-
-**TPC:** d4
-
-**Tamaño:** Libro
-
-**Estado de conservación:** Usado y leído
-
-**Hechizos:** 2 hechizos a elegir
-
-**Tiempo de lectura:** 1 semana
+* **Título:** El libro de la Contemplación
+* **Autor:** Michael Thomas
+* **Idioma:** Inglés
+* **TPC:** d4
+* **Tamaño:** Libro
+* **Estado de conservación:** Usado y leído
+* **Hechizos:** 2 hechizos a elegir
+* **Tiempo de lectura:** 1 semana
 
 #### Los feligreses de la capilla
 
@@ -2401,29 +2281,14 @@ Sea como sea, seguramente los chthonianos terminen hundiendo la isla, y la únic
 
 Si consiguen, los cuadernos con la investigación no solo mermarán la capacidad de la Orden de usar chthonianos, sino que, en manos adecuadas, podría ser usado para la construcción más eficiente de fortalezas si fuera necesario. Además, las notas del estudio pueden usarse como libro de los Mitos con las siguientes características.
 
-**Título:**  
-De la construcción de edificios anti chthonianos
-
-**Autor:**  
-Varios autores
-
-**Idioma:**  
-Cthulhunés
-
-**TPC:**  
-d4
-
-**Tamaño:**  
-Varios cuadernos de anotaciones a mano
-
-**Estado de conservación:**  
-Usado y leído
-
-**Hechizos:**  
-Se describen los hechizos de barrera y desvío hechos permanentes para proteger los edificios: Muro de Yog-Sapha, Invocar los apéndices de Dygra, Vibración dimensional y Vibración temporal
-
-**Tiempo de lectura:**  
-1 semana
+* **Título:** De la construcción de edificios anti chthonianos
+* **Autor:** Varios autores
+* **Idioma:** Cthulhunés
+* **TPC:** d4
+* **Tamaño:** Varios cuadernos de anotaciones a mano
+* **Estado de conservación:** Usado y leído
+* **Hechizos:** Se describen los hechizos de barrera y desvío hechos permanentes para proteger los edificios: Muro de Yog-Sapha, Invocar los apéndices de Dygra, Vibración dimensional y Vibración temporal
+* **Tiempo de lectura:** 1 semana
 
 _**Recompensa extra de cordura (+1):** Preocuparse y salvar a las víctimas colaterales debería ser una prioridad. Si ponen en peligro su vida para proteger a los taínos o desechan planes más fáciles que pondrían a los taínos en peligro por otros más difíciles y mortales deberías recompensarles con un punto de cordura._
 

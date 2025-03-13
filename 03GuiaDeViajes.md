@@ -157,7 +157,7 @@ Los Santos eran una familia muy creyente que cuando entraron en contacto con los
 
 Los Santos saben todo lo que se puede saber sobre los profundos del Caribe. Aunque huraños son muy religiosos y una persona que muestre su fe cristiana podría acercárseles y sacarles información útil sobre los profundos.
 
-> **El ostracismo o «Ymg' yog ah»** es una antigua ley de los profundos reservada a las tribus que hayan hecho actos terribles contra otros profundos o hayan ofendido al Gran Cthulhu. Cualquier profundo que sea excluido no podrá salir de un pequeño territorio que se les asignará. Ningún profundo tendrá tratos con ellos y si se los encuentran fuera de su territorio los deben matar. Solo un gran cacique puede declarar la exclusión, pero nadie puede quitarla, es para siempre. Teniendo en cuenta que los profundos son inmortales es una pena muy dura.
+> **El ostracismo o «Ymg’yog ah»** es una antigua ley de los profundos reservada a las tribus que hayan hecho actos terribles contra otros profundos o hayan ofendido al Gran Cthulhu. Cualquier profundo que sea excluido no podrá salir de un pequeño territorio que se les asignará. Ningún profundo tendrá tratos con ellos y si se los encuentran fuera de su territorio los deben matar. Solo un gran cacique puede declarar la exclusión, pero nadie puede quitarla, es para siempre. Teniendo en cuenta que los profundos son inmortales es una pena muy dura.
 
 #### El infierno
 
@@ -466,7 +466,7 @@ La RCPC la usa como sede central en Matanzas, pero también como almacén. Los s
 
 La Destreza es una escuela de esgrima (y casi una filosofía de vida) de origen español que cuando llego al Caribe desemboco en una nueva escuela llamada la Destreza Indiana. La Destreza Indiana es una adaptación de la Destreza a las singularidades del Caribe.
 
-Diego Rodriguez de Guzman es un maestro navarro de la Destreza que junto a otros esgrimistas de Cuba están desarrollando un nuevo arte marcial, la llamada Destreza Indiana. Tiene una escuela de esgrima en Matanzas, donde los ricos y poderosos de La Habana y Matanzas llevan a sus hijos a estudiar ese estilo de lucha y muchas a que Guzmán les meta en vereda.
+Diego Rodríguez de Guzmán es un maestro navarro de la Destreza que junto a otros esgrimistas de Cuba están desarrollando un nuevo arte marcial, la llamada Destreza Indiana. Tiene una escuela de esgrima en Matanzas, donde los ricos y poderosos de La Habana y Matanzas llevan a sus hijos a estudiar ese estilo de lucha y muchas a que Guzmán les meta en vereda.
 
 Guzmán es un fiel seguidor del recto código ético y moral de la Destreza y no enseñará su nuevo estilo a personajes de dudosa reputación. Se han dado casos en que el propio Guzmán se ha batido en duelo con estudiantes que han deshonrado su estilo.
 
@@ -510,7 +510,7 @@ La Orden de Cthulhu suele usar algunas de las islas más pequeñas como zoos imp
 
 En el extremo oeste de la isla de Cuba, en la costa de la península de Guanahacabibes, se encuentra una serie de [estructuras de granito sumergidas en el mar](https://es.wikipedia.org/wiki/Formaci%C3%B3n_sumergida_de_Cuba). Están a unos 650/700 metros de profundidad y ocupan una extensión de unos 2 km². Tienen formas variadas, circulares y piramidales, y la más grande es una especie de pirámide escalonada de unos 100 metros de altura.
 
-Las únicas personas que conoce su existencia es Hernando Villalba y los adeptos de mayor nivel de la Orden. Se quedó impresionado la primera vez que se sumergió y vio las estructuras, pensando que había encontrado la ciudad de su señor. Sin embargo, lo que encontró fue un puesto avanzado submarino de los Antiguos (una extraña raza extraterrestre que habito la Tierra hace miles de años).
+Las únicas personas que conoce su existencia es Hernando Villalba y los adeptos de mayor nivel de la Orden. Hernando se quedó impresionado la primera vez que se sumergió y vio las estructuras, pensando que había encontrado la ciudad de su señor. Sin embargo, lo que encontró fue un puesto avanzado submarino de los Antiguos (una extraña raza extraterrestre que habito la Tierra hace miles de años).
 
 Paso un año estudiando los grabados que había en las paredes de las estructuras y nadie sabe qué descubrió en ellos, pero desde su visita cambió su forma de pensar sobre como encontrar R’lyeh.
 
@@ -596,7 +596,7 @@ Este árbol, que es considerado mágico, tiene un aura de poder alrededor suyo q
 
 #### Carnaval de Ponce
 
-Desde 1700 la ciudad de Ponce es famosa por su Carnaval. En durante una semana de febrero se celebra este gran festival mezcla de las tradiciones pre-cristianas europeas y las pre-colombinas. Cuenta con el Desfile de Carnaval, Coronación de sus Reinas y El Entierro de la Sardina. Incluye desfiles, bailes, presentaciones y otras sorpresas.
+Desde 1700 la ciudad de Ponce es famosa por su Carnaval. En durante una semana de febrero se celebra este gran festival mezcla de las tradiciones precristianas europeas y las precolombinas. Cuenta con el Desfile de Carnaval, Coronación de sus Reinas y El Entierro de la Sardina. Incluye desfiles, bailes, presentaciones y otras sorpresas.
 
 En el carnaval de Ponce, los vejigantes son monstruos que representan el mal. Ellos buscan secuestrar a los niños, pero las fuerzas del bien, representadas por el rey Momo (el dios de la burla) y sus seguidores, los vencen. Los vegigantes usan máscaras grotescas de vivos colores hechas con vejigas de animales. Son fruto de las tradiciones, taínas, europeas y africanas.
 
@@ -788,7 +788,7 @@ _Población:_ 8.000 habitantes
 
 _Controlada por:_ Reino de Francia
 
-Hôpital es una zona en el centro de Saint-Domingue, conocida por el hospital que se fundó allí. Esta zona está llena de pequeñas comunidades de inmigrantes ingleses y sobre todo franceses y de grandes terratenientes. No hay ninguna urbe, no será hasta dentro de unos años que se funde Puerto Principe.
+Hôpital es una zona en el centro de Saint-Domingue, conocida por el hospital que se fundó allí. Esta zona está llena de pequeñas comunidades de inmigrantes ingleses y sobre todo franceses y de grandes terratenientes. No hay ninguna urbe, no será hasta dentro de unos años que se funde Puerto Príncipe.
 
 #### El gumbo eterno
 
@@ -806,7 +806,7 @@ La terrible verdad del gumbo es que el primer gumbo lo hizo con carne humana. Ma
 
 ### Fèt Gede
 
-El Fét Ged es el Día de los muertos para los practicantes del vudú. A pesar de estar prohibido todos los rituales religiosos que no sean católicos, a primeros de noviembre los creyentes celebran el Fèt Gede escondido dentro de las celebraciones católicas de «Todos los santos». Salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los cementerios y algunos son poseídos por los gede, los espíritus de los ancestros muertos.
+El Fèt Gede es el Día de los muertos para los practicantes del vudú. A pesar de estar prohibido todos los rituales religiosos que no sean católicos, a primeros de noviembre los creyentes celebran el Fèt Gede escondido dentro de las celebraciones católicas de «Todos los santos». Salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los cementerios y algunos son poseídos por los gede, los espíritus de los ancestros muertos.
 
 Es una celebración muy popular entre los piratas por sus excesos y se sabe que es visitada por muchos piratas que se mezclan entre los celebrantes para disfrutar de la fiesta. Puede ser un buen momento en el que tu mesa se encuentre con alguna de sus némesis piratas. Fácilmente, todo puede pasar de la dialéctica a las peleas de taberna o los duelos a espada.
 
@@ -979,7 +979,7 @@ Si tu mesa se adentra en el pantano buscando la sabiduría o el poder de la bruj
 
 Unas 700 islas, islotes y cayos forman este archipiélago. Los bancos de arenas y los arrecifes plagan sus aguas y los pecios de barcos ingleses, franceses y españoles llenan sus fondos marinos, algunos con grandes tesoros de oro, plata y piedras preciosas. Solo unas 20 o 30 están habitadas por lucayos, una rama de los taínos, y por colonos de origen español o inglés.
 
-Alguna de las islas de mayor tamaño de las Bahamas fue donde desembarcó Colón el 12 de octubre de 1492 en su primer viaje a lo que él llamo «Nuevo mundo» y fueron los lucayos los primeros habitantes del Caribe que vieron a un europeo.
+Alguna de las islas de mayor tamaño de las Bahamas fue donde desembarcó Colón el 12 de octubre de 1492 en su primer viaje a lo que él llamó «Nuevo mundo» y fueron los lucayos los primeros habitantes del Caribe que vieron a un europeo.
 
 La población lucaya está muy mermada debido a las nuevas enfermedades y las migraciones forzosas que impusieron los españoles durante su dominio de las Bahamas. La mayoría de la población es inglesa, descendiente de puritanos que buscaron libertad religiosa en las colonias, o esclavos que trabajan forzados en las plantaciones de las grandes islas.
 
@@ -1244,7 +1244,7 @@ Las Antillas Menores es una zona del Caribe plagada de pequeñas islas de origen
 
 \sp
 
-### Volcanes sub-acuáticos
+### Volcanes subacuáticos
 
 El único volcán submarino registrado en el Caribe es el Diamond Islet (Islote del Diamante) en alusión a unas rocas emergidas cercanas. Se encuentra a unos kilómetros al norte de la isla de Granada. Su cráter está a unos 160 metros de profundidad y está activo. Aunque hasta 1939 no se registrará ninguna actividad. Así que siente libre de hacerlo estallar cuando quieras. Las aguas del cráter tienen una media de 150/200 grados, lo que dificulta su exploración. Igual a alguien de tu mesa se le ocurre una forma de cocer a algún ser acuático gigantesco en sus aguas o de freírlo haciéndole expulsar lava.
 
@@ -1258,7 +1258,7 @@ El único volcán submarino registrado en el Caribe es el Diamond Islet (Islote 
 
 Practicar magia no solo afecta a tu cordura, también a tu reputación y si no tienes cuidado puedes acabar quemado en la plaza del pueblo por brujería. Quien más quien menos en nuestro Caribe ha presenciado prodigios mágicos, pero no es lo mismo que la vieja ermitaña sane las fiebres de un niño con sus bebedizos a que los héroes entren volando en la casa del Gobernador de Jamaica lanzando rayos verdes.
 
-Queda a discreción del director de juego cuando los jugadores pueden ser buscados y perseguidos por brujos o que los pueblerinos atranquen las puertas y las ventanas ante su paso, pero te damos unas sencillas normas que puedes tener en cuenta a la hora de gestionar la reputación de los PJs.
+Queda a discreción del director de juego cuando los jugadores pueden ser buscados y perseguidos por brujos o que los pueblerinos atranquen las puertas y las ventanas ante su paso, pero te damos unas sencillas normas que puedes tener en cuenta a la hora de gestionar la reputación de los PJ.
 
 1.  **Si no hay testigos (o no se dejan testigos) no hay problema.** Por mucho destrozo que se produzca por métodos mágicos, casi nunca vendrá representantes de la ley a buscar pistas y a culpar a los jugadores, se quedarán en el cuartel bebiendo y comiendo y culparán de todo a los enemigos más cercanos, a los más raros y odiados del pueblo o a las minorías.
 2.  **Recuerda que las comunicaciones son lentas.** Pueden pasar semanas hasta que las noticias de los actos de los personajes en una isla lleguen a otra. Además, los rumores viajan más rápido que la información exacta, así que puedes jugar con todo tipo de equívocos y malinterpretaciones cuando llegan a un nuevo pueblo. Puede que un cultista menor les entregue una estatuilla maldita pensando que son los cultistas que buscaba.

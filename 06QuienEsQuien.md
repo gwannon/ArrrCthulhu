@@ -493,13 +493,13 @@ Es pansexual y está obsesionado con el sexo. De hecho, suele participar en toda
 
 **Sugerencia de interpretación:** No puedes parar de flirtear, es tu naturaleza. Buscas al más atractivo del grupo y le agobias con tus halagos, insinuaciones y dobles sentidos. Si te sigue el juego pierdes interés. Pero si se ruboriza o escandalizada te atrae mucho más y redoblas tus esfuerzos. Digamos que son tus instintos cazadores los que te dominan en cierta manera.
 
-## Onofre de las Torres/Balua'k (comodín)
+## Onofre de las Torres/Balua’k (comodín)
 
-Balua'k es un yithiano perdido en el tiempo. Debido a guerra de su pueblo con los pólipos volantes, se ha visto encerrado en el cuerpo de un humano en el 1722 en el Caribe. Está convencido que está solo, así que está buscando una forma de viajar en el tiempo y volver con sus congéneres.
+Balua’k es un yithiano perdido en el tiempo. Debido a guerra de su pueblo con los pólipos volantes, se ha visto encerrado en el cuerpo de un humano en el 1722 en el Caribe. Está convencido que está solo, así que está buscando una forma de viajar en el tiempo y volver con sus congéneres.
 
-Balua'k ocupa el cuerpo de Onofre, un huérfano que trabaja como ayudante de taller en un laboratorio de la RCPC. Tuvo que seguir con la tapadera de Onofre y poco a poco con sus conocimientos científicos superiores se convirtió en uno de los científicos principales de la rama científica de la RCPC. De hecho, es tan importante que tiene gente vigilándole todo el rato, aunque él no los vea.
+Balua’k ocupa el cuerpo de Onofre, un huérfano que trabaja como ayudante de taller en un laboratorio de la RCPC. Tuvo que seguir con la tapadera de Onofre y poco a poco con sus conocimientos científicos superiores se convirtió en uno de los científicos principales de la rama científica de la RCPC. De hecho, es tan importante que tiene gente vigilándole todo el rato, aunque él no los vea.
 
-Balua'k ha ido con el tiempo creándose un equipo de supervivencia para viajes temporales y tiene de todo en su macuto de viaje, prismáticos, purificadores de agua, antitoxinas, etc.
+Balua’k ha ido con el tiempo creándose un equipo de supervivencia para viajes temporales y tiene de todo en su macuto de viaje, prismáticos, purificadores de agua, antitoxinas, etc.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Ciencias d12, Disparar d6, Idioma castellano d8, Idioma inglés d6, Investigar d10, Mitos de Cthulhu d8, Notar d8, Pelear d6, Reparar d8

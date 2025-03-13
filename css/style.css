@@ -244,17 +244,17 @@ table tbody tr:nth-child(odd) {
 }
 
 /* ------------ Listas ------------------- */
-ul li:not(ul li ul li) {
+ul li:not(ul li ul li, ul.libro li) {
   list-style-type: none;
   position: relative;
   min-height: 33px;
   padding-bottom: 5px;
 }
 
-ul li:not(ul li ul li):before,
-ul li:not(ul li ul li):after {
+ul li:not(ul li ul li, ul.libro li):before,
+ul li:not(ul li ul li, ul.libro li):after {
   content: "";
-  top: -2px;
+  top: -6px;
   left: -24px;
   --size: 1em;
   height: calc(var(--size) * 1.1);
@@ -275,12 +275,28 @@ ul li:not(ul li ul li):after {
   clip-path: polygon(13% 18%, 0 29%, 30% 50%, 0 68%, 15% 83%, 51% 59%, 80% 85%, 100% 66%, 70% 50%, 99% 27%, 83% 16%, 51% 42%);
 }
 
+ul.libro {
+  border: 1px solid var(--black-color);
+  background-color: var(--green-dark);
+  background: linear-gradient(142deg, var(--green-dark) 0%, var(--green-dark) 57%, var(--green-cthulhu) 100%);
+  color: var(--white-color);
+  margin: 0px;
+  padding: 10px;
+}
+
+ul.libro li {
+  list-style-type: none;
+  margin: 0 0 5px 0;
+  padding: 0;
+}
+
 /* ----------- imagenes ---------------*/
 
 img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
   width: 100%;
   max-height: 1000px;
 }
+
 
 
 /* ------------- Paginación -------------------- */

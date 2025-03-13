@@ -78,3 +78,9 @@
 {"rule":"SUBJUNTIVO_PASADO2","sentence":"^\\QPueden tratar de que un yithiano mande su mente al pasado y ocupe el cuerpo de un PJ con lo que su mente ocupará la mente del yithiano y podrá hablar con los otros PJ y estos avisarle de lo que va a pasar.\\E$"}
 {"rule":"SUBJUNTIVO_PASADO2","sentence":"^\\QPueden tratar de que un yithiano mande su mente al pasado y ocupe el cuerpo de un PJ con lo que su mente ocupará la mente del yithiano y podrá hablar con los otros PJ y estos avisarle de lo que va a pasar.\\E$"}
 {"rule":"TU_TILDE","sentence":"^\\QOtra opción sería sustancias que podrían lanzar tu mente al pasado y así puedes avisar a tu yo del pasado.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QAlerta\nCapacidades especiales:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6+2\nVisión nocturna:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qla cuestión es que de esas tradiciones se pueden sacar un ritual al azar de la tabla de Rituales.\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi puede ser, adornándola un poco.\\E$"}
+{"rule":"SE","sentence":"^\\QPor otro lado, cualquier tipo de interacción violenta hará que no se fie y no confiese que realmente es un yithiano perdido en el tiempo, pero callará su proyecto de volver a su tiempo.\\E$"}
+{"rule":"MIN_DIAS_SEMANA","sentence":"^\\QCuando llegaron a Jamaica se dedicaron a plantaciones de caña de azúcar y cuando amasaron una fortuna compraron la mansión Domingo y le cambiaron el nombre por Corbitt.\\E$"}
