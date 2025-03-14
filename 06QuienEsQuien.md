@@ -355,7 +355,6 @@ Su última obra la tiene obsesionada y según cuenta se la susurra en sueños un
 
 **Sugerencia de interpretación:** Johanna es una apasionada de su arte y lo vive siempre al extremo. Cuando prepara una obra, solo existe esa obra. Buscando inspiración para nuevas obras, no para de hacer preguntas a todo el mundo sobre su vida y aventuras hasta ser muy entrometida e impertinente.
 
-\sp
 
 \sinc
 
@@ -367,17 +366,17 @@ Arturo Gandía es jefe del puerto en La Habana desde hace muchos años. A base d
 
 Arturo es bastante laxo en el cumplimiento de su trabajo, por no decir que es fácilmente sobornable, por no decir corrupto. Pero es lo suficientemente listo para redistribuir los sobornos entre superiores y subordinados, de forma que todos están contentos y todos miran hacia otro lado.
 
-\sinc
-
-![Maestre Arturo Gandía](./images/gandia.webp)
-
-\conc
-
 Permite, tras cobrar una buena mordida, introducir en La Habana todo tipo de productos e incluso puede conseguirte un buen comprador al que también le cobrará una «comisión». Todo ese dinero que gana lo gasta sin problemas en buenas ropas, buena comida y buena bebida para él y su familia.
 
 Últimamente, se ha estado pasando bastante con el ron, pero todavía no está afectando a su vida profesional y familiar. Está a un par de jarras de grog de empezar a tener problema de alcoholismo.
 
 \sp
+
+\sinc
+
+![Maestre Arturo Gandía](./images/gandia.webp)
+
+\conc
 
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Idioma(todos) d6, Intimidar d8, Notar d10, Pelea d6, Persuadir d8
@@ -572,7 +571,29 @@ La cordura de Isadora es muy frágil, tantos libros de los Mitos leídos le han 
 
 **Sugerencia de interpretación:** Isadora es alegre, amable y tremendamente simpática, igual un poco marisabidilla, pero sin ser molesta. Se desvivirá por ayudar a los jugadores en lo que pueda, principalmente, siendo la mayor experta de los Mitos a la que consultar todas sus dudas. Sin embargo, su psique rota aflora a veces con tics, cambios de humor inesperados o extrañas salidas de tono, pero rápidamente volverá a su agradable normalidad.
 
+\sinc
+
+## Onofre de las Torres/Balua’k (comodín)
+
+\conc
+
+Balua’k es un yithiano perdido en el tiempo. Debido a guerra de su pueblo con los pólipos volantes, se ha visto encerrado en el cuerpo de un humano en el 1722 en el Caribe. Está convencido que está solo, así que está buscando una forma de viajar en el tiempo y volver con sus congéneres.
+
+Balua’k ocupa el cuerpo de Onofre, un huérfano que trabaja como ayudante de taller en un laboratorio de la RCPC. Tuvo que seguir con la tapadera de Onofre y poco a poco con sus conocimientos científicos superiores se convirtió en uno de los científicos principales de la rama científica de la RCPC. De hecho, es tan importante que tiene gente vigilándole todo el rato, aunque él no los vea.
+
+Balua’k ha ido con el tiempo creándose un equipo de supervivencia para viajes temporales y tiene de todo en su macuto de viaje, prismáticos, purificadores de agua, antitoxinas, etc.
+
+* **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Ciencias d12, Disparar d6, Idioma castellano d8, Idioma inglés d6, Investigar d10, Mitos de Cthulhu d8, Notar d8, Pelear d6, Reparar d8
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+
 \sp
+
+* **Desventajas:** Habito(Menor, registra en sus cuadernos todo lo que hace)
+* **Ventajas:** McGyver, Erudito (Ciencias), Trasfondo Arcano (Hechicería primigenia)
+* **Equipo:** Una vez por sesión podrá sacarse algún tipo de aparato extraño de su macuto que cumpla una función específica. A nivel de juego, tendrá gracias a sus cacharros un +2 a una sola tirada que no sea de combate ni en situaciones de gran estrés. Por ejemplo, podrá sacar una cuerda con garfio extrarresistente para escalar una muralla, pero no podrá usarla si quiere huir descolgarse de la muralla mientras le disparan o si trata de escapar de un pozo de lava.
+
+**Sugerencia de interpretación:** Eres tremendamente pausado y tranquilo, a veces exasperantemente tranquilo. Pero claro, pertenecer a una raza milenaria que controla el viaje en el tiempo y que ha sobrevivido a una extinción ocupando el cuerpo de crustáceos y Además, estar perdido en el tiempo en el cuerpo de un humano sin posibilidad de volver te da una perspectiva única de la vida. Lo que peor llevas es hablar, te parece una forma muy burda de comunicarse tras haber usado toda la vida la telepatía. Te gusta tener todo anotado, apuntado y registrado, manía adquirida como viajero del tiempo que debe tomar nota de todo lo que suceda a su alrededor.
 
 \sinc
 
@@ -584,6 +605,8 @@ Ifá llego a Kingston en la bodega abarrotada de un barco de esclavos desde Nige
 
 Según Stan ha ido cayendo en su alcoholismo, Ifá ha ido obteniendo más control del negocio. Aunque legalmente sigue siendo una esclava, tiene todo el control sobre el negocio de La Choza del Misterio.
 
+\sp
+
 ![Ifá (comodín)](./images/ifa.webp)
 
 Ifá tiene una extraña afinidad con la tecnología. Es casi como si pudiera hablar con la tecnología. Simplemente concentrándose en el objeto tecnológico puede «hablar» con él y averiguar qué es, cómo funciona, qué necesita para funcionar o cómo repararla. Para su desgracia no es capaz de inventar nada, ya que le faltan conocimientos para implementar mejoras en los objetos.
@@ -594,17 +617,20 @@ Ahora mismo se está dedicando en su tiempo libre a aprender de los artesanos lo
 * **Habilidades:** Ciencias d4, Idioma Criollo d8, Idioma inglés d6, Investigar d8, Notar d10, Pelear d6, Reparar d12
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Mr. Arreglalotodo, Trasfondo Arcano (Hechicería primigenia)
-
-\sp
-
 * **Capacidades especiales:**
     * **Tecnomancia:** Oggun, el orisha de la herrería, le ha otorgado dones tecnológicos. Ifá puede hablar con las máquinas y recibir respuestas de ellas. Son preguntas sobre ellas mismas, no si vio al asesino que mato al inventor delante de ella. Estas preguntas le sirven para saber como funciona y para que son los objetos tecnológicos con los que habla. También pueden decirle como repararlos, pero no como mejorarlo.
 
-**Sugerencia de interpretación:** Eres muy retraída, casi no te comunicas y si lo haces es en monosílabos. Solo escuchas, susurras un trato justo sin regatear y si lo aceptan, entras en la trastienda y te pones a trabajar. En la trastienda todo cambia. Lo que no hablas con los humanos, lo hablas con las máquinas. Cotilleas, sueltas chistes, bromeas y les cuentas tus penas.
+**Sugerencia de interpretación:** Eres muy retraída, casi no te comunicas y si lo haces es en monosílabos. Solo escuchas, susurras un trato justo sin regatear y si lo aceptan, entras en la trastienda y te pones a trabajar. En la trastienda todo cambia.
 
-> _**Sugerencia de beni:** Si alguien apoya económicamente a Ifá para que pueda acceder a educación superior puedes darle 1 beni. Si le traen manuales de ciencia y tecnología también podrían ganar 1 beni._
+\sp
+
+Lo que no hablas con los humanos, lo hablas con las máquinas. Cotilleas, sueltas chistes, bromeas y les cuentas tus penas.
 
 > _**Recompensa extra de cordura (+1):** Si alguien decide becar a Ifá posibilitándole tener unos estudios universitarios, recompénsale con un punto de cordura. Alguien con un valor alto en Ciencias puede llevársela de aprendiza. Si se preocupa por su educación y su seguridad, también puedes otórgale un punto de cordura, además, de obtener una valiosa Aliada. Otras soluciones interesantes pueden ser convencer a Isadora de la Guía para que lo tenga de ayudante en su librería. A Isadora le ayudaría con sus problemas mentales e Ifá tendría una fuente inagotable de conocimientos entre las estanterías de libros. No debéis olvidar que sigue siendo una esclava cosa que complicará todo lo anterior._
+
+\sc
+
+> _**Sugerencia de beni:** Si alguien apoya económicamente a Ifá para que pueda acceder a educación superior puedes darle 1 beni. Si le traen manuales de ciencia y tecnología también podrían ganar 1 beni._
 
 \sp
 
@@ -713,28 +739,3 @@ Es pansexual y está obsesionado con el sexo. De hecho, suele participar en toda
 \sp
 
 **Sugerencia de interpretación:** No puedes parar de flirtear, es tu naturaleza. Buscas al más atractivo del grupo y le agobias con tus halagos, insinuaciones y dobles sentidos. Si te sigue el juego pierdes interés. Pero si se ruboriza o escandalizada te atrae mucho más y redoblas tus esfuerzos. Digamos que son tus instintos cazadores los que te dominan en cierta manera.
-
-\sp
-
-\sinc
-
-## Onofre de las Torres/Balua’k (comodín)
-
-\conc
-
-Balua’k es un yithiano perdido en el tiempo. Debido a guerra de su pueblo con los pólipos volantes, se ha visto encerrado en el cuerpo de un humano en el 1722 en el Caribe. Está convencido que está solo, así que está buscando una forma de viajar en el tiempo y volver con sus congéneres.
-
-Balua’k ocupa el cuerpo de Onofre, un huérfano que trabaja como ayudante de taller en un laboratorio de la RCPC. Tuvo que seguir con la tapadera de Onofre y poco a poco con sus conocimientos científicos superiores se convirtió en uno de los científicos principales de la rama científica de la RCPC. De hecho, es tan importante que tiene gente vigilándole todo el rato, aunque él no los vea.
-
-Balua’k ha ido con el tiempo creándose un equipo de supervivencia para viajes temporales y tiene de todo en su macuto de viaje, prismáticos, purificadores de agua, antitoxinas, etc.
-
-* **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Ciencias d12, Disparar d6, Idioma castellano d8, Idioma inglés d6, Investigar d10, Mitos de Cthulhu d8, Notar d8, Pelear d6, Reparar d8
-* **Paso:** 6; **Parada:** 5; **Dureza:** 5
-* **Desventajas:** Habito(Menor, registra en sus cuadernos todo lo que hace)
-* **Ventajas:** McGyver, Erudito (Ciencias), Trasfondo Arcano (Hechicería primigenia)
-* **Equipo:** Una vez por sesión podrá sacarse algún tipo de aparato extraño de su macuto que cumpla una función específica. A nivel de juego, tendrá gracias a sus cacharros un +2 a una sola tirada que no sea de combate ni en situaciones de gran estrés. Por ejemplo, podrá sacar una cuerda con garfio extrarresistente para escalar una muralla, pero no podrá usarla si quiere huir descolgarse de la muralla mientras le disparan o si trata de escapar de un pozo de lava.
-
-\sp
-
-**Sugerencia de interpretación:** Eres tremendamente pausado y tranquilo, a veces exasperantemente tranquilo. Pero claro, pertenecer a una raza milenaria que controla el viaje en el tiempo y que ha sobrevivido a una extinción ocupando el cuerpo de crustáceos y Además, estar perdido en el tiempo en el cuerpo de un humano sin posibilidad de volver te da una perspectiva única de la vida. Lo que peor llevas es hablar, te parece una forma muy burda de comunicarse tras haber usado toda la vida la telepatía. Te gusta tener todo anotado, apuntado y registrado, manía adquirida como viajero del tiempo que debe tomar nota de todo lo que suceda a su alrededor.
