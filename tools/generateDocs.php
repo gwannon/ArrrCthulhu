@@ -22,9 +22,10 @@ foreach ($tags as $tag => $value) {
   $html = str_replace("|".$tag."|", $value, $html); 
 }
 
-//$html = str_replace("<p>|HOJAPERSONAJE|</p>", file_get_contents(__DIR__ . "/../hojapersonaje.html"), $html);
+/*$html = str_replace("<p>|tabla01.html|</p>", file_get_contents(__DIR__ . "/../tabla01.html"), $html);
+$html = str_replace("<p>|tabla02.html|</p>", file_get_contents(__DIR__ . "/../tabla02.html"), $html);*/
 
-$html = preg_replace_callback("/<p>\|([a-zA-Z]*)\.html\|<\/p>/", function($matches) {
+$html = preg_replace_callback("/<p>\|([a-zA-Z0-9]*)\.html\|<\/p>/", function($matches) {
   $matches[0] = file_get_contents(__DIR__ . "/../".$matches[1].".html"); 
   return $matches[0];
 }, $html);
