@@ -230,7 +230,7 @@ Nyarlathotep es el dios de las mil máscaras y desde luego un par de ellas ronda
 
 Siéntete libre de usar otras máscaras. Tiene muchas de origen africano, europeo o maya/azteca que podrían cuadrar en el Caribe. O, si te cuadra, mete avatares de origen egipcio que le den un toque totalmente exótico.
 
-Cuando aparece un avatar de Nyarlathotep, se puede hacer una tirada de Notar para escuchar un extraño sonido de flautas. Esas flautas son de los dioses menores servidores que tocan para Azathoth y significa que Nyarlathotep viene de visitar a Azathoth. Esos sonidos de flauta no provocan terror, pero generan una sensación desagradable y alerta a los que los escuchan.
+> Cuando aparece un avatar de Nyarlathotep, se puede hacer una tirada de Notar para escuchar un extraño sonido de flautas. Esas flautas son de los dioses menores servidores que tocan para Azathoth y significa que Nyarlathotep viene de visitar a Azathoth. Esos sonidos de flauta no provocan terror, pero generan una sensación desagradable y alerta a los que los escuchan.
 
 \sc
 
@@ -666,7 +666,7 @@ La cultura serpigente está muy basada en la fuerza, la guerra y la ciencia y su
 
 **Sugerencia de interpretación:** El cotilleo es tu vida, es lo que da vida a tus cuadros. No pares de hacer preguntas indiscretas a tus modelos. Si no responden o crees que se están callando algo sigue insistiendo. Esas historias hacen que tus obras sean más que pigmentos sobre telas, les dan vida.
 
-**Adolfé despertado:** En su versión despertada como avatar de Yig, Adolfé tiene acceso a todos los poderes permitidos en esta ambientación. Cada turno de combate recupera d12 PP. Como contrapartida, todos los hechizos que lance vendrán con la modificación de Horror sin coste extra de PP. Esto se dará incluso si se lanzan hechizos que no pueden tener este modificador. Por ejemplo, si intenta curar a un compañero, la experiencia será terrorífica, con gusanos saliendo de sus heridas y cerrándolas, todo ello entre terribles dolores. Eso supondrá que todos los objetivos y los que vean los efectos del poder tendrán que tirar cordura.
+> **Adolfé despertado:** En su versión despertada como avatar de Yig, Adolfé tiene acceso a todos los poderes permitidos en esta ambientación. Cada turno de combate recupera d12 PP. Como contrapartida, todos los hechizos que lance vendrán con la modificación de Horror sin coste extra de PP. Esto se dará incluso si se lanzan hechizos que no pueden tener este modificador. Por ejemplo, si intenta curar a un compañero, la experiencia será terrorífica, con gusanos saliendo de sus heridas y cerrándolas, todo ello entre terribles dolores. Eso supondrá que todos los objetivos y los que vean los efectos del poder tendrán que tirar cordura.
 
 \sp
 

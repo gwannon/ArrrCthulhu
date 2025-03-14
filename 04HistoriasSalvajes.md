@@ -33,7 +33,7 @@ Lo que tampoco sabe Villalba es que hay un grupo de descastados y parias que van
 
 **Comienzo:** En el Paso de los Vientos
 
-Como todas las grandes aventuras de piratas, esta tiene un simple inicio. Con un barco mercante en ruta por el mar y un grupo de desconocidos que no saben que sus vidas van a cambiar para siempre.
+> Como todas las grandes aventuras de piratas, esta tiene un simple inicio. Con un barco mercante en ruta por el mar y un grupo de desconocidos que no saben que sus vidas van a cambiar para siempre.
 
 El «Carcosa» es un buque mercante de la RCPC en ruta entre La Habana (Cuba) y Santo Domingo (La Española). El «Carcosa» transporta principalmente pasajeros y un cargamento de tela, ron y melaza de caña. Su ruta de navegación les está llevando por el Paso de los Vientos (el estrecho entre Cuba y La Española). Es una zona infestada de piratas, ya que van a pasar cerca de Tortuga y Port Royal en Jamaica. Las islas Caimán tampoco quedan lejos.
 
@@ -143,7 +143,7 @@ Tras un par de días de viaje, los barcos llegarán a las Islas Caimán. Fondean
 
 **Comienzo:** En Caimán Brac (Islas Caimán)
 
-Tras los sucesos del «Carcosa» tu mesa empieza a ver que hay fuerzas actuando en el Caribe que escapan a su cordura. La RCPC parece ser algo más una gran empresa comercial. Es el momento tener una conversación con Mary Read.
+> Tras los sucesos del «Carcosa» tu mesa empieza a ver que hay fuerzas actuando en el Caribe que escapan a su cordura. La RCPC parece ser algo más una gran empresa comercial. Es el momento tener una conversación con Mary Read.
 
 Durante una semana estarán haciendo modificaciones al «Carcosa», entre ellas cambiarle el nombre para evitar la mala suerte del nombre anterior si van a seguir a Mary. También hay que modificarlo de forma que no se pueda detectar que es un barco capturado.
 
@@ -166,7 +166,7 @@ Cuando tengan el barco arreglado y terminado, podrán partir al puerto que desee
 
 **Comienzo:** En alta mar
 
-De todas las banderas que podrían encontrarse debían avistar una enseña negra y eso todos saben que significa una sola cosa: ¡¡¡Piratas!!!
+> De todas las banderas que podrían encontrarse debían avistar una enseña negra y eso todos saben que significa una sola cosa: ¡¡¡Piratas!!!
 
 En mitad de su viaje al puerto del Caribe que deseen, el vigía ve un barco de velas negras con una enseña negra y grita: ¡¡¡Piratas!!!
 
@@ -194,7 +194,7 @@ Si alguien te dice que has metido tu propio personaje en la historia, léele est
 
 \sp
 
-Mary Read les dejará unas semanas libres para que se hagan con su barco, empiecen a establecer relaciones con las peculiares gentes del Caribe y, quizás, enfrentarse de nuevo con los Mitos.
+> Mary Read les dejará unas semanas libres para que se hagan con su barco, empiecen a establecer relaciones con las peculiares gentes del Caribe y, quizás, enfrentarse de nuevo con los Mitos.
 
 Tras llegar al puerto y dejar el paquete en la plaza del pueblo son libres para hacer lo que quieran. Lo primero sería buscar una tripulación, ya que la tripulación que Mary Read les presto les han dejado según han llegado a puerto. Pueden poner algún anuncio, recorrer las tabernas del puerto, pagarle al maestre del puerto o vaciar las celdas de la cárcel de marinos borrachos.
 
@@ -210,7 +210,7 @@ Mary Read tiene que probar la valía de tu mesa y par eso les va a pasar ciertos
 
 **Comienzo:** Una ciudad con puerto
 
-Read les hace llegar un encargo, necesita suministros de papel y tinta para la VLH. Andan escaso y la RCPC les ha bloqueado y no les vende nadie.
+> Read les hace llegar un encargo, necesita suministros de papel y tinta para la VLH. Andan escaso y la RCPC les ha bloqueado y no les vende nadie.
 
 Al llegar a su barco, uno de los marineros les pasará un sobre lacrado. Es de Mary Read. Les da un nombre de barco, una fecha estimada de llegada a su puerto y una ruta. El barco lleva los suministros que necesitan para la VLH. Puede intentar interceptarlo o robar la carga mientras los suministros están en el puerto de San Juan. Luego deberán entregarlo en una cala cercana a La Habana.
 
@@ -250,7 +250,7 @@ En ambas situaciones, si algo falla, puede ser divertido una carrera por las cal
 
 **Comienzo:** Las Bahamas
 
-Read tiene otro trabajo, un grupo de piratas tiene un campamento de rehenes en una isla deshabitada de Las Bahamas. Deberán acabar con los piratas y liberar a los rehenes. Read sabe que todos esos rehenes tienen dinero y contactos y que te deban favores es muy útil.
+> Read tiene otro trabajo, un grupo de piratas tiene un campamento de rehenes en una isla deshabitada de Las Bahamas. Deberán acabar con los piratas y liberar a los rehenes. Read sabe que todos esos rehenes tienen dinero y contactos y que te deban favores es muy útil.
 
 Como la anterior vez, Read les hará llevar un nuevo trabajo cuando lleguen a algún puerto. En un islote mediano en el extremo sur de las Bahamas, unos piratas han montado un campamento de rehenes. Son personas de cierta alcurnia que iban en barcos abordados por estos piratas y que dejan en campamentos en islas aisladas y fuera de las rutas de navegación mientras piden un rescate a su familia.
 
@@ -298,7 +298,7 @@ Una vez hayan sacado a todos los rehenes de la isla y los hayan subido al barco,
 
 **Comienzo:** Costa sur de Cuba
 
-Mary Read tiene un último trabajo. Deben patrullar El Jardín de la Reina, un archipiélago de 600 islas e islotes en la costa meridional de Cuba. Deberán vigilar los barcos de la RCPC que se meten entren las islas y que es lo que buscan.
+> Mary Read tiene un último trabajo. Deben patrullar El Jardín de la Reina, un archipiélago de 600 islas e islotes en la costa meridional de Cuba. Deberán vigilar los barcos de la RCPC que se meten entren las islas y que es lo que buscan.
 
 Cómo siempre alguien les entregará un sobre con un mensaje de Read. Necesita que alguien vigile las actividades de la RCPC en los Jardines de la Reina, un archipiélago de islotes en la costa sur de Cuba.
 
@@ -336,7 +336,7 @@ Quizás más delante puedan «cazar» a todos estos seres y lanzarlos en tromba 
 
 **Comienzo:** Isla de la Tortuga
 
-Mary sabe que sus visiones nunca le defraudan y aquellos patéticos seres que se encontró en el «Carcosa» han demostrado ser eficaces y dignos de confianza, pero sobre todo buenos y nobles. Es el momento de que ingresen en la Hermandad.
+> Mary sabe que sus visiones nunca le defraudan y aquellos patéticos seres que se encontró en el «Carcosa» han demostrado ser eficaces y dignos de confianza, pero sobre todo buenos y nobles. Es el momento de que ingresen en la Hermandad.
 
 A diferencia de otras veces, en esta ocasión la propia Read se presentará ante ellos disfrazada de lo que quieras, dama rica, mendiga, estibadora, vendedora de aperitivos como morros de nutria rellenos, etc. y les felicitará por su última misión.
 
@@ -358,7 +358,7 @@ Después de estas formalidades, tocará una noche de bebida y anécdotas junto a
 
 **Comienzo:** Costa oeste de Cuba
 
-Read les va a mandar a la Costa oeste de Cuba. Sabe que Villalba hace unos años estuvo por esa costa buscando algo antes de retirarse de la vida pública y encerrarse en su mansión. Necesita saber qué encontró y qué piensa hacer con ello.
+> Read les va a mandar a la Costa oeste de Cuba. Sabe que Villalba hace unos años estuvo por esa costa buscando algo antes de retirarse de la vida pública y encerrarse en su mansión. Necesita saber qué encontró y qué piensa hacer con ello.
 
 Hernando Villalba nunca sale de su mansión y si sale es por algo grande. Los espías le dicen que estuvo una semana fuera en la costa oeste de Cuba, en la península de Guanahacabibes. Saco algo del fondo del mar y volvió a La Habana. Ya estuvo hace tiempo en esta zona, pero hacía años que no volvía.
 
@@ -390,7 +390,7 @@ Con esta información pueden volver a la superficie y entrar en contacto con Rea
 
 **Comienzo:** La Habana
 
-Villalba se llevó una sección de bajorrelieves del interior de las pirámides. Intentar entrar en la mansión Villalba a este nivel puede ser un suicidio. Pero Mary Read cree que la librera Isadora puede ayudarles a encontrar una solución.
+> Villalba se llevó una sección de bajorrelieves del interior de las pirámides. Intentar entrar en la mansión Villalba a este nivel puede ser un suicidio. Pero Mary Read cree que la librera Isadora puede ayudarles a encontrar una solución.
 
 \sp
 
@@ -412,7 +412,7 @@ Si no conoce a Isadora este es un buen momento para conocerla, saber de sus vast
 
 **Comienzo:** La Habana
 
-La receta de la droga plutónica solo puede conseguirse de un tomo incompleto del Necronomicón que va a subastarse al día siguiente. Tocará intentar comprarlo o robarlo.
+> La receta de la droga plutónica solo puede conseguirse de un tomo incompleto del Necronomicón que va a subastarse al día siguiente. Tocará intentar comprarlo o robarlo.
 
 \sp
 
@@ -454,7 +454,7 @@ De tener que enfrentarse con él, es un comodín y puedes usar la ficha de Culti
 
 **Comienzo:** San Juan de Puerto Rico
 
-El gobernador Francisco Danio Granados les quito por la mano el tomo del Necronomicón y lo tiene en su mansión a buen recaudo. Es una suerte que vaya a dar una fiesta de disfraces para los ricos y acaudalados de la ciudad.
+> El gobernador Francisco Danio Granados les quito por la mano el tomo del Necronomicón y lo tiene en su mansión a buen recaudo. Es una suerte que vaya a dar una fiesta de disfraces para los ricos y acaudalados de la ciudad.
 
 Cuando lleguen a San Juan descubrirán que al día siguiente tienen una oportunidad inmejorable para robarle el libro al gobernador. Da una fiesta de disfraces para la gente rica de la ciudad. Cualquiera que se considere alguien en la ciudad tendrá una entrada.
 
@@ -549,7 +549,7 @@ Como no puede ser de otra manera, aún mal traducido e incompleto, tienen en sus
 
 **Comienzo:** Costa oeste de Cuba
 
-Toca volver a las pirámides sumergidas con la droga plutónica a ver que se llevó Villalba.
+> Toca volver a las pirámides sumergidas con la droga plutónica a ver que se llevó Villalba.
 
 Ahora que tienen el libro y se lo han estudiado, ya saben cómo destilar y utilizar la droga plutónica. Solo les falta Loto Negro y que no les timen intentando darles Haga. El loto negro no es excesivamente complicado de conseguir en el mercado negro. Seguro que la reina vudú de Kingston puede venderles lo suficiente. Destilarlo siguiendo la receta del Necronomicón solo pide una tirada de Ciencias.
 
@@ -573,7 +573,7 @@ El problema de la droga plutónica es que, si viajamos demasiado atrás en el ti
 
 **Comienzo:** Cualquier sitio seguro que tenga tu mesa
 
-Ya saben lo que había en los relieves que robo Villalba. Ahora tendrán que descifrarlos. Deberán consultar a sus aliados, ya que cada uno podría tener una pista sobre lo que significan los símbolos grabados en piedra.
+> Ya saben lo que había en los relieves que robo Villalba. Ahora tendrán que descifrarlos. Deberán consultar a sus aliados, ya que cada uno podría tener una pista sobre lo que significan los símbolos grabados en piedra.
 
 \sp
 
@@ -593,7 +593,7 @@ Cuando descubran el enigma, los grabados les dirán la ubicación de R’lyeh en
 
 **Comienzo:** Sobre la Fosa de Puerto Rico
 
-Ya saben la ubicación de R’lyeh, pero hay que comprobarlo, así que toca sumergirse en el lugar más profundo del Atlántico y buscar la ciudad. ¿Qué horrores os esperan a 8.000 metros de profundidad?
+> Ya saben la ubicación de R’lyeh, pero hay que comprobarlo, así que toca sumergirse en el lugar más profundo del Atlántico y buscar la ciudad. ¿Qué horrores os esperan a 8.000 metros de profundidad?
 
 Puede que tu mesa tenga un ingenio submarino como campanas de buceo y experiencia en misiones submarinas, pero 8.000 metros son muchos metros.
 
@@ -618,7 +618,7 @@ Si intentan usar magia para mirar dentro no funcionará. La magia no puede atrav
 
 **Comienzo:** En lo profundo de la Fosa de Puerto Rico
 
-Explorar R’lyeh y encontrar al durmiente Cthulhu es una tarea solo para los más valientes o los más locos o ambas cosas.
+> Explorar R’lyeh y encontrar al durmiente Cthulhu es una tarea solo para los más valientes o los más locos o ambas cosas.
 
 R’lyeh está rodeado de una especie de esfera de entropía que la oculta, que no deja entrar el agua y que hace que esté fuera del tiempo. En R’lyeh no ha pasado ni un segundo desde que se sumergió en las aguas y lo mismo para sus edificios, sus selvas y los terribles animales prehistóricos que se hundieron con la ciudad. De hecho, si consiguen salir lo hará un segundo después de haber entrado. Mientras que para ellos habrán pasado horas o días, para el resto del mundo no habrá pasado ni un minuto.
 
@@ -685,7 +685,7 @@ Una vez que compruebe que están R’lyeh y que Cthulhu existe, déjales volver 
 
 **Comienzo:** Cualquier tasca del Caribe un par de semana después de explorar R’lyeh.
 
-La hermandad tiene una «rata» infiltrada en la Orden que acaba de dar las peores noticias posibles: Villalba ha encontrado la ciudad de su señor. Eso pone la cuenta atrás hacia el Armagedón.
+> La hermandad tiene una «rata» infiltrada en la Orden que acaba de dar las peores noticias posibles: Villalba ha encontrado la ciudad de su señor. Eso pone la cuenta atrás hacia el Armagedón.
 
 Cesar, el lugarteniente de Barbanegra e infiltrado de la Hermandad, ha hecho llegar muy malas noticias. Villalba ha descifrado el jeroglífico de los Antiguos. Ha encontrado R’lyeh y parece que ha bajado en persona a la ciudad sumergida.
 
@@ -703,7 +703,7 @@ Y recuerda que Mary Read debería irse con un discurso motivador que dé la vuel
 
 **Comienzo:** La Habana
 
-La mansión Villalba es un fortín protegido física y mágicamente. Será difícil entrar y robarle sus secretos Villalba, pero seguro que escapar una misión suicida.
+> La mansión Villalba es un fortín protegido física y mágicamente. Será difícil entrar y robarle sus secretos Villalba, pero seguro que escapar una misión suicida.
 
 La mansión Villalba es un auténtico fortín y si entrar es complicado, salir es imposible. Todas las personas que trabajan dentro son fanáticos de la Orden y lucharán hasta la muerte por defender a su señor.
 
@@ -747,7 +747,7 @@ Si te sientes malvado y les ha sido muy fácil encontrar las pistas, siempre pue
 
 **Comienzo:** Cualquier parte del Caribe
 
-Todo acto, toda acción deja rastro, incluso en el Caribe. Si rastrean las actividades de la RCPC por todo el Caribe podrán hilar el plan de Villalba. Esta es una misión para un auténtico ratón de biblioteca.
+> Todo acto, toda acción deja rastro, incluso en el Caribe. Si rastrean las actividades de la RCPC por todo el Caribe podrán hilar el plan de Villalba. Esta es una misión para un auténtico ratón de biblioteca.
 
 Si toman esta opción deberán recorrerse las islas del Caribe recabando información de los movimientos de la RCPC. Deberán filtrarla y quedarse con la que se sale de lo normal, lo que es normal para la RCPC.
 
@@ -813,7 +813,7 @@ Alertar a las autoridades no es un plan eficaz porque la Orden está muy metida 
 
 **Comienzo:** Antillas Menores
 
-Tienen pensado como frustrar el plan maestro de la Orden y tienen que llevarlo a cabo. Pero Villalba no quiere fallos y mandará a su mejor agente, Barbanegra, para asegurarse de que se cumpla y nadie lo haga fracasar.
+> Tienen pensado como frustrar el plan maestro de la Orden y tienen que llevarlo a cabo. Pero Villalba no quiere fallos y mandará a su mejor agente, Barbanegra, para asegurarse de que se cumpla y nadie lo haga fracasar.
 
 Para seguir el plan que hayan creado pueden escoger el volcán que deseen e incluso montar dos equipos con aliados e intentarlo en dos a la vez. Elijan el que elijan, si detienen la explosión el plan de Villalba, todo falla.
 
@@ -941,7 +941,7 @@ Las gentes, temerosas de estos sucesos, se encierran en sus casas o en las igles
 
 **Comienzo:** En cualquier parte del Caribe
 
-En toda gran aventura hay un momento en que debes reunir a tus fuerzas para la batalla final y ese momento ha llegado ya. Así que prende tus almenaras de Gondor y llama a tus aliados.
+> En toda gran aventura hay un momento en que debes reunir a tus fuerzas para la batalla final y ese momento ha llegado ya. Así que prende tus almenaras de Gondor y llama a tus aliados.
 
 \sp
 
@@ -957,7 +957,7 @@ Esta sesión o sesiones de juego no les agobies con tiradas de encuentros o embo
 
 **Comienzo:** La Habana
 
-El plan de Villalba ha sido frustrado y gran parte de su poder ha sido destruido. Nunca estará tan débil como ahora. Es el momento de atacarle en su propia casa. Pero cuidado, los animales heridos suelen ser los más peligrosos.
+> El plan de Villalba ha sido frustrado y gran parte de su poder ha sido destruido. Nunca estará tan débil como ahora. Es el momento de atacarle en su propia casa. Pero cuidado, los animales heridos suelen ser los más peligrosos.
 
 Villalba sabe de los movimientos de la Hermandad y aliados para reunir un ejército y acabar con él. Él también quiere acabar con sus enemigos de una vez por todas y hará llegar u propuesta de batalla mediante alguno de sus subordinados como el Gobernador Granados o el Gobernador Bentinck.
 
@@ -1016,7 +1016,7 @@ El secreto tatuado en la espalda de los tres hermanos García es un mapa mágico
 
 **Comienzo:** Las calles de Santo Domingo
 
-Un extraño asesinato en las calles de Santo Domingo es el comienzo de una aventura que te llevará por todo el Caribe y más allá para conseguir un tesoro familiar de inmenso valor.
+> Un extraño asesinato en las calles de Santo Domingo es el comienzo de una aventura que te llevará por todo el Caribe y más allá para conseguir un tesoro familiar de inmenso valor.
 
 Al salir de una tasca portuaria de Santo Domingo (seguramente La Taberna) tu mesa oye unos ruidos de pelea en un oscuro callejón adyacente. Cuando llegan, una sombra encapuchada huye hacia los tejados y hay un cuerpo inerte en el sucio suelo. Al examinar el cadáver parece que tiene heridas mortales de cuchillo y le falta un buen trozo de piel en la espalda.
 
@@ -1064,7 +1064,7 @@ La historia que pueden hilvanar con todos los datos que pudieran conseguir es qu
 
 **Comienzo:** Barrios altos de Santo Domingo
 
-Salvador García, el segundo hermano García, está buscando guardaespaldas. Tras el funeral de su hermano Antonio y temiendo ser el siguiente, quiere contratar seguridad extra para un viaje que tiene que hacer a La Habana para hablar con su hermano menor, Héctor García.
+> Salvador García, el segundo hermano García, está buscando guardaespaldas. Tras el funeral de su hermano Antonio y temiendo ser el siguiente, quiere contratar seguridad extra para un viaje que tiene que hacer a La Habana para hablar con su hermano menor, Héctor García.
 
 Tras la muerte de Antonio, Salvador ha heredado el negocio. Sabe las circunstancias en que murió su hermano. Sabe lo de que le arrancaron la piel de la espalda para quitarle el tatuaje que su padre les hizo a los 3 hace muchos años. Sabe que los 3 tatuajes juntos forman un mapa a algún tipo de tesoro u objeto mágico de gran poder. La verdad es que los hermanos nunca se han llevado bien y no han hablado mucho de sus tatuajes. Además, les sobraba el dinero, así que lo les interesaba meterse en las locuras de su padre.
 
@@ -1152,7 +1152,7 @@ Algún avispado de tu mesa igual aprovecha la visita al Morro para explorarlo. P
 
 **Comienzo:** En la jungla de Cuba
 
-El tercer hermano García es Héctor. Como todo benjamín de familia noble y adinerada, se dedicó a la religión. Actualmente, es misionero jesuita en el interior de la selva de Cuba.
+> El tercer hermano García es Héctor. Como todo benjamín de familia noble y adinerada, se dedicó a la religión. Actualmente, es misionero jesuita en el interior de la selva de Cuba.
 
 El primer paso, como les indicó Salvador, sería ir a hablar con los jesuitas del Colegio San José. El hermano Héctor se encuentra de misión evangélica en una pequeña comunidad taína en el interior de la selva. Está, según los clérigos, a media semana de camino, pero no es fácil de encontrar si no se conocen los caminos. Les recomiendan que hablen con Ceiba.
 
@@ -1198,7 +1198,7 @@ _Dirige esta aventura después de que hayan completado «El benjamín de la fami
 
 **Comienzo:** En cualquier parte del Caribe
 
-Seguramente la asaltante no tiene todos los cachos y sabe que son duros de pelar, así que tratará de hacer algún trato con tu mesa. Enviará algún mensaje cuando estén por alguna de las grandes ciudades del Caribe para negociar el cacho de mapa que le falta. Si estos aceptan les citará en algún lugar abierto, público y con fácil huida, como grandes plazas, puentes, mercados, …
+> Seguramente la asaltante no tiene todos los cachos y sabe que son duros de pelar, así que tratará de hacer algún trato con tu mesa. Enviará algún mensaje cuando estén por alguna de las grandes ciudades del Caribe para negociar el cacho de mapa que le falta. Si estos aceptan les citará en algún lugar abierto, público y con fácil huida, como grandes plazas, puentes, mercados, …
 
 Si la asaltante ha conseguido todos los trozos, aún tiene que descifrarlos. Es diestra con el sable, pero la lógica y la deducción se le escapan. Intentará que diferente gente de letras y de ciencias trate de resolverle el acertijo del mapa, pero no conseguirá nada. A la desesperada quedará con tu mesa para llegar aún trato con ellos.
 
@@ -1255,7 +1255,7 @@ Debido a su contenido también se le puede considerar un libro de los Mitos. Est
 
 **Comienzo:** Cuba
 
-En este punto es cuando deben empezar a jugar sus mejores bazas, tirar de contactos y pedir favores. Deberán hacer tiradas de Mitos e ir acumulando 10 avances. El problema es que no se puede repetir tiradas. Cada comodín que estudie el mapa irá aportando avances, pero no podrá volver a estudiarlo. Para poder tirar tendrá que estudiarlo como si fuera un libro, necesitando una semana para poder hacer la tirada. Si tu mesa no puede descifrar solo el mapa tendrá que recurrir a sus contactos, como Adolfé o Isadora, que aporten su punto de vista para descifrar el mapa.
+> En este punto es cuando deben empezar a jugar sus mejores bazas, tirar de contactos y pedir favores. Deberán hacer tiradas de Mitos e ir acumulando 10 avances. El problema es que no se puede repetir tiradas. Cada comodín que estudie el mapa irá aportando avances, pero no podrá volver a estudiarlo. Para poder tirar tendrá que estudiarlo como si fuera un libro, necesitando una semana para poder hacer la tirada. Si tu mesa no puede descifrar solo el mapa tendrá que recurrir a sus contactos, como Adolfé o Isadora, que aporten su punto de vista para descifrar el mapa.
 
 Como no es conveniente ni tener varias copias ni andar mandándolas por correo, deberán visitar a cada estudioso que quieran que lo revise. Deberían aprovechar todas las ventajas, trucos y rituales que les den bonus para esas tiradas.
 
@@ -1267,7 +1267,7 @@ El viaje hasta Isla Gran Inagua (Bahamas) no debería ser problemático, pero pu
 
 **Comienzo:** Isla Gran Inagua
 
-La isla de Gran Inagua es realidad pequeña (80 kilómetros de punta a punta) y no tienen ningún asentamiento grande, solo algunas granjas y algunas salinas en su parte sur. Llegar al Lago Rosa, que ocupa gran parte del interior de la isla, no debería darles problemas. El lago Rosa es un lago salado famoso por ser un lugar de cría de los flamencos.
+> La isla de Gran Inagua es realidad pequeña (80 kilómetros de punta a punta) y no tienen ningún asentamiento grande, solo algunas granjas y algunas salinas en su parte sur. Llegar al Lago Rosa, que ocupa gran parte del interior de la isla, no debería darles problemas. El lago Rosa es un lago salado famoso por ser un lugar de cría de los flamencos.
 
 Según el mapa, en el extremo norte del lago, sobresaliendo del agua salada del lago hay una gran roca de unos 10x10 metros totalmente plana que los locales llaman la Cama del diablo. Una tirada de Ciencias revelará que geológicamente la piedra no pertenece a la isla. De alguna manera ha llegado allí y no parece que sea de forma humana y geológica.
 
@@ -1279,7 +1279,7 @@ Se supone que esa piedra es un la puerta a otra dimensión donde está el «teso
 
 **Comienzo:** Isla Gran Inagua
 
-En cuanto caiga la última gota de sangre del sacrificio esta empezará a seguir el dibujo del pentáculo y cuando lo cubra entero esta empezará a tornarse de un verde fluorescente.
+> En cuanto caiga la última gota de sangre del sacrificio esta empezará a seguir el dibujo del pentáculo y cuando lo cubra entero esta empezará a tornarse de un verde fluorescente.
 
 Poco a poco la piedra del interior del símbolo irá desapareciendo para verse una especie de dimensión de oscuridad total en cuyo centro se ve una especie de isla de piedra flotante con cristales de cuarzo gigantes de muchos colores, geodas, estalagmitas y estalactitas.
 
@@ -1311,7 +1311,7 @@ En sus andanzas por el Caribe combatiendo a la Orden del Gran Cthulhu, tu mesa p
 
 **Comienzo:** En medio del mar
 
-Desde el barco se avista una tortuga marina con cosas brillantes incrustadas en su concha. Si la atrapan, parece ser unas extrañas joyas de oro y plata. La verdad es que la tortuga es la mascota de un grupo de profundos que tienen un asentamiento en unos arrecifes cercanos.
+> Desde el barco se avista una tortuga marina con cosas brillantes incrustadas en su concha. Si la atrapan, parece ser unas extrañas joyas de oro y plata. La verdad es que la tortuga es la mascota de un grupo de profundos que tienen un asentamiento en unos arrecifes cercanos.
 
 ![Tortuga marina](./images/tortuga.webp)
 
@@ -1375,7 +1375,7 @@ Pueden decidir enfrentarse al resto del clan y acabar con ellos definitivamente.
 
 **Comienzo:** Kingston (Jamaica)
 
-Luchar contra horrores espaciales o extradimensionales no paga las facturas y los personajes, sobre todo si están buscados por la ley, deben buscar métodos rápidos de conseguir dinero. Una forma es haciendo contrabando de ron para Michelle LeCourt, una extravagante mujer de los bajos fondos de Kingston con fama de bruja, que les pedirá que lleven un cargamento de ron ilegal a Santo Domingo (La Española) evadiendo a la armada española y los barcos de la RCPC que vigilan su monopolio comercial.
+> Luchar contra horrores espaciales o extradimensionales no paga las facturas y los personajes, sobre todo si están buscados por la ley, deben buscar métodos rápidos de conseguir dinero. Una forma es haciendo contrabando de ron para Michelle LeCourt, una extravagante mujer de los bajos fondos de Kingston con fama de bruja, que les pedirá que lleven un cargamento de ron ilegal a Santo Domingo (La Española) evadiendo a la armada española y los barcos de la RCPC que vigilan su monopolio comercial.
 
 Todo sería una actividad delictiva de lo más normal y corriente, si no fuera porque en varios de los barriles de ron hay cadáveres humanos. Sobre estos cuerpos se ha realizado un ritual vudú de zombificación. Se transportan metidos en alcohol para no levantar sospechas y para que se conserven mejor mientras se transportan. El problema viene cuando los cadáveres empiezan a levantarse y atacar a los tripulantes del barco.
 
@@ -1453,7 +1453,7 @@ Si entregan los zombis y quieren saber para qué son, pueden seguirles el rastro
 
 **Comienzo:** Cualquier isla controlada por los españoles o con una importante colonia española a finales de junio.
 
-Durante la noche de San Juan a la luz de las hogueras, unos hechiceros inexpertos invocan algo que no pueden controlar. Suerte que nuestros héroes están cerca para solucionarlo, a no ser que hayan tomado demasiado licor.
+> Durante la noche de San Juan a la luz de las hogueras, unos hechiceros inexpertos invocan algo que no pueden controlar. Suerte que nuestros héroes están cerca para solucionarlo, a no ser que hayan tomado demasiado licor.
 
 Durante las celebraciones de la noche de San Juan, los locales han preparado grandes hogueras en la playa. Hay bebida, comida, música y baile y todo el mundo se olvida de sus problemas. También es una noche de magia, perfecta para hacer pequeños rituales para atraer el amor, la suerte o la fortuna.
 
@@ -1516,7 +1516,7 @@ En sus páginas hace referencia a distintas divinidades primigenias que están r
 
 **Comienzo:** En medio del mar
 
-Mientras los personajes se encuentran en alta mar, desembarcan en un islote a intentar conseguir agua y comida fresca. Al volver al bote se encuentran metido dentro a un extraño personaje escuálido, con una gran barba, el pelo largo y sucio y ropa andrajosa.
+> Mientras los personajes se encuentran en alta mar, desembarcan en un islote a intentar conseguir agua y comida fresca. Al volver al bote se encuentran metido dentro a un extraño personaje escuálido, con una gran barba, el pelo largo y sucio y ropa andrajosa.
 
 Parece ser que se llama Totep y que lleva años abandonado a su suerte en esa isla. Está un poco ido y reacciona raro a cosas y situaciones normales, pero claro, lleva años solo en esa isla.
 
@@ -1554,7 +1554,7 @@ Un grupo avispado trataría de endiñar a Totep a alguno de sus enemigos. Un gru
 
 **Comienzo:** En el mar tras una tormenta o algún combate naval
 
-Tras una horrible tormenta o un cuento combate naval, el barco ha sufrido muchos daños. Tu mesa deberá buscar un sitio donde hacer una parada rápida y reparar el barco. Casualmente, encuentran un extraño islote de unos 50 metros de diámetro lleno de restos de pecios que pueden serles de mucha utilidad para sus reparaciones.
+> Tras una horrible tormenta o un cuento combate naval, el barco ha sufrido muchos daños. Tu mesa deberá buscar un sitio donde hacer una parada rápida y reparar el barco. Casualmente, encuentran un extraño islote de unos 50 metros de diámetro lleno de restos de pecios que pueden serles de mucha utilidad para sus reparaciones.
 
 \sp
 
@@ -1597,7 +1597,7 @@ _Un grupo lo suficientemente listo podría aprender a usar el islote como arma c
 
 **Comienzo:** En una taberna del puerto de La Habana
 
-«El Susurros» es un barco abandonado en el puerto de la Habana del que el jefe de puerto quiere deshacerse a toda costa, incluso mediante métodos ilegales.
+> «El Susurros» es un barco abandonado en el puerto de la Habana del que el jefe de puerto quiere deshacerse a toda costa, incluso mediante métodos ilegales.
 
 «El Susurros» lleva atracado en el puerto desde hace más de 30 años. Está podrido y medio desmontado, ya que a lo largo de los años los carpinteros que se atrevían a acercarse sacaban madera para sus talleres. Sin olvidarse que ha sobrevivido a varios ataques de piratas y de la armada inglesa a la ciudad de La Habana. Con todo, aún se puede ver su nombre en la proa, «Virgen de la Guía». Los locales lo llaman «El Susurros» por los ruidos parecidos a susurros que se supone hacen los viejos tableros de madera al moverse con las olas.
 
@@ -1665,7 +1665,7 @@ Sea como sea, el barco va a acabar muy dañado y las autoridades portuarias deci
 
 **Comienzo:** La Habana
 
-Antoine Delapore, editor de VLH, necesita repartir su periódico por todo el Caribe.
+> Antoine Delapore, editor de VLH, necesita repartir su periódico por todo el Caribe.
 
 Antoine te los vende a mitad del precio normal, unos 2 doblones, ya que normalmente se venden a 4 doblones. Piensa que unos 100 periódicos ocuparían en un barco 1 barril de espacio, así que si llevas 100 periódicos podrías sacar unos 200 doblones de beneficios por barril.
 
@@ -1685,7 +1685,7 @@ Vendiendo periódicos con asiduidad proporciona una forma de ganarse la vida a c
 
 **Comienzo:** La Habana
 
-Antoine Delapore, editor de La verdad de La Habana, compra historias para su periódico. Quizás tu destino esté en el negro sobre blanco en vez de en la piratería.
+> Antoine Delapore, editor de La verdad de La Habana, compra historias para su periódico. Quizás tu destino esté en el negro sobre blanco en vez de en la piratería.
 
 Si sabes medianamente escribir y tienes una historia escabrosa y truculenta que contar, Delapore te la compra por unos doblones. Tu caché como periodista puede ir subiendo si Delapore ve que tienen buena acogida.
 
@@ -1705,7 +1705,7 @@ Si consigues que Antoine te publique 6 historias te harás un nombre dentro de l
 
 **Comienzo:** Kingston
 
-La joven dramaturga Johanna Ribeiro nunca ha podido enseñar su arte al mundo, pero su última obra puede ponerla en el candelero de la escena teatral caribeña. Tiene una obra que según cuenta a todos, escribió en sueños y que puede ser el éxito de su vida, pero está teniendo problemas para estrenarla. Es ahí donde nuestros héroes entran en acción.
+> La joven dramaturga Johanna Ribeiro nunca ha podido enseñar su arte al mundo, pero su última obra puede ponerla en el candelero de la escena teatral caribeña. Tiene una obra que según cuenta a todos, escribió en sueños y que puede ser el éxito de su vida, pero está teniendo problemas para estrenarla. Es ahí donde nuestros héroes entran en acción.
 
 #### El color que vino de ultramar
 
@@ -1839,7 +1839,7 @@ Plano del teatro
 
 **Comienzo:** En cualquier puerto si han cometido actos de piratería o han sido considerados piratas.
 
-Un viejo ciego se acerca a tu mesa y les entrega una carta de la baraja, el as de picas. Han sido marcados como traidores o chivatos. Deberán averiguar quién y por qué les han sentenciado a una muerte casi segura a mano de otros piratas.
+> Un viejo ciego se acerca a tu mesa y les entrega una carta de la baraja, el as de picas. Han sido marcados como traidores o chivatos. Deberán averiguar quién y por qué les han sentenciado a una muerte casi segura a mano de otros piratas.
 
 Una figura bamboleante en el abrevadero preferido de tu mesa. Parece un viejo ciego que ya han visto antes mendigando por el puerto. Empieza a farfullar los nombres de los PJ cada vez más alto, hasta que alguno responda. Entonces se gira hacia la su mesa y cuando llega deja algo sobre la mesa, un naipe bocabajo. Al girarlo pueden ver que es un as de picas, la marca del traidor, firmado con un nombre Bartholomew Roberts.
 
@@ -1885,7 +1885,7 @@ Las soluciones ingeniosas y espectaculares deberían ser premiadas con unos buen
 
 **Comienzo:** Nueva Providencia (Bahamas)
 
-Un peculiar pintor busca modelos para sus cuadros, el problema es que aparecer en sus cuadros puede ser muy bueno o una auténtica pesadilla.
+> Un peculiar pintor busca modelos para sus cuadros, el problema es que aparecer en sus cuadros puede ser muy bueno o una auténtica pesadilla.
 
 Con este titular empieza una anuncio en la VLH. Pagado por Adolfé, une artista local, es un anuncio para conseguir modelos para sus cuadros. 200 doblones por 2 sesiones de modelaje. Cada sesión dura una tarde o una mañana. Es dinero fácil para los héroes, pero lo que no saben es que el arte de Adolfé es bastante especial, ya que los modelos sufren las cosas se ven en los cuadros en los que aparecen.
 
@@ -1993,7 +1993,7 @@ NOTA: este relato salvaje se empezó a escribir en serio durante el Día del Org
 
 **Comienzo:** San Juan de Puerto Rico
 
-Ha corrido la noticia entre los aldeanos de los pueblos cercanos a San Juan que hay un norteamericano que compra huesos de animales antiguos enterrados, cuanto más grande y raro es el animal más paga.
+> Ha corrido la noticia entre los aldeanos de los pueblos cercanos a San Juan que hay un norteamericano que compra huesos de animales antiguos enterrados, cuanto más grande y raro es el animal más paga.
 
 George Jansen de la recién creada universidad de Miskatonic, ha venido desde los Estados Unidos en busca de fósiles de animales prehistóricos. Es profesor de Historia Natural y está buscando el nexo de unión entre las especies actuales y especies extintas. Está pagando a los aldeanos de los pueblos colindantes a San Juan por huesos que cree que pudieron pertenecer a elefantes, osos y felinos gigantes, rinocerontes, etc. especies todas ellas desconocidas en estas latitudes. 
 
@@ -2153,7 +2153,7 @@ Por último, no creo que quieran decirle la verdad a Jansen así que si quieren 
 
 **Comienzo:** Port Royal
 
-Anya Corbitt está desesperada, necesita vender o volver a alquilar la mansión familiar después de que los actuales inquilinos hayan huido despavoridos de ella. Necesitará que investigues la mansión y busques una solución a todos los sucesos extraños que están asustando a los posibles inquilinos o compradores.
+> Anya Corbitt está desesperada, necesita vender o volver a alquilar la mansión familiar después de que los actuales inquilinos hayan huido despavoridos de ella. Necesitará que investigues la mansión y busques una solución a todos los sucesos extraños que están asustando a los posibles inquilinos o compradores.
 
 Anya Corbitt ha tenido que volver desde Boston para solucionar un problema con los actuales inquilinos de la casa familiar en Port Royal, la mansión Corbitt. Los inquilinos han huido de la casa diciendo que hay una presencia maligna en la casa que ha intentado matarlos. El padre de la familia ha sufrido un extraño y grave accidente y los niños y el servicio dicen que las paredes susurran maldiciones, que se podían oír por las noches ruidos inhumanos y notarse presencias malignas.
 
@@ -2349,7 +2349,7 @@ Si alguien quiere puede tratar de alquilar la mansión a Anya por 600 doblones m
 
 **Comienzo:** En alguna comunidad taína o viajando por la jungla
 
-Se va a celebrar un importante partido de batú entre dos comunidades enemigas para decidir la propiedad de unas tierras limítrofes. Uno de los equipos necesita jugadores para completar su equipo.
+> Se va a celebrar un importante partido de batú entre dos comunidades enemigas para decidir la propiedad de unas tierras limítrofes. Uno de los equipos necesita jugadores para completar su equipo.
 
 Tu mesa se encuentra un gran claro en la selva en la que hay dos grupos de taínos gritándose y desafiándose. Pueden mantenerse en la espesura, lo más sensato y seguro, o salir al claro. Si alguien habla taíno, parece una disputa territorial entre dos clanes por la posesión de esas tierras. Si se muestran respetuosos y no hacen movimientos violentos, les dejarán tranquilos, les preocupan más sus oponentes.
 
@@ -2444,7 +2444,7 @@ Esta historia se convertirá en una leyenda del batú y tu mesa conseguirá un +
 
 **Comienzo:** La Habana
 
-Andan circulando por los bajos fondos de La Habana unos lingotes de plata con marcas de la flota de la plata hundida en 1715. Toda la plata rescatada en 1715 fue enviada a España y fundida. Eso solo quiere decir que alguien ha encontrado la plata hundida y debe estar dándole salida.
+> Andan circulando por los bajos fondos de La Habana unos lingotes de plata con marcas de la flota de la plata hundida en 1715. Toda la plata rescatada en 1715 fue enviada a España y fundida. Eso solo quiere decir que alguien ha encontrado la plata hundida y debe estar dándole salida.
 
 Aurora y Flora Esteban de Ubilla son hijas del Juan Esteban de Ubilla, el capitán general de la flota de la plata que un huracán hundió el 31 de julio de 1715 frente a la costa de Florida. Su padre no ha levantado cabeza desde entonces y el deshonor ha caído sobre la familia Ubilla. Aurora y Flora creen que si pueden recuperar la plata perdida (o una parte importante) el honor volverá a su familia.
 
@@ -2575,7 +2575,7 @@ Otra opción que puede darle muchos problemas a la RCPC es hacer correr el rumor
 
 **Comienzo:** Los cayos de la Florida
 
-La Orden del Gran Cthulhu está estudiando un huevo de chthoniano en unas instalaciones en un pequeño islote cerca de Cayo Hueso. El problema es que los padres del huevo y sus familiares están buscándolo y puede que si le pasa algo al huevo hundan la isla en el océano junto con sus habitantes.
+> La Orden del Gran Cthulhu está estudiando un huevo de chthoniano en unas instalaciones en un pequeño islote cerca de Cayo Hueso. El problema es que los padres del huevo y sus familiares están buscándolo y puede que si le pasa algo al huevo hundan la isla en el océano junto con sus habitantes.
 
 \sp
 
@@ -2699,7 +2699,7 @@ Si consiguen, los cuadernos con la investigación no solo mermarán la capacidad
 
 **Comienzo:** Jungla
 
-Cuando los personajes se adentran en la jungla encuentran un misterioso templo abandonado en estado ruinoso. Puede que la promesa de riquezas y secretos oscuros les tiente a explorarlo, pero no serán una aventura sencilla.
+> Cuando los personajes se adentran en la jungla encuentran un misterioso templo abandonado en estado ruinoso. Puede que la promesa de riquezas y secretos oscuros les tiente a explorarlo, pero no serán una aventura sencilla.
 
 Las ruinas que han encontrado son un antiquísimo puesto avanzado de investigación de la serpigente donde hacían experimentos genéticos para mejorar a sus esclavos humanos y hacerlos más dóciles. Explorar este templo puede ser muy peligroso, pero puede haber una gran recompensa si saben donde buscar.
 
@@ -2810,7 +2810,7 @@ Por último, recuerda que tu mesa son buenas personas y usar material radioactiv
 
 **Comienzo:** Interior de una isla grande como Cuba o La Española.
 
-Un niño ha desaparecido y el cacique local del pueblo culpa a una madre de aguas que se supone que existen en los manglares cercanos. Ofrecen una recompensa a quien recuperé al niño y le traiga la cabeza del ofidio.
+> Un niño ha desaparecido y el cacique local del pueblo culpa a una madre de aguas que se supone que existen en los manglares cercanos. Ofrecen una recompensa a quien recuperé al niño y le traiga la cabeza del ofidio.
 
 Tu mesa llega a un poblado que parece bastante alborotado, hay una familia llorando y gritando y el resto del pueblo parece enfurecido. Por las conversaciones y los gritos pueden enterarse de que el niño de 5 años de la familia ha desaparecido durante la noche.
 
@@ -2852,7 +2852,7 @@ Tu mesa deberá decidir ahora que hacer. Si la sueltan, no cobrarán la recompen
 
 **Comienzo:** Ponce
 
-Fabio Castelli es un diletante veneciano que se dedica a cazar críptidos de todo Europa y Norte de África y los vende a espectáculos circenses y paradas de monstruos.
+> Fabio Castelli es un diletante veneciano que se dedica a cazar críptidos de todo Europa y Norte de África y los vende a espectáculos circenses y paradas de monstruos.
 
 \sp
 
@@ -2970,7 +2970,7 @@ Los yehos desaparecerán, abandonando su antiguo territorio y buscarán nuevas t
 
 **Comienzo:** En cualquier sitio donde el grupo de personajes tenga un aliado intelectual.
 
-Ha desaparecido una persona de entre los aliados de corte intelectual o artístico de tu mesa: ha sido secuestrado en su casa o ha desaparecido sin dejar rastro. Detrás de esta desaparición están los Mi-Go y la Orden del Gran Cthulhu que están buscando a las mejores mentes (literalmente) de la zona del Caribe para uno de sus proyectos secretos de exploración submarina.
+> Ha desaparecido una persona de entre los aliados de corte intelectual o artístico de tu mesa: ha sido secuestrado en su casa o ha desaparecido sin dejar rastro. Detrás de esta desaparición están los Mi-Go y la Orden del Gran Cthulhu que están buscando a las mejores mentes (literalmente) de la zona del Caribe para uno de sus proyectos secretos de exploración submarina.
 
 Algunas de las posibles víctimas pueden ser:
 
@@ -2995,13 +2995,13 @@ Este proyecto es la más prometedora forma que tiene la Orden de encontrar R’l
 
 La Orden ha conseguido la cooperación de los yuggothianos ofreciéndoles ayuda y protección de una colonia minera de tierras raras en una isla desierta de origen volcánico de las Antillas Menores. Los yuggothianos han enviado 2 científicos para el desarrollo del dispositivo y las operaciones cerebrales y a 4 colonos para la defensa y los trabajos físicos.
 
-Puedes cambiar la finalidad del proyecto, de forma que en vez de buscar R’lyeh se use para buscar pecios hundidos y recuperar sus cargas o para seguir a barcos de enemigos de la Orden.
+> Puedes cambiar la finalidad del proyecto, de forma que en vez de buscar R’lyeh se use para buscar pecios hundidos y recuperar sus cargas o para seguir a barcos de enemigos de la Orden.
 
 #### El dispositivo de exploración
 
 El dispositivo tiene la forma y el tamaño de un delfín metálico y en su interior hay un cilindro cerebral que dirige todo el dispositivo. Aguanta miles de kilos de presión, tienen un sistema de propulsión basado en las aletas y la cola del delfín y unos sistemas visuales con iluminación que permiten explorar las simas más profundas.
 
-Que metan tu cerebro sin tu consentimiento en una especie de pez metálico para buscar una ciudad sumergida puede ser bastante traumático. Todo este proceso exige superar una TPC d12 y de fallar y tener que elegir un trastorno, puedes pasar de la tabla de trastornos y darle una fobia a la oscuridad, al mar, a la tecnología o al personal sanitario.
+> Que metan tu cerebro sin tu consentimiento en una especie de pez metálico para buscar una ciudad sumergida puede ser bastante traumático. Todo este proceso exige superar una TPC d12 y de fallar y tener que elegir un trastorno, puedes pasar de la tabla de trastornos y darle una fobia a la oscuridad, al mar, a la tecnología o al personal sanitario.
 
 Tiene una autonomía de semanas con lo que podría seguir una pista submarina sin necesidad de volver a la base a recargar y cambiar el líquido en que flota el cerebro y del que se alimenta.
 
@@ -3074,7 +3074,7 @@ Media semana más tarde, el operado del cerebro volverá a la normalidad. Podrá
 
 **Comienzo:** Cualquier lugar después de una juerga salvaje.
 
-Al abrir los ojos, la cabeza te explota y el sol te deslumbra. La noche pasada te corriste una juerga memorable. La pregunta es por qué estás abrazado a una vieja pata de palo que huele a rayos.
+> Al abrir los ojos, la cabeza te explota y el sol te deslumbra. La noche pasada te corriste una juerga memorable. La pregunta es por qué estás abrazado a una vieja pata de palo que huele a rayos.
 
 Elige al azar un objeto que llevará alguien de tu mesa y cámbiasela por la pata de palo. En ese momento tendrá un flashback en el que se ve a sí mismo intercambiando con una figura borrosa el objeto por la pata de palo. Recuerda que estaba encantado con el intercambio por alguna extraña razón que ahora no recuerda.
 
@@ -3102,7 +3102,7 @@ El amuleto debe de ser de alguna manera portado, encima como algo en el bolsillo
 
 **Comienzo:** Puedes jugar este relato siempre que tu mesa sea capturada.
 
-Si son apresados en algún momento por la RCPC o cultistas de la Orden, serán llevados en secreto al Morro en La Habana, donde serán interrogados y torturados y finalmente ejecutados. Aquí veremos como pueden escapar del Morro.
+> Si son apresados en algún momento por la RCPC o cultistas de la Orden, serán llevados en secreto al Morro en La Habana, donde serán interrogados y torturados y finalmente ejecutados. Aquí veremos como pueden escapar del Morro.
 
 Si en algún momento tu mesa es derrotada por agentes de la Orden, acabará en el Morro, en alguna de las celdas que tienen en el sótano de la fortaleza. Para empezar, como mínimo, tendrán dos heridas. Habrán sanado una, pero el resto no, a no ser que se rindiera antes de caer incapacitado.
 

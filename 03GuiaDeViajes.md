@@ -95,11 +95,9 @@ Cayo Hueso recibe por su nombre de Ponce de León, que la llamó así por la gra
 
 Desde cayo Hueso también hay un importante comercio de limas de los cayos, más ácidas y aromáticas y con más vitamina C que las limas normales y esponjas de mar que son usadas en la higiene personal y en la limpieza del hogar.
 
-**Entrenamiento para pescar esponjas de mar:** Las gentes que se dedican a la pesca de esponjas de los Cayos nadan casi como peces y pueden aguantar la respiración mucho más que una persona normal. Las técnicas que te pueden enseñar los pescadores de esponja hacen que nades mejor y que aguantes la respiración mucho más.
-
-Por 300 doblones y una semana de entrenamiento pueden entrenarte para mejorar tus dotes de nadador o para practicar tu apnea. A nivel de juego, puedes conseguir un +2 a Atletismo a la hora de nadar o que las rondas que puedes aguantar bajo el agua sean 2 + (2 veces dado de Vigor). Alguien con vigor 8 podría aguantar 18 rondas en vez de 10. Con dos semanas y 500 doblones puedes conseguir las dos ventajas.
-
-Si tienes la desventaja Mal Nadador y pagas 400 doblones y entrenas 1 semana podrás quitarte la desventaja.
+> **Entrenamiento para pescar esponjas de mar:** Las gentes que se dedican a la pesca de esponjas de los Cayos nadan casi como peces y pueden aguantar la respiración mucho más que una persona normal. Las técnicas que te pueden enseñar los pescadores de esponja hacen que nades mejor y que aguantes la respiración mucho más.
+> Por 300 doblones y una semana de entrenamiento pueden entrenarte para mejorar tus dotes de nadador o para practicar tu apnea. A nivel de juego, puedes conseguir un +2 a Atletismo a la hora de nadar o que las rondas que puedes aguantar bajo el agua sean 2 + (2 veces dado de Vigor). Alguien con vigor 8 podría aguantar 18 rondas en vez de 10. Con dos semanas y 500 doblones puedes conseguir las dos ventajas.
+> Si tienes la desventaja Mal Nadador y pagas 400 doblones y entrenas 1 semana podrás quitarte la desventaja.
 
 \sp
 

@@ -736,7 +736,7 @@ Los yithianos combatieron y derrotaron a un gran enemigo, los pólipos volantes,
     * **Tecnología yithiana:** Puedes asignarle a un yithiano hasta 2 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los yithianos pueden usar cualquier poder del manual básico, no tienen las limitaciones de esta ambientación, pero suelen ser de orientados al combate.
 * **TPC:** 1d8
 
-Su capacidad de viajar en el tiempo no tiene reglas, ya que creemos que es más un recurso narrativo que una habilidad para usar en el juego. Puede que a tus jugadores se les ocurra usar a un yithiano para se intercambie con sus yoes del pasado y poder hablar con ellos para advertirles de un peligro. Si quieren hacerlo y se lo curran al convencer al yithiano el viaje en el tiempo funciona sin necesitar ningún tipo de tirada.
+> Su capacidad de viajar en el tiempo no tiene reglas, ya que creemos que es más un recurso narrativo que una habilidad para usar en el juego. Puede que a tus jugadores se les ocurra usar a un yithiano para se intercambie con sus yoes del pasado y poder hablar con ellos para advertirles de un peligro. Si quieren hacerlo y se lo curran al convencer al yithiano el viaje en el tiempo funciona sin necesitar ningún tipo de tirada.
 
 \sp
 
@@ -795,7 +795,7 @@ Sobre ellos recae todo el desarrollo tecnológico de su raza. No son tan fuertes
     * **Tecnología Yuggoth:** Puedes asignarle a un científico hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Uno de esos aparatos puede ser uno que se injerta en su «garganta» y que les permite comunicarse con los humanos. En ese caso, podrán hablar 1 idioma a d6.
 * **TPC:** 1d6
 
-Con el material adecuado, un Mi-Go científico puede extraer el cerebro de un humano y meterlo en un cilindro cerebral en dos horas pasando una tirada de Medicina. El mismo tiempo para el proceso a la inversa. La extracción de un cerebro supone una tirada de TPC d8 al sujeto que sufra la operación siempre que no la haya permitido.
+> Con el material adecuado, un Mi-Go científico puede extraer el cerebro de un humano y meterlo en un cilindro cerebral en dos horas pasando una tirada de Medicina. El mismo tiempo para el proceso a la inversa. La extracción de un cerebro supone una tirada de TPC d8 al sujeto que sufra la operación siempre que no la haya permitido.
 
 \sp
 
