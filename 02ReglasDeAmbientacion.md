@@ -164,7 +164,7 @@ Este complejo trastorno mental consiste en una ansiedad general y continua por t
 
 > En juego, el personaje con este trastorno recibe un -2 a todas las tiradas que necesite para tomar decisiones. Por ejemplo, hará una tirada de Tácticas con -2 para decidir que puerta es mejor para atacar la cárcel local y liberar a tus compañeros.
 
-Como mayor directamente no podrá hacer la tirada, la ansiedad le atenazará dejándole en blanco.
+> Como mayor directamente no podrá hacer la tirada, la ansiedad le atenazará dejándole en blanco.
 
 ### Ataques de pánico (mayor/menor)
 
@@ -380,7 +380,7 @@ Esta arma de rayos, parecida a una cámara de fotos de gran tamaño, posee un gr
 |---|---|---|---|---|---|---|---|
 |50/100/150|2d8|2|1|35| — |2| — |
 
-**Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, de forma que en unos 35 minutos tendrías el arma plenamente cargada.
+> **Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, de forma que en unos 35 minutos tendrías el arma plenamente cargada.
 
 \conc
 
@@ -398,7 +398,7 @@ Los laboratorios de RCPC han podido aprender mucho de la tecnología yith y, com
 |---|---|---|---|---|
 |150/300/600|4d10|3|1|35| — |
 
-**Notas:** Necesita una dotación de 1 persona al no tener que recargar. Puede hacer que se sobrecaliente y termine explotando. Haría un daño de 3d10 en una plantilla mediana. Recarga 1 de munición por cada media hora, forma que en menos de 1 día tendrías el cañón plenamente cargado.
+> **Notas:** Necesita una dotación de 1 persona al no tener que recargar. Puede hacer que se sobrecaliente y termine explotando. Haría un daño de 3d10 en una plantilla mediana. Recarga 1 de munición por cada media hora, forma que en menos de 1 día tendrías el cañón plenamente cargado.
 
 &nbsp;
 
@@ -450,7 +450,7 @@ Son naves pequeñas de un mástil y poca tripulación, perfectas para la pesca o
 |---|---|---|---|---|---|---|
 |8|-1|15 km/h|15 (3)|3 - 10|20|150|
 
-**Notas:** +2 heridas.
+> **Notas:** +2 heridas.
 
 **Armas:** Sin armas.
 
@@ -468,7 +468,7 @@ Las más rápidas y maniobrables del Caribe, estas naves son perfectas para los 
 |---|---|---|---|---|---|---|
 |9|0|25 km/h|16 (3)|8-20|40|350|
 
-**Notas:** +2 heridas.
+> **Notas:** +2 heridas.
 
 **Armas:** Sin armas. Se puede instalar cañones quitando espacio de carga y a razón de 4 toneles por cada cañón hasta un máximo de 8 cañones (4 por lado del barco).
 
@@ -488,7 +488,7 @@ Es el más grande de los navíos con una gran capacidad de carga, pero es tremen
 |---|---|---|---|---|---|---|
 |15|-2|10 km/h|23 (4)|40-150|300|600|
 
-**Notas:** +3 heridas. Puede quitarse espacio de carga para meter más gente y viceversa a razón de 1 personas por cada 6 toneles.
+> **Notas:** +3 heridas. Puede quitarse espacio de carga para meter más gente y viceversa a razón de 1 personas por cada 6 toneles.
 
 **Armas:** Sin armas. Se puede instalar cañones quitando espacio de carga y a razón de 4 toneles por cada cañón hasta un máximo de 20 cañones (10 por lado del barco).
 
@@ -506,7 +506,7 @@ Las naves perfectas para los piratas y las fuerzas del orden. Su buena velocidad
 |---|---|---|---|---|---|---|
 |14 (Colosal)|-1|15 km/h|20 (4)|20+80|80|600|
 
-**Notas:** Blindaje pesado.
+> **Notas:** Blindaje pesado.
 
 **Armas:** Cañones (entre 16 y 46, fijos en las bordas).
 
@@ -526,7 +526,7 @@ Auténticas fortalezas flotantes. Ellas solo pueden tener controlada una ruta co
 |---|---|---|---|---|---|---|
 |18|-2|15 km/h|20 (4)|40+120|160|1.000|
 
-**Notas:** Blindaje pesado.
+> **Notas:** Blindaje pesado.
 
 **Armas:** Cañones (entre 30 y 60, fijos en las bordas).
 
@@ -1668,7 +1668,7 @@ El botín no puede venderse en cualquier sitio, solo en puertos piratas que son 
 
 El precio del barril de botín será 3 veces el precio de venta más alto que se dé en el puerto por carga y un tercio de la capacidad menor. Es decir, que si puedes vender materias primas por 15 barriles a 100 doblones por barril y 30 barriles de productos manufacturados por 120, el precio del barril será de 360 doblones (120 doblones x 3) y la capacidad de carga será de 5 barriles (15 barriles / 3).
 
-NOTA: Si a tu mesa le encanta todo este minijuego de comercio, disfrutadlo. Si no es vuestro rollo, simplemente hazles una tirada de tesoro d6 (solo tiradas en la tabla de Riquezas) y ese es el dinero que han sacado de beneficio con el comercio entre islas del Caribe. Para poder hacer la tirada han tenido que poder comprar y cargar mercancía en el puerto de origen, es decir que si el puerto era pequeño o la ciudad estaba saqueada solo podrán tirar un d4. Si han tenido que salir pitando no podrán hacer la tirada porque tienen la bodega vacía.
+> **Notas:** Si a tu mesa le encanta todo este minijuego de comercio, disfrutadlo. Si no es vuestro rollo, simplemente hazles una tirada de tesoro d6 (solo tiradas en la tabla de Riquezas) y ese es el dinero que han sacado de beneficio con el comercio entre islas del Caribe. Para poder hacer la tirada han tenido que poder comprar y cargar mercancía en el puerto de origen, es decir que si el puerto era pequeño o la ciudad estaba saqueada solo podrán tirar un d4. Si han tenido que salir pitando no podrán hacer la tirada porque tienen la bodega vacía.
 
 \sp
 
@@ -2168,9 +2168,13 @@ A nivel de juego será incapaz llevar cualquier tarea que exija tiempo realizarl
 
 En esta sección encontrarás todo lo necesario para darle un poco de vida a los viajes por mar y por tierra y que no sea un simple «llegas a Cuba tres días más tarde» sino que haya situaciones, personas y lugares que lo hagan diferente e incluso sirvan de introducción a otros relatos salvajes.
 
-**Duración de los viajes:** Como ya hemos visto en otras partes, vamos a usar la semana con forma de contar el tiempo cuando se viaje. Todos los viajes que supongan viajar de una isla a otra duran una semana. Los viajes por barco dentro de una misma isla duran media semana y por tierra una semana. 
+> **Duración de los viajes:** Como ya hemos visto en otras partes, vamos a usar la semana con forma de contar el tiempo cuando se viaje. 
 
-Si crees que el viaje es extremadamente corto, podría hacerse en un día, con lo que no podrá usarse para, por ejemplo, estudiar libros de los Mitos. Un viaje extremadamente largo podría durar dos semanas. Moverse de un extremo a otro del Caribe no debería durar más de 2 semanas con buen tiempo.
+\sc
+
+> Todos los viajes que supongan viajar de una isla a otra duran una semana. Los viajes por barco dentro de una misma isla duran media semana y por tierra una semana. 
+
+> Si crees que el viaje es extremadamente corto, podría hacerse en un día, con lo que no podrá usarse para, por ejemplo, estudiar libros de los Mitos. Un viaje extremadamente largo podría durar dos semanas. Moverse de un extremo a otro del Caribe no debería durar más de 2 semanas con buen tiempo.
 
 \sp
 

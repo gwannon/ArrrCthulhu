@@ -47,11 +47,11 @@ En él se reúnen los capitanes piratas y toman decisiones sobre el gobierno de 
 
 A la entrada del ayuntamiento hay un tablón de anuncios con montones de ofertas. Si no sabes leer, siempre hay alguien que te pueda ayudar por unas monedas con los anuncios de compra y venta de objetos y de propuestas de trabajo.
 
-Cada semana se puede consultar el tablón para buscar anuncios de venta o intercambio de objetos extraordinarios. Puedes generar siempre que vayan a verlo un tesoro de tirada de botín 1d8 en el que solo se puedan tirar en la Tabla de Objetos extraordinarios.
+> Cada semana se puede consultar el tablón para buscar anuncios de venta o intercambio de objetos extraordinarios. Puedes generar siempre que vayan a verlo un tesoro de tirada de botín 1d8 en el que solo se puedan tirar en la Tabla de Objetos extraordinarios.
 
-El precio o por lo que quieran intercambiar queda a tu elección. También es una buena forma de darles el objeto que necesiten para empezar o afrontar una aventura.
+> El precio o por lo que quieran intercambiar queda a tu elección. También es una buena forma de darles el objeto que necesiten para empezar o afrontar una aventura.
 
-Puedes usar el tablón para introducir tus propias aventuras. Un anuncio buscando aventureros valientes que hagan una gesta por una nueva suma es un clásico de los juegos de rol.
+> Puedes usar el tablón para introducir tus propias aventuras. Un anuncio buscando aventureros valientes que hagan una gesta por una nueva suma es un clásico de los juegos de rol.
 
 #### La Flor de Lis
 
@@ -65,13 +65,13 @@ En realidad, Dupont es un lengnita llamado Xeros que escapo a la Tierra y se bus
 
 El local tiene 2 plantas y un sótano. En la primera planta están las barras de bar, las salas de juego y un par de escenarios donde bailan sensualmente todo tipo de personas en cualquier tipo de combinación, solos, parejas, tríos, etc. En el piso superior, hay diferentes espacios privados para todo tipo de prácticas sexuales y no sexuales.
 
-Contrariamente a lo que hemos dicho antes, si hay límites en la Flor de Lis, los que tú quieras y con los que tú y tu mesa estéis contentos. Puede ser desde que sea una simple taberna muy animada con broncas diarias, a que sea un lugar de vicio, lujuria y perversión desenfrenada con mazmorras BDSM, peleas a cuchillo. Tú eliges, es tu juego.
+> Contrariamente a lo que hemos dicho antes, si hay límites en la Flor de Lis, los que tú quieras y con los que tú y tu mesa estéis contentos. Puede ser desde que sea una simple taberna muy animada con broncas diarias, a que sea un lugar de vicio, lujuria y perversión desenfrenada con mazmorras BDSM, peleas a cuchillo. Tú eliges, es tu juego.
 
 #### Lucha con machete
 
 En los sucios callejones de Tortuga y en sus tabernas son muy comunes los combates a machete, de forma que se han ido desarrollando una serie de técnicas de combate con machete que acabarán creando el _Tire machèt_ durante la Revolución haitiana. Puedes tratar de buscarte un experto en este tipo de lucha que te enseñe los trucos de la pelea con machetes.
 
-Por unos 200 doblones (entre sobornos y rondas de alcohol) y una semana y media de entrenamiento intensivo (aprender técnicas, duelos, curarse heridas y demás), mejorará el valor de Pelear del personaje en un nivel de dado y un +1 al daño cuando combata con machetes o estoque. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
+> Por unos 200 doblones (entre sobornos y rondas de alcohol) y una semana y media de entrenamiento intensivo (aprender técnicas, duelos, curarse heridas y demás), mejorará el valor de Pelear del personaje en un nivel de dado y un +1 al daño cuando combata con machetes o estoque. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
 
 ### Cayos de Florida
 
@@ -81,9 +81,11 @@ _Controlada por:_ Reino de España
 
 Los cayos de Florida son un conjunto de más de 800 pequeñas islas colocadas unas detrás de otras en curva desde el extremo inferior de Florida hasta casi llegar a Cuba. Estas islas estaban principalmente desiertas, con algunas poblaciones en las más grandes como Cayo Hueso.
 
-Los cayos de Florida es uno de esos territorios de frontera donde las gentes que no encajan en la sociedad se establecían para vivir a su manera. Aunque oficialmente son parte de los territorios de ultramar del Reino de España, sus habitantes son bastante independientes viviendo bajo sus reglas.
+Los cayos de Florida es uno de esos territorios de frontera donde las gentes que no encajan en la sociedad se establecían para vivir a su manera. 
 
 \sp
+
+Aunque oficialmente son parte de los territorios de ultramar del Reino de España, sus habitantes son bastante independientes viviendo bajo sus reglas.
 
 Debido a que está muy cerca de La Habana y en la ruta entre las poblaciones de la costa este de la Florida como San Agustín y las ciudades de Cuba, tiene un importante tráfico de cargueros comerciales. Lo que hace que sus aguas estén llenas de barcos piratas.
 
@@ -96,10 +98,12 @@ Cayo Hueso recibe por su nombre de Ponce de León, que la llamó así por la gra
 Desde cayo Hueso también hay un importante comercio de limas de los cayos, más ácidas y aromáticas y con más vitamina C que las limas normales y esponjas de mar que son usadas en la higiene personal y en la limpieza del hogar.
 
 > **Entrenamiento para pescar esponjas de mar:** Las gentes que se dedican a la pesca de esponjas de los Cayos nadan casi como peces y pueden aguantar la respiración mucho más que una persona normal. Las técnicas que te pueden enseñar los pescadores de esponja hacen que nades mejor y que aguantes la respiración mucho más.
+
 > Por 300 doblones y una semana de entrenamiento pueden entrenarte para mejorar tus dotes de nadador o para practicar tu apnea. A nivel de juego, puedes conseguir un +2 a Atletismo a la hora de nadar o que las rondas que puedes aguantar bajo el agua sean 2 + (2 veces dado de Vigor). Alguien con vigor 8 podría aguantar 18 rondas en vez de 10. Con dos semanas y 500 doblones puedes conseguir las dos ventajas.
-> Si tienes la desventaja Mal Nadador y pagas 400 doblones y entrenas 1 semana podrás quitarte la desventaja.
 
 \sp
+
+> Si tienes la desventaja Mal Nadador y pagas 400 doblones y entrenas 1 semana podrás quitarte la desventaja.
 
 #### El tesoro de Cesar
 
@@ -107,7 +111,13 @@ Se dice que en alguna de las islas desiertas de los cayos está escondido el tes
 
 El tesoro de Cesar se encuentra en el actual cayo Big Pine. Escogió ese lugar debido a que tenía una gran zona rocosa en el interior del cayo que no filtraba el agua del mar. En 1720, con la ayuda de dos tripulantes de su confianza, excavó en la roca viva y deposito su cofre del tesoro dentro, lo tapó con una losa y lo sello.
 
-> El tesoro de Cesar tiene una tirada de TPC 12+2 para determinar su contenido y puede tener de todo menos objetos de gran tamaño. Lo más interesante es que cesar dejo dentro su diario personal narrado en una mezcla de memorias hasta aprender a escribir y diario a partir de ese momento. Si lo descubriera la Orden o Barbanegra comprometería su tapadera y pondría en peligro su vida. También se le podría chantajear con entregarlo para conseguir dinero o favores. Se puede considerar como un libro de los Mitos.
+> El tesoro de Cesar tiene una tirada de TPC 12+2 para determinar su contenido y puede tener de todo menos objetos de gran tamaño. Lo más interesante es que cesar dejo dentro su diario personal narrado en una mezcla de memorias hasta aprender a escribir y diario a partir de ese momento.
+
+\sc
+
+> Si lo descubriera la Orden o Barbanegra comprometería su tapadera y pondría en peligro su vida. También se le podría chantajear con entregarlo para conseguir dinero o favores. Se puede considerar como un libro de los Mitos.
+
+&nbsp;
 
 * **Título:** Diario personal de Cesar
 * **Autor:** Cesar
@@ -121,9 +131,11 @@ El tesoro de Cesar se encuentra en el actual cayo Big Pine. Escogió ese lugar d
 
 #### Raqueros
 
-Un tipo muy especial de piratería se da en los Cayos de Florida, los «wreckers» o raqueros. Las gentes de los cayos dedican a engañar a los barcos que van por sus aguas con faros falsos y los hacen encallar o hundirse y luego a saquear los restos. No es exactamente una actividad ilegal, por lo que no son tan perseguidos como los piratas de alta mar.
+Un tipo muy especial de piratería se da en los Cayos de Florida, los «wreckers» o raqueros. 
 
 \sp
+
+Las gentes de los cayos se dedican a engañar a los barcos que van por sus aguas con faros falsos y los hacen encallar o hundirse y luego acuden a saquear los restos. No es exactamente una actividad ilegal, por lo que no son tan perseguidos como los piratas de alta mar.
 
 Es muy difícil demostrar que alguien ha usado luces falsas para engañar a los barcos y este método de vida está tan integrado en la vida de los cayos que nadie quiere matar a la gallina de los huevos de oro. Además, el derecho de salvamento les da a los raqueros la propiedad de los restos de los barcos.
 
@@ -135,9 +147,9 @@ _Controlada por:_ Gran Bretaña
 
 Las islas Caimán se encuentran al sur de Cuba, al noroeste de Jamaica y al este del Yucatán. Este archipiélago está formado por 3 islas y solo Gran Caimán, la mayor isla tiene una localidad estable, George Town. Las islas están bajo el control del Gobernador de Jamaica desde 1670, aunque son bastante autosuficientes y autogobernadas.
 
-Las dos islas menores han sido refugio de piratas y de cimarrones durante décadas. En sus calas han fondeado barcos para carenarlos y en sus selvas se han conseguido carne, fruta y agua potable. También ha sido lugar de reunión y parlamento en épocas de grandes crisis para los piratas.
+Las dos islas menores han sido refugio de piratas y de cimarrones durante décadas. 
 
-\sc
+En sus calas han fondeado barcos para carenarlos y en sus selvas se han conseguido carne, fruta y agua potable. También ha sido lugar de reunión y parlamento en épocas de grandes crisis para los piratas.
 
 #### George Town
 
@@ -147,15 +159,19 @@ Los profundos han empezado a hibridarse con los habitantes de la zona, especialm
 
 Si se pregunta o investiga, todos los híbridos son parte de una familia de pescadores de origen español que viven fuera de la población, los Santos. Son muy reservados y huraños, pero no son agresivos.
 
-Los Santos y la tribu profunda con la que se hibridaron están desterrados por alguna actividad ignominiosa que realizaron hace más de un siglo. Ningún profundo se acercará a ellos ni tendrá tratos con ellos y si los encuentran fuera de su territorio serán ejecutados.
-
 \sp
+
+Los Santos y la tribu profunda con la que se hibridaron están desterrados por alguna actividad ignominiosa que realizaron hace más de un siglo. Ningún profundo se acercará a ellos ni tendrá tratos con ellos y si los encuentran fuera de su territorio serán ejecutados.
 
 Los Santos eran una familia muy creyente que cuando entraron en contacto con los profundos vieron su divinidad y que eran hijos de Dios en vez de demonios. Trataron de evangelizarlos en su fe cristiana y lo lograron. Dejaron de adorar al dios pulpo y la tribu terminó adoptando los preceptos cristianos e hibridándose con los Santos.
 
 Los Santos saben todo lo que se puede saber sobre los profundos del Caribe. Aunque huraños son muy religiosos y una persona que muestre su fe cristiana podría acercárseles y sacarles información útil sobre los profundos.
 
-> **El ostracismo o «Ymg’yog ah»** es una antigua ley de los profundos reservada a las tribus que hayan hecho actos terribles contra otros profundos o hayan ofendido al Gran Cthulhu. Cualquier profundo que sea excluido no podrá salir de un pequeño territorio que se les asignará. Ningún profundo tendrá tratos con ellos y si se los encuentran fuera de su territorio los deben matar. Solo un gran cacique puede declarar la exclusión, pero nadie puede quitarla, es para siempre. Teniendo en cuenta que los profundos son inmortales es una pena muy dura.
+> **El ostracismo o «Ymg’yog ah»** es una antigua ley de los profundos reservada a las tribus que hayan hecho actos terribles contra otros profundos o hayan ofendido al Gran Cthulhu. Cualquier profundo que sea excluido no podrá salir de un pequeño territorio que se les asignará. 
+
+\sc
+
+> Ningún profundo tendrá tratos con ellos y si se los encuentran fuera de su territorio los deben matar. Solo un gran cacique puede declarar la exclusión, pero nadie puede quitarla, es para siempre. Teniendo en cuenta que los profundos son inmortales es una pena muy dura.
 
 #### El infierno
 
@@ -163,11 +179,13 @@ Los Santos saben todo lo que se puede saber sobre los profundos del Caribe. Aunq
 
 En el extremo noroeste de la isla Gran Caimán hay una zona con extrañas formaciones rocosas negras y puntiagudas llamada el Infierno. Aunque parezca un paisaje extraterrestre o del inframundo, es totalmente natural. Hay muchos bulos y cuentos sobre que el sitio es usado por practicantes de artes mágicas para sus hechizos y rituales. No supone ninguna ventaja hacer magia aquí, aparte de que está bastante lejos de miradas indiscretas.
 
-Todos estos bulos los ha hecho correr la rama propagandística de la RCPC para identificar a practicantes de magia. Tienen un agente cerca que registra quién llega y qué hace y manda informes sobre sus actividades. La rama decide, según esos informes, si los seduce para su casa, si los deja en paz por ahora o si manda acabar con ellos a la rama militar.
-
 \sp
 
+Todos estos bulos los ha hecho correr la rama propagandística de la RCPC para identificar a practicantes de magia. Tienen un agente cerca que registra quién llega y qué hace y manda informes sobre sus actividades. La rama decide, según esos informes, si los seduce para su casa, si los deja en paz por ahora o si manda acabar con ellos a la rama militar.
+
 Cuando necesiten hacer algún tipo de ritual o ceremonia mágica puedes hacerles llegar las historias de este lugar. Como poco perderán el tiempo y como mucho tendrán una emboscada de agentes de la Orden.
+
+\sc
 
 #### La playa de 7 millas
 
@@ -316,7 +334,7 @@ Por lo menos 1 de cada 4 guardas, presumiblemente el jefe del grupo, debería te
 
 Mágicamente, es imposible lanzar un hechizo que penetre dentro de la mansión. Solo poderosos taumaturgos con grandes rituales pueden intentar algo. Y desde dentro tampoco es muy viable, ya que la Orden con la ayuda de la rama tecnológico-mágica de la RCPC ha podido copiar el poder de los lloigors de drenar magia. En unos pocos minutos en la mansión, un brujo se queda sin el poder suficiente ni para poder hacer un simple ritual.
 
-El campo de drenaje de magia de la mansión drena todos 1d6 PP por turno a 500 metros alrededor de la mansión. Absorbe 1d8 por turno si entras dentro de la mansión.
+> El campo de drenaje de magia de la mansión drena todos 1d6 PP por turno a 500 metros alrededor de la mansión. Absorbe 1d8 por turno si entras dentro de la mansión.
 
 Es la vivienda particular más grande de La Habana, incluso que la del gobernador. La casa tiene 2 pisos y un sótano/mazmorra. Desde el 2 piso se puede acceder a un pequeño observatorio astronómico que Hernando usa como biblioteca de los Mitos y lugar donde hacer sus invocaciones.
 
@@ -368,7 +386,7 @@ Alfredo Usía es un criminal de La Habana y controla el juego ilegal. Es Además
 
 Un viejo almacén del puerto sirve de tapadera del casino al que solo se puede acceder sabiendo el santo y seña. Hay mesas para jugar a la ruleta, los juegos con dados y los naipes. También hay combates de gallos con importantes apuestas.
 
-**La casa siempre gana:** Es muy difícil ganar en las mesas de este casino ilegal. Los dados, las cartas, los crupieres, etc. todo está trucado. Si quieres apostar y jugar tendrás un -2 a todas tus tiradas. Si haces trampas, estas solo contrarrestarán las del casino, con lo que tirarás sin negativos.
+> **La casa siempre gana:** Es muy difícil ganar en las mesas de este casino ilegal. Los dados, las cartas, los crupieres, etc. todo está trucado. Si quieres apostar y jugar tendrás un -2 a todas tus tiradas. Si haces trampas, estas solo contrarrestarán las del casino, con lo que tirarás sin negativos.
 
 Sin embargo, la estrella son las apuestas es una modalidad de pelea nueva creada por Alfredo, la pelea de caimanes. En un foso de agua con gradas a su alrededor hay combates entre caimanes seleccionados por su sed de sangre y su fuerza por sus entrenadores.
 
@@ -380,7 +398,7 @@ El foso de caimanes también ha sido usado para interrogar a personas que no que
 
 > _**Recompensa extra de cordura (+1):** Desbaratar el local ilegal de Alfredo es librar al Caribe de una gran maldad. Supone sacar de las calles a un criminal peligroso con delitos de sangre, ayudar a sus deudores a salir a flote y evitar maltrato animal._
 
-**Recuerda:** El juego patológico es un problema grave y no debe tomarse a la ligera.
+> **Recuerda:** El juego patológico es un problema grave y no debe tomarse a la ligera.
 
 #### Universidad de La Habana
 
@@ -398,7 +416,7 @@ La situación económica del colegio no es buena y los jesuitas que lo administr
 
 Los jesuitas han ido recopilando a lo largo de los años un enorme archivo documental que guardan en el sótano del colegio. Contiene información de las grandes familias nobles y comerciantes de La Habana. Gracias a sus trabajos como confesores, tutores e incluso administradores han accedido a mucha información reservada que no recogen los archivos públicos de La Habana. Si eres generoso con el colegio, puede que te den acceso a su archivo.
 
-El archivo del colegio San José otorga un +1 las tiradas de Investigar cuando se busca información relacionada con las altas esferas de Cuba. También es una sencilla biblioteca de los Mitos que otorga un +1 a las tiradas de Mitos.
+> El archivo del colegio San José otorga un +1 las tiradas de Investigar cuando se busca información relacionada con las altas esferas de Cuba. También es una sencilla biblioteca de los Mitos que otorga un +1 a las tiradas de Mitos.
 
 #### La librería de La Habana
 
@@ -470,7 +488,7 @@ Diego Rodríguez de Guzmán es un maestro navarro de la Destreza que junto a otr
 
 Guzmán es un fiel seguidor del recto código ético y moral de la Destreza y no enseñará su nuevo estilo a personajes de dudosa reputación. Se han dado casos en que el propio Guzmán se ha batido en duelo con estudiantes que han deshonrado su estilo.
 
-Por unos 500 doblones y dos semanas de entrenamiento intensivo, mejorará el valor de Pelear del personaje en un nivel de dado cuando combata con espadas ligeras, como la ropera, machete o estoque. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
+> Por unos 500 doblones y dos semanas de entrenamiento intensivo, mejorará el valor de Pelear del personaje en un nivel de dado cuando combata con espadas ligeras, como la ropera, machete o estoque. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance.
 
 ### Santiago de Cuba
 
@@ -610,19 +628,19 @@ Un experto en Mitos puede detectar que las máscaras vegigantes representan much
 
 No es tan salvaje como el Fèt Gede, pero puede pasar muchas cosas extrañas. De hecho, que los vegigantes secuestren niños se debe a varios casos de secuestros reales de niños por parte de sectas «demoníacas».
 
-**Cánticos del carnaval:** Los cantos que los participantes del carnaval usan funcionan como un ritual de protección contra los monstruos y los brujos. Al recitar en pareja los llamados y las respuestas, los 2 participantes obtienen un solo beni para los dos que solo dura hasta el final de la escena para luchar contra la magia y los seres de los Mitos.
+> **Cánticos del carnaval:** Los cantos que los participantes del carnaval usan funcionan como un ritual de protección contra los monstruos y los brujos. Al recitar en pareja los llamados y las respuestas, los 2 participantes obtienen un solo beni para los dos que solo dura hasta el final de la escena para luchar contra la magia y los seres de los Mitos.
 
-Los cánticos que tu mesa debe recitar son:
+> Los cánticos que tu mesa debe recitar son:
 
-_Vegigante a la bolla / Pan y Cebolla_
+> _Vegigante a la bolla / Pan y Cebolla_
 
-_Toco toco toco / Vegigante come coco_
+> _Toco toco toco / Vegigante come coco_
 
-_Prucuta prucuta / Y bueno que’tá_
+> _Prucuta prucuta / Y bueno que’tá_
 
-_Esa vieja e‘bruja / Y Tiene los ojos color café_
+> _Esa vieja e‘bruja / Y Tiene los ojos color café_
 
-_Vegigante comió mango / Y hasta las unas se las lambio_
+> _Vegigante comió mango / Y hasta las unas se las lambio_
 
 _El vegigante está pintado / De amarillo y colorado_
 
@@ -638,7 +656,7 @@ Hay, además, un importante cementerio de 8 o 9 años de antigüedad. Teniendo l
 
 \sp
 
-El saqueo de tumbas es algo horrible, ya que no solo estropea el yacimiento para su estudio y poder así conocer a las gentes que vivieron allí. También es robar una riqueza a las gentes del lugar, al saquear su historia y su cultura y estropear la oportunidad de saber quiénes son y de dónde vienen. No seas como el British Museum, no robes reliquias.
+> El saqueo de tumbas es algo horrible, ya que no solo estropea el yacimiento para su estudio y poder así conocer a las gentes que vivieron allí. También es robar una riqueza a las gentes del lugar, al saquear su historia y su cultura y estropear la oportunidad de saber quiénes son y de dónde vienen. No seas como el British Museum, no robes reliquias.
 
 Dentro de una ambientación basada en los Mitos de Cthulhu saquear una tumba para robar un cadáver podría ser considerado «aceptable», pero desde luego no deberías permiten que tu mesa coja pico y pala y se dedique a saquear tumbas para robar sus objetos valiosos.
 
@@ -750,7 +768,7 @@ Se estima que el círculo de piedras era usado como calendario, que establecía 
 
 Con la colonización de los españoles y la caída de los caciques, todas estas prácticas desaparecieron, pero el lugar sigue siendo importante para los taínos de la Española. En caso de necesitar reunir a los pocos caciques que aún existen, este sería el lugar perfecto. También sería perfecto para dirimir rencillas entre caciques con una conferencia de paz o con un partido de batú.
 
-Los constructores de este sitio no solo lo eligieron por su emplazamiento en el centro de la isla, quedando cerca a todos los cacicazgos, también porque es un punto con un gran poder mágico. Toda cohoba celebrada aquí otorga un +2 a las tiradas de Espíritu. Deberías permitir a tu mesa que pueda acceder a visiones de más valor y de seres más poderosos al realizarla aquí. Tampoco debes dejarles que se dediquen a hacer cohobas cada vez que no sepan qué hacer.
+> Los constructores de este sitio no solo lo eligieron por su emplazamiento en el centro de la isla, quedando cerca a todos los cacicazgos, también porque es un punto con un gran poder mágico. Toda cohoba celebrada aquí otorga un +2 a las tiradas de Espíritu. Deberías permitir a tu mesa que pueda acceder a visiones de más valor y de seres más poderosos al realizarla aquí. Tampoco debes dejarles que se dediquen a hacer cohobas cada vez que no sepan qué hacer.
 
 #### Isla Catalina
 
@@ -812,7 +830,7 @@ El Fèt Gede es el Día de los muertos para los practicantes del vudú. A pesar 
 
 Es una celebración muy popular entre los piratas por sus excesos y se sabe que es visitada por muchos piratas que se mezclan entre los celebrantes para disfrutar de la fiesta. Puede ser un buen momento en el que tu mesa se encuentre con alguna de sus némesis piratas. Fácilmente, todo puede pasar de la dialéctica a las peleas de taberna o los duelos a espada.
 
-Durante el Fèt Gede, Nyarlathotep como el Barón Samedí visita a sus adoradores y se divierte como un mortal bebiendo, fumando, bailando y comiendo. Si alguien quiere buscarlo para interactuar con él deberá participar en el Fèt Gede activamente bailando, comiendo, … Tendrá que pasar una tirada de Vigor o tendrá un -2 por el alcohol, el picante y la hierba de fumar. Una vez integrado en la celebración podrá empezar a buscarlo y deberá conseguir 1 avance en la tirada de Notar.
+> Durante el Fèt Gede, Nyarlathotep como el Barón Samedí visita a sus adoradores y se divierte como un mortal bebiendo, fumando, bailando y comiendo. Si alguien quiere buscarlo para interactuar con él deberá participar en el Fèt Gede activamente bailando, comiendo, … Tendrá que pasar una tirada de Vigor o tendrá un -2 por el alcohol, el picante y la hierba de fumar. Una vez integrado en la celebración podrá empezar a buscarlo y deberá conseguir 1 avance en la tirada de Notar.
 
 \sp
 
@@ -876,7 +894,7 @@ Si tiene un objeto extraño con montones de engranajes, palancas y botones, es e
 
 En realidad, Ifá es la que repara todos estos cachivaches de ciencia extraña. Los mete en la trastienda y pone a funcionar sus dones tecnológicos otorgados por Oggun, el orisha de la herrería.
 
-Por unos 200 doblones, Ifá puede decirte qué es y cómo funciona cualquier objeto tecnológico. Por 500 doblones puede repararlo siempre que sea materialmente posible. Si está quemado, hecho trozos o le faltan piezas, Ifá no podrá hacer nada. Tampoco puede hacerles mejoras, ni cambiar aspectos de su funcionalidad.
+> Por unos 200 doblones, Ifá puede decirte qué es y cómo funciona cualquier objeto tecnológico. Por 500 doblones puede repararlo siempre que sea materialmente posible. Si está quemado, hecho trozos o le faltan piezas, Ifá no podrá hacer nada. Tampoco puede hacerles mejoras, ni cambiar aspectos de su funcionalidad.
 
 \sp
 
@@ -1042,7 +1060,7 @@ Le encantan las historias de piratas e invita a bebida a cualquiera que quiera c
 
 Avery es un fantástico estratega, lo cual explica su gran éxito como pirata. Si te ganas tu amistad contándole alguna historia buena de su gusto, puede estudiar un plan de ataque, ver sus fallos y dar posibles soluciones. También responderá a tus cartas, pero este método es mucho más lento.
 
-En juego, tiene Tácticas d12+2 y si le presentas un plan puede tirar sus Tácticas. Por cada avance que consiga tu mesa puede hacerte una pregunta sobre su plan y deberás contestarles con la verdad, pero sin ofrecer más información de la que tengan. Serían preguntas como: ¿Cuál es el principal fallo de mi plan? ¿Debo hacerlo de noche o de día? …
+> En juego, tiene Tácticas d12+2 y si le presentas un plan puede tirar sus Tácticas. Por cada avance que consiga tu mesa puede hacerte una pregunta sobre su plan y deberás contestarles con la verdad, pero sin ofrecer más información de la que tengan. Serían preguntas como: ¿Cuál es el principal fallo de mi plan? ¿Debo hacerlo de noche o de día? …
 
 > _**Sugerencia de beni:** Recompensa con un par de benis al que averigüe quién es el viejo pirata de Nasáu. Y con alguno más si no se lo cuenta a nadie._
 
@@ -1060,7 +1078,7 @@ Se encuentra en territorio Uh’e kn’a y es usado por los profundos como lugar
 
 La fortuna en oro y plata que hay en el fondo del agujero azul es comparable al tesoro de un pirata, pero el que se lleve algo del agujero azul quedara maldito. Tira al azar una maldición que sufrirán todos los implicados en el saqueo. La maldición empezará a revelarse al de una semana. En principio solo devolver lo robado hará desaparecer la maldición, pero puedes montarte una buena historia tipo Piratas del Caribe.
 
-Alternativamente, puedes hacer que el agujero azul sea una especie de cementerio de profundos. Donde depositan los cuerpos de los profundos muertos con sus pertenencias más valiosas. Podrías entonces quitar el tema de la maldición y hacer que los espíritus de los profundos persigan a los saqueadores.
+> Alternativamente, puedes hacer que el agujero azul sea una especie de cementerio de profundos. Donde depositan los cuerpos de los profundos muertos con sus pertenencias más valiosas. Podrías entonces quitar el tema de la maldición y hacer que los espíritus de los profundos persigan a los saqueadores.
 
 El agujero azul puede ser un buen lugar de reunión con líderes profundos. El entorno es inmejorable, apartado de todo el mundo y con mucha importancia para los profundos. Podrías incluso montar duelos a muerte en sus aguas.
 

@@ -100,6 +100,15 @@ blockquote > p + p {
   padding-top: 10px;
 }
 
+pre {
+  white-space: pre-wrap;
+}
+
+pre code {
+  color: var(--black-color);
+  font-family: 'Oswald', sans-serif;
+  display: block;
+}
 /* --------------- Titles ------------------ */
 
 h1 {

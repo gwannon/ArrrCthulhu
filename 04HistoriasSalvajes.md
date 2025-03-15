@@ -59,11 +59,13 @@ Cada uno se tendrá que enfrentar a dos piratas. Primero lleva el combate de los
 
 #### Brusco despertar
 
-Un cubo de fría agua de mar despierta a tu mesa. Ya es de día y el sol les ciega. Están atados a la borda del barco pirata y rodeados de piratas con caras de pocos amigos. Una mujer está de cuclillas muy cerca de sus caras apoyándose sobre su sable. 
+Un cubo de fría agua de mar despierta a tu mesa. Ya es de día y el sol les ciega. Están atados a la borda del barco pirata y rodeados de piratas con caras de pocos amigos. Una mujer está de cuclillas muy cerca de sus caras apoyándose sobre su sable. Con sarcasmo dice:
 
 \sp
 
-Con sarcasmo dice — Vaya, vaya. ¿Qué tenemos aquí? — Acto seguido se ríe y de repente sus ojos se quedan en blanco, balbucea algo y se levanta y grita — ¡¡¡Soltadlos!!!
+```
+— Vaya, vaya. ¿Qué tenemos aquí? — Acto seguido se ríe y de repente sus ojos se quedan en blanco, balbucea algo y se levanta y grita — ¡¡¡Soltadlos!!!
+```
 
 Irá mirando a cada uno y les irá preguntando quiénes son y a qué se dedican. Aprovecha para que se describan y así se conoce tu mesa. Les pondrá apodos divertidos y les dirá que vuelvan a su barco y que si no obedecen a su capitán serán pasto de tiburones. Prepárate los motes de antes, basándote en su ficha. Con lo cabronas que suelen ser las mesas seguro que se quedan con el mote el resto de la campaña.
 
@@ -73,7 +75,11 @@ Déjales tirar Conocimientos generales y cuéntales que el índice de su supervi
 
 Los piratas y unos pocos supervivientes están limpiando la cubierta del «Carcosa» de sangre y tirando un par de cadáveres al mar. Los supervivientes están desarmados y son menos, así que no hay oportunidad de rebelarse.
 
-Un pirata sale gritando de los camarotes de los oficiales gritando y enseñando una caja de madera — ¡Mi señora! ¡Mi señora! Lo he encontrado.
+Un pirata sale gritando de los camarotes de los oficiales gritando y enseñando una caja de madera.
+
+```
+— ¡Mi señora! ¡Mi señora! Lo he encontrado.
+```
 
 Si se paran a mirar un pirata les pinchará con el sable para que sigan limpiando. El marinero lanza la caja desde el «Carcosa» a Mary que la recoge con elegancia. Abre la caja y sonríe con satisfacción — ¡Tenemos lo que queríamos! Esta misión ha sido un éxito. Habrá doble ración de ron cuando lleguemos a casa.
 
@@ -107,27 +113,35 @@ Tras deshacerse de los cadáveres de los profundos, Mary ordenará largar trapo 
 
 \sp
 
-> Sabed que si he llegado viva hasta hoy es porque siempre me he fiado de mi intuición. Y esta vez mis entrañas me dicen que en vez de pasaros por la quilla os ofrezca la oportunidad de vuestra vida. Ya habéis visto a que nos enfrentamos, horrores del infierno invocados por la más oscura brujería. Detrás de esos monstruos está la corrupta Real Compañía Privilegiada del Caribe que trata de apoderarse de todo el Caribe para poder traer el Apocalipsis a nuestro mundo.
+```
+Sabed que si he llegado viva hasta hoy es porque siempre me he fiado de mi intuición. Y esta vez mis entrañas me dicen que en vez de pasaros por la quilla os ofrezca la oportunidad de vuestra vida. Ya habéis visto a que nos enfrentamos, horrores del infierno invocados por la más oscura brujería. Detrás de esos monstruos está la corrupta Real Compañía Privilegiada del Caribe que trata de apoderarse de todo el Caribe para poder traer el Apocalipsis a nuestro mundo.
+```
 
 Hace una pequeña pausa dramática y mira sus reacciones
 
-> Necesitamos un barco legal y leal que pueda entrar y salir de los puertos, ser nuestros ojos y nuestras manos donde nuestra bandera no nos deja acercarnos. Os entregaremos el «Carcosa» y podréis moveros libremente por estos mares haciendo de vez en cuando misiones para nosotros. A cambio podréis evitar el fin del mundo y quizás, solo quizás, haceros ricos. La hermandad del sargazo paga a sus fieles ayudantes y paga bien.
+```
+Necesitamos un barco legal y leal que pueda entrar y salir de los puertos, ser nuestros ojos y nuestras manos donde nuestra bandera no nos deja acercarnos. Os entregaremos el «Carcosa» y podréis moveros libremente por estos mares haciendo de vez en cuando misiones para nosotros. A cambio podréis evitar el fin del mundo y quizás, solo quizás, haceros ricos. La hermandad del sargazo paga a sus fieles ayudantes y paga bien.
+```
 
 Se gira dando la espalda y pone un tono de voz más grave.
 
-> Si rechazáis mi oferta podréis regresar con este barco, pero la próxima vez nos crucemos, no seremos tan magnánimos y no os volveré a hacer esta oferta. Y tened en cuenta que no seréis ni los primeros ni los últimos a los que la Real Compañía hace desaparecer. Cuando lleguéis a puerto, no creo que les convenza de que la capitán Mary Read os dejo libres con su barco para volver a puerto. Seguramente os torturarán, os sacarán la verdad y, si tenéis suerte, acabarán con vuestras vidas. Si no, puede que acabéis como comida para esos monstruos o todavía peor, convertidos en esos monstruos.
+```
+Si rechazáis mi oferta podréis regresar con este barco, pero la próxima vez nos crucemos, no seremos tan magnánimos y no os volveré a hacer esta oferta. Y tened en cuenta que no seréis ni los primeros ni los últimos a los que la Real Compañía hace desaparecer. Cuando lleguéis a puerto, no creo que les convenza de que la capitán Mary Read os dejo libres con su barco para volver a puerto. Seguramente os torturarán, os sacarán la verdad y, si tenéis suerte, acabarán con vuestras vidas. Si no, puede que acabéis como comida para esos monstruos o todavía peor, convertidos en esos monstruos.
+```
 
 Mira a unos de sus tripulantes y este se levanta una de las mangas de su camisa y muestra un monstruoso brazo cubierto de escamas de reptil que acaban en unas terribles garras también reptilianas.
 
-> ¿Qué contestáis?
+```
+¿Qué contestáis?
+```
 
 En caso de que diga que aceptan, Mary Read elegirá al jugador con más experiencia como capitán y le pondrá al mando del «Carcosa». El resto de su mesa será sus ayudantes y dejará algunos de sus tripulantes para ayudar en el barco.
-
-\sp
 
 El título de capitán es algo burocrático, deberán votar entre todos los asuntos que afecten al barco, su tripulación y su carga.
 
 En caso de que se nieguen, les dirá que cuando lleguen a tierra firme segura les dejará irse con el «Carcosa». Pueden pensárselo hasta ese momento.
+
+\sp
 
 #### ¿Qué ha estado pasando?
 
@@ -147,9 +161,9 @@ Tras un par de días de viaje, los barcos llegarán a las Islas Caimán. Fondean
 
 Durante una semana estarán haciendo modificaciones al «Carcosa», entre ellas cambiarle el nombre para evitar la mala suerte del nombre anterior si van a seguir a Mary. También hay que modificarlo de forma que no se pueda detectar que es un barco capturado.
 
-\sp
-
 Si no han aceptado el trato, el equipo de Mary hará reparaciones básicas, pero las alargarán todo lo que se pueda. Mary quiere tenerlos unos días bajo su influencia para hacerles cambiar de opinión.
+
+\sp
 
 * El marino del brazo de reptil les contará que era un agricultor al que la RCPC secuestro y lo tuvo encerrado durante semanas probando ungüentos y pócimas en su cuerpo. Fue el único que sobrevivió de su poblado. Mary y su gente lo liberaron y desde entonces le es fiel.
 * Unas de las noches, un vecino de hamaca empezará a hablar en sueños en un extraño y gutural idioma. Vendrán a sus cabezas imágenes de una ciudad submarina donde yace ni vivo ni muerto un gigantesco ser del que solo se dibuja su descomunal silueta y se ven sus brillantes ojos verdes. Si pregunta a la mañana siguiente, les dirán que ese es el dios al que adora los que dirigen la RCPC.
@@ -282,7 +296,9 @@ La cueva no tiene casi luz y baja rápidamente por un pasillo escalonado que no 
 
 En la esquina contraría de la entrada está gritando el rehén que faltaba. Está atrapado en una maraña de tentáculos que pertenece a un pólipo volante. El pólipo lleva eones en esa cueva de basalto y se le ha fosilizado la piel exterior. Debido a eso no se puede hacer invisible, pero tiene un punto extra de armadura. Tampoco puede volar, pero sí controlar los vientos.
 
-Es muy difícil intentar liberar al rehén, ya que cuando cortan un tentáculo otro ocupa su sitio. Pero si le hacen dos heridas, soltará a su víctima y dejará de atacar esperando que sus enemigos recojan a su compañero y se vayan. Si le siguen atacando combatirá hasta el final, sabiendo que caerá, pero que se llevará a alguien con él. Por eso, se centrará en un atacante al azar y le golpeará con todo.
+Es muy difícil intentar liberar al rehén, ya que cuando cortan un tentáculo otro ocupa su sitio. Pero si le hacen dos heridas, soltará a su víctima y dejará de atacar esperando que sus enemigos recojan a su compañero y se vayan. 
+
+Si le siguen atacando combatirá hasta el final, sabiendo que caerá, pero que se llevará a alguien con él. Por eso, se centrará en un atacante al azar y le golpeará con todo.
 
 Si acaban con el pólipo podrán registrar su cubil y hacer la tirada de botín. Si lo dejan vivo claramente no podrán obtener botín.
 
@@ -300,9 +316,9 @@ Una vez hayan sacado a todos los rehenes de la isla y los hayan subido al barco,
 
 > Mary Read tiene un último trabajo. Deben patrullar El Jardín de la Reina, un archipiélago de 600 islas e islotes en la costa meridional de Cuba. Deberán vigilar los barcos de la RCPC que se meten entren las islas y que es lo que buscan.
 
-Cómo siempre alguien les entregará un sobre con un mensaje de Read. Necesita que alguien vigile las actividades de la RCPC en los Jardines de la Reina, un archipiélago de islotes en la costa sur de Cuba.
-
 \sp
+
+Cómo siempre alguien les entregará un sobre con un mensaje de Read. Necesita que alguien vigile las actividades de la RCPC en los Jardines de la Reina, un archipiélago de islotes en la costa sur de Cuba.
 
 Han detectado que cada cierto tiempo, pero sin ser algo fijo, una goleta de la RCPC se mete en los jardines, se pierde entre sus islas y vuelve a salir, por otro lado, con menos carga por lo que indica su línea de flotación. Lo que lleva y lo que hace con la carga es todo un misterio.
 
@@ -320,9 +336,9 @@ Hay de todo, desde noctivagos sin membranas aladas, gugos a los que han cortado 
 
 Hazte tus propias combinaciones. El TPC de estos seres de los Mitos será el TPC del monstruo principal con un nivel más por cada trozo de otro ente. Un gul con agallas de profundo y tentáculos de yithianos tendría un TPC de d8 en vez del d4 normal.
 
-Tendrán que bajar a la isla en barca porque la playa no tiene calado para su barco. Si luego tienen que huir, puede ser divertido verles empujar la barca mientras esquivan zarpazos de monstruos.
-
 \sp
+
+Tendrán que bajar a la isla en barca porque la playa no tiene calado para su barco. Si luego tienen que huir, puede ser divertido verles empujar la barca mientras esquivan zarpazos de monstruos.
 
 Al bajar a la playa podrán ver enseguida las huellas de los bichos que la habitan y si se internan en la jungla pronto tendrán un encuentro con algún monstruo. Cómo hemos dicho antes, sé creativo y saca lo que quieras. Lo importante es que vean (con unas tiradas de Ciencias o Medicina) que los bichos tienen extremidades amputadas o injertadas, puntos de sutura mugrientos y malolientes, grapas quirúrgicas infectadas y cicatrices de extirpaciones de órganos y trepanaciones.
 
@@ -342,11 +358,13 @@ A diferencia de otras veces, en esta ocasión la propia Read se presentará ante
 
 Acto seguido les dará una localización cercana, una cala desierta lejos de ojos indiscretos.
 
-En la cala Read les esperará sola junto a una gran fogata. Lleva una botella de ron polvorienta al que ya ha dado un par de sorbos. Tu mesa ya sabe que ella lucha contra la RCPC y que pertenece a una sociedad pirata que la combate. Esta vez les explicará más cosas de la Hermandad y les preguntará si quieren unirse. Los que acepten deberán hacer el siguiente juramento:
-
 \sp
 
-> _Juro por el viento que hincha mis velas y la libertad que guía mi timón que serviré a la hermandad del sargazo en su lucha contra el gran mal que se esconde en los más oscuros rincones del Caribe. ¡Y si no lo cumplo que el ron me sepa agrio, que los moluscos se coman el casco de mi barco y que mi pólvora siempre esté mojada!_
+En la cala Read les esperará sola junto a una gran fogata. Lleva una botella de ron polvorienta al que ya ha dado un par de sorbos. Tu mesa ya sabe que ella lucha contra la RCPC y que pertenece a una sociedad pirata que la combate. Esta vez les explicará más cosas de la Hermandad y les preguntará si quieren unirse. Los que acepten deberán hacer el siguiente juramento:
+
+```
+Juro por el viento que hincha mis velas y la libertad que guía mi timón que serviré a la hermandad del sargazo en su lucha contra el gran mal que se esconde en los más oscuros rincones del Caribe. ¡Y si no lo cumplo que el ron me sepa agrio, que los moluscos se coman el casco de mi barco y que mi pólvora siempre esté mojada!
+```
 
 Acto seguido, tomará un trago de ron y pasará la botella. Es un ron añejo más rico y delicioso de lo que nunca hayan probado.
 
@@ -364,11 +382,11 @@ Hernando Villalba nunca sale de su mansión y si sale es por algo grande. Los es
 
 Villalba tiene sangre profunda y puede moverse sin problema por el fondo marino, pero tu mesa tendrá que localizar el lugar donde se sumergió Villalba y averiguar que se llevó.
 
+\sp
+
 Encontrar el punto donde bajo Villalba puede ser complicado. Tendrán que comprar una campana de inversión y arrastrarla por el fondo marino o buscar algún hechizo para poder sumergirse.
 
 Esto puede llevarles unos cuantos días y puedes meterles algún encuentro con tiburones toro. Cuando lo creas oportuno encontrarán un grupo de estructuras de piedra negra con formas perfectamente regulares, son cubos, pirámides y conos conectados entre sí con pasarelas y pasillos cubiertos.
-
-\sp
 
 ##### Explorando las estructuras
 
@@ -384,6 +402,8 @@ Unas tiradas de Notar les llevarán a encontrar el único daño que hay en las e
 
 Por el grabado parece que los Antiguos trataron de destruir algo que guardaban las semillas estelares. Es imposible saber qué era o dónde estaba porque falta todo el bajorrelieve donde debía ponerlo. No hace falta ser muy listo para deducir qué esa parte de la pared se contaba seguramente dónde estaba R’lyeh.
 
+\sp
+
 Con esta información pueden volver a la superficie y entrar en contacto con Read para planificar el siguiente paso. Las noticias desde luego no son buenas; que Villalba avance en su plan nunca es bueno.
 
 ### Droga plutónica
@@ -392,7 +412,6 @@ Con esta información pueden volver a la superficie y entrar en contacto con Rea
 
 > Villalba se llevó una sección de bajorrelieves del interior de las pirámides. Intentar entrar en la mansión Villalba a este nivel puede ser un suicidio. Pero Mary Read cree que la librera Isadora puede ayudarles a encontrar una solución.
 
-\sp
 
 El principal problema que tiene tu mesa ahora mismo es que no saben qué había en los grabados que se llevó Villalba. Los hechizos normales de lectura de objetos no funcionan porque no pueden tocar la sección que ha sido quitada.
 
@@ -406,6 +425,8 @@ El único problema es conseguir droga plutónica, ahora mismo, la receta solo se
 
 También les avisa de que consumir la droga puede atraer a unos seres muy peligrosos llamados Sabuesos de Tíndalos que irán por el viajero en el tiempo.
 
+\sp
+
 Si no conoce a Isadora este es un buen momento para conocerla, saber de sus vastos conocimientos de sobre los Mitos y de su increíble biblioteca. Podrán intercambiar libros y conocimientos con ella sin problema, sobre todo si viene de la mano de Read. También podrán empezar a ver los tics y manías que de vez en cuando salen a la superficie en su tranquila apariencia.
 
 ### La subasta
@@ -413,8 +434,6 @@ Si no conoce a Isadora este es un buen momento para conocerla, saber de sus vast
 **Comienzo:** La Habana
 
 > La receta de la droga plutónica solo puede conseguirse de un tomo incompleto del Necronomicón que va a subastarse al día siguiente. Tocará intentar comprarlo o robarlo.
-
-\sp
 
 La subasta está atrayendo mucha atención. No por el libro, sino porque que se subastan varias piezas de joyería pertenecientes a monarquías y casas nobles europeas. Hay mucha gente que está dispuesta a gastar fortunas para poder lucir esas piezas.
 
@@ -430,17 +449,15 @@ Otras opciones son inviables por la falta de tiempo. No pueden infiltrarse entre
 
 Entre las insignes autoridades que asistirán destaca Francisco Danio Granados, gobernador de Puerto Rico. Ha fletado una flotilla de barcos de combate para poder asistir a la subasta.
 
+\sp
+
 #### La puja empieza por …
 
 La subasta empezará a las 5 hasta acabar sobre las 10, que ya será de noche. La entrada es libre, pero deberán ir limpios y aseados y que parezca que tienen dinero, si no la gente del control de acceso no les dejarán pasar a la sala de subastas.
 
 Antes de empezar la subasta, si se quiere el equipo de las subastas puede mostrar algún objeto a quien lo desee. Si se interesan por el libro, se lo enseñarán y podrán comprobar que están unas señas que les dio Isadora para ver que no era falso y efectivamente no es falso.
 
-Granados no parece muy interesado en las joyas. Durante la subasta casi no puja y cuando lo hace parece más por diversión que por interés.
-
-\sp
-
-Cuando anuncian el libro, mucha gente se levanta al baño, pero Granados se queda sentado agarrando muy fuerte su paleta de pujas.
+Granados no parece muy interesado en las joyas. Durante la subasta casi no puja y cuando lo hace parece más por diversión que por interés. Cuando anuncian el libro, mucha gente se levanta al baño, pero Granados se queda sentado agarrando muy fuerte su paleta de pujas.
 
 La puja empieza por 400 y Granados subirá en 100 doblones cualquier otra puja. No le importa el precio, sabe el poder del libro y lo quiere. Dispone de letras de cambio por valor de 25.000 doblones y no dudará en llegar hasta su límite.
 
@@ -456,13 +473,13 @@ De tener que enfrentarse con él, es un comodín y puedes usar la ficha de Culti
 
 > El gobernador Francisco Danio Granados les quito por la mano el tomo del Necronomicón y lo tiene en su mansión a buen recaudo. Es una suerte que vaya a dar una fiesta de disfraces para los ricos y acaudalados de la ciudad.
 
+\sp
+
 Cuando lleguen a San Juan descubrirán que al día siguiente tienen una oportunidad inmejorable para robarle el libro al gobernador. Da una fiesta de disfraces para la gente rica de la ciudad. Cualquiera que se considere alguien en la ciudad tendrá una entrada.
 
 La ciudad bulle de emoción; las tiendas están llenas de servidumbre comprando telas, brocados y abalorios para hacer disfraces y hay prisas y carreras con paquetes por todas partes.
 
 La fiesta de disfraces es perfecta para robar el libro. Con un disfraz y una invitación podrá entrar cualquiera sin que nadie sepa quiénes son, habrá bastante descontrol y jaleo en la mansión del gobernador y podrán meter todo tipo de objetos raros que pudieran necesitar.
-
-\sp
 
 #### Las 3 pruebas
 
@@ -478,13 +495,13 @@ El disfraz puede ser de lo más divertido. Pueden ir de compras y montarse disfr
 
 La idea de esta escena y las siguientes es que sea muy improvisada por parte de tu mesa. No han tenido tiempo de prepararse nada y van un poco a ciegas. Como mucho, quizás, antes de la fiesta han podido emborrachar a alguien de la servidumbre y sacarle información útil, como que la fiesta será en la primera planta y el estudio de Granados está en la segunda planta y tiene una puerta roja. La biblioteca está en la primera planta, pero estará cerrada.
 
+\sp
+
 Si se ponen a pensar su próximo movimiento en la fiesta dales un minuto y que te diga que van a hacer. El objetivo es que sea un desastre cada vez mayor, pero que vayan avanzando. Mete cosas divertidas, por ejemplo, si alguien va disfrazado de cocinero le metan en la cocina o si va de gallina le pidan que haga como que pone un huevo mientras el público aplaude y ríe. Cada puerta que abran puede ser una sorpresa con alguna escena rocambolesca.
 
 Al entrar verán la seguridad. Hay por lo menos unos 30 infantes de marina fuera de la casa, vigilando el terreno exterior de la mansión. Si tenían pensado huir por alguna ventana de la casa serán casi seguro detectados. La casa está muy iluminada a su alrededor y no hay muchos sitios oscuros donde esconderse de la vigilancia.
 
 Para darle color a la fiesta en el jardín hay una instalación de fuegos artificiales para el final de fiesta. Con una tirada de Reparar podrían encenderlos y durante 20 turnos tendrán una distracción visual y sonora.
-
-\sp
 
 Cuando dejen su carroza y entreguen sus entradas podrán entrar a la fiesta. Dales un beni si se les ocurre dejar a un PJ o un aliado de cochero con el carro en vez del personal de servicio. Todo robo necesita un conductor atento a todo que ponga la carroza en la entrada para salir pitando.
 
@@ -496,13 +513,13 @@ Hay gente bailando, gente comiendo y gente charlando. Según pases las horas, gr
 
 Cuando la fiesta empiece a degenerar será el momento de empezar a buscar el libro. La gente desaparece entre las cortinas y entra en las habitaciones. Los guardias tienen suficiente con detener las peleas y las discusiones, con lo que no estarán muy atentos, si se sube al piso de arriba.
 
+\sp
+
 En el piso superior tiene 10 habitaciones entre dormitorios, despachos y baños. El libro está en el estudio y tendrán que jugar al juego de las puertas. El problema es que si abren una puerta y está alguien puede que de la voz de alarma. Una tirada de Investigar les quitará 2 puertas más 1 por cada avance, ya que parecen de baños o de armarios para las escobas. Alguien debería vigilar en las escaleras por si se presentan problemas en forma de guardias o el propio Granados que va disfrazado de Genio de la Lámpara.
 
 Según vayan abriendo puertas descríbeles alguna escena divertida y sin sentido, por ejemplo, una persona disfrazada de domador haciendo trucos con un león de peluche y otras dos personas aplaudiendo. Cuando quieras, la puerta que abran, será la del estudio
 
 Al entrar en el estudio se encontrarán a dos personas disfrazadas de cuerpo entero de oso y de león practicando sexo. El oso les señalará y el león saludará y hará un gesto invitando al que tenga el disfraz más ridículo.
-
-\sp
 
 En ese momento hay varias opciones: echarlos y que seguramente avisen a los guardias, rechazar la invitación y empezar a buscar mientras la pareja sigue a lo suyo y, por último, aceptar la invitación y que el resto siga su búsqueda si es que no van solos.
 
@@ -516,6 +533,8 @@ Ahora les toca huir con el libro. A priori, debería ser algo fácil salir por l
 
 Cuando bajen al piso inferior, Granados estará llamado la atención para hacer un brindis. Más que un brindis será un discurso. Según se vayan moviendo por la pista de baile, la canica pareja que tiene Granados en su bolsillo empezará a moverse. Él la sacará, la pondrá en la palma de la mano y la canica se irá moviendo siguiendo a tu mesa. Granados los mirará y gritará: ¡¡¡¡Ladrones!!!!
 
+\sp
+
 Mientras la gente se da cuenta de lo que pasa, tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, Granados empezará a lanzar Pudrir carne y los guardias se les enfrentarán.
 
 Si alguien se quedó en la carroza, podrá tirar Notar para oír los gritos de Granados y el posterior barullo. Podrá montar en el carro y esperar a la banda en la puerta.
@@ -527,8 +546,6 @@ La forma más rápida de escapar es coger la carroza y salir pitando de la mansi
 Imagínate la situación, tu mesa con sus coloridos trajes de disfraces bajando a toda velocidad en una elegante carroza hacia el puerto entre las estrechas callejuelas de San Juan, mientras intercambian disparos con guardias a caballo.
 
 Mientras los guardas buscan sus caballos, pasará el tiempo suficiente para que haya dos cartas entre perseguidores y perseguidos.
-
-\sp
 
 Si se les ocurre disparar a los fuegos artificiales (disparo apuntado de -4 a las mechas) estos prenderán y la luz y el ruido asustarán a los caballos de sus perseguidores y obtendrán una tercera carta de separación. Deberán deshacerse de sus perseguidores antes de llegar a su barco o sabrán quienes son los ladrones del manuscrito. Si se separan, los guardas seguirán al grupo más grande.
 
@@ -545,6 +562,8 @@ Como no puede ser de otra manera, aún mal traducido e incompleto, tienen en sus
 * **Hechizos:** Droga plutónica
 * **Tiempo de lectura:** 1 semana
 
+\sp
+
 ### Consumo recreativo de droga plutónica
 
 **Comienzo:** Costa oeste de Cuba
@@ -557,25 +576,29 @@ Deberán volver a las ruinas submarinas de los Antiguos para ver si averiguan qu
 
 Verá a un Antiguo (TPC: d6) haciendo las inscripciones en la pared del templo. 
 
-\sp
-
 Los Antiguos tienen la apariencia de un barril de planta pentagonal con un ala en cada lado.
 
 Tanto arriba como abajo poseen apéndices en forma de estrella, con cinco puntas. El superior presenta una boca y un ojo en cada extremidad, y un par de pseudópodos. La inferior posee las cinco extremidades con un gran gancho al final que usan para moverse. En la mitad del barril, que es su torso, se extienden tres extremidades que se ramifican en varias más, que usan como brazos y manos.
 
 La persona que lanzo el hechizo de la droga tendrá que dictar al resto de la mesa todos los símbolos que vea mientras está con las visiones del pasado. Si pasa una tirada de Astucia, dará una descripción exacta de todos los símbolos. Si saca dos avances será tan buena que dará u+1 a todos los intentos de estudiar los símbolos (ver más adelante). Un fallo obligará a intentarlo de nuevo.
 
-**Droga plutónica:** Destilando loto negro en unas proporciones exactas, se obtiene una droga que lanza tu mente miles de años en el pasado y te permite ver lo que había alrededor tuyo en esa época. Su consumo tiene un TPC d8 por las terribles cosas que puedes ver aparecer entre las visiones. Hay que hacer una tirada de Espíritu al tomarla y si se falla no puede viajar atrás en el tiempo. Si se fracasa, es mucho peor, la mente se queda atrapada en el pasado para siempre.
+> **Droga plutónica:** Destilando loto negro en unas proporciones exactas, se obtiene una droga que lanza tu mente miles de años en el pasado y te permite ver lo que había alrededor tuyo en esa época. 
 
-El problema de la droga plutónica es que, si viajamos demasiado atrás en el tiempo como en este caso, atraemos a los sabuesos de Tíndalos. Al subir al barco se encontrarán que por sorpresa de entre los marcos de una puerta o de otra estructura con esquinas aparecerá un par de Sabuesos de Tíndalos. Su objetivo es el sujeto que mando su mente al pasado. Deben acabar con él a toda costa y volver a su tiempo. Solo si otro combatiente les hace mucho daño, dejarán de atacar a su objetivo actual y cambiarán de presa.
+\sp
+
+> Su consumo tiene un TPC d8 por las terribles cosas que puedes ver aparecer entre las visiones. Hay que hacer una tirada de Espíritu al tomarla y si se falla no puede viajar atrás en el tiempo. Si se fracasa, es mucho peor, la mente se queda atrapada en el pasado para siempre.
+
+> El problema de la droga plutónica es que, si viajamos demasiado atrás en el tiempo como en este caso, atraemos a los sabuesos de Tíndalos. Al subir al barco se encontrarán que por sorpresa de entre los marcos de una puerta o de otra estructura con esquinas aparecerá un par de Sabuesos de Tíndalos. Su objetivo es el sujeto que mando su mente al pasado. Deben acabar con él a toda costa y volver a su tiempo. Solo si otro combatiente les hace mucho daño, dejarán de atacar a su objetivo actual y cambiarán de presa.
 
 ### El enigma de los Antiguos
 
 **Comienzo:** Cualquier sitio seguro que tenga tu mesa
 
-> Ya saben lo que había en los relieves que robo Villalba. Ahora tendrán que descifrarlos. Deberán consultar a sus aliados, ya que cada uno podría tener una pista sobre lo que significan los símbolos grabados en piedra.
+> Ya saben lo que había en los relieves que robo Villalba. 
 
-\sp
+\sc
+
+> Ahora tendrán que descifrarlos. Deberán consultar a sus aliados, ya que cada uno podría tener una pista sobre lo que significan los símbolos grabados en piedra.
 
 Tu mesa tendrá que trabajar en los jeroglíficos y tratar de descifrarlos. El sistema es muy sencillo, deberán acumular 10 avances en tiradas de Mitos. 
 
@@ -584,6 +607,8 @@ Cada persona que participe en la investigación podrá hacer una sola tirada y a
 Para darle más emoción no le digas el objetivo de avances, pero dales pistas como «estáis muy lejos», «habéis avanzado mucho», etc.
 
 Para darle un poco de vida puedes meter encuentros con agentes de la RCPC o viejos enemigos que vuelven a atacar. También podrás quitarles avances si les roban parte de la investigación mientras duermen o si alguien falla una tirada de Mitos.
+
+\sp
 
 Puedes aprovechar todos estos viajes para introducirles en otras aventuras, mientras avanzan en esta campaña. No te preocupes por el tiempo, hasta que tu mesa no descubra la ubicación de R’lyeh, Villalba tampoco.
 
@@ -600,15 +625,14 @@ Puede que tu mesa tenga un ingenio submarino como campanas de buceo y experienci
 Tendrán que buscar alguna forma de poder bajar y subir a tales profundidades y también poder ver en esas profundidades. Veamos algunas opciones.
 
 * La magia puede ser la solución. Los hechizos de Hidromiel espacial o Adaptación permitirían bajar a esas profundidades el hechizo de Luz de día podrían solucionar ese problema. Hidromancia podría crear una burbuja gigante para bajar dentro de ella. Isadora podría conseguirle el libro adecuado con los hechizos que necesitan.
-
-\sp
-
 * Si una tribu de profundos les debe un favor (Caracola de los profundos) igual pueden cobrárselo para que los bajen a esas profundidades.
 * Algún científico loco podría diseñarles algún engendro mecánico.
 
 Si no pueden hilar un plan mínimamente viable, pueden preguntar a Read y les dirá un laboratorio de la RCPC donde robar una campana de buceo para grandes profundidades.
 
 Déjales que monten un plan y que lo lleven a cabo. Total, lo peor que les puede pasar es que la presión licue sus órganos internos antes de implosionar.
+
+\sp
 
 Cuando consigan bajar a tal profundidad en las coordenadas exactas encontrarán una gran semiesfera. No se puede ver dentro y parece como si estuviera hecha de metal muy pulido, casi como un espejo. Si la tocan puede atravesarse como si fuera mercurio líquido.
 
@@ -626,13 +650,15 @@ R’lyeh está rodeado de una especie de esfera de entropía que la oculta, que 
 
 R’lyeh está rodeado por una jungla que no ha cambiado ni un ápice en miles de años. La jungla está llena de árboles inmensos y arbustos llenos de espinas como navajas que hacen muy difícil avanzar. La flora no es reconocible, parecen versiones primigenias de plantas actuales, pero a la vez son totalmente distintas.
 
-\sp
-
 En cuanto a la fauna, está repleta de seres de antes del tiempo, como caimanes bípedos del tamaño de elefantes o iguanas, con cuerpos acorazados y colas pinchudas más grandes que un hipopótamo. 
 
 Si estuvieron en el almacén de George Jansen puede que reconozcan algún esqueleto. Muéstrales espectaculares escenas de luchas entre estos seres y haz que corran por sus vidas delante de alguno de estos seres.
 
-Usa las estadísticas de los dinosaurios en la sección de Dinosaurios de «Monstruos de los Mitos y otros enemigos» y déjales muy claro que no tienen ninguna posibilidad de derrotarlos. Si lo consiguen, seguramente, uno más grande ocupará su lugar. Estos fósiles vivientes no abandonan nunca la jungla y si consiguen atravesarla hasta llegar a la ciudad estarán a salvo de ellos.
+Usa las estadísticas de los dinosaurios en la sección de Dinosaurios de «Monstruos de los Mitos y otros enemigos» y déjales muy claro que no tienen ninguna posibilidad de derrotarlos. 
+
+\sp
+
+Si lo consiguen, seguramente, uno más grande ocupará su lugar. Estos fósiles vivientes no abandonan nunca la jungla y si consiguen atravesarla hasta llegar a la ciudad estarán a salvo de ellos.
 
 #### La ciudad fuera de la geometría euclidiana
 
@@ -644,15 +670,28 @@ Desde cualquier parte de la ciudad se ve en una colina en el centro de la ciudad
 
 Mientras exploran las grandes avenidas y las extrañas plazas de R’lyeh, puede suceder alguno de estos sucesos. Y recuerda:
 
-> — Veis un palacio de planta cuadrada con 5 torreones, un solo torreón en cada esquina.  
-> — Pero eso no puede ser.  
-> — Anda, es verdad, tira cordura.  
-> 
-> _Viejo chiste de la Llamada de Cthulhu_
+```
+— Veis un palacio de planta cuadrada con 5 torreones, un solo torreón en cada esquina.  
+— Pero eso no puede ser.  
+— Anda, es verdad, tira cordura.  
+```
+
+_Viejo chiste de la Llamada de Cthulhu_
+
+\sinc
+
+&nbsp;
 
 ##### Tabla de Geometría no-euclidiana
 
 Todos estos sucesos extraños tienen un TPC d4, no quiebran tu mente mucho, pero se suele decir, muchos pocos hacen un mucho.
+
+|d6|Suceso extraño|
+|---|---|
+|1|**Esquinas rectas:** Cada vez que doblas la esquina parece que vuelves a estar en el mismo lado de la esquina. Solo doblando la esquina de espaldas podrán avanzar.|
+|2|**Escaleras:** Al subir o bajar una escalera no se moverán ellos, se moverá el resto del edificio.|
+
+\conc
 
 \sp
 
@@ -660,9 +699,7 @@ Todos estos sucesos extraños tienen un TPC d4, no quiebran tu mente mucho, pero
 
 |d6|Suceso extraño|
 |---|---|
-|1|**Esquinas rectas:** Cada vez que doblas la esquina parece que vuelves a estar en el mismo lado de la esquina. Solo doblando la esquina de espaldas podrán avanzar.|
-|2|**Callejones estrechos:** El callejón se hace cada vez más estrecho hasta no poder avanzar. Si una persona entra en el callejón y otro desde fuera se aleja para que el primero se haga más pequeño por su perspectiva, podrá pasar por el callejón. La pregunta es cómo pasará el último.|
-|3|**Escaleras:** Al subir o bajar una escalera no se moverán ellos, se moverá el resto del edificio.|
+|3|**Callejones estrechos:** El callejón se hace cada vez más estrecho hasta no poder avanzar. Si una persona entra en el callejón y otro desde fuera se aleja para que el primero se haga más pequeño por su perspectiva, podrá pasar por el callejón. La pregunta es cómo pasará el último.|
 |4|**Espejismos:** En las largas avenidas verán varias personas delante suyo, que en realidad son ellos mismos, de hecho, harán los mismos gestos y movimientos. Si salen corriendo, los espejismos saldrán corriendo y será imposible alcanzarlos.|
 |5|**Miradores:** Si suben a un edificio o algún mirador para orientarse, si giran 360º aún les quedará otros 90º para volver a donde estaban al principio.|
 |6|**Demasiadas o demasiadas pocas esquinas:** Las habitaciones y estancias, incluso las plazas y los patios, no se corresponden igual dentro que fuera. Si entran en una estancia cuadrada o rectangular puede que una vez dentro tenga 5 o 3 esquinas.|
@@ -675,9 +712,11 @@ En la cima de la colina se halla una vastísima explanada empedrada con grandes 
 
 El cuerpo de Cthulhu están grande que se pierde en la distancia, de forma que solo podrán ver una parte de su primigenia majestuosidad al mismo tiempo, quizás una extremidad, su tronco o su cabeza. Si vieran al magnífico Cthulhu en todo su esplendor, perderían la razón completamente.
 
+Ver a Cthulhu reposando en su sepulcro es posiblemente la TPC más difícil a la que tu mesa tendrá que enfrentarse, d12+12. Si pierden cordura no podrán tratar de coger un trastorno en su lugar. 
+
 \sp
 
-Ver a Cthulhu reposando en su sepulcro es posiblemente la TPC más difícil a la que tu mesa tendrá que enfrentarse, d12+12. Si pierden cordura no podrán tratar de coger un trastorno en su lugar. Su visión solo supone horror y tu mente no puede desviar ese horror en forma de trastornos mentales permanentes o temporales. Va directamente a tu razón y la destruye sin contemplaciones.
+Su visión solo supone horror y tu mente no puede desviar ese horror en forma de trastornos mentales permanentes o temporales. Va directamente a tu razón y la destruye sin contemplaciones.
 
 Una vez que compruebe que están R’lyeh y que Cthulhu existe, déjales volver sin problemas a la superficie donde deberán informar a Read de sus descubrimientos. Esta les dirá la Hermandad que tiene que pensar que va a hacer. Déjales 2 semanas para que hagan sus propias aventuras para continuar con «Malas Noticias», la siguiente parte de este relato salvaje.
 
@@ -777,13 +816,19 @@ Si no son capaces de hilar el plan puedes darles alguna pincelada, pero no se la
 
 Villalba ya ha encontrado R’lyeh y tras semanas de estudio ya sabe como sacar la ciudad sumergida de entre las aguas. Pero su plan va a crear un cataclismo digno del Antiguo testamento.
 
-R’lyeh está justo entre las placas tectónicas del Caribe y Norteamérica y va a crear un mega-terremoto que hará que se eleve de entre las aguas. La idea es hacer estallar uno tras otros los diferentes volcanes de las Antillas Menores, de forma que cada volcán genere fuerza sísmica que se vaya acumulando con la de los anteriores volcanes. Esta fuerza sísmica seguirá hacia el norte por la falla del Caribe hasta llegar a R’lyeh y hacer que surja de las aguas.
+R’lyeh está justo entre las placas tectónicas del Caribe y Norteamérica y va a crear un mega-terremoto que hará que se eleve de entre las aguas. 
+
+La idea es hacer estallar uno tras otros los diferentes volcanes de las Antillas Menores, de forma que cada volcán genere fuerza sísmica que se vaya acumulando con la de los anteriores volcanes.
 
 ![Plan de Villalba](./images/fosa-puertorico.webp)
 
+ Esta fuerza sísmica seguirá hacia el norte por la falla del Caribe hasta llegar a R’lyeh y hacer que surja de las aguas.
+
 Según sus cálculos, haciendo que estallen los 6 primeros volcanes con una diferencia de dos horas entre ellos, se dará una reacción en cadena imparable que hará estallar el resto de volcanes por la falla hasta provocar un temblor de tal magnitud que hará chocar las placas tectónicas de la Fosa de Puerto rico y elevar R’lyeh sobre las aguas.
 
-El mega-terremoto va a crear un mega-maremoto que va arrasará todo el Caribe. Las pequeñas islas como las Bahamas, o las Caimán, desaparecerán y las grandes como Cuba o Puerto Rico verán sus ciudades de la costa inundadas. Las perdidas humanas podrían ser incalculables. De hecho, Villalba, espera que las muertes de cientos de miles vidas por todo el Caribe sirvan para despertar a su Amo de su eterno sueño.
+El mega-terremoto va a crear un mega-maremoto que va arrasará todo el Caribe. Las pequeñas islas como las Bahamas, o las Caimán, desaparecerán y las grandes como Cuba o Puerto Rico verán sus ciudades de la costa inundadas.
+
+Las perdidas humanas podrían ser incalculables. De hecho, Villalba, espera que las muertes de cientos de miles vidas por todo el Caribe sirvan para despertar a su Amo de su eterno sueño.
 
 Lleva meses comprando terrenos al pie de los volcanes de las islas de las Antillas Mayores más meridionales. En esos terrenos está haciendo trabajos de minería y llegar hasta la lava y poder lanzar un ingenio técnico-mágico que generen la erupción del volcán.
 
@@ -957,7 +1002,11 @@ Esta sesión o sesiones de juego no les agobies con tiradas de encuentros o embo
 
 **Comienzo:** La Habana
 
-> El plan de Villalba ha sido frustrado y gran parte de su poder ha sido destruido. Nunca estará tan débil como ahora. Es el momento de atacarle en su propia casa. Pero cuidado, los animales heridos suelen ser los más peligrosos.
+> El plan de Villalba ha sido frustrado y gran parte de su poder ha sido destruido. Nunca estará tan débil como ahora. 
+
+\sc
+
+> Es el momento de atacarle en su propia casa. Pero cuidado, los animales heridos suelen ser los más peligrosos.
 
 Villalba sabe de los movimientos de la Hermandad y aliados para reunir un ejército y acabar con él. Él también quiere acabar con sus enemigos de una vez por todas y hará llegar u propuesta de batalla mediante alguno de sus subordinados como el Gobernador Granados o el Gobernador Bentinck.
 
@@ -965,9 +1014,9 @@ La batalla final será en una semana y solo puede tener un escenario apropiado, 
 
 Villalba lleva el ejército más grande con varios barcos de guerra con dotaciones completas. Hay lanzadores de conjuros entre sus filas y tienen algunos ingenios mecánicos para que la usen sus unidades. Asígnale 10 marcadores de fuerza.
 
-Puedes calcular los tókenes de fuerza de las fuerzas de tu mesa siguiendo esta guía.
-
 \sp
+
+Puedes calcular los tókenes de fuerza de las fuerzas de tu mesa siguiendo esta guía.
 
 * 1,5 tókenes por a tripulación de tu mesa, 1,5 por la del Golpe de suerte y 1,5 por la del «Desgracia».
 * 1 token por la tripulación de El Sabueso, si son aliados.
@@ -1198,7 +1247,7 @@ _Dirige esta aventura después de que hayan completado «El benjamín de la fami
 
 **Comienzo:** En cualquier parte del Caribe
 
-> Seguramente la asaltante no tiene todos los cachos y sabe que son duros de pelar, así que tratará de hacer algún trato con tu mesa. Enviará algún mensaje cuando estén por alguna de las grandes ciudades del Caribe para negociar el cacho de mapa que le falta. Si estos aceptan les citará en algún lugar abierto, público y con fácil huida, como grandes plazas, puentes, mercados, …
+Seguramente la asaltante no tiene todos los cachos y sabe que son duros de pelar, así que tratará de hacer algún trato con tu mesa. Enviará algún mensaje cuando estén por alguna de las grandes ciudades del Caribe para negociar el cacho de mapa que le falta. Si estos aceptan les citará en algún lugar abierto, público y con fácil huida, como grandes plazas, puentes, mercados, …
 
 Si la asaltante ha conseguido todos los trozos, aún tiene que descifrarlos. Es diestra con el sable, pero la lógica y la deducción se le escapan. Intentará que diferente gente de letras y de ciencias trate de resolverle el acertijo del mapa, pero no conseguirá nada. A la desesperada quedará con tu mesa para llegar aún trato con ellos.
 
@@ -1255,7 +1304,7 @@ Debido a su contenido también se le puede considerar un libro de los Mitos. Est
 
 **Comienzo:** Cuba
 
-> En este punto es cuando deben empezar a jugar sus mejores bazas, tirar de contactos y pedir favores. Deberán hacer tiradas de Mitos e ir acumulando 10 avances. El problema es que no se puede repetir tiradas. Cada comodín que estudie el mapa irá aportando avances, pero no podrá volver a estudiarlo. Para poder tirar tendrá que estudiarlo como si fuera un libro, necesitando una semana para poder hacer la tirada. Si tu mesa no puede descifrar solo el mapa tendrá que recurrir a sus contactos, como Adolfé o Isadora, que aporten su punto de vista para descifrar el mapa.
+En este punto es cuando deben empezar a jugar sus mejores bazas, tirar de contactos y pedir favores. Deberán hacer tiradas de Mitos e ir acumulando 10 avances. El problema es que no se puede repetir tiradas. Cada comodín que estudie el mapa irá aportando avances, pero no podrá volver a estudiarlo. Para poder tirar tendrá que estudiarlo como si fuera un libro, necesitando una semana para poder hacer la tirada. Si tu mesa no puede descifrar solo el mapa tendrá que recurrir a sus contactos, como Adolfé o Isadora, que aporten su punto de vista para descifrar el mapa.
 
 Como no es conveniente ni tener varias copias ni andar mandándolas por correo, deberán visitar a cada estudioso que quieran que lo revise. Deberían aprovechar todas las ventajas, trucos y rituales que les den bonus para esas tiradas.
 
@@ -1267,7 +1316,7 @@ El viaje hasta Isla Gran Inagua (Bahamas) no debería ser problemático, pero pu
 
 **Comienzo:** Isla Gran Inagua
 
-> La isla de Gran Inagua es realidad pequeña (80 kilómetros de punta a punta) y no tienen ningún asentamiento grande, solo algunas granjas y algunas salinas en su parte sur. Llegar al Lago Rosa, que ocupa gran parte del interior de la isla, no debería darles problemas. El lago Rosa es un lago salado famoso por ser un lugar de cría de los flamencos.
+La isla de Gran Inagua es realidad pequeña (80 kilómetros de punta a punta) y no tienen ningún asentamiento grande, solo algunas granjas y algunas salinas en su parte sur. Llegar al Lago Rosa, que ocupa gran parte del interior de la isla, no debería darles problemas. El lago Rosa es un lago salado famoso por ser un lugar de cría de los flamencos.
 
 Según el mapa, en el extremo norte del lago, sobresaliendo del agua salada del lago hay una gran roca de unos 10x10 metros totalmente plana que los locales llaman la Cama del diablo. Una tirada de Ciencias revelará que geológicamente la piedra no pertenece a la isla. De alguna manera ha llegado allí y no parece que sea de forma humana y geológica.
 
@@ -1279,7 +1328,7 @@ Se supone que esa piedra es un la puerta a otra dimensión donde está el «teso
 
 **Comienzo:** Isla Gran Inagua
 
-> En cuanto caiga la última gota de sangre del sacrificio esta empezará a seguir el dibujo del pentáculo y cuando lo cubra entero esta empezará a tornarse de un verde fluorescente.
+En cuanto caiga la última gota de sangre del sacrificio esta empezará a seguir el dibujo del pentáculo y cuando lo cubra entero esta empezará a tornarse de un verde fluorescente.
 
 Poco a poco la piedra del interior del símbolo irá desapareciendo para verse una especie de dimensión de oscuridad total en cuyo centro se ve una especie de isla de piedra flotante con cristales de cuarzo gigantes de muchos colores, geodas, estalagmitas y estalactitas.
 
@@ -1293,9 +1342,11 @@ Si consiguen derrotar a sus compañeros esclavizados psíquicamente, los lloigor
 
 Tampoco te olvides de que prometieron a Salvador García la cabeza del asesino. Si no le entregan algo creíble, se convertirá en un enemigo poderoso. Hicieron un trato con él y no han cumplido y eso para Salvador es bastante grave.
 
-Los lloigors liberados son algo muy peligroso, ya sabéis lo que paso en Port Royal. Pueden ser un poderoso aliado si tienen que enfrentarse a la Orden del Gran Cthulhu, pero tienen un reverso maligno. Si en algún momento liberan a los lloigors tras cumplir su trato, se dispersarán por todo el Caribe. 
+> Los lloigors liberados son algo muy peligroso, ya sabéis lo que paso en Port Royal. Pueden ser un poderoso aliado si tienen que enfrentarse a la Orden del Gran Cthulhu, pero tienen un reverso maligno. Si en algún momento liberan a los lloigors tras cumplir su trato, se dispersarán por todo el Caribe. 
 
-Extenderán sus poderes depresivo/suicidas, hundiendo en la miseria todos aquellos lugares donde se establezcan. Si bien pueden haber evitado un mal mayor con la ayuda de los lloigors, han liberado un mal muy poderoso en el mundo que tendrá consecuencias en el futuro. Tratarán, además, de vengarse de las personas que los encerraron o mantuvieron encerrados, buscando algún vacío legal en el pacto que establecieron.
+\sc
+
+> Extenderán sus poderes depresivo/suicidas, hundiendo en la miseria todos aquellos lugares donde se establezcan. Si bien pueden haber evitado un mal mayor con la ayuda de los lloigors, han liberado un mal muy poderoso en el mundo que tendrá consecuencias en el futuro. Tratarán, además, de vengarse de las personas que los encerraron o mantuvieron encerrados, buscando algún vacío legal en el pacto que establecieron.
 
 \sp
 
@@ -1313,11 +1364,11 @@ En sus andanzas por el Caribe combatiendo a la Orden del Gran Cthulhu, tu mesa p
 
 > Desde el barco se avista una tortuga marina con cosas brillantes incrustadas en su concha. Si la atrapan, parece ser unas extrañas joyas de oro y plata. La verdad es que la tortuga es la mascota de un grupo de profundos que tienen un asentamiento en unos arrecifes cercanos.
 
-![Tortuga marina](./images/tortuga.webp)
-
 Alguien del barco grita señalando al agua. A pocos metros de la proa hay una gran tortuga marina, algo bastante común en las aguas del Caribe. Lo que no es tan usual es que su caparazón esté lleno de piezas metálicas con brillos dorados y plateados.
 
 Como siempre que pasa algo en el mar empezarán las discusiones sobre si es un buen o mal augurio y al final todo el mundo se girará y esperará a ver que dice tu mesa. 
+
+![Tortuga marina](./images/tortuga.webp)
 
 Pueden dejarla en paz y seguir su camino. Pescarla y matarla para comérsela y quitarle las incrustaciones de oro y plata es otra. Por último, podrían capturarla, estudiarla, devolverla al mar y seguirla para resolver el misterio de porque está enjoyada.
 
@@ -1343,11 +1394,11 @@ Pueden intentar ayudarla a volver a casa. Deberán perder media semana para de r
 
 La comunicación subacuática es complicada, pero al final el líder profundo de esta pequeña comunidad les hará entender que está en deuda con ellos. Les entregará una caracola de gran tamaño que es un objeto de gran importancia entre los profundos.
 
-**Caracola de los profundos:** Este objeto es entregado por una tribu profunda como muestra de estar en deuda con el ser que la porta. 
+> **Caracola de los profundos:** Este objeto es entregado por una tribu profunda como muestra de estar en deuda con el ser que la porta. 
 
 \sp
 
-Si se hace sonar, los profundos que la oigan tendrán que devolver el favor, incluso si no tiene nada que ver con ellos. Podrá usarse para parar un ataque de profundos, o para que realicen algún tipo de trabajo como recuperar algo de un barco hundido, conseguir pesca, … También puede conseguirse que les traigan un botín de oro de hasta un d8. Los profundos nunca harán nada que ponga su vida en peligro o que vaya en contra de una orden del Tridente de Dagón. Tras devolver el favor, se llevarán la caracola y la usarán para obtener un favor del clan que la entrego.
+> Si se hace sonar, los profundos que la oigan tendrán que devolver el favor, incluso si no tiene nada que ver con ellos. Podrá usarse para parar un ataque de profundos, o para que realicen algún tipo de trabajo como recuperar algo de un barco hundido, conseguir pesca, … También puede conseguirse que les traigan un botín de oro de hasta un d8. Los profundos nunca harán nada que ponga su vida en peligro o que vaya en contra de una orden del Tridente de Dagón. Tras devolver el favor, se llevarán la caracola y la usarán para obtener un favor del clan que la entrego.
 
 Adicionalmente, ver a los profundos de otra forma, más allá de violentos enemigos, hará que toda tu mesa obtenga la ventaja: Acostumbrado al horror (profundos).
 
@@ -1361,15 +1412,17 @@ El clan de profundos que cuida de esta tortuga encontrarán los restos de su ama
 
 El clan empezará a perseguir al barco y a matar a los sucios humanos que van en él. Es un clan pequeño, con unos 20 combatientes como mucho. No pueden enfrentarse directamente contra toda la tripulación, pero sí aprovechar a asesinar a uno o dos tripulantes en plena noche y desaparecer. Ahora en cada viaje, cuando se tire la tabla de Encuentros en el Mar, si sale un 7 (La Tortuga) o 10 (Saboteadores profundos) los profundos intentarán matar a un tripulante. Los resultados que lleven a Relatos Salvajes ya terminados también harán que haya intento de asesinato.
 
-Cuando los asesinos profundos intenten atacar, deberás tirar un d100. Si se saca menos de «comodín (PJ y PNJ que vayan en el barco)» x 5%. Intentarán matar a un PJ, si no atacarán a un tripulante normal. 
-
 \sp
+
+Cuando los asesinos profundos intenten atacar, deberás tirar un d100. Si se saca menos de «comodín (PJ y PNJ que vayan en el barco)» x 5%. Intentarán matar a un PJ, si no atacarán a un tripulante normal. 
 
 La tripulación normal muere directamente y seguramente su cadáver desaparecerá sin dejar rastro. Puedes dejarles pistas como señales de lucha, restos de algas, marcas de tridente, …
 
 Si atacan a un comodín, habrá un encuentro del comodín contra 2 profundos y un líder profundo. Si ven que no pueden ganar o se acercan refuerzos, tratarán de escapar al mar donde los perderán de vista. Si consiguen apresarlos podrán interrogarlos y saber qué está pasando y a qué se deben los ataques.
 
-Pueden decidir enfrentarse al resto del clan y acabar con ellos definitivamente. La otra opción es tratar de negociar una paz, aunque el coste que piden los profundos es muy alto. Un tripulante deberá entregarse al clan profundo para ser sacrificado. Este punto no es negociable de ninguna manera, una vida por una vida.
+Pueden decidir enfrentarse al resto del clan y acabar con ellos definitivamente. La otra opción es tratar de negociar una paz, aunque el coste que piden los profundos es muy alto.
+
+Un tripulante deberá entregarse al clan profundo para ser sacrificado. Este punto no es negociable de ninguna manera, una vida por una vida.
 
 ### Contrabando de ron
 
@@ -1377,11 +1430,15 @@ Pueden decidir enfrentarse al resto del clan y acabar con ellos definitivamente.
 
 > Luchar contra horrores espaciales o extradimensionales no paga las facturas y los personajes, sobre todo si están buscados por la ley, deben buscar métodos rápidos de conseguir dinero. Una forma es haciendo contrabando de ron para Michelle LeCourt, una extravagante mujer de los bajos fondos de Kingston con fama de bruja, que les pedirá que lleven un cargamento de ron ilegal a Santo Domingo (La Española) evadiendo a la armada española y los barcos de la RCPC que vigilan su monopolio comercial.
 
-Todo sería una actividad delictiva de lo más normal y corriente, si no fuera porque en varios de los barriles de ron hay cadáveres humanos. Sobre estos cuerpos se ha realizado un ritual vudú de zombificación. Se transportan metidos en alcohol para no levantar sospechas y para que se conserven mejor mientras se transportan. El problema viene cuando los cadáveres empiezan a levantarse y atacar a los tripulantes del barco.
+Todo sería una actividad delictiva de lo más normal y corriente, si no fuera porque en varios de los barriles de ron hay cadáveres humanos. Sobre estos cuerpos se ha realizado un ritual vudú de zombificación.
 
-Michelle LeCourt, una de las jefas del crimen organizado de Kingston y poderosa bruja vudú, tiene ojeadores en el puerto buscando barcos rápidos con tripulaciones con pinta de criminales y necesitadas de dinero que pueda usar para mover su material ilegal. El ojeador se acercará al que tenga pinta de capitán y les ofrecerá trabajo. Si están interesados en conseguir dinero fácil, deberán ir al Retrato del capitán y preguntar por LeCourt.
+Se transportan metidos en alcohol para no levantar sospechas y para que se conserven mejor mientras se transportan. El problema viene cuando los cadáveres empiezan a levantarse y atacar a los tripulantes del barco.
 
 \sp
+
+Michelle LeCourt, una de las jefas del crimen organizado de Kingston y poderosa bruja vudú, tiene ojeadores en el puerto buscando barcos rápidos con tripulaciones con pinta de criminales y necesitadas de dinero que pueda usar para mover su material ilegal.
+
+El ojeador se acercará al que tenga pinta de capitán y les ofrecerá trabajo. Si están interesados en conseguir dinero fácil, deberán ir al Retrato del capitán y preguntar por LeCourt.
 
 Michelle LeCourt ha recibido un encargo secreto de la RCPC de que le consiga unos zombis para una tarea que solo ellos podrían realizar. LeCourt no ha preguntado, solo ha cogido el dinero y se ha puesto a abrir tumbas y a sacar cadáveres. 
 
@@ -1395,11 +1452,13 @@ Tu mesa debe decidir que hace, pero oportunidades como esas no salen todos los d
 
 #### Subiendo la carga
 
-El día acordado a la hora acordada, LeCourt y su gente aparecerán en el puerto en varios carros con unos 20 barriles. Ayudarán a subirlos al barco, mientras LeCourt se dedica a hacer rituales al barco, recitando salmos y ungiendo el casco de la nave. Realmente es teatro de Michelle para mantener su fama de bruja.
-
-Cualquiera que ayude a embarcar los barriles verá que pesan bastante y que tienen sellos de cera con extraños símbolos. Tirada de Conocimientos Generales para ver que parece están relacionados con el vudú. No hace falta ser muy inteligente para darse cuenta de que la bruja esconde algo, pero la paga es muy buena.
+El día acordado a la hora acordada, LeCourt y su gente aparecerán en el puerto en varios carros con unos 20 barriles. 
 
 \sp
+
+Ayudarán a subirlos al barco, mientras LeCourt se dedica a hacer rituales al barco, recitando salmos y ungiendo el casco de la nave. Realmente es teatro de Michelle para mantener su fama de bruja.
+
+Cualquiera que ayude a embarcar los barriles verá que pesan bastante y que tienen sellos de cera con extraños símbolos. Tirada de Conocimientos Generales para ver que parece que están relacionados con el vudú. No hace falta ser muy inteligente para darse cuenta de que la bruja esconde algo, pero la paga es muy buena.
 
 Cuando vean que todo está bien colocado en las bodegas, LeCourt les entregará la mitad del pago y se irá con su gente.
 
@@ -1413,11 +1472,11 @@ Si toman medidas de seguridad un poco eficaces como atar los barriles con cadena
 
 Si no detectan nada o pasan de investigar los barriles para no enfurecer a la poderosa maga vudú, a mitad del viaje, a la noche unos gritos despertarán a la tripulación. En la cubierta dos figuras lentas, gimoteantes y que apestan a ron, se acercan a un tripulante que está de guardia en cubierta. Cuando se acercan a ellos y los iluminan parece dos muertos revividos y por la peste a alcohol debían estar metidos dentro de los barriles de ron. De repente, se oyen un gran número de golpes como de madera que vienen de la bodega.
 
+\sp
+
 #### Y los muertos se alzarán
 
 Cuando bajen a la bodega se encontrarán a unos 20 zombis (descontando los que hayan salido antes) emergiendo de sus toneles. Tienen 1 turno antes de que los zombis estén preparados para el combate. Puede aprovechar para atacar, para prepararse para el combate o salir corriendo y cerrar la puerta.
-
-\sp
 
 #### Zombi (secuaz)
 
@@ -1437,9 +1496,9 @@ Recuerda que estos zombis están empapados en ron que hace que sea muy fácil pr
 
 Si vuelven a Kingston para reclamar algo a Michelle podrán encontrarla con siempre en el Retrato del Capitán. Si los zombis se levantaron en el viaje y dieron problemas, muy cortésmente se disculpará y les ofrecerá el dinero que se había prometido por llevar los barriles ron, más una indemnización por las perdidas de humanas y materiales (calcula a tu gusto). 
 
-Añadirá además un suculento extra de 1.000 doblones si cuentan la historia por las tabernas de los puertos del Caribe. Si puede ser, adornándola un poco. Michelle no pierde nunca la oportunidad de sacar ventaja de un fracaso y desde luego esta historia va a ayudar mucho a su imagen.
-
 \sp
+
+Añadirá además un suculento extra de 1.000 doblones si cuentan la historia por las tabernas de los puertos del Caribe. Si puede ser, adornándola un poco. Michelle no pierde nunca la oportunidad de sacar ventaja de un fracaso y desde luego esta historia va a ayudar mucho a su imagen.
 
 Si han deshecho de la carga sin que los zombis den señales de vida mejor que vayan a pedir perdón a LeCourt (y entregarle una buena suma de oro) o conseguirán una poderosa enemiga. Lo mismo pasará si no entregan la carga y desaparecen sin dejar señal.
 
@@ -1457,15 +1516,15 @@ Si entregan los zombis y quieren saber para qué son, pueden seguirles el rastro
 
 Durante las celebraciones de la noche de San Juan, los locales han preparado grandes hogueras en la playa. Hay bebida, comida, música y baile y todo el mundo se olvida de sus problemas. También es una noche de magia, perfecta para hacer pequeños rituales para atraer el amor, la suerte o la fortuna.
 
+\sp
+
 Sin embargo, esta noche no será así. Un pequeño grupo de adolescentes con ínfulas de poderosos magos intentará un ritual que saldrá mal e invocarán a unas peligrosas criaturas, vampiros de fuego, que causarán estragos entre la gente si los héroes no lo remedian.
 
 Deja que tu mesa disfrute de la fiesta bebiendo y comiendo. Si te apetece, déjales que participen en juegos populares como coger al cerdo engrasado, lanzamiento de objetos que de normal no se lanza, cortar cosas rápidamente, concursos de pulso, cantos regionales, … 
 
-\sp
-
 También pueden participar en tradiciones como andar sobre las brasas o saltar las fogatas. Hay muchas opciones para que todos puedan participar y tener su minuto de gloria.
 
-Si durante los festejos se acercan a la mesa de las viandas y las bebidas que han traído las gentes del lugar, podrán ver y aprender el ritual de la Queimada.
+> Si durante los festejos se acercan a la mesa de las viandas y las bebidas que han traído las gentes del lugar, podrán ver y aprender el ritual de la Queimada.
 
 #### Saltando el fuego
 
@@ -1475,13 +1534,13 @@ Con una tirada de Mitos podrán saber lo que son y con un avance sabrán que es 
 
 Lo más óptimo sería que mientras una parte del grupo entretiene a los vampiros (para evitar que se produzcan bajas mortales), otra busque al invocador (para poder detenerlos definitivamente).
 
+\sp
+
 #### Aprendices de brujos
 
 Sus pesquisas les llevarán a un grupo de adolescentes discutiendo en una fogata apartada del resto de festejos. La fogata tiene un fulgor extraño y esparcidos a su alrededor hay objetos como un jarrón lleno de aceite, una hoz y diferentes hierbas. 
 
 Los 4 jóvenes (Beatriz, Desideria, Javier y Francisco) están muy nerviosos y tienen miedo de las consecuencias que podrían traerle sus actos. Tanto con Persuadir, asegurándoles que no les pasará nada, como con Intimidar, amenazándoles con las posibles consecuencias, podrán sacarles que estaban intentando vengarse del hijo del alcalde que se dedica a atormentarles, usando un hechizo mágico.
-
-\sp
 
 Encontraron en una casa abonada del pueblo un librillo en inglés con extraños dibujos. La curiosidad les llevo a pedirle a un marinero medio borracho que se los tradujera y este se lo tradujo con su pobre inglés. La mala traducción (#pagabienatustraductores) y su inexperiencia produjo que el ritual saliera mal y los vampiros de fuego estén descontrolados.
 
@@ -1495,6 +1554,8 @@ Si tardan más de 10 turnos en localizar a los adolescentes, estos se habrán id
 
 Una tirada extraordinariamente buena de Mitos les podría ayudar a detectar la fogata de la «chavalada» y percatarse de que si la apagan los vampiros de fuego desaparecen.
 
+\sp
+
 Si no consiguen parar a los vampiros, estos terminarán llegando al pueblo y lo quemarán entero para desaparecer, dejando una estela de destrucción a su paso.
 
 El libro que el grupito de adolescentes ha encontrado es un pequeño tratado de hechicería y fuego titulado «Fuego Purificador» y escrito en inglés. 
@@ -1507,8 +1568,6 @@ El libro que el grupito de adolescentes ha encontrado es un pequeño tratado de 
 * **Estado de conservación:** Usado y leído.
 * **Hechizos:** Círculo de invocación, Piromancia
 * **Tiempo de lectura:** Media semana
-
-\sp
 
 En sus páginas hace referencia a distintas divinidades primigenias que están relacionadas con el fuego. Tiene marcas de fuego y zonas quemadas y desprende un extraño olor a humo.
 
@@ -1528,13 +1587,14 @@ Aquí tienes el listado de posibles jugarretas que puede hacer:
 
 * Todas las reservas de agua del barco saben a pis de gato. Sigue siendo potable, pero sabe a rayos.
 * Todas las noches aparecerán fuegos de San Telmo en los mástiles del barco. Esto es una señal de muy mal augurio.
+
+\sp
+
 * El timón funciona al revés.
 * Aves marinas empiezan a posarse en el barco, llenándolo todo con sus deposiciones. Al principio son pocas, pero cada vez serán más y más. El problema es que la tradición dice que no se debe molestar o matar a las aves marinas, ya que son almas de marineros muertos.
 * Si no son piratas reconocidos, todas las mañanas su bandera será reemplazada por una bandera pirata, cuanto más sangrienta y gore mejor.
 * Si llevan animales a bordo empezarán a chillar y berrear ante la presencia de Totep. Muchos tratarán de escapar y habrá que tratar de perseguirlo por los barcos y atraparlos.
 * Un banco inmenso de peces voladores salta dentro del barco. Tirada de Agilidad o recibirán 1d6 de daño por golpes y cortes de los peces. Por otro lado, tendrán una buena reserva de pescado fresco.
-
-\sp
 
 Además, puedes hacerles que tiren una tirada de suerte (Espíritu) y los que fallen tendrán la maldición hasta que se libren de Totep. Si sale alguna mortal vuelve a tirar, Totep quiere divertirse, no matarlos.
 
@@ -1546,17 +1606,17 @@ Si Totep no quiere abandonar el barco, no podrán deshacerse de él. Pueden deja
 
 Para deshacerse de él deberán engañarle y conseguir que les firme algún tipo de pacto o contrato o que les prometa algo. Las debilidades de Totep son el ron y el flirteo. Emborrachándole y flirteando con él podrán conseguir que se aliste en otro barco, que ponga a buscar alguna ciudad perdida de oro o lo que sea que le mantenga alejados de ellos. Una vez que se deshagan de él no podrá volver al barco si ellos no se lo permiten. Pero eso no quiere decir que no pueda volver a aparecer en otros sitios para ayudarles o para complicarles la vida.
 
+\sp
+
 No deberías permitir que usen a Totep como su genio de la lámpara que les solucione problemas a golpe de deseo.
 
-Un grupo avispado trataría de endiñar a Totep a alguno de sus enemigos. Un grupo desesperado en horas bajas trataría de enrolarlo en su tripulación esperando que sus poderes les ayuden en la lucha contra los primigenios. Lo importante de Totep es que lo uses tú como DJ para divertirte y hacerles maldades a tu mesa. ¡¡¡Disfrútalo!!!
+> Un grupo avispado trataría de endiñar a Totep a alguno de sus enemigos. Un grupo desesperado en horas bajas trataría de enrolarlo en su tripulación esperando que sus poderes les ayuden en la lucha contra los primigenios. Lo importante de Totep es que lo uses tú como DJ para divertirte y hacerles maldades a tu mesa. ¡¡¡Disfrútalo!!!
 
 ### La isla de Tekeli-li
 
 **Comienzo:** En el mar tras una tormenta o algún combate naval
 
 > Tras una horrible tormenta o un cuento combate naval, el barco ha sufrido muchos daños. Tu mesa deberá buscar un sitio donde hacer una parada rápida y reparar el barco. Casualmente, encuentran un extraño islote de unos 50 metros de diámetro lleno de restos de pecios que pueden serles de mucha utilidad para sus reparaciones.
-
-\sp
 
 El vigía avista un islote flotante creado a base de restos de barcos. Igual pueden desembarcar y sacar material para sus reparaciones. De hecho, con una tirada de Reparar puede que detecten materiales de gran valor entre los restos que hay sobre el islote que ascenderían a miles de doblones.
 
@@ -1565,6 +1625,9 @@ Cosas raras que suceden en el islote:
 * No hay vida vegetal y mucho menos animal en el islote. Es muy raro que no haya ningún tipo de algas ni de moluscos.
 * Toda la superficie del islote está cubierta de resto de barcos y si retiran algo podrán ver que la superficie del islote tiene un aspecto extraño entre gomoso y alquitranoso. Si vuelven a un lugar donde han retirado material, hazles una tirada de Notar para detectar que hay restos nuevos cubriendo esa zona. El shoggoth odia la luz del sol directa y se tapa con los escombros.
 * Si alguien se queda en el barco podrá notar pequeñas sacudidas. Son los pseudópodos del shoggoth que se van enganchando al casco para cuanto tenga suficientes volcar el barco y destruirlo. Sabiendo donde mirar y con una tirada de Notar podrán ver los apéndices enganchados al caso por debajo de la línea de flotación.
+
+\sp
+
 * Si se paran a escuchar podrán (un avance en Notar) escuchar un susurro que dice Tekeli-li, algún tipo de amenaza o aviso en el idioma de los Antiguos, los creadores de los shoggoths.
 
 Cuando tengan suficientes sospechas, permíteles hacer una tirada de Mitos para saber que están sobre un shoggoth de dimensiones gigantescas.
@@ -1572,8 +1635,6 @@ Cuando tengan suficientes sospechas, permíteles hacer una tirada de Mitos para 
 Cada viaje con restos de barcos supone 1d10 x100 doblones de oro y unos 5 minutos de trabajo. Necesitarán como dos viajes para obtener el material necesario para sus reparaciones. Si no quieren acercarse con el barco y prefieren acercarse con una barca, diles que los trabajos de ir y volver con la barca puedes eternizarse y puede haber repuestos necesarios, como mástiles que no puedan meterse en la barca.
 
 Si intentan primero explorar en una barca no detectarán nada especialmente raro, ya que el shoggoth solo sale de su letargo ante objetos de gran volumen como barcos. Tiéntales con una tirada de Notar para descubrir objetos de gran valor que podrían llevarse para venderlos.
-
-\sp
 
 Moverse por el islote se considera terreno peligroso, por lo que cuesta el doble moverse y es imposible correr.
 
@@ -1585,13 +1646,15 @@ Si tiene menos enganchados solo atacará con los que tenga enganchados y si tien
 
 La tirada TPC deberán hacerla cuando se den cuenta del poder y potencial destructivo del shoggoth cuando inicie el ataque al barco.
 
-Recuerda que solo le afecta el fuego y la electricidad, los ataques físicos normales como armas de filo o pistolas o mosquetes no le hacen anda. Así que las mejores opciones son fuego (pudiendo derramar líquido inflamable sobre el shoggoth o usando magia) y explosivos potentes como granadas o cañones (si consiguen moverlos de forma apunten hacia abajo). Cada tentáculo tiene aguanta una herida, pudiendo gastar benis para absorberlas. Al recibir una segunda herida, el apéndice es cortado.
+Recuerda que solo le afecta el fuego y la electricidad, los ataques físicos normales como armas de filo o pistolas o mosquetes no le hacen anda. 
+
+\sp
+
+Así que las mejores opciones son fuego (pudiendo derramar líquido inflamable sobre el shoggoth o usando magia) y explosivos potentes como granadas o cañones (si consiguen moverlos de forma apunten hacia abajo). Cada tentáculo tiene aguanta una herida, pudiendo gastar benis para absorberlas. Al recibir una segunda herida, el apéndice es cortado.
 
 Si consiguen soltar su barco del shoggoth este no les perseguirá ni nada por el estilo. Si han subido material al barco podrán buscar tesoro entre los restos recopilados haciendo la tirada de botín del shoggoth. No podrán tirar en la tabla de objetos grandes y solo podrán tener tantos avances en la tirada como viajes de rescate hayan hecho.
 
-_Un grupo lo suficientemente listo podría aprender a usar el islote como arma contra otros barcos o contra seres de gran tamaño. Podrían arrastrarlo por el mar y lanzarlo contra su enemigo. El shoggoth en cuanto contacta con algo lo ataca y lo intenta destruir y devorar sin importar bandera o alianzas. De hecho, la mayoría de los restos que hay sobre su superficie son de barcos con los que ha chocado en alta mar._
-
-\sp
+> _Un grupo lo suficientemente listo podría aprender a usar el islote como arma contra otros barcos o contra seres de gran tamaño. Podrían arrastrarlo por el mar y lanzarlo contra su enemigo. El shoggoth en cuanto contacta con algo lo ataca y lo intenta destruir y devorar sin importar bandera o alianzas. De hecho, la mayoría de los restos que hay sobre su superficie son de barcos con los que ha chocado en alta mar._
 
 ### El Susurros
 
@@ -1603,13 +1666,13 @@ _Un grupo lo suficientemente listo podría aprender a usar el islote como arma c
 
 La mayoría de la gente del puerto lo considera un barco encantado. Atestiguan que hay noches, especialmente como la víspera de San Juan o de Todos los Santos en que se ven luces de colores verdosos y se escuchan extraños golpes y cánticos ininteligibles dignos de demonios del Averno.
 
+\sp
+
 El jefe de puerto, el maestre Arturo Gandía, lleva años queriendo deshacerse de él, pero cada día de Año nuevo aparece misteriosamente delante de su caseta del puerto el pago de su amarre en viejos doblones de oro. Con los años ha llegado a obsesionarse con ese viejo barco y su sola visión le produce asco y repugnancia.
 
 Esta noche va un poco más bebido de lo habitual y después de estudiarlos se acerca a vuestra mesa para proponeros un trabajo. Entre gritos y cuchicheos (cuando se da cuenta de que habla alto), os pide que provoquéis un incendio en «El Susurros» que lo destruya definitivamente. Se ha encargado de no poner ningún barco cerca para que las llamas no se propaguen.
 
 Os ofrece un buen trato, 1 año de amarre gratis para su barco en el puerto. Regateando podéis conseguir que sea muy laxo en sus inspecciones sobre el contenido de su bodega. Aun así, siempre tendréis que pagar el 10% que recauda la RCPC. Detesta tanto ese barco que no le importa saltarse la ley con tal de no verlo de nuevo. Si no aceptan podría vetarles la entrada al puerto de por vida, lo cual sería un problema.
-
-\sp
 
 #### Pesquisas e investigaciones
 
@@ -1618,6 +1681,8 @@ Lo lógico es que, si tu mesa es lista, investigue el barco antes de prenderle f
 Si analizan las monedas del pago del amarre anual podrán descubrir que las monedas son realmente antiguas (tirada de Humanidades) por el monarca que aparece en ellas. Con una tirada de Investigación podrán ver que las monedas han estado mucho tiempo en el fondo marino. Hay restos de coral incrustados.
 
 Los archivos del puerto tampoco aclaran mucho más que lo que ha contado Gandía. Si les invitas a un trago de ron, los viejos marineros te cuentas historias de fantasmas. La creencia más popular es que el barco está poseído por los fantasmas de la familia Mendoza.
+
+\sp
 
 Si se pregunta en el gremio de carpinteros navales, ninguno quiere confesar que han robado material del viejo Susurros, pero si confesarán si se les presiona que alguien lo mantiene a flote, puede que no se preocupe por los mástiles, pero el casco está muy bien conservado, calafateado y parcheado para un supuesto barco abandonado. Están seguros de que alguien vive en ese barco, pero sus razones tendrá para no salir a la luz.
 
@@ -1629,15 +1694,17 @@ Si intentan retirar la escotilla, está clavada para que no se pueda retirar. Ne
 
 La primera cubierta inferior está vacía. No hay nada, salvo algunos tablones, maromas y restos de velas. Una tirada de Notar detectará que varias personas han pasado por aquí, pero podrían ser gente del puerto buscando algo que robar.
 
-\sp
-
 Para pasar a la siguiente cubierta deben bajar por las escaleras, pero hay una escotilla atrancada. Pueden llamar a ver que pasa, pero no habrá respuesta. La otra opción es destrozarla.
 
 Si consiguen entrar se encontrarán a un grupo de unos 4 guls por PJ armados con herramientas y cuchillos de cocina. No van a atacar, solo están defendiendo su territorio y están esperando la reacción de los intrusos. El grupo podrá hacer una tirada de Notar para ver la cubierta, Igual eso les ayuda a tomar una decisión. La cubierta inferior ha sido transformada en una mezcla de dormitorio, cocina y taller de carpintería. El problema es que hay un cadáver humano medio descompuesto en mitad de una gran mesa en la zona de cocina.
 
 También podrá tirar Mitos para identificar a los guls, saber que son bastante inteligente y no siempre son malignos. También son necrófagos, lo que explica el cadáver en la mesa de la cocina. Por último, si te hacen heridas puedes contraer un mal que te termina convirtiéndote en un gul como ellos.
 
-Si tu mesa se lanza al ataque ellos responderán, si tratan de negociar uno de ellos se adelantará y tratará de hablar. Si se monta un combate, la cubierta tiene 20x5 casillas acabando en punta (4,3,2,1 casillas). Las escaleras de bajada están en el centro de la cubierta.
+Si tu mesa se lanza al ataque ellos responderán, si tratan de negociar uno de ellos se adelantará y tratará de hablar. 
+
+\sp
+
+Si se monta un combate, la cubierta tiene 20x5 casillas acabando en punta (4,3,2,1 casillas). Las escaleras de bajada están en el centro de la cubierta.
 
 Si se enzarzan en un combate se desarrollará normalmente, no son especialmente buenos combatientes, pero se defenderán. Si su número baja del 50% tratarán de huir.
 
@@ -1645,9 +1712,9 @@ Si se va a parlamentar, ellos no quieren problemas. Viven tranquilamente sin que
 
 #### El incendio
 
-Tanto si cumplen su acuerdo con Gandía como si no, el barco será incendiado. Si no lo hacen ellos, un Arturo Gandía cansado de esperar y envalentonado por el ron intentará prender la cubierta del barco con 3 artefactos incendiarios. Cuando vayan a salir del barco, oirán 3 golpes sordos en la cubierta principal. Hay 3 fuegos en la cubierta, uno en castillo de proa, otro en el de popa y el último en el aparejo del único mástil que se mantiene en pie. Necesitan actuar rápido para apagarlos o el barco será consumido por el fuego.
+Tanto si cumplen su acuerdo con Gandía como si no, el barco será incendiado. Si no lo hacen ellos, un Arturo Gandía cansado de esperar y envalentonado por el ron intentará prender la cubierta del barco con 3 artefactos incendiarios. 
 
- \sp
+Cuando vayan a salir del barco, oirán 3 golpes sordos en la cubierta principal. Hay 3 fuegos en la cubierta, uno en castillo de proa, otro en el de popa y el último en el aparejo del único mástil que se mantiene en pie. Necesitan actuar rápido para apagarlos o el barco será consumido por el fuego.
 
 Pueden tratar de hacer una cadena humana para baldear agua de mar. Sería algo muy fácil, pero necesitarán la ayuda de los gules y estos serán vistos por la gente que ha sido atraída por el fuego. Otras opciones podrían ser algún hechizo de hidromancia. Una solución parcial podría talar el mástil para que caiga al agua y así acabar con ese foco.
 
@@ -1657,9 +1724,13 @@ Si la situación es insostenible, los guls huirán a nado del barco y buscarán 
 
 Si Gandía incendia el barco y se pueden demostrar sus actividades pirómanas, será degradado de su puesto a algún trabajo de bajo nivel en el puerto. Deben tener en cuenta que el hecho de que Gandía sea degradado supone que las ventajas que les ofreció no se hagan efectivas.
 
+\sp
+
 Si ellos incendian el barco, Gandía tapará todo el asunto con sus contactos. Si hay gules supervivientes huirán a alguno de los cementerios de la ciudad.
 
-Sea como sea, el barco va a acabar muy dañado y las autoridades portuarias decidirán desmantelarlo. El grupo de gules deberá abandonar el barco y si no se le ofrece ninguna opción mejor se irá alguno de los cementerios de la ciudad. Si les buscan un buen lugar para vivir en algún sitio tranquilo del Caribe, conseguirán unos Aliados que se encargarán de protegerlos y ocultarlos en su comunidad si tienen que esconderse de las autoridades o de sus enemigos. Otra ventaja es que los gules llevan años aprendiendo a arreglar el barco y son unos buenos carpinteros navales. Si el barco de tu grupo sufre muchos daños y están perseguidos por las autoridades o sus enemigos, tendrán un astillero secreto y seguro donde refugiarse.
+Sea como sea, el barco va a acabar muy dañado y las autoridades portuarias decidirán desmantelarlo. El grupo de gules deberá abandonar el barco y si no se le ofrece ninguna opción mejor se irá alguno de los cementerios de la ciudad. Si les buscan un buen lugar para vivir en algún sitio tranquilo del Caribe, conseguirán unos Aliados que se encargarán de protegerlos y ocultarlos en su comunidad si tienen que esconderse de las autoridades o de sus enemigos.
+
+Otra ventaja es que los gules llevan años aprendiendo a arreglar el barco y son unos buenos carpinteros navales. Si el barco de tu grupo sufre muchos daños y están perseguidos por las autoridades o sus enemigos, tendrán un astillero secreto y seguro donde refugiarse.
 
 ### Repartidores
 
@@ -1669,17 +1740,19 @@ Sea como sea, el barco va a acabar muy dañado y las autoridades portuarias deci
 
 Antoine te los vende a mitad del precio normal, unos 2 doblones, ya que normalmente se venden a 4 doblones. Piensa que unos 100 periódicos ocuparían en un barco 1 barril de espacio, así que si llevas 100 periódicos podrías sacar unos 200 doblones de beneficios por barril.
 
-\sp
-
 Opciones para venderlos.
 
 * **Venderlos tú mismo.** Puedes venderlos tú directamente en la calle. Se venden muy bien y en un día en un buen lugar podrías 50 ejemplares.
 * **Contratar a un repartidor.** Por unos 10 doblones diarios puedes contratar a una persona, normalmente niños de la calle, que te venderán unos 50 periódicos al día.
 * **Vendérselos a tendero y posaderos:** Luego ellos los revenden de nuevo llevándose un pequeño beneficio. Normalmente, no te los compran a precio de portada, suelen pagar entre 3 y 3,5 doblones.
 
-Esta actividad no solo supone beneficios económicos, también puede ser una excelente tapadera para todo tipo de actividades legales y no legales. Podrías hacer vigilancia delante de la guarida de algún villano, haciéndote pasar por vendedor de periódicos. Podrías distribuir material robado y/o sustancias ilegales por toda la ciudad con una red de repartidores con la excusa de vender periódicos.
+Esta actividad no solo supone beneficios económicos, también puede ser una excelente tapadera para todo tipo de actividades legales y no legales. 
 
-Vendiendo periódicos con asiduidad proporciona una forma de ganarse la vida a ciertos grupos desfavorecidos de la sociedad como mendigos o pillastres de la calle. El DJ puede decir que si en determinadas ciudades has proporcionado suficiente trabajo y dinero a estos grupos, puedes apuntártelos como Aliados. Recuerda lo útiles que son los ladronzuelos y los mendigos a Sherlock Holmes en sus novelas.
+\sp
+
+Podrías hacer vigilancia delante de la guarida de algún villano, haciéndote pasar por vendedor de periódicos. Podrías distribuir material robado y/o sustancias ilegales por toda la ciudad con una red de repartidores con la excusa de vender periódicos.
+
+> Vendiendo periódicos con asiduidad proporciona una forma de ganarse la vida a ciertos grupos desfavorecidos de la sociedad como mendigos o pillastres de la calle. El DJ puede decir que si en determinadas ciudades has proporcionado suficiente trabajo y dinero a estos grupos, puedes apuntártelos como Aliados. Recuerda lo útiles que son los ladronzuelos y los mendigos a Sherlock Holmes en sus novelas.
 
 ### Primera plana
 
@@ -1691,15 +1764,13 @@ Si sabes medianamente escribir y tienes una historia escabrosa y truculenta que 
 
 Las historias puede enviarlas por correo y pasarte de vez en cuando a cobrar o llevárselas en mano, sobre todo si tienes pruebas como un molde en yeso de las huellas de un monstruo o una garra que perdió en combate, … Puedes fiarte de Antoine, es buen pagador y nunca trata de engañar a sus corresponsales.
 
+> Preparar, documentar y escribir una historia necesitará mínimo media semana de tiempo, así que puedes aprovechar el viaje de vuelta de tus aventuras para escribirla. Hay que hacer dos tiradas, una de Interpretar para ver tus dotes de escritor. Si no la pasas, la historia es un mojón que no quiere leerse nadie y Antoine te la tirará a la cara.
+
+> Deberás gastar otra media semana para rehacerla. La otra tirada se hace con el TPC o tirada de botín más grande que haya habido en la aventura. Antoine paga 50 doblones de base si le gusta la historia y 50 por cada avance que consigas en las dos tiradas anteriores. Puede pagar un extra de 50 doblones si le traes pruebas de tu historia.
+
 \sp
 
-Preparar, documentar y escribir una historia necesitará mínimo media semana de tiempo, así que puedes aprovechar el viaje de vuelta de tus aventuras para escribirla. Hay que hacer dos tiradas, una de Interpretar para ver tus dotes de escritor. Si no la pasas, la historia es un mojón que no quiere leerse nadie y Antoine te la tirará a la cara.
-
-Deberás gastar otra media semana para rehacerla. La otra tirada se hace con el TPC o tirada de botín más grande que haya habido en la aventura. Antoine paga 50 doblones de base si le gusta la historia y 50 por cada avance que consigas en las dos tiradas anteriores. Puede pagar un extra de 50 doblones si le traes pruebas de tu historia.
-
-Si consigues que Antoine te publique 6 historias te harás un nombre dentro de la profesión e incluso podrían llegarte encargos de grandes periódicos de ultramar para que trabajes como corresponsal en el Caribe. Obtienes la ventaja de Fama como periodista. La gente te escribirá pidiéndote ayuda con sucesos raros o te contará extrañas anécdotas que han vivido. La cuestión es que muchas de estas cosas son formas perfectas para entrar en determinadas aventuras.
-
-\sc
+> Si consigues que Antoine te publique 6 historias te harás un nombre dentro de la profesión e incluso podrían llegarte encargos de grandes periódicos de ultramar para que trabajes como corresponsal en el Caribe. Obtienes la ventaja de Fama como periodista. La gente te escribirá pidiéndote ayuda con sucesos raros o te contará extrañas anécdotas que han vivido. La cuestión es que muchas de estas cosas son formas perfectas para entrar en determinadas aventuras.
 
 ### El capitán de amarillo
 
@@ -1707,31 +1778,33 @@ Si consigues que Antoine te publique 6 historias te harás un nombre dentro de l
 
 > La joven dramaturga Johanna Ribeiro nunca ha podido enseñar su arte al mundo, pero su última obra puede ponerla en el candelero de la escena teatral caribeña. Tiene una obra que según cuenta a todos, escribió en sueños y que puede ser el éxito de su vida, pero está teniendo problemas para estrenarla. Es ahí donde nuestros héroes entran en acción.
 
+\sc
+
 #### El color que vino de ultramar
 
-Ribeiro busca algo muy especial para su obra que según ella es clave para su éxito, un gran rollo de tela amarilla con la que hacer los trajes y los decorados para su obra. Así que les ofrecerá una parte de los beneficios si le consiguen su deseada tela. 
+Ribeiro busca algo muy especial para su obra que según ella es clave para su éxito, un gran rollo de tela amarilla con la que hacer los trajes y los decorados para su pieza teatral. Así que les ofrecerá una parte de los beneficios si le consiguen su deseada tela. 
 
 Según el libreto, el protagonista de la obra (un aguerrido capitán de barco) irá descendiendo a la locura mientras busca un tesoro hundido. Según va cayendo, irá viendo más cosas y personajes de amarillo, de ahí la importancia de la tele amarilla para hacer decorados y trajes.
-
-\sp
 
 El problema al que se enfrentarán los personajes es encontrar tinte amarillo en cantidad suficiente para toda la tela que necesita Ribeiro. 
 
 Necesitan unos 10 barriles de tinte amarillo que tendrán que reunir en sus viajes por el Caribe. Estos son lugares donde puede conseguirse tinte:
 
 * **Gremio de tintoreros:** Cualquier ciudad de más de 5.000 habitantes tiene un gremio de tintoreros donde podrán comprar un barril de tinte. Su precio puede variar entre 200 y 400 doblones y no volverán a reponer el tinte hasta dentro de un mes.
+
+\sp
+
 * **Azafrán y cúrcuma:** Con el azafrán y la cúrcuma se puede hacer tinte amarillo, pero puede ser la forma más cara. Si consiguen un par de kilos de azafrán (1.000 doblones) o de cúrcuma (600 doblones) pueden destilar un barril de tinte hirviéndolo en agua.
 * **Achiote:** Esta planta, que puede encontrarse salvaje en la naturaleza o cultivada por los campesinos, era usada en toda América Central y Caribe como colorante textil, cosmético y alimenticio. Cuando lleguen a un pueblo de agricultores hay un 10% de posibilidades de que cultiven Achiote y puedan comprar el suficiente para medio barril de tinte por 150 doblones. También puede que encuentren un campo de achiote salvaje en sus viajes.
 * **Oropimente:** El oropimente se ha usado como tinte amarillo para conseguir un tono dorado muy parecido al oro. De hecho, era usado por alquimistas en su búsqueda de crear oro. Puedes conseguir el mineral de oropimente de las fumarolas de volcanes activos o semi activos.
 * **Ocres:** Las comunidades taínas usan habitualmente tintes ocres (arcillas de silicio con óxido de hierro o similar) para sus representaciones culturales y artísticas. Pueden trocarse por dinero, herramientas o armas. Puede obtenerse medio barril de ocres por unos 200 doblones en objetos de su interés en cada comunidad taína que se visite. En condiciones normales, por su valor cultural, solo intercambiarán los tintes con otros taínos o personas que consideren de su confianza.
-
-\sp
-
 * **Guthrie’s premises:** Siempre se puede ir a mirar que hay en los almacenes de Robert Guthrie en Nasáu. Los tintes no son algo con lo que Guthrie negocio, pero a veces te puede dar una sorpresa con lo que guarda en el fondo de sus almacenes.
 
 #### Los ensayos
 
 Mientras la mesa se dedica a buscar el tinte necesario para la obra, Johanna y su troupe de actores amateurs o semi-profesionales están ensayando la obra en el teatro real de Kingston. Con cada lectura e interpretación del guion, la cordura de los actores y los tramoyistas va cayendo. Primero empezaron con tics o reacciones extrañas, pero poco a poco van perdiendo el sentido de la realidad.
+
+\sp
 
 Además, el que todo sea amarillo no ayuda en nada a su salud mental. Con cada barril de tinte que traigan las rarezas serán más fáciles de ver. A pocos días el estreno gran parte de la compañía ya no salen del teatro más que para conseguir agua y comida, duermen en los camerinos como pueden y sufren terribles pesadillas, hablan entre murmullos y su aspecto cada vez está más demacrado.
 
@@ -1741,13 +1814,15 @@ Ambos grupos quieren a Johanna como su sacerdotisa (ya que es la que tiene el co
 
 Si alguien pasa más de un par de horas entre bambalinas y pasa una tirada de Investigar, verá claramente que algo no está bien en el teatro. Están demacrados, muchas veces no hablan con sentido, murmullan a escondidas y parece que hay como dos grupos que se gritan y discuten entre sí.
 
-\sp
-
 #### Protagonista de reserva
 
 Cuando entreguen el último barril delante de ellos y de Johanna el protagonista de la obra sufre un terrible accidente, le cae un contrapeso encima dejándole bastante grave. Una tirada de Investigar en las tramoyas y podrías asegurar que han sido saboteadas. Ha sido un atentado de la facción de Hastur al cabecilla de la facción de Cthulhu.
 
-Johanna entra en crisis, necesita un galán para su obra, así que desesperada intentará convencer a los PJ para que hagan una audición. Les hablará del gusanillo del teatro, de la inmortalidad, de la fama, de los aplausos, … Usará todo su encanto y carisma. Si eso falla, recurrirá al dinero de su familia ofreciendo 400 doblones por participar en el estreno. Espera que el primer actor esté recuperado para las siguientes funciones.
+Johanna entra en crisis, necesita un galán para su obra, así que desesperada intentará convencer a los PJ para que hagan una audición. Les hablará del gusanillo del teatro, de la inmortalidad, de la fama, de los aplausos, … Usará todo su encanto y carisma. 
+
+\sp
+
+Si eso falla, recurrirá al dinero de su familia ofreciendo 400 doblones por participar en el estreno. Espera que el primer actor esté recuperado para las siguientes funciones.
 
 Los que quieran presentarse a la prueba tendrán un par de horas para prepararse la prueba. No importa quién o cómo sea el que se presente, ya que le pondrá una gran barba postiza, un gran sombrero de capitán y un abrigo largo.
 
@@ -1759,27 +1834,37 @@ Si nadie de tu mesa consigue el papel, no podrán asistir a los ensayos finales.
 
 El que sea elegido para el papel del capitán tendrá que pasar una semana en teatro aprendiéndose sus frases y ensayando la obra. Cada día podrá hacer una tirada de Investigar para descubrir qué está pasando entre bambalinas. Una vez se dé cuenta de las dos facciones enfrentadas, podrá empezar a tirar Mitos para descubrir como la obra teatral está enloqueciendo al elenco de actores y tramoyistas.
 
-\sp
-
 La cuestión es que las ondas mentales de Cthulhu han filtrado la historia de enemistad entre él y su hermanastro Hastur y Johanna lo ha convertido en un drama marino. La _troupe_ teniendo que leer, estudiar y aprenderse de memoria un texto impregnado de la esencia de Cthulhu empezó a enloquecer y la obsesión de Johanna con pintar todo de amarillo no ayuda nada a su salud mental.
 
 Ambos grupos tratarán de atraer al nuevo protagonista. Intentarán seducirle y atraerle a su facción. Para ello le ofrecerán conocimiento prohibido, poder y sexo. En sus manos queda caer o mantenerse fuerte.
 
+\sp
+
+\sinc
+
+![Plano del teatro](./images/nochedelestreno.webp)
+
+Plano del teatro
+
+\conc
+
+\sp
+
 A nivel de juego, ensayar la obra se considera como estudiar el guion de la obra. Así pues, le permitirá subir su habilidad de Mitos y aprender hechizos, pero deberá pasar la TPC del libro como con cualquier otro texto de lis Mitos.
 
-**Esgrima escénica:** Si alguien va a participar en los ensayos y aguanta toda la semana, podrá practicar «Esgrima escénica». Esta habilidad aumentará un nivel su dado de pelea con armas de filo cuando quiera hacer virguerías con ellas. Es decir, un esgrimista escénico con Pelear d8, tendrá un d10 si quiere cortarle con su espada los botones de la casaca de un enemigo o apagar las velas de un candelabro con su estoque.
+> **Esgrima escénica:** Si alguien va a participar en los ensayos y aguanta toda la semana, podrá practicar «Esgrima escénica». Esta habilidad aumentará un nivel su dado de pelea con armas de filo cuando quiera hacer virguerías con ellas. Es decir, un esgrimista escénico con Pelear d8, tendrá un d10 si quiere cortarle con su espada los botones de la casaca de un enemigo o apagar las velas de un candelabro con su estoque.
 
-Esta ventaja no puede usarse para ataques apuntados pensados para hacer daño por muy imposibles que sean. Podría usarse para quitarle con la punta de la espada la llave que lleva un guardia colgada al cuello o para lanzar una manzana y cortarla en 4 trozos en el aire. La idea en general es que sean cosas que dejen al público sin aliento y que cuando salga de su asombro aplauda a raudales.
+> Esta ventaja no puede usarse para ataques apuntados pensados para hacer daño por muy imposibles que sean. Podría usarse para quitarle con la punta de la espada la llave que lleva un guardia colgada al cuello o para lanzar una manzana y cortarla en 4 trozos en el aire. La idea en general es que sean cosas que dejen al público sin aliento y que cuando salga de su asombro aplauda a raudales.
 
 #### Noche de estreno
 
 El teatro está lleno (unas 120 personas) y parece que la gente quiere ver la obra. Los artistas están nerviosos y las dos facciones están a un tris de sucumbir al Caos y la locura. Johanna ha dado entradas gratis al resto de la mesa para que vea la obra desde el palco más cercano al escenario, en el lado derecho del teatro. Luego habrá una fiesta post-estreno, así que no les dejes ir muy armados y protegidos. Deberían ir con sus mejores ropajes y joyas y con algún arma, siempre que sea bonita y elegante.
 
-\sp
-
 La locura se desata cuando el capitán mata a su segundo y el último objeto de color amarillo del escenario, el gorro de capitán que es reversible, pasa a ser amarillo.
 
 Unos 25 artistas armados con armas de verdad y no de atrezo (las han cambiado minutos antes de la escena final) enloquecen y matan por sorpresa a sus enemigos adoradores de Hastur. Al principio el público piensa que es parte de la obra, pero cuando empieza a ver que la sangre no es salsa de tomate intenta huir. Se encuentran que las puertas están cerradas y no puede escapar.
+
+\sp
 
 La facción Cthulhu ha acabado con los de Hastur y ahora piensa sacrificar al público ante su sacerdotisa, Johanna, a la que han atado y dejado en mitad del escenario. Ella les grita que paren, pero saben que es una prueba que les está poniendo su divinidad. Cuando hayan derramado la suficiente sangre, ella podrá invocar a Cthulhu y ellos serán tocados por su divinidad.
 
@@ -1787,9 +1872,9 @@ Tu mesa ha sido encerrada con llave en su palco. Tendrán que derribar una grues
 
 También pueden saltar al telón (1 turno) y descolgarse por él (otro turno) con una tirada de Atletismo en cada paso. Si fallan el salto, tendrán una caída de 8 metros (2d6 + 2 de daño) y si fallan el descenso, tendrán 4 metros de caída (1d6 + 1). Solo puede haber una persona en cada tramo, el resto deberán esperar a que se libere un tramo para pasar a él.
 
-A partir del turno 10, cada nuevo turno, los acólitos sacrificarán una persona delante de Johanna. Al sexto sacrificio la cordura de Johanna se quebrará y de alguna manera una porción de la mente de Cthulhu poseerá su cuerpo. En ese momento empezará a hablar en Cthulhunés y actuar como la sacerdotisa del culto. Les ordenará incendiar el teatro y escapar por la salida trasera del teatro. Deberán desaparecer a la espera de sus órdenes.
+A partir del turno 10, cada nuevo turno, los acólitos sacrificarán una persona delante de Johanna. Al sexto sacrificio la cordura de Johanna se quebrará y de alguna manera una porción de la mente de Cthulhu poseerá su cuerpo.
 
-\sp
+En ese momento empezará a hablar en Cthulhunés y actuar como la sacerdotisa del culto. Les ordenará incendiar el teatro y escapar por la salida trasera del teatro. Deberán desaparecer a la espera de sus órdenes.
 
 #### La fiesta post-estreno
 
@@ -1800,6 +1885,8 @@ Si no consiguen detener la matanza se habrán ganado un enemigo muy peligroso, u
 #### Interprete enloquecido (secuaz)
 
 Son sectarios fanáticos que lucharán hasta la muerte por su sacerdotisa y su dios.
+
+\sp
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Interpretar d6, Pelear d8, Notar d6
@@ -1823,18 +1910,6 @@ El libreto puede ser considerado como un libro de los Mitos más con las siguien
 * **Tiempo de lectura:** Media semana
 * **Características especiales:** La TPC afectará tanto al lector como al espectador que presencie la obra. De hecho, los espectadores sufrirán una TPC d12 en vez del d8 de leer el libreto debido a que la experiencia teatral es más intensa. Ver la obra no se considera estudiar el libro. La experiencia es aterradora, pero no permite analizarla adecuadamente.
 
-\sp
-
-\sinc
-
-![Plano del teatro](./images/nochedelestreno.webp)
-
-Plano del teatro
-
-\conc
-
-\sp
-
 ### El as de picas
 
 **Comienzo:** En cualquier puerto si han cometido actos de piratería o han sido considerados piratas.
@@ -1845,7 +1920,7 @@ Una figura bamboleante en el abrevadero preferido de tu mesa. Parece un viejo ci
 
 El mendigo ciego hace sonar las monedas dentro del pocillo metálico que usa para pedir esperando una propina. La gente empieza a interesarse por el ciego y cuchichea entre ellos. En menos de una semana todo el Caribe sabrán que hay un traidor entre los piratas.
 
-Recibir el as de picas supone un -1 a todas las tiradas sociales con piratas. Muchas personas relacionadas con la piratería se negarán a hacer tratos con los que tengan el as de picas, eso supone comprar botín y vender provisiones. Mejor no fondees en puertos piratas porque puede que termines cubierto de alquitrán y plumas como mínimo.
+> Recibir el as de picas supone un -1 a todas las tiradas sociales con piratas. Muchas personas relacionadas con la piratería se negarán a hacer tratos con los que tengan el as de picas, eso supone comprar botín y vender provisiones. Mejor no fondees en puertos piratas porque puede que termines cubierto de alquitrán y plumas como mínimo.
 
 Si le preguntan sobre quién le ha encargado entregarles el naipe, solo podrá decir que tenía un tono de voz masculino y jugaría que con acento inglés, pero no sabe nada más.
 
@@ -1854,8 +1929,6 @@ El as de picas es la marca del traidor a sus hermanos piratas y solo un pirata l
 #### ¿Qué está pasando?
 
 Tu mesa está empezando a despuntar y a crear problemas importantes a la RCPC y está contraatacando con una campaña de desprestigio muy sencilla. 
-
-\sp
 
 Han pagado a un pobre ciego para que entregue el as de picas en nombre de un pirata famoso y muerto.
 
@@ -1987,7 +2060,7 @@ Deja que ellos decidan y juégalo en consecuencia. Si consiguen salir todos vivo
 
 Si consiguen salvar a Adolfé, es posible despertar todo su poder y convertirlo en une poderose aliade. Pero no será fácil, es una persona tranquila que solo quiere vivir su vida y toda esa violencia a la que tendrá que enfrentarse le repugna.
 
-NOTA: este relato salvaje se empezó a escribir en serio durante el Día del Orgullo de 2023 con un claro objetivo de dar mi apoyo al colectivo LGTBI+ que juega a rol. Espero que os guste a todes y si creéis que he cometido algún error por pequeño que sea estaré encantado de subsanarlo. También estoy abierto a todo tipo de sugerencia o mejora.
+> **Notas:** este relato salvaje se empezó a escribir en serio durante el Día del Orgullo de 2023 con un claro objetivo de dar mi apoyo al colectivo LGTBI+ que juega a rol. Espero que os guste a todes y si creéis que he cometido algún error por pequeño que sea estaré encantado de subsanarlo. También estoy abierto a todo tipo de sugerencia o mejora.
 
 ### Cazadores de huesos
 
@@ -2381,7 +2454,7 @@ Mientras el cacique Corozo entrena a tu mesa en las sutilezas del batú, un grup
 
 Si alguien de tu mesa no va a jugar el partido puedes hacerle trabajar con los peones taínos en el campo. Puede aprovechar a hacer trampas haciendo que uno de los campos este más plano y mejor segado o con piedras más grandes en sus límites, con lo que haya más posibilidades de rebotar. Si lo hace bien puedes darles unos benis para gastar en el partido. También puede vigilar para ver si el equipo contrario no haga trampas. Podrán ver intentos de sabotaje, trampas y sobornos.
 
-Durante la media semana que estén de entrenamiento, deben primero establecer qué puesto quieren entrenar, marrullero, jugador o táctico. Eso les otorgará un nivel extra en las tiradas de Tácticas, Provocar o Atletismo cuando las hagan dentro de un partido de batú. También obtendrán un nivel más de Atletismo cuando lancen el batú. El batú no puede ser usado como arma, pero por su peso es perfecto para lanzarlo y despistar a un vigilante, golpear algo y que caiga o accionar algún tipo de palanca sencilla. Como es de goma pueden intentar tiros muy difíciles que necesiten que rebote contra diferentes superficies.
+> Durante la media semana que estén de entrenamiento, deben primero establecer qué puesto quieren entrenar, marrullero, jugador o táctico. Eso les otorgará un nivel extra en las tiradas de Tácticas, Provocar o Atletismo cuando las hagan dentro de un partido de batú. También obtendrán un nivel más de Atletismo cuando lancen el batú. El batú no puede ser usado como arma, pero por su peso es perfecto para lanzarlo y despistar a un vigilante, golpear algo y que caiga o accionar algún tipo de palanca sencilla. Como es de goma pueden intentar tiros muy difíciles que necesiten que rebote contra diferentes superficies.
 
 #### La previa
 
@@ -2395,13 +2468,15 @@ Si hay algún personaje carismático, déjales dar una charla motivadora antes d
 
 Cuando empiezan a sonar los tambores, la gente se arremolina alrededor del campo y los dos equipos entran en el terreno de juego. Dentro del equipo contrario está el propio cacique Penda, que es, ohhhh sorpresa, un excelente jugador de batú. Durante el partido no va a ocurrir nada especial. Que jueguen el partido siguiendo las reglas descritas a continuación, pudiendo gastar los benis conseguidos en las escenas anteriores.
 
-**Reglamento del batú:** Un partido de batú consta de 5 rondas de combate. Cada ronda tiene una fase de estrategia y otra de juego.
+> **Reglamento del batú:** Un partido de batú consta de 5 rondas de combate. Cada ronda tiene una fase de estrategia y otra de juego.
 
-En la fase de estrategia se podrán escoger los 5 jugadores (3 jugadores, 1 marrullero y 1 táctico) que van a participar en las jugadas de cada ronda siguiendo estas reglas de participación: nadie puede repetir la misma posición más de dos veces seguidas; nadie puede participar en las jugadas más de 3 rondas seguidas debiendo descansar una ronda como mínimo.
+> En la fase de estrategia se podrán escoger los 5 jugadores (3 jugadores, 1 marrullero y 1 táctico) que van a participar en las jugadas de cada ronda siguiendo estas reglas de participación: nadie puede repetir la misma posición más de dos veces seguidas; nadie puede participar en las jugadas más de 3 rondas seguidas debiendo descansar una ronda como mínimo.
 
-En la fase de juego los jugadores tiran Atletismo para pelotear la bola, el marrullero podrá tirar Provocar para distraer al contrario o tirar Atletismo y el táctico podrá tirar Tácticas para manejar a su equipo o Atletismo. Debes sumar los avances de cada equipo y el que más avances saque gana un punto, si empatan ganan los dos. Si alguna de las tiradas de Atletismo falla, el balón cae al suelo y el equipo automáticamente falla la ronda y el contrario gana el punto. Si los dos equipos fallan, ambos ganan un punto.
+> En la fase de juego los jugadores tiran Atletismo para pelotear la bola, el marrullero podrá tirar Provocar para distraer al contrario o tirar Atletismo y el táctico podrá tirar Tácticas para manejar a su equipo o Atletismo. Debes sumar los avances de cada equipo y el que más avances saque gana un punto, si empatan ganan los dos. Si alguna de las tiradas de Atletismo falla, el balón cae al suelo y el equipo automáticamente falla la ronda y el contrario gana el punto. Si los dos equipos fallan, ambos ganan un punto.
 
-Uso de benis: convertir un fallo de Atletismo en un éxito directo, pero sin avances; poder participar en una ronda sin cumplir las reglas de participación.
+> Uso de benis: convertir un fallo de Atletismo en un éxito directo, pero sin avances; poder participar en una ronda sin cumplir las reglas de participación.
+
+> Al final de las 5 rondas gana el que más puntos tenga. En caso de empate, se jugarán rondas extras a «muerte súbita». En el momento que uno de los equipos marque un punto y el otro no gana el encuentro.
 
 \sp
 
@@ -2414,8 +2489,6 @@ Campo de batú
 \conc
 
 \sp
-
-Al final de las 5 rondas gana el que más puntos tenga. En caso de empate, se jugarán rondas extras a «muerte súbita». En el momento que uno de los equipos marque un punto y el otro no gana el encuentro.
 
 Si alguien no participa en el partido, puedes dejarle hacer tiradas de Investigación para detectar la emboscada que tienen preparada sus contrincantes si pierden. También puedes dejarles unas tiradas de Sigilo para prepararse para la trampa, por ejemplo, dejando sin ser visto las armas cerca de su zona de descanso. Si lo hace sin ser detectado, no solo revertirá la sorpresa, sino que será el equipo contrario los sorprendidos al lanzarse al ataque y ver que su enemigo está más que preparado.
 
@@ -2790,19 +2863,17 @@ Pueden convertir este templo en una guarida en mitad de la jungla donde refugiar
 
 Debido a los problemas de radiación es un refugio para estancias cortas, si se prolongasen mucho en el tiempo (más de dos semanas seguidas) deberían tirar por envenenamiento por radiación una vez al día. Aun así, sería el perfecto piso franco donde esconder durante poco tiempo a alguien buscado.
 
-##### Agua irradiada
-
-Puede que a alguien se le ocurra llevarse el agua irradiada para algún bizarro plan de ataque. Transportar este material supone tirar Vigor una vez al día (Radiación de bajo nivel). Beberla obligará a hacer una tirada de Vigor con -4. Si se falla se adquirirá una enfermedad crónica por radiación. 
+> **Agua irradiada:** Puede que a alguien se le ocurra llevarse el agua irradiada para algún bizarro plan de ataque. Transportar este material supone tirar Vigor una vez al día (Radiación de bajo nivel). Beberla obligará a hacer una tirada de Vigor con -4. Si se falla se adquirirá una enfermedad crónica por radiación. 
 
 \sp
 
-Si esta agua es vertida en un lago o en un pozo, contaminará toda la zona y la hará inviable para la vida. Beber el agua del pozo o lago exigirá una tirada de Vigor para no adquirir la enfermedad por radiación.
+> Si esta agua es vertida en un lago o en un pozo, contaminará toda la zona y la hará inviable para la vida. Beber el agua del pozo o lago exigirá una tirada de Vigor para no adquirir la enfermedad por radiación.
 
-Cabe recordar que puede funcionar perfectamente en seres de los Mitos, aunque no los mataría al momento. Sería posible dejar caer el agua contaminada sobre un Shoggoth y envenenarle con radiación. Seguramente en unos días morirá envenenado por radiación. Sacar unas cuantas toneladas métricas de agua y echárselas encima al gran Cthulhu no le mataría, pero podría debilitarlo un poco.
+> Cabe recordar que puede funcionar perfectamente en seres de los Mitos, aunque no los mataría al momento. Sería posible dejar caer el agua contaminada sobre un Shoggoth y envenenarle con radiación. Seguramente en unos días morirá envenenado por radiación. Sacar unas cuantas toneladas métricas de agua y echárselas encima al gran Cthulhu no le mataría, pero podría debilitarlo un poco.
 
-Los hechizos que permiten purificar agua podrían purificar unos toneles de agua contaminada, pero no limpiar todo el desastre ecológico que este laboratorio y su central nuclear supone. La acción de varias personas que practiquen magia de forma permanente podría tener algún tipo de efecto.
+> Los hechizos que permiten purificar agua podrían purificar unos toneles de agua contaminada, pero no limpiar todo el desastre ecológico que este laboratorio y su central nuclear supone. La acción de varias personas que practiquen magia de forma permanente podría tener algún tipo de efecto.
 
-Por último, recuerda que tu mesa son buenas personas y usar material radioactivo es algo que daña seriamente el medioambiente durante décadas o siglos. Sin olvidarnos de las enfermedades y extrañas mutaciones que producen en personas y animales.
+> Por último, recuerda que tu mesa son buenas personas y usar material radioactivo es algo que daña seriamente el medioambiente durante décadas o siglos. Sin olvidarnos de las enfermedades y extrañas mutaciones que producen en personas y animales.
 
 > _**Semilla de partida:** Si montan su refugio en estas instalaciones perdidas, una aventura interesante sería tratar de defenderse de un grupo de serpigentes que quieren recuperarla. O puedes hacer que alguien de tu mesa contraiga alguna extraña enfermedad que había quedado en el laboratorio y tengan que buscar una cura._
 
