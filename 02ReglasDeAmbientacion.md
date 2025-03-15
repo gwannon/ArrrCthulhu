@@ -2178,8 +2178,6 @@ En esta sección encontrarás todo lo necesario para darle un poco de vida a los
 
 \sp
 
-Te proponemos primero un clima aleatorio acorde con el Caribe y luego encuentros aleatorios por mar y por tierra.
-
 \sinc
 
 ![Tiempo atmosférico](./images/flotaplata.webp)
@@ -2187,6 +2185,8 @@ Te proponemos primero un clima aleatorio acorde con el Caribe y luego encuentros
 ### Tiempo atmosférico durante los viajes
 
 \conc
+
+Te proponemos primero un clima aleatorio acorde con el Caribe y luego encuentros aleatorios por mar y por tierra.
 
 El tiempo atmosférico es un elemento muy interesante que le puede dar mucho ambiente a tus partidas. Es por ello que cada vez que los personajes inicien un viaje tanto por mar como por tierra, saca una carta de acción, consulta la siguiente tabla y aplica el resultado (si quieres). Solo hay que hacer una tirada por viaje, no por día. La tabla representa el clima durante todo el viaje. No supone que haya tormenta o niebla todos los días, sino que gran parte del viaje sí hay niebla o tormenta.
 

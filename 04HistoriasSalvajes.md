@@ -1526,6 +1526,8 @@ También pueden participar en tradiciones como andar sobre las brasas o saltar l
 
 > Si durante los festejos se acercan a la mesa de las viandas y las bebidas que han traído las gentes del lugar, podrán ver y aprender el ritual de la Queimada.
 
+\sc
+
 #### Saltando el fuego
 
 El momento álgido de las celebraciones es a la media noche, cuando se enciende la gran hoguera de San Juan. Nada más prenderla y cuando tenga unas grandes llamas de su interior saldrán tantos vampiros de fuego como jugadores que empezarán a sembrar el pánico y quemarlo todo. Tu gente puede combatirlo, lo cual es muy complicado sin la preparación oportuna, ya que son inmunes a los ataques físicos excepto del agua. Es difícil, pero no imposible.
@@ -1882,23 +1884,11 @@ Si consiguen detener al enloquecido elenco de actores, las autoridades se los ll
 
 Si no consiguen detener la matanza se habrán ganado un enemigo muy peligroso, un culto de adoradores de Cthulhu que se la tiene jurada a tu mesa.
 
-#### Interprete enloquecido (secuaz)
-
-Son sectarios fanáticos que lucharán hasta la muerte por su sacerdotisa y su dios.
-
-\sp
-
-* **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
-* **Habilidades:** Interpretar d6, Pelear d8, Notar d6
-* **Paso:** 6; **Parada:** 6; **Dureza:** 6
-* **Ventajas:** Rápido
-* **Capacidades especiales:**
-    * **Machete:** FUE+d6
-    * **Hechizos:** PP 6, Verdadero nombre de Hastur, Luces hipnóticas. Ambos aprendidos del guion de la obra.
-
 #### El libreto de la obra
 
 El libreto puede ser considerado como un libro de los Mitos más con las siguientes características:
+
+\sp
 
 * **Título:** El capitán de amarillo
 * **Autor:** Johanna Ribeiro
@@ -1910,6 +1900,18 @@ El libreto puede ser considerado como un libro de los Mitos más con las siguien
 * **Tiempo de lectura:** Media semana
 * **Características especiales:** La TPC afectará tanto al lector como al espectador que presencie la obra. De hecho, los espectadores sufrirán una TPC d12 en vez del d8 de leer el libreto debido a que la experiencia teatral es más intensa. Ver la obra no se considera estudiar el libro. La experiencia es aterradora, pero no permite analizarla adecuadamente.
 
+#### Interprete enloquecido (secuaz)
+
+Son sectarios fanáticos que lucharán hasta la muerte por su sacerdotisa y su dios.
+
+* **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
+* **Habilidades:** Interpretar d6, Pelear d8, Notar d6
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
+* **Ventajas:** Rápido
+* **Capacidades especiales:**
+    * **Machete:** FUE+d6
+    * **Hechizos:** PP 6, Verdadero nombre de Hastur, Luces hipnóticas. Ambos aprendidos del guion de la obra.
+
 ### El as de picas
 
 **Comienzo:** En cualquier puerto si han cometido actos de piratería o han sido considerados piratas.
@@ -1917,6 +1919,8 @@ El libreto puede ser considerado como un libro de los Mitos más con las siguien
 > Un viejo ciego se acerca a tu mesa y les entrega una carta de la baraja, el as de picas. Han sido marcados como traidores o chivatos. Deberán averiguar quién y por qué les han sentenciado a una muerte casi segura a mano de otros piratas.
 
 Una figura bamboleante en el abrevadero preferido de tu mesa. Parece un viejo ciego que ya han visto antes mendigando por el puerto. Empieza a farfullar los nombres de los PJ cada vez más alto, hasta que alguno responda. Entonces se gira hacia la su mesa y cuando llega deja algo sobre la mesa, un naipe bocabajo. Al girarlo pueden ver que es un as de picas, la marca del traidor, firmado con un nombre Bartholomew Roberts.
+
+\sp
 
 El mendigo ciego hace sonar las monedas dentro del pocillo metálico que usa para pedir esperando una propina. La gente empieza a interesarse por el ciego y cuchichea entre ellos. En menos de una semana todo el Caribe sabrán que hay un traidor entre los piratas.
 
@@ -1940,6 +1944,8 @@ Mientras están limpiando su nombre no le causarán problemas a la RCPC y Ademá
 
 Hay muchas formas de limpiar su nombre. Si consiguen demostrar que todo es falso delante de otro pirata, la noticia correrá por los puertos del Caribe devolviéndoles su buena (o mala) reputación. Veamos algunas opciones:
 
+\sp
+
 **Caligrafía forense:** Si consiguen un documento escrito por Roberts podrán demostrar que la nota esa es falsa. En la Taberna del Alción en Santo Domingo, Bartolo y Antonia puede que tengas algo escrito por Roberts.
 
 **Cuenta conmigo:** Un importante pirata podría darles su voto de confianza. Esto supondría deberle un favor que antes o después querrá cobrar. Podrían recurrir a Mary Read, pero seguro que les lía en alguna aventura loca de las suyas.
@@ -1950,8 +1956,6 @@ Hay muchas formas de limpiar su nombre. Si consiguen demostrar que todo es falso
 
 **Grandes hazañas:** Pueden cambiar su mala reputación y contrarrestarla con algún acto grande, especial y único. Las opciones irán desde montar un plan maestro de saqueo que traiga muchas riquezas a un montón de tripulaciones piratas hasta montar la fiesta (por no decir orgía romana) más sonada de la historia de isla de la Tortuga.
 
-\sp
-
 Las soluciones ingeniosas y espectaculares deberían ser premiadas con unos buenos cuantos benis.
 
 ### Se buscan modelos
@@ -1961,6 +1965,8 @@ Las soluciones ingeniosas y espectaculares deberían ser premiadas con unos buen
 > Un peculiar pintor busca modelos para sus cuadros, el problema es que aparecer en sus cuadros puede ser muy bueno o una auténtica pesadilla.
 
 Con este titular empieza una anuncio en la VLH. Pagado por Adolfé, une artista local, es un anuncio para conseguir modelos para sus cuadros. 200 doblones por 2 sesiones de modelaje. Cada sesión dura una tarde o una mañana. Es dinero fácil para los héroes, pero lo que no saben es que el arte de Adolfé es bastante especial, ya que los modelos sufren las cosas se ven en los cuadros en los que aparecen.
+
+\sp
 
 Adolfé es une serpigente que vive disfrazado entre los humanos trabajando en su arte. Lo que desconoce es que por sus venas corre sangre de grandes señores de Mu y posee un gran poder mágico que se materializa cuando está en pleno frenesí creativo. Ese poder, que Adolfé ignora totalmente, se canaliza en hacer real lo que dibuja en sus cuadros y es por ello que sus modelos sufren o disfrutan de como se les pinta.
 
@@ -1975,6 +1981,8 @@ Puedes rolear el tema del cuadro con preguntas indiscretas de Adolfé o tirar al
 |1d6|Tema|Descripción|
 |---|---|---|
 |1|Apareces rodeado de riquezas, ropas lujosas y muchas joyas.|De alguna manera obtienes 1d8 x 100 doblones de oro. Puede ser una herencia sorpresa, una buena mano de cartas, …|
+|2|Estás al timón de un barco con el pelo al viento, un gran abrigo con galones de capitán o superior y con una pose imponente.|Recibirás algún tipo de ascenso. Puede ser dentro de tu orden, tu barco o de la empresa para la que trabajes.|
+|3|Pareces algún tipo de deidad griega con ropajes clásicos rodeado de alegres seres mitológicos bailando, cantando y tocando música, ánforas de vino y ricos manjares.|De alguna manera se monta alrededor tuyo una fiesta salvaje que dura varios días, desde festejos populares hasta un baile en la casa del gobernador o una extraña bacanal de sectarios.|
 
 \conc
 
@@ -1984,27 +1992,26 @@ Puedes rolear el tema del cuadro con preguntas indiscretas de Adolfé o tirar al
 
 |1d6|Tema|Descripción|
 |---|---|---|
-|2|Estás al timón de un barco con el pelo al viento, un gran abrigo con galones de capitán o superior y con una pose imponente.|Recibirás algún tipo de ascenso. Puede ser dentro de tu orden, tu barco o de la empresa para la que trabajes.|
-|3|Pareces algún tipo de deidad griega con ropajes clásicos rodeado de alegres seres mitológicos bailando, cantando y tocando música, ánforas de vino y ricos manjares.|De alguna manera se monta alrededor tuyo una fiesta salvaje que dura varios días, desde festejos populares hasta un baile en la casa del gobernador o una extraña bacanal de sectarios.|
-|4|Apareces en el espacio montando en un unicornio/pegaso de un blanco inmaculado que deja estelas multicolores en su camino.|De alguna manera vas a tener algún viaje psicodélico, puede ser una cohoba, alguna droga alienígena o algún ritual vudú en que entres en trance debido al alcohol y la música. La cuestión es que entrarás en contacto con una deidad que tendrá que contestarte a una única pregunta.|
-|5|Estás rodeado de oscuridad. En las sombras puedes ver figuras de seres extraños acechándote con relucientes ojos rojos.|Aparecerá un monstruo de los Mitos al azar para acabar con tu vida.|
-|6|Apareces sentado en un sillón con aspecto demacrado y solo con una nota que se está cayendo de tu mano.|Recibirás una muy mala noticia. Alguna muerte de un familiar o amigo, quiebra de algún negocio importante o en general algo muy malo para ti.|
+|4|Apareces sentado en un sillón con aspecto demacrado y solo con una nota que se está cayendo de tu mano.|Recibirás una muy mala noticia. Alguna muerte de un familiar o amigo, quiebra de algún negocio importante o en general algo muy malo para ti.|
+|5|Apareces en el espacio montando en un unicornio/pegaso de un blanco inmaculado que deja estelas multicolores en su camino.|De alguna manera vas a tener algún viaje psicodélico, puede ser una cohoba, alguna droga alienígena o algún ritual vudú en que entres en trance debido al alcohol y la música. La cuestión es que entrarás en contacto con una deidad que tendrá que contestarte a una única pregunta.|
+|6|Estás rodeado de oscuridad. En las sombras puedes ver figuras de seres extraños acechándote con relucientes ojos rojos.|Aparecerá un monstruo de los Mitos al azar para acabar con tu vida.|
+
 
 \conc
-
-\sp
 
 La verdad es que no se sabe muy bien como funcionan los poderes ocultos de Adolfé. Puede que sean proféticos y que pinte lo que va a pasar o realmente toda su esencia mágica haga que ocurra lo que pinta. Pero desde luego, habrá pequeños detalles del cuadro que se cumplirán completamente, por ejemplo, si recibe riquezas, la bolsa donde le entregan el dinero es igual que las del cuadro o alguien se parece increíblemente a un personaje de su cuadro. Todo esto puede llevar a pensar que son más de carácter precognitivos.
 
 Puede que tu mesa sola se dé cuenta de que lo que aparece en el cuadro se hace realidad. Si no, cada vez que se cumpla una profecía después del primer cuadro podrán hacer una tirada de AST con un +1 por cada nuevo cuadro cumplido (1º cuadro sin tirada, 2º cuadro AST, 3º cuadro AST+1, …).
 
-Seguramente estarán lejos de las Bahamas cuando se den cuenta de todo esto. Puede que vaya directamente o esperen a un momento mejor. Sea como sea, al volver a Bahamas, Adolfé estará encarcelade en la cárcel local de Nasáu acusado de brujería. Si ves que no tienen prisa en volver a Bahamas puede que les lleguen rumores de que Adolfé se enfrenta a un juicio por brujería o puede que lo lean en el VLH.
+Seguramente estarán lejos de las Bahamas cuando se den cuenta de todo esto. Puede que vaya directamente o esperen a un momento mejor. 
+
+\sp
+
+Sea como sea, al volver a Bahamas, Adolfé estará encarcelade en la cárcel local de Nasáu acusado de brujería. Si ves que no tienen prisa en volver a Bahamas puede que les lleguen rumores de que Adolfé se enfrenta a un juicio por brujería o puede que lo lean en el VLH.
 
 Los paletos locales han empezado a darse cuenta de lo que pasa con los cuadros y temen los poderes de Adolfé. Es por ello que está encerrade en la cárcel local con protecciones de agua bendita y crucifijos (cosas que creen que funcionan como protección que no tienen ningún poder real). Los guardias no han sido muy bruscos, ya que temen sus poderes mágicos, pero esto no durará mucho. Les dejarán hablar sin problema con Adolfé pero siempre vigilados por algún guardia.
 
 Adolfé no entiende nada, elle solo quiere llevarse bien con todo el mundo y pintar sus cuadros. No ha hecho mal a nadie conscientemente y no sabe como controlar sus poderes, son cosas que pasan sin más. Está nerviose y asustade y su disfraz falla a veces. Así que durante la entrevista podrán hacer tiradas de Notar contra su hechizo de disfraz para detectar que es une serpigente. Si tratan de tranquilizar a Adolfé y se muestran amistosos, incluso podría confesarles su verdadera naturaleza. Si le presionan puede que salga parte del Adolfé despertado y agresivo durante unos turnos, desplegando toda su rabia.
-
-\sp
 
 Con toda la información recogida, tu mesa puede decidir si ayuda a Adolfé a le abandona a su suerte.
 
@@ -2013,14 +2020,6 @@ Con toda la información recogida, tu mesa puede decidir si ayuda a Adolfé a le
 #### El juicio de Adolfé
 
 Nadie quiere representar a Adolfé, así que si saben leer y escribir podrán presentarse como abogados defensores. Ganar el juicio es muy complicado, ya que hay bastantes testigos que declararán que los cuadros se han hecho realidad y, por tanto, es un brujo. La mayoría del jurado quiere que sea culpable y los que no tienen miedo de llevar la contraria. Déjales rolear un careo con el fiscal y el alegato final y si lo hace muy muy bien puede que lo liberen.
-
-Si pierde el juicio, cuando reciba el veredicto de culpabilidad y la sentencia de morir quemado, la ira le embargará perdiendo el control y pudiéndose hacer una tirada de Notar para detectar el disfraz de humano. Si el público descubre la realidad, pasarán directamente a quemarlo sin tenerle unos días en prisión.
-
-Si ganan el juicio, Adolfé les pedirá unirse a su tripulación por lo menos hasta que encuentre otro puerto en que no le conozcan y pueda empezar de nuevo.
-
-#### Si todo falla, huye
-
-Si el juicio va mal, todavía pueden intentar ayudar a Adolfé a fugarse de la cárcel. La celda de Adolfé se encuentra en los juzgados. Tiene una zona con varias celdas. Aparte del juzgado hay habitaciones para los guardas, salas donde se hacen gestiones burocráticas y donde los abogados se reúnen con sus defendidos. Las celdas son solos barrotes con una puerta con cerradura contra paredes sin ventanas. Los guardas ven en todo momento a los presos, así que su capacidad de hacer algún tipo de truco son escasas. La guardia en las celdas es de dos guardias por cada 8 horas, y de otros 3 guardias moviéndose por el juzgado o controlando la entrada. De día puede haber más gente entre locales y fuerzas del orden que están de visita o haciendo gestiones. Hay otros 2 reclusos en la otra celda por robo y otro el borracho local durmiendo la mona.
 
 \sp
 
@@ -2034,11 +2033,21 @@ Juzgados de Nueva Providencia
 
 \sp
 
+Si pierde el juicio, cuando reciba el veredicto de culpabilidad y la sentencia de morir quemado, la ira le embargará perdiendo el control y pudiéndose hacer una tirada de Notar para detectar el disfraz de humano. Si el público descubre la realidad, pasarán directamente a quemarlo sin tenerle unos días en prisión.
+
+Si ganan el juicio, Adolfé les pedirá unirse a su tripulación por lo menos hasta que encuentre otro puerto en que no le conozcan y pueda empezar de nuevo.
+
+#### Si todo falla, huye
+
+Si el juicio va mal, todavía pueden intentar ayudar a Adolfé a fugarse de la cárcel. La celda de Adolfé se encuentra en los juzgados. Tiene una zona con varias celdas. Aparte del juzgado hay habitaciones para los guardas, salas donde se hacen gestiones burocráticas y donde los abogados se reúnen con sus defendidos. Las celdas son solos barrotes con una puerta con cerradura contra paredes sin ventanas. Los guardas ven en todo momento a los presos, así que su capacidad de hacer algún tipo de truco son escasas. La guardia en las celdas es de dos guardias por cada 8 horas, y de otros 3 guardias moviéndose por el juzgado o controlando la entrada. De día puede haber más gente entre locales y fuerzas del orden que están de visita o haciendo gestiones. Hay otros 2 reclusos en la otra celda por robo y otro el borracho local durmiendo la mona.
+
 Déjales a su libre albedrío a la hora de ejecutar su plan de fuga. Pero ten en cuenta que si van a hablar con Adolfé, los guardas registran todo lo que llevan concienzudamente y estarán con la oreja puesta con lo que hablen. También han de saber que tienen 3 días y 3 noches para ejecutar su plan. En la mañana del 4º día será ejecutado a no ser que haya alguna catástrofe.
 
 #### A fuego lento
 
 Tanto si tu gente abandona a Adolfé a suerte como si no triunfan en ninguna de las situaciones anteriores, Adolfé acaba atado a un poste rodeado de leña seca en la plaza principal de Nasáu. El juez leerá la sentencia con una antorcha en la mano y cuando termine penderá la pirata entre aplausos del público.
+
+\sp
 
 Creo que es especialmente interesante ir tirando el daño de fuego para añadirle dramatismo a la escena y ver las reacciones de tus jugadores y sus intentos por hacer algo. Óbvialo si no crees que sea bueno para tu mesa. Por cada herida por fuego que reciba su hechizo de disfraz se irá debilitando obteniendo todos los presentes un +1 a su tirada Notar para darse cuenta de la ilusión.
 
@@ -2052,13 +2061,14 @@ En este momento hay 3 opciones muy claras:
 
 Deja que ellos decidan y juégalo en consecuencia. Si consiguen salir todos vivos de la ciudad, Adolfé volverá a su ser normal y huirá con ellos en busca de un nuevo sitio tranquilo donde vivir.
 
-\sp
 
 > _**Recompensa extra de cordura (+1):** Si consiguen que Adolfé salga vivo y que haya las mínimas bajas, deberías recompensarles con un punto de cordura. Si fallan en salvarle, puedes recompensarles también por haber hecho todo lo imposible por protegerle, cuidarle y hacerle saber antes de morir que le importaba a alguien y que su vida era digna de vivirla. Si deciden dejarle a su suerte, es solo un consejo, igual deberías dejar de jugar con tu mesa actual._
 
 #### Despertar a Adolfé
 
 Si consiguen salvar a Adolfé, es posible despertar todo su poder y convertirlo en une poderose aliade. Pero no será fácil, es una persona tranquila que solo quiere vivir su vida y toda esa violencia a la que tendrá que enfrentarse le repugna.
+
+\sp
 
 > **Notas:** este relato salvaje se empezó a escribir en serio durante el Día del Orgullo de 2023 con un claro objetivo de dar mi apoyo al colectivo LGTBI+ que juega a rol. Espero que os guste a todes y si creéis que he cometido algún error por pequeño que sea estaré encantado de subsanarlo. También estoy abierto a todo tipo de sugerencia o mejora.
 
@@ -2071,6 +2081,12 @@ Si consiguen salvar a Adolfé, es posible despertar todo su poder y convertirlo 
 George Jansen de la recién creada universidad de Miskatonic, ha venido desde los Estados Unidos en busca de fósiles de animales prehistóricos. Es profesor de Historia Natural y está buscando el nexo de unión entre las especies actuales y especies extintas. Está pagando a los aldeanos de los pueblos colindantes a San Juan por huesos que cree que pudieron pertenecer a elefantes, osos y felinos gigantes, rinocerontes, etc. especies todas ellas desconocidas en estas latitudes. 
 
 Con el estudio de estos esqueletos trata de cubrir los huecos que quedan vacíos en su nuevo libro de historia natural. Este libro cree que será una revolución en la forma en la que vemos como fue la vida en la tierra hace miles o millones de años.
+
+\sinc
+
+![Esqueleto tiranosaurio](./images/museum_dinosaur_2427.jpg)
+
+\conc
 
 \sp
 
@@ -2198,7 +2214,9 @@ Es a tu elección que la RCPC encuentre el piso franco y trate de asaltarlo, tie
 
 El ingenio temporal es una especie de arco circular de madera y metal. El borde interior está lleno de cristales azules de laimar y en la parte superior en un soporte metálico están colocadas las lentes concentrando la luz solar y luego difuminándola por el cristal mercurizado.
 
-Al abrir una claraboya, la luz del mediodía incide en las lentes y se difumina sobre el cristal hasta volverse transparente. El laminar empezará a brillar en tonos azulados y el cristal parecerá desaparecer. Lo increíble es que al otro largo del círculo no se ven las paredes de la habitación, sino una selva prehistórica. Balua’k gritará Eureka emocionado (será la primera vez que le vean así). Balua’k se despedirá y dará un paquete a una persona de tu mesa.
+Al abrir una claraboya, la luz del mediodía incide en las lentes y se difumina sobre el cristal hasta volverse transparente. El laminar empezará a brillar en tonos azulados y el cristal parecerá desaparecer.
+
+Lo increíble es que al otro largo del círculo no se ven las paredes de la habitación, sino una selva prehistórica. Balua’k gritará Eureka emocionado (será la primera vez que le vean así). Balua’k se despedirá y dará un paquete a una persona de tu mesa.
 
 Cuando cruza el umbral se gira y sonríe y de repente todo empieza sobrecalentarse, los cristales de laminar se funden y en el cristal aparecen fisuras. Se empiezan a ver imágenes de cosas increíbles de diferentes épocas y dimensiones. Tira en la Tabla de TPC para libros por cada persona de tu mesa. 
 
@@ -2208,9 +2226,11 @@ Y de repente todo se para, el cristal se raja completamente y la luz deja de inc
 
 #### Sabuesos
 
-Parece que todo ha salido bien, pero lo que no saben es que 3 Sabuesos de Tíndalos están acercándose a través del tiempo. Los sabuesos de Tíndalos han rastreado el ingenio de Balua’k y sus energías temporales y no van a permitir que se repita. Tienen intención de matar a todos los testigos y destruir el invento de Balua’k.
+Parece que todo ha salido bien, pero lo que no saben es que 3 Sabuesos de Tíndalos están acercándose a través del tiempo. 
 
 \sp
+
+Los sabuesos de Tíndalos han rastreado el ingenio de Balua’k y sus energías temporales y no van a permitir que se repita. Tienen intención de matar a todos los testigos y destruir el invento de Balua’k.
 
 La batalla será a muerte, los sabuesos ni se rinden ni huyen, solo puede quedar un bando vivo. Es importante que sepan que esto volverá a pasar si activan el ingenio.
 
@@ -2230,7 +2250,7 @@ Por último, no creo que quieran decirle la verdad a Jansen así que si quieren 
 
 Anya Corbitt ha tenido que volver desde Boston para solucionar un problema con los actuales inquilinos de la casa familiar en Port Royal, la mansión Corbitt. Los inquilinos han huido de la casa diciendo que hay una presencia maligna en la casa que ha intentado matarlos. El padre de la familia ha sufrido un extraño y grave accidente y los niños y el servicio dicen que las paredes susurran maldiciones, que se podían oír por las noches ruidos inhumanos y notarse presencias malignas.
 
-Anya no puede volver a su tranquilo Boston hasta que no se deshaga de la casa vendiéndola o encuentre nuevos inquilinos. Necesita el dinero que le renta la mansión para vivir desahogadamente en los Estados Unidos. Es por ello que ofrece 200 doblones al que pase una noche en la casa y la exorcice.
+Anya no puede volver a su tranquilo Boston hasta que no se deshaga de la casa vendiéndola o encuentre nuevos inquilinos. 
 
 \sp
 
@@ -2240,15 +2260,19 @@ Anya no puede volver a su tranquilo Boston hasta que no se deshaga de la casa ve
 
 \conc
 
+Necesita el dinero que le renta la mansión para vivir desahogadamente en los Estados Unidos. Es por ello que ofrece 200 doblones al que pase una noche en la casa y la exorcice.
+
 Anya está alojada en una modesta posada de Port Royal, ya que ella tampoco se atreve a ocupar la casa familiar. La historias de fantasmas y apariciones han rondado la mansión Corbitt desde su construcción. Ella ha visto cosas en esa casa que con los años ha ido olvidando, pero que su subconsciente de vez en cuando le recuerda en forma de pesadillas nocturnas.
 
 La mansión Corbitt es la típica casa señorial de dos pisos con un poco de terreno alrededor y un muro que aleja las miradas de los curiosos. Estaba situada en la parte más rica de la ciudad que ahora mismo está en decadencia. Fue construida por ricos comerciantes españoles y todavía hay partes de la arquitectura típicamente española. Fue una de las pocas casas del barrio que sobrevivió al terremoto de 1692 y al ataque de los piratas de 1703.
 
 #### Historia de la familia Corbitt
 
-Esto es lo que Anya puede contarles de la historia de su familia y la mansión. Los Corbitt son una familia burguesa de origen irlandés que abandono la isla esmeralda para hacer fortuna en el nuevo mundo. Cuando llegaron a Jamaica se dedicaron a plantaciones de caña de azúcar y cuando amasaron una fortuna compraron la mansión Domingo y le cambiaron el nombre por Corbitt.
+Esto es lo que Anya puede contarles de la historia de su familia y la mansión. Los Corbitt son una familia burguesa de origen irlandés que abandono la isla esmeralda para hacer fortuna en el nuevo mundo.
 
 \sp
+
+Cuando llegaron a Jamaica se dedicaron a plantaciones de caña de azúcar y cuando amasaron una fortuna compraron la mansión Domingo y le cambiaron el nombre por Corbitt.
 
 Cuando el huraño Walter Corbitt heredó la casa, todo empezó a torcerse. Se enemistó con los vecinos por sus excéntricos comportamientos, incluso hubo acusaciones de brujería. Cuando Walter murió, su sobrino, el padre de Anya, intento alquilar o vender la casa, pero no lo consiguió y como su economía era buena no se preocupó. Dejo la casa medio abandonada, ya que se había trasladado a la próspera nueva capital de Jamaica, Kingston.
 
@@ -2264,9 +2288,9 @@ Lo más curioso es que el albacea testamentario de Walter Corbitt que se encarg�
 
 **Preguntando a los vecinos:** Los rumores que corren entre los vecinos son que la presencia maligna que deambula por la casa es el fantasma de Walter Corbitt. Atestiguan que cuando la casa está vacía se ven luces y se oyen ruidos. Los vecinos más viejos recordarán las peleas con el huraño de Walter Corbitt y que solía frecuentar la infame capilla de la Contemplación.
 
-**Preguntando a las autoridades:** La guardia de la ciudad conoce de sobra las historias de la mansión Corbitt y ha llegado a obviar las denuncias de sus inquilinos. Si se dedican a repartir dinero o ron para soltar la lengua a los guardas, un viejo guarda borrachín les contará la historia de la masacre de la Capilla de la Contemplación.
-
 \sp
+
+**Preguntando a las autoridades:** La guardia de la ciudad conoce de sobra las historias de la mansión Corbitt y ha llegado a obviar las denuncias de sus inquilinos. Si se dedican a repartir dinero o ron para soltar la lengua a los guardas, un viejo guarda borrachín les contará la historia de la masacre de la Capilla de la Contemplación.
 
 #### La masacre de la Capilla de la Contemplación
 
@@ -2284,9 +2308,11 @@ Si revisan el libro sagrado de la Capilla de la Contemplación que hay en un gra
 
 Hay unos archivos con toda la actividad del culto, una parte oficial y otra no oficial. La oficial registraba las cuentas del culto, los gastos, los ingresos, … Puede hacer un listado de feligreses con todos esos datos.
 
-Revisando el resto de papeles verán que en realidad la Capilla de la Contemplación solo era una tapadera legal de la Orden del Gran Cthulhu. Sus integrantes estaban repartidos por toda la ciudad y se dedicaban a sembrar el mal por ella.
+Revisando el resto de papeles verán que en realidad la Capilla de la Contemplación solo era una tapadera legal de la Orden del Gran Cthulhu. 
 
 \sp
+
+Sus integrantes estaban repartidos por toda la ciudad y se dedicaban a sembrar el mal por ella.
 
 Tenemos fichas de personajes importantes de Port Royal como capitanes piratas o políticos importantes o ricos comerciantes. Hay registros de vigilancias del puerto y correspondencia variada con la RCPC avisando de las actividades de los piratas de Port Royal. 
 
@@ -2297,8 +2323,6 @@ Con una tirada de investigación verán que Walter Corbitt, según su deseo, fue
 Lo peor es un libro con diferentes rituales con sacrificios humanos. Parece que muchos de los secuestros y asesinatos de los que se acusó a integrantes de la capilla son ciertos.
 
 El libro sagrado de la Capilla de la Contemplación debe ser considerado un libro de los Mitos con las siguientes características.
-
-\sc
 
 * **Título:** El libro de la Contemplación
 * **Autor:** Michael Thomas
@@ -2462,24 +2486,6 @@ Los espías del equipo contrario han hablado maravillas de los nuevos jugadores 
 
 \sp
 
-Si hay algún personaje carismático, déjales dar una charla motivadora antes del partido. Si lo hace especialmente bien, puedes darles unos benis para que puedan utilizarlos durante el partido. Otras opciones pueden ser desde un cántico para el partido (como Nok su kao) hasta himnos (como You’ll Never Walk Alone). Igual a alguno se le ocurre inventar la ola, déjales ser un poco ucrónicos. Seguro que es una anécdota que contaran durante mucho tiempo «Te acuerdas cuando inventamos la ola en el partido ese raro …».
-
-#### El partido
-
-Cuando empiezan a sonar los tambores, la gente se arremolina alrededor del campo y los dos equipos entran en el terreno de juego. Dentro del equipo contrario está el propio cacique Penda, que es, ohhhh sorpresa, un excelente jugador de batú. Durante el partido no va a ocurrir nada especial. Que jueguen el partido siguiendo las reglas descritas a continuación, pudiendo gastar los benis conseguidos en las escenas anteriores.
-
-> **Reglamento del batú:** Un partido de batú consta de 5 rondas de combate. Cada ronda tiene una fase de estrategia y otra de juego.
-
-> En la fase de estrategia se podrán escoger los 5 jugadores (3 jugadores, 1 marrullero y 1 táctico) que van a participar en las jugadas de cada ronda siguiendo estas reglas de participación: nadie puede repetir la misma posición más de dos veces seguidas; nadie puede participar en las jugadas más de 3 rondas seguidas debiendo descansar una ronda como mínimo.
-
-> En la fase de juego los jugadores tiran Atletismo para pelotear la bola, el marrullero podrá tirar Provocar para distraer al contrario o tirar Atletismo y el táctico podrá tirar Tácticas para manejar a su equipo o Atletismo. Debes sumar los avances de cada equipo y el que más avances saque gana un punto, si empatan ganan los dos. Si alguna de las tiradas de Atletismo falla, el balón cae al suelo y el equipo automáticamente falla la ronda y el contrario gana el punto. Si los dos equipos fallan, ambos ganan un punto.
-
-> Uso de benis: convertir un fallo de Atletismo en un éxito directo, pero sin avances; poder participar en una ronda sin cumplir las reglas de participación.
-
-> Al final de las 5 rondas gana el que más puntos tenga. En caso de empate, se jugarán rondas extras a «muerte súbita». En el momento que uno de los equipos marque un punto y el otro no gana el encuentro.
-
-\sp
-
 \sinc
 
 ![Campo de batú](./images/batu.webp)
@@ -2489,6 +2495,28 @@ Campo de batú
 \conc
 
 \sp
+
+Si hay algún personaje carismático, déjales dar una charla motivadora antes del partido. Si lo hace especialmente bien, puedes darles unos benis para que puedan utilizarlos durante el partido.
+
+Otras opciones pueden ser desde un cántico para el partido (como Nok su kao) hasta himnos (como You’ll Never Walk Alone). Igual a alguno se le ocurre inventar la ola, déjales ser un poco ucrónicos. Seguro que es una anécdota que contaran durante mucho tiempo «Te acuerdas cuando inventamos la ola en el partido ese raro …».
+
+#### El partido
+
+Cuando empiezan a sonar los tambores, la gente se arremolina alrededor del campo y los dos equipos entran en el terreno de juego. Dentro del equipo contrario está el propio cacique Penda, que es, ohhhh sorpresa, un excelente jugador de batú.
+
+Durante el partido no va a ocurrir nada especial. Que jueguen el partido siguiendo las reglas descritas a continuación, pudiendo gastar los benis conseguidos en las escenas anteriores.
+
+> **Reglamento del batú:** Un partido de batú consta de 5 rondas de combate. Cada ronda tiene una fase de estrategia y otra de juego.
+
+> En la fase de estrategia se podrán escoger los 5 jugadores (3 jugadores, 1 marrullero y 1 táctico) que van a participar en las jugadas de cada ronda siguiendo estas reglas de participación: nadie puede repetir la misma posición más de dos veces seguidas; nadie puede participar en las jugadas más de 3 rondas seguidas debiendo descansar una ronda como mínimo.
+
+> En la fase de juego los jugadores tiran Atletismo para pelotear la bola, el marrullero podrá tirar Provocar para distraer al contrario o tirar Atletismo y el táctico podrá tirar Tácticas para manejar a su equipo o Atletismo. Debes sumar los avances de cada equipo y el que más avances saque gana un punto, si empatan ganan los dos. Si alguna de las tiradas de Atletismo falla, el balón cae al suelo y el equipo automáticamente falla la ronda y el contrario gana el punto. Si los dos equipos fallan, ambos ganan un punto.
+
+\sp
+
+> Uso de benis: convertir un fallo de Atletismo en un éxito directo, pero sin avances; poder participar en una ronda sin cumplir las reglas de participación.
+
+> Al final de las 5 rondas gana el que más puntos tenga. En caso de empate, se jugarán rondas extras a «muerte súbita». En el momento que uno de los equipos marque un punto y el otro no gana el encuentro.
 
 Si alguien no participa en el partido, puedes dejarle hacer tiradas de Investigación para detectar la emboscada que tienen preparada sus contrincantes si pierden. También puedes dejarles unas tiradas de Sigilo para prepararse para la trampa, por ejemplo, dejando sin ser visto las armas cerca de su zona de descanso. Si lo hace sin ser detectado, no solo revertirá la sorpresa, sino que será el equipo contrario los sorprendidos al lanzarse al ataque y ver que su enemigo está más que preparado.
 
@@ -2507,9 +2535,11 @@ Los dioses han elegido de quién es el terreno, pero Penda tiene otra idea sobre
 
 #### El tercer tiempo
 
-Esta historia se convertirá en una leyenda del batú y tu mesa conseguirá un +1 en todas las tiradas sociales relacionadas con fans del batú. Les invitarán a beber y contar su historia en las hogueras de las comunidades taínas. Los niños les pedirán que jueguen con ellos y que pongan su marca en sus pelotas de batú.
+Esta historia se convertirá en una leyenda del batú y tu mesa conseguirá un +1 en todas las tiradas sociales relacionadas con fans del batú. 
 
 \sp
+
+Les invitarán a beber y contar su historia en las hogueras de las comunidades taínas. Los niños les pedirán que jueguen con ellos y que pongan su marca en sus pelotas de batú.
 
 > _**Recompensa extra de cordura (+1):** Como en toda película de «underdogs» si, además, de ganar, son buenos ganadores y consiguen que también el equipo contrario sean mejores personas, por ejemplo usando daño no letal, recompénsales con un punto de cordura que les otorga tener una autoestima sana._
 
@@ -2527,7 +2557,7 @@ A un joyero, amigo de la familia, intentaron venderle uno de los lingotes, lo co
 
 Todo esto podrán averiguarlo aurora y Flora y de los archivos municipales o preguntando a la gente del puerto. Fue un evento muy sonado y todavía se comenta toda la historia en las barras de las tabernas del puerto.
 
-La flota salió de La Habana con destino a España comandada por Juan Esteban de Ubilla con excelente tiempo. Hasta que inesperadamente un huracán arraso la flota cuando estaba frente a la costa de Florida. Murieron unas 1000 personas y se perdieron casi todos los navíos y toneladas y toneladas de plata.
+La flota salió de La Habana con destino a España comandada por Juan Esteban de Ubilla con excelente tiempo. Hasta que inesperadamente un huracán arraso la flota cuando estaba frente a la costa de Florida. 
 
 \sp
 
@@ -2539,7 +2569,7 @@ La flota salió de La Habana con destino a España comandada por Juan Esteban de
 
 \conc
 
-La poca plata que se consiguió rescatar fue llevada a España. Desde entonces ha habido buscadores de tesoros en la costa de Florida buscando restos de la plata en las playas cuando hay temporales, huracanes y mareas vivas. Pero nunca con mucha fortuna.
+Murieron unas 1000 personas y se perdieron casi todos los navíos y toneladas y toneladas de plata, la poca plata que se consiguió rescatar fue llevada a España. Desde entonces ha habido buscadores de tesoros en la costa de Florida buscando restos de la plata en las playas cuando hay temporales, huracanes y mareas vivas. Pero nunca con mucha fortuna.
 
 #### Qué paso realmente
 
@@ -2648,9 +2678,11 @@ Otra opción que puede darle muchos problemas a la RCPC es hacer correr el rumor
 
 **Comienzo:** Los cayos de la Florida
 
-> La Orden del Gran Cthulhu está estudiando un huevo de chthoniano en unas instalaciones en un pequeño islote cerca de Cayo Hueso. El problema es que los padres del huevo y sus familiares están buscándolo y puede que si le pasa algo al huevo hundan la isla en el océano junto con sus habitantes.
+> La Orden del Gran Cthulhu está estudiando un huevo de chthoniano en unas instalaciones en un pequeño islote cerca de Cayo Hueso. 
 
 \sp
+
+> El problema es que los padres del huevo y sus familiares están buscándolo y puede que si le pasa algo al huevo hundan la isla en el océano junto con sus habitantes.
 
 Mientras los héroes navegan un día claro, una extraña ola solitaria de tamaño descomunal aparece de la nada, haciendo casi zozobrar al su barco y dañándolo bastante. Desde que el vigía grite «¡Olaaaa!», hasta que les impacte déjales 5 turnos para prepararse. Pueden asegurar la carga y la tripulación, maniobrar a favor de la ola, intentar pararla o esquivar (cosa imposible), etc.
 
@@ -2666,9 +2698,11 @@ Una vez organicen las reparaciones podrán bajar a tierra a conseguir comida y a
 
 Nada más poner pie en tierra, un temblor de gran poder sacudirá la tierra, las palmeras de la playa temblarán y los cocos caerán. Los temblores no deberían serles extraños, pero nunca son buena señal. Una tirada de Ciencias podría darles a entender que la ola gigante y los temblores están relacionados. De hecho, la gran ola podría haber provenido de cerca de la isla.
 
-El poblado taíno es bastante normal, unas 25 /30 personas con sus casas redondas de materiales vegetales, huertos y cultivos cercanos y cercos con animales de granja. Parecen bastante huidizos y cuando os acercáis se esconden en sus casas. El cacique con un grupo de nitaínos les gritarán y les harán gestos de que se vayan. No son bienvenidos. Ni mostrando dinero o cosas para intercambiar o dejando regalos en el suelo querrán hablar.
+El poblado taíno es bastante normal, unas 25 /30 personas con sus casas redondas de materiales vegetales, huertos y cultivos cercanos y cercos con animales de granja. Parecen bastante huidizos y cuando os acercáis se esconden en sus casas.
 
 \sp
+
+El cacique con un grupo de nitaínos les gritarán y les harán gestos de que se vayan. No son bienvenidos. Ni mostrando dinero o cosas para intercambiar o dejando regalos en el suelo querrán hablar.
 
 El edificio religioso de piedra pertenece a un grupo de monjes (8 en concreto) que viven como ermitaños y tiene voto de silencio. Parecen bastante esquivos y extraños y solo se les ve a través de la rejilla en la puerta, pero claro, los ascetas son así.
 
@@ -2766,7 +2800,11 @@ Si consiguen, los cuadernos con la investigación no solo mermarán la capacidad
 * **Hechizos:** Se describen los hechizos de barrera y desvío hechos permanentes para proteger los edificios: Muro de Yog-Sapha, Invocar los apéndices de Dygra, Vibración dimensional y Vibración temporal
 * **Tiempo de lectura:** 1 semana
 
+&nbsp;
+
 > _**Recompensa extra de cordura (+1):** Preocuparse y salvar a las víctimas colaterales debería ser una prioridad. Si ponen en peligro su vida para proteger a los taínos o desechan planes más fáciles que pondrían a los taínos en peligro por otros más difíciles y mortales deberías recompensarles con un punto de cordura._
+
+\sc
 
 ### El templo perdido
 
@@ -2776,9 +2814,9 @@ Si consiguen, los cuadernos con la investigación no solo mermarán la capacidad
 
 Las ruinas que han encontrado son un antiquísimo puesto avanzado de investigación de la serpigente donde hacían experimentos genéticos para mejorar a sus esclavos humanos y hacerlos más dóciles. Explorar este templo puede ser muy peligroso, pero puede haber una gran recompensa si saben donde buscar.
 
-Cubierta de mucha vegetación se ve una especie de cabeza de serpiente o reptil gigantesca cuya boca es una entrada a unas instalaciones subterráneas. Después de desbrozar toda la maleza, hay una gran puerta de piedra circular dentro de sus fauces. Parece que se desliza a un lado, pero el tiempo la ha atascado. Con picos y palas pueden moverla con una hora de trabajo, pero pueden recurrir a la pólvora o a magia para abrirla.
+Cubierta de mucha vegetación se ve una especie de cabeza de serpiente o reptil gigantesca cuya boca es una entrada a unas instalaciones subterráneas.
 
-Alrededor de la entrada no encontrarán nada significativo, quizás alguna pieza de metal o cerámica que proceda del interior del templo. Una tirada de Ciencias y Supervivencia le dirá a tu mesa que las plantas de alrededor del templo tienen cambios extraños como hojas de formas raras, flores extrañas o frutos nunca vistos. 
+Después de desbrozar toda la maleza, hay una gran puerta de piedra circular dentro de sus fauces. Parece que se desliza a un lado, pero el tiempo la ha atascado. Con picos y palas pueden moverla con una hora de trabajo, pero pueden recurrir a la pólvora o a magia para abrirla.
 
 \sp
 
@@ -2788,19 +2826,25 @@ Alrededor de la entrada no encontrarán nada significativo, quizás alguna pieza
 
 \conc
 
+Alrededor de la entrada no encontrarán nada significativo, quizás alguna pieza de metal o cerámica que proceda del interior del templo. Una tirada de Ciencias y Supervivencia le dirá a tu mesa que las plantas de alrededor del templo tienen cambios extraños como hojas de formas raras, flores extrañas o frutos nunca vistos. 
+
 De hecho, todas las habitaciones estarán llenas de raíces de árbol que han crecido desmesuradamente rompiendo sus muros. Si no tienen fuente de luz, puedes hacer que las raíces emitan una fosforescencia verde que les ilumine. Todo esto es debido a la radiación latente que hay en la zona.
 
-Por todo el templo hay inscripciones en la piedra que si alguien conoce Naacal podrá traducir. Serían las típicas inscripciones de un laboratorio, como indicaciones del nombre de la sala, advertencias de seguridad o indicaciones de como moverse. Con una tirada de Mitos se podrá identificar el idioma Naacal, pero no se podrá traducir los textos. Muchas de las inscripciones son especialmente técnicas y exigirán tiradas de Ciencias o de Reparar para entender a qué se refieren.
+Por todo el templo hay inscripciones en la piedra que si alguien conoce Naacal podrá traducir. Serían las típicas inscripciones de un laboratorio, como indicaciones del nombre de la sala, advertencias de seguridad o indicaciones de como moverse.
+
+Con una tirada de Mitos se podrá identificar el idioma Naacal, pero no se podrá traducir los textos. Muchas de las inscripciones son especialmente técnicas y exigirán tiradas de Ciencias o de Reparar para entender a qué se refieren.
+
+\sp
 
 #### Habitaciones de las instalaciones subterráneas:
 
 **1\. Entrada:** La puerta de las fauces da a unas escaleras que terminan en un largo pasillo. El pasillo tiene una trampa de caída desactivada (pensada para la fauna que pudiera entrar), pero que deja un hueco de unos 4 metros de largo y 8 de caída sobre montones cascotes. Con ayuda de cuerdas y palos podrían montar un puente temporal. 
 
-\sp
-
 Cada persona que pase tendrá que hacer una tirada de Vigor contra la tirada de Reparar al crear el puente. Si pasan la tirada enfrentada, el peso de la persona que cruza el foso romperá el puente. Puede hacer una tirada de Atletismo para saltar a un lado u otro del foso (tirada al azar).
 
-**2\. Sala central:** Esta gran sala da acceso al resto de las instalaciones. Tiene pinta por los agujeros en la pared y los ganchos que había algún tipo de cuadros colgados de las paredes (en realidad pantallas electrónicas con datos de la investigación). A la altura de la cintura hay por todas las paredes un bajorrelieve que representan serpientes. En los ojos de muchas de ellas hay una cuentas de cristal que se iluminan cuando alguien se acerca a dos casillas de cualquier puerta. Analiza el código genético del sujeto y si es humano, desde todas las serpientes del bajorrelieve cercanas se lanzará una red de rayos eléctricos que atacará al que quiera cruzar la puerta. Hace 3d6 de daño y si hace herida lanza al objetivo a 1d4 pasos en dirección contraria a la puerta que quería cruzar.
+**2\. Sala central:** Esta gran sala da acceso al resto de las instalaciones. Tiene pinta por los agujeros en la pared y los ganchos que había algún tipo de cuadros colgados de las paredes (en realidad pantallas electrónicas con datos de la investigación). A la altura de la cintura hay por todas las paredes un bajorrelieve que representan serpientes.
+
+En los ojos de muchas de ellas hay una cuentas de cristal que se iluminan cuando alguien se acerca a dos casillas de cualquier puerta. Analiza el código genético del sujeto y si es humano, desde todas las serpientes del bajorrelieve cercanas se lanzará una red de rayos eléctricos que atacará al que quiera cruzar la puerta. Hace 3d6 de daño y si hace herida lanza al objetivo a 1d4 pasos en dirección contraria a la puerta que quería cruzar.
 
 **3\. Sala principal:** Este era el laboratorio propiamente con todo tipo de ingenios y aparatos de última tecnología. Fue desmantelado cuando la serpigente abandono el laboratorio por razones desconocidas. Es la zona con más inscripciones Naacal, sobre todo de seguridad.
 
@@ -2808,25 +2852,23 @@ Cada persona que pase tendrá que hacer una tirada de Vigor contra la tirada de 
 
 **5\. Almacén de material:** Esta habitación servía de almacén de productos químicos para los experimentos. Hay bastantes inscripciones con indicaciones de seguridad y explicando que tipo de productos había en cada parte del almacén.
 
+\sp
+
 **6\. Celda 1:** La entrada está cegada por un derrumbamiento. Si quitan las piedras podrán entrar en otra celda como la habitación 7.
 
 **7\. Celda 2:** Esta habitación se usaba de celda para retener las cobayas humanas. En la zona de la entrada parece que había algún tipo puerta por el diseño del marco de la puerta. Si examinan las paredes podrán ver restos de cadenas y ganchos de metal usados para retener a los sujetos de experimentos más peligrosos. Con una tirada de Ciencias verán que el metal está solo sucio, sin restos de oxidación. No parece nada hecho por seres humanos.
-
-\sp
 
 Si lo llevan a un artesano podría montar dos juegos de grilletes para brazos u piernas casi irrompibles (consistencia 30) que permitiría retener a un ser de tamaño de -1 a 2. Es demasiado resistente al calor para intentar forjarlo y crear alguna otra cosa como una espada o una coraza.
 
 **8\. Sala de pruebas:** Aquí era donde se experimentaba con humanos. Se les sacaba de las celdas, se les ponía en unas camas con sujeciones y se les inyectaba diferentes productos para ver sus efectos. Hay restos de diferentes restos de recipientes.
 
-**9\. Acceso a la planta inferior:** Desde esta sala se podía acceder a la planta inferior, desgraciadamente está todo inundado y no se puede acceder. En esta planta estaba la mini central nuclear que aún da algo electricidad al laboratorio. El agua está contaminada y sumergirse en ellas puede ser peligroso por la Radiación. Cualquiera que entre en el agua deberá tirar Vigor cada minuto, si falla la tirada, adquirirá un nivel de fatiga (ver reglas de Radiación de SWEA). Una tirada de Ciencias les dirá que el agua debe estar de alguna envenenada y que es la fuente de todas las extrañas plantas de al rededor del templo. Podrían establecer que sus vapores pueden ser nocivos a largo plazo y que no deberían estar muchos días seguidos cerca de esta agua.
+**9\. Acceso a la planta inferior:** Desde esta sala se podía acceder a la planta inferior, desgraciadamente está todo inundado y no se puede acceder. En esta planta estaba la mini central nuclear que aún da algo electricidad al laboratorio. El agua está contaminada y sumergirse en ellas puede ser peligroso por la Radiación.
+
+Cualquiera que entre en el agua deberá tirar Vigor cada minuto, si falla la tirada, adquirirá un nivel de fatiga (ver reglas de Radiación de SWEA). Una tirada de Ciencias les dirá que el agua debe estar de alguna envenenada y que es la fuente de todas las extrañas plantas de al rededor del templo. Podrían establecer que sus vapores pueden ser nocivos a largo plazo y que no deberían estar muchos días seguidos cerca de esta agua.
 
 Por todas las habitaciones hay rozas en las paredes de las que a veces salen cables y algunos chisporrotean. Si alguien toca los cables sin protección se llevará 2d6 de daño y si recibe una herida le lanzará 1d4 pasos hacia atrás.
 
-Si se llevan los cables, el metal del interior, al igual que los grilletes de las celdas, es de un extraño metal muy resistente y ligero (consistencia 30). Alguien con conocimientos en tejer podría usar esos cables para crear cuerdas resistentes (hasta 30 metros), redes de pesca/lucha (2 casillas de tamaño) o algún tipo de camisote de malla (usad las estadísticas del chaleco de Kevlar). Para reunir el cable suficiente deberán visitar todas las habitaciones y en todas arrancar los cables que haya.
-
-#### Saliendo del templo
-
-Al salir del laboratorio les estarán esperando 4 madres de aguas degeneradas (grandes boas constrictor cornudas) que vigilan el templo. Las madres de agua son un experimento genético de la serpigente para crear guardianes de sus enclaves científicos. 
+Si se llevan los cables, el metal del interior, al igual que los grilletes de las celdas, es de un extraño metal muy resistente y ligero (consistencia 30).
 
 \sp
 
@@ -2840,9 +2882,15 @@ Templo perdido
 
 \conc
 
-En su tiempo eran muy inteligentes, como humanos bastante cultos, pero estas 4 son descendientes de aquellas y durante generaciones y generaciones a lo largo de los milenios han recibido radiación para convertirse en las madres de aguas mutadas y degeneradas que están ahora mismo. Han perdido sus poderes y su Astucia ahora es tipo Animal. En compensación son más grandes y resistentes y aguantan 1 herida antes de caer incapacitadas.
+Alguien con conocimientos en tejer podría usar esos cables para crear cuerdas resistentes (hasta 30 metros), redes de pesca/lucha (2 casillas de tamaño) o algún tipo de camisote de malla (usad las estadísticas del chaleco de Kevlar). Para reunir el cable suficiente deberán visitar todas las habitaciones y en todas arrancar los cables que haya.
 
 \sp
+
+#### Saliendo del templo
+
+Al salir del laboratorio les estarán esperando 4 madres de aguas degeneradas (grandes boas constrictor cornudas) que vigilan el templo. Las madres de agua son un experimento genético de la serpigente para crear guardianes de sus enclaves científicos. 
+
+En su tiempo eran muy inteligentes, como humanos bastante cultos, pero estas 4 son descendientes de aquellas y durante generaciones y generaciones a lo largo de los milenios han recibido radiación para convertirse en las madres de aguas mutadas y degeneradas que están ahora mismo. Han perdido sus poderes y su Astucia ahora es tipo Animal. En compensación son más grandes y resistentes y aguantan 1 herida antes de caer incapacitadas.
 
 ##### Madres de aguas degeneradas
 
@@ -2859,21 +2907,29 @@ En su tiempo eran muy inteligentes, como humanos bastante cultos, pero estas 4 s
     * **Muy duros:** Aguantan 1 herida antes de caer incapacitados.
 * **Botín:** 1d4. Sus antepasados acumularon cosas que abandono la serpigente, así que podría haber objetos perdidos en el tiempo y el espacio.
 
-Pueden convertir este templo en una guarida en mitad de la jungla donde refugiarse y esconderse cuando las cosas se pongan chungas. Nadie tiene idea de su paradero y es fácilmente defendible. Cerrando con piedras el acceso al piso inferior e invirtiendo unos 2.000 doblones en materiales, se podría acondicionar para poder vivir en ella con camas, cocina, zona de almacenaje, fresquera e incluso tener algún tipo de depósito de agua de lluvia.
-
-Debido a los problemas de radiación es un refugio para estancias cortas, si se prolongasen mucho en el tiempo (más de dos semanas seguidas) deberían tirar por envenenamiento por radiación una vez al día. Aun así, sería el perfecto piso franco donde esconder durante poco tiempo a alguien buscado.
-
-> **Agua irradiada:** Puede que a alguien se le ocurra llevarse el agua irradiada para algún bizarro plan de ataque. Transportar este material supone tirar Vigor una vez al día (Radiación de bajo nivel). Beberla obligará a hacer una tirada de Vigor con -4. Si se falla se adquirirá una enfermedad crónica por radiación. 
+Pueden convertir este templo en una guarida en mitad de la jungla donde refugiarse y esconderse cuando las cosas se pongan chungas. Nadie tiene idea de su paradero y es fácilmente defendible.
 
 \sp
 
+Cerrando con piedras el acceso al piso inferior e invirtiendo unos 2.000 doblones en materiales, se podría acondicionar para poder vivir en ella con camas, cocina, zona de almacenaje, fresquera e incluso tener algún tipo de depósito de agua de lluvia.
+
+Debido a los problemas de radiación es un refugio para estancias cortas, si se prolongasen mucho en el tiempo (más de dos semanas seguidas) deberían tirar por envenenamiento por radiación una vez al día. Aun así, sería el perfecto piso franco donde esconder durante poco tiempo a alguien buscado.
+
+> **Agua irradiada:** Puede que a alguien se le ocurra llevarse el agua irradiada para algún bizarro plan de ataque. Transportar este material supone tirar Vigor una vez al día (Radiación de bajo nivel). Beberla obligará a hacer una tirada de Vigor con -4. Si se falla se adquirirá una enfermedad crónica por radiación.
+
 > Si esta agua es vertida en un lago o en un pozo, contaminará toda la zona y la hará inviable para la vida. Beber el agua del pozo o lago exigirá una tirada de Vigor para no adquirir la enfermedad por radiación.
 
-> Cabe recordar que puede funcionar perfectamente en seres de los Mitos, aunque no los mataría al momento. Sería posible dejar caer el agua contaminada sobre un Shoggoth y envenenarle con radiación. Seguramente en unos días morirá envenenado por radiación. Sacar unas cuantas toneladas métricas de agua y echárselas encima al gran Cthulhu no le mataría, pero podría debilitarlo un poco.
+\sc
+
+> Cabe recordar que puede funcionar perfectamente en seres de los Mitos, aunque no los mataría al momento. Sería posible dejar caer el agua contaminada sobre un Shoggoth y envenenarle con radiación. Seguramente en unos días morirá envenenado por radiación. 
+
+> Sacar unas cuantas toneladas métricas de agua y echárselas encima al gran Cthulhu no le mataría, pero podría debilitarlo un poco.
 
 > Los hechizos que permiten purificar agua podrían purificar unos toneles de agua contaminada, pero no limpiar todo el desastre ecológico que este laboratorio y su central nuclear supone. La acción de varias personas que practiquen magia de forma permanente podría tener algún tipo de efecto.
 
 > Por último, recuerda que tu mesa son buenas personas y usar material radioactivo es algo que daña seriamente el medioambiente durante décadas o siglos. Sin olvidarnos de las enfermedades y extrañas mutaciones que producen en personas y animales.
+
+\sp
 
 > _**Semilla de partida:** Si montan su refugio en estas instalaciones perdidas, una aventura interesante sería tratar de defenderse de un grupo de serpigentes que quieren recuperarla. O puedes hacer que alguien de tu mesa contraiga alguna extraña enfermedad que había quedado en el laboratorio y tengan que buscar una cura._
 
@@ -2887,8 +2943,6 @@ Tu mesa llega a un poblado que parece bastante alborotado, hay una familia llora
 
 Hay unas palabras que se repiten de boca en boca; madre de aguas. 
 
-\sp
-
 Con Conocimientos generales podrán saber que una madre de aguas es un críptido de la cultura popular antillana. Es una gran boa (o majá) con poderes mágicos que habita las zonas húmedas de la isla.
 
 Con una tirada de Mitos podrían saber que son una especie de experimento genético de la serpigente para crear guardianes para sus instalaciones. Pero parece ser que fue un proyecto que se abandonó.
@@ -2899,15 +2953,29 @@ El cacique local no cree en que existan las madres de agua ni esos cuentos, pero
 
 #### Buscando a la serpiente
 
-Deberán internarse en los pantanos cercanos y empezar a buscar a la serpiente. Puedes hacerles tirar Supervivencia para encontrar su rastro o pueden tratar de poner alguna trampa. El problema es que las madres de agua son seres inteligentes como humanos y saben esconderse y ocultar su rastro. Y todas las tiradas de hacer trampas serán tiradas enfrentadas de su Sigilo contra el Notar de la serpiente en caso de trampas y de Supervivencia frente a su Sigilo para encontrar sus huellas.
-
-Si se les acaban las provisiones tendrán que volver al poblado a por más y continuar la búsqueda, tendrán como para 3 o 4 días. Puedes ponerles algún encuentro con algún animal salvaje, tipo jaguar que ataque a alguien mientras duermen o un ataque nocturno de noctivagos.
-
-Si consiguen un rastro o la serpiente cae en la trampa, podrán enfrentarse con la serpiente, pero esta tratará de escaparse a la mínima. No parece agresiva, solo trata de sobrevivir en el pantano. Seguramente si puede usará sus poderes de Ilusión para hacer copias suyas y despistar a sus atacantes. Si la dejan huir podrían ver dónde está su guarida, donde seguramente esté el niño desaparecido.
+Deberán internarse en los pantanos cercanos y empezar a buscar a la serpiente. 
 
 \sp
 
+\sinc
+
+![Templo perdido](./images/serpiente-gigante-cornuda.jpg)
+
+\conc
+
+Puedes hacerles tirar Supervivencia para encontrar su rastro o pueden tratar de poner alguna trampa.
+
+El problema es que las madres de agua son seres inteligentes como humanos y saben esconderse y ocultar su rastro. Y todas las tiradas de hacer trampas serán tiradas enfrentadas de su Sigilo contra el Notar de la serpiente en caso de trampas y de Supervivencia frente a su Sigilo para encontrar sus huellas.
+
+Si se les acaban las provisiones tendrán que volver al poblado a por más y continuar la búsqueda, tendrán como para 3 o 4 días. Puedes ponerles algún encuentro con algún animal salvaje, tipo jaguar que ataque a alguien mientras duermen o un ataque nocturno de noctivagos.
+
+Si consiguen un rastro o la serpiente cae en la trampa, podrán enfrentarse con la serpiente, pero esta tratará de escaparse a la mínima. No parece agresiva, solo trata de sobrevivir en el pantano.
+
+Seguramente, si puede, usará sus poderes de Ilusión para hacer copias suyas y despistar a sus atacantes. Si la dejan huir podrían ver dónde está su guarida, donde seguramente esté el niño desaparecido.
+
 Si la derrotan tendrán que ver si la rematan o se la llevan. Si la matan, con llevar la cabeza, podrán cobrar la recompensa. Si la dejan viva tendrán que transportarla por el pantano. Además, quizás más tarde puedan entregarla a alguien que la estudie, ya que los cuernos y su tamaño no parecen normales.
+
+\sp
 
 #### Decisiones
 
@@ -2925,11 +2993,11 @@ Tu mesa deberá decidir ahora que hacer. Si la sueltan, no cobrarán la recompen
 
 > Fabio Castelli es un diletante veneciano que se dedica a cazar críptidos de todo Europa y Norte de África y los vende a espectáculos circenses y paradas de monstruos.
 
-\sp
-
 Al oír la leyenda del yeho, un pitecántropo que vive en las selvas de las islas del Caribe, vio que era perfecto para su negocio. En el Caribe podría huir de sus acreedores y labrarse una nueva reputación en América.
 
 Fabio está contratando bateadores y exploradores para adentrarse en la selva a cazar al Yeho. Su principal problema es que debe cazarlo vivo y transportarlo de vuelta hasta Ponce. 
+
+\sp
 
 Si no fuera por eso, con alguien que conozca la zona se adentraría en la jungla y volvería con el pellejo de su presa. Pero su idea es montar un circo de monstruos como tenía en Italia y necesita un buen primer plato como el yeho y, claro, lo necesita vivo.
 
@@ -2949,9 +3017,9 @@ Otras veces es grande, pero de menor tamaño, muy huidizo, omnívoro y dispuesto
 
 Una tirada de Mitos sabiendo todo o parte de lo anterior podría darle a entender a tu mesa que es gugo perdido que ha llegado a nuestro mundo de alguna manera desde la Tierra de los sueños.
 
-\sp
-
 Tras estas pesquisas, Fabio hará unos cálculos bien afortunados y se adentrará en el bosque para empezar la caza. Se dirige a una zona montañosa al norte de Ponce que tiene bastantes cuevas que podrían servirle de guarida.
+
+\sp
 
 En un par de días llegarán a la zona con un carro tirado por mulas donde Fabio guarda las provisiones y sus cosas de caza. El carro lo dejarán en un claro y empezarán a rastrear la zona pie.
 
@@ -2969,9 +3037,9 @@ Las huellas les llevarán a una cueva cercana en las colinas. De normal pondría
 
 De su carromato, que había dejado en una senda cercana, saca un cepo para horrores (Ver Tabla de objetos de gran tamaño) y un juego de cadenas de tamaño gigantesco.
 
-\sp
-
 Tendrá que poner carne con narcóticos sobre el cepo de los horrores para que caiga en la trampa. Desde una atalaya improvisada cercana vigilarán y si oyen ruidos se acercarán a ver que pasa.
+
+\sp
 
 #### Como un animal acorralado
 
@@ -3121,9 +3189,7 @@ Deberán negociar con al menos un científico yuggothiano para que regrese el ce
 
 \sp
 
-Sin su colaboración será algo completamente imposible. La operación exige otra hora. Tras la cual el operado casi no podrá moverse. Tendrán que cargar con él para sacarlo del barco.
-
-Presenciar la operación, única forma de comprobar que el médico no hace nada raro, supone una tirada de TPC de d6.
+Sin su colaboración será algo completamente imposible. La operación exige otra hora. Tras la cual el operado casi no podrá moverse. Tendrán que cargar con él para sacarlo del barco. Presenciar la operación, única forma de comprobar que el médico no hace nada raro, supone una tirada de TPC de d6.
 
 El pez metálico es muy pesado para llevárselo tal cual. Así que a no ser que tengan algún as guardado en la manga, no podrán traérselo. Alguien de ciencias podría llevarse los planos que hay por el laboratorio y dárselos a una persona de ciencias para que los estudie. Aunque estén en un idioma incomprensible, los dibujos pueden dar buenas ideas. Podría, por ejemplo, descubrir algún tipo de modificación para barcos. En los planos no hay nada de la tecnología cerebral de los yuggothianos.
 
@@ -3213,11 +3279,15 @@ Alguien con Reparar podría montar un artefacto explosivo para reventar la tramp
 
 #### La fortaleza
 
-Al salir del edificio, pueden intentar correr hacia los muros o ir en sigilo. No hay método mejor o peor. El sigilo mejor de noche y si no ha sonado la alarma y correr de día o si les han descubierto. Si van a esconderse, una ronda de 3 tiradas enfrentadas de Sigilo contra Notar. Recuerda dar bonus, por ejemplo, si es de noche o han robado uniformes militares.
+Al salir del edificio, pueden intentar correr hacia los muros o ir en sigilo. No hay método mejor o peor. El sigilo mejor de noche y si no ha sonado la alarma y correr de día o si les han descubierto.
+
+Si van a esconderse, una ronda de 3 tiradas enfrentadas de Sigilo contra Notar. Recuerda dar bonus, por ejemplo, si es de noche o han robado uniformes militares.
 
 \sp
 
-Si van a correr, deberán correr durante 3 rondas. El primer turno no les dispararán desde las murallas, pero el resto de turnos recibirán un disparo cada uno o dos si fallan la tirada de Atletismo. Si ya estaban preparados de antes por alguna alarma, les dispararán desde el primer turno. Si se cubren o se esconden no se considera que corran ese turno y deberán hacerlo en los siguientes.
+Si van a correr, deberán correr durante 3 rondas. El primer turno no les dispararán desde las murallas, pero el resto de turnos recibirán un disparo cada uno o dos, si fallan la tirada de Atletismo.
+
+Si ya estaban preparados de antes por alguna alarma, les dispararán desde el primer turno. Si se cubren o se esconden no se considera que corran ese turno y deberán hacerlo en los siguientes.
 
 Si van por sigilo y les descubren podrán, ponerse a correr y solo tendrán que correr las rondas que les falten de Sigilo. Si salen corriendo ya no quedará otra que seguir corriendo.
 
@@ -3234,3 +3304,137 @@ Salir por la puerta exigirá algún tipo de engaño o amenaza. La gente que cont
 \sp
 
 Una vez fuera, si sus carceleros están alertados, será fácil perderlos en la jungla y la marisma que rodean al Morro. Tu mesa deberá pasar un día andando para bordear la bahía de La Habana y llegar a la ciudad. También podrán robar una barca de las que usan para traer material del otro lado de la bahía, pero entonces podrán perseguirlos por el agua con otra barca y dispararles.
+
+### Nunca me habían dado todo
+
+**Comienzo:** Una taberna de mala reputación.
+
+> Al más puro estilo de «Los 7 magníficos» un grupo de indígenas taínos busca a un grupo de mercenarios para que les libren de una banda de delincuentes que cada estación aparece en su poblado. Secuestran a gente de su tribu y estos no vuelven a aparecer. En realidades un grupo de serpigentes que tiene un asentamiento cercano y que cada cierto van al poblado a buscar sujetos para sus experimentos.
+
+Los jefes del poblado han tratado de conseguir apoyo de las autoridades locales, pero han pasado de ellos. Lo han considerado rencillas entre salvajes y han pasado de intervenir. Así que han estado intentando contratar a mercenarios que los defiendan, pero no tienen oro suficiente para 
+contratar a alguien decente y medianamente hábil.
+
+XXX
+
+#### La solución final
+
+La serpigente estaba experimentando con humanos para desarrollar una plaga que acabe con todos los humanos no indígenas, ya que los considera más peligrosos. Quieren dejar vivos a las tribus locales que les parecen más dóciles y sumisas, perfectas para esclavizarlas. Por eso secuestraban a gente del poblado, para probar si la plaga los mataba o no. Si se ven en problemas tratarán de lanzar la plaga aunque maten a todos los humanos. Mejor no dejar testigos y librarse de sus enemigos de un plumazo.
+
+XXX
+
+\sp
+
+### Behike
+
+**Comienzo:** En una comunidad taína en mitad de la selva
+
+> El behike o chamán del poblado taíno ha desaparecido sin dejar rastro y sus máscaras de concha de caracol marino gigante han sido destruidas. Los guerreros más jóvenes de que quieren adentrarse a buscarlo, pero el cacique cree que es una trampa que busca dejar el poblado sin una importante parte de sus defensores.
+
+Quizás el grupo puede ayudar buscando al behike en vez de los guerreros locales o puede que se queden a ayudar a defender el asentamiento mientras la expedición de rescate del chamán está fuera.
+
+XXX
+
+### El alcázar en las nubes
+
+**Comienzo:** Cualquier ciudad
+
+> Desde hace días una extraña nube sobrevuela la ciudad y hay rumores que cuentan que hay gente a la que le han caído objetos del cielo, desde desperdicios hasta piedras o sandalias malolientes. No hace falta ser muy listo para ver que ambos eventos pueden estar relacionados. La pregunta es qué hay en esa nube y si es una amenaza.
+
+Un grupo de la secta apocalíptica de los 40 está «arreglando» un antiquísimo ingenio de los Mi-Go que debía servir como motor de algún tipo de plataforma voladora. Su principal problema es que necesita grandes cantidades de agua para funcionar. Por eso no quieren alejarse mucho de la ciudad, por sus pozos y ríos y porque pueden conseguir materiales especializados para arreglar y modificar el motor.
+
+Si alguno de tus PJ es imán de lo extraño, directamente haz que le caiga encima alguna cosa desagradable desde las nubes. No hará falta que escuchen los rumores.
+
+#### El alcázar volador XXX
+
+La célula que actúa en la ciudad ha recibido un ingenio de los Mi-Go rescatado del fondo del mar. Llevan varios años probando cosas y parece algún tipo de artilugio volador. La primera vez que lo consiguieron encender arranco de la tierra el alcázar abandonado que usaban de guarida y lo hizo volar durante unos minutos.
+
+Han aprendido a dirigirlo cambiando grandes pesos de una a otra zona del alcázar con un sistema de ganchos y poleas, lo que hace que se incline hacia un lado u otro y cambie de dirección. Viendo que cogía temperaturas extremas, montaron un sistema básico de refrigeración que hace que no alcance la masa crítica.
+
+El motor volador genera gran cantidad de vapor que oculta el alcázar como si fuera una nube. El vapor es consecuencia del sistema de refrigeración por agua de núcleo de fusión radioactivo que da energía al ingenio. Consume tal cantidad de agua que solo pueden hacerlo volar día y medio / dos días antes de que se les acabe las reservas de agua. Es por ello que deben aterrizar cada cierto tiempo y rellenar los depósitos de agua.
+
+El alcázar es una torre fortificada de 3 pisos de unos 50x50 metros. Tiene una única entrada, una gran puerta de madera remachada de metal. La torre tiene un sótano donde está el motor.
+
+El motor eleva también unos 3 metros de tierra alrededor de la torre y partir de ahí empiezan las nubes y por supuesto una caída de unos 200 metros.
+
+La idea de la secta es usar esto como el arca de Noe, un artilugio que sobreviva al apocalipsis sobrevolando diluvios, terremotos, ríos de lava, etc. lo que su deidad haya pensado para el fín de la Tierra.
+
+Cada célula tiene 40 miembros, pero solo la mitad está en el alcázar, la otra mitad está consiguiendo agua y provisiones, investigando en las bibliotecas de la ciudad, consultando con artesanos, etc. Su líder siempre está en el alcázar experimentando con el motor y probando cosas.
+
+La secta no lo sabe, pero el motor tiene una fuga debido a los años bajo el agua y cada hora que se pasa en el sótano del castillo hay posibilidad de sufrir envenenamiento por radiación (nivel bajo).
+
+#### Vigilando a la nube
+
+Cada dos días la nube deja de sobrevolar la ciudad y se desaparece durante día y medio en las montañas cercanas para volver de nuevo. Ese puede ser un buen momento para investigar que hay en la nube.
+
+Si viajan a las montañas encontrarán que el alcázar ha aterrizado en un pequeño valle y una pequeña caravana de camellos lleva alimentos y materiales y sobre todo agua de Eufrates.
+
+La única puerta del alcázar está muy vigilada y transitada, pero pueden intentar esconderse en el terreno alrededor del alcázar y cuando se eleve tratar de colarse dentro de la torre.
+
+Si vuelven a la ciudad con su extraña historia de fortalezas voladoras, nadie les hará caso y creerán que se han pasado con el vino o el ron.
+
+Si se infiltran en la torre, recuérdales que la torre está en el aire y que no pueden ponerse a matar sectarios sin ton ni son, ya que son los únicos que saben maniobrar y aterrizar la nave.
+
+#### Primera planta (0-2 adeptos cultistas)
+
+En este piso hay un sistema de poleas y cuerdas que permiten mover de posición pesadas cajas llenas de piedras. Según se mueven las cajas de un sitio u otro, el alcázar se inclina en una dirección y gira en esa dirección. En el centro hay una escalera de caracol que baja hacia el sótano y sube al segundo piso. Normalmente no hay nadie en este piso hasta que necesitan girar o visitan el sótano. Es fácil esconderse entre las cajas.
+
+#### Segunda planta
+
+8 adeptos cultistas, la mitad dormidos y la otra comiendo o haciendo sus cosas
+
+La primera planta es donde hacen vida los tripulantes del alcázar, hay camastros, cajas de comida, hogares para cocinar. Todo está atado o sujeto de alguna manera, ya que al inclinarse el alcázar para hacer giros se cae todo lo que no este sujeto. Esa es la razón de las cosas raras que caen del cielo.
+
+#### Tercera planta
+
+6 adeptos cultistas trabajando y el adepto superior
+
+Es el laboratorio del líder de la célula y taller para hacer reparaciones a motor. Hay herramientas de herrero, de carpintero, alquimista y gran cantidad de barriles de productos químicos. Hay una biblioteca con varios tomos, pero solo uno es mágico (créalo con las tablas de tesoro). El resto de libros podrían venderse por 2d10x100 doblones.
+
+También se usa como puente de mando y han agrandado una de las ventanas para ver por donde van.
+
+La secta de los 40 tiene mucho interés en este proyecto y tiene a otros grupos robando y matando para poder financiar las investigaciones del alcázar de las nubes. Es por ello que un cofre de madera con un gran tesoro en oro y joyas (botín de d12, pero solo se puede tirar en la tabla de riquezas).
+
+#### Sótano
+
+4 adeptos cultistas vigilando y trabajando en el motor
+
+El sótano era una antigua mazmorra con varias celdas y en la central está el motor. Está inundado de agua hasta el pecho para refrescar el motor y con un fuelle gigante mueven el agua de forma que la caliente sale de la celda del motor y se enfría en las otras celdas para volver a la celda del motor a enfriarlo de nuevo.
+
+Los respiraderos del sótano dejan que se escape un extraño vapor rosado y pastoso que se genera en el motor al contactar con el agua y que crea la nube que oculta el castillo.
+
+#### Alarma
+
+Cuando te parezca interesante (por ejemplo, si les han descubierto y están pasándolo mal en el combate) uno de los hombres del sótano empezará a gritar alarma, el motor se recalienta más rápido de lo que se puede enfriar y está perdiendo potencia. No tienen para volver a las montañas y van a estrellarse en la ciudad.
+
+El jefe de la célula dirá que desalojen el alcázar y cogerán unas lonas a modo de paracaídas para saltar de la torre sobre la ciudad.
+
+#### La caída del alcázar
+
+Con el motor a punto de explotar tendrán que buscar un lugar donde estrellar el alcázar volador. Tendrán que tener un piloto que busque una ruta fuera de la ciudad y el resto deberán mover pesos para dirigir el castillo. Tendrán 5 rondas y necesitarán superar por lo menos 4, haciendo tiradas de FUE y consiguiendo 2 avances por ronda.
+
+Si consiguen 4 rondas sacarán el ingenio volador de a ciudad y caerá en terreno deshabitado. Con 3 no saldrán de la ciudad, pero podrán intentar caer en una parte vacía (1d6 muertos). Si consiguen menos de 3 rondas caerán en una zona habitada con 1d12 de víctimas mortales. Durante las 2 primeras rondas podrán aceptar dejarse caer como si hubieran conseguido 3 rondas y provocar solo 1d6 muertes.
+
+Pueden, si quieren, dejar caer el alcázar en una ubicación específica como la casa de un enemigo o la guarida de una secta, deberán conseguir las 4 rondas exitosas y provocarán 1d12muertes en sus enemigos.
+
+Si prefieren escapar del alcázar directamente, el edificio volador caerá sobre una zona habitada causando las 1d12 muertes.
+
+#### Caída libre
+
+Cuando la torre entre en caída libre por el fallo del motor, tendrán que salir volando, bien con hechizos u objetos mágicos, bien usando una gran lona de seda con cuerdas (que parece una especie de paracaídas) que los 40 estaban diseñando en caso de problemas.
+
+Cuando se lancen, tendrán que pasar todos los sujetos a la lona una tirada de Espíritu para lanzarse al vacío. Luego, antes de aterrizar, una tirada de Agilidad para aterrizar bien sin daño. En caso de fallo recibirá 3d6 de daño.
+
+#### Final y consecuencias
+
+En este momento podrán huir del lugar o quedarse a ayudar y a que lleguen los guardias del Califa. Si huyen con todo el jaleo nadie se fijará en ellos. Si se quedan ayudando o esperan a la guardia, estos les llevarán ante el propio Califa que les pedirá un relato de su aventura. Si le gusta les dará 2.000 doblones para todos.
+
+El visir y la califesa harán algunas preguntas complicadas y si ven que han actuado más o menos heroicamente se quedarán con sus nombres, pueden que los necesiten en el futuro.
+
+La destrucción del alcázar implicará en varios aspectos a futuras aventuras:
+
+* El motor es irrecuperable, pero su material radioactivo sigue lanzando radiación con terribles consecuencias para los vecinos de a zona.
+* La célula local de los 40 quedará desarticulada por un tiempo, pero seguramente buscarán venganza.
+* Durante unas semanas serán famosos en la ciudad y puedes hilarlo otros relatos donde busquen héroes.
+* También puede ser que el visir, que los tiene en su radar, les encargue alguna tarea.
+* Puedes hacer que la recepción con el Califa acabe en una de sus juergas nocturnas disfrazados de mercaderes.
+* Recompensa de deseos (+3): Este cuento es perfecto para realizar actos heroicos como quedarse en el alcázar para que no cause víctimas mortales. Recompensa esas heroicas acciones con deseos suficientes para que puedan librarse de la muerte que seguro que suponen sus actos de valentía.

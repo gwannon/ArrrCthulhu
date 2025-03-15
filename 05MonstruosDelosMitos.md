@@ -214,6 +214,8 @@ Los lloigors son seres de energía invisibles en forma de vórtice. En este esta
     * **Depresión:** Un aura depresiva rodea siempre a un lloigor, todos los héroes que pasen una hora en una localización donde hay un lloigor y fallen una tirada de Espíritu enfrentada, tendrán que coger como trastorno mental Depresión (mayor).
 * **Hechizos:** 30 PP, Vórtice (Explosión), Telekinesis, Marioneta, Drenar magia (Drenaje de puntos de poder)
 
+\sc
+
 ### Lloigor corpóreo (comodín)
 
 El lloigor puede hacerse corpóreo adoptando la forma de un reptil alargado y patilargo de gran tamaño. Se les considera como una de las posibles explicaciones a las historias de los dragones.
@@ -235,8 +237,6 @@ El lloigor puede hacerse corpóreo adoptando la forma de un reptil alargado y pa
 * **Hechizos:** 30 PP, Vórtice (Explosión), Telekinesis, Marioneta, Drenar magia (Drenaje de puntos de poder)
 * **TPC:** 1d12
 
-\sp
-
 \sinc
 
 ## Lusca (comodín)
@@ -249,11 +249,13 @@ Una lusca es un temible críptido del Caribe, de la zona de las Bahamas. Su nomb
 
 Hay personas que cuentan que lo han visto y han sobrevivido a su ataque y aseguran que tiene una cabeza de tiburón en vez de octópodo, pero la explicación más sencilla es que se dedique a cazar y devorar sardas (tiburones toro) y eso fue lo que vieran los testigos.
 
-El origen de la lusca es desconocido, pero la teoría más plausible es la que elaboró Hernando Villalba en su juventud. Villalba considera que las luscas son versiones degeneradas e involucionadas de las semillas estelares de su adorado Cthulhu. Durante millones de años, algunas de las semillas que escaparon al hundimiento de R’lyeh han ido degenerando y mutando en los terribles monstruos marinos que conocemos como luscas. De hecho, cuando conoció a una tribu de profundos de cerca de Bahamas que cuidaban, alimentaban y hacían ofrendas a una lusca muy anciana que vivía en una cueva submarina, empezó a elaborar la teoría de que R’lyeh estaba sumergida en el Caribe y la lusca era una prueba de ello.
-
-Debido a ser descendientes de las semillas estelares, son bastante inteligentes, aunque siga siendo inteligencia animal. Son capaces de solucionar pequeños problemas, de usar objetos simples o de atacar puntos débiles, incluso puede desarrollar tácticas simples como volcar una barca para atacar a los tripulantes en el agua y que sean presas más fáciles.
+El origen de la lusca es desconocido, pero la teoría más plausible es la que elaboró Hernando Villalba en su juventud. Villalba considera que las luscas son versiones degeneradas e involucionadas de las semillas estelares de su adorado Cthulhu. Durante millones de años, algunas de las semillas que escaparon al hundimiento de R’lyeh han ido degenerando y mutando en los terribles monstruos marinos que conocemos como luscas.
 
 \sp
+
+De hecho, cuando conoció a una tribu de profundos de cerca de Bahamas que cuidaban, alimentaban y hacían ofrendas a una lusca muy anciana que vivía en una cueva submarina, empezó a elaborar la teoría de que R’lyeh estaba sumergida en el Caribe y la lusca era una prueba de ello.
+
+Debido a ser descendientes de las semillas estelares, son bastante inteligentes, aunque siga siendo inteligencia animal. Son capaces de solucionar pequeños problemas, de usar objetos simples o de atacar puntos débiles, incluso puede desarrollar tácticas simples como volcar una barca para atacar a los tripulantes en el agua y que sean presas más fáciles.
 
 * **Atributos:** Agilidad d8, Astucia d8 (A), Espíritu d6, Fuerza d12+9, Vigor d10
 * **Habilidades:** Atletismo d6, Notar d6, Pelear d8

@@ -177,6 +177,9 @@ Damos las gracias y el crédito apropiado a estos increíbles artistas que nos h
 
 \sp
 
+* [Imugi](https://www.deviantart.com/arvalis/art/Imugi-677786102) por [arvalis](https://www.deviantart.com/arvalis/gallery)
+* [museum_dinosaur_2427.jpg](https://www.freeimageslive.co.uk/free_stock_image/museumdinosaur2427jpg) por [fmanto](https://www.freeimageslive.co.uk/users/fmanto)
+
 A [Bebe a Mordor](https://twitter.com/bebeamordor) por sus [consejos de lenguaje inclusivo](https://bebeamordor.com/comunicacion-inclusiva-redaccion-manuales-juegos/). También a [Miss Launnister](https://twitter.com/Miss_Launnister) por sus [consejos](https://bastionrolero.blogspot.com/2019/04/el-lenguaje-inclusivo-en-nuestros.html). He tratado de hacer un mix y aplicarlo lo mejor posible a mis textos. Cuando esté todo terminado volveremos a darle una nueva revisión para solucionar todos los fallos que se me hayan podido escapar. No es fácil, pero merece la pena.
 
 A [Juan Carlos Albarracín](https://twitter.com/VengadorT) y sus [audiolibros de relatos de H. P. Lovecraft](https://www.ivoox.com/podcast-cuentos-de-la-casa-de-la-bruja_sq_f1421745_1.html) que tantas ideas me han dado.

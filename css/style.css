@@ -85,9 +85,9 @@ section > a {
 }
 
 blockquote {
+  padding: 10px !important;
   border: 1px solid var(--green-dark);
-  padding: 10px;
-  background-color: var(--green-gul);
+  background: linear-gradient(160deg, var(--green-deepone) 60%, var(--green-cthulhu) 100%);
   margin: 0px;
 }
 
@@ -97,7 +97,7 @@ blockquote p {
 }
 
 blockquote > p + p {
-  padding-top: 10px;
+  padding-top: 10px !important;
 }
 
 pre {
@@ -477,7 +477,8 @@ section h1 + .saltopagina:after {
     );
   }
 
-  section:nth-of-type(4) .saltopagina:before { /* OK */
+  section:nth-of-type(4) .saltopagina:before,
+  section:nth-of-type(4) .saltopagina.even:before { /* OK */
     height: 62vh;
     bottom: calc(38vh + 2px);
     content: "E \A l \A \A C \A a \A r \A i \A b \A e \A \A d \A e \A \A l \A o \A s \A \A M \A i \A t \A o \A s ";
@@ -485,7 +486,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-cthulhu);
   }
 
-  section:nth-of-type(5) .saltopagina:before {
+  section:nth-of-type(5) .saltopagina:before,
+  section:nth-of-type(5) .saltopagina.even:before {
     height: 61.5vh;
     bottom: calc(38.5vh + 2px);
     content: "R \A e \A g \A l \A a \A s \A \A d \A e \A \A a \A m \A b \A i \A e \A n \A t \A a \A c \A i \A ó \A n ";
@@ -493,7 +495,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-deepone);
   }
 
-  section:nth-of-type(6) .saltopagina:before {
+  section:nth-of-type(6) .saltopagina:before,
+  section:nth-of-type(6) .saltopagina.even:before {
     height: 42vh;
     bottom: calc(58vh + 2px);
     content: "G \A u \A í \A a \A \A d \A e \A \A v \A i \A a \A j \A e \A s ";
@@ -501,7 +504,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-dark);
   }
 
-  section:nth-of-type(7) .saltopagina:before {
+  section:nth-of-type(7) .saltopagina:before,
+  section:nth-of-type(7) .saltopagina.even:before {
     height: 52vh;
     bottom: calc(48vh + 2px);
     content: "H \A i \A s \A t \A o \A r \A i \A a \A s \A \A S \A a \A l \A v \A a \A j \A e \A s ";
@@ -509,7 +513,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-gul);
   }
 
-  section:nth-of-type(8) .saltopagina:before {
+  section:nth-of-type(8) .saltopagina:before,
+  section:nth-of-type(8) .saltopagina.even:before {
     height: 62vh;
     bottom: calc(38vh + 2px);
     content: "M \A o \A n \A s \A t \A r \A u \A o \A s \A \A d \A e \A \A l \A o \A s \A \A M \A i \A t \A o \A s ";
@@ -517,7 +522,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-cthulhu);
   }
 
-  section:nth-of-type(9) .saltopagina:before {
+  section:nth-of-type(9) .saltopagina:before,
+  section:nth-of-type(9) .saltopagina.even:before {
     height: 75vh;
     bottom: calc(25vh + 2px);
     content: "Q \A u \A i \A é \A n \A \A e \A s \A \A q \A u \A i \A é \A n \A \A e \A n \A \A e \A l \A \A C \A a \A r \A i \A b \A e ";
@@ -525,7 +531,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-deepone);
   }
 
-  section:nth-of-type(10) .saltopagina:before {
+  section:nth-of-type(10) .saltopagina:before,
+  section:nth-of-type(10) .saltopagina.even:before {
     height: 75vh;
     bottom: calc(25vh + 2px);
     content: "D \A a \A n \A d \A o \A \A c \A o \A l \A o \A r \A \A a \A \A l \A a \A s \A \A a \A v \A e \A n \A t \A u \A r \A a \A s ";
@@ -533,7 +540,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-dark);
   }
 
-  section:nth-of-type(11) .saltopagina:before {
+  section:nth-of-type(11) .saltopagina:before,
+  section:nth-of-type(11) .saltopagina.even:before {
     height: 24vh;
     bottom: calc(76vh + 2px);
     content: "E \A p \A í \A l \A o \A g \A o ";
@@ -541,7 +549,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-gul);
   }
 
-  section:nth-of-type(12) .saltopagina:before {
+  section:nth-of-type(12) .saltopagina:before,
+  section:nth-of-type(12) .saltopagina.even:before {
     height: 60vh;
     bottom: calc(40vh + 2px);
     content: "R \A e \A c \A u \A r \A s \A o \A s \A \A p \A a \A r \A a \A \A p \A i \A r \A a \A t \A a \A s ";
@@ -627,6 +636,10 @@ section > h2:after {
     var(--innerpadding) 100%
   );
 }
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p:has(img) + h2 {
+  margin-top: 20px;
+} 
 
 /* ----------------- Portada --------------- */
 

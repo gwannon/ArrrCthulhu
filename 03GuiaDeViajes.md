@@ -378,11 +378,13 @@ El sistema de autodestrucción se basa en tecnología serpigente y desde su desp
 
 Activar la autodestrucción significa tener un minuto para huir del astillero o el fuego y las explosiones acabarán con tu vida. La salida mejor es tirarse al agua, pero para llegar al mar habrá que pasar un infierno de fuego.
 
-\sp
-
 #### Local ilegal de juego de Alfredo Usía
 
-Alfredo Usía es un criminal de La Habana y controla el juego ilegal. Es Además, un prestamista usurero al que no le tiembla la mano en cortar pulgares y romper piernas a la gente que le debe dinero y no le paga a tiempo. Y como no tiene un casino ilegal «secreto». Es secreto para las autoridades, pero conocido para el resto de habitantes de los bajos fondos.
+Alfredo Usía es un criminal de La Habana que controla el juego ilegal. 
+
+\sp
+
+Es, además, un prestamista al que no le tiembla la mano en cortar dedos y romper piernas a la gente que le debe dinero o no le paga a tiempo. Y como no, tiene un casino ilegal «secreto». Es secreto para las autoridades, pero conocido para el resto de habitantes de los bajos fondos.
 
 Un viejo almacén del puerto sirve de tapadera del casino al que solo se puede acceder sabiendo el santo y seña. Hay mesas para jugar a la ruleta, los juegos con dados y los naipes. También hay combates de gallos con importantes apuestas.
 
@@ -394,11 +396,7 @@ Alfredo tiene para días importantes una modalidad de pelea especial, caimán co
 
 El foso de caimanes también ha sido usado para interrogar a personas que no querían hablar y en última instancia para deshacerse de cadáveres.
 
-\sp
-
-> _**Recompensa extra de cordura (+1):** Desbaratar el local ilegal de Alfredo es librar al Caribe de una gran maldad. Supone sacar de las calles a un criminal peligroso con delitos de sangre, ayudar a sus deudores a salir a flote y evitar maltrato animal._
-
-> **Recuerda:** El juego patológico es un problema grave y no debe tomarse a la ligera.
+> _**Recompensa extra de cordura (+1):** Desbaratar el local ilegal de Alfredo es librar al Caribe de una gran maldad. Supone sacar de las calles a un criminal peligroso con delitos de sangre, ayudar a sus deudores a salir a flote y evitar maltrato animal. **Recuerda que el juego patológico es un problema grave y no debe tomarse a la ligera.**_
 
 #### Universidad de La Habana
 
