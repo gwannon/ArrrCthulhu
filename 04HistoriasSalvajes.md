@@ -3334,7 +3334,9 @@ Quizás el grupo puede ayudar buscando al behike en vez de los guerreros locales
 
 XXX
 
-### El alcázar en las nubes
+\sp
+
+### El alcázar en las nubes XXX
 
 **Comienzo:** Cualquier ciudad
 
@@ -3344,13 +3346,15 @@ Un grupo de la secta apocalíptica de los 40 está «arreglando» un antiquísim
 
 Si alguno de tus PJ es imán de lo extraño, directamente haz que le caiga encima alguna cosa desagradable desde las nubes. No hará falta que escuchen los rumores.
 
-#### El alcázar volador XXX
+#### El alcázar volador
 
 La célula que actúa en la ciudad ha recibido un ingenio de los Mi-Go rescatado del fondo del mar. Llevan varios años probando cosas y parece algún tipo de artilugio volador. La primera vez que lo consiguieron encender arranco de la tierra el alcázar abandonado que usaban de guarida y lo hizo volar durante unos minutos.
 
 Han aprendido a dirigirlo cambiando grandes pesos de una a otra zona del alcázar con un sistema de ganchos y poleas, lo que hace que se incline hacia un lado u otro y cambie de dirección. Viendo que cogía temperaturas extremas, montaron un sistema básico de refrigeración que hace que no alcance la masa crítica.
 
 El motor volador genera gran cantidad de vapor que oculta el alcázar como si fuera una nube. El vapor es consecuencia del sistema de refrigeración por agua de núcleo de fusión radioactivo que da energía al ingenio. Consume tal cantidad de agua que solo pueden hacerlo volar día y medio / dos días antes de que se les acabe las reservas de agua. Es por ello que deben aterrizar cada cierto tiempo y rellenar los depósitos de agua.
+
+\sp
 
 El alcázar es una torre fortificada de 3 pisos de unos 50x50 metros. Tiene una única entrada, una gran puerta de madera remachada de metal. La torre tiene un sótano donde está el motor.
 
@@ -3373,6 +3377,8 @@ La única puerta del alcázar está muy vigilada y transitada, pero pueden inten
 Si vuelven a la ciudad con su extraña historia de fortalezas voladoras, nadie les hará caso y creerán que se han pasado con el vino o el ron.
 
 Si se infiltran en la torre, recuérdales que la torre está en el aire y que no pueden ponerse a matar sectarios sin ton ni son, ya que son los únicos que saben maniobrar y aterrizar la nave.
+
+\sp
 
 #### Primera planta (0-2 adeptos cultistas)
 
@@ -3400,6 +3406,8 @@ La secta de los 40 tiene mucho interés en este proyecto y tiene a otros grupos 
 
 El sótano era una antigua mazmorra con varias celdas y en la central está el motor. Está inundado de agua hasta el pecho para refrescar el motor y con un fuelle gigante mueven el agua de forma que la caliente sale de la celda del motor y se enfría en las otras celdas para volver a la celda del motor a enfriarlo de nuevo.
 
+\sp
+
 Los respiraderos del sótano dejan que se escape un extraño vapor rosado y pastoso que se genera en el motor al contactar con el agua y que crea la nube que oculta el castillo.
 
 #### Alarma
@@ -3414,13 +3422,15 @@ Con el motor a punto de explotar tendrán que buscar un lugar donde estrellar el
 
 Si consiguen 4 rondas sacarán el ingenio volador de a ciudad y caerá en terreno deshabitado. Con 3 no saldrán de la ciudad, pero podrán intentar caer en una parte vacía (1d6 muertos). Si consiguen menos de 3 rondas caerán en una zona habitada con 1d12 de víctimas mortales. Durante las 2 primeras rondas podrán aceptar dejarse caer como si hubieran conseguido 3 rondas y provocar solo 1d6 muertes.
 
-Pueden, si quieren, dejar caer el alcázar en una ubicación específica como la casa de un enemigo o la guarida de una secta, deberán conseguir las 4 rondas exitosas y provocarán 1d12muertes en sus enemigos.
+Pueden, si quieren, dejar caer el alcázar en una ubicación específica como la casa de un enemigo o la guarida de una secta, deberán conseguir las 4 rondas exitosas y provocarán 1d12 muertes en sus enemigos.
 
 Si prefieren escapar del alcázar directamente, el edificio volador caerá sobre una zona habitada causando las 1d12 muertes.
 
 #### Caída libre
 
 Cuando la torre entre en caída libre por el fallo del motor, tendrán que salir volando, bien con hechizos u objetos mágicos, bien usando una gran lona de seda con cuerdas (que parece una especie de paracaídas) que los 40 estaban diseñando en caso de problemas.
+
+\sp
 
 Cuando se lancen, tendrán que pasar todos los sujetos a la lona una tirada de Espíritu para lanzarse al vacío. Luego, antes de aterrizar, una tirada de Agilidad para aterrizar bien sin daño. En caso de fallo recibirá 3d6 de daño.
 
