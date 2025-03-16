@@ -372,7 +372,7 @@ Dentro del combate a distancia puedes hacer uso de las armas a distancias primit
 
 #### Arma lanzarrayos yithiana
 
-Esta arma de rayos, parecida a una cámara de fotos de gran tamaño, posee un gran poder destructivo. Tiene dos grandes asas y al pulsarse los gatillos que hay en cada asa lanza unos rayos que calcinan a su objetivo. Es por ello que se necesitan dos manos para poder usarla. Al dispararse los rayos de eléctricos generan un gran zumbido del mismo nivel que disparando un arma de pólvora, es por ello que no son armas de infiltración si no de guerra.
+Esta arma de rayos, parecida a una cámara de fotos de gran tamaño, posee un gran poder destructivo. Tiene dos grandes asas y al pulsarse los gatillos que hay en cada asa lanza unos rayos que calcinan a su objetivo. Es por ello que se necesitan dos manos para poder usarla. Al dispararse los rayos de eléctricos generan un gran zumbido del mismo nivel que disparando un arma de pólvora, es por ello que no son armas de infiltración sino de guerra.
 
 \sinc
 
@@ -802,7 +802,7 @@ La TPC del monstruo es específica para cada PJ, pero solo debe hacerse una tira
 
 ### Modificaciones de las TPC
 
-Las TPCs pueden ser modificadas en determinadas situaciones.
+Las TPC pueden ser modificadas en determinadas situaciones.
 
 **Grandes grupos:** Normalmente, los monstruos de los Mitos son seres solitarios o como mucho viven en grupos muy pequeños, Sin embargo, hay monstruos que viven en grandes grupos y producen más o menos locura según su número. 
 
@@ -1350,10 +1350,12 @@ Es un ritual para expulsar a las meigas (brujas gallegas) y proteger a los parti
 
 El aguardiente puede ser cualquier alcohol destilado, por ejemplo el ron.
 
-**Ritual de buena suerte:** Hay montones de rituales de buena, desde meter un trébol de cuatro hojas en tu zapato hasta dejar una copa de bebida para los espíritus, pasando por llevar ropa de color rojo o comer uvas con las campanadas. Cuando se aprende el ritual se debe especificar el ritual que se va a seguir.  
+**Ritual de buena suerte:** Hay montones de rituales de buena, desde meter un trébol de cuatro hojas en tu zapato hasta dejar una copa de bebida para los espíritus, pasando por llevar ropa de color rojo o comer uvas con las campanadas. Cuando se aprende el ritual se debe especificar el ritual que se va a seguir.
+
 Una vez por sesión solo una persona de tu mesa podrá intentar este ritual de buena suerte y si se consigue se crea un beni comunitario que podrá ser usado por los jugadores como quieran, incluso en tiradas de PNJ. El beni dura hasta el final de la sesión.
 
-**Sanación obeah:** El obeah es toda una mezcla de religiones de África Occidental que se caracteriza por tener muchos y variados rituales de sanación, desde cuidados de las parturientas hasta tratamiento de heridas graves y epidemias. El practicante de esta fe sabe realizar una serie de prácticas que pueden parecer mágicas, pero en la mayoría de los casos son buenas prácticas médicas como limpiar y desinfectar heridas o bebedizos de plantas para provocar abortos.  
+**Sanación obeah:** El obeah es toda una mezcla de religiones de África Occidental que se caracteriza por tener muchos y variados rituales de sanación, desde cuidados de las parturientas hasta tratamiento de heridas graves y epidemias. El practicante de esta fe sabe realizar una serie de prácticas que pueden parecer mágicas, pero en la mayoría de los casos son buenas prácticas médicas como limpiar y desinfectar heridas o bebedizos de plantas para provocar abortos.
+
 Este ritual puede cogerse varias veces tratando diferentes tipos de prácticas médicas (traumatismos, epidemias, obstetricia, neumología, …) Pasando la tirada de Espíritu podrás otorgar un +1 extra a las tiradas de recuperación de tu paciente si sufre alguna dolencia relacionada con tus conocimientos de sanación obeah.
 
 \sp
@@ -1362,7 +1364,8 @@ Este ritual puede cogerse varias veces tratando diferentes tipos de prácticas m
 
 **Soltar al gallo:** Se suelta un gallo y otra ave de corral antes de partir a pie por la jungla y se le hace que se interne en la espesura. Este ritual se entiende de dos maneras, como un sacrificio para no tener problemas en el viaje por la jungla o como que el gallo se lleva los problemas y los peligros que tendría el grupo en su viaje. A nivel de juego, no se hace tirada de encuentro en este viaje, para bien o para mal.
 
-**Trigonolito de Atabey:** Tallando un trigonolito representando a Atabey en una noche de luna llena (que ya es la diosa de la Luna) obtendrás las bendiciones de la diosa.  
+**Trigonolito de Atabey:** Tallando un trigonolito representando a Atabey en una noche de luna llena (que ya es la diosa de la Luna) obtendrás las bendiciones de la diosa.
+ 
 A nivel de juego, obtienes un +2 a una única tirada. Debes sacrificar primero el trigonolito antes de poder hacer la acción bonificada. El sacrificio puede ser destruir el trigonolito, lanzarlo a un pozo o al mar, etc. cualquier acción que haga que no puedas recuperarlo. Es por ello que, por ejemplo, no será muy útil en combate para por ejemplo esquivar un ataque, ya que exige perder tiempo deshaciéndose del trigonolito.  
 Su efecto se podrá usar hasta la próxima luna nueva. Digamos 1 semana, así que si la talla al partir en un viaje le durará hasta el final de una travesía en barco normal.
 
@@ -2419,7 +2422,7 @@ Puede ser que en algún momento los héroes sean absorbidos por un agujero dimen
 
 |1d12|Nombre|Descripción|
 |---|---|---|
-|1|Carcosa|Carcosa es una ciudad de uno de los planetas de las Híades, cerca de Aldebarán. Está situada junto al lago Híade. Frecuentemente confunde dimensiones con la Tierra, arrastrando a aventureros que se hablan adentrado en la ciudad. Se cree que esto se produce, ya que es la morada/prisión de Hastur.|
+|1|Carcosa|Carcosa es una ciudad de uno de los planetas de las Híades, cerca de Aldebarán. Está situada junto al lago Híade. Con frecuencia confunde dimensiones con la Tierra, arrastrando a aventureros que se hablan adentrado en la ciudad. Se cree que esto se produce, ya que es la morada/prisión de Hastur.|
 |2|Ulthar|Ulthar es una vieja población de casas de madera situada más allá del río Skai, junto al Bosque encantado, en las Tierras del Sueño. Por ley los gatos no pueden ser dados a muerte por nadie.|
 
 \conc

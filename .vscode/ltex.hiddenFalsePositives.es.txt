@@ -136,3 +136,71 @@
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nHechizos: 8 PP, Conoce 1 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.\\E$"}
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\\E$"}
 {"rule":"REP_IMPORTANTE","sentence":"^\\QEl libro, como otros tantos, es un objeto menor que la casa de subastas ha metido para que la gente vaya al excusado entre pieza importante y pieza importante.\\E$"}
+{"rule":"ES_MULTITOKEN_SPELLING_TWO","sentence":"^\\QEn 1722 la Orden del Gran Cthulhu consiguió que el gobernador de Jamaica contratara a John Barnet, un famoso cazapiratas, para que atrapara a Rackham/Bonny.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QLos productos puertorriqueños volvían a inundar los mercados de España y volvían de nuevo a la isla convertidos en doblones de oro.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QA él recitan «Ph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn» que significa «En la Ciudad de R’lyeh, el difunto Cthulhu, espera soñando».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSin olvidarnos de K’nar’st, un humanoide anfibio con cuatro brazos de siete garras y tentáculos en vez de piernas, o Psuchawrl, un gigante larguirucho con cabeza de anémona.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi deseas más deidades marinas a tono con la ambientación pirata, puedes usar a Coinchenn, un primigenio gigante hecho de peces, cetáceos y cefalópodos, o Janai’ngo, un gigantesco crustáceo siervo de Cthulhu.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThrod s’uhn (Corriente del Golfo).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QN’gha syha’h (Corriente del Caribe).\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSi bien en los libros de Lovecraft, R’lyeh se encuentra en Pacífico Sur (en la latitud 47° 9’ S, longitud 126° 43’ O).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Qph’nglui mglw’nafh Cthulhu R’lyeh wgah’nagl fhtagn En la Ciudad de R’lyeh, el difunto Cthulhu, espera soñando\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEso ha llevado a que parezca formado por grupos de consonantes que suenan relativamente extraños para el oído, como «mglw’naph» o «fhtagn».\\E$"}
+{"rule":"EL_TILDE","sentence":"^\\QAdemás, la forma del ariete y su gran tamaño hace muy difícil desengancharse, el -4 normal a la tirada de soltarse se convierte en un -6.\\E$"}
+{"rule":"MI_TILDE","sentence":"^\\QCamuflaje de pólipo volante 2 400 Cubierta, mástiles, velas\nCañones Yithianos 1 200 por cañón Armamento\nCasco de shoggoth 3 800 Casco\nGenerador de oscuridad de Mi-Go 1/2 300 Popa o Proa\nMascarón de anulación de magia Lloigor 1/2 300 Proa\nTecnología Mi-Go (comunicación) 1/2 200 Popa\nTecnología Mi-Go (navegación) 1/2 200 Proa\nTentáculos de retoño oscuro 3 800 Casco\nTentáculos de shoggoths 1 800 Casco\nVelas de alas de noctivago 1/2 100 Aparejos\nVelas de piel de profundo 1/2 100 Aparejos\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDesafortunadamente, el caso también se llena de pseudópodos, proto-globos oculares y tiene cierta fosforescencia de noche.\\E$"}
+{"rule":"MI_TILDE","sentence":"^\\QGenerador de oscuridad de Mi-Go:\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi falla, perderá un punto de cordura.\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^\\Q♥ ♣ ♠ ♦\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QCambio de forma --- -- No permitido\nCaptura 11 Aferrar El taumaturgo dirige su mano hacia su objetivo y hace como que lo agarra.\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QCavar --- -- No permitido\nCeguera 15 Nublar la vista El mago sopla un polvo especial a su objetivo que nubla su vista.\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QChorro --- -- No permitido\nConfusión 17 Verdadero nombre de Hastur El brujo pronuncia parte el auténtico nombre de Hastur y la víctima es aturdida al enfrentarse a lo incognoscible.\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QEmpatía --- -- No permitido\nEmpujón --- -- No permitido\nExplosión --- -- No permitido\nGigantismo Enanismo --- -- No permitido\nIlusión 38 Sombras ilusorias El brujo empieza a manipular la forma de las sombras hasta que parecen objetos reales.\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QInvisibilidad --- -- No permitido\nInvocación de aliados 42 Animar tatuaje El lanzador se arranca un tatuaje de un monstruo de los Mitos de su cuerpo y este anima y va tomando tamaño y volumen hasta transformarse en ese ser.\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QLenguas --- -- No permitido\nLentitud Rapidez --- -- No permitido\nLuz 50 Invocar avatar de Thanaroa Se invoca a un avatar de Thanaroa, el dios malvado con forma de pilar de luz deslumbrante.\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QMejora/Reducción de rasgo --- -- No permitido\nMiedo --- -- No permitido\nProtección 63 Bendición de Yig, Protección de Yig El dios-serpiente Yig bendice al hechicero con una piel dura y llena de escamas que le protege del daño.\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QSimplemente consiste en clavar astillas de madera en la planta de los pies de cadáver.\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QPrincipalmente es aguardiente con azúcar, cáscara de limón o naranja y a veces granos de café, que se flambea.\\E$"}
+{"rule":"EL_TILDE","sentence":"^\\QSi se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QEn caso de maldición, todos los jugadores con la ventaja serán maldecidos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSe puede acceder a K’n-yan desde cuevas y cenotes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q5 K’n-yan Es un reino subterráneo que se encuentra debajo de Oklahoma (EUA).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEstá habitada por unos humanoides inmortales llamados Vieja Raza de K’n-yan y su capital se Tsath en honor a su deidad principal, Tsathoggua.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q6 Yoth Yoth es un reino en ruinas situado debajo de K’n-yan.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\Q2 Ulthar Ulthar es una vieja población de casas de madera situada más allá del río Skai, junto al Bosque encantado, en las Tierras del Sueño. Por ley los gatos no pueden ser dados a muerte por nadie.\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QSimplemente es para darle color al viaje.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QSegún en que relatos salvajes estén metidos podría ser achiote, tabaco o cohoba (el alucinógeno más potente del caribe y parte fundamental del ritual de la cohoba).\\E$"}
+{"rule":"ES_REPEATEDWORDS","sentence":"^\\QCthulhu, tan fundamental como en los relatos de los Mitos y como en estos, tiene una mezcla de magia ritual y de ciencia extraterrestre y futurista.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QY como era tradición familiar, un líder profundo de la tribu N’gha syha’h terminó acercándosele seguramente por la sangre profunda que corre por sus venas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QY como era tradición familiar, un líder profundo de la tribu N’gha syha’h terminó acercándosele seguramente por la sangre profunda que corre por sus venas.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QPrucuta prucuta / Y bueno que’tá\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE + d4\nMordisco:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE + d4.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nTridente:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d10\nDebilidad agua:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAdoran a Yig el dios serpiente como su padre y creador, aunque pequeñísimos grupos le rezan a Tsathoggua, el Durmiente de N’kai.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nAguijón venenoso:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nVisión nocturna:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nHechizos: 12 PP, Conoce 3 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QA atlasobscura.com por la gran cantidad de sitios inusuales en el Caribe que me han servido para ambientar las aventuras.\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q01ElCaribeDeLosMitos.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q02ReglasDeAmbientacion.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q03GuiaDeViajes.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|04NuevosRelatos.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q05MonstruosDelosMitos.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q06QuienEsQuien.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q07DandoColor.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q08Epilogo.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q09Recursos.md|\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QEn su mayoría son usados en las grandes plantaciones de azúcar, tabaco, algodón, etc. y en industrias que transforman esas materias primas.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi consiguen que al final el volcán no estalle coordinado con el resto habrán triunfado, la reacción en cadena se habrá cortado y el Caribe estará salvo.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi consiguen apresarlos podrán interrogarlos y saber qué está pasando y a qué se deben los ataques.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QDe repente se oye a un gran animal corriendo a toda velocidad hacia ellos, derribando los troncos de los árboles que se ponen en su camino.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi van por sigilo y les descubren podrán, ponerse a correr y solo tendrán que correr las rondas que les falten de Sigilo.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi salen corriendo ya no quedará otra que seguir corriendo.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QEs una ciudad rica, moderna y culta.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi todo falla, huye\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi Totep no quiere abandonar el barco, no podrán deshacerse de él.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QTambién son necrófagos, lo que explica el cadáver en la mesa de la cocina.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSegún va cayendo, irá viendo más cosas y personajes de amarillo, de ahí la importancia de la tele amarilla para hacer decorados y trajes.\\E$"}

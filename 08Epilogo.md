@@ -34,7 +34,7 @@ Si no quieres perder tiempo de partida, también puedes crear en casa el tesoro 
 
 ### Inclusión, diversidad y ecología
 
-He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal. He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual (ver más adelante Romancear PNJ). He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
+He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal. He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual (ver más adelante Romancear PNJ). Mi intención ha sido evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
 
 Está claro que los malos van a ser racistas, machistas, homófobos, etc. vamos lo que se considera malas personas en general, pero creo que no debéis permitirles estas conductas a vuestras mesas ni aunque digan que «su personaje es así» o «era lo normal en esa época». Esto es un juego de rol y ya hay mucha mierda en la vida real para aguantarla tú o tus jugadores en una mesa de juego.
 
@@ -52,9 +52,9 @@ Para finalizar, estaré encantado de escuchar cualquier crítica que queráis ha
 
 ### Colonización del Caribe
 
-Aunque en esta ambientación se da a entender que todos los males y desastres del Caribe son culpa de un culto maligno asociado con seres extradimensionales diabólicos como son la RCPC y la Orden del gran Cthulhu, la realidad es que fueron los colonizadores europeos los culpables de la mayoría de actos deleznables que se dieron en el Caribe desde la llegada de Colón.
+Aunque en esta ambientación se da a entender que todos los males y desastres del Caribe son culpa de un culto maligno asociado con seres extradimensionales diabólicos como son la RCPC y la Orden del gran Cthulhu. Sin embargo, la realidad es que fueron los colonizadores europeos los culpables de la mayoría de actos deleznables que se dieron en el Caribe desde la llegada de Colón.
 
-Muchos relatos salvajes están inspirados en esos terribles actos, dándoles un origen lovecraftiano, pero en realidad ocurrieron muchas de cosas muy terribles como la guerra bacteriológica y el diezmado de la población taína por enfermedades traídas por los colonizadores o la desaparición de especie animales y vegetales por sobreexplotación, sin olvidarse de la desaparición de la cultura taína mediante, por ejemplo, evangelizaciones forzosas.
+Muchos relatos salvajes están inspirados en esos terribles actos, dándoles un origen lovecraftiano. Pero en realidad ocurrieron muchas de cosas muy terribles como la guerra bacteriológica y el diezmado de la población taína por enfermedades traídas por los colonizadores o la desaparición de especie animales y vegetales por sobreexplotación. Tampoco debemos olvidarnos de la desaparición de la cultura taína mediante, por ejemplo, evangelizaciones forzosas.
 
 Estoy simplificando mucho todo este tema, pero sin lugar a dudas las potencias europeas sometieron, masacraron y expoliaron el Caribe y a sus pobladores originales.
 
@@ -177,7 +177,7 @@ Damos las gracias y el crédito apropiado a estos increíbles artistas que nos h
 
 \sp
 
-* [Imugi](https://www.deviantart.com/arvalis/art/Imugi-677786102) por [arvalis](https://www.deviantart.com/arvalis/gallery)
+* [serpiente-gigante-cornuda.jpg](https://www.deviantart.com/arvalis/art/Imugi-677786102) por [arvalis](https://www.deviantart.com/arvalis/gallery)
 * [museum_dinosaur_2427.jpg](https://www.freeimageslive.co.uk/free_stock_image/museumdinosaur2427jpg) por [fmanto](https://www.freeimageslive.co.uk/users/fmanto)
 
 A [Bebe a Mordor](https://twitter.com/bebeamordor) por sus [consejos de lenguaje inclusivo](https://bebeamordor.com/comunicacion-inclusiva-redaccion-manuales-juegos/). También a [Miss Launnister](https://twitter.com/Miss_Launnister) por sus [consejos](https://bastionrolero.blogspot.com/2019/04/el-lenguaje-inclusivo-en-nuestros.html). He tratado de hacer un mix y aplicarlo lo mejor posible a mis textos. Cuando esté todo terminado volveremos a darle una nueva revisión para solucionar todos los fallos que se me hayan podido escapar. No es fácil, pero merece la pena.

@@ -150,13 +150,13 @@ La RCPC es una potencia militar en sí misma, tan importante como el reino de Es
 
 Cuando consiguió el control de todo el comercio del Caribe español, pidió permiso para tener más medios (personas y barcos) para controlar la piratería y el contrabando. Estableció oficinas y cuarteles en los grandes puertos y barcos que patrullaban los puertos menores.
 
-Su gran avance fue cuando consiguió el control del Castillo del Morro en la entrada del puerto de La Habana. Esto les daba el control del puerto más importante del Caribe y una fortificación casi inexpugnable en la que proteger los elementos más importantes de la Orden.
+Su gran avance fue cuando consiguió el control del Castillo del Morro en la entrada del puerto de La Habana. Esto les daba el control del puerto más importante del Caribe y una fortificación casi inexpugnable en la que proteger los elementos más valiosos de la Orden.
 
-El tentáculo militar se encarga de las tareas de defensa de instalaciones, barcos y personas importantes de la RCPC. Muy pocas veces se lanza al ataque contra alguna persona o grupo, aunque ha habido algunos casos como matanzas de taínos o colonos para quedarse con sus tierras.
+El tentáculo militar se encarga de las tareas de defensa de instalaciones, barcos y personal de la RCPC. Muy pocas veces se lanza al ataque contra alguna persona o grupo, aunque ha habido algunos casos como matanzas de taínos o colonos para quedarse con sus tierras.
 
 La mayoría de las personas que integran esta rama son simples asalariados o mercenarios que cumplen con su trabajo y obedecen órdenes. Solo los cargos superiores, capitanes de barcos y de la guardia, son parte de la Orden. Hay un par de unidades completamente integradas con fanáticos de la Orden que se usan para esas tareas de ataque y exterminio.
 
-También se encargan de la protección de las instalaciones más importantes de la Orden y los sectarios de más alto rango. De hecho, los más diestros y fanáticos de este tentáculo están como guardias de la Mansión Villalba y del castillo del Morro.
+También se encargan de la protección de las instalaciones de la Orden y los sectarios de más alto rango. De hecho, los más diestros y fanáticos de este tentáculo están como guardias de la Mansión Villalba y del castillo del Morro.
 
 A la cabeza de esas unidades fanáticas está Edward Teach y la tripulación de su barco, el «Desgracia», que se encarga de los más sucios y horribles trabajos.
 
@@ -190,7 +190,7 @@ En la cima de la compañía y de la secta está, indiscutiblemente, Hernando de 
 
 Por debajo de Villalba están los 8 directores de oficina. Cada gran ciudad de Cuba, Santo Domingo y Puerto Rico tiene una oficina de la RCPC que gestiona la actividad de la RCPC y de la Orden en la zona de influencia de cada ciudad. Son poderosos cultistas que tienen bajo su mando sectarios menores que ejecutan sus órdenes. Son discípulos de Villalba, del que han aprendido a usar la fuerza primaria de la magia y tienen grandes conocimientos del mundo de los Mitos.
 
-Bajando un escalafón tenemos capitanes de navíos y a jefes de fábricas. No todos los adeptos de la secta, solo los relacionados con las secciones más oscuras de la RCPC, es decir, el capitán de un barco carguero o el jefe de una fábrica de secado de tabaco, no son parte de la secta, pero el investigador jefe de un laboratorio o el capitán de un barco de guerra de la RCPC si están dentro de la Orden. En general están bien pagados y viven cómodamente. Sus conocimientos mágicos no son muchos, pero lo suplen con conocimientos de los Mitos y buenas habilidades.
+Bajando un escalafón tenemos capitanes de navíos y a jefes de fábricas. No todos son adeptos de la secta, solo los relacionados con las secciones más oscuras de la RCPC. El capitán de un barco carguero o el jefe de una fábrica de secado de tabaco, no son parte de la secta, pero el investigador jefe de un laboratorio o el capitán de un barco de guerra de la RCPC si están dentro de la Orden. En general están bien pagados y viven cómodamente. Sus conocimientos mágicos no son muchos, pero lo suplen con conocimientos de los Mitos y buenas habilidades.
 
 El anteúltimo escalón son los ejecutores especializados, espías de la rama militar, gente entrenada en venenos y asesinato o científicos locos. Pueden formar parte de la cadena de mando o ser agentes solitarios de los que el resto de la secta no tienen ni idea.
 
@@ -212,13 +212,13 @@ Las cosas no le fueron del todo bien intentando ser «legal». Traicionó y enga
 
 #### La caída de Barbanegra
 
-En noviembre de 1718 una flota cazapiratas capitaneada por Robert Maynard y pagada por el gobernador de Virginia zarpó para cazar a Teach que lo encontró en la ensenada de Ocracoke, Carolina del Norte. Empezó una lucha encarnizada de varios días hasta que Maynard consiguió hacer encallar al Aventura.
+En noviembre de 1718 una flota cazapiratas capitaneada por Robert Maynard y pagada por el gobernador de Virginia zarpó para cazar a Teach que lo encontró en la ensenada de Ocracoke, Carolina del Norte. Empezó una lucha encarnizada de varios días hasta que Maynard consiguió hacer encallar al «Aventura».
 
 La historia cuenta que Barbanegra y su gente consiguieron acabar con toda las fuerzas de Maynard, que tenían una ventaja de 3 a 1. Tras masacrarlos y rematar a los heridos, el barco desencalló y continuó su viaje.
 
 \sp
 
-Lo que realmente paso, es totalmente distinto. Mientras Maynard y Barbanegra se preparaban para la lucha final, un barco de velas negras y el casco de extraña forma se acercó por detrás a la flotilla de Maynard y empezó a dispararles con una especie de rayos eléctricos. Mientras, de las aguas, surgieron cientos de profundos que subieron a los barcos de Maynard y masacraron a sus tripulaciones.
+Lo que realmente paso, es totalmente distinto. Mientras Maynard y Barbanegra se preparaban para la lucha final, un barco de velas negras y el casco de extraña forma se acercó por detrás a la flotilla de Maynard y empezó a dispararles con una especie de rayos eléctricos. Entre tanto, de las aguas, surgieron cientos de profundos que subieron a los barcos de Maynard y masacraron a sus tripulaciones.
 
 El navío negro se acercó al «Aventura» y un viejo caballero español paso al barco de Barbanegra para ofrecerle un trato. Era Hernando Villalba en persona, después de varios años encerrado en su casa, ofreciéndole un trato: Saldría vivo de allí si le servía fielmente o sus hombres y sus monstruos acabarían con todos ellos. Firmaron un acuerdo por el cual debía servirle 10 años y obedecer todas sus órdenes, a cambio le daría el barco negro, recursos ilimitados y grandes riquezas para retirarse cuando pasaran los 10 años. En inferioridad, Barbanegra tuvo que aceptar el trato.
 
@@ -278,7 +278,7 @@ En 1708, en la playa de las 7 millas de la isla de Gran Caimán, se reunieron 10
 
 Hasta la creación de la Hermandad, la Orden no tenía un enemigo directo que fuera contra sus intereses más importantes. Las potencias europeas buscaban acabar con los negocios de la RCPC para quedarse con sus recursos y sus barcos eran buenos objetivos para los piratas. Pero con la aparición de la Hermandad, había una entidad que buscaba frustrar los planes principales de la Orden.
 
-Los primeros golpes fueron bastante importantes porque pillaron a la Orden sin preparar, pero enseguida puso a sus espías a investigar y descubrió al nuevo jugador en la mesa de las Antillas que le había ganado las primeras manos.
+Los primeros golpes fueron bastante grandes porque pillaron a la Orden sin preparar, pero enseguida puso a sus espías a investigar y descubrió al nuevo jugador en la mesa de las Antillas que le había ganado las primeras manos.
 
 La RCPC declaró abiertamente la guerra a la piratería y reforzó su rama militar, dedicándose a cazar pirata «donde moren y críen». Poco a poco fue capturando a integrantes de la Hermandad, gastando auténticos dinerales en armar sus barcos y en recompensas. De hecho, un par de capitanes fueron vendidos por su tripulación.
 
@@ -683,7 +683,7 @@ Hoy en día, mientras que Kingston es una moderna y vibrante ciudad, Port Royal 
 
 Es la tercera fuerza extranjera en el Caribe. Posee menos territorio que los ingleses; Saint-Domingue, la parte oeste de la Española, y parte de las Antillas menores. Lleva mucho menos tiempo en el Caribe que el resto y el control de sus territorios es todavía escaso. En los territorios de las Antillas porque no son importantes y en Saint-Domingue porque solo lo controla desde 1697 con el tratado de Ryswick, por el cual España le cedía esos territorios.
 
-Como con Gran Bretaña, la esclavitud está permitida y el trato que se da los esclavos para hacer que las plantaciones sean rentables es tremendamente brutal, con lo que las insurrecciones están a la orden del día. La población de esclavos es grandísima, así que un 5% tiene esclavizada a un 95% de la población y controla casi todas las tierras cultivables y las industrias de transformación de las materias primas.
+Como con Gran Bretaña, la esclavitud está permitida y el trato que se da los esclavos para hacer que las plantaciones sean rentables es tremendamente brutal. Por lo que las insurrecciones están a la orden del día. La población de esclavos es grandísima, así que un 5% tiene esclavizada a un 95% de la población y controla casi todas las tierras cultivables y las industrias de transformación de las materias primas.
 
 La piratería es permitida en tierras francesas, debido a que principalmente atacan a intereses españoles e ingleses y no hay suficientes fuerzas militares para controlarlos. De hecho, la famosa Isla de la Tortuga, la isla pirata por excelencia, es parte de las colonias caribeñas de la corona francesa.
 
@@ -767,7 +767,7 @@ A pesar de los esfuerzos del gobernador, las pequeñas islas deshabitadas que ro
 
 También se disfrazan y disfrutan de las diversiones que Nasáu ofrece a los que tengan oro y ganas de gastarlo. En general, es un buen cobijo pirata, sobre todo para aquellos que no hayan atacado a barcos ingleses o a intereses ingleses con los que el gobernador tiene bastante manga ancha.
 
-El autogobierno que ha vivido los habitantes de las Bahamas durante años han hecho que corran por las calles de las poblaciones de las Bahamas los vientos de la independencia y empieza a haber grupos organizados que buscan que las Bahamas se libren de la «tiranía opresora» de Gran Bretaña. En las tabernas y en las tertulias de las mansiones se habla acaloradamente sobre este tema. De hecho, George Phenney, aspirante a gobernador, predica las bondades de unas Bahamas libres de la opresión inglesa.
+El autogobierno que ha vivido los habitantes de las Bahamas durante años han hecho que corran por las calles de las poblaciones de las Bahamas los vientos de la independencia. Empieza a haber grupos organizados que buscan que las Bahamas se libren de la «tiranía opresora» de Gran Bretaña. En las tabernas y en las tertulias de las mansiones se habla acaloradamente sobre este tema. De hecho, George Phenney, aspirante a gobernador, predica las bondades de unas Bahamas libres de la opresión inglesa.
 
 ### Los cayos de la Florida
 

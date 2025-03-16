@@ -80,7 +80,7 @@ En el Caribe sería normal que cayeran en fondos marinos donde pueden sobrevivir
 
 * **Capacidades especiales:**  
   * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener áreas de 20 casillas de cualquier forma. No tienen bonificadores ni penalizadores por tamaño.
-  * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de si para interactuar con su entorno. La parte sólida no inmune a los ataques físicos.
+  * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de sí mismo para interactuar con su entorno. La parte sólida no es inmune a los ataques físicos.
   * **Volar:** Paso volando 12.
   * **Viaje espacial:** Pueden sobrevivir es el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
   * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno serán cosas que le mantengan en encerrado en el lugar donde esté el color como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
@@ -329,7 +329,7 @@ Los pólipos volantes son una raza extraterrestre que como bien dice su nombre t
 
 Son semi materiales, no son del todo materiales, pero tampoco totalmente incorpóreos. Son lo suficientemente materiales para interactuar con los objetos y los suficientemente incorpóreos para que los vientos los sostengan y para que puedan hacerse invisibles.
 
-Como su nombre también indica, pueden volar, generando vientos debajo suyo que hacen un ruido característico, pero pueden arrastrarse si fuera necesario. Tiene cierto control de los vientos, de forma puede invocarlos a su voluntad.
+Como su nombre también indica, pueden volar, generando vientos a debajo de ellos que hacen un ruido característico, pero pueden arrastrarse si fuera necesario. Tiene cierto control de los vientos, de forma puede invocarlos a su voluntad.
 
 Durante milenios dominaron la Tierra antes de la aparición de los humanos, pero con los siglos han ido decayendo hasta casi extinguirse. Los pocos que han sobrevivido viven ahora escondidos en cavernas.
 
@@ -455,7 +455,7 @@ Los retoños oscuros son unas masas informes de tentáculos con varias bocas. Pa
 * **Habilidades:** Notar d8, Pelea d10, Sigilo 1d12
 * **Paso:** 4; **Parada:** 7; **Dureza:** 11-13 (4/6)
 * **Capacidades especiales:**
-    * **Masa informe:** , no tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen ningún extra. Por ejemplo, disparar a una boca no sirve de nada, ya que hay muchas más.
+    * **Masa informe:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen ningún extra. Por ejemplo, disparar a una boca no sirve de nada, ya que hay muchas más.
     * **Inmunidad:** A explosivos y armas de fuego
     * **Tentáculos:** FUE+d6, pueden hacer dos ataques independientes por turno sin tener penalizadores por hacer varias acciones o por mano mala.
     * **Tamaño grande (4/6):** Los retoños miden entre 4 y 6 metros y un par de metros de diámetro (+4/6 dureza, +2 bonificación al atacarla, +1 herida).
@@ -1028,7 +1028,7 @@ Estos increíbles peces emparentados con los tiburones se caracterizan por su ex
 
 * **Atributos:** Agilidad d8, Astucia d4 (A), Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d8, Notar d12, Pelear d8, Sigilo d8
-* **Paso:** --; **Parada:** 6; **Dureza:** 6
+* **Paso:** —; **Parada:** 6; **Dureza:** 6
 * **Capacidades especiales:**
     * **Acuático:** Paso 10 nadando
     * **Mordisco:** FUE+d6
