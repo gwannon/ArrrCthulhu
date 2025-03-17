@@ -452,7 +452,7 @@ Son naves pequeñas de un mástil y poca tripulación, perfectas para la pesca o
 
 > **Notas:** +2 heridas.
 
-**Armas:** Sin armas.
+> **Armas:** Sin armas.
 
 \conc
 
@@ -470,7 +470,7 @@ Las más rápidas y maniobrables del Caribe, estas naves son perfectas para los 
 
 > **Notas:** +2 heridas.
 
-**Armas:** Sin armas. Se puede instalar cañones quitando espacio de carga y a razón de 4 toneles por cada cañón hasta un máximo de 8 cañones (4 por lado del barco).
+> **Armas:** Sin armas. Se puede instalar cañones quitando espacio de carga y a razón de 4 toneles por cada cañón hasta un máximo de 8 cañones (4 por lado del barco).
 
 \conc
 
@@ -490,7 +490,7 @@ Es el más grande de los navíos con una gran capacidad de carga, pero es tremen
 
 > **Notas:** +3 heridas. Puede quitarse espacio de carga para meter más gente y viceversa a razón de 1 personas por cada 6 toneles.
 
-**Armas:** Sin armas. Se puede instalar cañones quitando espacio de carga y a razón de 4 toneles por cada cañón hasta un máximo de 20 cañones (10 por lado del barco).
+> **Armas:** Sin armas. Se puede instalar cañones quitando espacio de carga y a razón de 4 toneles por cada cañón hasta un máximo de 20 cañones (10 por lado del barco).
 
 \conc
 
@@ -508,7 +508,7 @@ Las naves perfectas para los piratas y las fuerzas del orden. Su buena velocidad
 
 > **Notas:** Blindaje pesado.
 
-**Armas:** Cañones (entre 16 y 46, fijos en las bordas).
+> **Armas:** Cañones (entre 16 y 46, fijos en las bordas).
 
 \conc
 
@@ -528,7 +528,7 @@ Auténticas fortalezas flotantes. Ellas solo pueden tener controlada una ruta co
 
 > **Notas:** Blindaje pesado.
 
-**Armas:** Cañones (entre 30 y 60, fijos en las bordas).
+> **Armas:** Cañones (entre 30 y 60, fijos en las bordas).
 
 \conc
 
@@ -563,7 +563,7 @@ Gran parte de las aventuras que pasen tus héroes van a ser en navíos de todo t
 |Nombre/Descripción|Semanas|Coste|Parte del barco|
 |---|---|---|---|---|
 |**Ariete:** Toda la proa es reforzada para sostener una gran pieza de metal en forma de ariete que permite al barco embestir otros barcos o monstruos marinos de gran tamaño. El barco queda enganchado por el ariete y no pueden separarse. En ese momento aprovecha para hacer un abordaje. Esta modificación permite que todas las tiradas de embestir exitosas se conviertan. Además, en una maniobra de abordaje exitosa. Además, la forma del ariete y su gran tamaño hace muy difícil desengancharse, el -4 normal a la tirada de soltarse se convierte en un -6.|1|300|Proa|
-|**Exclusa de aire en el fondo:** Esta modificación es un desarrollo de los maestres de la RCPC que permite a los profundos entrar y salir de un barco por el fondo sin ser vistos. Puede ser una forma muy simple de sacar o meter contrabando en el barco. En un combate naval, los profundos podrían salir del barco por la esclusa y abordar el barco enemigo por sorpresa.|2|300|Quilla|
+|**Esclusa de aire en el fondo:** Esta modificación es un desarrollo de los maestres de la RCPC que permite a los profundos entrar y salir de un barco por el fondo sin ser vistos. Puede ser una forma muy simple de sacar o meter contrabando en el barco. En un combate naval, los profundos podrían salir del barco por la esclusa y abordar el barco enemigo por sorpresa.|2|300|Quilla|
 |**Ojos de buey en fondo del barco:** A lo largo del casco se han colocado una serie de ojos de buey por debajo de la línea de flotación que permiten observar el fondo marino. Puede que así descubran barcos hundidos, ciudades sumergidas o detecten el ataque de un grupo de profundos. Si se ponen vigías en estos ventanucos, cualquier ataque por sorpresa de seres acuáticos no obtendrá ningún beneficio.|1|400|Casco|
 
 \conc
@@ -712,7 +712,7 @@ Es importante que les pongas nombre, ya que seguramente puedan aparecer más vec
 
 ### Desgracia
 
-Barbanegra tuvo que abandonar el Aventura para capitanear el extraño barco negro que le ofreció Villalba. Lo llamó Desgracia, un juego de palabras entre Adventure y Misadventure. Desde entonces ha navegado con él a las órdenes de su amo, haciendo cosas terribles por todo el mar Caribe.
+Barbanegra tuvo que abandonar el Aventura para capitanear el extraño barco negro que le ofreció Villalba. Lo llamó Desgracia, un juego de palabras entre «Adventure» y «Misadventure». Desde entonces ha navegado con él a las órdenes de su amo, haciendo cosas terribles por todo el mar Caribe.
 
 Si la reina Ana y su bandera negra producía miedo en el corazón de sus enemigos, el «Desgracia» hiela la sangre. De hecho, las gentes de mar evitan mentar su nombre y solo lo llaman «El navío».
 
@@ -721,7 +721,7 @@ Si la reina Ana y su bandera negra producía miedo en el corazón de sus enemigo
 * **Armamento:** 32 cañones y 2 cañones yithianos en la proa y otros 2 en la popa.
 * **Capacidades especiales:**
     * **TPC:** 1d10. La mera presencia de este navío de velas negras produce horror.
-    * **Modificaciones:** Ariete, Exclusa de aire en el fondo, Velas de alas de noctivago, Casco de shoggoth y Cañones Yithianos (4)
+    * **Modificaciones:** Ariete, Esclusa de aire en el fondo, Velas de alas de noctivago, Casco de shoggoth y Cañones Yithianos (4)
 
 ### El golpe de suerte
 
@@ -919,6 +919,47 @@ Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lov
 * Un objeto maldito que provoque ceguera, debería dejar los ojos del objetivo como cuencas vacías o hacer que los párpados parezcan cosidos.
 * Protección recubrirá al hechicero de grandes escamas reptilianas o de una estructura quitinosa que le haga parecer un insecto.
 * Invocar aliados debería traer aliados de entre los muertos o de otras dimensiones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Poderes permitidos
 
