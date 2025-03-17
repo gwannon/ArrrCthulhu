@@ -82,7 +82,7 @@ En 1689 se funda la Compañía de Comercio del Caribe. La pequeña empresa pesqu
 
 \sc
 
-En pocos años con la aprobación del rey de España se convierte en la Real Compañía Privilegiada del Caribe, con Hernando como la persona más rica y poderosa del Caribe.
+En pocos años, con la aprobación del rey de España, se convierte en la Real Compañía Privilegiada del Caribe, con Hernando como la persona más rica y poderosa del Caribe.
 
 Desde hace unos 15 años, Hernando se ha retirado de la vida pública y de la empresarial. Solo se dedica, desde su mansión a las afueras de La Habana, a dirigir la Orden y a llevar a cabo sus planes para levantar R’lyeh de las aguas y despertar a Cthulhu.
 
@@ -90,7 +90,7 @@ Desde hace unos 15 años, Hernando se ha retirado de la vida pública y de la em
 
 La Real Compañía Privilegiada del Caribe (RCPC) tiene, como bien dice su nombre, privilegios en todos los territorios del Caribe controlados por España. Esta empresa tiene el control de todo el comercio entre España y el Caribe español. Nada entra o sale del Caribe sin pasar por sus barcos tras haber pagado diferentes impuestos y tasas.
 
-Debido al apoyo del gobierno de España y a que controla la mayoría del comercio del Caribe tiene gran poder en la zona pudiéndose considerar que el director de cada casa comercial que hay en cada isla del Caribe es casi más poderoso que los propios gobernadores de las islas.
+Debido al apoyo del gobierno de España y a que controla la mayoría del comercio del Caribe, tiene gran poder en la zona, pudiéndose considerar que el director de cada casa comercial que hay en cada isla del Caribe es casi más poderoso que los propios gobernadores de las islas.
 
 \sp
 
@@ -228,7 +228,7 @@ Para asegurarse de que cumple el pacto, Villalba le arrebató el corazón y se l
 
 Barbanegra lleva 4 años como sirviente de Villalba, cumpliendo sus órdenes a rajatabla y siendo su perro faldero. El hombre que enarboló la bandera de la libertad haciendo lo que quería en el Caribe, ahora se ha visto rebajado a obedecer las órdenes de una persona a la que odia a muerte.
 
-Su principal directriz es cazar a Mary Read algo en lo que no ha tenido mucho éxito y entre medias ha atacado todos los objetivos que la Orden le ha marcado. Sin embargo, todo esto no llena el corazón de Teach que por más dinero que atesora sigue sintiéndose desdichado.
+Su principal directriz es cazar a Mary Read, algo en lo que no ha tenido mucho éxito y entre medias ha atacado todos los objetivos que la Orden le ha marcado. Sin embargo, todo esto no llena el corazón de Teach que por más dinero que atesora sigue sintiéndose desdichado.
 
 Lleva todos estos 4 años buscando la forma de romper el pacto con Villalba y recuperar su corazón, pero no ha conseguido nada, solo ha perdido tiempo que no tiene y dinero que por suerte si dispone. Está tan desesperado que escuchará a cualquiera que le ofrezca un buen plan para librarse de su trato.
 
@@ -284,7 +284,7 @@ La RCPC declaró abiertamente la guerra a la piratería y reforzó su rama milit
 
 La RCPC tiene órdenes de no capturar prisioneros cuando se enfrenta a piratas. Aunque los informes y las declaraciones a las autoridades digan lo contrario, pasa a todos los tripulantes por la quilla y hunde el barco.
 
-Su mayor éxito fue acabar con la pareja de piratas de Bonny/Rackham, pero a la vez es su mayor fracaso, ya que puso al frente de la casi extinta Hermandad a Mary Read que ha jurado mantenerla viva como sea y acabar con la Orden. Por ahora su principal misión está siendo en conseguir sangre nueva para la Hermandad. Gracias a sus talentos puede que encuentre a las personas que necesita para llevar su misión a buen puerto.
+Su mayor éxito fue acabar con la pareja de piratas de Bonny/Rackham, pero a la vez es su mayor fracaso, ya que puso al frente de la casi extinta Hermandad a Mary Read, que ha jurado mantenerla viva como sea y acabar con la Orden. Por ahora su principal misión está siendo en conseguir sangre nueva para la Hermandad. Gracias a sus talentos puede que encuentre a las personas que necesita para llevar su misión a buen puerto.
 
 \sp
 
@@ -491,7 +491,7 @@ Sin querer invalidar toda una cultura y reducirla a un único detalle, diremos q
 
 Barbakoa es un vocablo taíno que describe un hoyo en el suelo con brasas dentro que se cubría con una estructura de cañas parecidas a una parrilla donde se asaba o ahumaba la carne y el pescado.
 
-No es de extrañar que alguna persona juntará la barbakoa, con el ron y una playa paradisíaca y se creará una de las actividades de ocio más famosa del mundo.
+No es de extrañar que alguna persona juntará la barbakoa con el ron y una playa paradisíaca y se creará una de las actividades de ocio más famosa del mundo.
 
 ### Los taínos y los Mitos
 
@@ -833,7 +833,7 @@ La fosa de Puerto Rico es un lugar tan inhóspito que ni los profundos lo han ex
 
 ### Otros primigenios y seres de los Mitos
 
-En esta ambientación Cthulhu es el principal antagonista, sobre todo por su conexión con el mar y sus siervos, los profundos. Aparecen también otros primigenios en forma de avatares como Nyarlathotep o Shub-Niggurath. Sin embargo, puedes meter tus propias sectas adoradoras de otros primigenios con sus propios planes apocalípticos.
+En esta ambientación, Cthulhu es el principal antagonista, sobre todo por su conexión con el mar y sus siervos, los profundos. Aparecen también otros primigenios en forma de avatares como Nyarlathotep o Shub-Niggurath. Sin embargo, puedes meter tus propias sectas adoradoras de otros primigenios con sus propios planes apocalípticos.
 
 No sería extraño que hubiera sectas adoradoras de poderosos dioses exteriores o primigenios como Hastur, Yog-Sothoth o Azathoth, o de Ghatanothoa, encerrado en un volcán, sería perfecto en el Caribe como zona volcánica con mucha actividad.
 
