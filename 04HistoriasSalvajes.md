@@ -27,9 +27,9 @@ Lo que tampoco sabe Villalba es que hay un grupo de descastados y parias que van
 
 ![](./images/batalla-naval.webp)
 
-### En el «Carcosa»
-
 \conc
+
+### En el «Carcosa»
 
 **Comienzo:** En el Paso de los Vientos
 

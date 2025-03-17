@@ -2185,9 +2185,8 @@ En esta sección encontrarás todo lo necesario para darle un poco de vida a los
 
 ![Tiempo atmosférico](./images/flotaplata.webp)
 
-### Tiempo atmosférico durante los viajes
-
 \conc
+### Tiempo atmosférico durante los viajes
 
 Te proponemos primero un clima aleatorio acorde con el Caribe y luego encuentros aleatorios por mar y por tierra.
 
@@ -2269,9 +2268,9 @@ El huracán en tierra no es menos terrible, puede arrasar una isla, destruyendo 
 
 ![Encuentros en el mar](./images/encuentros-mar.webp)
 
-### Encuentros en el mar
-
 \conc
+
+### Encuentros en el mar
 
 Cada vez que se realiza un viaje largo por mar puedes tirar en la siguiente tabla. Si algún resultado no puede ser aplicado, como el comienzo de algún relato salvaje, puede volver a tirar otro encuentro o simplemente es un viaje tranquilo.
 
@@ -2340,9 +2339,9 @@ Cada vez que se realiza un viaje largo por mar puedes tirar en la siguiente tabl
 
 ![Encuentros en la jungla](./images/encuentros-tierra.webp)
 
-### Encuentros en la jungla
-
 \conc
+
+### Encuentros en la jungla
 
 Cada vez que se realiza un viaje largo por tierra, normalmente atravesando junglas y pantanos, puedes tirar en la siguiente tabla. Si algún resultado no puede ser aplicado, como el comienzo de algún relato salvaje, puede volver a tirar otro encuentro o simplemente es un viaje tranquilo.
 
@@ -2410,9 +2409,9 @@ Cada vez que se realiza un viaje largo por tierra, normalmente atravesando jungl
 
 ![Perdidos en el tiempo y el espacio](./images/encuentros-mas.webp)
 
-### Perdidos en el tiempo y el espacio
-
 \conc
+
+### Perdidos en el tiempo y el espacio
 
 Puede ser que en algún momento los héroes sean absorbidos por un agujero dimensional, sean desterrados a otros planos por un hechicero, abducidos por alguna raza extraterrestre o simplemente al usar una llave de plata la puerta se abra a un nuevo plano. Con esta tabla podrás elegir donde acaba tu mesa. Cada opción viene con ideas de aventuras y de cómo volver.
 
