@@ -66,8 +66,40 @@ XXX
 
 **Comienzo:** En una comunidad taína en mitad de la selva
 
-> El behike o chamán del poblado taíno ha desaparecido sin dejar rastro y sus máscaras de concha de caracol marino gigante han sido destruidas. Los guerreros más jóvenes que quieren adentrarse a buscarlo, pero el cacique cree que es una trampa que busca dejar el poblado sin una importante parte de sus defensores.
+> El behike o chamán del poblado taíno ha desaparecido sin dejar rastro y sus máscaras de concha de caracol marino gigante han desaparecido con él. Los guerreros más jóvenes que quieren adentrarse a buscarlo, pero el cacique cree que es una trampa de sus enemigos que busca dejar el poblado sin una importante parte de sus defensores.
 
 Quizás el grupo puede ayudar buscando al behike en vez de los guerreros locales o puede que se queden a ayudar a defender el asentamiento mientras la expedición de rescate del chamán está fuera.
 
+La realidad es que el cacique Caicos hace meses fue asesinado y suplantado por un serpigente y quería que un compañero suyo ocupará el cuerpo del behike Jobo, pero este, alertado por una visiones durante una cohoba, huyo antes de que pudieran hacerlo.
+
 XXX
+
+En ambos casos el cacique Caicos les ofrecerá XXX
+
+#### Expedición de rescate o defensa del poblado
+
+Tanto si están en la expedición de caza como defendiendo el poblado, si lo deseas, podrás meterles algún encuentro en la jungla. Algo sencillo sin combate como un cenote o un árbol ceiba. Debe darles la sensación de que tiene el suficiente valor para que sospechen que es los buscan la serpigente cuando descubran todo su plan.
+
+#### El regreso del behike
+
+Tanto si salen en una partida de guerra como si se quedan defendiendo el poblado, en un par de días encontrarán al behike XXX desorientado y deshidratado. No sabe muy bien donde está, pero no tiene señales de lucha, solo algunos rasguños de moverse por la jungla.
+
+Por mucho que trate de recordarlo, no sabrá donde ha estado y estará bastante despistado. Tampoco sabe nada de las máscaras, así que se pondrá a preparar unas nuevas. Les pedirá a tu mesa que si van a volver a pasar les consigan unas conchas de caracol para tallar sus nuevas máscaras.
+
+XXX
+
+\sp
+
+#### Meses más tarde
+
+Cuando se hayan olvidado de todo el tema del behike Jobo se lo volverán a encontrar en otra parte del Caribe. Quizás sea el nuevo chamán de una comunidad de taínos o viva como un asceta en una choza en la playa, preparando amuletos y pócimas para las gentes locales.
+
+Si hablan con él les contará que huyo del poblado por desavenencias con el cacique Caicos. En una cohoba vio que el propio cacique buscaba acabar con su vida y huyo antes de que se cumplieran las visiones. Caicos y él eran buenos amigos, hasta que unos meses antes de su fuga, empezó a cambiar y actuar de forma extraña, mucho más violento y agresivo. 
+
+XXX
+
+#### Regreso al poblado
+
+XXX
+
+Usa un científico serpigente para Jobo y uno soldado para el cacique Caicos.
