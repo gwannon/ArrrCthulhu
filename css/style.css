@@ -794,3 +794,28 @@ section:last-of-type > p > img {
   height: auto;
 }
 
+/* Media Query */
+
+@media screen {
+  body {
+    max-width: 800px;
+    margin: auto;
+  }
+
+  section {
+    position: relative;
+  }
+
+  section:first-of-type:before,
+  section:last-of-type:before {
+    max-width: 800px;
+    margin: auto;
+  }
+
+  .saltopagina {
+    height: 1px;
+    opacity: 0;
+    overflow: hidden;
+  }
+
+}

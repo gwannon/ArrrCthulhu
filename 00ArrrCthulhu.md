@@ -1,38 +1,38 @@
-01ElCaribeDeLosMitos.md|
+|01ElCaribeDeLosMitos.md|
 
 ***
 
-02ReglasDeAmbientacion.md|
+|02ReglasDeAmbientacion.md|
 
 ***
 
-03GuiaDeViajes.md|
+|03GuiaDeViajes.md|
 
 ***
 
 |04HistoriasSalvajes.md|
 
-|04NuevosRelatos.md|
+04NuevosRelatos.md|
 
 ***
 
-05MonstruosDelosMitos.md|
+|05MonstruosDelosMitos.md|
 
 ***
 
-06QuienEsQuien.md|
+|06QuienEsQuien.md|
 
 ***
 
-07DandoColor.md|
+|07DandoColor.md|
 
 ***
 
-08Epilogo.md|
+|08Epilogo.md|
 
 ***
 
-09Recursos.md|
+|09Recursos.md|
 
 ***
 
