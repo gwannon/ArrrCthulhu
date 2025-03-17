@@ -766,17 +766,19 @@ Se estima que el círculo de piedras era usado como calendario, que establecía 
 
 Con la colonización de los españoles y la caída de los caciques, todas estas prácticas desaparecieron, pero el lugar sigue siendo importante para los taínos de la Española. En caso de necesitar reunir a los pocos caciques que aún existen, este sería el lugar perfecto. También sería perfecto para dirimir rencillas entre caciques con una conferencia de paz o con un partido de batú.
 
+\sc
+
 > Los constructores de este sitio no solo lo eligieron por su emplazamiento en el centro de la isla, quedando cerca a todos los cacicazgos, también porque es un punto con un gran poder mágico. Toda cohoba celebrada aquí otorga un +2 a las tiradas de Espíritu. Deberías permitir a tu mesa que pueda acceder a visiones de más valor y de seres más poderosos al realizarla aquí. Tampoco debes dejarles que se dediquen a hacer cohobas cada vez que no sepan qué hacer.
 
 #### Isla Catalina
 
-Isla Catalina se encuentra en la costa sureste de Santo Domingo, es una isla de unos 10 km² que la RCPC compro, con la bendición de la Iglesia y el obispo, para crear una leprosería.
+Isla Catalina se encuentra en la costa sureste de Santo Domingo, es una isla de unos 10 km² que la RCPC compro, con la bendición de la Iglesia y el obispo, para crear una leprosería. Las banderas avisando de lepra están por toda la costa, así que ningún barco más se acerca a sus costas.
 
 Se montaron una serie de cabañas donde viven los enfermos de lepra, un pozo, un embarcadero y campos de cultivos para que pudieran cultivar su comida. Disponen de herramientas para reparar sus cabañas y construir otras nuevas.
 
-Una vez a la semana llega un barco que lleva provisiones y personal sanitario que tratan a los enfermos más graves. Un clérigo aprovecha también para celebrar misa y toma confesión. Las banderas avisando de lepra están por toda la costa, así que ningún barco más se acerca a sus costas.
-
 \sp
+
+Una vez a la semana llega un barco que lleva provisiones y personal sanitario que tratan a los enfermos más graves. Un clérigo aprovecha también para celebrar misa y toma confesión. 
 
 Los enfermos están completamente incomunicados con el resto del mundo. No reciben visitas de familiares y no tienen contacto con nadie de fuera, excepto los médicos que les visitan semanalmente. Las corrientes hacen casi imposible salir de la isla con una embarcación improvisada.
 
@@ -1058,7 +1060,13 @@ Le encantan las historias de piratas e invita a bebida a cualquiera que quiera c
 
 Avery es un fantástico estratega, lo cual explica su gran éxito como pirata. Si te ganas tu amistad contándole alguna historia buena de su gusto, puede estudiar un plan de ataque, ver sus fallos y dar posibles soluciones. También responderá a tus cartas, pero este método es mucho más lento.
 
-> En juego, tiene Tácticas d12+2 y si le presentas un plan puede tirar sus Tácticas. Por cada avance que consiga tu mesa puede hacerte una pregunta sobre su plan y deberás contestarles con la verdad, pero sin ofrecer más información de la que tengan. Serían preguntas como: ¿Cuál es el principal fallo de mi plan? ¿Debo hacerlo de noche o de día? …
+> En juego, tiene Tácticas d12+2 y si le presentas un plan puede tirar sus Tácticas. 
+
+\sc
+
+> Por cada avance que consiga tu mesa puede hacerte una pregunta sobre su plan y deberás contestarles con la verdad, pero sin ofrecer más información de la que tengan. Serían preguntas como: ¿Cuál es el principal fallo de mi plan? ¿Debo hacerlo de noche o de día? …
+
+&nbsp;
 
 > _**Sugerencia de beni:** Recompensa con un par de benis al que averigüe quién es el viejo pirata de Nasáu. Y con alguno más si no se lo cuenta a nadie._
 
@@ -1108,7 +1116,7 @@ La VLH se distribuye por todo el Caribe, los marineros y comerciantes los compra
 
 \sp
 
-> A nivel de juego, es una forma perfecta de meter a tu mesa en diferentes aventuras. Pueden encontrar alguna extraña oferta de trabajo o enterarse de algún extraño suceso que investigar. De hecho, siempre que encuentren una edición de la VLH, podrán tirar en la tabla de Sucesos extraños de La verdad de La Habana en la sección de «Viajes y encuentros».
+> A nivel de juego, es una forma perfecta de meter a tu mesa en diferentes aventuras. Pueden encontrar alguna extraña oferta de trabajo o enterarse de algún extraño suceso que investigar. De hecho, siempre que encuentren una edición de la VLH, podrán tirar en la tabla de Noticias de La verdad de La Habana.
 
 ### Mary Read y La verdad de La Habana
 
