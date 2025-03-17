@@ -32,7 +32,7 @@
 
 ***
 
-|09Recursos.md|
+09Recursos.md|
 
 ***
 
