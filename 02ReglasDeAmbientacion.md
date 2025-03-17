@@ -440,7 +440,9 @@ Provisiones son el coste de las provisiones necesarias para navegar una semana e
 
 ### Naves pequeñas
 
-Son naves pequeñas de un mástil y poca tripulación, perfectas para la pesca o el transporte de carga o pasajeros entre islas. Su pequeño tamaño y calado les permite meterse donde otros barcos más grandes no pueden. No están preparadas para grandes travesías.
+Son naves pequeñas de un mástil y poca tripulación, perfectas para la pesca o el transporte de carga o pasajeros entre islas.
+
+Su pequeño tamaño y calado les permite meterse donde otros barcos más grandes no pueden. No están preparadas para grandes travesías.
 
 \sinc
 
