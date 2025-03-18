@@ -3504,3 +3504,90 @@ Si quieres puedes, hacer que un cacique profundo le otorgue a tu grupo una **car
 Si se van sin resolver el problema del color, el pueblo será arrasado por los profundos infectados. El color original una vez su cría sea adulta volverá a las estrellas mientras las crías infectarán nuevas zonas del mar.
 
 > _**Recompensa extra de cordura (+1):** Si consiguen acabar con el color y restaurar el equilibrio natural (fauna y flora marina, profundos y humanos) deberían recibir 1 punto de cordura. De alguna extraña manera, el hecho de que hayan restaurado el frágil equilibrio de todos los elementos de la zona ayuda a tu cordura._
+
+### Behike
+
+**Comienzo:** En una comunidad taína en mitad de la selva
+
+> El behike o chamán del poblado taíno ha desaparecido sin dejar rastro y sus máscaras de concha de caracol marino gigante han desaparecido con él. 
+
+\sc
+
+> Los guerreros más jóvenes que quieren adentrarse a buscarlo, pero el cacique cree que es una trampa de sus enemigos que busca dejar el poblado sin una importante parte de sus defensores.
+
+Quizás el grupo puede ayudar buscando al behike en vez de los guerreros locales o puede que se queden a ayudar a defender el asentamiento mientras la expedición de rescate del chamán está fuera.
+
+La realidad es que el cacique Caicos hace meses fue asesinado y suplantado por un serpigente. Este quería que un compañero suyo ocupará el cuerpo del behike Jobo, pero este, alertado por una visiones durante una cohoba, huyo antes de que pudieran hacerlo.
+
+Caicos verá en tu mesa una forma de que su compañero entre en el poblado con ellos y como no lo conocen no sospechen nada raro y no le hagan preguntas incómodas que podrían hacerle el grupo de guerreros. Una vez dentro Caicos ya se encargará de que nadie sospeche nada de su compañero.
+
+\sp
+
+Está muy interesado en que participen sin saberlo en su plan, así que ambos casos el cacique Caicos les ofrecerá una buena cantidad de pepitas de oro (por valor de unos 700 doblones), así como provisiones para varios días.
+
+Si no les ve convencidos, les insinuará que podría hacer la vista gorda si quieren tener relaciones carnales no del todo consentidas con gente de su tribu. Ten en cuenta que Caicos no es un humano, sino un serpigente que ha tomado la forma de Caicos. Para él, los habitantes del poblado son casi como ganado y los usará como mejor le convenga.
+
+#### Expedición de rescate o defensa del poblado
+
+Tanto si están en la expedición de caza como defendiendo el poblado, si lo deseas, podrás meterles algún encuentro en la jungla. Algo sencillo sin combate como un cenote o un árbol ceiba. Debe darles la sensación de que tiene el suficiente valor para que sospechen que es los buscan la serpigente cuando descubran todo su plan.
+
+#### El regreso del behike
+
+En un par de días encontrarán al behike Jobo desorientado y deshidratado en mitad de la jungla tanto si daban una vuelta de reconocimiento al poblado como si estaban en ruta para rescatarlo. No sabe muy bien donde está, pero no tiene señales de lucha, solo algunos rasguños de moverse por la jungla.
+
+Por mucho que trate de recordarlo, no sabrá donde ha estado y estará bastante despistado. Tampoco sabe nada de las máscaras, así que se pondrá a preparar unas nuevas en cuanto regresen a casa no queriendo recibir a nadie en su choza. Con ese truco podrá estar tranquilo mientras Caicos le explica lo que debe saber del poblado.
+
+Les pedirá a tu mesa que si van a volver a pasar les consigan unas conchas de caracol para tallar sus nuevas máscaras.
+
+Caicos pagará sin problema y todo parecerá haberse solucionado perfectamente.
+
+#### Meses más tarde
+
+Cuando se hayan olvidado de todo el tema del behike Jobo se lo volverán a encontrar en otra parte del Caribe. Quizás sea el nuevo chamán de una comunidad de taínos o viva como un asceta en una choza en la playa, preparando amuletos y pócimas para las gentes locales.
+
+\sp
+
+Si hablan con él, negará todo, pero si son insistentes terminará cediendo y les contará que huyo del poblado por desavenencias con el cacique Caicos. En una cohoba vio que el propio cacique buscaba acabar con su vida y huyo antes de que se cumplieran las visiones. Caicos y él eran buenos amigos, hasta que unos meses antes de su fuga, empezó a cambiar y actuar de forma extraña, mucho más violento y agresivo. 
+
+#### Regreso al poblado
+
+Alguien debería investigar quien es el otro Jobo y esos deberían ser tu mesa. Jobo ha cambiado de vida y sus responsabilidades son con su nueva comunidad, pero estará muy agradecido si investigan qué está pasando.
+
+No han de volver al momento al poblado del cacique Caicos, pero si vuelven a la isla podrían hacer una expedición para investigar qué pasa.
+
+Si se acuerdan pueden presentarse con las conchas de caracol para las máscaras. El behike Jobo real estará encantado de darles algunas de las que guarda para él.
+
+\sc
+
+#### Malditos serpigente
+
+Cuando vuelvan al poblado taíno, la gente se acordará de ellos y les tratarán en consecuencia a su anterior visita.
+
+Tu mesa sabe que alguien o algo está suplantando al behike Jobo, pero pudiera que haya más como el cacique Caicos que empezó a actuar raro. No pueden saber quien es real y quien un «doppelgänger», así que tendrán que andarse con cuidado.
+
+Vías de investigación posibles:
+
+* Con Mitos sabrán que todo esto puede ser un hechizo de cambio de forma y que siempre tienen fallos, como igual que conservan su sombra original o en caso de serpigente su lengua bífida.
+* Con una buena tirada puede saber que estas técnicas son comunes entre serpigente.
+* Si hablan con la gente del poblado, solo actúan raro el cacique y el behike.
+* Jobo y Caicos nunca estarán solo, así que será muy difícil tratar de interrogarlos sin que intervengan sus guerreros.
+
+Puede intentar desenmascarar a los serpigente con alguna de estas ideas:
+
+\sp
+
+* Los serpigente son carnívoros.
+* Jobo se supone que sabe magia, pero el cacique Caicos no debiera y pueden pillarle haciendo magia.
+* Pueden pedir una cohoba con Caicos y Jobo y que los espíritus les den la respuesta. En realidad ninguno de los dos sabe hacer los polvos alucinógenos para la cohoba y tendrán que hacer un ritual falso.
+* Seguramente seguirán adorando a sus dioses serpientes, quizás encuentren sus artefactos religiosos.
+
+En cuanto se vean acorralados y noten que si tapadera flojea, tratarán de coger a sus fieles guerreros y acabar con las vidas de la tus PJ. Seguramente traten de llevarlos lejos del poblado o asesinarlos mientras duermen.
+
+Usa un científico serpigente para Jobo y uno soldado para el cacique Caicos. Mientras no puedan demostrar que el cacique y el behike son serpiente suplantándolos, tendrán el apoyo de por lo menos dos combatientes taínos por cada PJ de tu mesa.
+
+Los serpientes huirán si la cosa se pone complicada para ellos. Ya buscarán otro sitio donde infiltrarse y tratar de sobrevivir.
+
+Con los cuerpos de los dos serpientes o el testimonio de algún guerrero superviviente del combate podrán demostrar toda su historia y el poblado no creerá que han matado a sus dirigentes. Si los serpientes huyen, ellos también tendrán que hacerlo, porque todo el poblado querrá sus cabezas y mejor que no vuelvan por la zona en una larga temporada.
+
+Si vuelven a encontrarse con el auténtico Jobo, podrán ponerle al día y seguramente se lo agradezca con algún amuleto o enseñándoles algún ritual.
+

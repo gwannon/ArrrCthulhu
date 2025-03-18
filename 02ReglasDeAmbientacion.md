@@ -922,47 +922,6 @@ Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lov
 * Protección recubrirá al hechicero de grandes escamas reptilianas o de una estructura quitinosa que le haga parecer un insecto.
 * Invocar aliados debería traer aliados de entre los muertos o de otras dimensiones.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Poderes permitidos
 
 No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un listado de los poderes y sus versiones en hechizos que son posibles en ¡Arrr! Cthulhu.
@@ -1136,7 +1095,7 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 |Protección arcana|66|Muñeco vudú de protección|El brujo saca un muñeco vudú réplica de él mismo al que se desviará casi todos los ataques mágicos que se le lancen.|
 |Protección ambiental|67|Hidromiel espacial|El mago elabora una hidromiel que permite resistir las inclemencias del vacío estelar. Pero también vale para el fondo marino, por ejemplo.|
 |Protección ambiental|68|Adaptación|Entre gritos de dolor, el cuerpo del conjurador empieza a modificarse grotescamente para desarrollar órganos que le den posibilidad de sobrevivir y moverse en el ambiente que desee. Por ejemplo, agallas y extremidades palmeadas para poder respirar y moverse debajo del agua y capas de grasa para aguantar las bajas temperaturas del agua.|
-|Proyectil|69|Pudrir carne|De las manos del brujo salen unos rayos negros que al impactar sobre su objetivo lo pudre, corrompe u oxida produciéndole mucho daño.|
+|Proyectil|69|Pudrir carne|De las manos del brujo salen unos rayos negros que al impactar sobre su objetivo lo pudre, corrompe u oxida, produciéndole mucho daño.|
 |Proyectil|70|Impacto sónico|El grito desgarrador del mago toma forma sólida golpeando brutalmente a su objetivo.|
 
 \conc
@@ -1167,7 +1126,7 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 |Sueño|79|Don de Hypnos|El hechicero lanza arena sobre su objetivo.|
 |Sueño|80|Pesadillas de R’lyeh|El conjurador canta una nana en cthulhunés (el idioma de R’lyeh) que hace que sus objetivos caigan dormidos y sufran terribles pesadillas con los horrores que se esconden en la ciudad sumergida.|
 |Telekinesis|81|Poder mental|El mentalista se concentra en un objeto, pudiendo moverlo con el poder bruto de su mente.|
-|Telekinesis|82|Siervo invisible|El taumaturgo invoca a unos seres extradimensionales, casi invisibles e intangibles que obedecen sus órdenes moviendo objeto. Las formas de estos seres pueden vislumbrarse al distorsionar la luz a través de ellos, como hace el calor en los espejismos en el desierto.|
+|Telekinesis|82|Siervo invisible|El taumaturgo invoca a unos seres extradimensionales, casi invisibles e intangibles, que obedecen sus órdenes moviendo objeto. Las formas de estos seres pueden vislumbrarse al distorsionar la luz a través de ellos, como hace el calor en los espejismos en el desierto.|
 |Teleportación|83|Viaje angular|El hechicero usa los ángulos y las líneas rectas en los objetos y estancias para conectar con la estructura interna del espacio y poder así teleportarse.|
 
 \conc
@@ -1801,7 +1760,7 @@ Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan ti
 
 |1d10|Capacidad|
 |---|---|
-|1-4|De buena calidad, +1 a pelea +1 a daño|
+|1-4|De buena calidad, +1 a pelea y +1 a daño|
 |5-6|Afilada, +2 a daño|
 |7|Ornamentada, x10 su precio normal|
 |8|De duelo, +1 a pelea y +2 a daño|
@@ -1823,7 +1782,7 @@ Puede haber situaciones, decisiones, trampas, misterios, PNJ, etc. que tengan ti
 
 |1d10|Capacidad|
 |---|---|
-|1-4|De buena calidad, +1 a disparo +1 a daño|
+|1-4|De buena calidad, +1 a disparo y +1 a daño|
 |5-6|Precisa, +2 a disparo|
 |7|Ornamentada, x10 su precio normal|
 |8|De duelo, +2 a disparo y +1 a daño|
@@ -2064,7 +2023,7 @@ El ánfora se quedará en la Tierra de los sueños, para volver a aparecer años
 
 Si algún tripulante se despierta mientras están en la Tierra de los Sueños, el barco y su tripulación se quedarán allí atrapados hasta que encuentren la forma de volver.
 
-**Arma lanzarrayos de la gran raza de Yith:** Esta arma de rayos parecida a una cámara de fotos de gran tamaño, posee un gran poder destructivo. Ver características en la sección de Equipo. Hay un 50% de posibilidades de que venga con un cargador extra.
+**Arma lanzarrayos de la gran raza de Yith:** Esta arma de rayos, parecida a una cámara de fotos de gran tamaño, posee un gran poder destructivo. Ver características en la sección de Equipo. Hay un 50% de posibilidades de que venga con un cargador extra.
 
 **Carta náutica de los profundos:** Estos mapas hechos por los profundos en piel curtida de tiburones y grandes cetáceos son muy detallados en temas de corrientes, costas, arrecifes, etc. y otorgan +2 a las tiradas de Navegar dentro de la zona representada por el mapa.
 
@@ -2088,7 +2047,7 @@ Pero también está maldita, imbuida por todo el odio de Anacaona hacia los espa
 
 Podrá deshacerse de esas desventajas cuando se haga sobre él un hechizo de Destierro si no han acabado con él sus ansias de sangre y venganza. Solo una tirada de Mitos con 2 avances permitirá detectar la maldición que porta este objeto.
 
-**Espora de Ubbo-Sathla:** Ubbo-Sathla es un dios primigenio que vino nuestro planeta desde el espacio. Se cree que es el origen de la vida en la tierra. Es una masa informe con un color y textura parecida al légamo sin cabeza ni extremidades reconocibles. Lo que tienes entre las manos es una de sus esporas. Si se planta en la tierra, a mañana siguiente en el lugar donde se plantó saldrán todo tipo de plantas cubriendo toda la zona de vegetación (un círculo de 100 metros de radio).
+**Espora de Ubbo-Sathla:** Ubbo-Sathla es un dios primigenio que vino nuestro planeta desde el espacio. Se cree que es el origen de la vida en la tierra. Es una masa informe con un color y textura parecida al légamo, sin cabeza ni extremidades reconocibles. Lo que tienes entre las manos es una de sus esporas. Si se planta en la tierra, a mañana siguiente en el lugar donde se plantó saldrán todo tipo de plantas cubriendo toda la zona de vegetación (un círculo de 100 metros de radio).
 
 \sp
 
@@ -2158,7 +2117,7 @@ El cristal tiende a distorsionar de alguna manera lo que se ve y hacerlo más pe
 |9|Decrepitud|
 |10|Castigo de Nodens|
 |11|Maldición de Jasy Jateré|
-|12|Venganza de Montezuma|
+|12|Venganza de Moctezuma|
 
 **Apagafaroles:** Toda forma de luz artificial se apaga si entra en el rango de visión del maldito y no se volverá a encender hasta que deje de verla. Da lo mismo una antorcha cercana que un faro a kilómetros de distancia, si el portador de la maldición ve el brillo de artilugio luminoso este se apagará. Para más inri, si cierra los ojos y, por tanto, se queda a oscuras, las luces podrán volver a encenderse.
 
@@ -2196,7 +2155,7 @@ Para saber como acabar con la maldición vale con pasar una tirada de Mitos o pu
 
 **Sed insaciable:** Los líquidos se niegan a deslizarse por la garganta del maldito, desde agua y alcohol hasta bebedizos mágicos. Según pasen los días, el personaje se irá deshidratando y puede que termine muriendo.
 
-**Venganza de Montezuma:** La venganza de Montezuma no deja de ser una simple diarrea del viajero, pero en este caso será muy grave. El héroe saldrá corriendo al váter (si es que lo hay) cada dos por tres y se pasará horas en él. 
+**Venganza de Moctezuma:** La venganza de Moctezuma no deja de ser una simple diarrea del viajero, pero en este caso será muy grave. El héroe saldrá corriendo al váter (si es que lo hay) cada dos por tres y se pasará horas en él. 
 
 \sp
 

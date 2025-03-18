@@ -209,3 +209,4 @@
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QSi los serpientes huyen, ellos también tendrán que hacerlo, porque todo el poblado querrá sus cabezas y mejor que no vuelvan por la zona en una larga temporada.\\E$"}
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QLos serpientes huirán si la cosa se pone complicada para ellos.\\E$"}
 {"rule":"AGREEMENT_DET_GN","sentence":"^\\QCon los cuerpos de los dos serpientes o el testimonio de algún guerrero superviviente del combate podrán demostrar toda su historia y el poblado no creerá que han matado a sus dirigentes.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QEn realidad ninguno de los dos sabe hacer los polvos alucinógenos para la cohoba y tendrán que hacer un ritual falso.\\E$"}
