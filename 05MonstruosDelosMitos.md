@@ -992,24 +992,23 @@ Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pi
 
 #### Combatiente taíno 
 
-XXX. Puede que no tengan las mejores armas y armaduras, pero para desgracia de sus enemigos conocen su entorno muy bien y eso les hace muy peligrosos.
+Vivir en un mundo hostil como es el Caribe y sus selvas con peligros tanto internos, como externos y extraplanares te curte y te convierte en un excepcional combatiente. Puede que los taínos no tengan las mejores armas y armaduras, pero para desgracia de sus enemigos conocen su entorno muy bien y eso les hace muy peligrosos.
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d6, Vigor d8
 * **Habilidades:** Atletismo d6, Disparar d6, Idioma materno d6, Notar d6, Pelear d8, Sigilo d6, Supervivencia d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
-* **Ventajas:** XXX
 * **Desventajas:** XXX
+* **Ventajas:** XXX
 * **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6)
 
 #### Cacique
 
 Este jefe o jefas tribales llevan años liderando a su pueblo y se las han visto con todo tipo de problemas y horrores, desde seres que habitan lo profundo de las selvas, hasta esclavistas y grandes terratenientes que quieren expulsarlos de sus tierras para cultivar azúcar de caña.
 
-* **Atributos:** Agilidad d4, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d4, Idioma materno d10, Idioma Criollo d6, Intimidar d6, Humanidades d6, Pelear d6, Tácticas d6, Supervivencia d8
-
 \sp
 
+* **Atributos:** Agilidad d4, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d4, Idioma materno d10, Idioma Criollo d6, Intimidar d6, Humanidades d6, Pelear d6, Tácticas d6, Supervivencia d8
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** XXX
 * **Ventajas:** XXX
@@ -1019,14 +1018,14 @@ Este jefe o jefas tribales llevan años liderando a su pueblo y se las han visto
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu d8, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
 * **Habilidades:** XXX
-* **Paso:** 6; **Parada:** X; **Dureza:** X
+* **Paso:** 6; **Parada:** X; **Dureza:** 5
 * **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes, Puntos de poder
 * **Desventajas:** XXX
 * **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6)
-* **Hechizos:** 16 PP. XXX
-* **Rituales:** Ritual de la cohoba, XXX 
+* **Hechizos:** 16 PP. Canto de Babalú Ayé, Expulsar ente
+* **Rituales:** Ritual de la cohoba, Adivinación con mandiocas, Máscaras de Caracol de Yúcahu, Máscaras de Caracol de Opiyelguobirán, Trigonolito de Atabey, Soltar al gallo
 
 ### Animales salvajes
 

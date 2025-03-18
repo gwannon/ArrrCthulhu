@@ -204,3 +204,4 @@
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi Totep no quiere abandonar el barco, no podrán deshacerse de él.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QTambién son necrófagos, lo que explica el cadáver en la mesa de la cocina.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSegún va cayendo, irá viendo más cosas y personajes de amarillo, de ahí la importancia de la tele amarilla para hacer decorados y trajes.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QRitual de la cohoba, Adivinación con mandiocas, Máscaras de Caracol de Yúcahu, Máscaras de Caracol de Opiyelguobirán, Trigonolito de Atabey, Soltar al gallo\\E$"}
