@@ -36,7 +36,11 @@ Estás u otras que se te ocurran son algunas de las acciones que pueden ser obse
 * Un capitán de barco borracho golpea al grumete por derramar la bebida que le había ordenado traerle.
 * Un esclavo muy mayor es obligado por su amo a cargar con un gran peso que le vence cada pocos pasos.
 
-XXX
+Si crees que han actuado bien, el cacique Gabu intentará hablar con ellos. Les contará su historia haciendo tan terrible como pueda aunque tampoco debe exagerar mucho.
+
+No les va a mentir en temas de pago, no tiene dinero ni oro con que pagar, pero les promete que les darán todo lo que tienen y que su ayuda será recordada durante siglos en las historias de su gente.
+
+Si rechazan el trabajo, apunta en que isla estaban. Pueden encontrarse con esta comunidad en alguno de sus viajes por la selva de la isla. Esta vez les será más difícil decir que no cuando presencien la situación en la que están.
 
 #### El viaje al poblado
 
@@ -60,6 +64,8 @@ XXX
 
 XXX
 
+> **Recompensa de cordura (+1):** XXX
+
 \sp
 
 ### Behike
@@ -70,7 +76,7 @@ XXX
 
 Quizás el grupo puede ayudar buscando al behike en vez de los guerreros locales o puede que se queden a ayudar a defender el asentamiento mientras la expedición de rescate del chamán está fuera.
 
-La realidad es que el cacique Caicos hace meses fue asesinado y suplantado por un serpigente y quería que un compañero suyo ocupará el cuerpo del behike Jobo, pero este, alertado por una visiones durante una cohoba, huyo antes de que pudieran hacerlo.
+La realidad es que el cacique Caicos hace meses fue asesinado y suplantado por un serpigente. Este quería que un compañero suyo ocupará el cuerpo del behike Jobo, pero este, alertado por una visiones durante una cohoba, huyo antes de que pudieran hacerlo.
 
 XXX
 
@@ -102,4 +108,4 @@ XXX
 
 XXX
 
-Usa un científico serpigente para Jobo y uno soldado para el cacique Caicos.
+Usa un científico serpigente para Jobo y uno soldado para el cacique Caicos. Mientras no puedan demostrar que el cacique y el behike son serpiente suplantándolos, tendrán el apoyo de por lo menos dos combatientes taínos por cada PJ de tu mesa.

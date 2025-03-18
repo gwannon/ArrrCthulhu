@@ -990,6 +990,44 @@ Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pi
 * **Ventajas:** Nuevos Poderes x2, Puntos de poder, Trasfondo Arcano (Hechicería primigenia). Elige 1 o más: Alcurnia, Alerta, Callejear, Responsable, Rico, Ritualista
 * **Hechizos:** 16 PP. Manipulación elemental adaptada a su entorno, Impacto sónico, Emponzoñar arma, Oscuridad
 
+#### Combatiente taíno 
+
+XXX
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** XXX
+* **Paso:** 6; **Parada:** X; **Dureza:** X
+* **Ventajas:** XXX
+* **Desventajas:** XXX
+* **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6)
+
+#### Cacique
+
+XXX
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** XXX
+* **Paso:** 6; **Parada:** X; **Dureza:** X
+* **Ventajas:** XXX
+* **Desventajas:** XXX
+* **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6)
+
+#### Behike
+
+XXX
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+
+\sp
+
+* **Habilidades:** XXX
+* **Paso:** 6; **Parada:** X; **Dureza:** X
+* **Ventajas:** XXX, Trasfondo Arcano (Hechicería primigenia)
+* **Desventajas:** XXX
+* **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6)
+* **Hechizos:** X PP. XXX
+* **Rituales:** Ritual de la cohoba, XXX 
+
 ### Animales salvajes
 
 Aquí tenéis una lista de animales salvajes del manual de SWEA que puedes usar en tus aventuras «cthulhu-pirateras», desde perros y mulas hasta tiburones toro, también conocidos como sardas:
