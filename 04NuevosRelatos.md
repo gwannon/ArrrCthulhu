@@ -64,7 +64,7 @@ XXX
 
 XXX
 
-> **Recompensa de cordura (+1):** XXX
+> _**Recompensa extra de cordura (+1):** XXX_
 
 \sp
 

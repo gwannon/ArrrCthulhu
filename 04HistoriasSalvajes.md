@@ -3503,4 +3503,4 @@ Si quieres puedes, hacer que un cacique profundo le otorgue a tu grupo una **car
 
 Si se van sin resolver el problema del color, el pueblo será arrasado por los profundos infectados. El color original una vez su cría sea adulta volverá a las estrellas mientras las crías infectarán nuevas zonas del mar.
 
-> **Recompensa de cordura (+1):** Si consiguen acabar con el color y restaurar el equilibrio natural (fauna y flora marina, profundos y humanos) deberían recibir 1 punto de cordura. De alguna extraña manera, el hecho de que hayan restaurado el frágil equilibrio de todos los elementos de la zona ayuda a tu cordura.
+> _**Recompensa extra de cordura (+1):** Si consiguen acabar con el color y restaurar el equilibrio natural (fauna y flora marina, profundos y humanos) deberían recibir 1 punto de cordura. De alguna extraña manera, el hecho de que hayan restaurado el frágil equilibrio de todos los elementos de la zona ayuda a tu cordura._
