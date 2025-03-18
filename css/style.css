@@ -794,12 +794,17 @@ section:last-of-type > p > img {
   height: auto;
 }
 
+#gototop {
+  display: none;
+}
+
 /* Media Query */
 
 @media screen {
   body {
     max-width: 800px;
     margin: auto;
+    --padding: 10px;
   }
 
   section {
@@ -818,4 +823,29 @@ section:last-of-type > p > img {
     overflow: hidden;
   }
 
+  div:has(table) {
+    width: 100%;
+    overflow: scroll;
+  }
+
+  #gototop {
+    display: flex;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 30px;
+    height: 30px;
+    background-color: var(--green-cthulhu);
+    color: var(--white-color);
+    align-content: center;
+    justify-content: center;
+    text-decoration: none;
+    border: 1px solid var(--white-color);
+    z-index: 20;
+  }
+  section:not(section:first-of-type, section:nth-of-type(2), 
+  section:last-of-type) > h2 {
+    margin-left: calc(var(--ribbon-size)* 0.6);
+    margin-right: calc(var(--ribbon-size)* 0.6);
+  }
 }
