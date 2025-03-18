@@ -6,7 +6,6 @@ Aquí podrás encontrar heroínas y campeonas del bien como Mary Read o villanos
 
 Las sugerencias de interpretación están pensadas para ayudarte a darles carácter, pero recuerda que solo son sugerencias.
 
-\sp
 
 \sinc
 
@@ -16,20 +15,21 @@ Las sugerencias de interpretación están pensadas para ayudarte a darles carác
 
 Mary Read es la única que pone en serios problemas a la Orden. Es lo que nos separa del Armagedón primigenio que busca Villalba. Y si ella cae, caemos todos. Sus enemigos son muchos, sus aliados pocos y su tarea es una terrible carga.
 
-![Mary Read (comodín)](./images/maryread.webp)
-
 Ahora mismo sabe que sola no podrá triunfar y necesita encontrar a adalides del bien que la ayudan. Puede que sus visiones le muestren un grupo de parias en su momento más bajo que pueda ayudarla.
 
-Mary es una diestra luchadora, tienes estudios y cultura, de hecho, escribe para la VLH y tiene conocimientos de los mitos y maneja algo la magia. Y no hemos de olvidarnos de la bendición/maldición familiar de las visiones proféticas. Pero realmente el verdadero fuerte de Mary es que es una líder nata. Sabe motivarlos y saca a la su tripulación lo mejor de ellos mismos. Su gente la seguiría al infierno sin pensárselo y dándolo todo sin excusas y sin dudas.
+Mary es una diestra luchadora, tienes estudios y cultura, de hecho, escribe para la VLH y tiene conocimientos de los mitos y maneja algo la magia. Y no hemos de olvidarnos de la bendición/maldición familiar de las visiones proféticas. Pero realmente el verdadero fuerte de Mary es que es una líder nata. 
+
+![Mary Read (comodín)](./images/maryread.webp)
+
+\sp
+
+Sabe motivarlos y saca a la su tripulación lo mejor de ellos mismos. Su gente la seguiría al infierno sin pensárselo y dándolo todo sin excusas y sin dudas.
 
 * **Atributos:** Agilidad d10, Astucia d10, Espíritu d10, Fuerza d8, Vigor d10
 * **Habilidades:** Atletismo d8, Disparar d10, Humanidades d6, Idioma criollo d8, Idioma nativo d8, Intimidar d8, Latrocinio d8, Mitos de Cthulhu d8, Notar d12, Pelear d12, Persuadir d10, Navegar d8, Sigilo d8, Supervivencia d10, Tácticas d6
 * **Paso:** 6; **Parada:** 10(2); **Dureza:** 8(1)
 * **Desventajas:** Enemigo (Mayor, Hernando Villalba y la Orden del Gran Cthulhu), Heroico, Buscado (Mayor, por piratería)
 * **Ventajas:** Bloqueo, Bloqueo mejorado, Contrataque, Fervor, Mando, ¡Mantened la formación!, Manos Firmes, Líder Nato, Nuevos Poderes, Trasfondo Arcano (Hechicería primigenia)
-
-\sp
-
 * **Capacidades especiales:**
     * **El don de Casandra:** Las mujeres de la familia de su madre tienen el poder de ver el futuro. No es algo que controle, son flashes que vienen de vez en cuando.
     * **Hechizos:** 10 PP, Canto de Babalú Ayé, Vibración dimensional
@@ -59,11 +59,11 @@ La Orden tiene su corazón y si les desafía o les desobedece morirá de la form
 * **Ventajas:** Amenazador, Berserker, Bloqueo, Manos Firmes, Nuevos poderes, Rápido, Reflejos de Combate, Trasfondo Arcano (Hechicería primigenia)
 * **Capacidades especiales:**
   * **Hechizos:** 8 PP, Canto de Babalú Ayé, Vibración dimensional
-  * **Rituales:** Silbar al viento, Cegar el mascarón de proa, Brindar por el mar, El clavo en la calavera, Canción pirata, Astillas en la planta de los pies
 
 \sp
 
 * **Capacidades especiales:**
+  * **Rituales:** Silbar al viento, Cegar el mascarón de proa, Brindar por el mar, El clavo en la calavera, Canción pirata, Astillas en la planta de los pies
   * **Sin corazón:** Al son de cantos de «kalima, kalima, …», el propio Villalba extrajo el corazón de Teach y con él su alma. Mientras Villalba tenga su corazón, Teach está obligado a obedecerle o podría matarle simplemente estrujando su corazón con sus manos. Como ventajas, Edward tiene Resistencia Arcana Mejorada y los hechizos de Marioneta y Manipulación de recuerdos fallan siempre. Si se lanza hechizos de detección mágica se verá un gran agujero negro donde debería estar su corazón. Una tirada de Mitos permitirá saber que le han quitado el corazón y los detalles de esta maldición.
 * **Equipo:** Cimitarra (FUE+d8), Protecciones de cuero +1, 2 Pistolas de chispas cargadas
 

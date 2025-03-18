@@ -205,3 +205,7 @@
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QTambién son necrófagos, lo que explica el cadáver en la mesa de la cocina.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSegún va cayendo, irá viendo más cosas y personajes de amarillo, de ahí la importancia de la tele amarilla para hacer decorados y trajes.\\E$"}
 {"rule":"PREP_VERB","sentence":"^\\QRitual de la cohoba, Adivinación con mandiocas, Máscaras de Caracol de Yúcahu, Máscaras de Caracol de Opiyelguobirán, Trigonolito de Atabey, Soltar al gallo\\E$"}
+{"rule":"AGREEMENT_DET_GN","sentence":"^\\QCon los cuerpos de los dos serpientes o el testimonio de algún guerrero superviviente del combate podrán demostrar  toda su historia y el poblado no creerá que han matado a sus dirigentes.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QSi los serpientes huyen, ellos también tendrán que hacerlo, porque todo el poblado querrá sus cabezas y mejor que no vuelvan por la zona en una larga temporada.\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QLos serpientes huirán si la cosa se pone complicada para ellos.\\E$"}
+{"rule":"AGREEMENT_DET_GN","sentence":"^\\QCon los cuerpos de los dos serpientes o el testimonio de algún guerrero superviviente del combate podrán demostrar toda su historia y el poblado no creerá que han matado a sus dirigentes.\\E$"}

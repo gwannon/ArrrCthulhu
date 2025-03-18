@@ -1,12 +1,12 @@
-01ElCaribeDeLosMitos.md|
+|01ElCaribeDeLosMitos.md|
 
 ***
 
-02ReglasDeAmbientacion.md|
+|02ReglasDeAmbientacion.md|
 
 ***
 
-03GuiaDeViajes.md|
+|03GuiaDeViajes.md|
 
 ***
 
@@ -20,19 +20,19 @@
 
 ***
 
-06QuienEsQuien.md|
+|06QuienEsQuien.md|
 
 ***
 
-07DandoColor.md|
+|07DandoColor.md|
 
 ***
 
-08Epilogo.md|
+|08Epilogo.md|
 
 ***
 
-09Recursos.md|
+|09Recursos.md|
 
 ***
 

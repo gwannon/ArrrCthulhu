@@ -516,9 +516,9 @@ Suelen infiltrarse en las comunidades humanas, haciéndose pasar por humanos par
 
 Adoran a Yig el dios serpiente como su padre y creador, aunque pequeñísimos grupos le rezan a Tsathoggua, el Durmiente de N’kai.
 
-\sp
-
 Como curiosidad diremos que la serpigente no es una creación de Lovecraft, sino de su amigo Robert E. Howard. Antes que tu mesa, Conan ya machacaba serpigente en sus relatos.
+
+\sp
 
 ### Serpigente científico (secuaz)
 
