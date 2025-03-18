@@ -229,7 +229,7 @@ El puerto de La Habana es el mayor puerto del Caribe y todo el comercio entre la
 
 ![Mapa de La Habana](./images/la-habana.webp)
 
-Mapa de La Habana
+_Mapa de La Habana_
 
 \conc
 
@@ -273,7 +273,7 @@ Solos los cargos más altos viven fuera del castillo, el resto viven y trabajan 
 
 ![Mapa del Morro](./images/mapa-el-morro.webp)
 
-Mapa del Castillo de los Tres Reyes Magos del Morro
+_Mapa del Castillo de los Tres Reyes Magos del Morro_
 
 \conc
 
@@ -466,7 +466,7 @@ Estas dos fortificaciones son las principales defensas del puerto de Matanzas, c
 
 ![El Morrillo](./images/el-morrillo.webp)
 
-Fortaleza de El Morrillo
+_Fortaleza de El Morrillo_
 
 \conc
 
@@ -1026,7 +1026,7 @@ En 1722 Nasáu es la capital y la principal ciudad de Nueva Providencia. Ha sufr
 
 ![Nasáu](./images/nassau.webp)
 
-Nasáu
+_Nasáu_
 
 \conc
 

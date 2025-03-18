@@ -1085,7 +1085,7 @@ Siguiéndoles entran varias personas y alguno empieza a llamar a la guardia. Si 
 
 ![Callejón](./images/callejon.webp)
 
-Callejón de puerto de Santo Domingo
+_Callejón de puerto de Santo Domingo_
 
 \conc
 
@@ -1171,7 +1171,7 @@ Lo primero que hará la asaltante es matar al cochero que está totalmente indef
 
 ![Calles estrechas](./images/callesestrechas.webp)
 
-Callejuelas estrechas de La Habana
+_Callejuelas estrechas de La Habana_
 
 \conc
 
@@ -1267,7 +1267,7 @@ Temeroso de derramar sangre de su sangre, entrego a la niña a la RCPC y a la ma
 
 ![Parque público](./images/parquepublico.webp)
 
-Parque público
+_Parque público_
 
 \conc
 
@@ -1846,7 +1846,7 @@ Ambos grupos tratarán de atraer al nuevo protagonista. Intentarán seducirle y 
 
 ![Plano del teatro](./images/nochedelestreno.webp)
 
-Plano del teatro
+_Plano del teatro_
 
 \conc
 
@@ -2027,7 +2027,7 @@ Nadie quiere representar a Adolfé, así que si saben leer y escribir podrán pr
 
 ![Juzgados de Nueva Providencia](./images/juzgados.webp)
 
-Juzgados de Nueva Providencia
+_Juzgados de Nueva Providencia_
 
 \conc
 
@@ -2490,7 +2490,7 @@ Los espías del equipo contrario han hablado maravillas de los nuevos jugadores 
 
 ![Campo de batú](./images/batu.webp)
 
-Campo de batú
+_Campo de batú_
 
 \conc
 
@@ -2743,7 +2743,7 @@ Los monjes vuelven a dentro y en unos minutos los taínos se despiertan y vuelve
 
 ![Monasterio](./images/monasterio.webp)
 
-Monasterio de piedra
+_Monasterio de piedra_
 
 \conc
 
@@ -2876,7 +2876,7 @@ Si se llevan los cables, el metal del interior, al igual que los grilletes de la
 
 ![Templo perdido](./images/templo-perdido-jungla.webp)
 
-Templo perdido
+_Templo perdido_
 
 &nbsp;
 
