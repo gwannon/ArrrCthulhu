@@ -1001,11 +1001,11 @@ Vivir en un mundo hostil como es el Caribe y sus selvas con peligros tanto inter
 * **Ventajas:** XXX
 * **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6)
 
+\sp
+
 #### Cacique
 
-Este jefe o jefas tribales llevan años liderando a su pueblo y se las han visto con todo tipo de problemas y horrores, desde seres que habitan lo profundo de las selvas, hasta esclavistas y grandes terratenientes que quieren expulsarlos de sus tierras para cultivar azúcar de caña.
-
-\sp
+Este jefe o jefas tribales llevan años liderando a su pueblo. Se las han visto con todo tipo de problemas y horrores, desde seres que habitan lo profundo de las selvas, hasta esclavistas y grandes terratenientes que quieren expulsarlos de sus tierras para cultivar azúcar de caña.
 
 * **Atributos:** Agilidad d4, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Idioma materno d10, Idioma Criollo d6, Intimidar d6, Humanidades d6, Pelear d6, Tácticas d6, Supervivencia d8
@@ -1016,16 +1016,18 @@ Este jefe o jefas tribales llevan años liderando a su pueblo y se las han visto
 
 #### Behike
 
-XXX
-
+Así como el cacique es el jefe político de cada tribu taina, el behike es su líder espiritual y el principal consejero del cacique. En él residen importantes fuerzas mágicas que marcan la vida diaria de los pueblos taínos. Son además los sanadores, los exorcistas y los historiadores que registran los acontecimientos que ocurren.
+ 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
-* **Habilidades:** XXX
-* **Paso:** 6; **Parada:** X; **Dureza:** 5
+* **Habilidades:** Atletismo d4, Ciencias d6, Idioma materno d8, Idioma Criollo d6, Intimidar d6, Humanidades d6, Medicina d6, Mitos de Cthulhu d8, Pelear d4, Reparar d6, Supervivencia d6
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes, Puntos de poder
 * **Desventajas:** XXX
-* **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6)
+* **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6), diferentes materiales para hacer rituales y usan alguna de sus máscaras de caracol marino gigante.
 * **Hechizos:** 16 PP. Canto de Babalú Ayé, Expulsar ente
 * **Rituales:** Ritual de la cohoba, Adivinación con mandiocas, Máscaras de Caracol de Yúcahu, Máscaras de Caracol de Opiyelguobirán, Trigonolito de Atabey, Soltar al gallo
+
+\sp
 
 ### Animales salvajes
 
@@ -1039,9 +1041,6 @@ Aquí tenéis una lista de animales salvajes del manual de SWEA que puedes usar 
 * **Mula**
 * **Serpiente constrictora/venenosa**
 * **Tiburón:** escualo o tiburón blanco. Hay mucha variedad de tiburones en las aguas del Caribe, siendo el más peligroso el tiburón toro o sarda. Sin embargo, el gran blanco no está entre ellas. Es por ello que puedes usar sus características para tiburones que por alguna razón son extremadamente grandes. ¿Quién dice que Barbanegra no tenga un tiburón tigre mutado gigante que siga sus órdenes mentales?
-
-\sp
-
 * **Toro:** puedes usar sus estadísticas para encuentros con grandes herbívoros que protegen su territorio en la jungla, pero hazte un favor a ti y a tus compañeros de mesa y evita usarlo para que montar una corrida de toros. Nadie quiere eso, en serio.
 
 ### Nuevos animales salvajes
@@ -1059,6 +1058,8 @@ El jaguar es el felino más grande del Caribe. Es fundamentalmente solitario y c
     * **Visión nocturna:** Los jaguares ignoran las penalizaciones por iluminación de penumbra y oscuridad.
 * **Botín:** 1d4 (normalmente en su madriguera)
 
+\sp
+
 #### Manta:
 
 Estos increíbles peces emparentados con los tiburones se caracterizan por su extraña forma y su cola con un aguijón venenoso. Como tiburones y delfines pueden saltar fuera del agua para atacar.
@@ -1075,8 +1076,6 @@ Estos increíbles peces emparentados con los tiburones se caracterizan por su ex
 #### Mantarraya:
 
 Es la especie más grande de manta y puede llegar a igualar en tamaño a los grandes tiburones. Sin embargo, no tienen aguijón venenoso. Como tiburones y delfines pueden saltar fuera del agua para atacar. 
-
-\sp
 
 Se alimentan de plancton y solo atacan si se ven en peligro.
 
@@ -1096,6 +1095,9 @@ Estos cetáceos son uno de los seres más inteligentes del reino animal. Se sabe
 * **Atributos:** Agilidad d10, Astucia d8 (A), Espíritu d5, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d12, Notar d10, Pelear d8, Provocar d6
 * **Paso:** —; **Parada:** 6; **Dureza:** 5
+
+\sp
+
 * **Capacidades especiales:**
     * **Acuático:** Paso 10 nadando
     * **Mordisco:** FUE+d4
@@ -1103,14 +1105,11 @@ Estos cetáceos son uno de los seres más inteligentes del reino animal. Se sabe
     * **Cazador en manada:** Los delfines cazan en manada y son muy inteligentes. Es por ello que son capaces de ejecutar tácticas para aprovecharse de su número y hacer movimientos inteligentes como atacar a puntos débiles o hacer jugarretas y juego sucio.
     * **Acrobacias:** Puede usar su habilidad de Atletismo para hacer piruetas fuera del agua. También pueden saltar y hacer ataques fuera del agua.
 
-
 ### Dinosaurios
 
 #### Alosaurio
 
 El alosaurio es el mayor de los saurios que sobreviven en R’lyeh y al más terrible de ellos. Es un terópodo, es decir que es bípedo, pero a diferencia de otros terópodos, como el tiranosaurio, sus brazos eran más largos y podían ser usados para atacar y sujetar las presas.
-
-\sp
 
 Como depredadores, pueden llegar a cazar estegosaurios, aunque siempre especímenes jóvenes, viejos o enfermos. Su vista les permite calcular bastante precisamente las distancias, con lo que son bastante efectivos en sus ataques por sorpresa.
 
@@ -1120,6 +1119,9 @@ Un alosaurio adulto de talla media crece hasta 12 metros de longitud de la cabez
 * **Habilidades:** Atletismo d6, Intimidar d12, Notar d6, Pelear d8, Supervivencia d6
 * **Paso:** 8; **Parada:** 6; **Dureza:** 17(3)
 * **Ventajas:** Nervios de Acero Mejorados
+
+\sp
+
 * **Capacidades especiales:**
   * **Armadura +3:** Piel escamosa y dura.
   * **Mordisco:** FUE+d8.
@@ -1130,8 +1132,6 @@ Un alosaurio adulto de talla media crece hasta 12 metros de longitud de la cabez
   * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
   * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
 
-\sp
-
 #### Estegosaurio
 
 Debido a sus distintivas espinas de la cola y sus placas dorsales, el estegosaurio es uno de los más reconocidos dinosaurios. Es el mayor herbívoro del mundo perdido y gracias a su masa y a su fuerte y elevada cola puede hacerle frente, incluso derrotar a un alosaurio. Sus placas dorsales son una mezcla de sistema de termorregulación y de protección. 
@@ -1139,6 +1139,8 @@ Debido a sus distintivas espinas de la cola y sus placas dorsales, el estegosaur
 En general son lentos y tranquilos, pero la creencia de que eran poco inteligentes por su pequeño cerebro es falsa. Viven en manadas y son muy protectores con sus crías. No hay que olvidar que debajo de su imagen de tranquilos herbívoros hay unas máquinas letales capaces de hacer frente a cualquier enemigo mucho más si no está solo. 
 
 El estegosaurio pesa 3 y 4 de toneladas y crece hasta 9 metros de largo de la cabeza a la punta de la cola y 4 metros de alto. 
+
+\sp
 
 Como ya hemos comentado, este saurio es famoso por sus placas dorsales y también tiene cuatro espinas en la cola, cada una de 60 a 90 cm de largo, que usa para su defensa.
 
@@ -1153,15 +1155,13 @@ Como ya hemos comentado, este saurio es famoso por sus placas dorsales y tambié
   * **Coletazo:** FUE+d6. Si durante su turno no se mueve, puede hacer un ataque de área en 3 casillas adyacentes entre sí y alrededor suyo. Hace una tirada por cada enemigo en el área. Todo enemigo que pase por esa zona hasta el siguiente turno del estegosaurio recibe un ataque. Varios estegosaurios puede combinar estos barridos con sus colas con pinchos de forma que crean una barrera defensiva que nadie en su sano juicio querría atravesar.
   * **Placas dorsales:** Las placas de su espalda hacen que los ataques cuerpo a cuerpo de enemigos más altos o que solo puedan atacar desde arriba sean más difíciles y tengan un -2. 
 
-\sp
-
 #### Ictiosaurio
 
-Los ictiosaurios descienden reptiles que volvieron al mar, como hicieron delfines y ballenas. Como ellos respiran aire con lo que cada cierto tiempo tienen que subir a la superficie a tomar aire. Están totalmente adaptados al medio acuático y se alimentan de peces y calamares.  
-
-Ictiosaurio fue el primer fósil completo descubierto a principios del siglo XIX por Mary Anning en Inglaterra.
+Los ictiosaurios descienden de reptiles que volvieron al mar, como hicieron delfines y ballenas. Como ellos respiran aire con lo que cada cierto tiempo tienen que subir a la superficie a tomar aire. Están totalmente adaptados al medio acuático y se alimentan de peces y calamares.  
 
 El ictiosaurio mide unos 2 metros de largo y pesa entre unos 150 y 170 kilos. Se caracterizan por tener unos grandes ojos adaptados perfectamente para ver debajo del agua.
+
+\sp
 
 Su forma es una mezcla de pez espada y delfín lo que le convierte en un depredador rápido y ágil que puede llegar a los 40 km/h en condiciones óptimas.
 
@@ -1184,8 +1184,6 @@ Un plesiosaurio adulto de talla media crece entre 3 a 5 metros de longitud y pes
 
 Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa, sino lisa para una mejor hidrodinámica. Tienen un largo cuello que mide más o menos la mitad de su cuerpo y que usa como timón a la hora de nadar.
 
-\sp
-
 Para terminar, sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
 
 * **Atributos:** Agilidad d8, Astucia d6 (A), Espíritu d8, Fuerza d12, Vigor d12
@@ -1198,7 +1196,11 @@ Para terminar, sus extremidades de un metro cada una formaban aletas alargadas, 
 
 #### Pteranodonte
 
-Que los reptiles aprendieron a volar y que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodontes son el culmen de los reptiles voladores y aunque torpes en tierra, son los amos de los aires.
+Que los reptiles aprendieron a volar y que las aves descienden de estos dinosaurios voladores es de sobra conocido. 
+
+\sp
+
+Los pteranodontes son el culmen de los reptiles voladores y aunque torpes en tierra, son los amos de los aires.
 
 Los pteranodontes pasan mucho tiempo pescando en el mar y como las grandes aves marinas, su vuelo se basaba más en el planeo con sus grandes alas que en el aleteo.
 
@@ -1214,12 +1216,6 @@ Los pteranodontes son unos de los saurios voladores de mayor tamaño, llegando a
   * **Picotazo/Garras:** FUE+d6.
   * **Volar:** Los pteranodontes tienen un paso de volando de 12 (solo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
   * **Ataque volador:** Cuando el pteranodonte vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente, a su nido.
-
-\sp
-
-* **Capacidades especiales:**
   * **Tamaño +2:** Podían llegar a tener una envergadura de alas de 5 o 6 m y un peso de unos 60 kilos.
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
   * **Veneno:** Después de un combate contra pteranodontes, si recibes una herida, debes tirar VIG. En caso de fallar, el día siguiente tendrá un nivel de fatiga, que se recupera tras dormir una noche, debido a la fiebre y malestar general generados por la infección de las bacterias de su pico y sus garras.
-
-\sc
