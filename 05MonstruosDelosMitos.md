@@ -1021,11 +1021,24 @@ Así como el cacique es el jefe político de cada tribu taina, el behike es su l
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d6, Idioma materno d8, Idioma Criollo d6, Intimidar d6, Humanidades d6, Medicina d6, Mitos de Cthulhu d8, Pelear d4, Reparar d6, Supervivencia d6
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes, Puntos de poder
 * **Desventajas:** XXX
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes, Puntos de poder
 * **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6), diferentes materiales para hacer rituales y usan alguna de sus máscaras de caracol marino gigante.
 * **Hechizos:** 16 PP. Canto de Babalú Ayé, Expulsar ente
 * **Rituales:** Ritual de la cohoba, Adivinación con mandiocas, Máscaras de Caracol de Yúcahu, Máscaras de Caracol de Opiyelguobirán, Trigonolito de Atabey, Soltar al gallo
+
+#### Artista
+
+Bailarines y bailarinas, actores y actrices, intérpretes musicales, marionetistas y titiriteras, …
+
+\sp
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Humanidades d6, Idioma materno d8, Interpretación d8, Notar d6, Persuadir d6, Sigilo d4
+* **Paso:**6; **Parada:** 4; **Dureza:** 5
+* **Desventajas:** Elegir 1: Hábito (menor alcohol, marihuana, etc.), Curioso, Cojo, Manco
+* **Ventajas:** Elegir 1: Carismático, Famoso, Maquillaje
+* **Equipo:** Ropas vistosas, instrumento musical, útiles relacionados con su arte
 
 \sp
 
