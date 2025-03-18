@@ -393,7 +393,7 @@ Dentro de cada comunidad profunda, el más viejo y, por tanto, el más poderoso 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d8, Fuerza d10, Vigor d10
 * **Habilidades:** Atletismo d8, Idioma Cthulhunés d8, Pelear d6, Mitos de Cthulhu d8, Notar d8, Sigilo d10, Supervivencia d8
 * **Paso:** 6; **Parada:** 6 (5); **Dureza:** 8 (2)
-* **Ventajas:** Hechicería primigenia, Nuevos poderes x2
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes x2
 * **Capacidades especiales:**
     * **Acuático:** Paso nadando 6. Pueden respirar bajo el agua sin problemas y tampoco tienen problemas con la presión a grandes profundidades.
     * **Armadura +2:** Escamas y piel rugosa.
@@ -413,7 +413,7 @@ Solo hay 3 caciques profundos en todo el Caribe y son seres de bastante poder, t
 * **Atributos:** Agilidad d12, Astucia d8, Espíritu d12, Fuerza d12+2, Vigor d12+2
 * **Habilidades:** Atletismo d8, Idioma Cthulhunés d8, Intimidar d12,Pelear d12, Mitos de Cthulhu d12, Notar d8, Supervivencia d8
 * **Paso:** 6; **Parada:** 7 (6); **Dureza:** 15 (2)
-* **Ventajas:** Hechicería primigenia, Nuevos poderes x2, Puntos de poder
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes x2, Puntos de poder
 * **Capacidades especiales:**
     * **Acuático:** Paso nadando 6. Pueden respirar bajo el agua sin problemas y tampoco tienen problemas con la presión a grandes profundidades.
     * **Armadura +2:** Escamas y piel rugosa.
@@ -527,7 +527,7 @@ Puedes encontrarlos en sus guaridas subterráneas rodeadas de todo tipo de herra
 * **Atributos:** Agilidad d8, Astucia d12, Espíritu d12, Fuerza d6, Vigor d6
 * **Habilidades:** Ciencias 1d12, Idioma Naacal d8, Investigar d8, Mitos de Cthulhu d8, Notar d8, Pelear d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6 (1)
-* **Ventajas:** Hechicería primigenia, Nuevos poderes x2
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes x2
 * **Capacidades especiales:**
     * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
     * **Armadura +1:** Piel escamosa.
@@ -542,7 +542,7 @@ Son las fuerzas de choque de la serpigente, crueles y brutales con los humanos. 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d8, Fuerza d10, Vigor d8
 * **Habilidades:** Ciencias 1d6, Idioma Naacal d6, Investigar d6, Mitos de Cthulhu d4, Notar d8, Pelear d10
 * **Paso:** 6; **Parada:** 6; **Dureza:** 7 (1)
-* **Ventajas:** Hechicería primigenia, Nuevos poderes
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes
 * **Capacidades especiales:**
     * **Mordisco venenoso:** FUE+d4. El mordisco de la serpigente es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente o perderá un 1d6 adicional de daño. Puede usar este ataque 3 veces por escena.
 
@@ -987,45 +987,45 @@ Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pi
 * **Habilidades:** Atletismo d4, Humanidades d8, Idioma materno d8, Idioma criollo d6, Idioma extranjero d6, Mitos d8, Notar d6, Pelear d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Elige 1 o más: Arrogante, Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Leal (Menor)
-* **Ventajas:** Nuevos Poderes x2, Puntos de poder, Trasfondo Arcano (Hechicería primigenia). Elige 1 o más: Alcurnia, Alerta, Callejear, Responsable, Rico, Ritualista
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos Poderes x2, Puntos de poder. Elige 1 o más: Alcurnia, Alerta, Callejear, Responsable, Rico, Ritualista
 * **Hechizos:** 16 PP. Manipulación elemental adaptada a su entorno, Impacto sónico, Emponzoñar arma, Oscuridad
 
 #### Combatiente taíno 
 
-XXX
+XXX. Puede que no tengan las mejores armas y armaduras, pero para desgracia de sus enemigos conocen su entorno muy bien y eso les hace muy peligrosos.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** XXX
-* **Paso:** 6; **Parada:** X; **Dureza:** X
+* **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d6, Vigor d8
+* **Habilidades:** Atletismo d6, Disparar d6, Idioma materno d6, Notar d6, Pelear d8, Sigilo d6, Supervivencia d8
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Ventajas:** XXX
 * **Desventajas:** XXX
 * **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6)
 
 #### Cacique
 
-XXX
+Este jefe o jefas tribales llevan años liderando a su pueblo y se las han visto con todo tipo de problemas y horrores, desde seres que habitan lo profundo de las selvas, hasta esclavistas y grandes terratenientes que quieren expulsarlos de sus tierras para cultivar azúcar de caña.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** XXX
-* **Paso:** 6; **Parada:** X; **Dureza:** X
-* **Ventajas:** XXX
+* **Atributos:** Agilidad d4, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d4, Idioma materno d10, Idioma Criollo d6, Intimidar d6, Humanidades d6, Pelear d6, Tácticas d6, Supervivencia d8
+
+\sp
+
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** XXX
+* **Ventajas:** XXX
 * **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6)
 
 #### Behike
 
 XXX
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-
-\sp
-
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu d8, Fuerza dX, Vigor dX
 * **Habilidades:** XXX
 * **Paso:** 6; **Parada:** X; **Dureza:** X
-* **Ventajas:** XXX, Trasfondo Arcano (Hechicería primigenia)
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes, Puntos de poder
 * **Desventajas:** XXX
 * **Equipo:** Cuchillo (FUE+d4) o machete (FUE+d6)
-* **Hechizos:** X PP. XXX
+* **Hechizos:** 16 PP. XXX
 * **Rituales:** Ritual de la cohoba, XXX 
 
 ### Animales salvajes
@@ -1175,7 +1175,7 @@ Su forma es una mezcla de pez espada y delfín lo que le convierte en un depreda
   * **Piel dura +1:** Su piel dura y lisa no solo le protege del frío del mar, también de ataques de otros animales.
   * **Grandes ojos:** Tiene una vista excelente dentro del agua de forma que no sufre ninguna penalización de visibilidad debajo del agua.
 
-### Plesiosaurio
+#### Plesiosaurio
 
 Otro reptil que volvió al mar como el ictiosaurio, pero quizás en vez de evolucionar a algo parecido a delfines o peces espadas, lo hizo hacia mamíferos marinos como focas y morsas.
 

@@ -64,7 +64,7 @@ XXX
 
 XXX
 
-> _**Recompensa extra de cordura (+1):** XXX_
+> _**Recompensa extra de cordura (+1):** Ayudar a gente desvalida reconforta el alma, sobre todo si de paso disfrutas de su sencilla vida. Si encima detienes una plaga que podría haber acabado con todo ser humano en la isla te puede ayudar, el bienestar mental que puedes conseguir es impagable._
 
 \sp
 
@@ -88,7 +88,7 @@ Tanto si están en la expedición de caza como defendiendo el poblado, si lo des
 
 #### El regreso del behike
 
-Tanto si salen en una partida de guerra como si se quedan defendiendo el poblado, en un par de días encontrarán al behike XXX desorientado y deshidratado. No sabe muy bien donde está, pero no tiene señales de lucha, solo algunos rasguños de moverse por la jungla.
+Tanto si salen en una partida de guerra como si se quedan defendiendo el poblado, en un par de días encontrarán al behike Jobo desorientado y deshidratado. No sabe muy bien donde está, pero no tiene señales de lucha, solo algunos rasguños de moverse por la jungla.
 
 Por mucho que trate de recordarlo, no sabrá donde ha estado y estará bastante despistado. Tampoco sabe nada de las máscaras, así que se pondrá a preparar unas nuevas. Les pedirá a tu mesa que si van a volver a pasar les consigan unas conchas de caracol para tallar sus nuevas máscaras.
 

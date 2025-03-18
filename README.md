@@ -39,9 +39,13 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 1.2 En desarrollo
+### Ver. 1.4.1 En desarrollo
+* Metemos secuaces taínos (combatiente, cacique y behike)
+
+### Ver. 1.4 18/03/2025
 * Nuevo sistema que usa ficheros .md
 * Nuevo diseño y sistema de paginación
+* Empezamos a crear 4 nuevas historias salvajes
 
 ### Ver. 1.1.2 26/02/2024
 * Nuevo monstruo: Color que cayó del espacio

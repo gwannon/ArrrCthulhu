@@ -656,7 +656,7 @@ La cultura serpigente está muy basada en la fuerza, la guerra y la ciencia y su
 \sp
 
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6 (1)
-* **Ventajas:** Hechicería primigenia, Nuevos poderes x3, Puntos de poder, Sensibilidad celta, Trasfondo Arcano (Hechicería primigenia)
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes x3, Puntos de poder, Sensibilidad celta
 * **Capacidades especiales:**
     * **Armadura +1:** Piel escamosa.
     * **Garras:** FUE+d6
@@ -681,8 +681,8 @@ El cacique Corozo puede parecer un viejo chocho, pero a pesar de sus excéntrico
 * **Atributos:** Agilidad d4, Astucia d10, Espíritu d12, Fuerza d6, Vigor d4
 * **Habilidades:** Atletismo d4, Idioma materno d10, Idioma Criollo d10, Intimidar d10, Humanidades d8, Pelear d6, Provocar d8, Tácticas d10, Supervivencia d8
 * **Paso:** 6; **Parada:** 5; **Dureza:** 4
-* **Desventajas:** Anciano, Corto ce vista, Trasfondo Arcano (Hechicería primigenia)
-* **Ventajas:** Hechicería primigenia, Nuevos poderes x2
+* **Desventajas:** Anciano, Corto ce vista
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes x2
 * **Capacidades especiales:**
     * **Entrenamiento batú:** Tiene un nivel más de Provocar cuando participa en partidos de batú.
     * **Hechizos:** PP 12, Lectura de aura, Invocar avatar de Thanaroa, Dominio de la tierra, Signo de Nodens.

@@ -2421,7 +2421,7 @@ Se puede matar su cuerpo, pero volverá a regenerarse con el tiempo y a poseer l
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d4, Vigor d6
 * **Habilidades:** Humanidades d10, Intimidar d8, Mitos d8, Notar d8, Pelear d6, Sigilo d6
 * **Paso:** 4; **Parada:** 5; **Dureza:** 5
-* **Ventajas:** Hechicería primigenia, Nuevos poderes, Puntos de poder
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes, Puntos de poder
 * **Capacidades especiales:**
     * **Hechizos:** PP 20, Bendición de Yig, Mirada hipnótica, Círculo de invocación, Drenaje de puntos de poder.
 * **TPC:** 1d4 (si se mueve)
@@ -2779,7 +2779,7 @@ La cuestión es que deberán decidir qué hacer y buscar el mal menor. Pero debe
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d4, Vigor d6
 * **Habilidades:** Ciencias d10, Mitos d6, Idioma nativo d10, Cthulhunés d6, Notar d8, Pelear d6, Reparar d6
 * **Paso:** 4; **Parada:** 5; **Dureza:** 5
-* **Ventajas:** Hechicería primigenia, Nuevos poderes x2, Puntos de poder
+* **Ventajas:** Trasfondo Arcano (Hechicería primigenia), Nuevos poderes x2, Puntos de poder
 * **Capacidades especiales:**
     * **Hechizos:** PP 20, Muro de Yog-Sapha, Vibración temporal, Incineración de Cthugha Siervo invisible.
 
