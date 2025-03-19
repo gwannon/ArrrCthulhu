@@ -62,9 +62,9 @@ Son seres voladores de apariencia insectoide con grandes alas membranosas y pies
 
 El color es un extraño que no es de la tierra, sino que viene de las estrellas. Las personas que han podido estudiar un color no se ponen de acuerdo sobre que son, pero lo describen como un color que se va extendiendo y que impregna todo, rocas, plantas y hasta animales y personas.
 
-Es una criatura muy básica que vive para sobrevivir y procrear. Cuando cae del cielo en algún tipo de meteorito, se «planta» cerca de donde cae, en algún lugar oscuro y cubierto y empieza a extraer la esencia vital de los seres vivos cercanos que se vuelven grises y quebradizos. Según consigue esencia vital va creciendo en tamaño.
+Es una criatura muy básica que vive para sobrevivir y procrear. Cuando cae del cielo en algún tipo de meteorito, se «planta» cerca de donde cae, en algún lugar oscuro y cubierto, y empieza a extraer la esencia vital de los seres vivos cercanos que se vuelven grises y quebradizos. Según consigue esencia vital va creciendo en tamaño.
 
-Cuando tiene suficiente tamaño ponen huevos y los protegen hasta que eclosionan y el nuevo color madura. Entonces el primer color suele volver al espacio. El segundo color se dedica a crecer y procrear. Y así el ciclo se repite ampliando el radio de acción de los colores.
+Cuando tiene suficiente tamaño, ponen huevos y los protegen hasta que eclosionan y el nuevo color madura. Entonces el primer color suele volver al espacio. El segundo color se dedica a crecer y procrear. Y así el ciclo se repite ampliando el radio de acción de los colores.
 
 Permanecen inactivos por el día y mientras maduran se esconden en pozos, alcantarillas, cuevas, etc. No son agresivos directamente, pero los humanos que caen en su influencia se vuelven irracionales y violentos. Para poder combatir al color hay que enfrentarse a los humanos y animales a los que han corrompido.
 
@@ -82,7 +82,7 @@ En el Caribe sería normal que cayeran en fondos marinos donde pueden sobrevivir
   * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener áreas de 20 casillas de cualquier forma. No tienen bonificadores ni penalizadores por tamaño.
   * **Insustancial/solidificarse:** Un color es insustancial, parece gaseoso, pero no lo es. Es inmune a todo ataque físico. Puede solidificar partes de sí mismo para interactuar con su entorno. La parte sólida no es inmune a los ataques físicos.
   * **Volar:** Paso volando 12.
-  * **Viaje espacial:** Pueden sobrevivir es el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
+  * **Viaje espacial:** Pueden sobrevivir en el espacio, de hecho se sabe que llegan desde el espacio exterior en meteoritos.
   * **Ataque mental:** Un color puede lanzar un ataque mental a los seres inteligentes cada día que pase cerca de un color. Hay que hacer una Tirada enfrentada de Astucia. Si gana el color, la víctima del ataque mental quita un 1d4 de PP y obliga a pasar un TPC d8 no modificable de ninguna manera. En caso de fallar y llevarse un trastorno serán cosas que le mantengan en encerrado en el lugar donde esté el color como su granja o su casa. Serán trastornos como depresión y agorafobia. Los PP perdidos no se recuperan mientras no abandone el lugar donde habita el color. Cuando se quede sin PP, perderá todas las tiradas enfrentadas y acabará perdiendo su cordura si no es salvado del color.
   * **Drenaje de vida:** el color se alimenta de la esencia vital de los seres vivos (humanos, seres de los Mitos, animales y plantas) Todos los seres vivos en un radio de 1 kilómetro tendrán que hacer una tirada enfrentada de Vigor contra el espíritu del color. Si fallan, reciben una herida que se refleja en que envejecen, su piel se llena de arrugas y se vuelve gris y su pelo se vuelve lacio y canoso. Cada día puede drenar de su entorno esencia suficiente para crecer d6 casillas.
 * **TPC:** d8
@@ -325,7 +325,7 @@ Los noctivagos son unos seres con unas grandes alas de murciélago y colas con p
 
 ![](./images/polipo-volante.webp)
 
-Los pólipos volantes son una raza extraterrestre que como bien dice su nombre tienen forma de pólipos, un gran tronco con gran cantidad de pseudópodos en uno de los extremos. No tienen sentidos como los humanos, de hecho, son ciegos, pero usan sus otros sentidos para poder moverse por la oscuridad sin problemas o sentir a través de las paredes.
+Los pólipos volantes son una raza extraterrestre que como bien dice su nombre, tienen forma de pólipos, un gran tronco con gran cantidad de pseudópodos en uno de los extremos. No tienen sentidos como los humanos, de hecho, son ciegos, pero usan sus otros sentidos para poder moverse por la oscuridad sin problemas o sentir a través de las paredes.
 
 Son semi materiales, no son del todo materiales, pero tampoco totalmente incorpóreos. Son lo suficientemente materiales para interactuar con los objetos y los suficientemente incorpóreos para que los vientos los sostengan y para que puedan hacerse invisibles.
 
@@ -1175,7 +1175,7 @@ Los ictiosaurios descienden de reptiles que volvieron al mar, como hicieron delf
 
 El ictiosaurio mide unos 2 metros de largo y pesa entre unos 150 y 170 kilos. Se caracterizan por tener unos grandes ojos adaptados perfectamente para ver debajo del agua.
 
-Su forma es una mezcla de pez espada y delfín lo que le convierte en un depredador rápido y ágil que puede llegar a los 40 km/h en condiciones óptimas.
+Su forma es una mezcla de pez espada y delfín, lo que le convierte en un depredador rápido y ágil que puede llegar a los 40 km/h en condiciones óptimas.
 
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d6, Notar d6, Pelear d8, Sigilo d6

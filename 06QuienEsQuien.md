@@ -179,7 +179,7 @@ Salvador siempre fue un seguidor, no un líder. Su hermano Antonio era el líder
 
 El padre Héctor García es el hijo menor de Eusebio García. Cuando se fue haciendo mayor, desarrolló una tremenda «espiritualidad» que le llevo a estudiar teología con los jesuitas para terminar siendo misionero en la misión de San Cristóbal. La verdad es que fue su forma de escapar de la casa familiar y de la larga y abusiva mano de su padre y de la RCPC.
 
-No es un santo ni especialmente religioso, pero tiene más moral y ética que el resto de la familia y según fue enterándose de los secretos familiares y sus tejemanejes con la RCPC prefirió desvincularse. La forma que vio fue hacerse sacerdote y para alejarse todavía más se hizo misionero.
+No es un santo ni especialmente religioso, pero tiene más moral y ética que el resto de la familia y según fue enterándose de los secretos familiares y sus tejemanejes con la RCPC, prefirió desvincularse. La forma que vio fue hacerse sacerdote y para alejarse todavía más se hizo misionero.
 
 Su única conexión su familia que le queda es el tatuaje y cuando su hermano Antonio le pidió una copia se sintió liberado. Ya no quedaba ningún vínculo importante con su familia, excepto su apellido y ya no lo usaba. Simplemente era el padre Héctor para la gente de la misión.
 
@@ -489,7 +489,7 @@ Ayodale fue secuestrada en Nigeria junto a su familia y todo su poblado por escl
 
 ![Michelle LeCourt](./images/lecourt.webp)
 
-Aprendió a leer inglés como parte de su aprendizaje como ayuda de cámara y siempre que podía practicaba con los libros que tenía sus dueños. Un día encontró una pequeña biblioteca secreta con varios libros de los Mitos de los que empezó a aprender magia primigenia.
+Aprendió a leer inglés como parte de su aprendizaje como ayuda de cámara y siempre que podía practicaba con los libros que tenía sus dueños. Un día encontró una pequeña biblioteca secreta con varios libros de los Mitos, de los que empezó a aprender magia primigenia.
 
 Mediante la manipulación de los recuerdos hizo olvidar a toda la casa de que ella y la biblioteca secreta existieran. Así pudo escapar con sus libros de los Mitos a los barrios bajos del puerto de Kingston sin dejar rastro.
 

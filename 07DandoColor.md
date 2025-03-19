@@ -35,7 +35,7 @@ Las gentes del mar son bastante supersticiosas y todo puede ser una señal de bu
 * Cuando se vendía un barco, el antiguo propietario solía cortarle la cabeza al mascarón de proa o destrozarlo a hachazos para que el nuevo propietario tuviera que poner uno nuevo. De esa forma se aseguraba de que no se llevaba su suerte.
 * En esta misma línea, si el barco tenía mala suerte, el comprador le cambiaba el nombre y lo mantenía si tenía buen fario.
 * Los gatos en un barco Además, de cazar las ratas traían buena suerte.
-* Es 2023 y esto es juego de rol, así que olvídate de la tontería de que las mujeres en los barcos traían mala suerte y deja a la gente jugar con lo que quiera. De hecho, hubo grandes mujeres piratas como Mary Read que es un personaje principal en la campaña de esta ambientación.
+* Es 2023 y esto es juego de rol, así que olvídate de la tontería de que las mujeres en los barcos traían mala suerte y deja a la gente jugar con lo que quiera. De hecho, hubo grandes mujeres piratas como Mary Read, que es un personaje principal en la campaña de esta ambientación.
 * No debías hacer daño a un ave marina que se posaba en tu barco, esas aves llevaban almas de marinos muertos.
 * Había diferentes supersticiones con el barquero Caronte y las monedas de plata para pagarle. Desde ponerlas en los ojos de los muertos a clavarlas en los mástiles o esconderlas en el barco para atraer la buena suerte.
 
@@ -141,7 +141,7 @@ Aquí te presentamos el del pirata Bartholomew Roberts (Ha sido modificado a pro
 
 \sp
 
-10. El Capitán y el Intendente reciben dos partes de cada botín; el maestre, contramaestre y el cañonero una parte y media; y el resto de oficiales parte y cuarta.
+10. El Capitán y el Intendente reciben dos partes de cada botín; el maestre, contramaestre y el cañonero, una parte y media; y el resto de oficiales, parte y cuarta.
 11. Los músicos tienen que descansar el sábado.
 
 Los castigos iban desde la propia muerte hasta ser abandonado en una isla con un poco de agua y alimento, hasta ser entregado a las autoridades, lo cual suponía muchas veces la muerte, ya que la piratería se sentenciaba con la horca.

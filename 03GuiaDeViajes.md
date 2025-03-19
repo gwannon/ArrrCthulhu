@@ -644,49 +644,6 @@ No es tan salvaje como el Fèt Gede, pero puede pasar muchas cosas extrañas. De
 
 \sc
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-El vegigante está pintado / De amarillo y colorado
 #### Campos de batú de Tibes
 
 En las afueras de la ciudad de Ponce existe un antiguo complejo religioso/deportivo abandonado por los taínos y los irenis (etnia que provenía de las tierras recorridas por el Orinoco) hace siglos sin conocerse la razón. Se pueden encontrar 4 campos de batú de diferentes tamaños que aún se suelen usar en encuentros importantes entre las comunidades cercanas.
@@ -699,7 +656,7 @@ Hay, además, un importante cementerio de 8 o 9 años de antigüedad. Teniendo l
 
 > El saqueo de tumbas es algo horrible, ya que no solo estropea el yacimiento para su estudio y poder así conocer a las gentes que vivieron allí. También es robar una riqueza a las gentes del lugar, al saquear su historia y su cultura y estropear la oportunidad de saber quiénes son y de dónde vienen. No seas como el British Museum, no robes reliquias.
 
-Dentro de una ambientación basada en los Mitos de Cthulhu saquear una tumba para robar un cadáver podría ser considerado «aceptable», pero desde luego no deberías permiten que tu mesa coja pico y pala y se dedique a saquear tumbas para robar sus objetos valiosos.
+Dentro de una ambientación basada en los Mitos de Cthulhu, saquear una tumba para robar un cadáver podría ser considerado «aceptable», pero desde luego no deberías permiten que tu mesa coja pico y pala y se dedique a saquear tumbas para robar sus objetos valiosos.
 
 ### Otros lugares de Puerto Rico
 
@@ -707,7 +664,7 @@ Dentro de una ambientación basada en los Mitos de Cthulhu saquear una tumba par
 
 ![](./images/piedra-escrita.webp)
 
-En el centro de Puerto Rico, en la región de Jayuya, en las orillas del Río Saliente se encuentra La Piedra Escrita. En el cauce del río se pueden encontrar una gran roca erosionada por el río. Este monolito de piedra gris, de diez metros de largo y cuatro de ancho, exhibe una impresionante muestra de figuras talladas por los taínos con los que representaban a sus dioses, animales y elementos de la naturaleza.
+En el centro de Puerto Rico, en la región de Jayuya, en las orillas del Río Saliente, se encuentra La Piedra Escrita. En el cauce del río se pueden encontrar una gran roca erosionada por el río. Este monolito de piedra gris, de diez metros de largo y cuatro de ancho, exhibe una impresionante muestra de figuras talladas por los taínos con los que representaban a sus dioses, animales y elementos de la naturaleza.
 
 Este es un lugar sagrado para los taínos y cualquier promesa o trato que se haga en este lugar se vuelve sagrado y no se puede romper. Según sus creencias, los cemíes de los antepasados que habitan aquí te perseguirán si rompes tu palabra.
 
@@ -729,7 +686,7 @@ _Población:_ 6.000 habitantes
 
 _Controlada por:_ Reino de España
 
-Santo Domingo, originalmente conocida como Santo Domingo de Guzmán, se encuentra en la costa sur de La Española en la ribera del río Ozama. El Ozama es navegable hasta 15 kilómetros en su interior para barcos. Esto convirtió el lugar en una de las mejores opciones que tenían los españoles para establecer su primera ciudad.
+Santo Domingo, originalmente conocida como Santo Domingo de Guzmán, se encuentra en la costa sur de La Española, en la ribera del río Ozama. El Ozama es navegable hasta 15 kilómetros en su interior para barcos. Esto convirtió el lugar en una de las mejores opciones que tenían los españoles para establecer su primera ciudad.
 
 Santo Domingo, como casi todas las ciudades del Caribe, ha sufrido catástrofes y varios ataques e invasiones, algunas más destructivas que otras. De hecho, la ciudad fue reconstruida en la ribera oeste tras destruirse por un huracán la vieja ciudad que estaba en la ribera este.
 
@@ -759,7 +716,7 @@ Detrás de la barra, Bartolo y Antonia han ido acumulando «objetos piratas» co
 
 #### Universidad Santo Tomás de Aquino
 
-Su nombre completo es la regia y Pontifica Universidad Santo tomas de Aquino, ya que obtuvo el permiso papal y del rey de España para crearse. La Universidad Santo Tomás de Aquino es considerada una de las primeras universidades de América y desde luego es la más antigua del Caribe. Lleva ya 200 años siendo una importantísima institución educativa superior. Fue creada por los dominicos y sigue bajo su control a día de hoy. Los dominicos están extendiendo su control sobre la educación a Cuba, intentando que la Universidad de La habana triunfe.
+Su nombre completo es la regia y Pontifica Universidad Santo tomas de Aquino, ya que obtuvo el permiso papal y del rey de España para crearse. La Universidad Santo Tomás de Aquino es considerada una de las primeras universidades de América y desde luego es la más antigua del Caribe. Lleva ya 200 años siendo una importantísima institución educativa superior. Fue creada por los dominicos y sigue bajo su control a día de hoy. Los dominicos están extendiendo su control sobre la educación a Cuba, intentando que la Universidad de La Habana triunfe.
 
 LA RCPC tiene a sueldo personal de la universidad para que detecten a personas con altas capacidades científicas. Estos pasan informes a la RCPC que a su vez llegan a la Orden del Gran Cthulhu. Estos estudian los perfiles y escogen los más fácilmente corruptibles para intentar que integren sus filas.
 
@@ -869,7 +826,7 @@ La terrible verdad del gumbo es que el primer gumbo lo hizo con carne humana. Ma
 
 ### Fèt Gede
 
-El Fèt Gede es el Día de los muertos para los practicantes del vudú. A pesar de estar prohibido todos los rituales religiosos que no sean católicos, a primeros de noviembre los creyentes celebran el Fèt Gede escondido dentro de las celebraciones católicas de «Todos los santos». Salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los cementerios y algunos son poseídos por los gede, los espíritus de los ancestros muertos.
+El Fèt Gede es el Día de los Muertos para los practicantes del vudú. A pesar de estar prohibido todos los rituales religiosos que no sean católicos, a primeros de noviembre los creyentes celebran el Fèt Gede escondido dentro de las celebraciones católicas de «Todos los santos». Salen a la calle vestidos de blanco, negro y morado y con las caras pintadas con polvo blanco. Fuman, comen y beben en los cementerios y algunos son poseídos por los gede, los espíritus de los ancestros muertos.
 
 Es una celebración muy popular entre los piratas por sus excesos y se sabe que es visitada por muchos piratas que se mezclan entre los celebrantes para disfrutar de la fiesta. Puede ser un buen momento en el que tu mesa se encuentre con alguna de sus némesis piratas. Fácilmente, todo puede pasar de la dialéctica a las peleas de taberna o los duelos a espada.
 
@@ -899,13 +856,13 @@ _Controlada por:_ Gran Bretaña
 
 La ciudad de Kingston se funda en tierra en firme como un campamento de refugiados tras el desastre del terremoto de Port Royal. Albergará durante muchos años a la gente de Port Royal que había perdido su hogar. No será hasta 1703 cuando Catania Nick ataca y destruye la ciudad de Port Royal que Kingston empiece a despuntar.
 
-A diferencia de Port Royal los británicos aprovecharon este cambio para limpiar sus puertos de piratas, especialmente los de la Cofradía de la Hermandad de la Costa que durante muchos años usaron Port Royal y Tortuga como puertos seguros.
+A diferencia de Port Royal los británicos aprovecharon este cambio para limpiar sus puertos de piratas, especialmente los de la Cofradía de la Hermandad de la Costa, que durante muchos años usaron Port Royal y Tortuga como puertos seguros.
 
 \sp
 
 Para 1716 era la ciudad más importante de Jamaica a nivel económico, político y social. De hecho, casi todo el comercio de Jamaica pasará por Kingston camino de Gran Bretaña. Su gran ventaja es que al estar en tierra firme y no en una península, podía crecer en extensión sin problemas.
 
-La parte vieja de la ciudad es conocida como Spanish Town que corresponde la Villa de la Vega (una pequeña villa fundada por los españoles) sobre la que se creó Kingston.
+La parte vieja de la ciudad es conocida como Spanish Town, que corresponde la Villa de la Vega (una pequeña villa fundada por los españoles) sobre la que se creó Kingston.
 
 #### Teatro Real
 
@@ -917,7 +874,7 @@ Actualmente, se está preparando una obra de una dramaturga principiante, Johann
 
 The captain’s portrait (Retrato del Capitán) es la más concurrida taberna del puerto de Kingston. Comida abundante y económica, bebida no aguada en exceso, música en directo por las noches y partidas de naipes y apuestas no del todo legales. Las peleas no son frecuentes y suelen acabar con los dos contrincantes recibiendo una tunda de personal y siendo expulsados de la taberna.
 
-Está regentado por el viejo Capitán Lawrence, que con el dinero de su retiro de la armada inglesa compro la taberna. El capitán Lawrence puso el nombre de su barco (Assistance) a la taberna y en el letrero de la taberna pinto también su cara con su traje de gala de la armada. Así que los parroquianos que no sabían leer terminaron llamándola el Retrato del capitán.
+Está regentado por el viejo Capitán Lawrence, que con el dinero de su retiro de la armada inglesa compro la taberna. El capitán Lawrence puso el nombre de su barco (Assistance) a la taberna y en el letrero de la taberna pintó también su cara con su traje de gala de la armada. Así que los parroquianos que no sabían leer terminaron llamándola el Retrato del capitán.
 
 Este viejo edificio de madera cuenta con dos plantas, un sótano de almacén y un jardín interior con mesas para estar al fresco en las noches de verano. En la planta baja está la barra, la cocina y las mesas, mientras que en la superior están los reservados y unas oficinas. El sótano suele usarse de almacén, no siempre de productos legales.
 
@@ -937,7 +894,7 @@ Si tiene un objeto extraño con montones de engranajes, palancas y botones, es e
 
 En realidad, Ifá es la que repara todos estos cachivaches de ciencia extraña. Los mete en la trastienda y pone a funcionar sus dones tecnológicos otorgados por Oggun, el orisha de la herrería.
 
-> Por unos 200 doblones, Ifá puede decirte qué es y cómo funciona cualquier objeto tecnológico. Por 500 doblones puede repararlo siempre que sea materialmente posible. Si está quemado, hecho trozos o le faltan piezas, Ifá no podrá hacer nada. Tampoco puede hacerles mejoras, ni cambiar aspectos de su funcionalidad.
+> Por unos 200 doblones, Ifá puede decirte qué es y cómo funciona cualquier objeto tecnológico. Por 500 doblones puede repararlo siempre que sea materialmente posible. Si está quemado, en trozos o le faltan piezas, Ifá no podrá hacer nada. Tampoco puede hacerles mejoras, ni cambiar aspectos de su funcionalidad.
 
 \sp
 
@@ -1022,7 +979,7 @@ Si por alguna razón se posee una caracola de los profundos, se podría usar con
 
 La desembocadura del Río Negro, en el suroeste de la isla, es un inmenso pantano lleno de vegetación y fauna. Es el mayor pantano del Caribe, con unos casi 60 km² de ciénagas y manglares. Es famoso por ser el hábitat principal de los caimanes más grandes del Caribe.
 
-Troncos de árboles de palo de tinte se bajan por el río Negro hasta la ciudad de Black River en la desembocadura del río, para ser procesados y enviados a Inglaterra para hacer tinte negro, rojo y azul.
+Troncos de árboles de palo de tinte se bajan por el río Negro hasta la ciudad de Black River, en la desembocadura del río, para ser procesados y enviados a Inglaterra para hacer tinte negro, rojo y azul.
 
 La ciudad de Black River es también famoso por uno de los principales puntos de tráfico de esclavos de Jamaica. Este intenso tráfico de esclavos ha hecho que haya varias comunidades de cimarrones en las zonas elevadas y secas del pantano.
 
@@ -1191,7 +1148,7 @@ Los ejemplares de la VLH pueden encontrarse en cualquier parte del Caribe y cuan
 
 |1d20|Titular|Descripción|
 |---|---|---|
-|2|Aparecen pepitas de oro en las playas de \[isla\]|Las mareas vivas y un reciente huracán han arrastrado hasta la playa una gran cantidad de pepitas de oro. Se desconoce su origen, pero no pueden ser de un barco hundido porque se transformaban en lingotes. Los pescadores y campesinos locales han dejado sus trabajos para ir a la playa buscar pepitas. Se han montado campamentos improvisados en las playas donde estos buscadores de oro esperan nuevas mareas para tratar de conseguir oro./br/Las pepitas, si encuentran una o pueden ver alguna de las que han recogido los buscadores, tienen formas extrañas y desde luego no naturales. Con una tirada de Mitos verán que son joyas de los profundos y seguramente querrán recuperarlas. Si ya habían visto este tipo de joyas lo verán sin necesidad de tirada./br/Las pepitas proceden de un asentamiento profundo en los arrecifes cercanos. El huracán junto a las mareas vivas casi han destruido su poblado submarino. La mayoría de las pepitas de oro son en realidad joyas de los profundos que han perdido durante la destrucción de su aldea./br/La misma noche que lleguen los PJ los profundos harán un ataque salvaje al asentamiento de la playa para recuperar su oro. Si los jugadores no hacen algo los profundos masacrarán a la gente de la playa. Pueden convencerles de que devuelvan el oro o serán perseguidos por los demonios del mar, pueden defenderse o pueden huir.|
+|2|Aparecen pepitas de oro en las playas de \[isla\]|Las mareas vivas y un reciente huracán han arrastrado hasta la playa una gran cantidad de pepitas de oro. Se desconoce su origen, pero no pueden ser de un barco hundido porque se transformaban en lingotes. Los pescadores y campesinos locales han dejado sus trabajos para ir a la playa buscar pepitas. Se han montado campamentos improvisados en las playas donde estos buscadores de oro esperan nuevas mareas para tratar de conseguir oro./br/Las pepitas, si encuentran una o pueden ver alguna de las que han recogido los buscadores, tienen formas extrañas y desde luego no naturales. Con una tirada de Mitos verán que son joyas de los profundos y seguramente querrán recuperarlas. Si ya habían visto este tipo de joyas lo verán sin necesidad de tirada./br/Las pepitas proceden de un asentamiento profundo en los arrecifes cercanos. El huracán junto a las mareas vivas casi han destruido su poblado submarino. La mayoría de las pepitas de oro son en realidad joyas de los profundos que han perdido durante la destrucción de su aldea./br/La misma noche que lleguen los PJ los profundos harán un ataque salvaje al asentamiento de la playa para recuperar su oro. Si los jugadores no hacen algo, los profundos masacrarán a la gente de la playa. Pueden convencerles de que devuelvan el oro o serán perseguidos por los demonios del mar, pueden defenderse o pueden huir.|
 |3|¿Te atreves a pasar una noche en una casa encantada?|Anya Corbitt ofrece 200 doblones a quien averigüe qué pasa en la casa familiar, la mansión. Empieza el relato salvaje «El tesoro de la mansión Corbitt».|
 
 \conc
@@ -1202,7 +1159,7 @@ Los ejemplares de la VLH pueden encontrarse en cualquier parte del Caribe y cuan
 
 |1d20|Titular|Descripción|
 |---|---|---|
-|4|Aparece una coliflor de 500 kilos en una plantación de \[isla\]|Una espora de Ubbo-Sathla, dios primigenio que vino a la tierra desde el espacio que se que cree que es el origen de la vida en la tierra, ha caído en el huerto de un campesino y ha hecho que sus vegetales crezcan en tamaño descomunal. La espora ha llegado de río arriba de un almacén de la RCPC. El almacén es una tapadera donde la Orden del Gran Cthulhu está haciendo experimentos. Si los personajes investigan podrán dar con el laboratorio secreto. Es una construcción muy simple de madera de dos pisos, primera planta almacén y laboratorio en una sola gran estancia; segunda planta, oficinas del capitán, dormitorio con 8 camastros y cocina/despensa. Hay un 1 capitán, 10 guardas y 2 cultistas/científicos y 3 peones. Si desmantelan el almacén pueden hacer una tirada de tesoro con un TPC 1d8.|
+|4|Aparece una coliflor de 500 kilos en una plantación de \[isla\]|Una espora de Ubbo-Sathla, dios primigenio que vino a la tierra desde el espacio que se que cree que es el origen de la vida en la tierra, ha caído en el huerto de un campesino y ha hecho que sus vegetales crezcan en tamaño descomunal. La espora ha llegado de río arriba de un almacén de la RCPC. El almacén es una tapadera donde la Orden del Gran Cthulhu está haciendo experimentos. Si los personajes investigan podrán dar con el laboratorio secreto. Es una construcción muy simple de madera de dos pisos, primera planta, almacén y laboratorio en una sola gran estancia; segunda planta, oficinas del capitán, dormitorio con 8 camastros y cocina/despensa. Hay un 1 capitán, 10 guardas y 2 cultistas/científicos y 3 peones. Si desmantelan el almacén pueden hacer una tirada de tesoro con un TPC 1d8.|
 |5|Entre las redes de unos pescadores de \[puerto\] ha aparecido el cuerpo de una sirena|En realidad es el cuerpo hinchado y putrefacto de un profundo que murió a causa del ataque de un tiburón. Si tu mesa busca a los pescadores, estos lo tendrán conservado en sal. Podrán comprarlo por 150 doblones, algo menos si regatean. Si un personaje gasta una semana estudiando estas bacaladas saladas gigantes, obtiene un +1 a todas las tiradas relacionadas con los profundos.|
 |6|Anuncio de The Mystery Shack|Hay un anuncio que ofrece 20% de descuento a quien presente este periódico al comprar algún producto en la tienda de curiosidades de The Mystery Shack.|
 |7|Compramos libros antiguos|Librería Guía, en La Habana, compra libros antiguos. Si tu mesa visita a Isadora y se gana su confianza, obtendrá una valiosa aliada con los mayores conocimientos de los Mitos de todo el Caribe.|
@@ -1216,7 +1173,7 @@ Los ejemplares de la VLH pueden encontrarse en cualquier parte del Caribe y cuan
 |1d20|Titular|Descripción|
 |---|---|---|
 |8|Extrañas frutas aparecen en los árboles de \[ciudad\] ante el asombro de la gente de ciencia|Los campesinos locales han recogido extrañas frutas de sus árboles frutales que al ser consumidas tienen efectos alucinógenos. Podrán comprar algunas piezas por 10 doblones cada una. Si se consumen, las ondas cerebrales del gran Cthulhu se infiltran en el cerebro de los comensales, dándoles visiones terribles de la ciudad sumergida de R’lyeh. Durante las visiones podrán hacer uso de su habilidad de Mitos de Cthulhu para tratar de sacar información sobre Cthulhu, R’lyeh, sus adoradores y sus planes.|
-|9|La joven diletante Johanna Ribeiro presentará su primera obra en el teatro de Kingston.|Johanna Ribeiro está preparando su primera obra de teatro «El capitán de amarillo» que espera que sea un éxito. La noticia narra las dificultades que está teniendo la dramaturga para sacar su obra. Empieza el relato salvaje «El capitán de amarillo».|
+|9|La joven diletante Johanna Ribeiro presentará su primera obra en el teatro de Kingston.|Johanna Ribeiro está preparando su primera obra de teatro, «El capitán de amarillo» que espera que sea un éxito. La noticia narra las dificultades que está teniendo la dramaturga para sacar su obra. Empieza el relato salvaje «El capitán de amarillo».|
 |10|La actividad sísmica se dispara en los Cayos de Florida|En los últimos meses, ha aumentado drásticamente la actividad sísmica en los Cayos de Florida. Los locales se lo achacan desde demonios tratando de escapar del infierno a locas teorías sobre placas de corteza terrestre que chocan entre sí. La verdad es que los temblores han crecido desde que se instalaron en Cayo Hueso un grupo de religiosos ascetas.|
 |11|Desde Galicia hasta el Caribe|La noticia recoge la migración de gallegos desde España hasta el caribe en busca de fortuna. Permite aprender el ritual de La Queimada, cuya receta se recoge en el artículo.|
 |12|Se buscan modelos|Un anuncio busca modelos. Empieza el relato salvaje «Se buscan modelos».|
@@ -1284,7 +1241,7 @@ Es por ello que para plantearse arreglar los errores viajando en el tiempo, debe
 
 **3\. No abusar de los viajes en el tiempo:** Los viajes en el tiempo atraen a los sabuesos de Tíndalos. Si abusan de los viajes en el tiempo, podrían acabar muertos entre sus colmillos extratemporales.
 
-**4\. Solo errores recientes:** Solo pueden tratar de arreglar errores recientes (de la sesión anterior de juego). Cualquier otro error no será posible corregirlo, porque el tiempo ya se ha solidificado y no se puede modificar (o cualquier otra excusa que se te ocurra). Si se embarcan en otra aventura que no sea arreglar su error también perderán la oportunidad de arreglar el error viajando en el tiempo.
+**4\. Solo errores recientes:** Solo pueden tratar de arreglar errores recientes (de la sesión anterior de juego). Cualquier otro error no será posible corregirlo, porque el tiempo ya se ha solidificado y no se puede modificar (o cualquier otra excusa que se te ocurra). Si se embarcan en otra aventura que no sea arreglar su error, también perderán la oportunidad de arreglar el error viajando en el tiempo.
 
 \sp
 
@@ -1294,7 +1251,7 @@ Es por ello que para plantearse arreglar los errores viajando en el tiempo, debe
 
 \conc
 
-Los volcanes son una referencia recurrente en los relatos de Lovecraft seguramente por ser fuerzas primordiales de la naturaleza tan poderosas y destructivos como los propios primigenios. Normalmente, son moradas donde duermen o están encerrados todo tipo de monstruos de los Mitos. Veamos algunos ejemplos:
+Los volcanes son una referencia recurrente en los relatos de Lovecraft, seguramente por ser fuerzas primordiales de la naturaleza tan poderosas y destructivos como los propios primigenios. Normalmente, son moradas donde duermen o están encerrados todo tipo de monstruos de los Mitos. Veamos algunos ejemplos:
 
 * El primigenio Ghatanothoa «el señor del volcán» está encerrado en el monte Yaddith-Gho, un volcán del continente hundido de Mu.
 * Los montes Erebus y el monte Terror, ambos volcanes antárticos, se citan en «En las montañas de la locura».
@@ -1353,7 +1310,7 @@ Queda a discreción del director de juego cuando los jugadores pueden ser buscad
 |1691|La Compañía de Comercio del Caribe obtiene la exclusiva comercial del rey de España y pasa a llamarse la Real Compañía Privilegiada del Caribe.|
 |1697|España cede a Francia por el tratado de Ryswick la parte oeste de La Española pasándose a llamar Saint-Domingue.|
 |1703|La ciudad de Port Royal sufre grandes destrozos por parte de la flota del pirata Catania Nick.|
-|1706|Se funda la República de Piratas en la isla de Nueva Providencia convirtiéndose en el mayor refugio pirata de las Antillas Menores.|
+|1706|Se funda la República de Piratas en la isla de Nueva Providencia, convirtiéndose en el mayor refugio pirata de las Antillas Menores.|
 |1708|Se publica el primer número de La verdad de La Habana.|
 |1711|Hernando Villalba descubre unas ruinas sumergidas al oeste de Cuba que puede que le indiquen dónde está sumergida la ciudad de R’lyeh. Desde ese momento Villalba lleva enclaustrado en su mansión buscando su tesoro hundido.|
 
@@ -1368,7 +1325,7 @@ Queda a discreción del director de juego cuando los jugadores pueden ser buscad
 |1715|Una flota de la plata capitaneada por Juan Esteban de Ubilla es hundida por un huracán frente a las costas de Florida.|
 |1716|Tras años moviendo hilos, la RCPC consigue que se construya el Real Astillero de La Habana.|
 |1718|El gobernador Woodes Rogers toma Nasáu y acaba con la República de Piratas, el refugio pirata de Bahamas.|
-|1718|Barbanegra consigue escapar de la flotilla cazapirata de Robert Maynard gracias a la ayuda del culto de Cthulhu con los que contrae una deuda de sangre que deberá pagar trabajando para ellos durante 10 años.|
+|1718|Barbanegra consigue escapar de la flotilla cazapirata de Robert Maynard gracias a la ayuda del culto de Cthulhu, con los que contrae una deuda de sangre que deberá pagar trabajando para ellos durante 10 años.|
 |1719|Se inaugura la Universidad de La Habana.|
 |1720|El capitán Barnet captura Anne Bonny y Jack Rackham, Mary Read escapa iniciando sus andaduras en solitario como pirata.|
 |1722|Los jesuitas fundan el colegio público San José en La Habana.|

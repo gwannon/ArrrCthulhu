@@ -36,7 +36,7 @@ Si no quieres perder tiempo de partida, también puedes crear en casa el tesoro 
 
 He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal. He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual (ver más adelante Romancear PNJ). Mi intención ha sido evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
 
-Está claro que los malos van a ser racistas, machistas, homófobos, etc. vamos lo que se considera malas personas en general, pero creo que no debéis permitirles estas conductas a vuestras mesas ni aunque digan que «su personaje es así» o «era lo normal en esa época». Esto es un juego de rol y ya hay mucha mierda en la vida real para aguantarla tú o tus jugadores en una mesa de juego.
+Está claro que los malos van a ser racistas, machistas, homófobos, etc. vamos lo que se considera malas personas en general, pero creo que no debéis permitirles estas conductas a vuestras mesas, ni aunque digan que «su personaje es así» o «era lo normal en esa época». Esto es un juego de rol y ya hay mucha mierda en la vida real para aguantarla tú o tus jugadores en una mesa de juego.
 
 Muchas «sugerencias de beni» están pensadas para premiar a los jugadores por ser más empáticos y ayudar a grupos discriminados. En ese sentido, bastantes formas extras de recuperar cordura están asociadas a acciones en favor de colectivos desfavorecidos que van más allá de salvarles la vida. Muchas veces se premiará devolverles derechos que les han sido robados o mejorar sus condiciones de vida en general. Como DJ creo que debes tratar de que las decisiones y acciones que tomen tus jugadores para conseguir esos «premios» sean porque creen que es lo bueno y justo en nuestra sociedad y no porque es un beneficio para su PJ en el juego.
 
@@ -203,7 +203,7 @@ Gracias por su documentación a:
 
 \conc
 
-Esta es mi selección de música para jugar a ¡Arrr! Cthulhu. Es casi imposible encontrar música que pegue con piratas y con Cthulhu así que primero vamos a ver música para momentos más «piratescos».
+Esta es mi selección de música para jugar a ¡Arrr! Cthulhu. Es casi imposible encontrar música que pegue con piratas y con Cthulhu, así que primero vamos a ver música para momentos más «piratescos».
 
 \sc
 
