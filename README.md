@@ -26,8 +26,7 @@ Gracias por su documentación a:
 * https://amor-de-otro-mundo.fandom.com/es/wiki/Wiki_Amor_de_Otro_Mundo
 
 ## Por hacer en Relatos salvajes
-* Nunca me habían dado todo (DETENIDA)
-* Behike (DETENIDA)
+* Behike
 
 ## Por hacer en PNJ y monstruos
 
