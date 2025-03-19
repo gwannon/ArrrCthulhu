@@ -127,7 +127,7 @@ El tesoro de Cesar se encuentra en el actual cayo Big Pine. Escogió ese lugar d
 * **Estado de conservación:** Usado y leído
 * **Rituales:** Silbar al viento, Cegar el mascarón de proa, Brindar por el mar, Cornucopia
 * **Tiempo de lectura:** 1 semana
-* **Características especiales:** Si la Orden o Barbanegra descubriera este diario comprometería su tapadera y pondría en peligro la vida de Cesar. También se le podría chantajear con entregarlo para conseguir dinero o favores.
+* **Características especiales:** Si la Orden o Barbanegra descubriera este diario, comprometería su tapadera y pondría en peligro la vida de Cesar. También se le podría chantajear con entregarlo para conseguir dinero o favores.
 
 #### Raqueros
 
@@ -255,7 +255,7 @@ En momentos especiales y con piratas violentos y famosos y criminales muy buscad
 
 #### Castillo de los Tres Reyes Magos del Morro
 
-El castillo de los Tres Reyes, también conocido como castillo del Morro, se terminó de construir hacia 1610. Con unos 12 cañones y una guarnición de unos 500 defensores. Protege la ribera norte de la entrada a la bahía de la Habana.
+El castillo de los Tres Reyes, también conocido como castillo del Morro, se terminó de construir hacia 1610. Con unos 12 cañones y una guarnición de unos 500 defensores. Protege la ribera norte de la entrada a la bahía de La Habana.
 
 A diferencia del Castillo de San Salvador de la Punta, que está enfrente en la ribera sur, el Morro, como lo conoces los locales, está controlado por el RCPC. La guarnición está controlada por el director general de la RCPC en La Habana, de forma que la RCPC controla todos los barcos que entran y salen de La Habana.
 
@@ -289,7 +289,7 @@ Dentro de la fortaleza hay una serie de edificios que sirven de barracones, ofic
 
 La mansión Villalba, en la que Hernando de Villalba lleva enclaustrado los últimos 10 años, se encuentra en las afueras de La Habana. A pesar de su aspecto plácido y opulento, es una fortaleza inexpugnable, protegida física y mágicamente.
 
-Antiguamente, Hernando solía dar grandes fiestas con las personas más ricas e importantes de La habana, pero ha dejado de perder tiempo con la vida social para centrar todos sus esfuerzos en sus planes apocalípticos. La rama propagandística de la RCPC se ha encargado de desviar todos los actos sociales que se hacían en la mansión Villalba a los casoplones de cultistas de rango superior en al Orden y clase alta y con recursos. Se ha demostrado el valor de estos actos sociales para detectar y extender rumores y contactar con personas importantes a las que atraer a la Orden, seducir, amenazar o tentar.
+Antiguamente, Hernando solía dar grandes fiestas con las personas más ricas e importantes de La Habana, pero ha dejado de perder tiempo con la vida social para centrar todos sus esfuerzos en sus planes apocalípticos. La rama propagandística de la RCPC se ha encargado de desviar todos los actos sociales que se hacían en la mansión Villalba a los casoplones de cultistas de rango superior en al Orden y clase alta y con recursos. Se ha demostrado el valor de estos actos sociales para detectar y extender rumores y contactar con personas importantes a las que atraer a la Orden, seducir, amenazar o tentar.
 
 Físicamente, hay un pequeño ejército de guardas adeptos a la Orden que darían su vida por Hernando. Hay unos 42 guardas, 14 por turno. 
 
@@ -600,7 +600,7 @@ _Población:_ 8.500 habitantes
 
 _Controlada por:_ Reino de España
 
-Ponce, conocida como la Perla del Sur, se localiza en la desembocadura del río Portugués en la costa meridional de Puerto Rico. Es la segunda ciudad en población y en importancia de la isla. Las plantaciones de caña de azúcar que la rodean son su principal producción. 
+Ponce, conocida como la Perla del Sur, se localiza en la desembocadura del río Portugués, en la costa meridional de Puerto Rico. Es la segunda ciudad en población y en importancia de la isla. Las plantaciones de caña de azúcar que la rodean son su principal producción. 
 
 \sp
 
@@ -640,10 +640,53 @@ No es tan salvaje como el Fèt Gede, pero puede pasar muchas cosas extrañas. De
 
 > _Vegigante comió mango / Y hasta las unas se las lambio_
 
-_El vegigante está pintado / De amarillo y colorado_
+> _El vegigante está pintado / De amarillo y colorado_
 
 \sc
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El vegigante está pintado / De amarillo y colorado
 #### Campos de batú de Tibes
 
 En las afueras de la ciudad de Ponce existe un antiguo complejo religioso/deportivo abandonado por los taínos y los irenis (etnia que provenía de las tierras recorridas por el Orinoco) hace siglos sin conocerse la razón. Se pueden encontrar 4 campos de batú de diferentes tamaños que aún se suelen usar en encuentros importantes entre las comunidades cercanas.
