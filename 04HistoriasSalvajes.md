@@ -9,7 +9,7 @@
 
 El tesoro hundido es una campaña en la que tu mesa deberá evitar la ascensión de R’lyeh de los oscuros fondos oceánicos del mar Caribe, enfrentándose a un poderoso culto de adoradores de Cthulhu.
 
-El tesoro hundido es cómo llama Hernando de Villalba, dueño de la RCPC, a la ciudad sumergida de R’lyeh, donde duerme Cthulhu desde hace eones. Villalba, líder de la Orden del Gran Cthulhu quiere sacar a la ciudad de las aguas y despertar al gran Cthulhu. Este en agradecimiento le colmará de poder y riquezas dignas de un rey y lo que más ansia, la inmortalidad.
+El tesoro hundido es cómo llama Hernando de Villalba, dueño de la RCPC, a la ciudad sumergida de R’lyeh, donde duerme Cthulhu desde hace eones. Villalba, líder de la Orden del Gran Cthulhu, quiere sacar a la ciudad de las aguas y despertar al gran Cthulhu. Este en agradecimiento le colmará de poder y riquezas dignas de un rey y lo que más ansia, la inmortalidad.
 
 Para llevar a cabo su plan necesita primero encontrar la ciudad, que sospecha que se encuentra en algún lugar del Caribe. Lleva años estudiando viejos tomos malditos, apócrifas cartas náuticas y mandando a sus espías a tabernas portuarias a escuchar los locos relatos de los marineros. Está muy cerca de encontrarla, pero hay algo que todavía se le escapa para encontrar su «tesoro hundido».
 
@@ -172,7 +172,7 @@ Si no han aceptado el trato, el equipo de Mary hará reparaciones básicas, pero
 
 Al final de la semana les volverá reunir y les volverá a preguntar. Si después de todo esto no aceptan déjales irse con el «Carcosa», pero la predicción de Mary se cumplirá a la perfección.
 
-De hecho les seguirá de cerca y cuando sean detenidos, encerrados y torturados por la RCPC, ella les liberará y les ofrecerá por última vez su propuesta. Esta vez solo les podrá darles el Buenaventura, una pequeña goleta. Negarle a Read tiene sus desventajas.
+De hecho les seguirá de cerca y cuando sean detenidos, encerrados y torturados por la RCPC, ella les liberará y les ofrecerá por última vez su propuesta. Esta vez solo podrá darles el «Buenaventura», una pequeña goleta. Negarle a Read tiene sus desventajas.
 
 Cuando tengan el barco arreglado y terminado, podrán partir al puerto que deseen que casualmente es el mismo al que Read quiere llevar el descifrador de códigos. Les dirá que lo dejen en una plaza del pueblo en una esquina apartada, alguien lo cogerá.
 
@@ -423,11 +423,11 @@ Isadora les contará que la solución a su problema es la droga plutónica, una 
 
 El único problema es conseguir droga plutónica, ahora mismo, la receta solo se encuentra en el Necronomicón, el infame libro del árabe loco Abdul Alhazred. Por suerte sabe que se va a subastar una copia incompleta traducida al inglés por un traductor anónimo al día siguiente en una casa de subasta de la ciudad. Si tiene dinero suficiente, quizás puedan hacerse con el libro legalmente. O quizás tengan que robarlo.
 
-También les avisa de que consumir la droga puede atraer a unos seres muy peligrosos llamados Sabuesos de Tíndalos que irán por el viajero en el tiempo.
+También les avisa de que consumir la droga puede atraer a unos seres muy peligrosos llamados Sabuesos de Tíndalos que irán a por el viajero en el tiempo.
 
 \sp
 
-Si no conoce a Isadora este es un buen momento para conocerla, saber de sus vastos conocimientos de sobre los Mitos y de su increíble biblioteca. Podrán intercambiar libros y conocimientos con ella sin problema, sobre todo si viene de la mano de Read. También podrán empezar a ver los tics y manías que de vez en cuando salen a la superficie en su tranquila apariencia.
+Si no conocen a Isadora, este es un buen momento para conocerla, saber de sus vastos conocimientos de sobre los Mitos y de su increíble biblioteca. Podrán intercambiar libros y conocimientos con ella sin problema, sobre todo si viene de la mano de Read. También podrán empezar a ver los tics y manías que de vez en cuando salen a la superficie en su tranquila apariencia.
 
 ### La subasta
 
@@ -826,7 +826,7 @@ La idea es hacer estallar uno tras otros los diferentes volcanes de las Antillas
 
 Según sus cálculos, haciendo que estallen los 6 primeros volcanes con una diferencia de dos horas entre ellos, se dará una reacción en cadena imparable que hará estallar el resto de volcanes por la falla hasta provocar un temblor de tal magnitud que hará chocar las placas tectónicas de la Fosa de Puerto rico y elevar R’lyeh sobre las aguas.
 
-El mega-terremoto va a crear un mega-maremoto que va arrasará todo el Caribe. Las pequeñas islas como las Bahamas, o las Caimán, desaparecerán y las grandes como Cuba o Puerto Rico verán sus ciudades de la costa inundadas.
+El mega-terremoto va a crear un mega-maremoto que va arrasará todo el Caribe. Las pequeñas islas, como las Bahamas, o las Caimán, desaparecerán y las grandes como Cuba o Puerto Rico verán sus ciudades de la costa inundadas.
 
 Las perdidas humanas podrían ser incalculables. De hecho, Villalba, espera que las muertes de cientos de miles vidas por todo el Caribe sirvan para despertar a su Amo de su eterno sueño.
 
@@ -1131,7 +1131,7 @@ Si estás en problemas graves, se puede negociar un trato con los lloigors para 
 
 La idea de tatuar el mapa en 3 partes tenía un triple objetivo: no podrían perderlo, no se lo podrían robar fácilmente y tendrían que juntarse si necesitaban usarlo. Además, así ninguno tendría más poder que los otros dos hijos.
 
-Como consiguió Eusebio encerrar esos lloigors muestra el poder que la RCPC tiene en el Caribe. La RCPC, cuando tiene problemas graves, recurre a los lloigors, entre otros seres de los Mitos, para solucionarlos. Unos de esos problemas era la ciudad de Port Royal.
+Cómo consiguió Eusebio encerrar esos lloigors muestra el poder que la RCPC tiene en el Caribe. La RCPC, cuando tiene problemas graves, recurre a los lloigors, entre otros seres de los Mitos, para solucionarlos. Unos de esos problemas era la ciudad de Port Royal.
 
 Desde hacía más de 20 años, los ingleses afincados en Jamaica eran un problema militar y económico para la RCPC. Así que se plantearon acabar con ellos cortando la cabeza del enemigo y decidieron destruir Port Royal. Primero lanzaron un maremoto contra la ciudad usando una manada de chthonianos. La hundieron, pero no fue suficiente.
 
@@ -1183,7 +1183,7 @@ Irá deshaciéndose de protectores hasta quedarse solo y poder matar a Salvador 
 
 Recuerda que el asaltante tiene «Manos Firmes» con lo que no sufre penalizaciones por los movimientos del carromato, pero seguramente tu mesa no. Trata de usar todos los objetos y trucos que tiene como por ejemplo las granadas y piensa que todo lo ha dejado preparado para este ataque.
 
-Alguien puede ocurrírsele tratar de desenmascarar al asaltante con algún ataque apuntado a su capucha o así. Si lo consiguen, verán que es una mujer mulata de unos vientipicos años. Ante la sorpresa de verse descubierta huirá al momento. Era algo que no se esperaba. Una tirada excepcionalmente buena de Notar permitirá darse cuenta a los que la vean que tiene la típica nariz de los García.
+A alguien puede ocurrírsele tratar de desenmascarar al asaltante con algún ataque apuntado a su capucha o así. Si lo consiguen, verán que es una mujer mulata de unos vientipicos años. Ante la sorpresa de verse descubierta huirá al momento. Era algo que no se esperaba. Una tirada excepcionalmente buena de Notar permitirá darse cuenta a los que la vean que tiene la típica nariz de los García.
 
 #### Un trato que no puedes rechazar
 
@@ -1257,7 +1257,7 @@ Se llama María Isabel y es la hija no reconocida de Eusebio. Necesita la parte 
 
 #### María Isabel García
 
-María Isabel García es la hija no reconocida que tuvo Eusebio con una sirvienta que trabajaba en casa de los García. Cuando Eusebio descubrió que iba a tener una hija, mando a la madre embarazada de María Isabel a unas instalaciones que tenía la RCPC en Matanzas donde tuvo a la niña.
+María Isabel García es la hija no reconocida que tuvo Eusebio con una sirvienta que trabajaba en casa de los García. Cuando Eusebio descubrió que iba a tener una hija, mando a la madre embarazada de María Isabel a unas instalaciones que tenía la RCPC en Matanzas, donde tuvo a la niña.
 
 Temeroso de derramar sangre de su sangre, entrego a la niña a la RCPC y a la madre a un convento de clausura al otro lado del océano. La RCPC crio y educó a María Isabel hasta tener la edad para entrenarla en el combate. 
 
@@ -1318,7 +1318,7 @@ El viaje hasta Isla Gran Inagua (Bahamas) no debería ser problemático, pero pu
 
 La isla de Gran Inagua es realidad pequeña (80 kilómetros de punta a punta) y no tienen ningún asentamiento grande, solo algunas granjas y algunas salinas en su parte sur. Llegar al Lago Rosa, que ocupa gran parte del interior de la isla, no debería darles problemas. El lago Rosa es un lago salado famoso por ser un lugar de cría de los flamencos.
 
-Según el mapa, en el extremo norte del lago, sobresaliendo del agua salada del lago hay una gran roca de unos 10x10 metros totalmente plana que los locales llaman la Cama del diablo. Una tirada de Ciencias revelará que geológicamente la piedra no pertenece a la isla. De alguna manera ha llegado allí y no parece que sea de forma humana y geológica.
+Según el mapa, en el extremo norte del lago, sobresaliendo del agua salada del lago, hay una gran roca de unos 10x10 metros totalmente plana que los locales llaman la Cama del diablo. Una tirada de Ciencias revelará que geológicamente la piedra no pertenece a la isla. De alguna manera ha llegado allí y no parece que sea de forma humana y geológica.
 
 \sp
 
@@ -1428,7 +1428,7 @@ Un tripulante deberá entregarse al clan profundo para ser sacrificado. Este pun
 
 **Comienzo:** Kingston (Jamaica)
 
-> Luchar contra horrores espaciales o extradimensionales no paga las facturas y los personajes, sobre todo si están buscados por la ley, deben buscar métodos rápidos de conseguir dinero. Una forma es haciendo contrabando de ron para Michelle LeCourt, una extravagante mujer de los bajos fondos de Kingston con fama de bruja, que les pedirá que lleven un cargamento de ron ilegal a Santo Domingo (La Española) evadiendo a la armada española y los barcos de la RCPC que vigilan su monopolio comercial.
+> Luchar contra horrores espaciales o extradimensionales no paga las facturas y los personajes, sobre todo si están buscados por la ley, deben buscar métodos rápidos de conseguir dinero. Una forma es haciendo contrabando de ron para Michelle LeCourt, una extravagante mujer de los bajos fondos de Kingston con fama de bruja, que les pedirá que lleven un cargamento de ron ilegal a Santo Domingo (La Española) evadiendo a la Armada Española y los barcos de la RCPC que vigilan su monopolio comercial.
 
 Todo sería una actividad delictiva de lo más normal y corriente, si no fuera porque en varios de los barriles de ron hay cadáveres humanos. Sobre estos cuerpos se ha realizado un ritual vudú de zombificación.
 
@@ -1442,7 +1442,7 @@ El ojeador se acercará al que tenga pinta de capitán y les ofrecerá trabajo. 
 
 Michelle LeCourt ha recibido un encargo secreto de la RCPC de que le consiga unos zombis para una tarea que solo ellos podrían realizar. LeCourt no ha preguntado, solo ha cogido el dinero y se ha puesto a abrir tumbas y a sacar cadáveres. 
 
-El siguiente paso es buscar una tripulación prescindible que lleve en secreto los zombis a su destino. Es importante que las actividades sobrenaturales de RCPC no salgan a la luz así que quieren hacer pasar el cargamento como contrabando, aunque las patrulleras reales y las de aduanas de la RCPC tienen orden de no molestar al barco de tu mesa.
+El siguiente paso es buscar una tripulación prescindible que lleve en secreto los zombis a su destino. Es importante que las actividades sobrenaturales de RCPC no salgan a la luz, así que quieren hacer pasar el cargamento como contrabando, aunque las patrulleras reales y las de aduanas de la RCPC tienen orden de no molestar al barco de tu mesa.
 
 Michelle estará tomando una infusión en uno de los reservados de la segunda planta del Retrato del capitán. Muy tranquilamente y sin ninguna prisa les explicará que les ofrece 1500 doblones por llevar 20 barriles de ron a Santo Domingo, 750 ahora y 750 a la entrega. No quiere preguntas, solo llevar el material hasta su destino eludiendo las naves de aduanas (aunque sabe de sobra que ni se acercarán, ya que tienen orden de no detener a los contrabandistas).
 
@@ -1606,7 +1606,7 @@ Tarde o temprano tu mesa se dará cuenta de que Totep es el causante de todos lo
 
 Si Totep no quiere abandonar el barco, no podrán deshacerse de él. Pueden dejarle tirado en un puerto o perdido en la jungla que cuando lleguen a su barco, estará esperándoles fresco como una lechuga en la cubierta del barco.
 
-Para deshacerse de él deberán engañarle y conseguir que les firme algún tipo de pacto o contrato o que les prometa algo. Las debilidades de Totep son el ron y el flirteo. Emborrachándole y flirteando con él podrán conseguir que se aliste en otro barco, que ponga a buscar alguna ciudad perdida de oro o lo que sea que le mantenga alejados de ellos. Una vez que se deshagan de él no podrá volver al barco si ellos no se lo permiten. Pero eso no quiere decir que no pueda volver a aparecer en otros sitios para ayudarles o para complicarles la vida.
+Para deshacerse de él deberán engañarle y conseguir que les firme algún tipo de pacto o contrato o que les prometa algo. Las debilidades de Totep son el ron y el flirteo. Emborrachándole y flirteando con él podrán conseguir que se aliste en otro barco, que ponga a buscar alguna ciudad perdida de oro o lo que sea que le mantenga alejados de ellos. Una vez que se deshagan de él, no podrá volver al barco si ellos no se lo permiten. Pero eso no quiere decir que no pueda volver a aparecer en otros sitios para ayudarles o para complicarles la vida.
 
 \sp
 
@@ -1662,11 +1662,11 @@ Si consiguen soltar su barco del shoggoth este no les perseguirá ni nada por el
 
 **Comienzo:** En una taberna del puerto de La Habana
 
-> «El Susurros» es un barco abandonado en el puerto de la Habana del que el jefe de puerto quiere deshacerse a toda costa, incluso mediante métodos ilegales.
+> «El Susurros» es un barco abandonado en el puerto de La Habana del que el jefe de puerto quiere deshacerse a toda costa, incluso mediante métodos ilegales.
 
 «El Susurros» lleva atracado en el puerto desde hace más de 30 años. Está podrido y medio desmontado, ya que a lo largo de los años los carpinteros que se atrevían a acercarse sacaban madera para sus talleres. Sin olvidarse que ha sobrevivido a varios ataques de piratas y de la armada inglesa a la ciudad de La Habana. Con todo, aún se puede ver su nombre en la proa, «Virgen de la Guía». Los locales lo llaman «El Susurros» por los ruidos parecidos a susurros que se supone hacen los viejos tableros de madera al moverse con las olas.
 
-La mayoría de la gente del puerto lo considera un barco encantado. Atestiguan que hay noches, especialmente como la víspera de San Juan o de Todos los Santos en que se ven luces de colores verdosos y se escuchan extraños golpes y cánticos ininteligibles dignos de demonios del Averno.
+La mayoría de la gente del puerto lo considera un barco encantado. Atestiguan que hay noches, especialmente como la víspera de San Juan o de Todos los Santos, en que se ven luces de colores verdosos y se escuchan extraños golpes y cánticos ininteligibles dignos de demonios del Averno.
 
 \sp
 
@@ -1778,13 +1778,13 @@ Las historias puede enviarlas por correo y pasarte de vez en cuando a cobrar o l
 
 **Comienzo:** Kingston
 
-> La joven dramaturga Johanna Ribeiro nunca ha podido enseñar su arte al mundo, pero su última obra puede ponerla en el candelero de la escena teatral caribeña. Tiene una obra que según cuenta a todos, escribió en sueños y que puede ser el éxito de su vida, pero está teniendo problemas para estrenarla. Es ahí donde nuestros héroes entran en acción.
+> La joven dramaturga Johanna Ribeiro nunca ha podido enseñar su arte al mundo, pero su última obra puede ponerla en el candelero de la escena teatral caribeña. Tiene una obra que, según cuenta a todos, escribió en sueños y que puede ser el éxito de su vida, pero está teniendo problemas para estrenarla. Es ahí donde nuestros héroes entran en acción.
 
 \sc
 
 #### El color que vino de ultramar
 
-Ribeiro busca algo muy especial para su obra que según ella es clave para su éxito, un gran rollo de tela amarilla con la que hacer los trajes y los decorados para su pieza teatral. Así que les ofrecerá una parte de los beneficios si le consiguen su deseada tela. 
+Ribeiro busca algo muy especial para su obra, que según ella es clave para su éxito, un gran rollo de tela amarilla con la que hacer los trajes y los decorados para su pieza teatral. Así que les ofrecerá una parte de los beneficios si le consiguen su deseada tela. 
 
 Según el libreto, el protagonista de la obra (un aguerrido capitán de barco) irá descendiendo a la locura mientras busca un tesoro hundido. Según va cayendo, irá viendo más cosas y personajes de amarillo, de ahí la importancia de la tele amarilla para hacer decorados y trajes.
 
@@ -1852,7 +1852,7 @@ _Plano del teatro_
 
 \sp
 
-A nivel de juego, ensayar la obra se considera como estudiar el guion de la obra. Así pues, le permitirá subir su habilidad de Mitos y aprender hechizos, pero deberá pasar la TPC del libro como con cualquier otro texto de lis Mitos.
+A nivel de juego, ensayar la obra se considera como estudiar el guion de la obra. Así pues, le permitirá subir su habilidad de Mitos y aprender hechizos, pero deberá pasar la TPC del libro como con cualquier otro texto de los Mitos.
 
 > **Esgrima escénica:** Si alguien va a participar en los ensayos y aguanta toda la semana, podrá practicar «Esgrima escénica». Esta habilidad aumentará un nivel su dado de pelea con armas de filo cuando quiera hacer virguerías con ellas. Es decir, un esgrimista escénico con Pelear d8, tendrá un d10 si quiere cortarle con su espada los botones de la casaca de un enemigo o apagar las velas de un candelabro con su estoque.
 
@@ -2428,7 +2428,7 @@ Se puede matar su cuerpo, pero volverá a regenerarse con el tiempo y a poseer l
 
 Si alguien se queda solo en el cuarto 2 es perfecto para usar sus poderes de Marioneta y controlarlo y hacerle atacar al resto. También puede invocar aliados, pero solo si ve muy comprometida su supervivencia. La bendición de Yig se la lanza según entra alguien en la carbonera.
 
-Si consiguen exorcizar a Walter la casa volverá a la normalidad. Anya les esperará en su hotel para hacerles el pago por sus servicios. Está encantada de poder volver a Boston en breve.
+Si consiguen exorcizar a Walter, la casa volverá a la normalidad. Anya les esperará en su hotel para hacerles el pago por sus servicios. Está encantada de poder volver a Boston en breve.
 
 Si acaban con el cuerpo, pero lo dejan sin exorcizar, Walter volverá a regenerarse en un par de semanas. Seguramente matará a Anya, que se ha trasladado a la casa ahora que no hay fantasmas. Puede que se entere de su escabrosa muerte por algún ejemplar de la VLH.
 
@@ -2541,7 +2541,7 @@ Esta historia se convertirá en una leyenda del batú y tu mesa conseguirá un +
 
 Les invitarán a beber y contar su historia en las hogueras de las comunidades taínas. Los niños les pedirán que jueguen con ellos y que pongan su marca en sus pelotas de batú.
 
-> _**Recompensa extra de cordura (+1):** Como en toda película de «underdogs» si, además, de ganar, son buenos ganadores y consiguen que también el equipo contrario sean mejores personas, por ejemplo usando daño no letal, recompénsales con un punto de cordura que les otorga tener una autoestima sana._
+> _**Recompensa extra de cordura (+1):** Como en toda película de «underdogs», si, además de ganar, son buenos ganadores y consiguen que también el equipo contrario sean mejores personas, por ejemplo, usando daño no letal, recompénsales con un punto de cordura que les otorga tener una autoestima sana._
 
 ### La parte del rey
 
@@ -2617,7 +2617,7 @@ Si pillan algún espía se identificará como uno de los secuaces de Usía y si 
 
 #### Todo apunta a la RCPC
 
-Viriato Además, de un perdedor es un cobarde a que la mínima presión soltará todo lo que sabe. Es un cultista del más bajo nivel y trabaja para la Orden más por el dinero y el poder que ofrecen que por fanatismo. Sabe que cada 6 o 7 meses llega en barco un cargamento de plata que se guarda en una de las celdas de los calabozos. El barco que hace el viaje es siempre el mismo, La Rodela, una patrullera de la RCPC. No tiene mucha capacidad de carga, pero se puede defender de enemigos o escapar rápidamente con su carga en plata.
+Viriato Además, de un perdedor es un cobarde a que la mínima presión soltará todo lo que sabe. Es un cultista del más bajo nivel y trabaja para la Orden más por el dinero y el poder que ofrecen que por fanatismo. Sabe que cada 6 o 7 meses llega en barco un cargamento de plata que se guarda en una de las celdas de los calabozos. El barco que hace el viaje es siempre el mismo, «La Rodela», una patrullera de la RCPC. No tiene mucha capacidad de carga, pero se puede defender de enemigos o escapar rápidamente con su carga en plata.
 
 Los gerifaltes de la RCPC van diezmando la plata hasta acabarla y entonces vuelve a llegar más plata. No parece que haya ninguna contabilidad de los lingotes, así que ante el temor de perder los pulgares, robo uno de los lingotes.
 
@@ -2634,7 +2634,7 @@ Si Viriato sale vivo de la reunión, Usía lo mandará al fondo de mar tan pront
 
 #### Misión de infiltración
 
-En este momento hay dos opciones infiltrarse en el Morro para buscar la plata o en La Rodela y tratar de buscar en los archivos del capitán la ubicación de la isla desierta, donde se guarda la plata.
+En este momento hay dos opciones infiltrarse en el Morro para buscar la plata o en «La Rodela» y tratar de buscar en los archivos del capitán la ubicación de la isla desierta, donde se guarda la plata.
 
 ##### Entrando en el Morro
 
@@ -2642,9 +2642,9 @@ Puede que no sea la primera vez que tienen que internarse en el Morro, así que 
 
 La celda es muy difícil de encontrar, ya que tiene hechizos de ocultación permanentes que impiden que sea encontrado. Por más que pasen por delante, la puerta será invisible para ellos. Deberán usar algún truco para darse cuenta de que existe. Pueden hacer un mapa y darse cuenta de que el pasillo falta una puerta o mirar la estructura arquitectónica del pasillo y ver que donde hay pared debería haber una puerta. En ese momento podrán hacer una tirada de Notar (enfrentada a una Tirada de Mitos d8) para ver a través de la ilusión. El hechizo no afecta a cultistas de la Orden que ven perfectamente la puerta. De hecho, Viriato no sabía del espejismo que ocultaba la puerta de la celda.
 
-##### Escabullirse dentro de La Rodela
+##### Escabullirse dentro de «La Rodela»
 
-Casualmente, La Rodela está atracado en el puerto a la espera de su siguiente misión. La tripulación está bajo mínimos (unos 15 marinos), ya que está de permiso emborrachándose en las tabernas del puerto. Hay bastantes guardias del puerto vigilando las cercanías del barco. Vigilan esa y más naves de la RCPC, con lo que seguramente con una buena tirada de Notar tu mesa podrá ver un agujero en la seguridad.
+Casualmente, «La Rodela» está atracado en el puerto a la espera de su siguiente misión. La tripulación está bajo mínimos (unos 15 marinos), ya que está de permiso emborrachándose en las tabernas del puerto. Hay bastantes guardias del puerto vigilando las cercanías del barco. Vigilan esa y más naves de la RCPC, con lo que seguramente con una buena tirada de Notar tu mesa podrá ver un agujero en la seguridad.
 
 \sp
 
@@ -2668,7 +2668,7 @@ Puede conseguirse algo de difusión publicando la historia en la VLH, pero solo 
 
 Aunque no pueda limpiar el nombre de la familia, si presentan sus pruebas al padre de Aurora y Flora, este volverá a sonreír. Aunque para los demás sea un fracasado, él sabe la verdad y se ha perdonado a sí mismo. Como les ha dicho muchas a veces a sus hijas: El honor es un regalo que se hace una persona a sí misma, solo tú te lo puedes quitar y solo tú te lo puedes devolver.
 
-La cantidad de plata escondida es mucha y si han encontrado la ubicación exacta de la isla desierta podrían llevarse un cargamento entero entera de plata antes de que la RCPC pueda llevársela. El principal obstáculo es encontrar la ubicación exacta, unas cuevas submarinas bajo la isla, y sus protectores, una tribu de profundos con entre 30 y 40 combatientes. Cuando ven llegar La Rodela sacan la plata a una cala de la isla para que lo carguen en el barco. A cambio dejan varios barriles llenos de cachivaches en pago por la plata como pago.
+La cantidad de plata escondida es mucha y si han encontrado la ubicación exacta de la isla desierta podrían llevarse un cargamento entero entera de plata antes de que la RCPC pueda llevársela. El principal obstáculo es encontrar la ubicación exacta, unas cuevas submarinas bajo la isla, y sus protectores, una tribu de profundos con entre 30 y 40 combatientes. Cuando ven llegar «La Rodela» sacan la plata a una cala de la isla para que lo carguen en el barco. A cambio dejan varios barriles llenos de cachivaches en pago por la plata como pago.
 
 Otra opción que puede darle muchos problemas a la RCPC es hacer correr el rumor entre la piratería del tesoro en plata y su localización. En pocos días las aguas entre Bahamas y Florida estarían infectadas de piratas y la RCPC tendría muy complicado recuperar la plata antes de que la encuentre alguna tripulación pirata.
 
@@ -3029,7 +3029,7 @@ Las huellas impresionan mucho (TPC: d6), sobre todo si nunca te has enfrentado a
 
 Hay árboles caídos y daños profundos en los troncos de los árboles cercanos más grandes, como si hubiera tenido un ataque de locura y hubiera empezado a destruir todo lo que estuviera a su alcance. No puede ser un ataque porque no hay huellas de los agresores. Tu mesa podrá, si quiere, hacer sus propias tiradas de rastreo. Con dos avances descubrirán cerca otro juego de huellas grandes, pero no tan grandes como las de Fabio y con garras más pequeñas.
 
-Una tirada ciencias debería decirles que parecen dos especies distintas. Si se lo enseñan a Fabio su soberbia le llevará a pasar de las huellas. Si él no las ha encontrado, no deben ser interesantes. Les dirá que puede que sean de alguna cría o de la hembra, pero a él solo le interesa el macho alfa.
+Una tirada ciencias debería decirles que parecen dos especies distintas. Si se lo enseñan a Fabio, su soberbia le llevará a pasar de las huellas. Si él no las ha encontrado, no deben ser interesantes. Les dirá que puede que sean de alguna cría o de la hembra, pero a él solo le interesa el macho alfa.
 
 #### Poniendo trampas
 
@@ -3381,7 +3381,7 @@ Es por ello que hay un cofre de madera con un gran tesoro en oro y joyas (botín
 
 De normal hay 4 adeptos cultistas vigilando y trabajando en el motor. 
 
-El sótano tenía 5 espacios y en la central está el motor. El sótano está inundado de agua hasta el pecho para refrescar el motor y con un fuelle gigante mueven el agua de forma que la caliente sale de la celda del motor y se enfría en las otras celdas para volver a la celda del motor a enfriarlo de nuevo.
+El sótano tenía 5 espacios y en la central está el motor. El sótano está inundado de agua hasta el pecho para refrescar el motor y con un fuelle gigante mueven el agua, de forma que la caliente sale de la celda del motor y se enfría en las otras celdas para volver a la celda del motor a enfriarlo de nuevo.
 
 Los respiraderos del sótano dejan que se escape un extraño vapor rosado y pastoso que se genera en el motor al contactar con el agua y que crea la nube que oculta el castillo.
 
@@ -3401,7 +3401,7 @@ Pueden, si quieren, dejar caer la torre en una ubicación específica como la ca
 
 \sp
 
-Si prefieren escapar del torreón directamente, el edificio volador caerá sobre una zona habitada causando las 1d12 muertes.
+Si prefieren escapar del torreón directamente, el edificio volador caerá sobre una zona habitada, causando las 1d12 muertes.
 
 #### Caída libre
 
@@ -3411,7 +3411,7 @@ Cuando se lancen, tendrán que pasar todos los sujetos a la lona una tirada de E
 
 #### Final y consecuencias
 
-En este momento podrán huir del lugar o quedarse a ayudar y a que lleguen los guardias de la ciudad. Si huyen con todo el jaleo nadie se fijará en ellos. Si se quedan ayudando o esperan a la guardia, estos prodrián detenerlos por las muertes provocadas y seguramente brujería.
+En este momento podrán huir del lugar o quedarse a ayudar y a que lleguen los guardias de la ciudad. Si huyen, con todo el jaleo nadie se fijará en ellos. Si se quedan ayudando o esperan a la guardia, estos prodrián detenerlos por las muertes provocadas y seguramente brujería.
 
 La destrucción del torreón tendrá ciertas consecuencias:
 
@@ -3452,7 +3452,7 @@ Mitos les dirá que la enfermedad no es algo de la Tierra, con avances puedes da
 
 Si se ponen a Investigar por el pueblo encontrarán más objetos como barcas o redes con restos del color fucsia. Si recorren la playa, verán restos de peces muertos y trozos de algas infectadas del color.
 
-Al comprar todos estos objetos infectados con el preciado coral, todo indica que está «piedra preciosa» que tan bien se vende está infectado y mutado por esa extraña plaga color morado.
+Al comprar todos estos objetos infectados con el preciado coral, todo indica que esta «piedra preciosa» que tan bien se vende está infectado y mutado por esa extraña plaga color morado.
 
 Todo indica que la fuente de la plaga está bajo el mar, así que tendrán de conseguir, una barca y equipo de buceo para poder investigar. Si disponen de sus propios métodos mucho mejor, menos levantarán sospechas entre la gente de Camas.
 
@@ -3519,7 +3519,7 @@ Quizás el grupo puede ayudar buscando al behike en vez de los guerreros locales
 
 La realidad es que el cacique Caicos hace meses fue asesinado y suplantado por un serpigente. Este quería que un compañero suyo ocupará el cuerpo del behike Jobo, pero este, alertado por una visiones durante una cohoba, huyo antes de que pudieran hacerlo.
 
-Caicos verá en tu mesa una forma de que su compañero entre en el poblado con ellos y como no lo conocen no sospechen nada raro y no le hagan preguntas incómodas que podrían hacerle el grupo de guerreros. Una vez dentro Caicos ya se encargará de que nadie sospeche nada de su compañero.
+Caicos verá en tu mesa una forma de que su compañero entre en el poblado con ellos y como no lo conocen no sospechen nada raro y no le hagan preguntas incómodas que podrían hacerle el grupo de guerreros. Una vez dentro, Caicos ya se encargará de que nadie sospeche nada de su compañero.
 
 \sp
 
@@ -3533,9 +3533,9 @@ Tanto si están en la expedición de caza como defendiendo el poblado, si lo des
 
 #### El regreso del behike
 
-En un par de días encontrarán al behike Jobo desorientado y deshidratado en mitad de la jungla tanto si daban una vuelta de reconocimiento al poblado como si estaban en ruta para rescatarlo. No sabe muy bien donde está, pero no tiene señales de lucha, solo algunos rasguños de moverse por la jungla.
+En un par de días encontrarán al behike Jobo desorientado y deshidratado en mitad de la jungla, tanto si daban una vuelta de reconocimiento al poblado como si estaban en ruta para rescatarlo. No sabe muy bien donde está, pero no tiene señales de lucha, solo algunos rasguños de moverse por la jungla.
 
-Por mucho que trate de recordarlo, no sabrá donde ha estado y estará bastante despistado. Tampoco sabe nada de las máscaras, así que se pondrá a preparar unas nuevas en cuanto regresen a casa no queriendo recibir a nadie en su choza. Con ese truco podrá estar tranquilo mientras Caicos le explica lo que debe saber del poblado.
+Por mucho que trate de recordarlo, no sabrá donde ha estado y estará bastante despistado. Tampoco sabe nada de las máscaras, así que se pondrá a preparar unas nuevas en cuanto regresen a casa, no queriendo recibir a nadie en su choza. Con ese truco podrá estar tranquilo mientras Caicos le explica lo que debe saber del poblado.
 
 Les pedirá a tu mesa que si van a volver a pasar les consigan unas conchas de caracol para tallar sus nuevas máscaras.
 
@@ -3551,7 +3551,7 @@ Si hablan con él, negará todo, pero si son insistentes terminará cediendo y l
 
 #### Regreso al poblado
 
-Alguien debería investigar quien es el otro Jobo y esos deberían ser tu mesa. Jobo ha cambiado de vida y sus responsabilidades son con su nueva comunidad, pero estará muy agradecido si investigan qué está pasando.
+Alguien debería investigar quién es el otro Jobo y esos deberían ser tu mesa. Jobo ha cambiado de vida y sus responsabilidades son con su nueva comunidad, pero estará muy agradecido si investigan qué está pasando.
 
 No han de volver al momento al poblado del cacique Caicos, pero si vuelven a la isla podrían hacer una expedición para investigar qué pasa.
 
@@ -3563,7 +3563,7 @@ Si se acuerdan pueden presentarse con las conchas de caracol para las máscaras.
 
 Cuando vuelvan al poblado taíno, la gente se acordará de ellos y les tratarán en consecuencia a su anterior visita.
 
-Tu mesa sabe que alguien o algo está suplantando al behike Jobo, pero pudiera que haya más como el cacique Caicos que empezó a actuar raro. No pueden saber quien es real y quien un «doppelgänger», así que tendrán que andarse con cuidado.
+Tu mesa sabe que alguien o algo está suplantando al behike Jobo, pero pudiera que haya más como el cacique Caicos que empezó a actuar raro. No pueden saber quién es real y quién un «doppelgänger», así que tendrán que andarse con cuidado.
 
 Vías de investigación posibles:
 
@@ -3578,16 +3578,16 @@ Puede intentar desenmascarar a los serpigente con alguna de estas ideas:
 
 * Los serpigente son carnívoros.
 * Jobo se supone que sabe magia, pero el cacique Caicos no debiera y pueden pillarle haciendo magia.
-* Pueden pedir una cohoba con Caicos y Jobo y que los espíritus les den la respuesta. En realidad ninguno de los dos sabe hacer los polvos alucinógenos para la cohoba y tendrán que hacer un ritual falso.
+* Pueden pedir una cohoba con Caicos y Jobo y que los espíritus les den la respuesta. En realidad, ninguno de los dos sabe hacer los polvos alucinógenos para la cohoba y tendrán que hacer un ritual falso.
 * Seguramente seguirán adorando a sus dioses serpientes, quizás encuentren sus artefactos religiosos.
 
 En cuanto se vean acorralados y noten que si tapadera flojea, tratarán de coger a sus fieles guerreros y acabar con las vidas de la tus PJ. Seguramente traten de llevarlos lejos del poblado o asesinarlos mientras duermen.
 
 Usa un científico serpigente para Jobo y uno soldado para el cacique Caicos. Mientras no puedan demostrar que el cacique y el behike son serpiente suplantándolos, tendrán el apoyo de por lo menos dos combatientes taínos por cada PJ de tu mesa.
 
-Los serpientes huirán si la cosa se pone complicada para ellos. Ya buscarán otro sitio donde infiltrarse y tratar de sobrevivir.
+Los serpigentes huirán si la cosa se pone complicada para ellos. Ya buscarán otro sitio donde infiltrarse y tratar de sobrevivir.
 
-Con los cuerpos de los dos serpientes o el testimonio de algún guerrero superviviente del combate podrán demostrar toda su historia y el poblado no creerá que han matado a sus dirigentes. Si los serpientes huyen, ellos también tendrán que hacerlo, porque todo el poblado querrá sus cabezas y mejor que no vuelvan por la zona en una larga temporada.
+Con los cuerpos de los dos serpientes o el testimonio de algún guerrero superviviente del combate podrán demostrar toda su historia y el poblado no creerá que han matado a sus dirigentes. Si los serpigentes huyen, ellos también tendrán que hacerlo, porque todo el poblado querrá sus cabezas y mejor que no vuelvan por la zona en una larga temporada.
 
 Si vuelven a encontrarse con el auténtico Jobo, podrán ponerle al día y seguramente se lo agradezca con algún amuleto o enseñándoles algún ritual.
 
