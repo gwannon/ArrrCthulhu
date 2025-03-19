@@ -39,10 +39,15 @@ Gracias por su documentación a:
 
 ## Versiones
 
-### Ver. 1.4.1 En desarrollo
-* Metemos secuaces taínos (combatiente, cacique y behike)
+### Ver. 1.5 19/03/2025
+* Metemos secuaz artista
+* Terminada aventura "Behike"
 
-### Ver. 1.4 18/03/2025
+### Ver. 1.4.1 18/03/2025
+* Metemos secuaces taínos (combatiente, cacique y behike) y artistas
+* Correcciones de ortografía
+
+### Ver. 1.4 14/03/2025
 * Nuevo sistema que usa ficheros .md
 * Nuevo diseño y sistema de paginación
 * Empezamos a crear 4 nuevas historias salvajes

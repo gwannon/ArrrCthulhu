@@ -1,38 +1,36 @@
-01ElCaribeDeLosMitos.md|
+|01ElCaribeDeLosMitos.md|
 
 ***
 
-02ReglasDeAmbientacion.md|
+|02ReglasDeAmbientacion.md|
 
 ***
 
-03GuiaDeViajes.md|
+|03GuiaDeViajes.md|
 
 ***
 
 |04HistoriasSalvajes.md|
 
-|04NuevosRelatos.md|
+***
+
+|05MonstruosDelosMitos.md|
 
 ***
 
-05MonstruosDelosMitos.md|
+|06QuienEsQuien.md|
 
 ***
 
-06QuienEsQuien.md|
+|07DandoColor.md|
 
 ***
 
-07DandoColor.md|
+|08Epilogo.md|
 
 ***
 
-08Epilogo.md|
-
-***
-
-09Recursos.md|
+|09Recursos.md|
 
 ***
 
@@ -52,6 +50,6 @@ Este libro contiene:
 
 1. Una ambientación que mezcla los **Mitos de Cthulhu con las aventuras clásicas de piratas**. Con descripciones de personas, organizaciones y lugares a partir de los cuales preparar tus propios relatos salvajes.
 2. **Reglas para crear tus piratas** y enfrentarlos a la **locura**, a la **magia** y a los **monstruos** que pueblan las historias de **H. P. Lovecraft**.
-3. Toda una serie de aventuras en formato Plot Points para **evitar que R’lyeh se alce de entre las aguas y el gran Cthulhu se despierte**. Contiene **1 campaña principal, 1 campaña secundaria y 26 aventuras de 1 o 2 sesiones** para intercalar dentro de las campañas.
+3. Toda una serie de aventuras en formato Plot Points para **evitar que R’lyeh se alce de entre las aguas y el gran Cthulhu se despierte**. Contiene **1 campaña principal, 1 campaña secundaria y 25 aventuras de 1 a 4 sesiones** para intercalar dentro de las campañas.
 
 ![Logo Pinnacle](./images/pinnaclelogo.webp)
