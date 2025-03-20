@@ -886,11 +886,11 @@ Michelle LeCourt, la dama vudú de Kingston, posee el 51% del local, pero no es 
 
 #### The Mystery Shack
 
-Muirhead Trading & Pawn Shop (aunque la gente lo llama The Mystery Shack o La Cabaña del Misterio) es una extraña tienda de empeños que se encuentra en el barrio Portview. Puedes encontrar entre sus expositores, baldas, repisas, mesas y mostradores de cosas realmente extrañas, algunas falsa, otras auténticas, pero casi siempre con una buena historia.
+Muirhead Trading & Pawn Shop (aunque la gente lo llama The Mystery Shack o La Cabaña del Misterio) es una extraña tienda de empeños que se encuentra en el barrio Portview. Puedes encontrar entre sus expositores, baldas, repisas, mesas y mostradores objetos realmente extraños, algunos falsa, otros auténticos, pero casi siempre con una buena historia.
 
 La tienda está «regentada» por el Stan Muirhead, un viejo comerciante de origen irlandés que fue de los primeros en establecerse en Kingston. Stan es un borracho que está beodo desde que se levanta hasta que se duerme. Es por ello que en realidad el negocio lo lleva su ayudante Ifá de etnia yoruba (en la actual Nigeria).
 
-Si tiene un objeto extraño con montones de engranajes, palancas y botones, es el sitio perfecto para que te digan qué hace y cómo hacerlo funcionar. Si es necesario, pueden arreglártelo. Ifá tomará nota de todo y te dirá que vengas al día siguiente para recogerlo, ya que ahora mismo el viejo Stan está indispuesto.
+Si tienes un objeto extraño con montones de engranajes, palancas y botones, es el sitio perfecto para que te digan qué hace y cómo hacerlo funcionar. Si es necesario, pueden arreglártelo. Ifá tomará nota de todo y te dirá que vengas al día siguiente para recogerlo, ya que ahora mismo el viejo Stan está indispuesto.
 
 En realidad, Ifá es la que repara todos estos cachivaches de ciencia extraña. Los mete en la trastienda y pone a funcionar sus dones tecnológicos otorgados por Oggun, el orisha de la herrería.
 
