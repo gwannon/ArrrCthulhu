@@ -2119,7 +2119,7 @@ El cristal tiende a distorsionar de alguna manera lo que se ve y hacerlo más pe
 |11|Maldición de Jasy Jateré|
 |12|Venganza de Moctezuma|
 
-**Apagafaroles:** Toda forma de luz artificial se apaga si entra en el rango de visión del maldito y no se volverá a encender hasta que deje de verla. Da lo mismo una antorcha cercana que un faro a kilómetros de distancia, si el portador de la maldición ve el brillo de artilugio luminoso este se apagará. Para más inri, si cierra los ojos y, por tanto, se queda a oscuras, las luces podrán volver a encenderse.
+**Apagafaroles:** Toda forma de luz artificial se apaga, si entra en el rango de visión del maldito y no se volverá a encender hasta que deje de verla. Da lo mismo una antorcha cercana que un faro a kilómetros de distancia, si el portador de la maldición ve el brillo de un artilugio luminoso, este se apagará. Para más inri, si cierra los ojos y, por tanto, se queda a oscuras, las luces podrán volver a encenderse.
 
 Parece muy simple, pero puede dar mucho juego, por ejemplo, si quieren hacer misiones de robo o infiltración. Además, puedes jugarlo como la maldición de las campanas.
 
