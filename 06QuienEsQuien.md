@@ -537,7 +537,8 @@ El Doctor George Jansen es un joven catedrático de la recientemente creada Univ
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Ciencias d8, Humanidades d8, Idioma inglés d8, Idioma latín d8, Investigar d8, Notar d6, Pelear d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-Daga* **Desventajas:** Megalomanía (mayor), Escéptico (menor)
+Daga
+* **Desventajas:** Megalomanía (mayor), Escéptico (menor)
 * **Ventajas:** Muy atractivo, Rico, Asquerosamente Rico, Trasfondo Arcano (Hechicería primigenia)
 
 **Sugerencia de interpretación:** Eres tremendamente snob, cualquiera que no tenga una educación superior es inferior a ti y es por ello que lo tratas como tal. No admites consejo ni favores de este tipo de gente, ya que los estarías igualando a ti. Es por ello que lo solucionas todo pagando. Con dinero son tus siervos y no tienes que ponerte a su nivel.
