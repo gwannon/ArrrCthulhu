@@ -456,6 +456,8 @@ Su pequeño tamaño y calado les permite meterse donde otros barcos más grandes
 
 > **Armas:** Sin armas.
 
+&nbsp;
+
 \conc
 
 ### Naves rápidas
@@ -494,6 +496,8 @@ Es el más grande de los navíos con una gran capacidad de carga, pero es tremen
 
 > **Armas:** Sin armas. Se puede instalar cañones quitando espacio de carga y a razón de 4 toneles por cada cañón hasta un máximo de 20 cañones (10 por lado del barco).
 
+&nbsp;
+
 \conc
 
 ### Naves de combate
@@ -531,6 +535,8 @@ Auténticas fortalezas flotantes. Ellas solo pueden tener controlada una ruta co
 > **Notas:** Blindaje pesado.
 
 > **Armas:** Cañones (entre 30 y 60, fijos en las bordas).
+
+&nbsp;
 
 \conc
 
