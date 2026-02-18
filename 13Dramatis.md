@@ -8,9 +8,9 @@
 
 Amanda Limestone desciende de una larga tradición de adoradoras de Waylunor. Su madre adoraba a Waylunor y su abuela antes que ella. Y todas ellas portaban la esencia de su divinidad, lo que las convertía en poderosas canalizadoras del poder mágico. La magia no solo es fuerte en su familia, también las riquezas, lo que permitieron pagar los mejores maestros y profesores.
 
-Cuando su madre murió, toda la esencia se concentró en ella, ofreciéndole un gran poder mágico y la fortuna familiar. Con ello obtuvo todo lo necesario para liderar la Espiga Purpura y embarcarla en la misión de liberar a Waylunor de la música infernal que hace que baile alrededor de Azathoth.
+Cuando su madre murió, toda la esencia se concentró en ella, ofreciéndole un gran poder mágico y la fortuna familiar. Con ello obtuvo todo lo necesario para liderar la Espiga Púrpura y embarcarla en la misión de liberar a Waylunor de la música infernal que hace que baile alrededor de Azathoth.
 
-Ziba mantiene en secreto sus lazos con la Espiga Purpura y mantiene una imagen pública de poderosa maga «bondadosa» y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
+Ziba mantiene en secreto sus lazos con la Espiga Púrpura y mantiene una imagen pública de poderosa maga «bondadosa» y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
 
 Ziba quizás sea la maga más poderosa de todo Oriente Medio y si bien su poder no el comparable al Rey Suleimán puede vencer en combate mágico a humanos y yinns por igual.
 
@@ -52,7 +52,7 @@ El otro punto débil es que tiene cero capacidades sociales. No sabe moverse ent
 * **Atributos:** Agilidad d12, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
 * **Habilidades:** Atletismo d12, Cabalgar d10, Conocimientos Generales d6, Disparar d10, Idioma materno d6, Notar d4, Pelear d12, Persuadir d4, Sigilo d12, Tácticas d10
 * **Paso:** 6; **Parada:** 9 (1); **Dureza:** 13/12 (4/3)
-* **Desventajas:** Secreto (asesina principal de la Espiga Purpura de Waylunor)
+* **Desventajas:** Secreto (asesina principal de la Espiga Púrpura de Waylunor)
 * **Ventajas:** Afinidad mágica, Ambidextro, Ataque repentino, Con un par, Bloqueo, Fornida, Frenesí, Resistencia mágica
 * **Equipo:** Cimitarra mágica +1/+1(FUE+d8+1), Katar (FUE+d6), Jawshan (+4 peto, +3 piernas y brazos), Chakram, Arco recurvo con 10 flechas
 

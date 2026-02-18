@@ -500,7 +500,7 @@ section h1 + .saltopagina:after {
 
   #aventuras section:nth-of-type(4) .saltopagina:before,
   #aventuras section:nth-of-type(4) .saltopagina.even:before { 
-    content: "S \A u \A c \A N \A a \A a \A t \A h \A \A y \A \A s \A u \A s \A \A a \A d \A o \A r \A a \A d \A o \A r \A e \A s";
+    content: "W \A a \A y \A l \A u \A n \A o \A r \A \A y \A \A s \A u \A s \A \A a \A d \A o \A r \A a \A d \A o \A r \A e \A s";
   }
 
   section:nth-of-type(5) .saltopagina:before,
@@ -514,7 +514,7 @@ section h1 + .saltopagina:after {
 
   #aventuras section:nth-of-type(5) .saltopagina:before,
   #aventuras section:nth-of-type(5) .saltopagina.even:before { 
-    content: "L \A a \A \A M \A a \A n \A o \A \A D \A o \A r \A a \A d \A a";
+    content: "L \A a \A \A E \A s \A p \A i \A g \A a \A \A P \A ú \A r \A p \A u \A r \Aa";
   }
 
   section:nth-of-type(6) .saltopagina:before,

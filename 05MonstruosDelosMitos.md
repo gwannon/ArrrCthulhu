@@ -60,7 +60,7 @@ Son seres voladores de apariencia insectoide con grandes alas membranosas y pies
 
 \conc
 
-El color es un extraño que no es de la tierra, sino que viene de las estrellas. Las personas que han podido estudiar un color no se ponen de acuerdo sobre que son, pero lo describen como un color que se va extendiendo y que impregna todo, rocas, plantas y hasta animales y personas.
+El color es un extraño ser que no es de la tierra, sino que viene de las estrellas. Las personas que han podido estudiar un color no se ponen de acuerdo sobre que son, pero lo describen como un color que se va extendiendo y que impregna todo, rocas, plantas y hasta animales y personas.
 
 Es una criatura muy básica que vive para sobrevivir y procrear. Cuando cae del cielo en algún tipo de meteorito, se «planta» cerca de donde cae, en algún lugar oscuro y cubierto, y empieza a extraer la esencia vital de los seres vivos cercanos que se vuelven grises y quebradizos. Según consigue esencia vital va creciendo en tamaño.
 

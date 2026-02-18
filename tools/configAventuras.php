@@ -3,9 +3,9 @@
 $tags = [
   'HTML' => '',
   'HASH' => date("YmdH"),
-  'TITLE' => "La Espiga Purpura",
+  'TITLE' => "La Espiga Púrpura",
   'SHORTDESCRIPTION' => 'Aventura para ¡Arrr! Cthulhu',
-  'DESCRIPTION' => "«La Espiga Purpura» es una campaña para ¡Arrr! Cthulhu donde te enfrentaras a Waylunor y su culto de adoradores.",
+  'DESCRIPTION' => "«La Espiga Púrpura» es una campaña para ¡Arrr! Cthulhu donde te enfrentaras a Waylunor y su culto de adoradores.",
   'VERSION' => "0.2",
   'LANZAMIENTO' => 'Mayo 2026',
   "AUTHOR" => "Jorge Monclús",

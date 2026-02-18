@@ -12,17 +12,17 @@ Su esencia está fragmentada en tres partes. Una parte está en un cometa llamad
 
 > Se dice que los portadores de sus poderes pueden realizar grandes prodigios mágicos y/o están locos. Ver la ventaja «Esencia de Waylunor» en el apartado Reglas.
 
-Es servido por un pequeño culto conocido como la Espiga Purpura de Waylunor, que reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos entrenados. Su misión es adorar y liberar a Waylunor de la maldición que le tiene atado a su señor Azathoth. A cambio, se supone, recibirán de su dios grandes poderes y la vida eterna.
+Es servido por un pequeño culto conocido como la Espiga Púrpura de Waylunor, que reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos entrenados. Su misión es adorar y liberar a Waylunor de la maldición que le tiene atado a su señor Azathoth. A cambio, se supone, recibirán de su dios grandes poderes y la vida eterna.
 
 \sp
 
 \sinc
 
-## La Espiga Purpura de Waylunor
+## La Espiga Púrpura de Waylunor
 
 \conc
 
-La Espiga Purpura de Waylunor reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos fanáticos bien entrenados. Su misión es adorar y liberar a Waylunor de la maldición que le tiene atado a su señor Azathoth. A cambio recibirán de su dios grandes poderosos y la vida eterna.
+La Espiga Púrpura de Waylunor reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos fanáticos bien entrenados. Su misión es adorar y liberar a Waylunor de la maldición que le tiene atado a su señor Azathoth. A cambio recibirán de su dios grandes poderosos y la vida eterna.
 
 La secta es pequeña, pero muy poderosa, sus agentes mágicos tiene grandes poderes, sus artistas tienen mucha fama y dinero y sus asesinos son mortales.
 
@@ -32,9 +32,9 @@ Los artistas suelen escoger a la gente más fanática de su arte. Si manejan las
 
 \sc
 
-![Simbolo de la Espiga Purpura](./images/mano-dorada.png)
+![Simbolo de la Espiga Púrpura](./images/espiga-purpura.png)
 
-_Simbolo de la Espiga Purpura_
+_Simbolo de la Espiga Púrpura_
 
 Por último, los asesinos de la secta suelen buscar pillastres que viven en la calle sin familia a los que infundir sus macabras creencias y sus terribles destrezas.
 
@@ -42,20 +42,20 @@ Por último, los asesinos de la secta suelen buscar pillastres que viven en la c
 
 En la actualidad la secta está muy activa, los astrónomos han predicho que el cometa Aiin se acerca a la Tierra y no volverá hasta dentro de muchos años.
 
-Esto hace que la Espiga Purpura este moviéndose frenéticamente para encontrar la estatua perdida de Waylunor y buscar un modo de poder acercarse al cometa. La esencia de Waylunor ya corre por las venas de Amanda Limestone, así que esa parte ya está completada.
+Esto hace que la Espiga Púrpura este moviéndose frenéticamente para encontrar la estatua perdida de Waylunor y buscar un modo de poder acercarse al cometa. La esencia de Waylunor ya corre por las venas de Amanda Limestone, así que esa parte ya está completada.
 
 \sp
 
 ### Personas destacadas que forman parte del culto
 
-Como ya hemos dicho, la Espiga Purpura de Waylunor es un culto muy pequeño, pero muy poderoso, y es, en parte, gracias a que solo los mejores entran en ella, después de haber demostrado con creces su fidelidad y fanatismo hacia el culto y a Waylunor.
+Como ya hemos dicho, la Espiga Púrpura de Waylunor es un culto muy pequeño, pero muy poderoso, y es, en parte, gracias a que solo los mejores entran en ella, después de haber demostrado con creces su fidelidad y fanatismo hacia el culto y a Waylunor.
 
-* Amanda Limestone, poderosa maga y suma sacerdotisa de la Espiga Purpura de Waylunor. Como única portadora de la esencia de Waylunor es la más adecuada para liderar el culto. Además, esa esencia hace que sus poderes mágicos sean muy superiores a otros magos de la secta.
-* Alura, amazona, guardaespaldas de Amanda Limestone y asesina principal de la Espiga Purpura de Waylunor. Es la mano ejecutora de Amanda, fanática de la Espiga Purpura y adicta a Amanda.
+* Amanda Limestone, poderosa maga y suma sacerdotisa de la Espiga Púrpura de Waylunor. Como única portadora de la esencia de Waylunor es la más adecuada para liderar el culto. Además, esa esencia hace que sus poderes mágicos sean muy superiores a otros magos de la secta.
+* Alura, amazona, guardaespaldas de Amanda Limestone y asesina principal de la Espiga Púrpura de Waylunor. Es la mano ejecutora de Amanda, fanática de la Espiga Púrpura y adicta a Amanda.
 
 ### Lugares de culto y refugios
 
-La Espiga Purpura nunca han tenido nunca la necesidad de tener refugios, ya que gran parte de sus cultistas eran ricos y poderosos, con grandes mansiones donde hacer sus reuniones y con dinero suficiente para callar bocas indiscretas.
+La Espiga Púrpura nunca han tenido nunca la necesidad de tener refugios, ya que gran parte de sus cultistas eran ricos y poderosos, con grandes mansiones donde hacer sus reuniones y con dinero suficiente para callar bocas indiscretas.
 
 En la actualidad no tiene ningún lugar de culto fijo en el Caribe, pero Amanda Limestone está planeando montar un pequeño refugio en la ciudad de Kingston, ya que sospecha de parte de la esencia de su dios se encuentra hundida en alguna de las mansiones de la parte sumergida de la próxima Port Royale.
 

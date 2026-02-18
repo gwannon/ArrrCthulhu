@@ -24,11 +24,11 @@
 
 Aventura para ¡Arrr! Cthulhu
 
-La Espiga Purpura
+La Espiga Púrpura
 
 Creado por [|AUTHOR|](|AUTHOR_URL|)
 
-«La Espiga Purpura» es una campaña corta para ¡Arrr! Cthulhu donde tus jugadores deberán desbaratar los planes de los cultistas de La Espiga Purpura para liberar a Waylunor en nuestro mundo.
+«La Espiga Púrpura» es una campaña corta para ¡Arrr! Cthulhu donde tus jugadores deberán desbaratar los planes de los cultistas de La Espiga Púrpura para liberar a Waylunor en nuestro mundo.
 
 Este suplemento contiene:
 

@@ -4,6 +4,8 @@
 
 \conc
 
+En este capítulo encontrarás 3 historias salvajes de 1 o 2 sesiones que podrá usar independientemente o meter dentro de la trama principal de «La Espiga Púrpura» o de otras campañas de ¡Arrr! Cthulhu.
+
 ### Nunca me habían dado todo
 
 **Comienzo:** Una taberna de mala reputación.
@@ -24,11 +26,11 @@ Por eso secuestran a gente del poblado, para probar si la plaga los mata o no.
 
 Si se ven en problemas tratarán de lanzar la plaga aunque maten a todos los humanos. Mejor no dejar testigos y librarse de sus enemigos de un plumazo.
 
+\sp
+
 #### En una taberna de mala muerte
 
 El cacique y un par de guerreros buscan buena gente, héroes y heroínas que les ayuden. Sin embargo, no han encontrado a nadie apropiado en los sitios en que han buscado.
-
-\sp
 
 Desesperados, han decidido rascar en el fondo del barril y han acabado en el puerto o en el barrio bajo de la ciudad.
 
