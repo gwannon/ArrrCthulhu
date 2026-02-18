@@ -173,7 +173,7 @@ Damos las gracias y el crédito apropiado a estos increíbles artistas que nos h
 * [la-habana.webp](https://www.loc.gov/resource/g4924h.ar181600/) por [Jacques Nicolas](https://www.loc.gov/resource/g4924h.ar181600/)
 * [mapa-el-morro.webp](https://commons.wikimedia.org/wiki/File:Upper_View_of_the_Castillo_del_Morro_Situated_at_the_Mouth_of_the_Bay_of_Havana_WDL10088.png) por Anónimo
 * [lusca.webp](https://www.deviantart.com/yunaxd/art/Kraken-814508024) por [YunaXD](https://www.deviantart.com/yunaxd)
-* [tortuga.webp](https://www.deviantart.com/glazyrin/art/Tortuga-149523283) por [glazyrin](https://www.deviantart.com/glazyrin)
+* [tortuga.jpg](https://www.deviantart.com/glazyrin/art/Tortuga-149523283) por [glazyrin](https://www.deviantart.com/glazyrin)
 
 \sp
 

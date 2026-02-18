@@ -941,7 +941,7 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 |Poder|d100|Hechizo|Ornamento|
 |---|---|---|---|
 |Adivinación|1|Augurios del soñador|El hechicero recita los diferentes ensalmos antes de dormir y recibe los augurios en sueños.|
-|Adivinación|2|Ritual vudú de adivinación|Tras el sacrificio de un animal pequeño como una gallina o un conejo, el hechicero puede leer sus entrañas.
+|Adivinación|2|Ritual vudú de adivinación|Tras el sacrificio de un animal pequeño como una gallina o un conejo, el hechicero puede leer sus entrañas.|
 |Alivio|3|Café especiado|El curandero ofrece una pócima a base de concentrado de café, ron y especies secretas.|
 |Alivio|4|Ensalmo de Babalú Ayé|El chamán yoruba recita el ensalmo secreto de Babalú Aye, orisha de la salud y las enfermedades, que ayuda a restaurar el vigor y quitar el cansancio.|
 |Amistad animal|5|Dominar a las bestias|El brujo empieza a hablar el idioma primitivo de las bestias.|

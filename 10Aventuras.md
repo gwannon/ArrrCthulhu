@@ -18,6 +18,26 @@
 
 ***
 
+# Epílogo
+
+\sinc
+
+## Atribuciones
+
+\conc
+
+Damos las gracias y el crédito apropiado a estos increíbles artistas que nos han permitido hacer uso de su arte en este juego al distribuirlo en con licencia Creative Commons:
+
+* [tortuga.jpg](https://www.deviantart.com/glazyrin/art/Tortuga-149523283) por [glazyrin](https://www.deviantart.com/glazyrin)
+* [embarcaciones.webp](https://www.deviantart.com/ahmetcankahraman/art/Chase-735144464) por [AhmetCanKahram](https://www.deviantart.com/ahmetcankahraman)
+* [piratas.webp](https://www.deviantart.com/ahmetcankahraman/art/Gamble-748954514) por [AhmetCanKahram](https://www.deviantart.com/ahmetcankahraman)
+* [hechiceria.webp](https://www.deviantart.com/reyed33/art/Unleash-the-Beast-560092369) por [ReyeD33](https://www.deviantart.com/reyed33)
+* [playa-doncella.jpg](https://www.deviantart.com/ahmetcankahraman/art/Farewell-738974463) por [AhmetCanKahraman](https://www.deviantart.com/ahmetcankahraman)
+* [epilogo.webp](https://www.deviantart.com/artofragnar/art/Caves-505169856) por [ArtofRagnar](https://www.deviantart.com/artofragnar)
+* [encuentros-mas.webp](https://www.deviantart.com/themefinland/art/Magical-rupture-commission-950188160) por [ThemeFinland](https://www.deviantart.com/themefinland)
+
+***
+
 &nbsp;
 
 ***

@@ -20,7 +20,7 @@ Los recursos económicos de Ziba son inmensos. Domina el arte de la trasmutació
 * **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d8, Conocimientos Generales d12, Humanidades d8, Idioma Materno d10, Investigar d8, Medicina d6, Notar d4, Pelear d8, Persuadir d10, Saber de Solimán d12+1, Sigilo d6, Tácticas d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Desventajas:** Secreto (mayor, líder de la Mano Morada), Vengativa
-* **Ventajas:** Afinidad mágica, Canalización, Trasfondo arcano (Sihr), Esencia de Waylunor, Nuevos poderes x3, Puntos de poder x 2, Subidón de poder
+* **Ventajas:** Afinidad mágica, Canalización, Trasfondo arcano (Hechicería primigenia), Esencia de Waylunor, Nuevos poderes x3, Puntos de poder x 2, Subidón de poder
 
 \sp
 
@@ -51,9 +51,9 @@ El otro punto débil es que tiene cero capacidades sociales. No sabe moverse ent
 
 * **Atributos:** Agilidad d12, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
 * **Habilidades:** Atletismo d12, Cabalgar d10, Conocimientos Generales d6, Disparar d10, Idioma materno d6, Notar d4, Pelear d12, Persuadir d4, Sigilo d12, Tácticas d10
-* **Paso:** 6; **Parada:** 9 (1); **Dureza:** 13/12 (4/3)
+* **Paso:** 6; **Parada:** 9 (1); **Dureza:** 8
 * **Desventajas:** Secreto (asesina principal de la Espiga Púrpura de Waylunor)
-* **Ventajas:** Afinidad mágica, Ambidextro, Ataque repentino, Con un par, Bloqueo, Fornida, Frenesí, Resistencia mágica
-* **Equipo:** Cimitarra mágica +1/+1(FUE+d8+1), Katar (FUE+d6), Jawshan (+4 peto, +3 piernas y brazos), Chakram, Arco recurvo con 10 flechas
+* **Ventajas:** Afinidad mágica, Ambidextro, Trasfondo arcano (Hechicería primigenia), Ataque repentino, Con un par, Bloqueo, Fornida, Frenesí, Resistencia mágica
+* **Equipo:** XXX
 
-**Sugerencia de interpretación:** No pillas ni las ironías, ni lo dobles sentidos, ni nada por el estilo. Eres bastante literal interpretando los comentarios de la gente de tu alrededor. Ziba lo sabe y actúa en consecuencia, pero el resto de las personas no y eso hace que terminen alejándote de ti porque no saben por dónde vas a salir.
+**Sugerencia de interpretación:** No pillas ni las ironías, ni lo dobles sentidos, ni nada por el estilo. Eres bastante literal interpretando los comentarios de la gente de tu alrededor. Aamanda lo sabe y actúa en consecuencia, pero el resto de las personas no y eso hace que terminen alejándote de ti porque no saben por dónde vas a salir.

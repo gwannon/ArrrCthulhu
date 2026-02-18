@@ -173,9 +173,20 @@ body>section:nth-of-type(4) h1 {
   background-size: cover;
 }
 
+body>section:nth-of-type(4) h1 {
+  background: #000000 url(../images/hechiceria.webp) center bottom no-repeat;
+  background-size: cover;
+}
+
 body>section:nth-of-type(5) h1 {
   background: #000000 url(../images/ambientacion.webp) center center no-repeat;
   background-size: cover;
+}
+
+body#aventuras>section:nth-of-type(5) h1 {
+  background: #000000 url(../images/encuentros-mas.webp) center center no-repeat;
+  background-size: auto 105%;
+    text-shadow: 0px 0px 3px #000;
 }
 
 body>section:nth-of-type(6) h1 {
@@ -183,13 +194,28 @@ body>section:nth-of-type(6) h1 {
   background-size: cover;
 }
 
+body#aventuras>section:nth-of-type(6) h1 {
+  background: #000000 url(../images/embarcaciones.webp) center center no-repeat;
+  background-size: auto 105%;
+}
+
 body>section:nth-of-type(7) h1 {
   background: #000000 url(../images/historias.webp) left center no-repeat;
   background-size: cover;
 }
 
+body#aventuras>section:nth-of-type(7) h1 {
+  background: #000000 url(../images/piratas.webp) center center no-repeat;
+  background-size: auto 105%;
+}
+
 body>section:nth-of-type(8) h1 {
   background: #000000 url(../images/monstruos.webp) center center no-repeat;
+  background-size: cover;
+}
+
+body#aventuras>section:nth-of-type(8) h1 {
+  background: #000000 url(../images/playa-doncella.jpg) right center no-repeat;
   background-size: cover;
 }
 
@@ -500,7 +526,9 @@ section h1 + .saltopagina:after {
 
   #aventuras section:nth-of-type(4) .saltopagina:before,
   #aventuras section:nth-of-type(4) .saltopagina.even:before { 
-    content: "W \A a \A y \A l \A u \A n \A o \A r \A \A y \A \A s \A u \A s \A \A a \A d \A o \A r \A a \A d \A o \A r \A e \A s";
+    content: "W \A a \A y \A l \A u \A n \A o \A r \A \A y \A \A s \A u \A s \A \A a \A d \A o \A r \A a \A d \A o \A r \A e \A s ";
+    height: 70vh;
+    bottom: calc(30vh + 2px);
   }
 
   section:nth-of-type(5) .saltopagina:before,
@@ -514,7 +542,9 @@ section h1 + .saltopagina:after {
 
   #aventuras section:nth-of-type(5) .saltopagina:before,
   #aventuras section:nth-of-type(5) .saltopagina.even:before { 
-    content: "L \A a \A \A E \A s \A p \A i \A g \A a \A \A P \A ú \A r \A p \A u \A r \Aa";
+    content: "L \A a \A \A E \A s \A p \A i \A g \A a \A \A P \A ú \A r \A p \A u \A r \A a";
+    height:50vh;
+    bottom: calc(50vh + 2px);
   }
 
   section:nth-of-type(6) .saltopagina:before,
@@ -528,7 +558,9 @@ section h1 + .saltopagina:after {
 
   #aventuras section:nth-of-type(6) .saltopagina:before,
   #aventuras section:nth-of-type(6) .saltopagina.even:before { 
-    content: "R \A e \A g \A l \A a \A s";
+    content: "R \A e \A g \A l \A a \A s ";
+    height: 22vh;
+    bottom: calc(78vh + 2px);
   }
 
   section:nth-of-type(7) .saltopagina:before,
@@ -542,7 +574,9 @@ section h1 + .saltopagina:after {
 
   #aventuras section:nth-of-type(7) .saltopagina:before,
   #aventuras section:nth-of-type(7) .saltopagina.even:before { 
-    content: "D \A r \A a \A m \A a \A t \A i \A s \A \A p \A e \A r \A s \A o \A n \A a \A e";
+    content: "D \A r \A a \A m \A a \A t \A i \A s \A \A p \A e \A r \A s \A o \A n \A a \A e ";
+    height: 50vh;
+    bottom: calc(50vh + 2px);
   }
 
   #aventuras section:nth-of-type(8) .saltopagina:before,
@@ -693,6 +727,10 @@ section:first-of-type {
   align-items: flex-start;
 }
 
+#aventuras section:first-of-type {
+  background-image: url(../images/tortuga.jpg);
+}
+
 section:first-of-type > * {
   position: relative;
   z-index: 10;
@@ -757,6 +795,10 @@ section:last-of-type {
   flex-direction: column;
   justify-content: flex-end;
   align-items: flex-start;
+}
+
+#aventuras section:last-of-type {
+  background-image: url(../images/epilogo.webp);
 }
 
 section:last-of-type > * {
