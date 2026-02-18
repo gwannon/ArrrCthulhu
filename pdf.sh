@@ -8,6 +8,6 @@
 
 php ./tools/generateDocsAventuras.php
 google-chrome --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./indexAventuras.html
-pdftk 'temp.pdf' update_info_utf8 'metas.txt' output 'ArrrCthulhuAventuras.pdf'
-rm metas.txt
+pdftk 'temp.pdf' update_info_utf8 'metasAventuras.txt' output 'ArrrCthulhuAventuras.pdf'
+rm metasAventuras.txt
 rm temp.pdf

@@ -4,6 +4,14 @@
 
 |12Cometa.md|
 
+\sp
+
+|15NuevosRelatos.md|
+
+***
+
+|14Reglas.md|
+
 ***
 
 |13Dramatis.md|
@@ -16,16 +24,16 @@
 
 Aventura para ¡Arrr! Cthulhu
 
-XXX
+La Mano Dorada
 
 Creado por [|AUTHOR|](|AUTHOR_URL|)
 
-XXX es una campaña para ¡Arrr! Cthulhu donde te enfrentaras a Suc’Naath y su culto de adoradores.
+«La Mano Dorada» es una campaña corta para ¡Arrr! Cthulhu donde tus jugadores deberán desbaratar los planes de los cultistas de La Mano Dorada para liberar a Suc’Naath en nuestro mundo.
 
 Este suplemento contiene:
 
-1. XXX
-2. XXX
-3. XXX
+1. Una **campaña corta y 3 aventuras de 1 o 2 sesiones** que puedes meter dentro de la campaña o usarlas dentro de tus propias aventuras.
+2. **Nuevas localizaciones** y **nuevos personajes** que extienden el Caribe de ¡Arrr! Cthulhu
+3. Incluye todo un nuevo repertorio de **monstruos de los Mitos, enemigos y objetos mágicos y malditos**. También hay nuevas **ventajas, desventajas y hechizos** para usar en tus partidas de ¡Arrr! Cthulhu.
 
 ![Logo Pinnacle](./images/pinnaclelogo.webp)

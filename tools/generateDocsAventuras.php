@@ -60,7 +60,7 @@ $metas .= "InfoValue: ".$tags['KEYWORDS']."\n\n";
 /* -------------------------------------------------------------- */
 $doc = new DOMDocument();
 $internalErrors = libxml_use_internal_errors(true);
-$doc->loadHTMLFile(__DIR__ . "/../index.html");
+$doc->loadHTMLFile(__DIR__ . "/../indexAventuras.html");
 $body = $doc->getElementsByTagName('body');
 $body = $body->item(0);
 $json = [];
@@ -124,7 +124,7 @@ $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
 }, $html);
 
 file_put_contents(__DIR__ . "/../indexAventuras.html", $html);
-file_put_contents(__DIR__ . "/../metas.txt", $metas);
+file_put_contents(__DIR__ . "/../metasAventuras.txt", $metas);
 
 /* LIBs */
 /* -------------------------------------------------------------- */

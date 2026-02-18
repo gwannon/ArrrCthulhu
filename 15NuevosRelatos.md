@@ -1,3 +1,9 @@
+\sinc
+
+## Nuevas historias salvajes
+
+\conc
+
 ### Nunca me habían dado todo
 
 **Comienzo:** Una taberna de mala reputación.
@@ -21,6 +27,8 @@ Si se ven en problemas tratarán de lanzar la plaga aunque maten a todos los hum
 #### En una taberna de mala muerte
 
 El cacique y un par de guerreros buscan buena gente, héroes y heroínas que les ayuden. Sin embargo, no han encontrado a nadie apropiado en los sitios en que han buscado.
+
+\sp
 
 Desesperados, han decidido rascar en el fondo del barril y han acabado en el puerto o en el barrio bajo de la ciudad.
 
@@ -49,6 +57,8 @@ XXX
 #### Repeliendo el ataque
 
 XXX
+
+\sp
 
 #### Buscando el laboratorio
 

@@ -1,34 +1,8 @@
 # Dramatis personae
 
-## Quetzal (Shantak) ☾
-
-Estas gigantescas aves son uno de los seres que con más frecuencia salen en las 1001 Noches. 
-
-A pesar de que la mayoría de la gente los asocia con águilas de tamaño gigantesco, los rokhs se parecen más dinosaurios volares como los pterodáctilos, con la peculiaridad de tener una cabeza que recuerda a las de un caballo.
-
-Como comenta Alhazred, los rokhs son fieles a la entidad Azathoth y pueden viajar por el espacio con un jinete hasta el centro del universo, donde vive esa todopoderosa entidad a la que adoran. Los rokhs provienen de las Tierras del sueño y sus antepasados llegaron a nuestro mundo hace milenios y se establecieron aquí debido a que existían su enemigo principal, los sirvientes alados.
-
-Su zona principal de nidación es en los picos más altos de la cordillera del Cáucaso, entre el Mar Negro y el Mar Caspio, aunque se han encontrado rokhs solitarios en otras latitudes.
-
-* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d6, Fuerza d12+4, Vigor d8
-* **Habilidades:** Atletismo d6, Pelea d8, Notar d8
-* **Paso:** 8; **Parada:** 6; **Dureza:** 15(3)
-* **Capacidades especiales:**
-  * **Armadura +3:** Su piel escamosa y emplumada le confiere una buena protección.
-  * **Garras/Mordisco:** FUE+d8
-  * **Volar:** Paso volando 16
-* **Capacidades especiales:**
-  * **Tamaño +6:** Tiene el tamaño de un elefante africano (+6 dureza, +2 bonificación al atacarle, +1 herida).
-  * **Capacidad de carga:** Pueden volar cargando con sus garras pesos de hasta unas 10 toneladas sin sufrir penalización.
-  * **Viaje estelar:** Es inmune a los rigores del espacio exterior.
-* **Equipo:** Si ha sido entrenado como cabalgadura, puede llevar una silla de montar en la que podría ir una persona de tamaño normal.
-* **TPC:** d8
-
-\sp
-
 \sinc
 
-## Ziba Al-Alephi, maga suprema y suma sacerdotisa de la Mano Dorada ☾
+## Ziba Al-Alephi (comodín)
 
 \conc
 
@@ -47,6 +21,9 @@ Los recursos económicos de Ziba son inmensos. Domina el arte de la trasmutació
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Desventajas:** Secreto (mayor, líder de la Mano Morada), Vengativa
 * **Ventajas:** Afinidad mágica, Canalización, Trasfondo arcano (Sihr), Esencia de Suc’Naath, Nuevos poderes x3, Puntos de poder x 2, Subidón de poder
+
+\sp
+
 * **Hechizos:** 36 PP, Bola de fuego, Círculo de detección, Encerrar en una botella, Hisopar, Ojos de Serpiente, Interpretar sueños, ¡Sésamo, ábrete!, Torbellino, Transformar en animal
 * **Equipo:** Ropajes caros, jambia de plata con incrustaciones de oro para rituales (FUE+d6), 1d4 dosis de bang cretense, 5d10 dosis de azufre rojo, 1d6 dosis de sangre de Fénix, por lo menos dos grimorios al azar
 
@@ -54,7 +31,7 @@ Los recursos económicos de Ziba son inmensos. Domina el arte de la trasmutació
 
 \sinc
 
-## Alura, amazona, guardaespaldas de Ziba y asesina principal de la Mano Dorada de Suc’Naath ☾
+## Alura (comodín)
 
 \conc
 
@@ -66,7 +43,11 @@ Su madre se quedó embarazada y abandonó el ejército para criar a su hija. Su 
 
 Alura se tiró varios años como mercenaria al mejor postor hasta que se encontró con Ziba que la puso bajo su protección y la ha tratado como su hija y a la vez como su maestra asesina. Alura no es creyente de Suc’Naath, solo es leal a Ziba, por la que profesa verdadera devoción.
 
-Alura es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gran don para la táctica y las emboscadas. Sus puntos débiles que no tiene estudios, apenas conoce los números y no sabe leer ni escribir. El otro punto débil es que tiene cero capacidades sociales. No sabe moverse entre sus congéneres y muchas de las aptitudes sociales básicas se le escapan debido a que en su niñez no pudo ponerlas en práctica.
+Alura es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gran don para la táctica y las emboscadas. Sus puntos débiles que no tiene estudios, apenas conoce los números y no sabe leer ni escribir.
+
+\sp
+
+El otro punto débil es que tiene cero capacidades sociales. No sabe moverse entre sus congéneres y muchas de las aptitudes sociales básicas se le escapan debido a que en su niñez no pudo ponerlas en práctica.
 
 * **Atributos:** Agilidad d12, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
 * **Habilidades:** Atletismo d12, Cabalgar d10, Conocimientos Generales d6, Disparar d10, Idioma materno d6, Notar d4, Pelear d12, Persuadir d4, Sigilo d12, Tácticas d10
@@ -76,11 +57,3 @@ Alura es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gra
 * **Equipo:** Cimitarra mágica +1/+1(FUE+d8+1), Katar (FUE+d6), Jawshan (+4 peto, +3 piernas y brazos), Chakram, Arco recurvo con 10 flechas
 
 **Sugerencia de interpretación:** No pillas ni las ironías, ni lo dobles sentidos, ni nada por el estilo. Eres bastante literal interpretando los comentarios de la gente de tu alrededor. Ziba lo sabe y actúa en consecuencia, pero el resto de las personas no y eso hace que terminen alejándote de ti porque no saben por dónde vas a salir.
-
-\sinc
-
-## Ventajas
-
-\conc
-
-* **Esencia de Suc’Naath:** Suc’Naath ofrece su poder a sus elegidos, pero exige un sacrificio en dolor. Los negativos por heridas se restan del gasto de PP de los hechizos.

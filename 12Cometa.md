@@ -1,4 +1,4 @@
-# La llegada del cometa
+# La Mano Dorada **y otras historias salvajes**
 
 _Como los astrónomos habían predicho, el cometa Aiin se acerca a la Tierra, cosa que hace cada 320 años. Se dice que en su interior reside parte de la esencia fragmentada de la deidad conocida como Suc’Naath. Dentro de unos meses pasará muy cerca de nuestro planeta y será el momento perfecto para intentar liberar a este dios exterior de su maldición._
 
@@ -37,6 +37,8 @@ Sus sectarios y sectarias no están «tocados» por el destino como las personas
 
 Además, teme que si los adeptos tocan la estatua puedan morir o algo incluso peor, que su fe interactúe con la estatua y la destruya o que la esencia pase al cultista y ya no sea solo ella la única persona que porte parte de la esencia de Suc’Naath.
 
+\sp
+
 Si aceptan el trato de Ziba, esta quedará con ellos dentro de dos días al amanecer en el Bab Al-Talsim al norte de la ciudad. Una tirada de Tácticas les dirá que es extraño usar el bab norte si te diriges al sur, quizás esté tratando de despistar a alguien u ocultar sus actividades.
 
 El día acordado al amanecer les esperará un grupo de 8 camellos con material de excavación, raciones y agua para una semana. Ziba es acompañada por Alura y un asesino entrenado de la secta.
@@ -68,6 +70,8 @@ Para maximizar la búsqueda, Ziba hace dos grupos, ella y su gente revisarán la
 
 Las escaleras dan a una gran sala con una imagen de una deidad extraña de forma humanoide, pero no humana que parece estar bailando. Una tirada de Notar y se percatará de que Ziba se «santigua» ante la presencia de la estatua.
 
+\sp
+
 #### Sala de rituales (2)
 
 Parece una sala que era usada para rituales especiales, quizás ritos de iniciación o bautismos. Está decorado con un mosaico que representa a la misma deidad que la escultura de la Sala principal (1).
@@ -97,6 +101,8 @@ Sacaban la estatua viviente de Suc’Naath de la capilla adyacente (9) y le ofre
 
 El lago es en realidad 2 elementales de agua (usar el del manual básico) que guardan la cueva. Fueron invocados hace siglos con una magia hoy desconocida. Solo atacarán a aquellos que no crean en Suc’Naath y, por tanto, no tengan su marca, es decir, tus schahriars. Una tirada de Notar durante el combate les dirá que solo ellos han sido atacados.
 
+\sp
+
 #### Salida secreta (7)
 
 Esta habitación tiene una salida secreta al exterior. La idea ea usarla en caso de redada para sacar la estatua y los fieles. El problema es que la salida está cegada por los restos derrumbados de la superficie.
@@ -120,7 +126,13 @@ Bajo ningún concepto Ziba y sus discípulos tocarán la estatua. Lo dejarán en
 
 Durante el camino de regreso a Bagdad podrán tratar de sonsacar a Ziba alguna de las preguntas que le han surgido en la visita a Babilonia, aunque Ziba será muy reacia a dar mucha información.
 
+\sp
+
+\sinc
+
 ## El plan de la Mano Dorada
+
+\conc
 
 La Mano Dorada, ahora que tiene la estatua de Suc’Naath, necesita una forma de reunir las 3 partes de la esencia de Suc’Naath. La esencia genética de Ziba y la estatua debe poder llegar al espacio exterior hasta el cometa Aiin que según astrónomos como Mariam Al-Ijliya se acercará a la Tierra en los próximos meses.
 
@@ -142,6 +154,8 @@ Este punto de la aventura es muy sencillo. Ziba ha visto las capacidades de tus 
 
 
 Les dará 1.000 por el viaje y 2.000 por cada huevo o cría que consigan. Durante el viaje que pueden ser un par de semanas, puedes meter otros cuentos.
+
+\sp
 
 ### En los montes Elburz
 
@@ -166,11 +180,19 @@ Si se lanzan al ataque contra el Rokh que está empollando los huevos, este los 
 
 Pueden tratar de crear una distracción para el Rokh que esté cazando y que se aleje del nido. Para distraerles pueden, por ejemplo, soltar animales de granja un poco lejos y que hagan ruido. El Rokh se alejará del nido y cuando su compañero pida ayuda no le oirá.
 
+\sp
+
 Hacer que abandone el nido, el que está empollando es mucho más complicado. Solo un gran peligro como una bandada de sirvientes alados, su enemigo natural, harían que abandonara el nido. Trucos como provocar fuegos, no asustarán al Rokh, que tratará de poner los huevos a salvo como pueda y llamar a su compañero.
 
 Si salen vivos del combate con los Rokhs podrán llevarse el huevo o el polluelo. Puedes ponerles si quieres algún problema es su descenso por la ladera. Quizás tener que pasar por algún sitio estrecho con el huevo o buscar comida para la cría.
 
+\sp
+
+\sinc
+
 ## La crianza del Rokh
+
+\conc
 
 **Comienzo:** Ruinas de Ur
 
@@ -184,6 +206,9 @@ Esta aventura debería ser más distendida, no hay monstruos queriendo matar a t
 * Lo primero que deberán hacer tus schahriars será buscarle un nombre al Rokh y tú como Scheherazade darle secretamente una personalidad. Puede ser muy tozudo, excesivamente cariñoso, demasiado tranquilo, excesivamente acelerado, etc. Piensa en algo divertido que sea muy diferente a tus schahriars como si fueran una «película de colegas» donde dos personas totalmente contrarias de carácter tienen que juntarse para solucionar un problema.
 * Deberán ponerle una silla y que no se la quite. Deberán seguirlo corriendo e inmovilizarlo como un ternero en un rodeo. Tiradas enfrentadas de Atletismo. Si sacan un avance, podrán intentar derribarlo con tiradas de FUE enfrentadas.
 * Una vez tengan la silla deberá aprender a llevar gente sobre ella. Serán tiradas enfrentadas de Atletismo contra FUE del Rokh, el schahriar deberá aguantar los esfuerzos del Rokh por tirar a su jinete. 3 tiradas seguidas con éxito y el polluelo se rendirá y aceptará llevar jinete. Cada tirada enfrentada suma un d6 y cuando se falla el jinete se hace los dados acumulados de daño. Si el jinete pasa 2 tiradas y falla la tercera se llevará 2d6 de daño entre pateos y la caída contra el suelo.
+
+\sp
+
 * Deben alimentar el Rokh con carne, pero deberán hacer como sus padres, deglutirlo y dárselo de boca en boca con picotazos 1d6 de daño porque tiene hambre.
 * Es indispensable que aprenda volar y para su primer vuelo deberán empujarlo por un acantilado (a poder ser sobre grandes masas de agua) o lanzarse ello y que les siga. Deberán hacer tiradas de Espíritu para atraer su atención y los imite. Luego deberán sobrevivir al salto según sus posibilidades.
 * Recuerda si al entrenarlo han usado algún tipo de premio como dulces o cecina porque le gustaba mucho. Podrán usar ese conocimiento en un futuro si necesitan que el Rokh no haga caso a su jinete.
@@ -206,7 +231,7 @@ Este proceso puede llevar el tiempo que desees y cuando lo creas conveniente el 
 
 > /p/ Esta parte es totalmente opcional y si no quieren participar en el entrenamiento del Rokh puedes intercalar otras aventuras o en su lugar jugar el siguiente cuento, «Préstamo de libro». En unas semanas Ziba volverá a contactar con tus schahriars para continuar con la aventura.
 
-\sc
+\sp
 
 ## Préstamo de libros
 
@@ -235,6 +260,8 @@ Ziba ya conoce como funciona la Cúpula del libro, así que les ha dejado dos gr
 
 La otra opción es robar el libro por la noche. La cúpula tiene una única puerta (Latrocinio -1) custodiada por 2 vigilantes (soldado) y varias ventajas enrejadas (Consistencia 8). Hay un 50% de posibilidades que el bibliotecario esté dentro pasando la noche.
 
+\sp
+
 Ni los guardas ni las rejas son un problema para un ladrón medio, pero la cúpula está en la zona muy transitada y hay mucho movimiento todo el día y toda la noche. En seguida se llenaría la zona de guardias de la ciudad.
 
 #### Copiar el libro
@@ -258,7 +285,13 @@ Su enemigo natural son unos seres también voladores conocidos como sirvientes a
 
 > Esta parte es totalmente opcional y si no quieren tratar de conseguir el grimorio de cría de Rokhs puedes intercalar otras aventuras. En unos meses Ziba volverá a contactar con tus schahriars para continuar con la aventura.
 
+\sp
+
+\sinc
+
 ## Consultando a las estrellas
+
+\conc
 
 **Comienzo:** Alepo
 
@@ -275,6 +308,8 @@ Les dará una brújula de precisión y equipo de topografía y unas explicacione
 
 Deberán visitar 5 picos de todo Oriente Medio y Norte y tomar una serie de mediciones con el equipo topográfico (tirada de Ciencias para recopilar los datos y medio para hacerlo). Con esos datos podrán volver a Alepo y Mariam les dará el mejor lugar para acercarse al cometa.
 
+\sp
+
 Estos son los puntos donde deben tomar mediciones:
 
 * **Monte Ararat (5.137 m):** Es famoso porque se supone que es el lugar donde está el arca de Noé. Esta será al final la mejor ubicación y puedes dejarles explorar un poco para en el futuro tener alguna ventaja cuando intenten frustrar los planes de la Mano Dorada.
@@ -285,8 +320,9 @@ Estos son los puntos donde deben tomar mediciones:
 
 Cada punto te puede dar para montar encuentros con diferentes seres, desde animales salvajes a gigantes solitarios que viven en cuevas. Puedes aprovecharlos para meter cuentos salvajes en esas ubicaciones o puedes cambiarlos por otros que te permitan meter tus propios relatos salvajes, como el Himalaya metiendo una trama de monjes budistas y yetis. Tampoco hay problemas en quitar y dejar 2 o 3 puntos.
 
-
 La idea de esta parte de la aventura es permitir que sin perder la trama pueden moverse por el mapa e interactuar quizás con viejos enemigos, ver a sus familias, buscar pistas de un tesoro, etc.
+
+\sp
 
 Estos viajes les deberían llevar muchísimo tiempo del que no disponen. Así que si no tiene algún método mágico para viajar Ziba les dará 5.000 dinares por persona (1.000 por punto a medir) y les prestará (y lo reclamará cuando vuelvan) algún objeto mágico que facilite el viaje. Por ejemplo, la clásica alfombra volante o el tambor de piel de gallo.
 
@@ -306,6 +342,7 @@ Cuando caigan inconscientes, los sacará por la parte de atrás de la taberna, d
 
 El plan será perfectamente ejecutado por Ziba y su gente y si algo falla cuenta con sus fabulosos poderes mágicos para solucionar cualquier problema.
 
+\sp
 
 Puede que alguno de tus schahriars sospeche de Ziba y su fiesta o solo sea un paranoico e intente hacer algo. Escapar es muy difícil, pero pueden tomar ciertas acciones que le den ventaja más tarde para escapar.
 
@@ -322,6 +359,7 @@ Sean narcotizados u obligados a la fuerza, tus schahriars acabarán en el fondo 
 
 Por último, deberán despistar a los cultistas que ha dejado Ziba vigilando en la barca desde la que han tirado a los schahriars. Opciones de escape:
 
+\sp
 
 * Según los lancen, al agua se irán al fondo por el peso de las piedras y empezarán a ahogarse (sigue las reglas de ahogamiento del manual básico). Mientras están bajo el agua aguantando la respiración podrán hacer una acción de nada/andar por el fondo y otra acción.
 * Con una tirada buena de Latrocinio o Reparar podrán deshacer un nudo de las manos o de los pies, suyos o de un compañero. Si tiene las manos atadas tendrán un -2 a deshacer los nudos. Las cuerdas son muy fuertes (consistencia 9) para ser rotas a la fuerza, pero es posible.
@@ -330,7 +368,13 @@ Por último, deberán despistar a los cultistas que ha dejado Ziba vigilando en 
 
 > Si la juerga se les va de las manos y crees que puede pegar, puede ser un buen momento para que tengan un encontronazo con el Califa de Bagdad y su séquito en una de sus escapadas secretas. Dale un vistazo al cuento salvaje «Los encuentros de Al-Raschid en el puente de Bagdad». Incluso podría ser interesante que el propio Califa salve de morir ahogados a sus nuevos compañeros y compañeras de borrachera.
 
+\sp
+
+\sinc
+
 ## Buscando la verdad
+
+\conc
 
 **Comienzo:** Al-Rusafa, orilla este de Bagdad
 
@@ -339,7 +383,6 @@ _El intento de asesinato por parte de Ziba de tus schahriars les ha tenido que d
 Tus schahriars han conseguido escapar de un intento de asesinato. La que creían su aliada ha resultado ser su verdugo. En este momento tiene dos opciones, desaparecer o investigar que quería realmente Ziba con todos estos extraños objetos.
 
 Si deciden desaparecer, deberás reconducirlos porque si no hacen anda Suc’Naath volverá a la Tierra y sembrará el Caos.
-
 
 Quizás podrían hablar con el Giafar el visir si tienen contacto con él o buscar información en el pasillo prohibido de la Casa de la Sabiduría. Podrán o bien persuadir a Hunayn ibn Ishaq para que les deje entrar a fisgar en los libros o podrán forzar la cerradura y colarse dentro sin ser visto.
 
@@ -352,6 +395,8 @@ Sea como fuera, terminarán averiguando la relación entre Ziba, la estatua del 
 _Todo está preparado en la cima del monte Ararat. Ziba solo necesita que sea de noche y cuando el cometa Aiin sea visible, montar en su Rokh y, junto con la estatua, salir volando al espacio exterior. Cuando se acerque al cometa, se fusionarán las 3 esencias y Ziba se convertirá en el avatar de Suc’Naath para volver y hacer su voluntad en la Tierra._
 
 Si siguen las indicaciones que les dio Mariam, podrán encontrar en lugar desde donde Ziba partirá hacia el espacio exterior con el Rokh amaestrado. Tiene que partir al anochecer o el cometa se alejara de la tierra.
+
+\sp
 
 En la cima de la montaña han montado un campamento con unos 20 seguidores, varias jaimas con una bastante más grande (consistencia 6) y lujosa en el centro que será para Ziba. Por los ruidos que salen de ella, el rokh está dentro de la jaima de Ziba, seguramente atado, con cadenas al poste central clavado en la tierra.
 
@@ -375,6 +420,8 @@ Según alguien dé la alarma, todos los cultistas irán a la jaima de Ziba y la 
 
 Si los defensores de Ziba son derrotados, entrará en acción sin dar cuartel. Si falla, su divinidad será prisionera de Azathoth otros 3 siglos. Desatará el rokh, atará la estatua en la silla y montará el rokh, para salir rompiendo el techo de la jaima y elevarse. Si algún schahriar entra antes, Ziba estará preparada para el combate y lanzará unas bolas de fuego como distracción mientras sube al Rokh y sale volando.
 
+\sp
+
 Si fallan una tirada de Notar, estarán sorprendidos. Ziba, lanzará hechizos ofensivos mientras el rokh ataca en cada pasada. De normal, Ziba levantaría vuelo y desaparecería, pero la rabia y la sed de sangre han tomado el control y quiere acabar con tus schahriars de la manera más dolorosa posible. A partir del 10º turno Ziba tirará Espíritu-4 para librarse de la sed de sangre. Si lo consigue, tratará de huir.
 
 Si no vuelan o no tienen armas a distancia solo podrán atacar ganando la iniciativa a Rokh, esperar y atacar cuando pase cerca. Recuerda que está anocheciendo y eso afecta a la visibilidad en el combate.
@@ -396,4 +443,12 @@ La estatua debería hacerla desaparecer en mitad del mar o en alguno de los mist
 
 Si registran los objetos de Ziba y del resto de la secta tendrán un botín de 1d12+2 además de los objetos que porten Alura y Ziba.
 
+\sp
+
 > **Recompensa de cordura (+2):** Evitar que un culto de brujos, locos y asesinos traigan a nuestro mundo un dios extraterrestre con dudosas intenciones tiene su recompensa. Todos tus schahriars recuperan dos puntos de cordura.
+
+### El tesoro hundido
+
+Si has jugado La Mano Dorado dentro de la campaña El tesoro hundido, las acciones de tu mesa pueden tener consecuencias.
+
+* Tener a su disposición un rokh puede ser un importante elemento en la gran batalla contra Hernando de Villalba, lo que les otorgaría un token extra en la batalla final. 

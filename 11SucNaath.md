@@ -22,6 +22,8 @@ La Mano Dorada de Suc’Naath reúne a intelectuales trastornados, poderosos tau
 
 La secta es pequeña, pero muy poderosa, sus agentes mágicos tiene grandes poderes, sus artistas tienen mucha fama y dinero y sus asesinos son mortales. Cada miembro del culto, tras una concienzuda selección y con el beneplácito de la suma sacerdotisa Ziba, puede elegir un discípulo al que enseña todos sus secretos y todo el credo de la secta.
 
+\sp
+
 Los y las artistas suelen escoger a la gente más fanática de su arte. Si manejan las energías de la magia, buscan a las personas que portan la esencia de Suc’Naath, ya que su magia es poderosa y son proclives a la locura y el caos.
 
 Por último, los asesinos y asesinas de la secta suelen buscar pillastres que viven en la calle sin familia a los que infundir sus macabras creencias.
@@ -44,6 +46,8 @@ Tampoco han tenido nunca la necesidad de tener refugios, ya que gran parte de su
 #### Rituales
 
 Siguiendo el destino de su amo y compartiendo su maldición, el principal ritual de la secta es bailar frenéticamente al sol de flautas, como Suc’Naath alrededor de Azathoth.
+
+\sp
 
 Bailan hasta la extenuación y caen inconscientes al suelo. Los danzantes puede tener una catarsis y Suc’Naath puede entregarles una visión de su futuro o de su pasado.
 

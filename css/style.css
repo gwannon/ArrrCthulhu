@@ -120,6 +120,13 @@ h1 {
   padding: 0 30px;
 }
 
+h1 > strong {
+  font-weight: 400;
+  font-size: 40px;
+  display: block;
+  text-align: center;
+}
+
 h2,
 h3,
 h4,
@@ -491,6 +498,11 @@ section h1 + .saltopagina:after {
     background-color: var(--green-cthulhu);
   }
 
+  #aventuras section:nth-of-type(4) .saltopagina:before,
+  #aventuras section:nth-of-type(4) .saltopagina.even:before { 
+    content: "S \A u \A c \A N \A a \A a \A t \A h \A \A y \A \A s \A u \A s \A \A a \A d \A o \A r \A a \A d \A o \A r \A e \A s";
+  }
+
   section:nth-of-type(5) .saltopagina:before,
   section:nth-of-type(5) .saltopagina.even:before {
     height: 61.5vh;
@@ -498,6 +510,11 @@ section h1 + .saltopagina:after {
     content: "R \A e \A g \A l \A a \A s \A \A d \A e \A \A a \A m \A b \A i \A e \A n \A t \A a \A c \A i \A ó \A n ";
     white-space: pre;
     background-color: var(--green-deepone);
+  }
+
+  #aventuras section:nth-of-type(5) .saltopagina:before,
+  #aventuras section:nth-of-type(5) .saltopagina.even:before { 
+    content: "L \A a \A \A M \A a \A n \A o \A \A D \A o \A r \A a \A d \A a";
   }
 
   section:nth-of-type(6) .saltopagina:before,
@@ -509,6 +526,11 @@ section h1 + .saltopagina:after {
     background-color: var(--green-dark);
   }
 
+  #aventuras section:nth-of-type(6) .saltopagina:before,
+  #aventuras section:nth-of-type(6) .saltopagina.even:before { 
+    content: "R \A e \A g \A l \A a \A s";
+  }
+
   section:nth-of-type(7) .saltopagina:before,
   section:nth-of-type(7) .saltopagina.even:before {
     height: 52vh;
@@ -516,6 +538,16 @@ section h1 + .saltopagina:after {
     content: "H \A i \A s \A t \A o \A r \A i \A a \A s \A \A S \A a \A l \A v \A a \A j \A e \A s ";
     white-space: pre;
     background-color: var(--green-gul);
+  }
+
+  #aventuras section:nth-of-type(7) .saltopagina:before,
+  #aventuras section:nth-of-type(7) .saltopagina.even:before { 
+    content: "D \A r \A a \A m \A a \A t \A i \A s \A \A p \A e \A r \A s \A o \A n \A a \A e";
+  }
+
+  #aventuras section:nth-of-type(8) .saltopagina:before,
+  #aventuras section:nth-of-type(8) .saltopagina.even:before { 
+    display: none;
   }
 
   section:nth-of-type(8) .saltopagina:before,
