@@ -45,7 +45,7 @@ $html = str_replace("<ul>\n<li><strong>Título:</strong>", "<ul class=\"libro\">
 
 //$html = str_replace("<p><strong>Semilla de aventura:</strong>", "<p class=\"seed\"><strong>Semilla de aventura:</strong>", $html);
 
-file_put_contents(__DIR__ . "/../index.html", $html);
+file_put_contents(__DIR__ . "/../indexAventuras.html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
