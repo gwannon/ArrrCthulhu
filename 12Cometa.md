@@ -1,14 +1,14 @@
-# La Mano Dorada **y otras historias salvajes**
+# La Espiga Purpura **y otras historias salvajes**
 
-_Como los astrónomos habían predicho, el cometa Aiin se acerca a la Tierra, cosa que hace cada 320 años. Se dice que en su interior reside parte de la esencia fragmentada de la deidad conocida como Suc’Naath. Dentro de unos meses pasará muy cerca de nuestro planeta y será el momento perfecto para intentar liberar a este dios exterior de su maldición._
+_Como los astrónomos habían predicho, el cometa Aiin se acerca a la Tierra, cosa que hace cada 320 años. Se dice que en su interior reside parte de la esencia fragmentada de la deidad conocida como Waylunor. Dentro de unos meses pasará muy cerca de nuestro planeta y será el momento perfecto para intentar liberar a este dios exterior de su maldición._
 
-La Mano Dorada, secta de adoradores de Suc’Naath, no puede perder esta oportunidad de librar a su amo de la maldición que lo mantiene atado a Azathoth. Su suma sacerdotisa Ziba, que porta la esencia de Suc’Naath en sus genes, debe encontrar la última parte de la esencia que le falta, una estatua perdida en el tiempo y el espacio.
+La Espiga Purpura, secta de adoradores de Waylunor, no puede perder esta oportunidad de librar a su amo de la maldición que lo mantiene atado a Azathoth. Su suma sacerdotisa Ziba, que porta la esencia de Waylunor en sus genes, debe encontrar la última parte de la esencia que le falta, una estatua perdida en el tiempo y el espacio.
 
 > «Las estrellas se dividen en tres clases, según la misión a que se las destina: unas cuelgan de la bóveda celeste como antorchas, y sirven para alumbrar la tierra; otras están suspendidas de manera invisible en el aire, y sirven para alumbrar los mares; y las estrellas de la tercera categoría, se mueven a voluntad entre los dedos de Alah; se las ve desfilar en la noche, y entonces sirven para lapidar y castigar a los demonios que osan infringir las órdenes del Altísimo»s.
 > 
 > **Referencia:** Historia de la docta Simpatía (n. 284)
 
-Si consiguen juntar sus genes, con la estatua perdida y la esencia que hay en el cometa, Suc’Naath podrá abandonar su lugar entre los dioses danzantes de Azathoth y aparecer en nuestro mundo para llevar a cabo sus terribles planes apocalípticos y conceder a sus adoradores poder e inmortalidad.
+Si consiguen juntar sus genes, con la estatua perdida y la esencia que hay en el cometa, Waylunor podrá abandonar su lugar entre los dioses danzantes de Azathoth y aparecer en nuestro mundo para llevar a cabo sus terribles planes apocalípticos y conceder a sus adoradores poder e inmortalidad.
 
 \sp
 
@@ -30,12 +30,12 @@ Ziba hace las entrevistas junto con su mano derecha, Alura. Les ofrecerá 500 mo
 
 Si hace poco terminaron algún relato en que pudieran conseguir fama como «El alcázar en las nubes», les reconocerá y les preguntará por sus aventuras para ofrecerles 600 dinares. Les dorará la píldora para que acepten el trabajo.
 
-Ziba no necesita mano de obra para encontrar la estatua de Suc’Naath, puede usar a sus adeptos, pero sabe que necesita personas excepcionales y ha detectado la Afinidad Mágica de tus schahriars.
+Ziba no necesita mano de obra para encontrar la estatua de Waylunor, puede usar a sus adeptos, pero sabe que necesita personas excepcionales y ha detectado la Afinidad Mágica de tus schahriars.
 
 Sus sectarios y sectarias no están «tocados» por el destino como las personas que acaban de entrar en su sala privada.
 
 
-Además, teme que si los adeptos tocan la estatua puedan morir o algo incluso peor, que su fe interactúe con la estatua y la destruya o que la esencia pase al cultista y ya no sea solo ella la única persona que porte parte de la esencia de Suc’Naath.
+Además, teme que si los adeptos tocan la estatua puedan morir o algo incluso peor, que su fe interactúe con la estatua y la destruya o que la esencia pase al cultista y ya no sea solo ella la única persona que porte parte de la esencia de Waylunor.
 
 \sp
 
@@ -47,7 +47,7 @@ El día acordado al amanecer les esperará un grupo de 8 camellos con material d
 
 **Comienzo:** Ruinas de Babilonia
 
-_En lo profundo de las catacumbas de Babilonia hay una estatua muy especial, hecha de piedra negra, que representa un tornado de la que salen caras agonizantes. En ella reside un tercio de la esencia de Suc’Naath._
+_En lo profundo de las catacumbas de Babilonia hay una estatua muy especial, hecha de piedra negra, que representa un tornado de la que salen caras agonizantes. En ella reside un tercio de la esencia de Waylunor._
 
 Cuando lleguen a las ruinas de Babilonia lanzará un hechizo que le marcará el camino hasta unas ruinas de la ciudad.
 
@@ -86,20 +86,20 @@ Esta gran sala parece una sala de reuniones, donde los sacerdotes y adeptos de m
 
 Si cuando están en esta sala, con Sigilo dan un vistazo a la sala principal (1) verán a Ziba y su gente rezando a la estatua.
 
-Una tirada de Notar -2 detectará una losa movible en uno de los cubículos del fondo que da acceso a una cueva secreta (5) que es el templo auténtico de Suc’Naath. Si fallan tus schahriars puede aparecer Ziba y encontrar la puerta secreta. Si descubren la estatua solos pueden seguir ellos solos o avisar a Ziba.
+Una tirada de Notar -2 detectará una losa movible en uno de los cubículos del fondo que da acceso a una cueva secreta (5) que es el templo auténtico de Waylunor. Si fallan tus schahriars puede aparecer Ziba y encontrar la puerta secreta. Si descubren la estatua solos pueden seguir ellos solos o avisar a Ziba.
 
 #### Entrada secreta (5)
 
 Es un habitáculo normal que da paso al templo real. Por los restos de cerámica, seguramente, había ánforas con agua para hacer las abluciones antes de entrar en el templo.
 
-#### Templo de Suc’Naath (6)
+#### Templo de Waylunor (6)
 
 Esta gran sala tiene dos partes, una inferior donde se arrodillaban los fieles y uno superior separado por un lago donde los sacerdotes hacían sus rituales.
 
 
-Sacaban la estatua viviente de Suc’Naath de la capilla adyacente (9) y le ofrecían todo tipo de ofrendas y sacrificios, puede que incluso humanos.
+Sacaban la estatua viviente de Waylunor de la capilla adyacente (9) y le ofrecían todo tipo de ofrendas y sacrificios, puede que incluso humanos.
 
-El lago es en realidad 2 elementales de agua (usar el del manual básico) que guardan la cueva. Fueron invocados hace siglos con una magia hoy desconocida. Solo atacarán a aquellos que no crean en Suc’Naath y, por tanto, no tengan su marca, es decir, tus schahriars. Una tirada de Notar durante el combate les dirá que solo ellos han sido atacados.
+El lago es en realidad 2 elementales de agua (usar el del manual básico) que guardan la cueva. Fueron invocados hace siglos con una magia hoy desconocida. Solo atacarán a aquellos que no crean en Waylunor y, por tanto, no tengan su marca, es decir, tus schahriars. Una tirada de Notar durante el combate les dirá que solo ellos han sido atacados.
 
 \sp
 
@@ -111,15 +111,15 @@ Esta habitación tiene una salida secreta al exterior. La idea ea usarla en caso
 
 Excavados en la pared hay huecos en los se debían guardar libros, objetos religioso/mágicos o productos alquímicos. Seguramente había algún tipo de mesa de trabajo en el centro donde los sacerdotes del culto hacían experimentos. El tiempo y los saqueadores han acabado con todo lo que pudiera haber aquí.
 
-#### Capilla de Suc’Naath (9)
+#### Capilla de Waylunor (9)
 
-En esta pequeña cavidad se guarda la estatua de Suc’Naath sobre un altar de piedra. La estatua, a pesar de ser piedra, cambia de forma cuando parpadeas y cualquiera que la examine deberá hacer una TPC d6.
+En esta pequeña cavidad se guarda la estatua de Waylunor sobre un altar de piedra. La estatua, a pesar de ser piedra, cambia de forma cuando parpadeas y cualquiera que la examine deberá hacer una TPC d6.
 
 Las caras desaparecen y aparecen cada vez que cierras los ojos y los vuelves a abrir. Si se falla la TPC podrás reconocer a familiares, amistades y seres queridos en general en las caras de la estatua.
 
 Una tirada de Notar -2 detectará que el altar se puede mover y deja un cubículo donde hay dos cuchillos rituales. Las hojas están inmaculadas, pero el mango está podrido y debería cambiarse. Serían dos jambias mágicas (+1 pelear/daño, daño mágico).
 
-Bajo ningún concepto Ziba y sus discípulos tocarán la estatua. Lo dejarán en manos de los schahriars. Ziba teme que tocarla active su esencia y sin el cometa suponga el fracaso de su plan de liberación de Suc’Naath.
+Bajo ningún concepto Ziba y sus discípulos tocarán la estatua. Lo dejarán en manos de los schahriars. Ziba teme que tocarla active su esencia y sin el cometa suponga el fracaso de su plan de liberación de Waylunor.
 
 
 ### Volviendo a Bagdad
@@ -130,23 +130,23 @@ Durante el camino de regreso a Bagdad podrán tratar de sonsacar a Ziba alguna d
 
 \sinc
 
-## El plan de la Mano Dorada
+## El plan de la Espiga Purpura
 
 \conc
 
-La Mano Dorada, ahora que tiene la estatua de Suc’Naath, necesita una forma de reunir las 3 partes de la esencia de Suc’Naath. La esencia genética de Ziba y la estatua debe poder llegar al espacio exterior hasta el cometa Aiin que según astrónomos como Mariam Al-Ijliya se acercará a la Tierra en los próximos meses.
+La Espiga Purpura, ahora que tiene la estatua de Waylunor, necesita una forma de reunir las 3 partes de la esencia de Waylunor. La esencia genética de Ziba y la estatua debe poder llegar al espacio exterior hasta el cometa Aiin que según astrónomos como Mariam Al-Ijliya se acercará a la Tierra en los próximos meses.
 
 El único método que Ziba sabe para viajar hasta el espacio es con una Ave Rokh, así que la idea es coger uno de huevo o cría y domesticarlo para poder usarlo de montura. Criarlo y domarlo serán un par de meses, momento en que el cometa Aiin llegará a la tierra.
 
 El día que el cometa sea visible, desde la cima del monte Ararat, Ziba se montará en su Rokh y tras salir de la atmósfera de la Tierra y encontrarse con el cometa se fusionará con él y junto con la estatua.
 
-Eso liberará a su señor de la maldición y dejará de ser un dios danzante de Azathoth. Ziba cree que se convertirá en un avatar de Suc’Naath y volverá a la Tierra con increíbles poderos para conquistarla y convertirla en su reino.
+Eso liberará a su señor de la maldición y dejará de ser un dios danzante de Azathoth. Ziba cree que se convertirá en un avatar de Waylunor y volverá a la Tierra con increíbles poderos para conquistarla y convertirla en su reino.
 
 ## Para hacer una tortilla hay que romper huevos
 
 **Comienzo:** Montes Elburz, al sur del Mar Caspio
 
-_Solo hay una manera de conseguir combinar los tres fragmentos de la esencia de Suc’Naath, que Ziba viaje por el espacio hasta el cometa Aiin con la estatua. Según las leyendas, solo hay un ser que pueda viajar hasta sol, un ave de Rokh. Pero para poder domarlo necesitan un huevo a punto de eclosionar y que lo primero que vea sea a su jinete, Ziba._
+_Solo hay una manera de conseguir combinar los tres fragmentos de la esencia de Waylunor, que Ziba viaje por el espacio hasta el cometa Aiin con la estatua. Según las leyendas, solo hay un ser que pueda viajar hasta sol, un ave de Rokh. Pero para poder domarlo necesitan un huevo a punto de eclosionar y que lo primero que vea sea a su jinete, Ziba._
 
 _Para ello deberán ir a las laderas de los montes Elburz y robar un huevo de Rokh sin que sus progenitores los maten._
 
@@ -312,7 +312,7 @@ Deberán visitar 5 picos de todo Oriente Medio y Norte y tomar una serie de medi
 
 Estos son los puntos donde deben tomar mediciones:
 
-* **Monte Ararat (5.137 m):** Es famoso porque se supone que es el lugar donde está el arca de Noé. Esta será al final la mejor ubicación y puedes dejarles explorar un poco para en el futuro tener alguna ventaja cuando intenten frustrar los planes de la Mano Dorada.
+* **Monte Ararat (5.137 m):** Es famoso porque se supone que es el lugar donde está el arca de Noé. Esta será al final la mejor ubicación y puedes dejarles explorar un poco para en el futuro tener alguna ventaja cuando intenten frustrar los planes de la Espiga Purpura.
 * **Damavand (5.610 m):** Tendrán que volver a los montes Elburz donde robaron el huevo de Rokh para ver este volcán inactivo.
 * **Mar Muerto (-435 m):** Este inmenso lago salado que está a 435 m por debajo del nivel del mar puede ser otro punto interesante. Quizás algún tipo de monstruosidad esté encerrado en su fondo.
 * **Monte Tubqal (4.191 m):** Es el pico más alto de la cordillera del Atlas y de todo el Norte de África. Tiene nieves perpetuas y la zona es famosa por haber muchas leyendas de quimeras y también avistamientos.
@@ -382,17 +382,17 @@ _El intento de asesinato por parte de Ziba de tus schahriars les ha tenido que d
 
 Tus schahriars han conseguido escapar de un intento de asesinato. La que creían su aliada ha resultado ser su verdugo. En este momento tiene dos opciones, desaparecer o investigar que quería realmente Ziba con todos estos extraños objetos.
 
-Si deciden desaparecer, deberás reconducirlos porque si no hacen anda Suc’Naath volverá a la Tierra y sembrará el Caos.
+Si deciden desaparecer, deberás reconducirlos porque si no hacen anda Waylunor volverá a la Tierra y sembrará el Caos.
 
 Quizás podrían hablar con el Giafar el visir si tienen contacto con él o buscar información en el pasillo prohibido de la Casa de la Sabiduría. Podrán o bien persuadir a Hunayn ibn Ishaq para que les deje entrar a fisgar en los libros o podrán forzar la cerradura y colarse dentro sin ser visto.
 
-Sea como fuera, terminarán averiguando la relación entre Ziba, la estatua del remolino, el meteorito y como necesita al Rokh para juntar las 3 esencias. Por suerte, conocen donde se harán los preparativos para despertar de su pesadilla a Suc’Naath. Así que deberán preparar el viaje al monte Ararat para evitar que Ziba cumpla sus planes.
+Sea como fuera, terminarán averiguando la relación entre Ziba, la estatua del remolino, el meteorito y como necesita al Rokh para juntar las 3 esencias. Por suerte, conocen donde se harán los preparativos para despertar de su pesadilla a Waylunor. Así que deberán preparar el viaje al monte Ararat para evitar que Ziba cumpla sus planes.
 
 ## A las estrellas
 
 **Comienzo:** En la cima del Monte Ararat (Montes Elburz)
 
-_Todo está preparado en la cima del monte Ararat. Ziba solo necesita que sea de noche y cuando el cometa Aiin sea visible, montar en su Rokh y, junto con la estatua, salir volando al espacio exterior. Cuando se acerque al cometa, se fusionarán las 3 esencias y Ziba se convertirá en el avatar de Suc’Naath para volver y hacer su voluntad en la Tierra._
+_Todo está preparado en la cima del monte Ararat. Ziba solo necesita que sea de noche y cuando el cometa Aiin sea visible, montar en su Rokh y, junto con la estatua, salir volando al espacio exterior. Cuando se acerque al cometa, se fusionarán las 3 esencias y Ziba se convertirá en el avatar de Waylunor para volver y hacer su voluntad en la Tierra._
 
 Si siguen las indicaciones que les dio Mariam, podrán encontrar en lugar desde donde Ziba partirá hacia el espacio exterior con el Rokh amaestrado. Tiene que partir al anochecer o el cometa se alejara de la tierra.
 
@@ -426,7 +426,7 @@ Si fallan una tirada de Notar, estarán sorprendidos. Ziba, lanzará hechizos of
 
 Si no vuelan o no tienen armas a distancia solo podrán atacar ganando la iniciativa a Rokh, esperar y atacar cuando pase cerca. Recuerda que está anocheciendo y eso afecta a la visibilidad en el combate.
 
-Para evitar que Suc’Naath sea liberado, pueden acabar con Ziba, con el Rokh o con la estatua.
+Para evitar que Waylunor sea liberado, pueden acabar con Ziba, con el Rokh o con la estatua.
 
 
 La estatua es prácticamente indestructible y de hecho, si alguien apunta sobre ella se verá afectado por su maldición y verá la cara de un ser querido sufriendo. Lo mejor sería derrotar al rokh o a Ziba.
@@ -435,7 +435,7 @@ La estatua es prácticamente indestructible y de hecho, si alguien apunta sobre 
 
 Si derrotan al rokh o a Ziba, el plan será frustrado. En el cielo se verá pasar el cometa para desaparecer de nuevo. Ahora deberán decidir que hacen con Ziba o el rokh si no están muertos.
 
-Ziba es muy peligrosa y a no ser que tengan alguna forma de encerrarla, terminará escapando de donde la encierren, jurando vengarse de los schahriars. Sea como sea, si Ziba desaparece, la Mano Dorada quedará descabezada y tardará muchos años en volver a estar a pleno funcionamiento.
+Ziba es muy peligrosa y a no ser que tengan alguna forma de encerrarla, terminará escapando de donde la encierren, jurando vengarse de los schahriars. Sea como sea, si Ziba desaparece, la Espiga Purpura quedará descabezada y tardará muchos años en volver a estar a pleno funcionamiento.
 
 El rokh está amaestrado y les obedece, pero no es algo que puedan meter en la ciudad. Pueden dejarlo en los Montes Elburz donde lo cazaron y volver a por él, si alguna vez lo necesitan. También sería un impresionante regalo para el Califa de Bagdad que desgraciadamente lo encerrará en su zoo.
 

@@ -2,15 +2,15 @@
 
 \sinc
 
-## Ziba Al-Alephi (comodín)
+## Amanda Limestone (comodín)
 
 \conc
 
-Ziba de Alepo desciende de una larga tradición de adoradoras de Suc’Naath. Su madre adoraba a Suc’Naath y su abuela antes que ella. Y todas ellas portaban la esencia de su divinidad, lo que las convertía en poderosas canalizadoras del poder mágico. La magia no solo es fuerte en su familia, también las riquezas, lo que permitieron pagar los mejores maestros y profesores.
+Amanda Limestone desciende de una larga tradición de adoradoras de Waylunor. Su madre adoraba a Waylunor y su abuela antes que ella. Y todas ellas portaban la esencia de su divinidad, lo que las convertía en poderosas canalizadoras del poder mágico. La magia no solo es fuerte en su familia, también las riquezas, lo que permitieron pagar los mejores maestros y profesores.
 
-Cuando su madre murió, toda la esencia se concentró en ella, ofreciéndole un gran poder mágico y la fortuna familiar. Con ello obtuvo todo lo necesario para liderar la Mano Dorada y embarcarla en la misión de liberar a Suc’Naath de la música infernal que hace que baile alrededor de Azathoth.
+Cuando su madre murió, toda la esencia se concentró en ella, ofreciéndole un gran poder mágico y la fortuna familiar. Con ello obtuvo todo lo necesario para liderar la Espiga Purpura y embarcarla en la misión de liberar a Waylunor de la música infernal que hace que baile alrededor de Azathoth.
 
-Ziba mantiene en secreto sus lazos con la Mano Dorada y mantiene una imagen pública de poderosa maga «bondadosa» y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
+Ziba mantiene en secreto sus lazos con la Espiga Purpura y mantiene una imagen pública de poderosa maga «bondadosa» y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
 
 Ziba quizás sea la maga más poderosa de todo Oriente Medio y si bien su poder no el comparable al Rey Suleimán puede vencer en combate mágico a humanos y yinns por igual.
 
@@ -20,7 +20,7 @@ Los recursos económicos de Ziba son inmensos. Domina el arte de la trasmutació
 * **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d8, Conocimientos Generales d12, Humanidades d8, Idioma Materno d10, Investigar d8, Medicina d6, Notar d4, Pelear d8, Persuadir d10, Saber de Solimán d12+1, Sigilo d6, Tácticas d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Desventajas:** Secreto (mayor, líder de la Mano Morada), Vengativa
-* **Ventajas:** Afinidad mágica, Canalización, Trasfondo arcano (Sihr), Esencia de Suc’Naath, Nuevos poderes x3, Puntos de poder x 2, Subidón de poder
+* **Ventajas:** Afinidad mágica, Canalización, Trasfondo arcano (Sihr), Esencia de Waylunor, Nuevos poderes x3, Puntos de poder x 2, Subidón de poder
 
 \sp
 
@@ -41,7 +41,7 @@ Abriza tenía un ejército de fiera y mortales amazonas y una de sus guardaespal
 
 Su madre se quedó embarazada y abandonó el ejército para criar a su hija. Su madre, Helena, la entreno en todas las artes de la guerra, pero la verdad que descuidó otras partes de su educación.
 
-Alura se tiró varios años como mercenaria al mejor postor hasta que se encontró con Ziba que la puso bajo su protección y la ha tratado como su hija y a la vez como su maestra asesina. Alura no es creyente de Suc’Naath, solo es leal a Ziba, por la que profesa verdadera devoción.
+Alura se tiró varios años como mercenaria al mejor postor hasta que se encontró con Ziba que la puso bajo su protección y la ha tratado como su hija y a la vez como su maestra asesina. Alura no es creyente de Waylunor, solo es leal a Ziba, por la que profesa verdadera devoción.
 
 Alura es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gran don para la táctica y las emboscadas. Sus puntos débiles que no tiene estudios, apenas conoce los números y no sabe leer ni escribir.
 
@@ -52,7 +52,7 @@ El otro punto débil es que tiene cero capacidades sociales. No sabe moverse ent
 * **Atributos:** Agilidad d12, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
 * **Habilidades:** Atletismo d12, Cabalgar d10, Conocimientos Generales d6, Disparar d10, Idioma materno d6, Notar d4, Pelear d12, Persuadir d4, Sigilo d12, Tácticas d10
 * **Paso:** 6; **Parada:** 9 (1); **Dureza:** 13/12 (4/3)
-* **Desventajas:** Secreto (asesina principal de la Mano Dorada de Suc’Naath)
+* **Desventajas:** Secreto (asesina principal de la Espiga Purpura de Waylunor)
 * **Ventajas:** Afinidad mágica, Ambidextro, Ataque repentino, Con un par, Bloqueo, Fornida, Frenesí, Resistencia mágica
 * **Equipo:** Cimitarra mágica +1/+1(FUE+d8+1), Katar (FUE+d6), Jawshan (+4 peto, +3 piernas y brazos), Chakram, Arco recurvo con 10 flechas
 

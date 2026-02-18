@@ -32,7 +32,7 @@ Los artistas suelen escoger a la gente más fanática de su arte. Si manejan las
 
 \sc
 
-![Simbolo de la Espiga Purpura](./images/espiga-purpura.png)
+![Simbolo de la Espiga Purpura](./images/mano-dorada.png)
 
 _Simbolo de la Espiga Purpura_
 

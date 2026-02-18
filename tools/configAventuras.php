@@ -3,9 +3,9 @@
 $tags = [
   'HTML' => '',
   'HASH' => date("YmdH"),
-  'TITLE' => "La Mano Dorada",
+  'TITLE' => "La Espiga Purpura",
   'SHORTDESCRIPTION' => 'Aventura para ¡Arrr! Cthulhu',
-  'DESCRIPTION' => "«La Mano Dorada» es una campaña para ¡Arrr! Cthulhu donde te enfrentaras a Suc’Naath y su culto de adoradores.",
+  'DESCRIPTION' => "«La Espiga Purpura» es una campaña para ¡Arrr! Cthulhu donde te enfrentaras a Waylunor y su culto de adoradores.",
   'VERSION' => "0.2",
   'LANZAMIENTO' => 'Mayo 2026',
   "AUTHOR" => "Jorge Monclús",

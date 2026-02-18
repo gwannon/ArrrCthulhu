@@ -1,4 +1,4 @@
-|11SucNaath.md|
+|11EspigaPurpura.md|
 
 ***
 
@@ -24,11 +24,11 @@
 
 Aventura para ¡Arrr! Cthulhu
 
-La Mano Dorada
+La Espiga Purpura
 
 Creado por [|AUTHOR|](|AUTHOR_URL|)
 
-«La Mano Dorada» es una campaña corta para ¡Arrr! Cthulhu donde tus jugadores deberán desbaratar los planes de los cultistas de La Mano Dorada para liberar a Suc’Naath en nuestro mundo.
+«La Espiga Purpura» es una campaña corta para ¡Arrr! Cthulhu donde tus jugadores deberán desbaratar los planes de los cultistas de La Espiga Purpura para liberar a Waylunor en nuestro mundo.
 
 Este suplemento contiene:
 
