@@ -210,3 +210,12 @@
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QLos serpientes huirán si la cosa se pone complicada para ellos.\\E$"}
 {"rule":"AGREEMENT_DET_GN","sentence":"^\\QCon los cuerpos de los dos serpientes o el testimonio de algún guerrero superviviente del combate podrán demostrar toda su historia y el poblado no creerá que han matado a sus dirigentes.\\E$"}
 {"rule":"PREP_VERB","sentence":"^\\QEn realidad ninguno de los dos sabe hacer los polvos alucinógenos para la cohoba y tendrán que hacer un ritual falso.\\E$"}
+{"rule":"BILLION","sentence":"^\\QDurante billones años, nada pudo hacer hasta que una coincidencia cósmica hizo que pudiera dejar parte de su mente en un cometa lanzado a velocidad casi de la luz por una explosión de una supernova.\\E$"}
+{"rule":"APARTE","sentence":"^\\QEsta glándula, si se la sobreexcita, permite ver la realidad como es y acceder a parte de las energías ocultas del mundo a las que no podemos acceder los simples mortales.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QLos adeptos se suelen marcar el cuerpo con escarificaciones en forma de XXX, simulando el XXX que representa a Waylunor.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QActualmente, Amanda quizás sea una de las magas más poderosa de todo el Caribe y si bien su poder no el comparable a Hernando de Villalba puede vencer en combate mágico a todo aquel que se enfrente.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QSe dice que los portadores de su esencia mental pueden realizar grandes prodigios mágicos gracias a su desarrollada glándula pineal, pero Waylunor suele exigir un tributo en dolor y cordura.\\E$"}
+{"rule":"FORM","sentence":"^\\QTras bastantes intentos infructuosos por sus seguidores, Waylunor ha llegado a la conclusión de que la única forma de liberarse es que el propio Nyarlathotep lo libere de su trampa.\\E$"}
+{"rule":"FORM","sentence":"^\\QLos primeros seguidores, sin los conocimientos necesarios de astrofísica para entender la forma de existencia de su divinidad, lo convirtieron en un diseño geométrico espigado de color púrpura y empezaron a llamarse la Espiga Purpura.\\E$"}
+{"rule":"FORM","sentence":"^\\QEn la actualidad la secta está muy activa, buscando una forma de contactar con Nyarlathotep y hace un trato con él.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEsto es gracias a la labor de su mejor he único agente en la zona hasta ahora, Doriqué.\\E$"}

@@ -579,11 +579,6 @@ section h1 + .saltopagina:after {
     bottom: calc(50vh + 2px);
   }
 
-  #aventuras section:nth-of-type(8) .saltopagina:before,
-  #aventuras section:nth-of-type(8) .saltopagina.even:before { 
-    display: none;
-  }
-
   section:nth-of-type(8) .saltopagina:before,
   section:nth-of-type(8) .saltopagina.even:before {
     height: 62vh;
@@ -593,6 +588,13 @@ section h1 + .saltopagina:after {
     background-color: var(--green-cthulhu);
   }
 
+  #aventuras section:nth-of-type(8) .saltopagina:before,
+  #aventuras section:nth-of-type(8) .saltopagina.even:before { 
+    content: "E \A p \A í \A l \A o \A g \A o ";
+    height: 23vh;
+    bottom: calc(77vh + 2px);
+  }
+
   section:nth-of-type(9) .saltopagina:before,
   section:nth-of-type(9) .saltopagina.even:before {
     height: 75vh;
@@ -600,6 +602,11 @@ section h1 + .saltopagina:after {
     content: "Q \A u \A i \A é \A n \A \A e \A s \A \A q \A u \A i \A é \A n \A \A e \A n \A \A e \A l \A \A C \A a \A r \A i \A b \A e ";
     white-space: pre;
     background-color: var(--green-deepone);
+  }
+
+  #aventuras section:nth-of-type(9) .saltopagina:before,
+  #aventuras section:nth-of-type(9) .saltopagina.even:before { 
+    display: none;
   }
 
   section:nth-of-type(10) .saltopagina:before,

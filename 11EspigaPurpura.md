@@ -34,7 +34,7 @@ De hecho, solo los más poderosos de los seguidores de Waylunor sabe que Nyarlat
 
 ### Liberar a Waylunor
 
-Tras bastantes intentos infructuosos por sus seguidores, Waylunor ha llegado a la conclusión de que la única forma de liberarse es que el propio Nyarlathotep lo libere de su trampa. No hay más fuerzas cósmicas en el universo «conocido» que puedan liberar a Waylunor. Así pues, la única forma de escapar es llegar a un trato o engañar al dios cósmico de la mentira y eso es casi imposible.
+Tras bastantes intentos infructuosos por sus seguidores, Waylunor ha llegado a la conclusión de que la única forma de liberarse es que el propio Nyarlathotep lo libere de su trampa. No hay más fuerzas cósmicas en el universo «conocido» que puedan liberar a Waylunor. Así pues, la única manera de escapar es llegar a un trato o engañar al dios cósmico de la mentira y eso es casi imposible.
 
 Si Waylunor fuera liberado en la tierra, el agujero negro que se formaría atraparía todo el sistema solar siendo no solo la perdición de la raza humana, sino también de otras razas como la serpigente o los yuggothianos. Con lo cual, ambos son grupos que pueden tener interés en que fracasen los intentos de liberación de su señor de la Espiga Púrpura.
 
@@ -60,7 +60,7 @@ Si manejan las energías de la magia, buscan a las personas que portan la esenci
 
 Por último, los asesinos de la secta suelen buscar pillastres que viven en la calle sin familia a los que infundir sus macabras creencias y sus terribles destrezas.
 
-![Simbolo de la Espiga Púrpura](./images/espiga-purpura.png)
+![Símbolo de la Espiga Púrpura](./images/espiga-purpura.png)
 
 _Símbolo de la Espiga Púrpura_
 
@@ -88,15 +88,15 @@ Como ya hemos dicho, la Espiga Púrpura de Waylunor es un culto muy pequeño, pe
 
 * **Amanda Limestone,** poderosa maga y suma sacerdotisa de la Espiga Púrpura de Waylunor. Como única portadora de la esencia de Waylunor es la más adecuada para liderar el culto. Además, esa esencia hace que sus poderes mágicos sean muy superiores a otros magos de la secta.
 * **Noor,** guardaespaldas de Amanda Limestone y asesina principal de la Espiga Púrpura. Es la mano ejecutora de Amanda y solo responde ante ella.
-* **Doriqué,** era el principal agente de la Espiga Púrpura en la zona, hasta que Amanda ha movido muchos activos de la secta en el Caribe. Es un mago de discreto poder, pero tremendo carisma y sabe moverse entre los diferentes poderes que conviven en las en estos mares, tanto normales como sobrenaturales.
+* **Doriqué,** era el principal agente de la Espiga Púrpura en la zona, hasta que Amanda ha movido muchos activos de la secta en el Caribe. Es un mago de discreto poder, pero tremendo carisma y sabe moverse entre los diferentes poderes que conviven en estos mares, tanto normales como sobrenaturales.
 * **XXX,** XXX
 * **XXX,** XXX
+
+\sp
 
 ### Lugares de culto y refugios
 
 La Espiga Púrpura nunca han tenido nunca la necesidad de tener refugios, ya que gran parte de sus cultistas eran ricos y poderosos, con grandes mansiones donde hacer sus reuniones y con dinero suficiente para callar bocas indiscretas.
-
-\sp
 
 En la actualidad no tiene ningún lugar de culto fijo en el Caribe, pero Amanda Limestone está planeando montar un pequeño refugio en la ciudad de Kingston, ya que sospecha que el libro que necesita para invocar a Nyarlathotep se encuentra hundida en alguna de las mansiones de la parte sumergida de la próxima Port Royale.
 
@@ -113,3 +113,11 @@ Muchas veces estos rituales hacer caer inconscientes al practicante. En esos mom
 Fuera de estos rituales que les ponen en comunión con su dios, las pocas reuniones presenciales que hacen son más de reuniones donde compartir secretos mágicos, hablar de la ciencia profana que tanto les gusta y comentar sus trucos de asesino.
 
 Los adeptos se suelen marcar el cuerpo con escarificaciones en forma de XXX, simulando el XXX que representa a Waylunor.
+
+\sp
+
+### La hermandad del Sargazo y la Espiga Púrpura 
+
+La Espiga Púrpura es un actor reciben llegado al escenario sobrenatural que es el Caribe. Es por ello que es un desconocido para la hermandad.
+
+Sin embargo, la Espiga Púrpura si conoce a las fuerzas que luchan en el Caribe, Hernando de Villalba y la Orden del Gran Cthulhu y Mary Read y su hermandad de piratas. Esto es gracias a la labor de su mejor he único agente en la zona hasta ahora, Doriqué.

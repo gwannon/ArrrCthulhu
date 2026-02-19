@@ -8,23 +8,23 @@
 
 Amanda Limestone desciende de una larga tradición de adoradoras de Waylunor. Su madre adoraba a Waylunor y su abuela antes que ella. Y todas ellas portaban la esencia de su divinidad, lo que las convertía en poderosas canalizadoras del poder mágico. La magia no solo es fuerte en su familia, también las riquezas, lo que permitieron pagar los mejores maestros y profesores.
 
-Cuando su madre murió, toda la esencia se concentró en ella, ofreciéndole un gran poder mágico y la fortuna familiar. Con ello obtuvo todo lo necesario para liderar la Espiga Púrpura y embarcarla en la misión de liberar a Waylunor de la música infernal que hace que baile alrededor de Azathoth.
+Cuando su madre murió, toda la esencia se concentró en ella, ofreciéndole un gran poder mágico y la fortuna familiar. Con ello obtuvo todo lo necesario para liderar la Espiga Púrpura y embarcarla en la misión de liberar a Waylunor de su trampa gravitacional cósmica.
 
-Amanda mantiene en secreto sus lazos con la Espiga Púrpura y mantiene una imagen pública de poderosa maga «bondadosa» y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
+Amanda mantiene en secreto sus lazos con la Espiga Púrpura y mantiene una imagen pública de XXX y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
 
-Amanda quizás sea la maga más poderosa de todo Oriente Medio y si bien su poder no el comparable al Rey Suleimán puede vencer en combate mágico a humanos y yinns por igual.
+Actualmente, Amanda quizás sea una de las magas más poderosa de todo el Caribe y si bien su poder no el comparable a Hernando de Villalba puede vencer en combate mágico a todo aquel que se enfrente.
 
-Los recursos económicos de Amanda son inmensos. Domina el arte de la trasmutación y tiene gran una cantidad de azufre rojo, con lo que hacer oro a partir de plomo es muy fácil. Si gastase todo su azufre rojo podría tener su propia montaña de oro.
+Los recursos económicos de Amanda son inmensos. XXX
 
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d6, Vigor d8
 * **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d8, Conocimientos Generales d12, Humanidades d8, Idioma Inglés d10, Idioma Persa d10, Investigar d8, Medicina d6, Notar d4, Pelear d8, Persuadir d10, Saber de Solimán d12+1, Sigilo d6, Tácticas d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
-* **Desventajas:** Secreto (mayor, líder de la Mano Morada), Vengativa
-* **Ventajas:** Afinidad mágica, Canalización, Trasfondo arcano (Hechicería primigenia), Esencia de Waylunor, Nuevos poderes x3, Puntos de poder x 2, Subidón de poder
+* **Desventajas:** Secreto (mayor, líder de la Espiga Púrpura de Waylunor), Vengativa
+* **Ventajas:** Afinidad mágica, Asquerosamente Rica, Canalización, Trasfondo arcano (Hechicería primigenia), Esencia de Waylunor, Nuevos poderes x3, Puntos de poder x2, Subidón de poder
 
 \sp
 
-* **Hechizos:** 36 PP, Bola de fuego, Círculo de detección, Encerrar en una botella, Hisopar, Ojos de Serpiente, Interpretar sueños, ¡Sésamo, ábrete!, Torbellino, Transformar en animal
+* **Hechizos:** 36 PP, Incineración de Cthugha, XXX, Exorcizar, XXX, Hipnosis, Augurios del soñador, Toque de Waylunor, Don de Ithaqua, XXX
 * **Equipo:** Ropajes caros, XXX
 
 **Sugerencia de interpretación:** Como Amanda debes exudar confianza y seguridad, ni la más mínima señal de duda debe cruzar tu semblante. Sabes en todo momento lo que hay que hacer y cómo hacerlo y si no lo sabes, tomas una decisión con la convicción de que no habrá el mínimo fallo. Esta confianza te viene de saber que estás tocada por la divinidad y es por ese aplomo que tus seguidores y seguidoras irán y harán lo que les digas. Toca cambia cuando pierdes el control y la ira y la sed de sangre se apodera de ti. En esos momentos solo puedes gritar maldiciones y destilar odio a tus enemigos.
@@ -57,3 +57,25 @@ El otro punto débil es que tiene cero capacidades sociales. No sabe moverse ent
 \sp
 
 **Sugerencia de interpretación:** No pillas ni las ironías, ni lo dobles sentidos, ni nada por el estilo. Eres bastante literal interpretando los comentarios de la gente de tu alrededor. Amanda lo sabe y actúa en consecuencia, pero el resto de las personas no y eso hace que terminen alejándote de ti porque no saben por dónde vas a salir.
+
+\sinc
+
+## Doriqué (comodín)
+
+\conc
+
+Doriqué era el principal agente de la Espiga Púrpura en el Caribe, hasta que Amanda Limestone ha movido muchos activos de la secta a esta parte del mundo.
+
+Es un mago de discreto poder, pero tremendo carisma y sabe moverse entre los diferentes poderes que conviven en estos mares, tanto normales como sobrenaturales.
+
+XXX
+
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Idioma Persa dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Desventajas:** XXX
+* **Ventajas:** XXX, Trasfondo arcano (Hechicería primigenia)
+* **Hechizos:** XXX PP, XXX
+* **Equipo:** XXX
+
+**Sugerencia de interpretación:** XXX

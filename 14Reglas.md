@@ -72,7 +72,7 @@ Caminar sobre las aguas permite al objetivo caminar por superficies líquidas co
 
 |Poder|Hechizo|Ornamento|
 |---|---|---|
-|Abrir puertas|XXX|XXX|
+|Abrir puertas|Toque de Waylunor|XXX|
 |Abrir puertas|XXX|XXX|
 |Caminar sobre las aguas|XXX|XXX|
 |Caminar sobre las aguas|XXX|XXX|
