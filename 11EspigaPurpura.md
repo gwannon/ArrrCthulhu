@@ -74,7 +74,7 @@ Los primeros seguidores, sin los conocimientos necesarios de astrofísica para e
 
 XXX
 
-Esto ha llevado a que la lengua vehicular de la secta en la que se comunican entre ellos sea el persa, que se enseña a todos los iniciados.
+Esto ha llevado a que la **lengua vehicular de la secta** en la que se comunican entre ellos sea el **persa**, que se enseña a todos los iniciados.
 
 ### Situación actual
 

@@ -17,7 +17,7 @@ Amanda quizás sea la maga más poderosa de todo Oriente Medio y si bien su pode
 Los recursos económicos de Amanda son inmensos. Domina el arte de la trasmutación y tiene gran una cantidad de azufre rojo, con lo que hacer oro a partir de plomo es muy fácil. Si gastase todo su azufre rojo podría tener su propia montaña de oro.
 
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d6, Vigor d8
-* **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d8, Conocimientos Generales d12, Humanidades d8, Idioma Materno d10, Investigar d8, Medicina d6, Notar d4, Pelear d8, Persuadir d10, Saber de Solimán d12+1, Sigilo d6, Tácticas d8
+* **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d8, Conocimientos Generales d12, Humanidades d8, Idioma Inglés d10, Idioma Persa d10, Investigar d8, Medicina d6, Notar d4, Pelear d8, Persuadir d10, Saber de Solimán d12+1, Sigilo d6, Tácticas d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Desventajas:** Secreto (mayor, líder de la Mano Morada), Vengativa
 * **Ventajas:** Afinidad mágica, Canalización, Trasfondo arcano (Hechicería primigenia), Esencia de Waylunor, Nuevos poderes x3, Puntos de poder x 2, Subidón de poder
@@ -25,7 +25,7 @@ Los recursos económicos de Amanda son inmensos. Domina el arte de la trasmutaci
 \sp
 
 * **Hechizos:** 36 PP, Bola de fuego, Círculo de detección, Encerrar en una botella, Hisopar, Ojos de Serpiente, Interpretar sueños, ¡Sésamo, ábrete!, Torbellino, Transformar en animal
-* **Equipo:** Ropajes caros, jambia de plata con incrustaciones de oro para rituales (FUE+d6), 1d4 dosis de bang cretense, 5d10 dosis de azufre rojo, 1d6 dosis de sangre de Fénix, por lo menos dos grimorios al azar
+* **Equipo:** Ropajes caros, XXX
 
 **Sugerencia de interpretación:** Como Amanda debes exudar confianza y seguridad, ni la más mínima señal de duda debe cruzar tu semblante. Sabes en todo momento lo que hay que hacer y cómo hacerlo y si no lo sabes, tomas una decisión con la convicción de que no habrá el mínimo fallo. Esta confianza te viene de saber que estás tocada por la divinidad y es por ese aplomo que tus seguidores y seguidoras irán y harán lo que les digas. Toca cambia cuando pierdes el control y la ira y la sed de sangre se apodera de ti. En esos momentos solo puedes gritar maldiciones y destilar odio a tus enemigos.
 
@@ -48,7 +48,7 @@ Noor es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gran
 El otro punto débil es que tiene cero capacidades sociales. No sabe moverse entre sus congéneres y muchas de las aptitudes sociales básicas se le escapan debido a que en su niñez no pudo ponerlas en práctica.
 
 * **Atributos:** Agilidad d12, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
-* **Habilidades:** Atletismo d12, Cabalgar d10, Conocimientos Generales d6, Disparar d10, Idioma turco d6, Idioma inglés d4, Notar d4, Pelear d12, Persuadir d4, Sigilo d12, Tácticas d10
+* **Habilidades:** Atletismo d12, Cabalgar d10, Conocimientos Generales d6, Disparar d10, Idioma Inglés d4, Idioma Persa d4, Idioma Turco d6, Notar d4, Pelear d12, Persuadir d4, Sigilo d12, Tácticas d10
 * **Paso:** 6; **Parada:** 9 (1); **Dureza:** 8
 * **Desventajas:** XXX, Secreto (asesina principal de la Espiga Púrpura de Waylunor)
 * **Ventajas:** Afinidad mágica, Ambidextro, Trasfondo arcano (Hechicería primigenia), Ataque repentino, Con un par, Bloqueo, Fornida, Frenesí, Resistencia mágica
