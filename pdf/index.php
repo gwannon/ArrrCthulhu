@@ -1,8 +1,8 @@
 <?php
 
 date_default_timezone_set("Europe/Madrid");
-
-$filename = __DIR__."/../ArrrCthulhu.pdf";
+if(isset($_REQUEST['aventuras']) && $_REQUEST['aventuras'] == 'yes') $filename = __DIR__."/../ArrrCthulhuAventuras.pdf";
+else $filename = __DIR__."/../ArrrCthulhu.pdf";
 
 //Define header information
 header('Content-Description: File Transfer');
@@ -36,6 +36,7 @@ fwrite($f, date("Y-m-d H:i:s")."|".
   $ip."|".
   $_SERVER['HTTP_REFERER']."|".
   $_SERVER['HTTP_ORIGIN']."|".
+  basename($filename)."|".
   (isset($json->status) && $json->status == 'success' ? $json->country."|".$json->city : "")."|".
   (isset($json->status) && $json->status == 'success' ? (isset($json->isp) ? $json->isp : "")." / ".(isset($json->org) ? $json->org : "")." / ".(isset($json->as) ? $json->as : "") : "")."|".
   $_SERVER['HTTP_USER_AGENT']."\n");
