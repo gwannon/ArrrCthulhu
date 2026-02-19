@@ -74,6 +74,8 @@ Los primeros seguidores, sin los conocimientos necesarios de astrofísica para e
 
 XXX
 
+Esto ha llevado a que la lengua vehicular de la secta en la que se comunican entre ellos sea el persa, que se enseña a todos los iniciados.
+
 ### Situación actual
 
 En la actualidad la secta está muy activa, buscando una forma de contactar con Nyarlathotep y hace un trato con él. XXX
