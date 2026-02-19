@@ -10,11 +10,11 @@ Amanda Limestone desciende de una larga tradición de adoradoras de Waylunor. Su
 
 Cuando su madre murió, toda la esencia se concentró en ella, ofreciéndole un gran poder mágico y la fortuna familiar. Con ello obtuvo todo lo necesario para liderar la Espiga Púrpura y embarcarla en la misión de liberar a Waylunor de la música infernal que hace que baile alrededor de Azathoth.
 
-Ziba mantiene en secreto sus lazos con la Espiga Púrpura y mantiene una imagen pública de poderosa maga «bondadosa» y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
+Amanda mantiene en secreto sus lazos con la Espiga Púrpura y mantiene una imagen pública de poderosa maga «bondadosa» y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
 
-Ziba quizás sea la maga más poderosa de todo Oriente Medio y si bien su poder no el comparable al Rey Suleimán puede vencer en combate mágico a humanos y yinns por igual.
+Amanda quizás sea la maga más poderosa de todo Oriente Medio y si bien su poder no el comparable al Rey Suleimán puede vencer en combate mágico a humanos y yinns por igual.
 
-Los recursos económicos de Ziba son inmensos. Domina el arte de la trasmutación y tiene gran una cantidad de azufre rojo, con lo que hacer oro a partir de plomo es muy fácil. Si gastase todo su azufre rojo podría tener su propia montaña de oro.
+Los recursos económicos de Amanda son inmensos. Domina el arte de la trasmutación y tiene gran una cantidad de azufre rojo, con lo que hacer oro a partir de plomo es muy fácil. Si gastase todo su azufre rojo podría tener su propia montaña de oro.
 
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d6, Vigor d8
 * **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d8, Conocimientos Generales d12, Humanidades d8, Idioma Materno d10, Investigar d8, Medicina d6, Notar d4, Pelear d8, Persuadir d10, Saber de Solimán d12+1, Sigilo d6, Tácticas d8
@@ -27,7 +27,7 @@ Los recursos económicos de Ziba son inmensos. Domina el arte de la trasmutació
 * **Hechizos:** 36 PP, Bola de fuego, Círculo de detección, Encerrar en una botella, Hisopar, Ojos de Serpiente, Interpretar sueños, ¡Sésamo, ábrete!, Torbellino, Transformar en animal
 * **Equipo:** Ropajes caros, jambia de plata con incrustaciones de oro para rituales (FUE+d6), 1d4 dosis de bang cretense, 5d10 dosis de azufre rojo, 1d6 dosis de sangre de Fénix, por lo menos dos grimorios al azar
 
-**Sugerencia de interpretación:** Como Ziba debes exudar confianza y seguridad, ni la más mínima señal de duda debe cruzar tu semblante. Sabes en todo momento lo que hay que hacer y cómo hacerlo y si no lo sabes, tomas una decisión con la convicción de que no habrá el mínimo fallo. Esta confianza te viene de saber que estás tocada por la divinidad y es por ese aplomo que tus seguidores y seguidoras irán y harán lo que les digas. Toca cambia cuando pierdes el control y la ira y la sed de sangre se apodera de ti. En esos momentos solo puedes gritar maldiciones y destilar odio a tus enemigos.
+**Sugerencia de interpretación:** Como Amanda debes exudar confianza y seguridad, ni la más mínima señal de duda debe cruzar tu semblante. Sabes en todo momento lo que hay que hacer y cómo hacerlo y si no lo sabes, tomas una decisión con la convicción de que no habrá el mínimo fallo. Esta confianza te viene de saber que estás tocada por la divinidad y es por ese aplomo que tus seguidores y seguidoras irán y harán lo que les digas. Toca cambia cuando pierdes el control y la ira y la sed de sangre se apodera de ti. En esos momentos solo puedes gritar maldiciones y destilar odio a tus enemigos.
 
 \sinc
 
@@ -41,7 +41,7 @@ Abriza tenía un ejército de fiera y mortales amazonas y una de sus guardaespal
 
 Su madre se quedó embarazada y abandonó el ejército para criar a su hija. Su madre, Helena, la entreno en todas las artes de la guerra, pero la verdad que descuidó otras partes de su educación.
 
-Alura se tiró varios años como mercenaria al mejor postor hasta que se encontró con Ziba que la puso bajo su protección y la ha tratado como su hija y a la vez como su maestra asesina. Alura no es creyente de Waylunor, solo es leal a Ziba, por la que profesa verdadera devoción.
+Alura se tiró varios años como mercenaria al mejor postor hasta que se encontró con Amanda que la puso bajo su protección y la ha tratado como su hija y a la vez como su maestra asesina. Alura no es creyente de Waylunor, solo es leal a Amanda, por la que profesa verdadera devoción.
 
 Alura es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gran don para la táctica y las emboscadas. Sus puntos débiles que no tiene estudios, apenas conoce los números y no sabe leer ni escribir.
 
