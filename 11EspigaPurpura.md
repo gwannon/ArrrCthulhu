@@ -30,11 +30,11 @@ En la Tierra es servido por un pequeño culto conocido como la **Espiga Púrpura
 
 Además del culpable de su destierro y aprisionamiento, Nyarlathotep es su carcelero, vigilando en todo momento que no escape de tu trampa infinita y frustrando desde las sombras de todos sus intentos de fuga.
 
-De hecho, solo los más poderosos de los seguidores de Waylunor sabe que Nyarlathotep es el culpable del encierro de la  deidad a la que adoran y que está detrás del fracaso de varios intentos por liberarlo de razas sintientes de adoradores de todo universo.
+De hecho, solo los más poderosos de los seguidores de Waylunor sabe que Nyarlathotep es el culpable del encierro de la deidad a la que adoran y que el dios de las muchas máscaras está detrás del fracaso de varios intentos de razas sintientes de adoradores de todo universo por liberarlo.
 
 ### Liberar a Waylunor
 
-Tras bastantes intentos infructuosos por sus seguidores, Waylunor ha llegado a la conclusión de que la única forma de liberarse es que el propio Nyarlathotep lo libere de su trampa. No hay más fuerzas cósmicas en el universo «conocido» que puedan liberar a Waylunor. Así pues, la única forma es engañar al dios cósmico de la mentira y eso es casi imposible.
+Tras bastantes intentos infructuosos por sus seguidores, Waylunor ha llegado a la conclusión de que la única forma de liberarse es que el propio Nyarlathotep lo libere de su trampa. No hay más fuerzas cósmicas en el universo «conocido» que puedan liberar a Waylunor. Así pues, la única forma de escapar es llegar a un trato o engañar al dios cósmico de la mentira y eso es casi imposible.
 
 Si Waylunor fuera liberado en la tierra, el agujero negro que se formaría atraparía todo el sistema solar siendo no solo la perdición de la raza humana, sino también de otras razas como la serpigente o los yuggothianos. Con lo cual, ambos son grupos que pueden tener interés en que fracasen los intentos de liberación de su señor de la Espiga Púrpura.
 
@@ -85,15 +85,18 @@ Esto hace que la Espiga Púrpura esté moviéndose frenéticamente para XXX
 Como ya hemos dicho, la Espiga Púrpura de Waylunor es un culto muy pequeño, pero muy poderoso, y es, en parte, gracias a que solo los mejores entran en ella, después de haber demostrado con creces su fidelidad y fanatismo hacia el culto y a Waylunor.
 
 * **Amanda Limestone,** poderosa maga y suma sacerdotisa de la Espiga Púrpura de Waylunor. Como única portadora de la esencia de Waylunor es la más adecuada para liderar el culto. Además, esa esencia hace que sus poderes mágicos sean muy superiores a otros magos de la secta.
-* **Alura,** amazona, guardaespaldas de Amanda Limestone y asesina principal de la Espiga Púrpura de Waylunor. Es la mano ejecutora de Amanda, fanática de la Espiga Púrpura y adicta a Amanda.
+* **Noor,** guardaespaldas de Amanda Limestone y asesina principal de la Espiga Púrpura. Es la mano ejecutora de Amanda y solo responde ante ella.
+* **Doriqué,** era el principal agente de la Espiga Púrpura en la zona, hasta que Amanda ha movido muchos activos de la secta en el Caribe. Es un mago de discreto poder, pero tremendo carisma y sabe moverse entre los diferentes poderes que conviven en las en estos mares, tanto normales como sobrenaturales.
+* **XXX,** XXX
+* **XXX,** XXX
 
 ### Lugares de culto y refugios
 
 La Espiga Púrpura nunca han tenido nunca la necesidad de tener refugios, ya que gran parte de sus cultistas eran ricos y poderosos, con grandes mansiones donde hacer sus reuniones y con dinero suficiente para callar bocas indiscretas.
 
-En la actualidad no tiene ningún lugar de culto fijo en el Caribe, pero Amanda Limestone está planeando montar un pequeño refugio en la ciudad de Kingston, ya que sospecha que el libro que necesita para invocar a Nyarlathotep se encuentra hundida en alguna de las mansiones de la parte sumergida de la próxima Port Royale.
-
 \sp
+
+En la actualidad no tiene ningún lugar de culto fijo en el Caribe, pero Amanda Limestone está planeando montar un pequeño refugio en la ciudad de Kingston, ya que sospecha que el libro que necesita para invocar a Nyarlathotep se encuentra hundida en alguna de las mansiones de la parte sumergida de la próxima Port Royale.
 
 Antes de estos hechos tampoco eran de mucha ceremonia y rito, quedaban en posadas perdidas en la nada para hacer sus extraños ritos de XXX lejos de miradas indiscretas.
 

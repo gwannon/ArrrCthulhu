@@ -29,31 +29,31 @@ Los recursos económicos de Amanda son inmensos. Domina el arte de la trasmutaci
 
 **Sugerencia de interpretación:** Como Amanda debes exudar confianza y seguridad, ni la más mínima señal de duda debe cruzar tu semblante. Sabes en todo momento lo que hay que hacer y cómo hacerlo y si no lo sabes, tomas una decisión con la convicción de que no habrá el mínimo fallo. Esta confianza te viene de saber que estás tocada por la divinidad y es por ese aplomo que tus seguidores y seguidoras irán y harán lo que les digas. Toca cambia cuando pierdes el control y la ira y la sed de sangre se apodera de ti. En esos momentos solo puedes gritar maldiciones y destilar odio a tus enemigos.
 
+\sp
+
 \sinc
 
-## Alura (comodín)
+## Noor (comodín)
 
 \conc
 
-Alura es hija de las amazonas de la reina Abriza, hija del rey griego Hardobios y señora de Kaissaria en Chipre.
+Noor es una huérfana de las calles de Constantinopla (actual Estambul - Turquía). Fue XXX por un asesino de la Espiga Púrpura y entrenada en las artes del asesinato y el credo de la secta. 
 
-Abriza tenía un ejército de fiera y mortales amazonas y una de sus guardaespaldas personales era la madre de Alura.
+Noor fue perfeccionando sus habilidades y subiendo dentro de la Espiga Púrpura hasta que llamo la atención de Amanda Limestone que la puso bajo su mando. Desde entonces la ha tratado como su hija y a la vez como su maestra asesina. 
 
-Su madre se quedó embarazada y abandonó el ejército para criar a su hija. Su madre, Helena, la entreno en todas las artes de la guerra, pero la verdad que descuidó otras partes de su educación.
+A pesar de llevar toda su vida rodeada de creyentes de Waylunor, Noor no es creyente, solo es leal a Amanda, por la que profesa verdadera devoción.
 
-Alura se tiró varios años como mercenaria al mejor postor hasta que se encontró con Amanda que la puso bajo su protección y la ha tratado como su hija y a la vez como su maestra asesina. Alura no es creyente de Waylunor, solo es leal a Amanda, por la que profesa verdadera devoción.
-
-Alura es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gran don para la táctica y las emboscadas. Sus puntos débiles que no tiene estudios, apenas conoce los números y no sabe leer ni escribir.
-
-\sp
+Noor es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gran don para la táctica y las emboscadas. Sus puntos débiles son que no tiene estudios, apenas conoce los números y no sabe leer ni escribir. Nadie se preocupó de darle esos conocimientos y Amanda ha intentado varias veces enseñarle sin mucho éxito.
 
 El otro punto débil es que tiene cero capacidades sociales. No sabe moverse entre sus congéneres y muchas de las aptitudes sociales básicas se le escapan debido a que en su niñez no pudo ponerlas en práctica.
 
 * **Atributos:** Agilidad d12, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
-* **Habilidades:** Atletismo d12, Cabalgar d10, Conocimientos Generales d6, Disparar d10, Idioma materno d6, Notar d4, Pelear d12, Persuadir d4, Sigilo d12, Tácticas d10
+* **Habilidades:** Atletismo d12, Cabalgar d10, Conocimientos Generales d6, Disparar d10, Idioma turco d6, Idioma inglés d4, Notar d4, Pelear d12, Persuadir d4, Sigilo d12, Tácticas d10
 * **Paso:** 6; **Parada:** 9 (1); **Dureza:** 8
-* **Desventajas:** Secreto (asesina principal de la Espiga Púrpura de Waylunor)
+* **Desventajas:** XXX, Secreto (asesina principal de la Espiga Púrpura de Waylunor)
 * **Ventajas:** Afinidad mágica, Ambidextro, Trasfondo arcano (Hechicería primigenia), Ataque repentino, Con un par, Bloqueo, Fornida, Frenesí, Resistencia mágica
 * **Equipo:** XXX
 
-**Sugerencia de interpretación:** No pillas ni las ironías, ni lo dobles sentidos, ni nada por el estilo. Eres bastante literal interpretando los comentarios de la gente de tu alrededor. Aamanda lo sabe y actúa en consecuencia, pero el resto de las personas no y eso hace que terminen alejándote de ti porque no saben por dónde vas a salir.
+\sp
+
+**Sugerencia de interpretación:** No pillas ni las ironías, ni lo dobles sentidos, ni nada por el estilo. Eres bastante literal interpretando los comentarios de la gente de tu alrededor. Amanda lo sabe y actúa en consecuencia, pero el resto de las personas no y eso hace que terminen alejándote de ti porque no saben por dónde vas a salir.
