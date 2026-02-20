@@ -397,7 +397,8 @@ section h1 + .saltopagina:after {
 
 /* ----------- Indice -------------------- */
 .likeH1,
-.likeH2 {
+.likeH2,
+.likeH3 {
   display: block;
   cursor: pointer;
   margin: 0 0 1px 0;
@@ -416,8 +417,13 @@ section h1 + .saltopagina:after {
   padding: 0 0 0 15px;
 }
 
+.likeH3 {
+  padding: 0 0 0 30px;
+}
+
 .likeH1 span,
-.likeH2 span {
+.likeH2 span,
+.likeH3 span {
   display: none;
   float: right;
   margin-right: 5px;

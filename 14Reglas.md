@@ -6,7 +6,7 @@
 
 \conc
 
-XXX
+Las siguientes ventajas extienden las ventajas de ¡Arrr! Cthulhu y pueden usarse tanto en esta campaña como en otras aventuras de esta ambientación.
 
 ### Esencia de Waylunor
 
@@ -34,7 +34,7 @@ XXX
 
 \conc
 
-Nuevas entidades cośmicas incognoscibles, suponen nuevos poderes y nuevos ornamentos para poderes ya conocidos
+Nuevas entidades cósmicas incognoscibles, suponen nuevos poderes y nuevos ornamentos para poderes ya conocidos
 
 ### Abrir puertas
 
@@ -72,13 +72,15 @@ Caminar sobre las aguas permite al objetivo caminar por superficies líquidas co
 
 |Poder|Hechizo|Ornamento|
 |---|---|---|
-|Abrir puertas|Toque de Waylunor|XXX|
-|Abrir puertas|XXX|XXX|
+|Abrir puertas|Toque de Waylunor|Como un agujero de gusano espacial sintiente, Waylunor puede ser invocado para atravesar puertas cerradas.|
+|Abrir puertas|¡Ábrete, sésamo!|Invocando la fórmula mágica de los cuentos de la Mil y una noches puedes abrir puertas a tu paso.|
 |Caminar sobre las aguas|Paso de Ayida-Wedo|El mago colocar unas bolas de algodón entre sus dedos invocando el poder de la serpiente arcoíris Ayida-Wedo para poder moverse por encima del agua como ella.|
 |Caminar sobre las aguas|XXX|XXX|
+|Captura|Trampa de gravedad|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para atrapar a un enemigo.|
+|Destierro|Hambriento agujero negro|Waylunor te concede sus poderes invocando un agujero negro que traga a tu enemigo y que puede que vuelva por un agujero blanco.|
+|Desvío|Protección de Waylunor|Un manto de gravedad te recubre haciendo que todo ataque se vea afectado por dicha gravedad y tenga dificultad en impactarte.|
+|Oscuridad|XXX|XXX|
 |Proyectil|El peso Waylunor|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para golpear con fuerza gravitacional a un enemigo.|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
+|Protección ambiental|XXX|XXX|
 
 \conc

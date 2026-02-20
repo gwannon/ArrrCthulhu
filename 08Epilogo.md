@@ -92,7 +92,7 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 
 \conc
 
-Damos las gracias y el crédito apropiado a estos increíbles artistas que nos han permitido hacer uso de su arte en este juego al distribuirlo en con licencia Creative Commons:
+Damos las gracias y el crédito apropiado a estos increíbles artistas que nos han permitido hacer uso de su arte en este juego al distribuirlo con licencia Creative Commons:
 
 * [portada.webp](https://www.deviantart.com/artofragnar/art/A-pirate-night-618741314) por [ArtofRagnar](https://www.deviantart.com/artofragnar)
 * [caribe.webp](https://www.deviantart.com/skavenzverov/art/Into-The-Deep-325731829) por [SkavenZverov](https://www.deviantart.com/skavenzverov)

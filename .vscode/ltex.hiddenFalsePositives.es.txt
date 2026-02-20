@@ -219,3 +219,5 @@
 {"rule":"FORM","sentence":"^\\QLos primeros seguidores, sin los conocimientos necesarios de astrofísica para entender la forma de existencia de su divinidad, lo convirtieron en un diseño geométrico espigado de color púrpura y empezaron a llamarse la Espiga Purpura.\\E$"}
 {"rule":"FORM","sentence":"^\\QEn la actualidad la secta está muy activa, buscando una forma de contactar con Nyarlathotep y hace un trato con él.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEsto es gracias a la labor de su mejor he único agente en la zona hasta ahora, Doriqué.\\E$"}
+{"rule":"MAS","sentence":"^\\Qtortuga.jpg por glazyrin\nembarcaciones.webp por AhmetCanKahram\npiratas.webp por AhmetCanKahram\nhechiceria.webp por ReyeD33\nplaya-doncella.jpg por AhmetCanKahraman\nepilogo.webp por ArtofRagnar\nencuentros-mas.webp por ThemeFinland\\E$"}
+{"rule":"DIACRITICS_00","sentence":"^\\Qtortuga.jpg por glazyrin\nembarcaciones.webp por AhmetCanKahram\npiratas.webp por AhmetCanKahram\nhechiceria.webp por ReyeD33\nplaya-doncella.jpg por AhmetCanKahraman\nepilogo.webp por ArtofRagnar\nencuentros-mas.webp por ThemeFinland\\E$"}

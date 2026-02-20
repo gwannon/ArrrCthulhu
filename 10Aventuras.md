@@ -26,7 +26,7 @@
 
 \conc
 
-Damos las gracias y el crédito apropiado a estos increíbles artistas que nos han permitido hacer uso de su arte en este juego al distribuirlo en con licencia Creative Commons:
+Damos las gracias y el crédito apropiado a estos increíbles artistas que nos han permitido hacer uso de su arte en esta aventura al distribuirlo con licencia Creative Commons:
 
 * [tortuga.jpg](https://www.deviantart.com/glazyrin/art/Tortuga-149523283) por [glazyrin](https://www.deviantart.com/glazyrin)
 * [embarcaciones.webp](https://www.deviantart.com/ahmetcankahraman/art/Chase-735144464) por [AhmetCanKahram](https://www.deviantart.com/ahmetcankahraman)
@@ -35,6 +35,20 @@ Damos las gracias y el crédito apropiado a estos increíbles artistas que nos h
 * [playa-doncella.jpg](https://www.deviantart.com/ahmetcankahraman/art/Farewell-738974463) por [AhmetCanKahraman](https://www.deviantart.com/ahmetcankahraman)
 * [epilogo.webp](https://www.deviantart.com/artofragnar/art/Caves-505169856) por [ArtofRagnar](https://www.deviantart.com/artofragnar)
 * [encuentros-mas.webp](https://www.deviantart.com/themefinland/art/Magical-rupture-commission-950188160) por [ThemeFinland](https://www.deviantart.com/themefinland)
+
+\sinc
+
+## Notas del autor
+
+\conc
+
+### Si eres un fascista, háztelo mirar
+
+Estas palabras de Sirio Sesenra me representan y por eso las transcribo aquí.
+
+> Si eres una persona fascista, homófoba, lesbófoba, tránsfoba o racista te suplico que dejes este libro en el primer lugar que encuentres a mano y te vayas a buscar alguna consulta psicológica donde te ayuden a ser buena persona, alejándote del rol hasta lograr ese objetivo. **> **Por:** [Sirio Sesenra](https://bsky.app/profile/ssesenra.bsky.social) - Técnicas, consejos y trucos para jugar a rol 
+
+\sc
 
 ***
 
