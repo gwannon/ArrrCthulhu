@@ -118,6 +118,10 @@ Los adeptos se suelen marcar el cuerpo con escarificaciones en forma de XXX, sim
 
 ### La hermandad del Sargazo y la Espiga Púrpura 
 
-La Espiga Púrpura es un actor reciben llegado al escenario sobrenatural que es el Caribe. Es por ello que es un desconocido para la hermandad.
+La Espiga Púrpura es un actor recien llegado al escenario sobrenatural que es el Caribe. Es por ello que **es un desconocido** para la Orden del Gran Cthulhu y la hermandad del Sargazo.
 
-Sin embargo, la Espiga Púrpura si conoce a las fuerzas que luchan en el Caribe, Hernando de Villalba y la Orden del Gran Cthulhu y Mary Read y su hermandad de piratas. Esto es gracias a la labor de su mejor he único agente en la zona hasta ahora, Doriqué.
+Pero la Orden tiene alguna ventaja, ya que ambos se ha encontrado incluso enfrentado en otros partes del mundo con la Espiga Púrpura.
+
+Sin embargo, la Espiga Púrpura si conoce a las fuerzas que luchan en el Caribe. Conocen a todas a la perfección, a Hernando de Villalba y la Orden del Gran Cthulhu y a Mary Read y su hermandad de piratas, incluso intuyen muchas de las tramas desarrolladas por los yuggothianos en estos mares. Todo esto es gracias a la labor de su mejor he único agente en la zona hasta ahora, Doriqué.
+
+Doriqué es un mediocre mago pero un excepcional espía y agente encubierto potenciado con poderes mágicos. A diferencia de otros taumaturgos del culto de Waylunor, Doriqué no ha buscado grandes poderes mágicos, sino hechizos y conocimientos arcanos que le conviertan en mejor agente infiltrado y espía.

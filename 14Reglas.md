@@ -74,7 +74,7 @@ Caminar sobre las aguas permite al objetivo caminar por superficies líquidas co
 |---|---|---|
 |Abrir puertas|Toque de Waylunor|XXX|
 |Abrir puertas|XXX|XXX|
-|Caminar sobre las aguas|XXX|XXX|
+|Caminar sobre las aguas|Paso de Ayida-Wedo|El mago colocar unas bolas de algodón entre sus dedos invocando el poder de la serpiente arcoíris Ayida-Wedo para poder moverse por encima del agua como ella.|
 |Caminar sobre las aguas|XXX|XXX|
 |Proyectil|El peso Waylunor|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para golpear con fuerza gravitacional a un enemigo.|
 |XXX|XXX|XXX|

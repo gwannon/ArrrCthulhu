@@ -66,7 +66,11 @@ El otro punto débil es que tiene cero capacidades sociales. No sabe moverse ent
 
 Doriqué era el principal agente de la Espiga Púrpura en el Caribe, hasta que Amanda Limestone ha movido muchos activos de la secta a esta parte del mundo.
 
-Es un mago de discreto poder, pero tremendo carisma y sabe moverse entre los diferentes poderes que conviven en estos mares, tanto normales como sobrenaturales.
+XXX
+
+Doriqué es un mediocre mago pero un excepcional espía y agente encubierto potenciado con poderes mágicos. A diferencia de otros taumaturgos del culto de Waylunor, Doriqué no ha buscado grandes poderes mágicos, sino hechizos y conocimientos arcanos que le conviertan en mejor agente infiltrado y espía.
+
+A todo esto se le suma un tremendo carisma y «savoir faire» para moverse entre los diferentes poderes que conviven en estos mares, tanto normales como sobrenaturales. 
 
 XXX
 
