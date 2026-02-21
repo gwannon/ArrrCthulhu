@@ -58,11 +58,11 @@ Estas palabras de Sirio Sesenra me representan y por eso las transcribo aquí.
 
 Aventura para ¡Arrr! Cthulhu
 
-La Espiga Púrpura
+Contra la Espiga Púrpura
 
 Creado por [|AUTHOR|](|AUTHOR_URL|)
 
-«La Espiga Púrpura» es una campaña corta para ¡Arrr! Cthulhu donde tus jugadores deberán desbaratar los planes de los cultistas de La Espiga Púrpura para liberar a Waylunor en nuestro mundo.
+«Contra la Espiga Púrpura» es una campaña corta para ¡Arrr! Cthulhu donde tus jugadores deberán desbaratar los planes de los cultistas de la Espiga Púrpura para liberar a Waylunor en nuestro mundo.
 
 Este suplemento contiene:
 

@@ -68,7 +68,7 @@ El símbolo de la Espiga Púrpura es una representación fractal simplificada qu
 
 \sp
 
-Los primeros seguidores, sin los conocimientos necesarios de astrofísica para entender la forma de existencia de su divinidad, lo convirtieron en un diseño geométrico espigado de color púrpura y empezaron a llamarse la Espiga Purpura.
+Los primeros seguidores, sin los conocimientos necesarios de astrofísica para entender la forma de existencia de su divinidad, lo convirtieron en un diseño geométrico espigado de color púrpura y empezaron a llamarse la Espiga Púrpura.
 
 ### Historia
 

@@ -1,4 +1,4 @@
-# La Espiga Púrpura **y otras historias salvajes**
+# Contra la Espiga Púrpura **y otras historias salvajes**
 
 XXX
 

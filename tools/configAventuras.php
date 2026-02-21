@@ -3,10 +3,10 @@
 $tags = [
   'HTML' => '',
   'HASH' => date("YmdH"),
-  'TITLE' => "La Espiga Púrpura",
+  'TITLE' => "Contra la Espiga Púrpura",
   'SHORTDESCRIPTION' => 'Aventura para ¡Arrr! Cthulhu',
-  'DESCRIPTION' => "«La Espiga Púrpura» es una campaña para ¡Arrr! Cthulhu donde te enfrentarás a Waylunor y su culto de adoradores.",
-  'VERSION' => "0.2",
+  'DESCRIPTION' => "«Contra la Espiga Púrpura» es una campaña para ¡Arrr! Cthulhu donde te enfrentarás a Waylunor y su culto de adoradores.",
+  'VERSION' => "0.3",
   'LANZAMIENTO' => 'Mayo 2026',
   "AUTHOR" => "Jorge Monclús",
   "AUTHOR_URL" => 'https://gwannon.com',

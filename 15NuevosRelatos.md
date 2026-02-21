@@ -4,7 +4,7 @@
 
 \conc
 
-En este capítulo encontrarás 3 historias salvajes de 1 o 2 sesiones que podrá usar independientemente o meter dentro de la trama principal de «La Espiga Púrpura» o de otras campañas de ¡Arrr! Cthulhu.
+En este capítulo encontrarás 3 historias salvajes de 1 o 2 sesiones que podrá usar independientemente o meter dentro de la trama principal de «Contra la Espiga Púrpura» o de otras campañas de ¡Arrr! Cthulhu.
 
 ### Nunca me habían dado todo
 

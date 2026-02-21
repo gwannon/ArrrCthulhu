@@ -24,7 +24,7 @@ Se dice que los portadores de su linaje pueden realizar grandes prodigios mágic
 
 \conc
 
-XXX
+Las siguientes desventajas extienden las desventajas de ¡Arrr! Cthulhu y pueden usarse tanto en esta campaña como en otras aventuras de esta ambientación.
 
 \sp
 
@@ -78,9 +78,9 @@ Caminar sobre las aguas permite al objetivo caminar por superficies líquidas co
 |Caminar sobre las aguas|XXX|XXX|
 |Captura|Trampa de gravedad|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para atrapar a un enemigo.|
 |Destierro|Hambriento agujero negro|Waylunor te concede sus poderes invocando un agujero negro que traga a tu enemigo y que puede que vuelva por un agujero blanco.|
-|Desvío|Protección de Waylunor|Un manto de gravedad te recubre haciendo que todo ataque se vea afectado por dicha gravedad y tenga dificultad en impactarte.|
+|Desvío|Defensa de Waylunor|Un manto de gravedad te recubre haciendo que todo ataque se vea afectado por dicha gravedad y tenga dificultad en impactarte.|
 |Oscuridad|XXX|XXX|
 |Proyectil|El peso Waylunor|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para golpear con fuerza gravitacional a un enemigo.|
-|Protección ambiental|XXX|XXX|
+|Protección ambiental|Protección de Waylunor|XXX|
 
 \conc

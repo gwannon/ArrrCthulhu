@@ -14,10 +14,10 @@ Amanda mantiene en secreto sus lazos con la Espiga Púrpura y mantiene una image
 
 Actualmente, Amanda quizás sea una de las magas más poderosa de todo el Caribe y si bien su poder no el comparable a Hernando de Villalba puede vencer en combate mágico a todo aquel que se enfrente.
 
-Los recursos económicos de Amanda son inmensos. XXX
+Los recursos económicos de Amanda son inmensos. Su noble familia en su Inglaterra natal tiene inmensas cantidades de dinero fruto del comercio internacional y una flotilla de barcos que surcan los 7 mares. Es por ello que no tiene mucho aprecio por los piratas, ya que sus actividades le producen perdidas.
 
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d6, Vigor d8
-* **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d8, Conocimientos Generales d12, Humanidades d8, Idioma Inglés d10, Idioma Persa d10, Investigar d8, Medicina d6, Notar d4, Pelear d8, Persuadir d10, Saber de Solimán d12+1, Sigilo d6, Tácticas d8
+* **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d8, Conocimientos Generales d12, Humanidades d8, Idioma cthulhunés d8, Idioma Inglés d10, Idioma Persa d10, Investigar d8, Medicina d6, Mitos de Cthulhu d10, Notar d4, Pelear d8, Persuadir d10, Saber de Solimán d12+1, Sigilo d6, Tácticas d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Desventajas:** Secreto (mayor, líder de la Espiga Púrpura de Waylunor), Vengativa
 * **Ventajas:** Afinidad mágica, Asquerosamente Rica, Canalización, Trasfondo arcano (Hechicería primigenia), Esencia de Waylunor, Nuevos poderes x3, Puntos de poder x2, Subidón de poder
@@ -48,7 +48,7 @@ Noor es una gran combatiente, diestra, fuerte, rápida y resistente. Con un gran
 El otro punto débil es que tiene cero capacidades sociales. No sabe moverse entre sus congéneres y muchas de las aptitudes sociales básicas se le escapan debido a que en su niñez no pudo ponerlas en práctica.
 
 * **Atributos:** Agilidad d12, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
-* **Habilidades:** Atletismo d12, Cabalgar d10, Conocimientos Generales d6, Disparar d10, Idioma Inglés d4, Idioma Persa d4, Idioma Turco d6, Notar d4, Pelear d12, Persuadir d4, Sigilo d12, Tácticas d10
+* **Habilidades:** Atletismo d12, Cabalgar d10, Conocimientos Generales d6, Disparar d10, Idioma Inglés d4, Idioma Persa d4, Idioma Turco d6, Mitos de Cthulhu d4, Notar d4, Pelear d12, Persuadir d4, Sigilo d12, Tácticas d10
 * **Paso:** 6; **Parada:** 9 (1); **Dureza:** 8
 * **Desventajas:** XXX, Secreto (asesina principal de la Espiga Púrpura de Waylunor)
 * **Ventajas:** Afinidad mágica, Ambidextro, Trasfondo arcano (Hechicería primigenia), Ataque repentino, Con un par, Bloqueo, Fornida, Frenesí, Resistencia mágica
@@ -75,7 +75,7 @@ A todo esto se le suma un tremendo carisma y «savoir faire» para moverse entre
 XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma Inglés dXXX, Idioma Persa dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma criollo dXXX, Idioma cthulhunés d6, Idioma Inglés dXXX, Idioma Persa dXXX, Mitos de Cthulhu dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX, Trasfondo arcano (Hechicería primigenia)
