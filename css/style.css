@@ -475,7 +475,8 @@ section h1 + .saltopagina:after {
   }
 
   .likeH1 span,
-  .likeH2 span {
+  .likeH2 span,
+  .likeH3 span {
     display: inline-block;
   }
 

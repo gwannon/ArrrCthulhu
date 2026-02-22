@@ -16,6 +16,14 @@ Se dice que los portadores de su linaje pueden realizar grandes prodigios mágic
 
 > Los negativos por heridas se restan el doble al gasto de PP del lanzamiento de hechizos los hechizos. Si tiene 3 heridas y, por tanto, un negativo de -3, lanzar un hechizo que gasta 8 PP solo te cuesta 2 P, ya que te quitas 6 PP por el negativo de heridas.
 
+\sc
+
+### Herencia profunda
+
+Por tus venas corre sangre de profundos, pero está tan diluida que solo han dejado en tu cuerpo parte de su resistencia primigenia. Puede que tengas alguno otra señal de tu herencia como pequeñas membranas interdigitales, piel escamosa, ojos saltones, cola vestigial, etc.
+
+> No te cansas por mucho esfuerzo que haga en las condiciones que sean, sin casi agua, bajo un sol de justicia, etc. Puedes repetir todas las tiradas de Vigor para evitar puntos de fatiga.
+
 \sp
 
 \sinc
@@ -25,6 +33,32 @@ Se dice que los portadores de su linaje pueden realizar grandes prodigios mágic
 \conc
 
 Las siguientes desventajas extienden las desventajas de ¡Arrr! Cthulhu y pueden usarse tanto en esta campaña como en otras aventuras de esta ambientación.
+
+### Glándula pineal hiperdesarrollada (mayor)
+
+Tu glándula pineal está demasiado desarrollada y es capaz de entrar en contacto con la esencia de Waylunor, incluso sin quererlo tú o el propio Waylunor. Recibes los mensajes y los sueños que Waylunor envía otros de sus adoradores.
+
+> Siempre que te duermas sin tener benis, tendrás unas horribles pesadillas que no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una noche entera teniendo un beni y, por tanto, sin pesadillas. El gran problema es que esos sueños obtendrás información importante entre la Espiga Púrpura y Waylunor. Si se descubriera esa capacidad tu vida estaría en riesgo y podrías acabar muerto a manos de los asesinos de la secta.
+
+\sc
+
+Esta desventaja es parecida a la «La llamada de Cthulhu», pero relacionada con el dios Waylunor. Si se tiene «La llamada de Cthulhu» no se puede seleccionar esta desventaja y viceversa.
+
+### Trastorno mental: Fobia social (mayor/menor)
+
+La fobia social, conocido también como trastorno de ansiedad social (TAS), es un trastorno de ansiedad caracterizado por un miedo persistente a una o más situaciones sociales por temor a que resulten embarazosas.
+
+Dar discursos en público, participar en concursos, bailar en público, etc. se vuelven tareas muy complicadas, aunque tampoco llevas bien las reuniones sociales en las que tendrá que relacionarse (fiestas, eventos, etc.) o los encuentros inesperados con conocidos, familiares, amigos, etc.
+
+Si crees que pega en la historia, puedes otorgar esta desventaja a cualquier tirada de trastorno mental en el que salga como resultado una Fobia.
+
+\sp
+
+El Caribe no está muy poblado, lo cual hace que las situaciones de fobia social no sean muy normales. Pero muchas de las ciudades tiene una altísima densidad de población y los viajes en barco suelen ser largas temporadas en espacios pequeños con mucha gente por metro cuadrado.
+
+> **No puedes gastar benis cuando estás rodeado de demasiada gente** observando y juzgando lo que haces. Menor supone grandes reuniones de gente, como romerías, misas, juicios, mercados y ferias. Mayor supone que reuniones de personas mucho más pequeñas como tripulaciones de un barco, partidas de batú, danzas vudú. Seguirás pudiendo usar tus benis en peleas, escaramuzas y batallas y cualquier situación peligrosa independientemente de la cantidad de combatientes.
+
+\sc
 
 \sp
 
@@ -75,12 +109,21 @@ Caminar sobre las aguas permite al objetivo caminar por superficies líquidas co
 |Abrir puertas|Toque de Waylunor|Como un agujero de gusano espacial sintiente, Waylunor puede ser invocado para atravesar puertas cerradas.|
 |Abrir puertas|¡Ábrete, sésamo!|Invocando la fórmula mágica de los cuentos de la Mil y una noches puedes abrir puertas a tu paso.|
 |Caminar sobre las aguas|Paso de Ayida-Wedo|El mago colocar unas bolas de algodón entre sus dedos invocando el poder de la serpiente arcoíris Ayida-Wedo para poder moverse por encima del agua como ella.|
-|Caminar sobre las aguas|XXX|XXX|
+|Caminar sobre las aguas|Don de Dagón|Este primigenio otorga al hechicero la capacidad de andar sobre las aguas aumentando el tamaño de sus pies y dotandolos de membranas interdigitales.|
 |Captura|Trampa de gravedad|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para atrapar a un enemigo.|
 |Destierro|Hambriento agujero negro|Waylunor te concede sus poderes invocando un agujero negro que traga a tu enemigo y que puede que vuelva por un agujero blanco.|
 |Desvío|Defensa de Waylunor|Un manto de gravedad te recubre haciendo que todo ataque se vea afectado por dicha gravedad y tenga dificultad en impactarte.|
-|Oscuridad|XXX|XXX|
+|Oscuridad|Penumbra de Waylunor|Waylunor otorga al mago la habilidad de atrapar la luz como un agujero negro y crear oscuridad.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|Hechizo|Ornamento|
+|---|---|---|
 |Proyectil|El peso Waylunor|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para golpear con fuerza gravitacional a un enemigo.|
-|Protección ambiental|Protección de Waylunor|XXX|
+|Protección ambiental|Protección de Waylunor|Waylunor otorga al brujo parte de su esencia y obtiene la capacidad para sobrevivir en el espacio como vacío, frío espacial o el calor de un sol.|
 
 \conc

@@ -20,10 +20,10 @@ Los recursos económicos de Amanda son inmensos. Su noble familia en su Inglater
 * **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d8, Conocimientos Generales d12, Humanidades d8, Idioma cthulhunés d8, Idioma Inglés d10, Idioma Persa d10, Investigar d8, Medicina d6, Mitos de Cthulhu d10, Notar d4, Pelear d8, Persuadir d10, Saber de Solimán d12+1, Sigilo d6, Tácticas d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Desventajas:** Secreto (mayor, líder de la Espiga Púrpura de Waylunor), Vengativa
-* **Ventajas:** Afinidad mágica, Asquerosamente Rica, Canalización, Trasfondo arcano (Hechicería primigenia), Esencia de Waylunor, Nuevos poderes x3, Puntos de poder x2, Subidón de poder
 
 \sp
 
+* **Ventajas:** Afinidad mágica, Asquerosamente Rica, Canalización, Trasfondo arcano (Hechicería primigenia), Esencia de Waylunor, Nuevos poderes x3, Puntos de poder x2, Subidón de poder
 * **Hechizos:** 36 PP, Incineración de Cthugha, XXX, Exorcizar, XXX, Hipnosis, Augurios del soñador, Toque de Waylunor, Don de Ithaqua, XXX
 * **Equipo:** Ropajes caros, XXX
 
@@ -76,6 +76,26 @@ XXX
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma criollo dXXX, Idioma cthulhunés d6, Idioma Inglés dXXX, Idioma Persa dXXX, Mitos de Cthulhu dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Desventajas:** XXX
+* **Ventajas:** XXX, Trasfondo arcano (Hechicería primigenia)
+* **Hechizos:** XXX PP, XXX
+* **Equipo:** XXX
+
+**Sugerencia de interpretación:** XXX
+
+\sp
+
+\sinc
+
+## Leo Morgane (comodín)
+
+\conc
+
+XXX
+
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma criollo dXXX, Idioma cthulhunés d6, Idioma Francés dXXX, Idioma Inglés dXXX, Idioma Persa dXXX, Mitos de Cthulhu dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX, Trasfondo arcano (Hechicería primigenia)

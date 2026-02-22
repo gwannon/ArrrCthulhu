@@ -221,3 +221,5 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEsto es gracias a la labor de su mejor he único agente en la zona hasta ahora, Doriqué.\\E$"}
 {"rule":"MAS","sentence":"^\\Qtortuga.jpg por glazyrin\nembarcaciones.webp por AhmetCanKahram\npiratas.webp por AhmetCanKahram\nhechiceria.webp por ReyeD33\nplaya-doncella.jpg por AhmetCanKahraman\nepilogo.webp por ArtofRagnar\nencuentros-mas.webp por ThemeFinland\\E$"}
 {"rule":"DIACRITICS_00","sentence":"^\\Qtortuga.jpg por glazyrin\nembarcaciones.webp por AhmetCanKahram\npiratas.webp por AhmetCanKahram\nhechiceria.webp por ReyeD33\nplaya-doncella.jpg por AhmetCanKahraman\nepilogo.webp por ArtofRagnar\nencuentros-mas.webp por ThemeFinland\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder: 2 PP\nDistancia:\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QExperimentado\nPuntos de poder: 2\nDistancia:\\E$"}
