@@ -8,7 +8,13 @@
 
 Las siguientes ventajas extienden las ventajas de ¡Arrr! Cthulhu y pueden usarse tanto en esta campaña como en otras aventuras de esta ambientación.
 
+Estas nuevas ventajas sobrenaturales suponen que en algún momento un primigenio o dios exterior dejo su esencia en tu estirpe, es por ello que son excluyentes en ti, esto también afecta a las desventajas.
+
+Si tu línea de sangre está tocada por Waylunor es casi imposible que tengas herencia profunda o que sufras la llamada de Cthulhu.
+
 ### Esencia de Waylunor
+
+**Requisitos:** Novato
 
 Parte de la esencia de Waylunor ha sido transmitida genéticamente durante eones a través de razas pre-humanas y humanas, principalmente en las tierras regadas por el Tigris y el Éufrates, lo que conocemos como Mesopotamia.
 
@@ -16,13 +22,27 @@ Se dice que los portadores de su linaje pueden realizar grandes prodigios mágic
 
 > Los negativos por heridas se restan el doble al gasto de PP del lanzamiento de hechizos los hechizos. Si tiene 3 heridas y, por tanto, un negativo de -3, lanzar un hechizo que gasta 8 PP solo te cuesta 2 P, ya que te quitas 6 PP por el negativo de heridas.
 
-\sc
-
 ### Herencia profunda
+
+**Requisitos:** Novato
 
 Por tus venas corre sangre de profundos, pero está tan diluida que solo han dejado en tu cuerpo parte de su resistencia primigenia. Puede que tengas alguno otra señal de tu herencia como pequeñas membranas interdigitales, piel escamosa, ojos saltones, cola vestigial, etc.
 
 > No te cansas por mucho esfuerzo que haga en las condiciones que sean, sin casi agua, bajo un sol de justicia, etc. Puedes repetir todas las tiradas de Vigor para evitar puntos de fatiga.
+
+\sp
+
+### Progenie de una máscara
+
+**Requisitos:** Novato
+
+Las máscaras son los diferentes avatares del dios Nyarlathotep. Estos avatares a veces tienen forma humana o casi humana y suelen dejar descendencia. Normalmente la descendencia es abominable y horrible, pero algunas veces pueden pasar con humanos y llevar una vida normal dentro del caos que ser progenie de Nyarlathotep.
+
+Con las generaciones la esencia del dios se diluye, pero deja una marca. Como dios embaucador, su progenie se caracteriza por tener un increíble carisma para engañar, manipular e intimidar a cualquier criatura sintiente.
+
+La maldición que te sigue es que los tratos que hagas casi siempre suelen acabar de alguna forma mal para la otra parte y con el tiempo familia, amigos o sicarios vuelven para buscar justicia, venganza o recuperar perdidas. 
+
+> La progenie de una máscara obtiene +2 a sus tiradas de Persuadir e Intimidar. Sus capacidades de persuasión, manipulación o intimidación son tan increíbles que no importa que no hablen el mismo idioma o que sean razas extraterrestres con mentes alienígenas como los LLoigor o los Mi-Go.
 
 \sp
 
@@ -34,15 +54,7 @@ Por tus venas corre sangre de profundos, pero está tan diluida que solo han dej
 
 Las siguientes desventajas extienden las desventajas de ¡Arrr! Cthulhu y pueden usarse tanto en esta campaña como en otras aventuras de esta ambientación.
 
-### Glándula pineal hiperdesarrollada (mayor)
-
-Tu glándula pineal está demasiado desarrollada y es capaz de entrar en contacto con la esencia de Waylunor, incluso sin quererlo tú o el propio Waylunor. Recibes los mensajes y los sueños que Waylunor envía otros de sus adoradores.
-
-> Siempre que te duermas sin tener benis, tendrás unas horribles pesadillas que no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una noche entera teniendo un beni y, por tanto, sin pesadillas. El gran problema es que esos sueños obtendrás información importante entre la Espiga Púrpura y Waylunor. Si se descubriera esa capacidad tu vida estaría en riesgo y podrías acabar muerto a manos de los asesinos de la secta.
-
-\sc
-
-Esta desventaja es parecida a la «La llamada de Cthulhu», pero relacionada con el dios Waylunor. Si se tiene «La llamada de Cthulhu» no se puede seleccionar esta desventaja y viceversa.
+**Recuerda:** Los trastornos mentales y la salud mental representada en este suplemento son solo un juego, pero en la vida real debes tratar con respecto y empatia este tipo de enfermedades.
 
 ### Trastorno mental: Fobia social (mayor/menor)
 
@@ -50,15 +62,21 @@ La fobia social, conocido también como trastorno de ansiedad social (TAS), es u
 
 Dar discursos en público, participar en concursos, bailar en público, etc. se vuelven tareas muy complicadas, aunque tampoco llevas bien las reuniones sociales en las que tendrá que relacionarse (fiestas, eventos, etc.) o los encuentros inesperados con conocidos, familiares, amigos, etc.
 
-Si crees que pega en la historia, puedes otorgar esta desventaja a cualquier tirada de trastorno mental en el que salga como resultado una Fobia.
-
-\sp
+Si crees que pega en la historia, puedes otorgar esta desventaja a cualquier tirada de trastorno mental en el que salga como resultado una Fobia (aunque no sea una fobia como tal).
 
 El Caribe no está muy poblado, lo cual hace que las situaciones de fobia social no sean muy normales. Pero muchas de las ciudades tiene una altísima densidad de población y los viajes en barco suelen ser largas temporadas en espacios pequeños con mucha gente por metro cuadrado.
 
 > **No puedes gastar benis cuando estás rodeado de demasiada gente** observando y juzgando lo que haces. Menor supone grandes reuniones de gente, como romerías, misas, juicios, mercados y ferias. Mayor supone que reuniones de personas mucho más pequeñas como tripulaciones de un barco, partidas de batú, danzas vudú. Seguirás pudiendo usar tus benis en peleas, escaramuzas y batallas y cualquier situación peligrosa independientemente de la cantidad de combatientes.
 
-\sc
+\sp
+
+### Glándula pineal hiperdesarrollada (mayor)
+
+Tu glándula pineal está demasiado desarrollada y es capaz de entrar en contacto con la esencia de Waylunor, incluso sin quererlo tú o el propio Waylunor. Recibes los mensajes y los sueños que Waylunor envía otros de sus adoradores.
+
+Esta desventaja es parecida a la «La llamada de Cthulhu», pero relacionada con el dios Waylunor. Si se tiene «La llamada de Cthulhu» no se puede seleccionar esta desventaja y viceversa.
+
+> Siempre que te duermas sin tener benis, tendrás unas horribles pesadillas que no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una noche entera teniendo un beni y, por tanto, sin pesadillas. El gran problema es que esos sueños obtendrás información importante entre la Espiga Púrpura y Waylunor. Si se descubriera esa capacidad tu vida estaría en riesgo y podrías acabar muerto a manos de los asesinos de la secta.
 
 \sp
 

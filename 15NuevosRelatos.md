@@ -71,3 +71,13 @@ XXX
 XXX
 
 > _**Recompensa extra de cordura (+1):** Ayudar a gente desvalida reconforta el alma, sobre todo si de paso disfrutas de su sencilla vida. Si encima detienes una plaga que podría haber acabado con todo ser humano en la isla te puede ayudar, el bienestar mental que puedes conseguir es impagable._
+
+### Regreso a la isla de Tekeli-li
+
+**Comienzo:** XXX
+
+> XXX
+
+XXX
+
+\sc

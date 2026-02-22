@@ -82,7 +82,7 @@ Los primeros seguidores, sin los conocimientos necesarios de astrofísica para e
 
 Waylunor lleva con nosotros desde que los primeros vertebrados desarrollaron la glándula pineal, pero no sería hasta las primeras civilizaciones mesopotámicas que el cometa de Waylunor volvió a pasar cerca de la Tierra.
 
-Hacia el 5500 a.C. el cometa que hace miles de millones de años había dejado en la Tierra la esencia de Waylunor volvió a pasar. Entonces el dios primordial descubrió que podía interactuar con la humanidad a través de la glándula pineal que había hecho evolucionar en los seres vivos de la Tierra.
+Hacia el 5500 a.C. el cometa que hace miles de millones de años había dejado en la Tierra la esencia de Waylunor volvió a pasar. Entonces el dios exterior descubrió que podía interactuar con la humanidad a través de la glándula pineal que había hecho evolucionar en los seres vivos de la Tierra.
 
 Es un culto que siempre se ha movido siguiendo la civilización, Waylunor siempre ha considerado que su única forma de fuga era que sus hijos obtuvieran los conocimientos necesarios para viajar a las estrellas y liberarle. Es por ello que el culto siempre ha tenido predilección por científicos y hechiceros (investigadores de las fuerzas naturales y las sobrenaturales) y la civilización siempre ha supuesto criminales y miseria y que mejor forma de defenderse que con despojos sociales violentos.
 
