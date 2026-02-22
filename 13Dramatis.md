@@ -103,3 +103,21 @@ XXX
 * **Equipo:** XXX
 
 **Sugerencia de interpretación:** XXX
+
+\sinc
+
+## Barón Samedí humanizado (comodín)
+
+\conc
+
+XXX
+
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma criollo dXXX, Idioma cthulhunés d6, Idioma Francés dXXX, Idioma Inglés dXXX, Idioma Persa dXXX, Mitos de Cthulhu dXXX, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Desventajas:** XXX
+* **Ventajas:** XXX, Trasfondo arcano (Hechicería primigenia)
+* **Hechizos:** XXX PP, XXX
+* **Equipo:** XXX
+
+**Sugerencia de interpretación:** XXX

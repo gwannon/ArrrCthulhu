@@ -35,6 +35,8 @@ Damos las gracias y el crédito apropiado a estos increíbles artistas que nos h
 * [playa-doncella.jpg](https://www.deviantart.com/ahmetcankahraman/art/Farewell-738974463) por [AhmetCanKahraman](https://www.deviantart.com/ahmetcankahraman)
 * [epilogo.webp](https://www.deviantart.com/artofragnar/art/Caves-505169856) por [ArtofRagnar](https://www.deviantart.com/artofragnar)
 * [encuentros-mas.webp](https://www.deviantart.com/themefinland/art/Magical-rupture-commission-950188160) por [ThemeFinland](https://www.deviantart.com/themefinland)
+* [sternenhimmel-himmel-wurmloch.jpg](https://www.publicdomainpictures.net/en/view-image.php?image=534157) por Andrea Stöckel
+* [bazar.jpg](https://www.deviantart.com/brandon-ellis/art/Ruin-Market-874688696) por [Brandon-Ellis](https://www.deviantart.com/brandon-ellis/)
 
 \sinc
 
@@ -42,17 +44,15 @@ Damos las gracias y el crédito apropiado a estos increíbles artistas que nos h
 
 \conc
 
+### Salud mental
+
+Los trastornos mentales y la salud mental representados en esta ambientación no tratan de ser realistas, solo tratan de reflejar con las reglas de SWEA el horror y la locura tan característicos de Lovecraft y cómo estos afectan a las capacidades de los PJ.
+
 ### Si eres un fascista, háztelo mirar
 
 Estas palabras de Sirio Sesenra me representan y por eso las transcribo aquí.
 
 > Si eres una persona fascista, homófoba, lesbófoba, tránsfoba o racista te suplico que dejes este libro en el primer lugar que encuentres a mano y te vayas a buscar alguna consulta psicológica donde te ayuden a ser buena persona, alejándote del rol hasta lograr ese objetivo. **Por:** [Sirio Sesenra](https://bsky.app/profile/ssesenra.bsky.social) - Técnicas, consejos y trucos para jugar a rol 
-
-\sc
-
-### Salud mental
-
-Los trastornos mentales y la salud mental representados en esta ambientación no tratan de ser realistas, solo tratan de reflejar con las reglas de SWEA el horror y la locura tan característicos de Lovecraft y cómo estos afectan a las capacidades de los PJ.
 
 ***
 

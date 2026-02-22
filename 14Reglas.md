@@ -103,20 +103,36 @@ El hechizo abre los elementos normales de una puerta, pero no afecta a elementos
 
 **Saltar las cerraduras (+2):** Gastando 2 PP extras las cerraduras y las trancas saltarán por los aires y los rastrillos se saldrán de sus carriles. Esto obligará al defensor a gastar 2 acciones completas para poder cerrar la puerta.
 
+### Anular poderes
+
+* **Rango:** XXX
+* **Puntos de poder:** XXX PP
+* **Distancia:** XXX
+* **Duración:** XXX
+
+XXX
+
+#### Modificadores
+
+**Permanente (Especial):** XXX. La única manera de quitar un Anular poderes permanente sin el permiso del hechicero que lo lanzo es que este muera.
+
 ### Caminar sobre las aguas
 
 * **Rango:** Experimentado
 * **Puntos de poder:** 2
 * **Distancia:** Astucia
+
+\sp
+
 * **Duración:** 2 horas
 
-Caminar sobre las aguas permite al objetivo caminar por superficies líquidas como el mar como si fueran sólidas. El éxito le permite desplazarse a su Paso normal, con aumento, podrá correr. No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se considerará terreno difícil.
+Caminar sobre las aguas permite al objetivo caminar por superficies líquidas como el mar como si fueran sólidas. El éxito le permite desplazarse a su Paso normal, con aumento, podrá correr. 
+
+No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se considerará terreno difícil.
 
 #### Modificadores
 
 **Objetivos adicionales (+1):** Es posible afectar a más de un objetivo, incrementando el coste en 1 PP por blanco adicional.
-
-\sp
 
 \sinc
 
@@ -124,14 +140,12 @@ Caminar sobre las aguas permite al objetivo caminar por superficies líquidas co
 
 |Poder|Hechizo|Ornamento|
 |---|---|---|
+|Anular poderes|Dotar de carne|XXX|
+|Anular poderes|XXX|XXX|
 |Abrir puertas|Toque de Waylunor|Como un agujero de gusano espacial sintiente, Waylunor puede ser invocado para atravesar puertas cerradas.|
 |Abrir puertas|¡Ábrete, sésamo!|Invocando la fórmula mágica de los cuentos de la Mil y una noches puedes abrir puertas a tu paso.|
 |Caminar sobre las aguas|Paso de Ayida-Wedo|El mago colocar unas bolas de algodón entre sus dedos invocando el poder de la serpiente arcoíris Ayida-Wedo para poder moverse por encima del agua como ella.|
 |Caminar sobre las aguas|Don de Dagón|Este primigenio otorga al hechicero la capacidad de andar sobre las aguas aumentando el tamaño de sus pies y dotandolos de membranas interdigitales.|
-|Captura|Trampa de gravedad|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para atrapar a un enemigo.|
-|Destierro|Hambriento agujero negro|Waylunor te concede sus poderes invocando un agujero negro que traga a tu enemigo y que puede que vuelva por un agujero blanco.|
-|Desvío|Defensa de Waylunor|Un manto de gravedad te recubre haciendo que todo ataque se vea afectado por dicha gravedad y tenga dificultad en impactarte.|
-|Oscuridad|Penumbra de Waylunor|Waylunor otorga al mago la habilidad de atrapar la luz como un agujero negro y crear oscuridad.|
 
 \conc
 
@@ -141,6 +155,10 @@ Caminar sobre las aguas permite al objetivo caminar por superficies líquidas co
 
 |Poder|Hechizo|Ornamento|
 |---|---|---|
+|Captura|Trampa de gravedad|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para atrapar a un enemigo.|
+|Destierro|Hambriento agujero negro|Waylunor te concede sus poderes invocando un agujero negro que traga a tu enemigo y que puede que vuelva por un agujero blanco.|
+|Desvío|Defensa de Waylunor|Un manto de gravedad te recubre haciendo que todo ataque se vea afectado por dicha gravedad y tenga dificultad en impactarte.|
+|Oscuridad|Penumbra de Waylunor|Waylunor otorga al mago la habilidad de atrapar la luz como un agujero negro y crear oscuridad.|
 |Proyectil|El peso Waylunor|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para golpear con fuerza gravitacional a un enemigo.|
 |Protección ambiental|Protección de Waylunor|Waylunor otorga al brujo parte de su esencia y obtiene la capacidad para sobrevivir en el espacio como vacío, frío espacial o el calor de un sol.|
 
