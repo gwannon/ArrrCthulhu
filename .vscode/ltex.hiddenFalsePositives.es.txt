@@ -223,3 +223,14 @@
 {"rule":"DIACRITICS_00","sentence":"^\\Qtortuga.jpg por glazyrin\nembarcaciones.webp por AhmetCanKahram\npiratas.webp por AhmetCanKahram\nhechiceria.webp por ReyeD33\nplaya-doncella.jpg por AhmetCanKahraman\nepilogo.webp por ArtofRagnar\nencuentros-mas.webp por ThemeFinland\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder: 2 PP\nDistancia:\\E$"}
 {"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QExperimentado\nPuntos de poder: 2\nDistancia:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEste edificio era la sede una logia de masones en su mayoría escoceses que se establecieron en Port Royal.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSe malvendió por poco dinero a Horace Bowen, un comerciante que lo convirtió en una especie de almacén de reciclaje.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa realidad es que Horace Bowen fue hecho desaparecer por la orden del Gran Cthulhu.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCon sus investigaciones sobre la ciudad de Port Royal y el maremoto para maximizar los beneficios de su negocio de recuperación estaba acercándose mucho a la verdad sobre el maremoto que acabo con el que la Orden destruyo la ciudad.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl sótano y la planta baja están llenos de restos de escombros que se quedaron sin procesar con la desaparición de Horace.\\E$"}
+{"rule":"ADEPT","sentence":"^\\QLos adeptos se suelen marcar el cuerpo con escarificaciones en forma de espiga, simulando el símbolo que representa a la Espiga Púrpura y Waylunor.\\E$"}
+{"rule":"FORM","sentence":"^\\QLos adeptos se suelen marcar el cuerpo con escarificaciones en forma de espiga, simulando el símbolo que representa a la Espiga Púrpura y Waylunor.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QConocen a todas a la perfección, a Hernando de Villalba y la Orden del Gran Cthulhu y a Mary Read y su hermandad de piratas, incluso intuyen muchas de las tramas desarrolladas por los yuggothianos en estos mares.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QNo incriminan directamente a la orden, pero sí tienen pruebas de que algún agente sobrenatural fue el culpable del maremoto y de la degradación de Port Royal.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi no tu mesa no ha comprado El queso Chester en Port Royal, lo habrá adquirido la espiga Púrpura como base de operaciones en el Caribe.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEn la actualidad no tiene ningún lugar de culto fijo en el Caribe, pero Amanda Limestone está planeando montar un pequeño refugio en Jamaica, ya que sospecha que el libro que necesita para invocar a Nyarlathotep se encuentra hundida en alguna de las mansiones de la parte sumergida de la próxima Port Royal.\\E$"}

@@ -24,6 +24,12 @@ Se dice que los portadores de su esencia mental pueden realizar grandes prodigio
 
 \sp
 
+\sinc
+
+[![Starry Sky Wormhole por Andrea Stöckel](./images/sternenhimmel-himmel-wurmloch.jpg "Starry Sky Wormhole por Andrea Stöckel")](https://www.publicdomainpictures.net/en/view-image.php?image=534157 "Starry Sky Wormhole por Andrea Stöckel")
+
+\conc
+
 En la Tierra es servido por un pequeño culto conocido como la **Espiga Púrpura**, cuya misión es adorar y liberar a Waylunor del bucle de gravedad en que está encerrado. A cambio, se supone, recibirán de su dios grandes poderes y la vida eterna.
 
 ### Waylunor y Nyarlathotep
@@ -70,29 +76,41 @@ El símbolo de la Espiga Púrpura es una representación fractal simplificada qu
 
 Los primeros seguidores, sin los conocimientos necesarios de astrofísica para entender la forma de existencia de su divinidad, lo convirtieron en un diseño geométrico espigado de color púrpura y empezaron a llamarse la Espiga Púrpura.
 
+[![Ruin - Market by Brandon-Ellis](./images/bazar.jpg)](https://www.deviantart.com/brandon-ellis/art/Ruin-Market-874688696 "Ruin - Market by Brandon-Ellis") 
+
 ### Historia
 
-XXX
+Waylunor lleva con nosotros desde que los primeros vertebrados desarrollaron la glándula pineal, pero no sería hasta las primeras civilizaciones mesopotámicas que el cometa de Waylunor volvió a pasar cerca de la Tierra.
 
-Esto ha llevado a que la **lengua vehicular de la secta** en la que se comunican entre ellos sea el **persa**, que se enseña a todos los iniciados.
+Hacia el 5500 a.C. el cometa que hace miles de millones de años había dejado en la Tierra la esencia de Waylunor volvió a pasar. Entonces el dios primordial descubrió que podía interactuar con la humanidad a través de la glándula pineal que había hecho evolucionar en los seres vivos de la Tierra.
+
+Es un culto que siempre se ha movido siguiendo la civilización, Waylunor siempre ha considerado que su única forma de fuga era que sus hijos obtuvieran los conocimientos necesarios para viajar a las estrellas y liberarle. Es por ello que el culto siempre ha tenido predilección por científicos y hechiceros (investigadores de las fuerzas naturales y las sobrenaturales) y la civilización siempre ha supuesto criminales y miseria y que mejor forma de defenderse que con despojos sociales violentos.
+
+Fueron pasando los siglos y la secta paso de Mesopotamia a Egipto, Grecia, Roma, Francia y finalmente a Inglaterra que en 1720 era el centro del mundo y el culmen de la civilización y la ciencia. Así es como los Limestone se convirtieron en sumos sacerdotes de la secta y custodios de todos los conocimientos y poderes de la secta.
+
+Aunque es una secta muy secular y muy pegada a sus tiempos, no han olvidado sus orígenes en los cauces del Tigris y el Éufrates. Eso por ejemplo ha llevado a que la **lengua vehicular de la secta** en la que se comunican entre ellos sea el **persa**, que se enseña a todos los iniciados.
+
+\sp
 
 ### Situación actual
 
-En la actualidad la secta está muy activa, buscando una forma de contactar con Nyarlathotep y hace un trato con él. XXX
+En la actualidad la secta está muy activa en el Caribe, buscando una manera de contactar/apresar con Nyarlathotep y hace un trato con él. Amanda ha traído todos los recursos humanos que ha podido a la zona y les está haciendo trabajar en grupo, porque cree que la liberación de Waylunor está cerca.
 
-Esto hace que la Espiga Púrpura esté moviéndose frenéticamente para XXX
+Contrariamente a la costumbre de la secta, sus miembros están entrando en contacto y trabajando en grupo como nunca habían hecho en su historía. Esto está creando algunos problemas entre los adeptos al tener que coordinarse y trabajar en equipo.
 
-### Personas destacadas que forman parte del culto
+Por otro lado su actividad está haciendo que el resto de poderes de los mares caribeños estén empezando a detectarlos y a investigarlos. Tanto es así que la Orden ha introducido un topo entre los nuevos cultistas de la Espiga Púrpura.
+
+### Personalidades destacadas del culto
 
 Como ya hemos dicho, la Espiga Púrpura de Waylunor es un culto muy pequeño, pero muy poderoso, y es, en parte, gracias a que solo los mejores entran en ella, después de haber demostrado con creces su fidelidad y fanatismo hacia el culto y a Waylunor.
 
 * **Amanda Limestone,** poderosa maga y suma sacerdotisa de la Espiga Púrpura de Waylunor. Como única portadora de la esencia de Waylunor es la más adecuada para liderar el culto. Además, esa esencia hace que sus poderes mágicos sean muy superiores a otros magos de la secta.
-* **Noor,** guardaespaldas de Amanda Limestone y asesina principal de la Espiga Púrpura. Es la mano ejecutora de Amanda y solo responde ante ella.
 * **Doriqué,** era el principal agente de la Espiga Púrpura en la zona, hasta que Amanda ha movido muchos activos de la secta al Caribe. Es un mago de discreto poder, pero tremendo carisma y sabe moverse entre los diferentes poderes que conviven en estos mares, tanto normales como sobrenaturales.
+* **Leo Morgane,** un cultista de nivel inferior de la Espiga Púrpura. Es un recién llegado al culto, pero sus dotes mágicas le han dado un acceso rápido a los primeros eslabones de la Espiga Purpura. En realidad es un infiltrado de la Orden del Gran Cthulhu que el propio Hernando de Villalba ha enviado para espiar al nuevo actor en el teatro del Caribe.
 
 \sp
 
-* **Leo Morgane,** un cultista de nivel inferior de la Espiga Púrpura. Es un recién llegado al culto, pero sus dotes mágicas le han dado un acceso rápido a los primeros eslabones de la Espiga Purpura. En realidad es un infiltrado de la Orden del Gran Cthulhu que el propio Hernando de Villalba ha enviado para espiar al nuevo actor en el teatro del Caribe.
+* **Noor,** guardaespaldas de Amanda Limestone y asesina principal de la Espiga Púrpura. Es la mano ejecutora de Amanda y solo responde ante ella.
 
 ### Lugares de culto y refugios
 
@@ -102,21 +120,23 @@ De hecho, los miembros del culto son bastante solitarios comunicándose mucho po
 
 En la actualidad no tiene ningún lugar de culto fijo en el Caribe, pero Amanda Limestone está planeando montar un pequeño refugio en Jamaica, ya que sospecha que el libro que necesita para invocar a Nyarlathotep se encuentra hundida en alguna de las mansiones de la parte sumergida de la próxima Port Royal.
 
-Si no tu mesa no ha comprado El queso Chester en Port Royal, lo habrá adquirido la espiga Púrpura como base de operaciones en el Caribe. En caso de que tu mesa sea la propietaria, se habrán instalado en la Logía de Masones Escoceses 
+Si no tu mesa no ha comprado El queso Chester en Port Royal, lo habrá adquirido la espiga Púrpura como base de operaciones en el Caribe. En caso de que tu mesa sea la propietaria, se habrán instalado en la Logia de Masones Escoceses 
 
-#### Logía de Masones Escoceses 
+#### Logia de Masones Escoceses 
 
-Este edificio era la sede una logia de masones en su mayoría escoceses que se establecieron en Port Royal. Tras sobrevivir a duras penas el maremoto de 1692, fue considerado inseguro y abandonado por la logia. Se malvendió por poco dinero a Horace MacDuffy, un comerciante que lo convirtió en una especie de almacén de reciclaje. Se dedicó durante años a retirar escombros de los restos dejados por el maremoto por toda la ciudad y vender lo que podía ser de valor y quemar o tirar en los pantanos lo que no.
-
-\sp
+Este edificio era la sede una logia de masones en su mayoría escoceses que se establecieron en Port Royal. Tras sobrevivir a duras penas el maremoto de 1692, fue considerado inseguro y abandonado por la logia. Se malvendió por poco dinero a Horace Bowen, un comerciante que lo convirtió en una especie de almacén de reciclaje. Se dedicó durante años a retirar escombros de los restos dejados por el maremoto por toda la ciudad y vender lo que podía ser de valor y quemar o tirar en los pantanos lo que no.
 
 De repente, desapareció de la faz de la tierra y el negocio fue cerrado por deudas e impago. Los empleados y los acreedores se llevaron lo que pudieron para venderlo y el resto quedo abandonado en el edificio.
 
-La realidad es que Horace MacDuffy fue hecho desaparecer por XXX
+\sp
+
+La realidad es que **Horace Bowen fue hecho desaparecer por la Orden del Gran Cthulhu**. Con sus investigaciones sobre la ciudad de Port Royal y el maremoto para maximizar los beneficios de su negocio de recuperación estaba acercándose mucho a la verdad sobre el maremoto que acabo con el que la Orden destruyo la ciudad. 
 
 El sótano y la planta baja están llenos de restos de escombros que se quedaron sin procesar con la desaparición de Horace. El piso superior donde se reunía la logia para sus ceremonias y donde Horace tenía sus oficinas, ahora mismo está desvencijado y cualquier cosa de valor ha sido saqueado.
 
-> Tus jugadores pueden intentar buscar tesoros entre la basura allí acumulada una única sola vez como si fuera un botín d8, pero no pueden tirar en la tabla de Objetos Perdidos en el tiempo y el espacio.
+> Tus jugadores pueden intentar buscar tesoros entre la basura allí acumulada una única sola vez como si fuera un botín d8 pasando un día completo en el edificio, pero no pueden tirar en la tabla de Objetos Perdidos en el tiempo y el espacio.
+
+La orden del Gran Cthulhu limpió bien las oficinas de documentos incriminatorios, pero no localizó una **pequeña sala secreta que la logia masónica usaba** para guardar sus objetos ceremoniales. Horace la descubrió y **guardó allí algunos diarios con notas de sus descubrimientos**. No incriminan directamente a la orden, pero sí tienen pruebas de que algún agente sobrenatural fue el culpable del maremoto y de la degradación de Port Royal. Una tirada de Buscar -2 en las oficinas, podrías permitir descubrir la sala secreta y los documentos que en ella guardaba Horace. 
 
 ### Rituales
 
@@ -124,17 +144,19 @@ Siguiendo el destino de su amo y compartiendo su maldición, los principales rit
 
 Muchas veces estos rituales hacer caer inconscientes al practicante. En esos momentos pueden tener una catarsis y Waylunor puede entregarles una visión de su futuro o de su pasado o algún tipo de mensaje.
 
+\sp
+
 Estos rituales muchas veces se pueden hacer solos con lo que no es de extrañar que los más ricos tengan salas secretas específicas para estos ritos con artilugios rollo BDSM que les permitan sufrir el tipo de tormento que exige Waylunor.
 
 Fuera de estos rituales que les ponen en comunión con su dios, las pocas reuniones presenciales que hacen son más de reuniones donde compartir secretos mágicos, hablar de la ciencia profana que tanto les gusta y comentar sus trucos de asesino.
-
-\sp
 
 Los adeptos se suelen marcar el cuerpo con escarificaciones en forma de espiga, simulando el símbolo que representa a la Espiga Púrpura y Waylunor. Suelen repasarlas haciéndose nuevas heridas de manera que las escarificaciones tengan el color morado típico de la Espiga Púrpura.
 
 ### La hermandad del Sargazo y la Espiga Púrpura 
 
 La Espiga Púrpura es un actor recién llegado al escenario sobrenatural que es el Caribe. Es por ello que **es un desconocido** para la Orden del Gran Cthulhu y la hermandad del Sargazo.
+
+\sc
 
 Pero la Orden tiene alguna ventaja, ya que ambos se ha encontrado incluso enfrentado en otros partes del mundo con la Espiga Púrpura.
 
