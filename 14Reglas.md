@@ -105,28 +105,45 @@ El hechizo abre los elementos normales de una puerta, pero no afecta a elementos
 
 ### Anular poderes
 
-* **Rango:** XXX
-* **Puntos de poder:** XXX PP
-* **Distancia:** XXX
-* **Duración:** XXX
+* **Rango:** Novato
+* **Puntos de poder:** (Coste normal (sin modificadores) en PP del poder que se desea anular - Diferencia de rangos entra lanzador y objetivo) x 2. Mínimo 4 PP
+* **Distancia:** Astucia
+* **Duración:** La duración normal del poder anulado con un mínimo de 4 asaltos
 
-XXX
+Anular poderes permite cortar la conexión de un hechicero y uno de sus poderes durante un tiempo, de formaa que no puedes usarlo. Este poder puede hacerse permanente con un 
+
+\sp
+
+El poder se lanza como una tirada opuesta contra el Espíritu del objetivo y el lanzador sufre una penalización de -2 a su tirada si el objetivo practica un Trasfondo Arcano distinto al suyo. No tener Trasfondo Arcano y lanzar hechizos de forma natural cuenta como trasfondo arcano distinto. 
+
+Si el lanzador del anular poderes gana la tirada, el objetivo no podrá usar ese poder. El objetivo sabe que no puede usar ese poder y sabrá cuando lo vuelve a recuperar, pero no debería saber cuando va a recuperarlo.
+
+Un lanzador puedes lanzar este poder varias veces sobre el mismo objetivo, pero solo podrá anular un poder al mismo tiempo, con lo que si el objetivo tenía un poder anulado, lo recupera al tener un nuevo poder anulado. Un anulador de poderes puede tener varios objetivos con un poder por cada objetivo anulado. 
+
+Solo puedes anular poderes que sepas que el objetivo tenga, bien por experiencia personal o porque lo hayas averiguado de alguna manera. Si tu objetivo puede hacerse invisible, pero tú no lo sabes no hay forma de anular ese poder.
+
+Anular un poder hace que el objetivo no pueda volver a usar un poder, pero no evitar tus efectos si ya ha sido lanzado. Lanzar un Anular Desvío, hace que el objetivo no pueda lanzarlo, pero no le quita las ventajas que haya podido obtener al habérselo lanzado antes de ser anulado.
+
+Si el gasto de lanzar un proyectil es 1 y el lanzador es novato (1) y el objetivo es veterano(3), serían 6 PP ((1 - (1 - 3)) * 2). Solo puedes anular poderes que exijan gasto de PP, aunque tras aplicar ventajas sea 0 PP.
+
+La duración de la anulación de los poderes es igual a la duración normal del hechizo sin modificar con un mínimo de 4 asaltos. Un proyectil tiene una duración instantánea, con lo que se anulará el poder durante 4 turnos. Desvío dura de normal 5 turnos con lo que se anularan durante 5 asaltos.
 
 #### Modificadores
 
-**Permanente (Especial):** XXX. La única manera de quitar un Anular poderes permanente sin el permiso del hechicero que lo lanzo es que este muera.
+**Permanente (Especial):** Hacer permanente la anulación de un poder exige que quemes los PP que costaría lanzar un anular normal. Es decir, que si anular un poder cuesta 5 PP, si deseas hacerlo permanente tendrás 5 PP de tus PP totales que no podrás usar mientras anules el poder. Cuando lo desees podrá quitar la anulación permanente y recuperar esos PP quemados. 
+
+\sp
+
+Los PP gastados en hacerlo permanente no vuelven directamente tras quitar la permanencia, sino que se recuperan como si se hubieran gastado normalmente, es decir que tardarán unas horas en volver todos. No puedes anular poderes permanentemente a objetivos más de 2 rangos por encima tuyo. La única manera de quitar un Anular poderes permanente sin el permiso del hechicero que lo lanzo es que este muera. 
 
 ### Caminar sobre las aguas
 
 * **Rango:** Experimentado
 * **Puntos de poder:** 2
 * **Distancia:** Astucia
-
-\sp
-
 * **Duración:** 2 horas
 
-Caminar sobre las aguas permite al objetivo caminar por superficies líquidas como el mar como si fueran sólidas. El éxito le permite desplazarse a su Paso normal, con aumento, podrá correr. 
+Caminar sobre las aguas permite al objetivo caminar por superficies líquidas como el mar como si fueran sólidas. El éxito le permite desplazarse a su Paso normal, con aumento, podrá correr.
 
 No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se considerará terreno difícil.
 
@@ -140,12 +157,9 @@ No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se conside
 
 |Poder|Hechizo|Ornamento|
 |---|---|---|
-|Anular poderes|Dotar de carne|XXX|
-|Anular poderes|XXX|XXX|
+|Anular poderes|Transubstanciación|Mediante signos y símbolos sagrados de tus creencias, dotas al objetivo en cierta manera de carne mortal sin capacidades mágicas.|
+|Anular poderes|Palabra de Nodens|Invocando la palabra del dios Nodens, este como dios de la magia, corta la conexión entre el objetivo y el poder anulado.|
 |Abrir puertas|Toque de Waylunor|Como un agujero de gusano espacial sintiente, Waylunor puede ser invocado para atravesar puertas cerradas.|
-|Abrir puertas|¡Ábrete, sésamo!|Invocando la fórmula mágica de los cuentos de la Mil y una noches puedes abrir puertas a tu paso.|
-|Caminar sobre las aguas|Paso de Ayida-Wedo|El mago colocar unas bolas de algodón entre sus dedos invocando el poder de la serpiente arcoíris Ayida-Wedo para poder moverse por encima del agua como ella.|
-|Caminar sobre las aguas|Don de Dagón|Este primigenio otorga al hechicero la capacidad de andar sobre las aguas aumentando el tamaño de sus pies y dotandolos de membranas interdigitales.|
 
 \conc
 
@@ -155,6 +169,9 @@ No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se conside
 
 |Poder|Hechizo|Ornamento|
 |---|---|---|
+|Abrir puertas|¡Ábrete, sésamo!|Invocando la fórmula mágica de los cuentos de la Mil y una noches puedes abrir puertas a tu paso.|
+|Caminar sobre las aguas|Paso de Ayida-Wedo|El mago colocar unas bolas de algodón entre sus dedos invocando el poder de la serpiente arcoíris Ayida-Wedo para poder moverse por encima del agua como ella.|
+|Caminar sobre las aguas|Don de Dagón|Este primigenio otorga al hechicero la capacidad de andar sobre las aguas aumentando el tamaño de sus pies y dotandolos de membranas interdigitales.|
 |Captura|Trampa de gravedad|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para atrapar a un enemigo.|
 |Destierro|Hambriento agujero negro|Waylunor te concede sus poderes invocando un agujero negro que traga a tu enemigo y que puede que vuelva por un agujero blanco.|
 |Desvío|Defensa de Waylunor|Un manto de gravedad te recubre haciendo que todo ataque se vea afectado por dicha gravedad y tenga dificultad en impactarte.|
