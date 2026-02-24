@@ -26,7 +26,7 @@ XXX
 
 \conc
 
-Amanda Limestone, como lideresa de la Espigaa Púrpura, ha llegado a la conclusión de que Waylunor solo peude ser liberado por su carcelero, Nyarlathotep, así que está decidida a negociar la liberación de su dios. La única manera que Amanda ve en que puede negociar con Nyarlathotep es tener algún tipo de ventaja sobre el oscuro dios, así que está buscando un grimorio con un poderoso ritual de «amarre» para atraerle y capturarle. Con la sartén por el mango, intentará comprar la libertad de su señor a cambio de la libertad de Nyarlathotep.
+Amanda Limestone, como lideresa de la Espiga Púrpura, ha llegado a la conclusión de que Waylunor solo puede ser liberado por su carcelero, Nyarlathotep, así que está decidida a negociar la liberación de su dios. La única manera que Amanda ve en que puede negociar con Nyarlathotep es tener algún tipo de ventaja sobre el oscuro dios, así que está buscando un grimorio con un poderoso ritual de «amarre» para atraerle y capturarle. Con la sartén por el mango, intentará comprar la libertad de su señor a cambio de la libertad de Nyarlathotep.
 
 No solo necesita el grimorio también parte de la esencia de Nyarlathotep. El hechizo es una especie de muñeco vudú cósmico para divinidades y exige algo de la víctima del muñeco. Ese algo va a ser el Barón Samedí, uno de los avatares de Nyarlathotep en el Caribe.
 
