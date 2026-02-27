@@ -26,17 +26,19 @@ XXX
 
 \conc
 
-Amanda Limestone, como lideresa de la Espiga Púrpura, ha llegado a la conclusión de que Waylunor solo puede ser liberado por su carcelero, Nyarlathotep, así que está decidida a negociar la liberación de su dios. La única manera que Amanda ve en que puede negociar con Nyarlathotep es tener algún tipo de ventaja sobre el oscuro dios, así que está buscando un grimorio con un poderoso ritual de «amarre» para atraerle y capturarle. Con la sartén por el mango, intentará comprar la libertad de su señor a cambio de la libertad de Nyarlathotep.
+Amanda Limestone, como lideresa de la Espiga Púrpura, ha llegado a la conclusión de que **Waylunor solo puede ser liberado por su carcelero, Nyarlathotep**, así que está decidida a negociar la liberación de su dios. La única manera que Amanda ve en que puede negociar con Nyarlathotep es tener algún tipo de **ventaja sobre el oscuro dios**, así que está buscando un grimorio con un poderoso ritual de «amarre» para atraerle y capturarle. Con la sartén por el mango, intentará comprar la libertad de su señor a cambio de la libertad de Nyarlathotep.
 
-No solo necesita el grimorio también parte de la esencia de Nyarlathotep. El hechizo es una especie de muñeco vudú cósmico para divinidades y exige algo de la víctima del muñeco. Ese algo va a ser el Barón Samedí, uno de los avatares de Nyarlathotep en el Caribe.
+Su plan necesita un grimorio mágico desaparecido con el hechizo con el que encerrar a Nyarlathotep cuya pista llega hasta Port Royal. Ya tiene a su gente buscando el grimorio en la ciudad hundida y está muy cerca. Pero también sabe que necesita parte de la esencia del propio dios.
+
+Según algunos escritos de estudiosos que ha leído, el grimorio contiene un hechizo que es una especie de **muñeco vudú cósmico para divinidades** y exige algo de la víctima del muñeco. Ese algo va a ser el Barón Samedí, uno de los avatares de Nyarlathotep en el Caribe.
 
 El Barón Samedí aparece solo durante las celebraciones haitianas del Fèt Gede, sembrando la locura, los excesos y el desenfreno entre los que la celebran. Amanda mandaría a su culto contra el avatar, pero sabe que los conoce y en cuanto se acerquen desaparecerá para, quizás, no volver.
 
-Es por ello que necesita a unos agentes externos que hagan el trabajo por ella. Aquí es donde entra tu mesa, deberán encontrarle y capturarle para que Amanda haga su trato.
+Es por ello que **necesita a unos agentes externos** que hagan el trabajo por ella. Aquí es donde entra tu mesa. Deberán encontrarle y capturarle para que Amanda haga su trato. Aunque sea solo un avatar menor, sigue siendo tremendamente poderoso y la **única forma de capturarlo es humanizarlo mediante un hechizo** que Amanda enseñará a tu mesa. Cada uno de tus jugadores deberá despojarle de un parte de su poder, hasta convertirlo a prácticamente un humano normal y corriente.
 
-Aunque sea solo un avatar menor, sigue siendo tremendamente poderoso y la única forma de capturarlo en humanizarlo mediante XXX.
+\sp
 
-Deberán llevar al avatar a XXX y allí Amanda realizará un tremendo ritual que encerrará al gran Nyarlathotep en una prisión extradimensional del dolor primordial de la que solo aceptarán sacarlo si liberan al gran Waylunor.
+Entonces deberán **llevar al avatar a las islas Turcas y Caicos** en las Antillas Mayores y allí **Amanda realizará un tremendo ritual con el grimorio que encerrará al gran Nyarlathotep en una prisión extradimensional** del dolor primordial de la que solo aceptarán **sacarlo si liberan al gran Waylunor.**
 
 \sp
 
@@ -87,6 +89,13 @@ XXX
 \conc
 
 XXX
+
+### Otras formas de volver
+
+Otras formas de volver que tu mesa pueden intentar.
+
+* Si jugaron la aventura de «El yeho», el gugo viene de las Tierras de los Sueños. Quizás puedan encontrar la fisura de la realidad que uso el gugo para entrar en el mundo de la Vigilia.
+* Quizás puedan usar «Ánfora de viaje por las Tierras del sueño» para volver a su mundo. Tanto si la tienen en su poder como si la encuentran en las Tierras de los Sueños, talvez pueda modificarla para usarla a su gusto.
 
 \sp
 
