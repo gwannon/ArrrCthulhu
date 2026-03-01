@@ -110,7 +110,7 @@ El hechizo abre los elementos normales de una puerta, pero no afecta a elementos
 * **Distancia:** Astucia
 * **Duración:** La duración normal del poder anulado con un mínimo de 4 asaltos
 
-Anular poderes permite cortar la conexión de un hechicero y uno de sus poderes durante un tiempo, de formaa que no puedes usarlo. Este poder puede hacerse permanente con un 
+Anular poderes permite cortar la conexión de un hechicero y uno de sus poderes durante un tiempo, de forma que no puedes usarlo. Este poder puede hacerse permanente con un 
 
 \sp
 
@@ -130,11 +130,13 @@ La duración de la anulación de los poderes es igual a la duración normal del 
 
 #### Modificadores
 
-**Permanente (Especial):** Hacer permanente la anulación de un poder exige que quemes los PP que costaría lanzar un anular normal. Es decir, que si anular un poder cuesta 5 PP, si deseas hacerlo permanente tendrás 5 PP de tus PP totales que no podrás usar mientras anules el poder. Cuando lo desees podrá quitar la anulación permanente y recuperar esos PP quemados. 
+**Cancelar poderes (Especial):** En vez de anularlos, puedes cancelar indefinidamente los poderes a un objetivo. La cancelación de un poder exige que quemes los PP que costaría lanzar un anular normal. Es decir, que si anular un poder cuesta 5 PP, si deseas cancelarlo tendrás 5 PP de tus PP totales que no podrás usar mientras canceles el poder. 
 
 \sp
 
-Los PP gastados en hacerlo permanente no vuelven directamente tras quitar la permanencia, sino que se recuperan como si se hubieran gastado normalmente, es decir que tardarán unas horas en volver todos. No puedes anular poderes permanentemente a objetivos más de 2 rangos por encima tuyo. La única manera de quitar un Anular poderes permanente sin el permiso del hechicero que lo lanzo es que este muera. 
+Cuando lo desees podrá quitar la cancelación permanente y recuperar esos PP quemados. 
+
+Los PP gastados en hacerlo permanente no vuelven directamente tras quitar la cancelación, sino que se recuperan como si se hubieran gastado normalmente, es decir que tardarán unas horas en volver todos. No puedes anular poderes permanentemente a objetivos más de 2 rangos por encima tuyo. La única manera de quitar una cancelación poderes permanente sin el permiso del hechicero que lo lanzo es que este muera. 
 
 ### Caminar sobre las aguas
 
@@ -159,7 +161,6 @@ No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se conside
 |---|---|---|
 |Anular poderes|Transubstanciación|Mediante signos y símbolos sagrados de tus creencias, dotas al objetivo en cierta manera de carne mortal sin capacidades mágicas.|
 |Anular poderes|Palabra de Nodens|Invocando la palabra del dios Nodens, este como dios de la magia, corta la conexión entre el objetivo y el poder anulado.|
-|Abrir puertas|Toque de Waylunor|Como un agujero de gusano espacial sintiente, Waylunor puede ser invocado para atravesar puertas cerradas.|
 
 \conc
 
@@ -169,6 +170,7 @@ No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se conside
 
 |Poder|Hechizo|Ornamento|
 |---|---|---|
+|Abrir puertas|Toque de Waylunor|Como un agujero de gusano espacial sintiente, Waylunor puede ser invocado para atravesar puertas cerradas.|
 |Abrir puertas|¡Ábrete, sésamo!|Invocando la fórmula mágica de los cuentos de la Mil y una noches puedes abrir puertas a tu paso.|
 |Caminar sobre las aguas|Paso de Ayida-Wedo|El mago colocar unas bolas de algodón entre sus dedos invocando el poder de la serpiente arcoíris Ayida-Wedo para poder moverse por encima del agua como ella.|
 |Caminar sobre las aguas|Don de Dagón|Este primigenio otorga al hechicero la capacidad de andar sobre las aguas aumentando el tamaño de sus pies y dotandolos de membranas interdigitales.|
@@ -177,6 +179,15 @@ No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se conside
 |Desvío|Defensa de Waylunor|Un manto de gravedad te recubre haciendo que todo ataque se vea afectado por dicha gravedad y tenga dificultad en impactarte.|
 |Oscuridad|Penumbra de Waylunor|Waylunor otorga al mago la habilidad de atrapar la luz como un agujero negro y crear oscuridad.|
 |Proyectil|El peso Waylunor|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para golpear con fuerza gravitacional a un enemigo.|
+
+\conc
+
+\sp
+
+\sinc
+
+|Poder|Hechizo|Ornamento|
+|---|---|---|
 |Protección ambiental|Protección de Waylunor|Waylunor otorga al brujo parte de su esencia y obtiene la capacidad para sobrevivir en el espacio como vacío, frío espacial o el calor de un sol.|
 
 \conc

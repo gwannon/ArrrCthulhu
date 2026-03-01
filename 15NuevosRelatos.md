@@ -74,7 +74,7 @@ XXX
 
 ### Regreso a la isla de Tekeli-li
 
-**Comienzo:** XXX
+**Comienzo:** En alta mar
 
 > XXX
 
@@ -92,7 +92,7 @@ XXX
 
 **Comienzo:** Tierra de los Sueños
 
-> Un barco ballenero se cruza en el camino de tu mesa. Parece otro barco perdido como tus jugadores y no saben como han llegado a la Tierra de los Sueños. En realidad es el avatar onírico único de una manada de ballenas que llegan al sueño cuando duermen en la que tienen la pesadilla de ser su peor enemigo, el ballenero.
+> Un barco ballenero se cruza en el camino de tu mesa. Parece otro barco perdido como tus jugadores. No saben cómo han llegado a la Tierra de los Sueños, pero han seguido con su tarea de buscar, matar y descuartizar ballenas. En realidad son el avatar onírico único de una manada de ballenas que llegan al sueño cuando duermen. Están en una terrible pesadilla en la que son su peor enemigo, cazadores de ballenas.
 
 XXX
 
