@@ -4,7 +4,7 @@
 
 Esta campaña es perfecta para meterla dentro de la gran campaña de «El tesoro hundido» y jugarla paralelamente o haber jugado algunas aventuras cortas para tener algo de experiencia con los Mitos. Aun así, se dan ideas para cómo meter a personajes recién creados en esta campaña.
 
-Al final de esta campaña tienes un apartado donde se explica cómo puede afectar los acontecimientos de esta aventura a la campaña de «El tesoro hundido».
+Al final de esta campaña tienes un apartado donde se explica cómo pueden afectar los acontecimientos de esta aventura a la campaña de «El tesoro hundido».
 
 \sinc
 
@@ -12,9 +12,37 @@ Al final de esta campaña tienes un apartado donde se explica cómo puede afecta
 
 \conc
 
+La Espiga Púrpura quiere atrapar al gran Nyarlathotep mediante un poderoso ritual y obligarle a liberar a Waylunor, su adorada divinidad que les dará poder e inmortalidad por sus servicios.
+
+Para celebrar el ritual debe encontrar el grimorio mágico donde se describe, cuya pista se pierde en Port Royal antes del Maremoto. La Espiga Púrpura lo está buscando y cree estar cerca.
+
+Por otro lado, necesitan una parte de la esencia de Nyarlathotep y ese será su avatar haitiano, el barón Samedí.
+
+Tu mesa, engañados por Amanda y sin saber sus intenciones reales, deberá atraparlo tras quitarle el 90% de su poder con un hechizo que Amanda Limestone les enseñará. Una vez secuestrado deberán embarcar y dirigirse a Port Royal para su entrega.
+
+Estando atrapado y debilitado, el Barón Samedí solo tendrá una posibilidad, meter el barco de tus jugadores en la Tierra de los sueños. Puede que allí los «amarres» que le han puesto se debiliten y pueda recuperar su poder y escapar.
+
+Así que manipulará los mapas y las brújulas para dirigirse al paso del Ensueño, una zona del Caribe donde se desdibuja la frontera de la Vigilia y el Sueño.
+
+\sp
+
+Una vez en el sueño tendrás varias aventuras mientras buscan la manera de volver con su prisionero.
+
+Los hechizos que lo mantienen atrapados no se han debilitado en la Tierra de los sueños como creía, pero el viaje le dará tiempo para explicar el plan real de la Espiga, porque deben ayudarle y rentarles para que se unan a él.
+
+Tarde o temprano conseguirán salir de los mares del Sueño por sus propios medios o con la ayuda del barón si deciden liberarle y ayudarle a acabar con la Espiga Purpura.
+
+A partir de aquí la aventura se puede bifurcar entre varias opciones.
+
+* Siguen el plan de Amanda sin creer al barón. En algún momento se darán cuenta de que se han equivocado y deberán hacer algo rápido.
+* Creen al barón, le liberan y le ayudan a acabar con la Espiga Púrpura. Según como lo hagan se quitarán una gran amenaza y conseguirán un aliado que igual, o no, les termina traicionando y matando.
+* Una tercera vía, que seguramente será la que escojan, es irse por su cuenta. Tienen la oportunidad de encerrar a un ser maligno y dejar a otro encerrado. Incluso podrían negociar con Nyarlathotep algún tipo de tregua e información y recursos contra la Orden del Gran Cthulhu y el alzamiento de R'lyeh.
+
 XXX
 
-Estando atrapado y debilitado, el Barón Samedí solo tendrá una posibilidad, meter el barco de tus jugadores en la Tierra de los sueños. Puede que allí los «amarres» que le han puesto se debiliten y pueda escapar. Así que engañará a la tripulación para dirigirse al paso del Ensueño, una zona del Caribe donde se desdibuja la frontera de la Vigilia y el Sueño.
+Amanda está contra la espada y la pared. Sin el barón Samedí no puede hacer el gran ritual, pero tiene una segunda opción que era el ritual mucho más complejo, XXX. Si ha encontrado el grimorio de Citor, se podrá a montar el ritual con una forma de esencia de peor calidad, pero aún válida, los **Vasos canopos del Faraón negro**.
+
+> Si el tono de la campaña es más bien jocoso y ya conoce a Totep, puede ser interesante que tu mesa tenga al Barón Samedí y la Espiga Púrpura haya capturado a Totep. Totep se puede ajustarse al tono loco y divertido que pueda tener tu campaña.
 
 XXX
 
@@ -38,7 +66,9 @@ Es por ello que **necesita a unos agentes externos** que hagan el trabajo por el
 
 \sp
 
-Entonces deberán **llevar al avatar a las islas Turcas y Caicos** en las Antillas Mayores y allí **Amanda realizará un tremendo ritual con el grimorio que encerrará al gran Nyarlathotep en una prisión extradimensional** del dolor primordial de la que solo aceptarán **sacarlo si liberan al gran Waylunor.**
+Atrapado y debilitado, deberán llevarlo a Port Royal, y con el grimorio que espera encontrar deberán **llevar al avatar a las islas Turcas y Caicos** en las Antillas Mayores donde harán el ritual. Pero antes deberá deshacer de tu mesa para no dejar cabos sueltos.
+
+Ya en las islas Turcas y Caicos, **Amanda realizará un tremendo ritual con el grimorio que encerrará al gran Nyarlathotep en una prisión extradimensional** del dolor primordial de la que solo aceptarán **sacarlo si liberan al gran Waylunor.**
 
 \sp
 
@@ -61,6 +91,10 @@ XXX
 ## La captura del avatar
 
 \conc
+
+XXX
+
+Amanda les enseñará el hechizo de XXX, pero como no tienen PP propios les entregará a cada jugador una **XXX** que les dará los PP necesarios para lanzar el hechizo.
 
 XXX
 
@@ -119,6 +153,10 @@ Sea como sea y hayan decidido lo que hayan decidido, tu mesa debe conseguir el g
 
 XXX
 
+### Grimorio de Citor
+
+XXX
+
 \sp
 
 \sinc
@@ -153,6 +191,10 @@ XXX
 ## El gran ritual
 
 \conc
+
+XXX
+
+El Barón Samedí solo existe durante el Fet Gede y si no son rápidos este desaparecerá y no podrá ayudarlos.
 
 XXX
 

@@ -234,3 +234,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QNo incriminan directamente a la orden, pero sí tienen pruebas de que algún agente sobrenatural fue el culpable del maremoto y de la degradación de Port Royal.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi no tu mesa no ha comprado El queso Chester en Port Royal, lo habrá adquirido la espiga Púrpura como base de operaciones en el Caribe.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEn la actualidad no tiene ningún lugar de culto fijo en el Caribe, pero Amanda Limestone está planeando montar un pequeño refugio en Jamaica, ya que sospecha que el libro que necesita para invocar a Nyarlathotep se encuentra hundida en alguna de las mansiones de la parte sumergida de la próxima Port Royal.\\E$"}
+{"rule":"PRESENT","sentence":"^\\QUn presente para Xeros\\E$"}

@@ -86,4 +86,22 @@ XXX
 
 > XXX
 
-XXX`
+XXX
+
+### El sueño de las ballenas
+
+**Comienzo:** Tierra de los Sueños
+
+> Un barco ballenero se cruza en el camino de tu mesa. Parece otro barco perdido como tus jugadores y no saben como han llegado a la Tierra de los Sueños. En realidad es el avatar onírico único de una manada de ballenas que llegan al sueño cuando duermen en la que tienen la pesadilla de ser su peor enemigo, el ballenero.
+
+XXX
+
+### Un presente para Xeros
+
+**Comienzo:** Tierra de los Sueños
+
+> Un grupo de esclavos lengnitas quieren que tu mesa entregue un paquete a Xeros uno de los suyos que creen que escapo al mundo de la vigilia. Xeros no es otro que Dupont, el juerguista 
+
+XXX
+
+> Puedes convertir esta aventura en una más grande, haciendo que Dupont contrate a tu grupo para volver a la Tierra de los Sueños a liberar a su gente de las bestias lugares.
