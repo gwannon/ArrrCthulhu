@@ -66,7 +66,7 @@ Es por ello que **necesita a unos agentes externos** que hagan el trabajo por el
 
 \sp
 
-Atrapado y debilitado, deberán llevarlo a Port Royal, y con el grimorio que espera encontrar deberán **llevar al avatar a las islas Turcas y Caicos** en las Antillas Mayores donde harán el ritual. Pero antes deberá deshacer de tu mesa para no dejar cabos sueltos.
+Atrapado y debilitado, deberán llevarlo a Port Royal, y con el grimorio que espera encontrar deberán **llevar al avatar a las islas Turcas y Caicos** en las Antillas Mayores donde harán el ritual. Pero antes deberá deshacer de tu mesa para no dejar cabos sueltos. Así que les preparan una gran fiesta con comida, música y alcohol y tratarán de drogarlos y cuando estén inconscientes luego ahogarlos en el mar lastrándolos con pesadas rocas.
 
 Ya en las islas Turcas y Caicos, **Amanda realizará un tremendo ritual con el grimorio que encerrará al gran Nyarlathotep en una prisión extradimensional** del dolor primordial de la que solo aceptarán **sacarlo si liberan al gran Waylunor.**
 
@@ -94,7 +94,9 @@ XXX
 
 XXX
 
-Amanda les enseñará el hechizo de Transubstanciación (Anular poderes), pero seguramente que no tienen PP propios para lanzarlo a nivel que exige el poder del Barón Samedí y les entregará a cada jugador una **XXX** que les dará los PP necesarios para lanzar el hechizo.
+Amanda les enseñará el hechizo de Transubstanciación (Anular poderes), pero seguramente que no tienen PP propios para lanzarlo a nivel que exige el poder del Barón Samedí y les entregará a cada jugador un **Coco de Yúcahu** que les dará los PP necesarios para lanzar el hechizo.
+
+> **Coco de Yúcahu:** Uno de cada diez mil cocos es un **Coco de Yúcahu** y son guardados por los behikes como un tesoro. Estos cocos especiales de color blanco, que se cree que están tocados por la deidad taina Yúcahu, dan tantos PP adicionales como Espíritu de aquel que los bebe durante una hora. Si un comodín con Espíritu d6 y de normal tiene 6 PP, bebe uno de estos cocos y recibe 6 PP más. 
 
 XXX
 
@@ -206,7 +208,7 @@ XXX
 
 XXX
 
-El Barón Samedí solo existe durante el Fet Gede y si no son rápidos este desaparecerá y no podrá ayudarlos.
+El Barón Samedí solo existe durante el Fèt Gede y si no son rápidos este desaparecerá y no podrá ayudarlos.
 
 XXX
 
@@ -218,4 +220,9 @@ XXX
 
 \conc
 
-XXX
+Las agendas de la Gran Orden de Cthulhu y de la Espiga Púrpura no debería chocar directamente. Así que en principio eliminar a la Espiga Púrpura no debería suponer ningún problema para la Gran Orden, de hecho puede que hayan ayudado a tus jugadores a acabar con ellos, bien con recursos o con agentes.
+
+Sin embargo, sí pueden haber conseguido aliados que ofrezcan alguna ventaja a tu mesa en su lucha contra la Gran Orden. Veamos algunas posibilidades.
+
+* El Barón Samedí, tanto como aliado, como si les debe un favor, es un recurso muy poderoso, pero solo durante el Fèt Gede. Si pueden invocarlo durante alguna batalla contra la Orden podría dar un token él solo o podría decantar del lado de los jugadores cualquier tipo de combate.
+* XXX
