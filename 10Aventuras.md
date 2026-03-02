@@ -70,7 +70,7 @@ Creado por [|AUTHOR|](|AUTHOR_URL|)
 
 Este suplemento contiene:
 
-1. Una **campaña corta y 3 aventuras de 1 o 2 sesiones** que puedes meter dentro de la campaña o usarlas dentro de tus propias aventuras.
+1. Una **campaña corta y 5 aventuras de 1 a 3 sesiones** que puedes meter dentro de la campaña o usarlas dentro de tus propias aventuras.
 2. **Nuevas localizaciones** y **nuevos personajes** que extienden el Caribe de ¡Arrr! Cthulhu
 3. Incluye todo un nuevo repertorio de **monstruos de los Mitos, enemigos y objetos mágicos y malditos**. También hay nuevas **ventajas, desventajas y hechizos** para usar en tus partidas de ¡Arrr! Cthulhu.
 

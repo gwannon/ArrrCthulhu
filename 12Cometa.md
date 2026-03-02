@@ -40,7 +40,7 @@ A partir de aquí la aventura se puede bifurcar entre varias opciones.
 
 XXX
 
-Amanda está contra la espada y la pared. Sin el barón Samedí no puede hacer el gran ritual, pero tiene una segunda opción que era el ritual mucho más complejo, XXX. Si ha encontrado el grimorio de Citor, se podrá a montar el ritual con una forma de esencia de peor calidad, pero aún válida, los **Vasos canopos del Faraón negro**.
+Amanda está contra la espada y la pared. Sin el barón Samedí no puede hacer el gran ritual tal y como tenía pensado, pero tiene una segunda opción que hace el ritual mucho más complejo, pero igual de efectivo. Si ha encontrado el grimorio de Citor, se podrá a montar el ritual un ritual más complejo con una forma de esencia de peor calidad, pero aún válida, los **Vasos canopos del Faraón negro**.
 
 > Si el tono de la campaña es más bien jocoso y ya conoce a Totep, puede ser interesante que tu mesa tenga al Barón Samedí y la Espiga Púrpura haya capturado a Totep. Totep se puede ajustarse al tono loco y divertido que pueda tener tu campaña.
 
@@ -98,7 +98,7 @@ Amanda les enseñará el hechizo de Transubstanciación (Anular poderes), pero s
 
 XXX
 
-> A pesar de lo que puedan creer el Barón Samedí nunca va a mentir a tus jugadores, será completamente sincero en todo lo que les diga.
+> A pesar de lo que puedan creer, el Barón Samedí nunca va a mentir a tus jugadores, será completamente sincero en todo lo que les diga.
 
 \sp
 

@@ -4,7 +4,7 @@
 
 \conc
 
-En este capítulo encontrarás 3 historias salvajes de 1 o 2 sesiones que podrá usar independientemente o meter dentro de la trama principal de «Contra la Espiga Púrpura» o de otras campañas de ¡Arrr! Cthulhu.
+En este capítulo encontrarás 5 historias salvajes de 1 a 3 sesiones que podrá usar independientemente o meter dentro de la trama principal de «Contra la Espiga Púrpura» o de otras campañas de ¡Arrr! Cthulhu.
 
 ### Nunca me habían dado todo
 
@@ -76,7 +76,7 @@ XXX
 
 **Comienzo:** En alta mar
 
-> XXX
+> Tu mesa vuelve a encontrarse con el islote viviente, pero está vez no son ellos los que han caído en sus pseudópodos. Esta vez es un barco mercante de la RCPC. Deberán decidir si lo salva para luego robarles la carga o no, si dejan que el shoggoth acabe con el barco, etc. Recuerda que si alguien de la tripulación del mercante sale vivo, la Orden del Gran Cthulhu conocería la existencia de este monstruo marino y podrían usar el shoggoth en sus planes de controlar el Caribe. 
 
 XXX
 
@@ -84,7 +84,7 @@ XXX
 
 **Comienzo:** Tierra de los Sueños
 
-> XXX
+> Las sirenas no existen en nuestro mundo, pero en la Tierra de los Sueños no. Así que tu mesa deberá enfrentarse a estos seres mitológicos y sus maléficas intenciones.
 
 XXX
 
@@ -96,6 +96,8 @@ XXX
 
 XXX
 
+\sp
+
 ### Un presente para Xeros
 
 **Comienzo:** Tierra de los Sueños
@@ -104,4 +106,4 @@ XXX
 
 XXX
 
-> Puedes convertir esta aventura en una más grande, haciendo que Dupont contrate a tu grupo para volver a la Tierra de los Sueños a liberar a su gente de las bestias lugares.
+> Puedes convertir esta aventura en una más grande, haciendo que Dupont contrate a tu grupo para volver a la Tierra de los Sueños a liberar a su gente de las bestias lunares.
