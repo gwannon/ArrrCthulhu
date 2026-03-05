@@ -80,8 +80,9 @@ XXX
 * **TPC:** d8
 * **Tamaño:** XXX
 * **Estado de conservación:** XXX
-* **Hechizos:** XXX
+* **Hechizos:** 3 Hechizos
 * **Tiempo de lectura:** 1 semana
+* **Especial:** Viene especificado el ritual para atrapar a un dios exterior. Cualquiera puede realizarla si tiene su esencia y está es suficientemente poderosa. Principalmente se crea un gigantesco agujero (10x10x10 metros). Dentro del hoyo se monta un altar donde se hace una ceremonia donde se usa la esencia para atraer al dios y encerrarlo en el hoyo que se convierte en una especie de trampa paradimensional. Es por ello importante que el hoyo sea hecho en un lugar apartado y pueda ser ocultado, de manera que nadie lo encuentre y pueda intentar deshacer la trampa.
 
 \sp
 
