@@ -70,6 +70,19 @@ Atrapado y debilitado, deberán llevarlo a Port Royal, y con el grimorio que esp
 
 Ya en las islas Turcas y Caicos, **Amanda realizará un tremendo ritual con el grimorio que encerrará al gran Nyarlathotep en una prisión extradimensional** del dolor primordial de la que solo aceptarán **sacarlo si liberan al gran Waylunor.**
 
+### El grimorio de Citor
+
+XXX
+
+* **Título:** El grimorio de Citor
+* **Autor:** XXX
+* **Idioma:** XXX
+* **TPC:** d8
+* **Tamaño:** XXX
+* **Estado de conservación:** XXX
+* **Hechizos:** XXX
+* **Tiempo de lectura:** 1 semana
+
 \sp
 
 \sinc
@@ -101,6 +114,12 @@ Amanda les enseñará el hechizo de Transubstanciación (Anular poderes), pero s
 XXX
 
 > A pesar de lo que puedan creer, el Barón Samedí nunca va a mentir a tus jugadores, será completamente sincero en todo lo que les diga.
+
+### Fèt Gede
+
+XXX
+
+Se celebra principalmente el 1 y 2 de noviembre de cada año, coincidiendo con el Día de Todos los Santos y el Día de los Difuntos. Aunque los días principales son estos dos, las celebraciones se extiende durante todo el mes de noviembre. Mientras haya alguien celebrándolo el Barón Samedí estará en la tierra. En cuanto terminen las celebraciones, el Barón desaparecerá hasta el año que viene.
 
 \sp
 
