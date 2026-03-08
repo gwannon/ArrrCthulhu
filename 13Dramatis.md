@@ -102,7 +102,9 @@ XXX
 * **Hechizos:** XXX PP, XXX
 * **Equipo:** XXX
 
-**Sugerencia de interpretación:** XXX
+**Sugerencia de interpretación:** No llamar la atención es lo que te ha mantenido con vida dentro de la Espiga Púrpura y es por ello que no sueles intervenir en las conversaciones, ni hablar alto, ni tener iniciativa, tú solo escuchas, memorizas y luego informas a la Orden. Si estás sola con algún miembro de la Espiga, puedes ser algo más activa y hacer preguntas y sonsacar algo de información extra.
+
+\sp
 
 \sinc
 
@@ -120,4 +122,4 @@ XXX
 * **Hechizos:** XXX PP, XXX
 * **Equipo:** XXX
 
-**Sugerencia de interpretación:** XXX
+**Sugerencia de interpretación:** Eres una especie de dios Baco caribeño, un dios del desenfreno y los bajos instintos que aparece solo un mes al año. Aunque hayas perdido la mayor aparte de tus poderes aún puedes sacar los vicios y las perversiones de la gente que te rodea. Bebes, cantas, gritas, insultas, intimidas y seduces a la gente de tu alrededor. Los excesos son lo tuyo, así que no te prives de nada con nadie.

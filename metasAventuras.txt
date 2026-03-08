@@ -1,0 +1,313 @@
+InfoKey: Subject
+InfoValue: Una campaña para ¡Arrr! Cthulhu donde te enfrentarás al dios exterior Waylunor y su culto de adoradores. Versión 0.3.2
+
+InfoKey: Author
+InfoValue: Jorge Monclús
+
+InfoKey: Keywords
+InfoValue: juego de rol, Savage Worlds, cthulhu, piratas
+
+BookmarkBegin
+BookmarkTitle: Portada
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Licencia de uso
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: Índice
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Waylunor y sus adoradores
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Waylunor
+BookmarkLevel: 2
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Waylunor y Nyarlathotep
+BookmarkLevel: 3
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Liberar a Waylunor
+BookmarkLevel: 3
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: La Espiga Púrpura de Waylunor
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Historia
+BookmarkLevel: 3
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Situación actual
+BookmarkLevel: 3
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Personalidades destacadas del culto
+BookmarkLevel: 3
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Lugares de culto y refugios
+BookmarkLevel: 3
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Logia de Masones Escoceses
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Rituales
+BookmarkLevel: 3
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: La hermandad del Sargazo y la Espiga Púrpura
+BookmarkLevel: 3
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Contra la Espiga Púrpura y otras historias salvajes
+BookmarkLevel: 1
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Resumen
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: El plan de Amanda Limestone
+BookmarkLevel: 2
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: El grimorio de Bahram el Gauro
+BookmarkLevel: 3
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Ritual para a atrapar a un dios exterior
+BookmarkLevel: 4
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Entrando en faena
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Si empiezas con personajes recién credos
+BookmarkLevel: 3
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: La captura del avatar
+BookmarkLevel: 2
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Fèt Gede
+BookmarkLevel: 3
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Entrando en la tierra de los sueños
+BookmarkLevel: 2
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: El paso del Ensueño
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Vuelta a aguas conocidas
+BookmarkLevel: 2
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: Otras maneras de volver
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: Negociando con el demonio
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Robando el grimorio
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Grimorio de Bahram el Gauro
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: La Espiga Púrpura contraataca
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: El enemigo de tu enemigo es tu aliado
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: El gran ritual
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Cómo afecta a «El tesoro hundido»
+BookmarkLevel: 2
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Nuevas historias salvajes
+BookmarkLevel: 2
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Nunca me habían dado todo
+BookmarkLevel: 3
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: ¿Qué está pasando?
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: En una taberna de mala muerte
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: El viaje al poblado
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Investigando a los ladrones
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Repeliendo el ataque
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Buscando el laboratorio
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Frenando la plaga
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Regreso a la isla de Tekeli-li
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Sirenas
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: El sueño de las ballenas
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Un presente para Xeros
+BookmarkLevel: 3
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Reglas
+BookmarkLevel: 1
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Nuevas ventajas
+BookmarkLevel: 2
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: Esencia de Waylunor
+BookmarkLevel: 3
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: Herencia profunda
+BookmarkLevel: 3
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: Progenie de una máscara
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Nuevas desventajas
+BookmarkLevel: 2
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Trastorno mental: Fobia social (mayor/menor)
+BookmarkLevel: 3
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Glándula pineal hiperdesarrollada (mayor)
+BookmarkLevel: 3
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Nuevos hechizos
+BookmarkLevel: 2
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Abrir puertas
+BookmarkLevel: 3
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Modificadores
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Anular poderes
+BookmarkLevel: 3
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Modificadores
+BookmarkLevel: 4
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Caminar sobre las aguas
+BookmarkLevel: 3
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Modificadores
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Tabla de Poderes y Hechizos
+BookmarkLevel: 3
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Dramatis personae
+BookmarkLevel: 1
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Amanda Limestone (comodín)
+BookmarkLevel: 2
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: Noor (comodín)
+BookmarkLevel: 2
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Doriqué (comodín)
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Leo Morgane (comodín)
+BookmarkLevel: 2
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Barón Samedí humanizado (comodín)
+BookmarkLevel: 2
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: Epílogo
+BookmarkLevel: 1
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Atribuciones
+BookmarkLevel: 2
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Notas del autor
+BookmarkLevel: 2
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Salud mental
+BookmarkLevel: 3
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Si eres un fascista, háztelo mirar
+BookmarkLevel: 3
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Contraportada
+BookmarkLevel: 1
+BookmarkPageNumber: 56
