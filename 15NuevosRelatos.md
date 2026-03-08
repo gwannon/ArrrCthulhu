@@ -4,7 +4,7 @@
 
 \conc
 
-En este capítulo encontrarás 5 historias salvajes de 1 a 3 sesiones que podrá usar independientemente o meter dentro de la trama principal de «Contra la Espiga Púrpura» o de otras campañas de ¡Arrr! Cthulhu.
+En este capítulo encontrarás **5 historias salvajes de 1 a 3 sesiones** que podrá usar independientemente o meter dentro de la trama principal de «Contra la Espiga Púrpura» o de otras campañas de ¡Arrr! Cthulhu.
 
 ### Nunca me habían dado todo
 
@@ -102,7 +102,7 @@ XXX
 
 **Comienzo:** Tierra de los Sueños
 
-> Un grupo de esclavos lengnitas quieren que tu mesa entregue un paquete a Xeros uno de los suyos que creen que escapo al mundo de la vigilia. Xeros no es otro que Dupont, el juerguista 
+> Un grupo de esclavos lengnitas quieren que tu mesa entregue un paquete a Xeros uno de los suyos que creen que escapo al mundo de la vigilia. Xeros no es otro que Dupont, el juerguista propietario de la taberna la Flor de Lis ubicado en Tortuga.
 
 XXX
 

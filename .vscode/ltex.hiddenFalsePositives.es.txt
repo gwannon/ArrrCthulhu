@@ -240,3 +240,15 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSu plan necesita un grimorio mágico desaparecido con el hechizo con el que encerrar a Nyarlathotep cuya pista llega hasta Port Royal.\\E$"}
 {"rule":"OBSCURE","sentence":"^\\QLa única manera que Amanda ve en que puede negociar con Nyarlathotep es tener algún tipo de ventaja sobre el oscuro dios, así que está buscando un grimorio con un poderoso ritual de «amarre» para atraerle y capturarle.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAtrapado y debilitado, deberán llevarlo a Port Royal, y con el grimorio que espera encontrar deberán llevar al avatar a las islas Turcas y Caicos en las Antillas Mayores donde harán el ritual.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QStarry Sky Wormhole por Andrea Stöckel\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QDe hecho, solo los más poderosos de los seguidores de Waylunor sabe que Nyarlathotep es el culpable del encierro de la deidad a la que adoran y que el dios de las muchas máscaras está detrás del fracaso de varios intentos de razas sintientes de adoradores de todo universo por liberarlo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRuin - Market by Brandon-Ellis\\E$"}
+{"rule":"ADEPT","sentence":"^\\QEsto está creando algunos problemas entre los adeptos al tener que coordinarse y trabajar en equipo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QUna vez secuestrado deberán embarcar y dirigirse a Port Royal para su entrega.\\E$"}
+{"rule":"REAL","sentence":"^\\QTu mesa, engañados por Amanda y sin saber sus intenciones reales, deberá atraparlo tras quitarle el 90% de su poder con un hechizo que Amanda Limestone les enseñará.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPara celebrar el ritual debe encontrar el grimorio mágico donde se describe, cuya pista se pierde en Port Royal antes del Maremoto.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl siguiente paso sería conseguir el grimorio de Bahram el Gauro que está hundido en una antigua mansión de Port Royal.\\E$"}
+{"rule":"COMILLAS_TIPOGRAFICAS","sentence":"^\\QIncluso podrían negociar con Nyarlathotep algún tipo de tregua e información y recursos contra la Orden del Gran Cthulhu y el alzamiento de R'lyeh.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QYa en las islas Turcas y Caicos, Amanda realizará un tremendo ritual con el grimorio que encerrará al gran Nyarlathotep en una prisión extradimensional del dolor primordial de la que solo aceptarán sacarlo si liberan al gran Waylunor.\\E$"}
+{"rule":"REAL","sentence":"^\\QSaber como entrar y volver de las Tierras del Sueño, puede permitirles moverse muy rápidamente por el Caribe, ya que el tiempo onírico pasa de forma diferente que el tiempo del mundo real como cuando usas el ánfora de viaje por las Tierras del Sueño.\\E$"}
+{"rule":"FORM","sentence":"^\\QSaber como entrar y volver de las Tierras del Sueño, puede permitirles moverse muy rápidamente por el Caribe, ya que el tiempo onírico pasa de forma diferente que el tiempo del mundo real como cuando usas el ánfora de viaje por las Tierras del Sueño.\\E$"}

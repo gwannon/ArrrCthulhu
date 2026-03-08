@@ -10,7 +10,7 @@ Amanda Limestone desciende de una larga tradición de adoradoras de Waylunor. Su
 
 Cuando su madre murió, toda la esencia se concentró en ella, ofreciéndole un gran poder mágico y la fortuna familiar. Con ello obtuvo todo lo necesario para liderar la Espiga Púrpura y embarcarla en la misión de liberar a Waylunor de su trampa gravitacional cósmica.
 
-Amanda mantiene en secreto sus lazos con la Espiga Púrpura y mantiene una imagen pública de XXX y de mujer muy sabia. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
+Amanda mantiene en secreto sus lazos con la Espiga Púrpura y mantiene una imagen pública de dama de alta sociedad de las colonias que se dedica a las obras de caridad. Nada más alejado de la realidad, teniendo en cuenta que quiere liberar a un dios caótico y cruel en la Tierra.
 
 Actualmente, Amanda quizás sea una de las magas más poderosa de todo el Caribe y si bien su poder no el comparable a Hernando de Villalba puede vencer en combate mágico a todo aquel que se enfrente.
 
@@ -49,10 +49,10 @@ El otro punto débil es que tiene cero capacidades sociales. No sabe moverse ent
 
 * **Atributos:** Agilidad d12, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
 * **Habilidades:** Atletismo d12, Cabalgar d10, Conocimientos Generales d6, Disparar d10, Idioma Inglés d4, Idioma Persa d4, Idioma Turco d6, Mitos de Cthulhu d4, Notar d4, Pelear d12, Persuadir d4, Sigilo d12, Tácticas d10
-* **Paso:** 6; **Parada:** 9 (1); **Dureza:** 8
-* **Desventajas:** XXX, Secreto (asesina principal de la Espiga Púrpura de Waylunor)
+* **Paso:** 6; **Parada:** 9 (1); **Dureza:** 9(8)
+* **Desventajas:** Despiadada (Mayor), Exceso de confianza (Mayor), Secreto (asesina principal de la Espiga Púrpura de Waylunor)
 * **Ventajas:** Afinidad mágica, Ambidextro, Trasfondo arcano (Hechicería primigenia), Ataque repentino, Con un par, Bloqueo, Fornida, Frenesí, Resistencia mágica
-* **Equipo:** XXX
+* **Equipo:** Chaleco y pantalones de cuero (Armadura +1) y ropajes negros, alfanje (FUE+d8) y 2 pistolas de chispa cargada (5/10/20, 2d6+1, Recarga 3)
 
 \sp
 
@@ -97,7 +97,7 @@ XXX
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma criollo dXXX, Idioma cthulhunés d6, Idioma Francés dXXX, Idioma Inglés dXXX, Idioma Persa dXXX, Mitos de Cthulhu dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Desventajas:** XXX, Secreto (mayor, agente de la Orden del Gran Cthulhu infiltrado en la Espiga Purpura)
 * **Ventajas:** XXX, Trasfondo arcano (Hechicería primigenia)
 * **Hechizos:** XXX PP, XXX
 * **Equipo:** XXX

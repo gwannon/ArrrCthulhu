@@ -46,7 +46,7 @@ Por su parte, Amanda está contra la espada y la pared. Sin el barón Samedí no
 
 \sp
 
-En este punto deberán volver a decidir que hacen teniendo en cuenta toda la nueva información que tienen. Si paran el ritual, si intentan robar el grimorio, si destierran al Nyarlatothep, si llegan a un trato con él, …
+En este punto deberán volver a decidir que hacen teniendo en cuenta toda la nueva información que tienen. Si paran el ritual, si intentan robar el grimorio, si destierran al Nyarlathotep, si llegan a un trato con él, …
 
 > Si el **tono de la campaña es más bien jocoso y ya conocen a Totep**, puede ser interesante que tu mesa tenga al Barón Samedí y la Espiga Púrpura haya capturado a Totep. Totep se puede ajustar al tono loco y divertido que pueda tener tu campaña.
 
@@ -76,13 +76,13 @@ Ya en las islas Turcas y Caicos, **Amanda realizará un tremendo ritual con el g
 
 ### El grimorio de Bahram el Gauro
 
-El grimorio de Bahram el Gauro es un libro de gran poder que fue escrito hace más de 3.000 años en la ciudad perdida de Iram-de-las-Columnas. Su autor o autores originales son desconocidos, ya que es una recopilación y una traducción de los grabados en una extraña lengua que había en las columnas y paredes de la ciudad. Bahram el Gauro, hechicero y alquimista, consiguió encontrar las ruinas de la ciudad y recopiló todos estos textos. Debió pasar toda su vida traduciéndolo al árabe. Sus discípulos de la secta del Fuego y de la Luz terminaron su trabajo de traducción.
+El grimorio de Bahram el Gauro es un libro de gran poder que fue escrito hace más de 3.000 años en la ciudad perdida de Iram-de-las-Columnas. Su autor o autores originales son desconocidos, ya que es una recopilación y una traducción de los grabados en una extraña lengua que había en las columnas y paredes de la ciudad. Bahram el Gauro, hechicero y alquimista, consiguió encontrar las ruinas de la ciudad y recopiló todos estos textos. Debió pasar toda su vida traduciéndolo al persa. Sus discípulos de la secta del Fuego y de la Luz terminaron su trabajo de traducción.
 
 El libro se mantuvo en la secta hasta su destrucción hacía el 850 d.C., cuando se creyó que desapareció en un gran incendio provocado por los propios miembros de la secta del Fuego y de la Luz.
 
 * **Título:** El grimorio de Bahram el Gauro
 * **Autor:** Desconocido
-* **Idioma:** Árabe (Traducción de Bahram el Gauro)
+* **Idioma:** Persa (Traducción de Bahram el Gauro)
 * **TPC:** d8
 * **Tamaño:** Libro
 * **Estado de conservación:** 	Bien conservado
@@ -90,11 +90,15 @@ El libro se mantuvo en la secta hasta su destrucción hacía el 850 d.C., cuando
 * **Tiempo de lectura:** 1 semana
 * **Especial:** Viene especificado el ritual para atrapar a un dios exterior. 
 
+El **persa es un idioma muy inusual en el Caribe**, así que aprenderlo tanto para leer el grimorio como para infiltrarse en la Espiga Púrpura es bastante complicado. Tus jugadores deberían tener una buena excusa para poder gastar avances en este idioma.
+
+\sp
+
+Quizás una gramática sacada de la Universidad Santo Tomás de Aquino, de la Universidad de la Habana o de la librería de Isadora de la Guía. En principio no debería haber nadie que pudiera enseñarles persa, pero siempre puedes sacar un viejo pirata del Mediterráneo que cambio de mares.
+
 #### Ritual para a atrapar a un dios exterior
 
 Cualquiera puede realizar este ritual si sabe como, tiene la esencia de su objetivo y esta es lo suficientemente poderosa. 
-
-\sp
 
 Principalmente se crea un gigantesco agujero (10x10x10 metros). Dentro del hoyo se monta un altar donde se hace una ceremonia donde se usa la esencia para atraer al dios y encerrarlo en el hoyo que se convierte en una especie de trampa paradimensional. 
 
@@ -164,7 +168,7 @@ Mientras el barco es tragado por el remolino, la tripulación que esté en cubie
 
 Cuando pasas al otro lado del remolino acabas en una especie de cementerio de barcos. Está lleno de restos de barcos que no han conseguido sobrevivir de una pieza al viaje.
 
-> Tus jugadores pueden intentar gastar un día buscar tesoros entre los pedios como si fuera un botín d8 pasando un día completo en el edificio, pero no pueden tirar en la tabla de Objetos Perdidos en el tiempo y el espacio. También conseguirán material suficiente para arreglar su barco completaamente.
+> Tus jugadores pueden intentar gastar un día buscar tesoros entre los pedios como si fuera un botín d8 pasando un día completo en el edificio, pero no pueden tirar en la tabla de Objetos Perdidos en el tiempo y el espacio. También conseguirán material suficiente para arreglar su barco completamente.
 
 XXX
 
@@ -178,12 +182,12 @@ XXX
 
 XXX
 
-### Otras formas de volver
+### Otras maneras de volver
 
-Otras formas de volver que tu mesa pueden intentar.
+Otras maneras de volver que tu mesa pueden intentar.
 
 * Si jugaron la aventura de «El yeho», el gugo viene de las Tierras de los Sueños. Quizás puedan encontrar la fisura de la realidad que uso el gugo para entrar en el mundo de la Vigilia.
-* Quizás puedan usar «Ánfora de viaje por las Tierras del sueño» para volver a su mundo. Tanto si la tienen en su poder como si la encuentran en las Tierras de los Sueños, talvez pueda modificarla para usarla a su gusto.
+* Tal vez puedan usar «Ánfora de viaje por las Tierras del sueño» para volver a su mundo. Tanto si la tienen en su poder como si la encuentran en las Tierras de los Sueños, talvez pueda modificarla para usarla a su gusto.
 
 \sp
 
@@ -266,4 +270,4 @@ Sin embargo, sí pueden haber conseguido aliados que ofrezcan alguna ventaja a t
 
 * El Barón Samedí, tanto como aliado, como si les debe un favor, es un recurso muy poderoso, pero solo durante el Fèt Gede. Si pueden invocarlo durante alguna batalla contra la Orden podría dar un token él solo o podría decantar del lado de los jugadores cualquier tipo de combate.
 * El grimorio de Bahram el Gauro y su ritual es algo muy poderoso que podría usarse contra la Orden del Gran Cthulhu, incluso encerrar al primigenio si lograsen liberarlo de su sueño.
-* XXX
+* Conocer el paso del Ensueño es un conocimiento bastante interesante, podían llevar a los navíos de guerra de la RCPC a una trampa y lanzarlos al Sueño. Saber como entrar y volver de las Tierras del Sueño, puede permitirles moverse muy rápidamente por el Caribe, ya que el tiempo onírico pasa de forma diferente que el tiempo del mundo real como cuando usas el ánfora de viaje por las Tierras del Sueño.
