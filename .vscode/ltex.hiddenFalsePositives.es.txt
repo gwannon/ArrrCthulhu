@@ -235,3 +235,8 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi no tu mesa no ha comprado El queso Chester en Port Royal, lo habrá adquirido la espiga Púrpura como base de operaciones en el Caribe.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEn la actualidad no tiene ningún lugar de culto fijo en el Caribe, pero Amanda Limestone está planeando montar un pequeño refugio en Jamaica, ya que sospecha que el libro que necesita para invocar a Nyarlathotep se encuentra hundida en alguna de las mansiones de la parte sumergida de la próxima Port Royal.\\E$"}
 {"rule":"PRESENT","sentence":"^\\QUn presente para Xeros\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPrincipalmente se crea un gigantesco agujero (10x10x10 metros).\\E$"}
+{"rule":"REALIZE","sentence":"^\\QCualquiera puede realizar este ritual si sabe como, tiene la esencia de su objetivo y esta es lo suficientemente poderosa.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSu plan necesita un grimorio mágico desaparecido con el hechizo con el que encerrar a Nyarlathotep cuya pista llega hasta Port Royal.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QLa única manera que Amanda ve en que puede negociar con Nyarlathotep es tener algún tipo de ventaja sobre el oscuro dios, así que está buscando un grimorio con un poderoso ritual de «amarre» para atraerle y capturarle.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAtrapado y debilitado, deberán llevarlo a Port Royal, y con el grimorio que espera encontrar deberán llevar al avatar a las islas Turcas y Caicos en las Antillas Mayores donde harán el ritual.\\E$"}
