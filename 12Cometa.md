@@ -38,13 +38,17 @@ A partir de aquí la aventura se puede bifurcar entre varias opciones.
 * Creen al barón, le liberan y le ayudan a acabar con la Espiga Púrpura. Según como lo hagan se quitarán una gran amenaza y conseguirán un aliado que igual, o no, les termina traicionando y matando.
 * Una tercera vía, que seguramente será la que escojan, es irse por su cuenta. Tienen la oportunidad de encerrar a un ser maligno y dejar a otro encerrado. Incluso podrían negociar con Nyarlathotep algún tipo de tregua e información y recursos contra la Orden del Gran Cthulhu y el alzamiento de R'lyeh.
 
-XXX
+El siguiente paso sería conseguir el grimorio de Bahram el Gauro que está hundido en una antigua mansión de Port Royal. Si lo hacen por su cuenta, tras encontrar el grimorio, la propia Amanda les tenderá una trampa para quitárselo. Si lo hace con Amanda, esta les tratará de matar en una fiesta/bacanal en su honor.
 
-Amanda está contra la espada y la pared. Sin el barón Samedí no puede hacer el gran ritual tal y como tenía pensado, pero tiene una segunda opción que hace el ritual mucho más complejo, pero igual de efectivo. Si ha encontrado el grimorio de Citor, se podrá a montar el ritual un ritual más complejo con una forma de esencia de peor calidad, pero aún válida, los **Vasos canopos del Faraón negro**.
+Sea como sea, si consiguen escapar, el Barón Samedí escapará con ellos, pero el grimorio será imposible llevárselos. Amanda es demasiado poderosa para enfrentarse a ella. 
 
-> Si el tono de la campaña es más bien jocoso y ya conoce a Totep, puede ser interesante que tu mesa tenga al Barón Samedí y la Espiga Púrpura haya capturado a Totep. Totep se puede ajustarse al tono loco y divertido que pueda tener tu campaña.
+Por su parte, Amanda está contra la espada y la pared. Sin el barón Samedí no puede hacer el gran ritual tal y como tenía pensado, pero tiene una segunda opción que hace el ritual mucho más complejo, pero igual de efectivo. Si ha encontrado el grimorio de Bahram el Gauro, se podrá a montar el ritual un ritual más complejo con una forma de esencia de peor calidad, pero aún válida, los **Vasos canopos del Faraón negro**.
 
-XXX
+\sp
+
+En este punto deberán volver a decidir que hacen teniendo en cuenta toda la nueva información que tienen. Si paran el ritual, si intentan robar el grimorio, si destierran al Nyarlatothep, si llegan a un trato con él, …
+
+> Si el **tono de la campaña es más bien jocoso y ya conocen a Totep**, puede ser interesante que tu mesa tenga al Barón Samedí y la Espiga Púrpura haya capturado a Totep. Totep se puede ajustar al tono loco y divertido que pueda tener tu campaña.
 
 \sp
 
@@ -58,11 +62,11 @@ Amanda Limestone, como lideresa de la Espiga Púrpura, ha llegado a la conclusi�
 
 Su plan necesita un grimorio mágico desaparecido con el hechizo con el que encerrar a Nyarlathotep cuya pista llega hasta Port Royal. Ya tiene a su gente buscando el grimorio en la ciudad hundida y está muy cerca. Pero también sabe que necesita parte de la esencia del propio dios.
 
-Según algunos escritos de estudiosos que ha leído, el grimorio contiene un hechizo que es una especie de **muñeco vudú cósmico para divinidades** y exige algo de la víctima del muñeco. Ese algo va a ser el Barón Samedí, uno de los avatares de Nyarlathotep en el Caribe.
+Según algunos escritos de estudiosos que ha leído, el grimorio contiene un hechizo que es una especie de **trampa cósmica vudú para divinidades** y exige algo personal de la víctima de la trampa. Ese algo va a ser el Barón Samedí, uno de los avatares de Nyarlathotep en el Caribe.
 
 El Barón Samedí aparece solo durante las celebraciones haitianas del Fèt Gede, sembrando la locura, los excesos y el desenfreno entre los que la celebran. Amanda mandaría a su culto contra el avatar, pero sabe que los conoce y en cuanto se acerquen desaparecerá para, quizás, no volver.
 
-Es por ello que **necesita a unos agentes externos** que hagan el trabajo por ella. Aquí es donde entra tu mesa. Deberán encontrarle y capturarle para que Amanda haga su trato. Aunque sea solo un avatar menor, sigue siendo tremendamente poderoso y la **única forma de capturarlo es humanizarlo mediante un hechizo** que Amanda enseñará a tu mesa. Cada uno de tus jugadores deberá despojarle de un parte de su poder, hasta convertirlo a prácticamente un humano normal y corriente.
+Es por ello que **necesita a unos agentes externos** que hagan el trabajo por ella. Aquí es donde entra tu mesa. Deberán encontrarle y capturarle para que Amanda haga su trato. Aunque sea solo un avatar menor, sigue siendo tremendamente poderoso y la **única manera de capturarlo es humanizarlo mediante un hechizo** que Amanda enseñará a tu mesa. Cada uno de tus jugadores deberá despojarle de un parte de su poder, hasta convertirlo a prácticamente un humano normal y corriente.
 
 \sp
 
@@ -70,19 +74,35 @@ Atrapado y debilitado, deberán llevarlo a Port Royal, y con el grimorio que esp
 
 Ya en las islas Turcas y Caicos, **Amanda realizará un tremendo ritual con el grimorio que encerrará al gran Nyarlathotep en una prisión extradimensional** del dolor primordial de la que solo aceptarán **sacarlo si liberan al gran Waylunor.**
 
-### El grimorio de Citor
+### El grimorio de Bahram el Gauro
 
-XXX
+El grimorio de Bahram el Gauro es un libro de gran poder que fue escrito hace más de 3.000 años en la ciudad perdida de Iram-de-las-Columnas. Su autor o autores originales son desconocidos, ya que es una recopilación y una traducción de los grabados en una extraña lengua que había en las columnas y paredes de la ciudad. Bahram el Gauro, hechicero y alquimista, consiguió encontrar las ruinas de la ciudad y recopiló todos estos textos. Debió pasar toda su vida traduciéndolo al árabe. Sus discípulos de la secta del Fuego y de la Luz terminaron su trabajo de traducción.
 
-* **Título:** El grimorio de Citor
-* **Autor:** XXX
-* **Idioma:** XXX
+El libro se mantuvo en la secta hasta su destrucción hacía el 850 d.C., cuando se creyó que desapareció en un gran incendio provocado por los propios miembros de la secta del Fuego y de la Luz.
+
+* **Título:** El grimorio de Bahram el Gauro
+* **Autor:** Desconocido
+* **Idioma:** Árabe (Traducción de Bahram el Gauro)
 * **TPC:** d8
-* **Tamaño:** XXX
-* **Estado de conservación:** XXX
-* **Hechizos:** 3 Hechizos
+* **Tamaño:** Libro
+* **Estado de conservación:** 	Bien conservado
+* **Hechizos:** 3 hechizos
 * **Tiempo de lectura:** 1 semana
-* **Especial:** Viene especificado el ritual para atrapar a un dios exterior. Cualquiera puede realizarla si tiene su esencia y está es suficientemente poderosa. Principalmente se crea un gigantesco agujero (10x10x10 metros). Dentro del hoyo se monta un altar donde se hace una ceremonia donde se usa la esencia para atraer al dios y encerrarlo en el hoyo que se convierte en una especie de trampa paradimensional. Es por ello importante que el hoyo sea hecho en un lugar apartado y pueda ser ocultado, de manera que nadie lo encuentre y pueda intentar deshacer la trampa.
+* **Especial:** Viene especificado el ritual para atrapar a un dios exterior. 
+
+#### Ritual para a atrapar a un dios exterior
+
+Cualquiera puede realizar este ritual si sabe como, tiene la esencia de su objetivo y esta es lo suficientemente poderosa. 
+
+\sp
+
+Principalmente se crea un gigantesco agujero (10x10x10 metros). Dentro del hoyo se monta un altar donde se hace una ceremonia donde se usa la esencia para atraer al dios y encerrarlo en el hoyo que se convierte en una especie de trampa paradimensional. 
+
+Es importante que el hoyo sea hecho en un lugar apartado y pueda ser ocultado, de manera que nadie lo encuentre y pueda intentar deshacer la trampa. De hecho, cuando se ha usado este ritual, se ha construido encima algún tipo de estructura como un templo, una pirámide o un momento megalítico que cierre el pozo. La construcción dificulta el acceso a la trampa y si se alimenta con la creencia de que está maldito, nadie querrá acercarse.
+
+El ritual es muy sencillo y podría hacerlo cualquiera con la ventaja Hechicería Primigenia, pero atrapar un dios exige mucho control y ten por seguro que si fallas el dios exterior no se conformará con matarte.
+
+> Tras crear el pozo y sacrificar la esencia, matándola o destruyéndola, el dios exterior es atraído al lugar. Entonces el mago debe pasar una tirada de Mitos de Cthulhu con un negativo entre -4 y -10 (según la potencia de la esencia). Un avatar del dios podría dar un negativo solo de -4, un humano hibridado con un dios exterior hace generaciones un -10. Si consigues la tirada, el dios exterior (y todos sus avatares) queda confinado en el pozo y ninguno de sus poderes puede salir de la trampa de manera que no podrá pedir ayuda.
 
 \sp
 
@@ -187,7 +207,7 @@ Sea como sea y hayan decidido lo que hayan decidido, tu mesa debe conseguir el g
 
 XXX
 
-### Grimorio de Citor
+### Grimorio de Bahram el Gauro
 
 XXX
 
@@ -245,4 +265,5 @@ Las agendas de la Gran Orden de Cthulhu y de la Espiga Púrpura no debería choc
 Sin embargo, sí pueden haber conseguido aliados que ofrezcan alguna ventaja a tu mesa en su lucha contra la Gran Orden. Veamos algunas posibilidades.
 
 * El Barón Samedí, tanto como aliado, como si les debe un favor, es un recurso muy poderoso, pero solo durante el Fèt Gede. Si pueden invocarlo durante alguna batalla contra la Orden podría dar un token él solo o podría decantar del lado de los jugadores cualquier tipo de combate.
+* El grimorio de Bahram el Gauro y su ritual es algo muy poderoso que podría usarse contra la Orden del Gran Cthulhu, incluso encerrar al primigenio si lograsen liberarlo de su sueño.
 * XXX
