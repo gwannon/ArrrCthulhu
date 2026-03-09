@@ -200,24 +200,26 @@ No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se conside
 
 \conc
 
-Aquí nuevos rituales menores que puedes añadir al listado del libro básico. Debido a que esta aventura se mueve entre Haití y Jamaica los rituales, están más centrados en el Vudú y la Kumina.
+Aquí tienes nuevos rituales menores que puedes añadir al listado del libro básico. Debido a que esta aventura se mueve entre Haití y Jamaica los rituales, están más centrados en el Vudú y la Kumina.
 
 **XXX:** XXX
 
 **XXX:** XXX
 
-**XXX:** XXX
+**No llores, mujer:** Al recoger sus propias lágrimas en una redomita de cristal, una persona que se autoperciba como mujer protege sus ojos de cualquier tipo de hechizo, maldición, enfermedad u otro efecto mágico. El efecto dura hasta la siguiente luna llena (1 semana).
+
+**El demonio disfrazado:** Siguiendo tradiciones paganas europeas tapadas por la iglesia católica, el ritualista se disfraza de alguna forma del diablo y es golpeado, pateado, apedreado y seguramente herido, mientras realiza algún tipo de camino (por la calle mayor, por una senda a una ermita, ...). Si consigue llegar al final, habrá pagado con su dolor y demostrado que es el más fuerte que el diablo. Obtiene un más +1 a Espíritu y habilidades asociadas para resistir intentos de intimidación, manipulación, control mental, provocar terror, etc. de entidades claramente malignas, eso incluye a dioses exteriores y primigenios y otros monstruos de los Mitos claramente malvados. Por ejemplo, un yithiano no es malvado _per se_, pero un yuggothianos sí. El efecto dura al siguiente amanecer y solo se puede hacer una vez por luna llena (es decir, una vez al mes).
+
+**El sol está brillando:** De día y con el cielo totalmente despejado, XXX
+
+**Beber agua de sentina:** El agua de la sentina es el agua más podrida y putrefacta que puedes encontrar en el barco, pero también tiene la esencia del barco y su tripulación. Beberse una jarra grande de este asqueroso líquido seguramente te dará diarrea, pero si tus tripas lo aguantan, estarás más en sintonía con el navío. Hasta la próxima luna llena (1 semana normalmente) tendrás un +1 en las tiradas de pilotar, navegar y moverte por el barco. Si fallas el ritual, prepárate a correr muchas veces a la borda a hacer tus necesidades.
+
+\sp
+
+**Ritmos purificadores de tambor:** El sacerdote o sacerdotisa Kumina baila y toca el tambor (y otro instrumento de percusión) alrededor de la persona enferma o envenenada, purificándola y ayudándola a combatir la enfermedad que le aqueja y ganando en +1 a la próxima tirada para superar una enfermedad, evitar los efectos de un veneno, etc. El bono siempre funciona incluso en enfermedades productos de maldiciones o poderes externos y/o primigenios.
 
 **XXX:** XXX
 
-**XXX:** XXX
-
-**XXX:** XXX
-
-**XXX:** XXX
-
-**XXX:** XXX
-
-**XXX:** XXX
+**Cantar a los nkuyu:** Los nkuyu son los espíritus mensajeros entre nuestro mundo y el más allá dentro de las creencias Kumina. Mediante unos cantos repetitivos puede hacer que los nkuyu te atiendan y lleven un mensaje muy simple(3 palabras máximo) al espíritu de un muerto. En principio solo funciona con muertos, pero también funcionará con aquellos comodines que hayan estado al borde la muerte, por ejemplo, al recibir 4 heridas.
 
 **XXX:** XXX
