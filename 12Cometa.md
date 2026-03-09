@@ -100,7 +100,7 @@ Quizás una gramática sacada de la Universidad Santo Tomás de Aquino, de la Un
 
 Cualquiera puede realizar este ritual si sabe como, tiene la esencia de su objetivo y esta es lo suficientemente poderosa. 
 
-Principalmente se crea un gigantesco agujero (10x10x10 metros). Dentro del hoyo se monta un altar donde se hace una ceremonia donde se usa la esencia para atraer al dios y encerrarlo en el hoyo que se convierte en una especie de trampa paradimensional. 
+Principalmente, se crea un gigantesco agujero (10x10x10 metros). Dentro del hoyo se monta un altar donde se hace una ceremonia donde se usa la esencia para atraer al dios y encerrarlo en el hoyo que se convierte en una especie de trampa paradimensional. 
 
 Es importante que el hoyo sea hecho en un lugar apartado y pueda ser ocultado, de manera que nadie lo encuentre y pueda intentar deshacer la trampa. De hecho, cuando se ha usado este ritual, se ha construido encima algún tipo de estructura como un templo, una pirámide o un momento megalítico que cierre el pozo. La construcción dificulta el acceso a la trampa y si se alimenta con la creencia de que está maldito, nadie querrá acercarse.
 
@@ -211,9 +211,23 @@ Sea como sea y hayan decidido lo que hayan decidido, tu mesa debe conseguir el g
 
 XXX
 
-### Grimorio de Bahram el Gauro
+### Port Royal
+
+> Este apartado amplía la información sobre la ciudad de Kingston que hay en el manual básico, detallando nuevas ubicaciones que puedes usar con tus aventuras como desees.
 
 XXX
+
+### Kingston
+
+> Este apartado amplía la información sobre la ciudad de Kingston que hay en el manual básico, detallando nuevas ubicaciones que puedes usar con tus aventuras como desees.
+
+XXX
+
+#### Ritmos jamaicanos
+
+XXX
+
+> Por unos 300 doblones y una semana de entrenamiento musical intensivo, mejorará el valor de Interpretar del personaje en un nivel de dado cuando toque un instrumento musical. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance. 
 
 \sp
 
@@ -255,6 +269,32 @@ XXX
 El Barón Samedí solo existe durante el Fèt Gede y si no son rápidos este desaparecerá y no podrá ayudarlos.
 
 XXX
+
+### Islas Turcas y Caicos
+
+Las Islas Turcas y Caicos es otro refugio importante de piratas. XXX
+
+XXX
+
+#### Cockburn Town
+
+_Población:_ XXX habitantes
+
+_Controlada por:_ XXX
+
+XXX
+
+#### Isla Iguana
+
+[XXX](https://www.atlasobscura.com/places/iguana-island)
+
+#### Colinas de Sapodilla 
+
+[XXX](https://www.atlasobscura.com/places/sapodilla-hill-carvings)
+
+#### The hole
+
+[XXX](https://www.atlasobscura.com/places/the-hole-long-bay-hills-turks-and-caicos-islands)
 
 \sp
 

@@ -98,7 +98,7 @@ En la actualidad la secta está muy activa en el Caribe, buscando una manera de 
 
 Contrariamente a la costumbre de la secta, sus miembros están entrando en contacto y trabajando en grupo como nunca habían hecho en su historía. Esto está creando algunos problemas entre los adeptos al tener que coordinarse y trabajar en equipo.
 
-Por otro lado su actividad está haciendo que el resto de poderes de los mares caribeños estén empezando a detectarlos y a investigarlos. Tanto es así que la Orden ha introducido un topo entre los nuevos cultistas de la Espiga Púrpura.
+Por otro lado, su actividad está haciendo que el resto de poderes de los mares caribeños estén empezando a detectarlos y a investigarlos. Tanto es así que la Orden ha introducido un topo entre los nuevos cultistas de la Espiga Púrpura.
 
 ### Personalidades destacadas del culto
 
@@ -114,7 +114,7 @@ Como ya hemos dicho, la Espiga Púrpura de Waylunor es un culto muy pequeño, pe
 
 ### Lugares de culto y refugios
 
-La Espiga Púrpura nunca han tenido la necesidad de tener refugios y lugares de culto, ya que gran parte de sus cultistas eran ricos y poderosos, con grandes mansiones donde hacer sus reuniones y con dinero suficiente para callar bocas indiscretas. Además la Espiga Púrpura no es de mucha ceremonia y rito y los pocos rituales que hacen se esconden bajo reuniones sociales en las mansiones de los más ricos. 
+La Espiga Púrpura nunca han tenido la necesidad de tener refugios y lugares de culto, ya que gran parte de sus cultistas eran ricos y poderosos, con grandes mansiones donde hacer sus reuniones y con dinero suficiente para callar bocas indiscretas. Además, la Espiga Púrpura no es de mucha ceremonia y rito y los pocos rituales que hacen se esconden bajo reuniones sociales en las mansiones de los más ricos. 
 
 De hecho, los miembros del culto son bastante solitarios comunicándose mucho por carta y evitando los planes que supongan juntar a más de un par de cultistas. El asesino mata solo, el científico inventa recluido en su laboratorio y los taumaturgos, salvo eventos mágicos especiales y grandes rituales actúa solo.
 
@@ -160,6 +160,6 @@ La Espiga Púrpura es un actor recién llegado al escenario sobrenatural que es 
 
 Pero la Orden tiene alguna ventaja, ya que ambos se ha encontrado incluso enfrentado en otros partes del mundo con la Espiga Púrpura.
 
-Sin embargo, la Espiga Púrpura si conoce a las fuerzas que luchan en el Caribe. Conocen a todas a la perfección, a Hernando de Villalba y la Orden del Gran Cthulhu y a Mary Read y su hermandad de piratas, incluso intuyen muchas de las tramas desarrolladas por los yuggothianos en estos mares. Todo esto es gracias a la labor de su mejor he único agente en la zona hasta ahora, Doriqué.
+Sin embargo, la Espiga Púrpura si conoce a las fuerzas que luchan en el Caribe. Conocen a todas a la perfección, a Hernando de Villalba y la Orden del Gran Cthulhu y a Mary Read y su hermandad de piratas, incluso intuyen muchas de las tramas desarrolladas por los yuggothianos en estos mares. Todo esto es gracias a la labor de su mejor y único agente en la zona hasta ahora, Doriqué.
 
 Doriqué es un mediocre mago pero un excepcional espía y agente encubierto potenciado con poderes mágicos. A diferencia de otros taumaturgos del culto de Waylunor, Doriqué no ha buscado grandes poderes mágicos, sino hechizos y conocimientos arcanos que le conviertan en mejor agente infiltrado y espía.

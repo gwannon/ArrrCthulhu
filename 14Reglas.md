@@ -36,13 +36,13 @@ Por tus venas corre sangre de profundos, pero está tan diluida que solo han dej
 
 **Requisitos:** Novato
 
-Las máscaras son los diferentes avatares del dios Nyarlathotep. Estos avatares a veces tienen forma humana o casi humana y suelen dejar descendencia. Normalmente la descendencia es abominable y horrible, pero algunas veces pueden pasar con humanos y llevar una vida normal dentro del caos que ser progenie de Nyarlathotep.
+Las máscaras son los diferentes avatares del dios Nyarlathotep. Estos avatares a veces tienen forma humana o casi humana y suelen dejar descendencia. Normalmente, la descendencia es abominable y horrible, pero algunas veces pueden pasar con humanos y llevar una vida normal dentro del caos que ser progenie de Nyarlathotep.
 
 Con las generaciones la esencia del dios se diluye, pero deja una marca. Como dios embaucador, su progenie se caracteriza por tener un increíble carisma para engañar, manipular e intimidar a cualquier criatura sintiente.
 
 La maldición que te sigue es que los tratos que hagas casi siempre suelen acabar de alguna forma mal para la otra parte y con el tiempo familia, amigos o sicarios vuelven para buscar justicia, venganza o recuperar perdidas. 
 
-> La progenie de una máscara obtiene +2 a sus tiradas de Persuadir e Intimidar. Sus capacidades de persuasión, manipulación o intimidación son tan increíbles que no importa que no hablen el mismo idioma o que sean razas extraterrestres con mentes alienígenas como los LLoigor o los Mi-Go.
+> La progenie de una máscara obtiene +2 a sus tiradas de Persuadir e Intimidar. Sus capacidades de persuasión, manipulación o intimidación son tan increíbles que no importa que no hablen el mismo idioma o que sean razas extraterrestres con mentes alienígenas como los Lloigor o los Mi-Go.
 
 \sp
 
@@ -54,7 +54,7 @@ La maldición que te sigue es que los tratos que hagas casi siempre suelen acaba
 
 Las siguientes desventajas extienden las desventajas de ¡Arrr! Cthulhu y pueden usarse tanto en esta campaña como en otras aventuras de esta ambientación.
 
-**Recuerda:** Los trastornos mentales y la salud mental representada en este suplemento son solo un juego, pero en la vida real debes tratar con respecto y empatia este tipo de enfermedades.
+**Recuerda:** Los trastornos mentales y la salud mental representada en este suplemento son solo un juego, pero en la vida real debes tratar con respecto y empatía este tipo de enfermedades.
 
 ### Trastorno mental: Fobia social (mayor/menor)
 
@@ -126,7 +126,7 @@ Anular un poder hace que el objetivo no pueda volver a usar un poder, pero no ev
 
 Si el gasto de lanzar un proyectil es 1 y el lanzador es novato (1) y el objetivo es veterano(3), serían 6 PP ((1 - (1 - 3)) * 2). Solo puedes anular poderes que exijan gasto de PP, aunque tras aplicar ventajas sea 0 PP.
 
-La duración de la anulación de los poderes es igual a la duración normal del hechizo sin modificar con un mínimo de 4 asaltos. Un proyectil tiene una duración instantánea, con lo que se anulará el poder durante 4 turnos. Desvío dura de normal 5 turnos con lo que se anularan durante 5 asaltos.
+La duración de la anulación de los poderes es igual a la duración normal del hechizo sin modificar con un mínimo de 4 asaltos. Un proyectil tiene una duración instantánea, con lo que se anulará el poder durante 4 turnos. «Desvío» dura de normal 5 turnos con lo que se anularan durante 5 asaltos.
 
 #### Modificadores
 
@@ -136,7 +136,7 @@ La duración de la anulación de los poderes es igual a la duración normal del 
 
 Cuando lo desees podrá quitar la cancelación permanente y recuperar esos PP quemados. 
 
-Los PP gastados en hacerlo permanente no vuelven directamente tras quitar la cancelación, sino que se recuperan como si se hubieran gastado normalmente, es decir que tardarán unas horas en volver todos. No puedes anular poderes permanentemente a objetivos más de 2 rangos por encima tuyo. La única manera de quitar una cancelación poderes permanente sin el permiso del hechicero que lo lanzo es que este muera. 
+Los PP gastados en hacerlo permanente no vuelven directamente tras quitar la cancelación, sino que se recuperan como si se hubieran gastado normalmente, es decir que tardarán unas horas en volver todos. No puedes anular poderes permanentemente a objetivos más de 2 rangos por encima. La única manera de quitar una cancelación poderes permanente sin el permiso del hechicero que lo lanzo es que este muera. 
 
 ### Caminar sobre las aguas
 
@@ -173,7 +173,7 @@ No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se conside
 |Abrir puertas|Toque de Waylunor|Como un agujero de gusano espacial sintiente, Waylunor puede ser invocado para atravesar puertas cerradas.|
 |Abrir puertas|¡Ábrete, sésamo!|Invocando la fórmula mágica de los cuentos de la Mil y una noches puedes abrir puertas a tu paso.|
 |Caminar sobre las aguas|Paso de Ayida-Wedo|El mago colocar unas bolas de algodón entre sus dedos invocando el poder de la serpiente arcoíris Ayida-Wedo para poder moverse por encima del agua como ella.|
-|Caminar sobre las aguas|Don de Dagón|Este primigenio otorga al hechicero la capacidad de andar sobre las aguas aumentando el tamaño de sus pies y dotandolos de membranas interdigitales.|
+|Caminar sobre las aguas|Don de Dagón|Este primigenio otorga al hechicero la capacidad de andar sobre las aguas aumentando el tamaño de sus pies y dotándolos de membranas interdigitales.|
 |Captura|Trampa de gravedad|Invocas parte de la mega-gravedad que tiene apresado a Waylunor para atrapar a un enemigo.|
 |Destierro|Hambriento agujero negro|Waylunor te concede sus poderes invocando un agujero negro que traga a tu enemigo y que puede que vuelva por un agujero blanco.|
 |Desvío|Defensa de Waylunor|Un manto de gravedad te recubre haciendo que todo ataque se vea afectado por dicha gravedad y tenga dificultad en impactarte.|
@@ -191,3 +191,33 @@ No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se conside
 |Protección ambiental|Protección de Waylunor|Waylunor otorga al brujo parte de su esencia y obtiene la capacidad para sobrevivir en el espacio como vacío, frío espacial o el calor de un sol.|
 
 \conc
+
+\sp
+
+\sinc
+
+## Nuevos rituales
+
+\conc
+
+Aquí nuevos rituales menores que puedes añadir al listado del libro básico. Debido a que esta aventura se mueve entre Haití y Jamaica los rituales, están más centrados en el Vudú y la Kumina.
+
+**XXX:** XXX
+
+**XXX:** XXX
+
+**XXX:** XXX
+
+**XXX:** XXX
+
+**XXX:** XXX
+
+**XXX:** XXX
+
+**XXX:** XXX
+
+**XXX:** XXX
+
+**XXX:** XXX
+
+**XXX:** XXX

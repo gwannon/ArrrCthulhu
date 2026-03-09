@@ -71,7 +71,7 @@ Creado por [|AUTHOR|](|AUTHOR_URL|)
 Este suplemento contiene:
 
 1. Una **campaña corta y 5 aventuras de 1 a 3 sesiones** que puedes meter dentro de la campaña o usarlas dentro de tus propias aventuras.
-2. **Nuevas localizaciones** y **nuevos personajes** que extienden el Caribe de ¡Arrr! Cthulhu
-3. Incluye todo un nuevo repertorio de **monstruos de los Mitos, enemigos y objetos mágicos y malditos**. También hay nuevas **ventajas, desventajas y hechizos** para usar en tus partidas de ¡Arrr! Cthulhu.
+2. **Nuevas localizaciones de Jamaica y Haití**, así como las **Islas de Turcos y Caicos** y **nuevos personajes** que extienden el Caribe de ¡Arrr! Cthulhu
+3. Incluye todo un nuevo repertorio de **monstruos de los Mitos, enemigos y objetos mágicos y malditos**. También hay nuevas **ventajas, desventajas, hechizos* y rituales** para usar en tus partidas de ¡Arrr! Cthulhu.
 
 ![Logo Pinnacle](./images/pinnaclelogo.webp)

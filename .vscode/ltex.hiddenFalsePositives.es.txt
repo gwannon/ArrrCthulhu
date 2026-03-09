@@ -252,3 +252,8 @@
 {"rule":"REALIZE","sentence":"^\\QYa en las islas Turcas y Caicos, Amanda realizará un tremendo ritual con el grimorio que encerrará al gran Nyarlathotep en una prisión extradimensional del dolor primordial de la que solo aceptarán sacarlo si liberan al gran Waylunor.\\E$"}
 {"rule":"REAL","sentence":"^\\QSaber como entrar y volver de las Tierras del Sueño, puede permitirles moverse muy rápidamente por el Caribe, ya que el tiempo onírico pasa de forma diferente que el tiempo del mundo real como cuando usas el ánfora de viaje por las Tierras del Sueño.\\E$"}
 {"rule":"FORM","sentence":"^\\QSaber como entrar y volver de las Tierras del Sueño, puede permitirles moverse muy rápidamente por el Caribe, ya que el tiempo onírico pasa de forma diferente que el tiempo del mundo real como cuando usas el ánfora de viaje por las Tierras del Sueño.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSi el gasto de lanzar un proyectil es 1 y el lanzador es novato (1) y el objetivo es veterano(3), serían 6 PP ((1 - (1 - 3)) * 2).\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QProtección ambiental Protección de Waylunor Waylunor otorga al brujo parte de su esencia y obtiene la capacidad para sobrevivir en el espacio como vacío, frío espacial o el calor de un sol.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QOscuridad Penumbra de Waylunor Waylunor otorga al mago la habilidad de atrapar la luz como un agujero negro y crear oscuridad.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPrincipalmente, se crea un gigantesco agujero (10x10x10 metros).\\E$"}

@@ -16,16 +16,19 @@ Actualmente, Amanda quizás sea una de las magas más poderosa de todo el Caribe
 
 Los recursos económicos de Amanda son inmensos. Su noble familia en su Inglaterra natal tiene inmensas cantidades de dinero fruto del comercio internacional y una flotilla de barcos que surcan los 7 mares. Es por ello que no tiene mucho aprecio por los piratas, ya que sus actividades le producen perdidas.
 
+En la actualidad reside en una mansión en Kingston, la Chatsworth House. Desde donde dirige la Espiga Púrpura y su flota de barcos. Nunca había sentido interés por el Caribe, pero ahora los está trayendo todos a estas aguas para que le ayuden en sus planes. Es por ello que la entrada de los navíos de «Limestone Co.» ha levantado sospechas en la RCPC.
+
+La RCPC y más en concreto la Orden del Gran Cthulhu han estado investigando y han empezado a escarbar la superficie de los secretos de Amanda y la Espiga Púrpura.
+
+\sp
+
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d12, Fuerza d6, Vigor d8
 * **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d8, Conocimientos Generales d12, Humanidades d8, Idioma cthulhunés d8, Idioma Inglés d10, Idioma Persa d10, Investigar d8, Medicina d6, Mitos de Cthulhu d10, Notar d4, Pelear d8, Persuadir d10, Saber de Solimán d12+1, Sigilo d6, Tácticas d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Desventajas:** Secreto (mayor, líder de la Espiga Púrpura de Waylunor), Vengativa
-
-\sp
-
 * **Ventajas:** Afinidad mágica, Asquerosamente Rica, Canalización, Trasfondo arcano (Hechicería primigenia), Esencia de Waylunor, Nuevos poderes x3, Puntos de poder x2, Subidón de poder
-* **Hechizos:** 36 PP, Incineración de Cthugha, XXX, Exorcizar, XXX, Hipnosis, Augurios del soñador, Toque de Waylunor, Don de Ithaqua, XXX
-* **Equipo:** Ropajes caros, XXX
+* **Hechizos:** 36 PP, Incineración de Cthugha, XXX, Exorcizar, XXX, Hipnosis, Augurios del soñador, Toque de Waylunor, Don de Ithaqua, XXX. Puede saber cualquier ritual, pero serán versiones europeizadas de ellos, por ejemplo, en vez de Adivinación con Mandiocas, ella lo hace con Manzanas.
+* **Equipo:** Ropajes caros, daga escondida (FUE+d4), 2 cocos de Yúcahu, 
 
 **Sugerencia de interpretación:** Como Amanda debes exudar confianza y seguridad, ni la más mínima señal de duda debe cruzar tu semblante. Sabes en todo momento lo que hay que hacer y cómo hacerlo y si no lo sabes, tomas una decisión con la convicción de que no habrá el mínimo fallo. Esta confianza te viene de saber que estás tocada por la divinidad y es por ese aplomo que tus seguidores y seguidoras irán y harán lo que les digas. Toca cambia cuando pierdes el control y la ira y la sed de sangre se apodera de ti. En esos momentos solo puedes gritar maldiciones y destilar odio a tus enemigos.
 
@@ -82,7 +85,7 @@ XXX
 * **Hechizos:** XXX PP, XXX
 * **Equipo:** XXX
 
-**Sugerencia de interpretación:** XXX
+**Sugerencia de interpretación:** Tu sonrisa te ha sacado de más apuros que tus habilidades mágicas, así que siempre sonríe. Además, te sirve de máscara para encubrir tus desequilibrios mentales. Si no estás sonriendo, es que algo muy malo va a pasar.
 
 \sp
 
