@@ -222,7 +222,11 @@ Obtiene un más +1 a Espíritu y habilidades asociadas para resistir intentos de
 
 **Cantar a los nkuyu:** Los nkuyu son los espíritus mensajeros entre nuestro mundo y el más allá dentro de las creencias Kumina. Mediante unos cantos repetitivos puede hacer que los nkuyu te atiendan y lleven un mensaje muy simple(3 palabras máximo) al espíritu de un muerto. En principio solo funciona con muertos, pero también funcionará con aquellos comodines que hayan estado al borde la muerte, por ejemplo, al recibir 4 heridas.
 
-**Lustrar la plata:** Lustrar plata ennegrecida por el tiempo con un pañuelo blanco impoluto trae mucha buena suerte. Cuanto más vieja sea la plata más suerte. Durante una noche, todas las tiradas de la habilidad que sea para ganar en juegos de azar, de cartas, de mesa, etc. reciben +1. Si tus jugadores consiguen plata muy antigua como denarios romanos y los lustran podrían obtener un +2. Una vez una usada una pieza de plata no puede volver a usarse hasta que no se ennegrezca de nuevo, o que puede suponer bastantes años.
+**Lustrar la plata:** Lustrar plata ennegrecida por el tiempo con un pañuelo blanco impoluto trae mucha buena suerte. Cuanto más vieja sea la plata más suerte. Durante una noche, todas las tiradas de la habilidad que sea para ganar en juegos de azar, de cartas, de mesa, etc. reciben +1. Si tus jugadores consiguen plata muy antigua como denarios romanos y los lustran podrían obtener un +2. 
+
+\sp
+
+Una vez una usada una pieza de plata no puede volver a usarse hasta que no se ennegrezca de nuevo, lo que puede suponer bastantes años.
 
 **XXX:** XXX
 
