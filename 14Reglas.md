@@ -213,7 +213,7 @@ Aquí tienes nuevos rituales menores que puedes añadir al listado del libro bá
 |7|Cantar a los nkuyu|
 |8|Lustrar la plata|
 |9|El humo de los orishas|
-|10|XXX|
+|10|Vacucopromancia|
 
 
 ### Beber agua de sentina
@@ -270,6 +270,10 @@ Al recoger sus propias lágrimas en una redomita de cristal, una persona que se 
 
 El sacerdote o sacerdotisa Kumina baila y toca el tambor (y otro instrumento de percusión) alrededor de la persona enferma o envenenada, purificándola y ayudándola a combatir la enfermedad que le aqueja y ganando en +1 a la próxima tirada para superar una enfermedad, evitar los efectos de un veneno, etc. El bono siempre funciona incluso en enfermedades productos de maldiciones o poderes externos y/o primigenios.
 
-### XXX
+### Vacucopromancia
 
-XXX
+Se dibuja con un palo sobre un terreno embarrado un mapa de un palacio, edificio, fortaleza u otra edificación grande y se deja que una vaca que no haya tenido terneras pasee por encima. El dibujo debe de ser grande, sobre unos 50m².
+
+Allí donde deje sus primeros excrementos será el punto débil del edificio y  se conseguirá en ese punto un +1 a tiradas de infiltrarse, escalar, abrir cerraduras, poner explosivos, ..., pero nada de Disparar o Pelear
+
+Cada vez que se haga el ritual, la vaca debe ser distinta. El +1 es permanente mientras la vaca siga viva y no tenga terneros.
