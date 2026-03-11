@@ -1013,7 +1013,7 @@ _Controlada por:_ Oficialmente Gran Bretaña
 
 Nueva Providencia es la mayor y más poblada de las islas de las Bahamas, unos 34 km de largo y 11 km de ancho. Es totalmente plana, lo cual hace que la agricultura sea uno de sus principales sectores económicos junto a la pesca.
 
-Aunque sus platas y puertos son tranquilos, la navegación por sus aguas y en general por las de todas las Bahamas es muy complicada por sus arrecifes y sus bancos de arena. Solo marinos locales saben bien moverse en sus aguas.
+Aunque sus playas y puertos son tranquilos, la navegación por sus aguas y en general por las de todas las Bahamas es muy complicada por sus arrecifes y sus bancos de arena. Solo marinos locales saben bien moverse en sus aguas.
 
 #### Nasáu
 

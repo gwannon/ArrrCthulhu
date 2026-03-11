@@ -282,21 +282,39 @@ XXX
 
 ### Islas Turcas y Caicos
 
-Las Islas Turcas y Caicos es otro refugio importante de piratas. XXX
+Las Islas Turcas y Caicos es un archipiélago de islas situado en el extremo este las Antillas Mayores. Son unas islas pequeñas y prácticamente deshabitadas. 
 
-XXX
+En teoría en un territorio dependiente de Bahamas, pero en la realidad se autogestionan y los poderes y las leyes británicas poco efecto tiene en estas islas.
+
+Estas islas son, como muchos de los pequeños archipiélagos controlados por los ingleses, un nido de piratas al mismo nivel que las islas Caimán.
+
+Los pueblos **taínos que habitaban estas islas fueron exterminados** por los colonizadores españoles y durante siglos solo habitaron estas islas los **marineros abandonados** en ellas castigados con el _maroon_. Así que no es extraño encontrar a veces esqueletos que las mareas o los vientos desentierran.
 
 #### Cockburn Town
 
-_Población:_ XXX habitantes
+_Población:_ 100 habitantes
 
-_Controlada por:_ XXX
+_Controlada por:_ Oficialmente Gran Bretaña
+
+Cockburn Town fue fundada por salineros de Bermuda en 1681 en la isla Gran Turca. 
 
 XXX
 
 #### Isla Iguana
 
-[XXX](https://www.atlasobscura.com/places/iguana-island)
+En el centro de las islas hay un pequeño islote donde vive una importante colonia de iguanas de roca. Este islote arenoso está deshabitado y **las iguanas campan y retozan a sus anchas** entre su baja vegetación.
+
+Es bastante famosa entre los barcos piratas por ser una **forma muy rápida, barata y fácil de conseguir carne fresca**. Así que no es raro ver a grupos de piratas corriendo detrás de las iguanas en las playas del islote. De hecho, muchas veces se terminan montando apuestas y concursos por ver quien consigue atrapar antes a una iguana.
+
+\sp
+
+Las iguanas son buenos animales de compañía, así que tampoco es de extrañar que muchas se salven de la cazuela y acaben sueltas en los barcos como mascotas de la tripulación.
+
+> Si necesitas estadísticas de una iguana, puedes usar las del gato del manual básico de SWEA.
+
+Ha habido varios intentos de habitar la isla, pero siempre han acabado en la extraña desaparición de sus habitantes. Es por ello que tiene **cierta fama de isla maldita**. 
+
+En realidad, los intentos de habitarla siempre han sido por parte de cazadores que querían montar un negocio de carne ahumada de iguana. Tarde o temprano se han encontrado con piratas que no querían pagar por lo antes tenían gratis y ha acabado matándolos y robándoles su carne ahumada.
 
 #### Colinas de Sapodilla 
 

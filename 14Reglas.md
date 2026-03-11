@@ -228,6 +228,8 @@ Obtiene un más +1 a Espíritu y habilidades asociadas para resistir intentos de
 
 Una vez una usada una pieza de plata no puede volver a usarse hasta que no se ennegrezca de nuevo, lo que puede suponer bastantes años.
 
-**XXX:** XXX
+**El humo de los orishas:** Se encienden dos cigarros, uno para ti y otro para el orisha que quieras y se dejan consumir. Si se consume primero el del orisha, es que estás bajo su protección y te otorga tus bendiciones. Durante el resto de la sesión, si el DJ pide alguna tirada de pura suerte, en plan «tirad cada uno un dado y al que saque menos le cae una maceta», podrás volver a tirar y quedarte con el resultado que más te interese.  
+
+Si se consumen primero el tuyo, es una mala señal. En ese caso deberás, te quedarás con las tiradas de suerte que más te perjudiquen.
 
 **XXX:** XXX
