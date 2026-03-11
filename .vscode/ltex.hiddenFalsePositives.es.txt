@@ -257,3 +257,7 @@
 {"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QOscuridad Penumbra de Waylunor Waylunor otorga al mago la habilidad de atrapar la luz como un agujero negro y crear oscuridad.\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QNovato\nPuntos de poder:\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPrincipalmente, se crea un gigantesco agujero (10x10x10 metros).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDenarius of Mark Antony and Octavian, struck at Ephesus in 41 BC.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q- Byzantium565 - Own work\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QByzantium565 - Own work\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBahamas Rock Iguana (Cyclura carinata) - Caudatejake - Own work\\E$"}

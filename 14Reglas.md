@@ -234,6 +234,8 @@ Debes permanecer debajo de una catarata, dominio del orisha Shangó, hasta que u
 
 \sp
 
+[![Smooth river rock a closeup study of natures sculpting by tohamina](./images/river-stone.png)](https://www.freepik.com/free-psd/smooth-river-rock-closeup-study-natures-sculpting_409869467.htm "Smooth river rock a closeup study of natures sculpting by tohamina") 
+
 Con ese canto debes clavar un clavo en el quicio de la puerta de una estructura, como una casa, un fuerte o incluso un navío. Esto dotará a la estructura de protección contra todo tipo de fuego, otro dominio del orisha Shangó, evitando que se incendie. La protección se acaba cuando se retire el clavo.
 
 Ten en cuenta que al clavarlo en el quicio, la puerta no se podrá cerrar y estará siempre abierta. Si lo pones en la entrada de tu casa protegerá toda la casa, pero estará siempre abierta. Si lo pones en la puerta de una habitación protegerá solo esa habitación. Recuerda que un barco no solo tiene puertas en la bodega y en el castillo de popa o de proa, así que nuca podrás proteger todo el barco, pero puede ser muy útil para evitar que se incendie la Santa Bárbara.
@@ -246,15 +248,17 @@ Obtiene un más +1 a Espíritu y habilidades asociadas para resistir intentos de
 
 ### El humo de los orishas
 
-Durante ritos y ceremonias vudú, se encienden dos cigarros, uno para ti y otro para el orisha que quieras y se dejan consumir. Si se consume primero el del orisha, es que estás bajo su protección y te otorga tus bendiciones. Durante el resto de la sesión, si el DJ pide alguna tirada de pura suerte, en plan «tirad cada uno un dado y al que saque menos le cae una maceta», podrás volver a tirar y quedarte con el resultado que más te interese.  
-
-Si se consumen primero el tuyo, es una mala señal. En ese caso deberás, te quedarás con las tiradas de suerte que más te perjudiquen.
+Durante ritos y ceremonias vudú, se encienden dos cigarros, uno para ti y otro para el orisha que quieras y se dejan consumir. Si se consume primero el del orisha, es que estás bajo su protección y te otorga tus bendiciones. 
 
 \sp
+
+Durante el resto de la sesión, si el DJ pide alguna tirada de pura suerte, en plan «tirad cada uno un dado y al que saque menos le cae una maceta», podrás volver a tirar y quedarte con el resultado que más te interese. Si se consumen primero el tuyo, es una mala señal. En ese caso deberás, te quedarás con las tiradas de suerte que más te perjudiquen.
 
 ### El sol está brillando
 
 De día y con el cielo totalmente despejado, coges brea de calafatear y te pintas la tripa y los brazos. Esto hace que tengas +1 a las tiradas de Vigor para evitar fatiga por sed o calor mientras te dure la brea en tu piel, normalmente no más de media semana.
+
+[![Denarius of Mark Antony and Octavian, struck at Ephesus in 41 BC. Byzantium565 - Own work](./images/Octavian_and_Antony_denarius.jpg)](https://en.wikipedia.org/wiki/Denarius#/media/File:Octavian_and_Antony_denarius.jpg "Denarius of Mark Antony and Octavian, struck at Ephesus in 41 BC. - Byzantium565 - Own work") 
 
 ### Lustrar la plata
 
@@ -268,12 +272,16 @@ Al recoger sus propias lágrimas en una redomita de cristal, una persona que se 
 
 ### Ritmos purificadores de tambor
 
-El sacerdote o sacerdotisa Kumina baila y toca el tambor (y otro instrumento de percusión) alrededor de la persona enferma o envenenada, purificándola y ayudándola a combatir la enfermedad que le aqueja y ganando en +1 a la próxima tirada para superar una enfermedad, evitar los efectos de un veneno, etc. El bono siempre funciona incluso en enfermedades productos de maldiciones o poderes externos y/o primigenios.
+El sacerdote o sacerdotisa Kumina baila y toca el tambor (y otro instrumento de percusión) alrededor de la persona enferma o envenenada, purificándola y ayudándola a combatir la enfermedad que le aqueja y ganando en +1 a la próxima tirada para superar una enfermedad, evitar los efectos de un veneno, etc. 
+
+\sp
+
+El bono siempre funciona incluso en enfermedades productos de maldiciones o poderes externos y/o primigenios.
 
 ### Vacucopromancia
 
-Se dibuja con un palo sobre un terreno embarrado un mapa de un palacio, edificio, fortaleza u otra edificación grande y se deja que una vaca que no haya tenido terneras pasee por encima. El dibujo debe de ser grande, sobre unos 50m².
+Se dibuja con un palo sobre un terreno embarrado un mapa de un palacio, edificio, fortaleza u otra edificación grande y se deja que una vaca que no haya tenido terneras pasee por encima. El dibujo debe de ser grande, sobre unos 50 m².
 
-Allí donde deje sus primeros excrementos será el punto débil del edificio y  se conseguirá en ese punto un +1 a tiradas de infiltrarse, escalar, abrir cerraduras, poner explosivos, ..., pero nada de Disparar o Pelear
+Allí donde deje sus primeros excrementos será el punto débil del edificio y se conseguirá en ese punto un +1 a tiradas de cosas como infiltrarse, escalar, abrir cerraduras o poner explosivos, pero nada de Disparar o Pelear.
 
 Cada vez que se haga el ritual, la vaca debe ser distinta. El +1 es permanente mientras la vaca siga viva y no tenga terneros.

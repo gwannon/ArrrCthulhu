@@ -37,6 +37,11 @@ Damos las gracias y el crédito apropiado a estos increíbles artistas que nos h
 * [encuentros-mas.webp](https://www.deviantart.com/themefinland/art/Magical-rupture-commission-950188160) por [ThemeFinland](https://www.deviantart.com/themefinland)
 * [sternenhimmel-himmel-wurmloch.jpg](https://www.publicdomainpictures.net/en/view-image.php?image=534157) por Andrea Stöckel
 * [bazar.jpg](https://www.deviantart.com/brandon-ellis/art/Ruin-Market-874688696) por [Brandon-Ellis](https://www.deviantart.com/brandon-ellis/)
+* [Octavian_and_Antony_denarius.jpg](https://en.wikipedia.org/wiki/Denarius#/media/File:Octavian_and_Antony_denarius.jpg) por Byzantium565 
+* [Cyclura_carinata2.jpg](https://en.wikipedia.org/wiki/Turks_and_Caicos_rock_iguana#/media/File:Cyclura_carinata2.jpg) por Caudatejake
+* [river-sstone.png](https://www.freepik.com/free-psd/smooth-river-rock-closeup-study-natures-sculpting_409869467.htm) por tohamina
+
+\sp
 
 \sinc
 

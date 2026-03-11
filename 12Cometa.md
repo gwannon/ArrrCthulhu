@@ -186,6 +186,44 @@ XXX
 
 XXX
 
+\sinc
+
+### Tabla de Encuentros en el mar del sueño
+
+|1d20|Nombre|Descripción|
+|---|---|---|
+|1|XXX|XXX|
+|2|XXX|XXX|
+|3|XXX|XXX|
+|4|XXX|XXX|
+|5|XXX|XXX|
+|6|XXX|XXX|
+|7|Sirenas|Una noche de luna llena se empiezan a oír unos bellísimos cantos procedentes de la popa del barco. Empieza el relato salvaje «Sirenas».|
+|8|XXX|XXX|
+|9|XXX|XXX|
+|10|XXX|XXX|
+|11|XXX|XXX|
+|12|XXX|XXX|
+|13|XXX|XXX|
+|14|XXX|XXX|
+
+\conc
+
+\sp
+
+\sinc
+
+|1d20|Nombre|Descripción|
+|---|---|---|
+|15|Barco ballenero|Un ballenero que parece del mundo de la vigilia aparece en el horizonte. Empieza el relato salvaje «El sueño de las ballenas».|
+|16|XXX|XXX|
+|17|XXX|XXX|
+|18|XXX|XXX|
+|19|XXX|XXX|
+|20|XXX|XXX|
+
+\conc
+
 ### Otras maneras de volver
 
 Otras maneras de volver que tu mesa pueden intentar.
@@ -308,9 +346,11 @@ Es bastante famosa entre los barcos piratas por ser una **forma muy rápida, bar
 
 \sp
 
+[![Bahamas Rock Iguana (Cyclura carinata) - Caudatejake - Own work](./images/Cyclura_carinata2.jpg)](https://en.wikipedia.org/wiki/Turks_and_Caicos_rock_iguana#/media/File:Cyclura_carinata2.jpg "Bahamas Rock Iguana (Cyclura carinata) - Caudatejake - Own work") 
+
 Las iguanas son buenos animales de compañía, así que tampoco es de extrañar que muchas se salven de la cazuela y acaben sueltas en los barcos como mascotas de la tripulación.
 
-> Si necesitas estadísticas de una iguana, puedes usar las del gato del manual básico de SWEA.
+> Si necesitas estadísticas de una iguana, puedes usar las del gato domestico del manual básico de SWEA.
 
 Ha habido varios intentos de habitar la isla, pero siempre han acabado en la extraña desaparición de sus habitantes. Es por ello que tiene **cierta fama de isla maldita**. 
 
