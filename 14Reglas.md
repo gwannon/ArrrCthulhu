@@ -236,9 +236,11 @@ Debes permanecer debajo de una catarata, dominio del orisha Shangó, hasta que u
 
 [![Smooth river rock a closeup study of natures sculpting by tohamina](./images/river-stone.png)](https://www.freepik.com/free-psd/smooth-river-rock-closeup-study-natures-sculpting_409869467.htm "Smooth river rock a closeup study of natures sculpting by tohamina") 
 
-Con ese canto debes clavar un clavo en el quicio de la puerta de una estructura, como una casa, un fuerte o incluso un navío. Esto dotará a la estructura de protección contra todo tipo de fuego, otro dominio del orisha Shangó, evitando que se incendie. La protección se acaba cuando se retire el clavo.
+Este canto debes colocarlo en el quicio de la puerta de una estructura, como una casa, un fuerte o incluso un navío. Esto dotará a la estructura de protección contra todo tipo de fuego, otro dominio del orisha Shangó, evitando que se incendie. La protección se acaba cuando se retire el clavo.
 
-Ten en cuenta que al clavarlo en el quicio, la puerta no se podrá cerrar y estará siempre abierta. Si lo pones en la entrada de tu casa protegerá toda la casa, pero estará siempre abierta. Si lo pones en la puerta de una habitación protegerá solo esa habitación. Recuerda que un barco no solo tiene puertas en la bodega y en el castillo de popa o de proa, así que nuca podrás proteger todo el barco, pero puede ser muy útil para evitar que se incendie la Santa Bárbara.
+Ten en cuenta que al meterlo en el quicio, la puerta no se podrá cerrar y estará siempre abierta. Si lo pones en la entrada de tu casa protegerá toda la casa, pero estará siempre abierta. Si lo pones en la puerta de una habitación protegerá solo esa habitación. Recuerda que un barco no solo tiene puertas en la bodega y en el castillo de popa o de proa, así que nunca podrás proteger todo el barco, pero puede ser muy útil para evitar que se incendie la Santa Bárbara, aunque cualquier podrá entrar.
+
+Si la piedra es retirada, cosa bastante fácil que puede incluso hacerse sin querer, la protección desaparecerá.
 
 ### El demonio disfrazado
 
