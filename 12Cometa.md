@@ -195,16 +195,14 @@ XXX
 |1|XXX|XXX|
 |2|XXX|XXX|
 |3|XXX|XXX|
-|4|XXX|XXX|
+|4|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
 |5|XXX|XXX|
 |6|XXX|XXX|
 |7|Sirenas|Una noche de luna llena se empiezan a oír unos bellísimos cantos procedentes de la popa del barco. Empieza el relato salvaje «Sirenas».|
-|8|XXX|XXX|
+|8|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
 |9|XXX|XXX|
 |10|Barco de mercaderes lengnitas|Un barco de mercaderes/esclavos lengnitas se acerca a vuestro barco, quizás quieran comerciar Empieza el relato salvaje «Un presente para Xeros».|
 |11|XXX|XXX|
-|12|XXX|XXX|
-|13|XXX|XXX|
 
 \conc
 
@@ -214,15 +212,19 @@ XXX
 
 |1d20|Nombre|Descripción|
 |---|---|---|
+|12|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
+|13|XXX|XXX|
 |14|Serannian|En mitad de la nada se ve una escala de cuerda de oro, que asciende hasta las nubes. La escala asciende durante 1,5 km. Subir por ella es una tarea titánica (hay que conseguir 10 avances en tiradas de Atletismo, cada tirada fallada supone 1 de fatiga). Si consigues llegar hasta el final, estarás en la ciudad flotante de Serannian.|
 |15|Barco ballenero|Un ballenero que parece del mundo de la vigilia aparece en el horizonte. Empieza el relato salvaje «El sueño de las ballenas».|
-|16|XXX|XXX|
-|17|XXX|XXX|
+|16|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
+|17|Shantak perdido|A lo lejos aparece un shantak que se posa en el castillo de proa, parece herido, deshidratado, hambriento y totalmente desorientado. No son seres que vivan en el mar, todo lo contrario viven en los desiertos helados del norte. Quizás han sido acosados por los |
 |18|XXX|XXX|
-|19|XXX|XXX|
+|19|El cementerio de barcos|Encuentran el alta mar un islote que tiene gran cantidad de restos de barcos. Empieza el relato salvaje «La isla de Tekeli-li» del libro principal. Si ya lo han jugado, puedes continuar con «Regreso a la isla de Tekeli-li» en este suplemento.|
 |20|XXX|XXX|
 
 \conc
+
+\sp
 
 ### Otras maneras de volver
 
