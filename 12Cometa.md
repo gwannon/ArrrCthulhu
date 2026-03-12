@@ -201,11 +201,10 @@ XXX
 |7|Sirenas|Una noche de luna llena se empiezan a oír unos bellísimos cantos procedentes de la popa del barco. Empieza el relato salvaje «Sirenas».|
 |8|XXX|XXX|
 |9|XXX|XXX|
-|10|XXX|XXX|
+|10|Barco de mercaderes lengnitas|Un barco de mercaderes/esclavos lengnitas se acerca a vuestro barco, quizás quieran comerciar Empieza el relato salvaje «Un presente para Xeros».|
 |11|XXX|XXX|
 |12|XXX|XXX|
 |13|XXX|XXX|
-|14|XXX|XXX|
 
 \conc
 
@@ -215,6 +214,7 @@ XXX
 
 |1d20|Nombre|Descripción|
 |---|---|---|
+|14|Serannian|En mitad de la nada se ve una escala de cuerda de oro, que asciende hasta las nubes. La escala asciende durante 1,5 km. Subir por ella es una tarea titánica (hay que conseguir 10 avances en tiradas de Atletismo, cada tirada fallada supone 1 de fatiga). Si consigues llegar hasta el final, estarás en la ciudad flotante de Serannian.|
 |15|Barco ballenero|Un ballenero que parece del mundo de la vigilia aparece en el horizonte. Empieza el relato salvaje «El sueño de las ballenas».|
 |16|XXX|XXX|
 |17|XXX|XXX|
