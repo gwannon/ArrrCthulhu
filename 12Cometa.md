@@ -186,6 +186,74 @@ XXX
 
 XXX
 
+### Localizaciones en las Tierras del Sueño
+
+XXX
+
+#### La Montaña del Imán
+
+En mitad del mar hay una isla llamada la isla de la Montaña del Imán. La isla es una gigantesca montaña salida del mar, sin sitios para fondear o sitios en los que desembarcar. Toda la costa son grandes acantilados con peligrosos arrecifes que imposibilitan bajar a tierra.
+
+En lo alto de la montaña hay una especie de cúpula de cobre soportada por 10 columnas y debajo de ella una estatua ecuestre hecha de un metal desconocido muy parecido al cobre.
+
+La sola presencia de la montaña congela los corazones de los marinos, ya que saben que su fin está cerca. Enseguida su barco se ve atraído hacia la isla y cuando está cerca, los clavos, los anclajes y demás elementos metálicos salen volando hacia la montaña. 
+
+Si todavía sigue a flote después de esto acaba estrellándose contra los arrecifes y acantilados y los marinos mueren ahogados al no poder subir a tierra firme.
+
+La montaña de piedra ferrosa, gracias a la estatua ecuestre, es un gigantesco y superpoderoso imán que atrae a todos los barcos que se le acercan. Las laderas de la montaña están cubiertas de objetos metálicos que el imán ha arrancado de los barcos y sus tripulantes. Algunos llevan siglos allí rotos y oxidados. Además, es casi imposible despegarlos del suelo al que están pegados.
+
+Todo barco con componentes metálicos que entre en el radio de 5 km. de las montañas del imán entra en su zona de atracción y no puede escapar de su zona magnetizada a no ser que se pase una tirada de Pilotar -4. 
+
+Si se falla, se acerca un kilómetro a la isla y para escapar hay que superar una tirada de pilotar -5 (4 + 1 por cada kilómetro). Si falla de nuevo, se acerca otro km hasta llegar a distancia de recibir daño y si se pasa la tirada, recupera un kilómetro.
+
+\sp
+
+La montaña produce 3d6 de daño a todos los barcos que se acerquen a rango de 0.5 km. El daño es producido por todos las piezas de metal arrancadas y los arrecifes contra los que es atraído. El daño se repite cada 5 minutos hasta que lo destruye contra los arrecifes.
+
+Dentro de este rango de 0.5 km, cada PJ puede tratar de evitar que dos de sus objetos metálicos se vayan volando haciendo una tirada de FUE enfrentada contra d10. Si se pasa, durante 5 minutos se puede usar en objeto sin problema. Si falla el objeto sale volando de sus manos. Si los objetos son soltados, salen volando y se pierden.
+
+Toda la montaña se considera terreno difícil debido a la pendiente de la montaña y a la gran cantidad de objetos metálicos oxidados que hay en su suelo. Muchos son, además, punzantes y cortantes y moverse entre ellos sin hacerse daño es bastante complicado.
+
+##### La estatua ecuestre en la cima
+
+La estatua ecuestre de las montañas de Imán es una de las tres estatuas ecuestres con poderes mágicos que aparecen en las 1001 Noches. Es lo que le da su tremendo poder magnético a las montañas de Imán. Sin esa estatua, las montañas solo sería unos grandes bloques de piedra tierra ricos en elementos férricos.
+
+Hay varias teorías sobre el origen de la estatua, siendo todas posibles en mayor o meno medida.
+
+* Pudiera ser que contenga encerrado en su interior la esencia de algún primigenio o dios exterior menor relacionado con el magnetismo. Quien le dio la forma ecuestre es un misterio, quizás sea un chiste del dios arquetípico Nodens que no podemos entender.
+* Otra teoría es que sean algún tipo de ingenio de serpigente para extraer materiales magnéticos. Seguramente en origen tendría una forma más eficaz como una esfera para maximizar su poder y con el tiempo alguien tallo la esfera en forma de estatua ecuestre (aunque sea extremadamente dura para usar martillo y cincel). Sobre porque abandonaron el ingenio magnético es un misterio. Puede que la radiación electromagnética fuera peligrosa u otra raza destruyó el asentamiento y abandonó allí la esfera.
+
+\sp
+
+* La tercera y, quizás, más acertada es que sea algún tipo de trampa o arma creada por alguna raza para destruir a sus enemigos. Un objeto tan poderoso podría destruir incluso naves estelares y hacerlas estrellarse contra la tierra. De alguna manera la estatua acabo en esta montaña o quizás se puso en su ubicación actual para proteger algo debajo de la montaña.
+
+##### Destruyendo la estatua ecuestre
+
+La estatua es inmune a todo ataque que no sea mágico y, además, no puede usarse contra ella armas metálicas porque se quedan pegados a la montaña en cuanto te acercas. Porras de madera o hachas de piedra podrían usarse, pero seguramente se romperán antes de hacer daño al metal de la estatua.
+
+Una opción podría ser encender un fuego en su base y cuando el metal esté al rojo vivo, lanzar agua fría para que el brusco cambio de temperatura la haga estallar. Habría que separarla rápidamente porque si no volvería a reconstruirse por acción del propio magnetismo.
+
+La estatua pesa casi 3 toneladas, así que otra opción sería tratar de moverla y lanzarla al mar lejos de las ferrosas montañas. 
+
+> **Recompensa de cordura (+1):** Destruir la estatua salvará muchas vidas en el futuro y ese acto debería recompensarse con un +1 a Cordura, sobre todo si se conoce los devastadores efectos magnéticos de la estatua y los miles de muertes que ha provocado.
+
+##### Saqueo de la isla
+
+Las rocas y piedras de la montaña no funcionan como imán sin la presencia de la estatua ecuestre. Son altamente ferrosas, pero dejan de ser magnéticas al alejarse de la isla. Pasa lo mismo con los objetos metálicos atraídos a la montaña.
+
+Si se está una hora buscando activamente entre los restos de naufragios y los objetos atraídos por el imán, se podrá hacer una tirada de botín de d8.
+
+> **Semilla de aventura:** Si la teoría del arma anti naves espaciales es cierta, la montaña podría tener unas instalaciones militares de los creadores de la estatua y a las que esta protegía de ataques. Puede haber cualquier cosa en esas instalaciones.
+
+\sp
+
+### Otras maneras de volver
+
+Otras maneras de volver que tu mesa pueden intentar.
+
+* Si jugaron la aventura de «El yeho», el gugo viene de las Tierras de los Sueños. Quizás puedan encontrar la fisura de la realidad que uso el gugo para entrar en el mundo de la Vigilia.
+* Tal vez puedan usar «Ánfora de viaje por las Tierras del sueño» para volver a su mundo. Tanto si la tienen en su poder como si la encuentran en las Tierras de los Sueños, talvez pueda modificarla para usarla a su gusto.
+
 \sinc
 
 ### Tabla de Encuentros en el mar del sueño
@@ -201,8 +269,6 @@ XXX
 |7|Sirenas|Una noche de luna llena se empiezan a oír unos bellísimos cantos procedentes de la popa del barco. Empieza el relato salvaje «Sirenas».|
 |8|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
 |9|XXX|XXX|
-|10|Barco de mercaderes lengnitas|Un barco de mercaderes/esclavos lengnitas se acerca a vuestro barco, quizás quieran comerciar Empieza el relato salvaje «Un presente para Xeros».|
-|11|XXX|XXX|
 
 \conc
 
@@ -212,26 +278,28 @@ XXX
 
 |1d20|Nombre|Descripción|
 |---|---|---|
+|10|Barco de mercaderes lengnitas|Un barco de mercaderes/esclavos lengnitas se acerca a vuestro barco, quizás quieran comerciar Empieza el relato salvaje «Un presente para Xeros».|
+|11|XXX|XXX|
 |12|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
 |13|XXX|XXX|
 |14|Serannian|En mitad de la nada se ve una escala de cuerda de oro, que asciende hasta las nubes. La escala asciende durante 1,5 km. Subir por ella es una tarea titánica (hay que conseguir 10 avances en tiradas de Atletismo, cada tirada fallada supone 1 de fatiga). Si consigues llegar hasta el final, estarás en la ciudad flotante de Serannian.|
 |15|Barco ballenero|Un ballenero que parece del mundo de la vigilia aparece en el horizonte. Empieza el relato salvaje «El sueño de las ballenas».|
 |16|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
-|17|Shantak perdido|A lo lejos aparece un shantak que se posa en el castillo de proa, parece herido, deshidratado, hambriento y totalmente desorientado. No son seres que vivan en el mar, todo lo contrario viven en los desiertos helados del norte. Quizás han sido acosados por noctivagos demacrados y ha acabado aquí perdido.|
-|18|XXX|XXX|
-|19|El cementerio de barcos|Encuentran el alta mar un islote que tiene gran cantidad de restos de barcos. Empieza el relato salvaje «La isla de Tekeli-li» del libro principal. Si ya lo han jugado, pueden ser unos restos de pecios enredados en sargazos que pueden saquear. Sería un botín de d6 sin objetos fuera del tiempo y del espacio.|
-|20|XXX|XXX|
 
 \conc
 
 \sp
 
-### Otras maneras de volver
+\sinc
 
-Otras maneras de volver que tu mesa pueden intentar.
+|1d20|Nombre|Descripción|
+|---|---|---|
+|17|Shantak perdido|A lo lejos aparece un shantak que se posa en el castillo de proa, parece herido, deshidratado, hambriento y totalmente desorientado. No son seres que vivan en el mar, todo lo contrario viven en los desiertos helados del norte. Quizás ha sido acosado por noctivagos demacrados y ha acabado aquí perdido.|
+|18|XXX|XXX|
+|19|El cementerio de barcos|Encuentran el alta mar un islote que tiene gran cantidad de restos de barcos. Empieza el relato salvaje «La isla de Tekeli-li» del libro principal. Si ya lo han jugado, pueden ser unos restos de pecios enredados en sargazos que pueden saquear. Sería un botín de d6 sin objetos fuera del tiempo y del espacio.|
+|20|La Montaña del Imán|XXX|
 
-* Si jugaron la aventura de «El yeho», el gugo viene de las Tierras de los Sueños. Quizás puedan encontrar la fisura de la realidad que uso el gugo para entrar en el mundo de la Vigilia.
-* Tal vez puedan usar «Ánfora de viaje por las Tierras del sueño» para volver a su mundo. Tanto si la tienen en su poder como si la encuentran en las Tierras de los Sueños, talvez pueda modificarla para usarla a su gusto.
+\conc
 
 \sp
 
