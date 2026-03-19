@@ -198,7 +198,7 @@ body>section:nth-of-type(6) h1 {
   background-size: cover;
 }
 
-body#aventuras>section:nth-of-type(6) h1 {
+body#aventuras>section:nth-of-type(7) h1 {
   background: #000000 url(../images/embarcaciones.webp) center center no-repeat;
   background-size: auto 105%;
 }
@@ -208,7 +208,7 @@ body>section:nth-of-type(7) h1 {
   background-size: cover;
 }
 
-body#aventuras>section:nth-of-type(7) h1 {
+body#aventuras>section:nth-of-type(8) h1 {
   background: #000000 url(../images/piratas.webp) center center no-repeat;
   background-size: auto 105%;
 }
@@ -218,7 +218,7 @@ body>section:nth-of-type(8) h1 {
   background-size: cover;
 }
 
-body#aventuras>section:nth-of-type(8) h1 {
+body#aventuras>section:nth-of-type(9) h1 {
   background: #000000 url(../images/playa-doncella.jpg) right center no-repeat;
   background-size: cover;
 }
@@ -558,6 +558,13 @@ section h1 + .saltopagina:after {
     bottom: calc(50vh + 2px);
   }
 
+  #aventuras section:nth-of-type(6) .saltopagina:before,
+  #aventuras section:nth-of-type(6) .saltopagina.even:before { 
+    content: "L \A u \A g \A a \A r \A e \A s ";
+    height: 24vh;
+    bottom: calc(76vh + 2px);
+  }
+
   section:nth-of-type(6) .saltopagina:before,
   section:nth-of-type(6) .saltopagina.even:before {
     height: 42vh;
@@ -567,8 +574,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-dark);
   }
 
-  #aventuras section:nth-of-type(6) .saltopagina:before,
-  #aventuras section:nth-of-type(6) .saltopagina.even:before { 
+  #aventuras section:nth-of-type(7) .saltopagina:before,
+  #aventuras section:nth-of-type(7) .saltopagina.even:before { 
     content: "R \A e \A g \A l \A a \A s ";
     height: 22vh;
     bottom: calc(78vh + 2px);
@@ -583,8 +590,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-gul);
   }
 
-  #aventuras section:nth-of-type(7) .saltopagina:before,
-  #aventuras section:nth-of-type(7) .saltopagina.even:before { 
+  #aventuras section:nth-of-type(8) .saltopagina:before,
+  #aventuras section:nth-of-type(8) .saltopagina.even:before { 
     content: "D \A r \A a \A m \A a \A t \A i \A s \A \A p \A e \A r \A s \A o \A n \A a \A e ";
     height: 50vh;
     bottom: calc(50vh + 2px);
@@ -599,8 +606,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-cthulhu);
   }
 
-  #aventuras section:nth-of-type(8) .saltopagina:before,
-  #aventuras section:nth-of-type(8) .saltopagina.even:before { 
+  #aventuras section:nth-of-type(9) .saltopagina:before,
+  #aventuras section:nth-of-type(9) .saltopagina.even:before { 
     content: "E \A p \A í \A l \A o \A g \A o ";
     height: 23vh;
     bottom: calc(77vh + 2px);
@@ -615,8 +622,8 @@ section h1 + .saltopagina:after {
     background-color: var(--green-deepone);
   }
 
-  #aventuras section:nth-of-type(9) .saltopagina:before,
-  #aventuras section:nth-of-type(9) .saltopagina.even:before { 
+  #aventuras section:nth-of-type(10) .saltopagina:before,
+  #aventuras section:nth-of-type(10) .saltopagina.even:before { 
     display: none;
   }
 
