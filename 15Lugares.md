@@ -50,11 +50,19 @@ Dylath-Leen es también infame por las galeras negras que frecuentan sus puertos
 
 XXX
 
+#### Galeras negras
+
+XXX
+
+#### Bestia lunar
+
+XXX
+
+\sp
+
 ### La Montaña del Imán
 
 En mitad del mar hay una isla llamada la isla de la Montaña del Imán. La isla es una gigantesca montaña salida del mar, sin sitios para fondear o sitios en los que desembarcar. Toda la costa son grandes acantilados con peligrosos arrecifes que imposibilitan bajar a tierra.
-
-\sp
 
 En lo alto de la montaña hay una especie de cúpula de cobre soportada por 10 columnas y debajo de ella una estatua ecuestre hecha de un metal desconocido muy parecido al cobre.
 
@@ -70,11 +78,11 @@ Si se falla, se acerca un kilómetro a la isla y para escapar hay que superar un
 
 La montaña produce 3d6 de daño a todos los barcos que se acerquen a rango de 0.5 km. El daño es producido por todos las piezas de metal arrancadas y los arrecifes contra los que es atraído. El daño se repite cada 5 minutos hasta que lo destruye contra los arrecifes.
 
+\sp
+
 Dentro de este rango de 0.5 km, cada PJ puede tratar de evitar que dos de sus objetos metálicos se vayan volando haciendo una tirada de FUE enfrentada contra d10. Si se pasa, durante 5 minutos se puede usar en objeto sin problema. Si falla el objeto sale volando de sus manos. Si los objetos son soltados, salen volando y se pierden.
 
 Toda la montaña se considera terreno difícil debido a la pendiente de la montaña y a la gran cantidad de objetos metálicos oxidados que hay en su suelo. Muchos son, además, punzantes y cortantes y moverse entre ellos sin hacerse daño es bastante complicado.
-
-\sp
 
 #### La estatua ecuestre en la cima
 
@@ -85,10 +93,11 @@ La estatua es lo que le da su tremendo poder magnético a la montaña de Imán. 
 Hay varias teorías sobre el origen de la estatua, siendo todas posibles en mayor o meno medida.
 
 * Pudiera ser que contenga encerrado en su interior la esencia de algún primigenio o dios exterior menor relacionado con el magnetismo. Quien le dio la forma ecuestre es un misterio, quizás sea un chiste del dios arquetípico Nodens que no podemos entender.
-* Otra teoría es que sean algún tipo de ingenio de serpigente, yuggothianos e, incluso, yithianos para extraer materiales magnéticos. Seguramente en origen tendría una forma más eficaz como una esfera para maximizar su poder y con el tiempo alguien tallo la esfera en forma de estatua ecuestre (aunque sea extremadamente dura para usar martillo y cincel). Sobre porque abandonaron el ingenio magnético es un misterio. Puede que la radiación electromagnética fuera peligrosa u otra raza destruyó el asentamiento y abandonó allí la esfera.
-* La tercera y, quizás, más acertada es que sea algún tipo de trampa o arma creada por alguna raza para destruir a sus enemigos. Un objeto tan poderoso podría destruir flotas enteras de naves (incluso especiales) haciéndolas estrellarse contra la montaña. De alguna manera la estatua acabo en esta montaña o quizás se puso en su ubicación actual para proteger algo debajo de la montaña.
+* Otra teoría es que sean algún tipo de ingenio de serpigente, yuggothianos e, incluso, yithianos para extraer materiales magnéticos. Seguramente en origen tendría una forma más eficaz como una esfera para maximizar su poder y con el tiempo alguien tallo la esfera para creaar una estatua ecuestre (aunque sea extremadamente dura para usar martillo y cincel). Sobre porque abandonaron el ingenio magnético es un misterio. Puede que la radiación electromagnética fuera peligrosa u otra raza destruyó el asentamiento y abandonó allí la esfera.
 
 \sp
+
+* La tercera y, quizás, más acertada es que sea algún tipo de trampa o arma creada por alguna raza para destruir a sus enemigos. Un objeto tan poderoso podría destruir flotas enteras de naves (incluso especiales) haciéndolas estrellarse contra la montaña. De alguna manera la estatua acabo en esta montaña o quizás se puso en su ubicación actual para proteger algo debajo de la montaña.
 
 #### Destruyendo la estatua ecuestre
 
@@ -110,6 +119,18 @@ Si se está una hora buscando activamente entre los restos de naufragios y los o
 
 \sp
 
+### Navegar por los mares de las Tierras del Sueño
+
+Tu mesa va a navegar por el Oceano Medio, la estrecha masa de agua entre el continente del este y del oeste. Los puntos más alejados que deberían poder visitar son Serannian en el norte, ya en el Mar Cereniano, y Dylath-Leen, al sur en el Mar Austral. Esa distancia podría recorrerse en 3 semanas. Puedes tomar esto como referencia para el tiempo que puede durar la travesía que quiera hacer tus PJ.
+
+Navegar no por estas aguas no es fácil. Para empezar son aguas desconocidas donde tu mesa no sabe como interpretar las señales atmosféricas, no conoce las corrientes, ni la geografía, además, al principio al menos, no tendrán mapas. Las estrellas son las mismas, pero con ciertos cambios, con lo que orientarse se dificulta mucho.
+
+> Todas las tiradas de Pilotar para orientarse, leer el tiempo, buscar rutas, etc. reciben un -2 a la tirada. Si pasan el suficiente tiempo en estas aguas y compran mapas, contratan marinos locales o cosas similares podrás quitarles este negativo.
+
+XXX
+
+\sp
+
 \sinc
 
 ### Tabla de Encuentros en el mar del sueño
@@ -117,14 +138,13 @@ Si se está una hora buscando activamente entre los restos de naufragios y los o
 |1d20|Nombre|Descripción|
 |---|---|---|
 |1|La montaña del Imán|Una gran isla formada por una gran montaña surge en el horizonte. Las corrientes parece que os llevan directamente hacia ella.|
-|2|XXX|XXX|
-|3|XXX|XXX|
+|2|Ejemplar de La verdad de La Habana|Uno de los marineros saca un ejemplar de la VLH y empieza a comentar alguna noticia extraña. Tu mesa podrá tirar en la Tabla de Noticias de La verdad de La Habana.|
+|3|Sirenas|Una noche de luna llena se empiezan a oír unos bellísimos cantos procedentes de la popa del barco. Empieza el relato salvaje «Sirenas».|
 |4|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
-|5|XXX|XXX|
-|6|XXX|XXX|
-|7|Sirenas|Una noche de luna llena se empiezan a oír unos bellísimos cantos procedentes de la popa del barco. Empieza el relato salvaje «Sirenas».|
+|5|Galera negra|Una galera negra bastante destrozada se acerca hacia vuestro barco, parece que tiene problema, pero podría ser también una trampa. Empieza el relato salvaje «Un presente para Xeros».|
+|6|El cementerio de barcos|Encuentran el alta mar un islote que tiene gran cantidad de restos de barcos. Empieza el relato salvaje «La isla de Tekeli-li» del libro principal. Si ya lo han jugado, pueden ser unos restos de pecios enredados en sargazos que pueden saquear. Sería un botín de d6 sin objetos fuera del tiempo y del espacio.|
+|7|Galera negra|Una galera negra camino a Dylath-Leen. Quizás podéis comerciar o tal vez continuar con vuestra carrera en la piratería en otro mundo.|
 |8|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
-|9|XXX|XXX|
 
 \conc
 
@@ -134,13 +154,15 @@ Si se está una hora buscando activamente entre los restos de naufragios y los o
 
 |1d20|Nombre|Descripción|
 |---|---|---|
-|10|Barco de mercaderes lengnitas|Un barco de mercaderes/esclavos lengnitas se acerca a vuestro barco, quizás quieran comerciar Empieza el relato salvaje «Un presente para Xeros».|
-|11|XXX|XXX|
+|9|Barco ballenero|Un ballenero que parece del mundo de la vigilia aparece en el horizonte. Empieza el relato salvaje «El sueño de las ballenas».|
+|10|Serannian|En mitad de la nada se ve una escala de cuerda de oro, que asciende hasta las nubes. La escala asciende durante 1,5 km. Subir por ella es una tarea titánica (hay que conseguir 10 avances en tiradas de Atletismo, cada tirada fallada supone 1 de fatiga). Si consigues llegar hasta el final, estarás en la ciudad flotante de Serannian.|
+|11|Shantak perdido|A lo lejos aparece un shantak que se posa en el castillo de proa, parece herido, deshidratado, hambriento y totalmente desorientado. No son seres que vivan en el mar, todo lo contrario viven en los desiertos helados del norte. Quizás ha sido acosado por noctivagos demacrados y ha acabado aquí perdido.|
 |12|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
-|13|XXX|XXX|
-|14|Serannian|En mitad de la nada se ve una escala de cuerda de oro, que asciende hasta las nubes. La escala asciende durante 1,5 km. Subir por ella es una tarea titánica (hay que conseguir 10 avances en tiradas de Atletismo, cada tirada fallada supone 1 de fatiga). Si consigues llegar hasta el final, estarás en la ciudad flotante de Serannian.|
-|15|Barco ballenero|Un ballenero que parece del mundo de la vigilia aparece en el horizonte. Empieza el relato salvaje «El sueño de las ballenas».|
+|13|Abandonado a su suerte|Empieza el relato salvaje «Abandonado a su suerte».|
+|14|¡Noctivagos!|Una bandada de 1d6+2 Noctivagos Demacrados cruza los cielos. Uno de ellos chilla y empiezan a descender hacia vuestro barco.|
+|15|XXX|XXX|
 |16|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
+|17|XXX|XXX|
 
 \conc
 
@@ -150,28 +172,52 @@ Si se está una hora buscando activamente entre los restos de naufragios y los o
 
 |1d20|Nombre|Descripción|
 |---|---|---|
-|17|Shantak perdido|A lo lejos aparece un shantak que se posa en el castillo de proa, parece herido, deshidratado, hambriento y totalmente desorientado. No son seres que vivan en el mar, todo lo contrario viven en los desiertos helados del norte. Quizás ha sido acosado por noctivagos demacrados y ha acabado aquí perdido.|
 |18|XXX|XXX|
-|19|El cementerio de barcos|Encuentran el alta mar un islote que tiene gran cantidad de restos de barcos. Empieza el relato salvaje «La isla de Tekeli-li» del libro principal. Si ya lo han jugado, pueden ser unos restos de pecios enredados en sargazos que pueden saquear. Sería un botín de d6 sin objetos fuera del tiempo y del espacio.|
-|20|La Montaña del Imán|XXX|
+|19|XXX|XXX|
+|20|XXX|XXX|
 
 \conc
 
 \sp
+
+\sinc
 
 ## Jamaica
 
-XXX
+\conc
+
+Este apartado amplía la información sobre Jamaica que hay en el manual básico de ¡Arrr! Cthulhu, detallando nuevas ubicaciones que puedes usar con tus aventuras como desees.
 
 ### Port Royal
 
-> Este apartado amplía la información sobre la ciudad de Kingston que hay en el manual básico, detallando nuevas ubicaciones que puedes usar con tus aventuras como desees.
+_Población: 1.500 personas_
+
+_Controlada por: Gran Bretaña_
 
 XXX
 
+#### Logia de Masones Escoceses 
+
+Este edificio era la sede una logia de masones en su mayoría escoceses que se establecieron en Port Royal. Tras sobrevivir a duras penas el maremoto de 1692, fue considerado inseguro y abandonado por la logia. Se malvendió por poco dinero a Horace Bowen, un comerciante que lo convirtió en una especie de almacén de reciclaje. Se dedicó durante años a retirar escombros de los restos dejados por el maremoto por toda la ciudad y vender lo que podía ser de valor y quemar o tirar en los pantanos lo que no.
+
+De repente, desapareció de la faz de la tierra y el negocio fue cerrado por deudas e impago. Los empleados y los acreedores se llevaron lo que pudieron para venderlo y el resto quedo abandonado en el edificio.
+
+La realidad es que **Horace Bowen fue hecho desaparecer por la Orden del Gran Cthulhu**. Con sus investigaciones sobre la ciudad de Port Royal y el maremoto para maximizar los beneficios de su negocio de recuperación estaba acercándose mucho a la verdad sobre el maremoto que acabo con el que la Orden destruyo la ciudad. 
+
+El sótano y la planta baja están llenos de restos de escombros que se quedaron sin procesar con la desaparición de Horace. El piso superior donde se reunía la logia para sus ceremonias y donde Horace tenía sus oficinas, ahora mismo está desvencijado y cualquier cosa de valor ha sido saqueado.
+
+\sp
+
+> Tus jugadores pueden intentar buscar tesoros entre la basura allí acumulada una única sola vez como si fuera un botín d8 pasando un día completo en el edificio, pero no pueden tirar en la tabla de Objetos Perdidos en el tiempo y el espacio.
+
+La orden del Gran Cthulhu limpió bien las oficinas de documentos incriminatorios, pero no localizó una **pequeña sala secreta que la logia masónica usaba** para guardar sus objetos ceremoniales. Horace la descubrió y **guardó allí algunos diarios con notas de sus descubrimientos**. No incriminan directamente a la orden, pero sí tienen pruebas de que algún agente sobrenatural fue el culpable del maremoto y de la degradación de Port Royal. Una tirada de Buscar -2 en las oficinas, podrías permitir descubrir la sala secreta y los documentos que en ella guardaba Horace. 
+
+
 ### Kingston
 
-> Este apartado amplía la información sobre la ciudad de Kingston que hay en el manual básico, detallando nuevas ubicaciones que puedes usar con tus aventuras como desees.
+_Población: 28.000_
+
+_Controlada por: Gran Bretaña_
 
 XXX
 
@@ -231,9 +277,21 @@ Ha habido varios intentos de habitar la isla, pero siempre han acabado en la ext
 
 En realidad, los intentos de habitarla siempre han sido por parte de cazadores que querían montar un negocio de carne ahumada de iguana. Tarde o temprano se han encontrado con piratas que no querían pagar por lo antes tenían gratis y ha acabado matándolos y robándoles su carne ahumada.
 
-#### Colinas de Sapodilla 
+### Colinas de Sapodilla
 
-[XXX](https://www.atlasobscura.com/places/sapodilla-hill-carvings)
+Durante muchas décadas, antes de que se colonizase este archipiélago, las islas Turcas y Caicos eran un sitio perfecto donde abandonar a marinos como castigo. A eso se le unió las terribles tormentas que azotaban la zona. Así qué no es de extrañar que en estas islas acabarán muchos náufragos y marinos abandonados.
+
+En la isla de Providenciales en el extremo sur del archipiélago, hay unas colinas de roca dura llamadas las **colinas de Sopadilla** donde mucha de esa gente grabó sus nombres y cuando llego a ellas (y muy pocas con la de salida).
+
+Si buscas a alguien desaparecido, te puedes ahorrar muchos meses de búsqueda revisando los nombres grabados en las piedras de las colinas y quizás con suerte encuentres su esqueleto en el refugio que construyó allí.
+
+> **Semilla de aventuras:** Alguien de tu mesa ve su nombre escrito en la piedra con una fecha en el futuro.
+
+\sp
+
+En las playas de la isla cercanas a las colinas se pueden encontrar esqueletos desenterrados por la arena, y entre su vegetación selvática se pueden descubrir los refugios medio destruidos de las personas que acabaron en aquella isla perdida.
+
+> Estos antiguos campamentos son sitios perfectos para dejar objetos tanto mundanos como pedidos en el tiempo y el espacio. Pueden ser realmente antiguos y de muchísimo valor. Desde objetos de poder, grimorios o mapas del tesoro.
 
 ### The hole
 
