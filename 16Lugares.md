@@ -10,9 +10,13 @@ XXX
 
 ### Fèt Gede
 
+El Fèt Gede se celebra principalmente el 1 y 2 de noviembre de cada año, coincidiendo con el Día de Todos los Santos y el Día de los Difuntos. Aunque los días principales son estos dos, las celebraciones se extiende durante todo el mes de noviembre. Durante el Fèt Gede los practicantes del vudú celebran sus creencias «paganas» prohibidas por las autoridades y la iglesia Católica, escondiéndolas bajo las celebraciones de todos los Santos. 
+
+Así pues, las celebraciones del Fèt Gede se hacen en el cementerio. 
+
 XXX
 
-Se celebra principalmente el 1 y 2 de noviembre de cada año, coincidiendo con el Día de Todos los Santos y el Día de los Difuntos. Aunque los días principales son estos dos, las celebraciones se extiende durante todo el mes de noviembre y  mientras haya alguien celebrándolo el Barón Samedí estará en la tierra. En cuanto terminen las celebraciones, el Barón desaparecerá hasta el año que viene.
+> Mientras haya alguien celebrándolo el Barón Samedí estará en la tierra. En cuanto terminen las celebraciones, el Barón desaparecerá hasta el año que viene. Así que durante todo el mes de noviembre, el avatar de Nyarlathotep camina entre las gentes de Haití.
 
 \sp
 
@@ -22,9 +26,9 @@ Se celebra principalmente el 1 y 2 de noviembre de cada año, coincidiendo con e
 
 \conc
 
-Seguramente, durante una cuantas sesiones tu mesa va a navegar por los Mares de las Tierras del Sueño. Así que aquí te proponemos algunas localizaciones que puedes usar en tus aventuras mientras buscan la forma de volver a su mundo. 
+Seguramente, durante una cuantas sesiones tu mesa va a navegar por los Mares de las Tierras del Sueño. Así que aquí te proponemos algunas localizaciones que puedes usar en tus aventuras mientras buscan la manera de volver a su mundo. 
 
-Tu mesa navegará principalmente por el Oceano Medio, la masa de agua que hay entre el Mar Cerenario y el Mar Austral y podrán desembarcar en puertos tan importantes como Celepahïs o ver las maravillas de la ciudad flotante de Serannian. 
+Tu mesa navegará principalmente por el Océano Medio, la masa de agua que hay entre el Mar Cerenario y el Mar Austral y podrán desembarcar en puertos tan importantes como Celephaïs o ver las maravillas de la ciudad flotante de Serannian. 
 
 ### Celephaïs
 
