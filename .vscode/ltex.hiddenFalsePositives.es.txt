@@ -261,3 +261,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q- Byzantium565 - Own work\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QByzantium565 - Own work\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBahamas Rock Iguana (Cyclura carinata) - Caudatejake - Own work\\E$"}
+{"rule":"REAL","sentence":"^\\QSon principalmente herbívoros, pero en realidad son omnívoros y tienden a la antropofagia, devorando indistintamente cuerpos reales y proyecciones astrales.\\E$"}

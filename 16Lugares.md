@@ -2,7 +2,7 @@
 
 \sinc
 
-## Haití
+## Saint-Domingue
 
 \conc
 
@@ -164,9 +164,7 @@ XXX
 |12|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
 |13|Abandonado a su suerte|Empieza el relato salvaje «Abandonado a su suerte».|
 |14|¡Noctivagos!|Una bandada de 1d6+2 Noctivagos Demacrados cruza los cielos. Uno de ellos chilla y empiezan a descender hacia vuestro barco.|
-|15|XXX|XXX|
-|16|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
-|17|XXX|XXX|
+|15|¡Zoogs!|Según el contramaestre alguien ha estado comiéndose parte de las provisiones. Un par de zoogs se han colado en el barco en el último puerto y habrá que cazarlos antes de que sean un problema.|
 
 \conc
 
@@ -176,11 +174,43 @@ XXX
 
 |1d20|Nombre|Descripción|
 |---|---|---|
+|16|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
+|17|XXX|XXX|
 |18|XXX|XXX|
 |19|XXX|XXX|
 |20|XXX|XXX|
 
 \conc
+
+### Bestiario de las Tierras del sueño
+
+XXX
+
+#### Bestia lunar
+
+XXX
+
+#### Ghast
+
+XXX
+
+#### Zoog
+
+Los zoogs son una raza inteligente que recuerda a un roedor de gran tamaño (casi como un gato) con grandes ojos, bigotes tentaculares y pelaje grisáceo o parduzco.
+
+En sus bosques natales viven en comunidades tribales lideradas por los más ancianos. Son principalmente herbívoros, pero en realidad son omnívoros y tienden a la antropofagia, devorando indistintamente cuerpos reales y proyecciones astrales.
+
+A los zoogs les gustan los objetos caros y raros, el oro y las piedras preciosas, ya que les dan estatus dentro de sus comunidades, lo cual hace que sean sobornables.
+
+Tienen un terrible miedo a los gatos y no se acercan a los lugares donde haya felinos domésticos.
+
+* **Atributos:** Agilidad d8, Astucia d6, Espíritu d10, Fuerza d4, Vigor d6
+* **Habilidades:** Atletismo d8, Notar d6, Pelear d6, Sigilo d8
+* **Paso:** 6; **Parada:** 5; **Dureza:** 2
+* **Desventaja:** Avaricioso (menor)
+* **Capacidades especiales:**
+  * **Colmillos:** FUE+d4
+  * **Tamaño -3:** Son menudos, miden en torno a los treinta centímetros de largo. Todo ataque dirigido a ellos tiene un -4.
 
 \sp
 
