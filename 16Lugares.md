@@ -175,16 +175,23 @@ XXX
 |1d20|Nombre|Descripción|
 |---|---|---|
 |16|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
-|17|XXX|XXX|
-|18|XXX|XXX|
-|19|XXX|XXX|
-|20|XXX|XXX|
+|17|Saboteadores profundos|Un pequeño grupo de profundos provoca daños en la embarcación, como robar el ancla, abrir una vía de agua o atorar el timón. Los tripulantes deberán arreglar los desperfectos antes poder continuar.|
+|18|La tortuga|Empieza el relato salvaje «La tortuga».|
+|19|Emboscada de profundos|En la oscuridad de la noche, un grupo de profundos ataca el barco. El grupo es de 3 profundos por cada comodín y 1 profundo por cada tripulante secuaz. Si el vigía pasa una tirada de Notar podrá avisar a campanadas al resto del barco. Si fallan, los profundos cogerán al grupo por sorpresa y tendrán ventaja.|
+|20|Perdidos en el tiempo y el espacio|Tu mesa se adentra sin saberlo en una fisura de la realidad que lleva a alguno de los lugares de los Mitos. Puede ser que atraviesen un portal temporal abandonado de los yithianos, una zona de teletransporte de la serpigente o entren en la Tierra de la Vigila. Tira en la Tabla de Perdidos en el tiempo y el espacio. Los resultados de Ulthar y la Jungla de Kled les devolverían a nuestro mundo.|
 
 \conc
 
 ### Bestiario de las Tierras del sueño
 
 XXX
+
+\sp
+
+Es importante destacar que hay **algunas razas que tienen cambios en las Tierras del Sueño**, aunque normalmente son cambios estéticos.
+
+* Los **profundos** son más parecidos a los típicos personajes submarinos como tritones o kelpies, alejándose del físico entre pez y rana que tienen en nuestro mundo. Aun así su cultura y su psicología siguen siendo la misma.
+* Los **gules** de las Tierras del sueño suelen ser más inteligentes y con rasgos más humanos que sus contrapartidas del mundo de la vigilia. De hecho tienes comunidades socialmente avanzadas. Suelen conocer cavernas secretas y excavar túneles que pueden pasar de un mundo a otro, pero son extremadamente reacios a compartir esa información. 
 
 #### Bestia lunar
 
