@@ -165,6 +165,7 @@ XXX
 |13|Abandonado a su suerte|Empieza el relato salvaje «Abandonado a su suerte».|
 |14|¡Noctivagos!|Una bandada de 1d6+2 Noctivagos Demacrados cruza los cielos. Uno de ellos chilla y empiezan a descender hacia vuestro barco.|
 |15|¡Zoogs!|Según el contramaestre alguien ha estado comiéndose parte de las provisiones. Un par de zoogs se han colado en el barco en el último puerto y habrá que cazarlos antes de que sean un problema.|
+|16|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
 
 \conc
 
@@ -174,9 +175,8 @@ XXX
 
 |1d20|Nombre|Descripción|
 |---|---|---|
-|16|Cambia el tiempo|Vuelve a tirar en la Tabla de Tiempo atmosférico durante los viajes si había Tiempo perfecto y quédate con el nuevo resultado.|
-|17|Saboteadores profundos|Un pequeño grupo de profundos provoca daños en la embarcación, como robar el ancla, abrir una vía de agua o atorar el timón. Los tripulantes deberán arreglar los desperfectos antes poder continuar.|
-|18|La tortuga|Empieza el relato salvaje «La tortuga».|
+|17|La tortuga|Empieza el relato salvaje «La tortuga».|
+|18|Saboteadores profundos|Un pequeño grupo de profundos provoca daños en la embarcación, como robar el ancla, abrir una vía de agua o atorar el timón. Los tripulantes deberán arreglar los desperfectos antes poder continuar.|
 |19|Emboscada de profundos|En la oscuridad de la noche, un grupo de profundos ataca el barco. El grupo es de 3 profundos por cada comodín y 1 profundo por cada tripulante secuaz. Si el vigía pasa una tirada de Notar podrá avisar a campanadas al resto del barco. Si fallan, los profundos cogerán al grupo por sorpresa y tendrán ventaja.|
 |20|Perdidos en el tiempo y el espacio|Tu mesa se adentra sin saberlo en una fisura de la realidad que lleva a alguno de los lugares de los Mitos. Puede ser que atraviesen un portal temporal abandonado de los yithianos, una zona de teletransporte de la serpigente o entren en la Tierra de la Vigila. Tira en la Tabla de Perdidos en el tiempo y el espacio. Los resultados de Ulthar y la Jungla de Kled les devolverían a nuestro mundo.|
 
@@ -184,22 +184,42 @@ XXX
 
 ### Bestiario de las Tierras del sueño
 
-XXX
-
-\sp
+Las Tierras del sueño comparten monstruos y criaturas con el mundo de la vigilia, pero también tienen sus propios seres monstruosos que puedes enfrentar tu mesa y a sus sables y pistolas de pólvora negra.
 
 Es importante destacar que hay **algunas razas que tienen cambios en las Tierras del Sueño**, aunque normalmente son cambios estéticos.
 
 * Los **profundos** son más parecidos a los típicos personajes submarinos como tritones o kelpies, alejándose del físico entre pez y rana que tienen en nuestro mundo. Aun así su cultura y su psicología siguen siendo la misma.
-* Los **gules** de las Tierras del sueño suelen ser más inteligentes y con rasgos más humanos que sus contrapartidas del mundo de la vigilia. De hecho tienes comunidades socialmente avanzadas. Suelen conocer cavernas secretas y excavar túneles que pueden pasar de un mundo a otro, pero son extremadamente reacios a compartir esa información. 
+
+\sp
+
+* Los **gules** de las Tierras del sueño suelen ser más inteligentes y con rasgos más humanos que sus contrapartidas del mundo de la vigilia. De hecho tienes comunidades socialmente avanzadas. Suelen conocer cavernas secretas y excavar túneles que pueden pasar de un mundo a otro, pero son extremadamente reacios a compartir esa información.
+* Los **lengnitas** en nuestro mundo son seres salvajes que dan rienda suelta a sus más bajos instintos, pero en las Tierras del Sueño son esclavos de las bestias lunares y esto hace que su carácter sea totalmente distinto. En este mundo son sumisos, callados y temerosos de todo, sobre todo de sus amos.
 
 #### Bestia lunar
 
 XXX
 
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Habilidades:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Desventajas:** XXX
+* **Ventajas:** XXX
+* **Capacidades especiales:**
+  * **XXX:** XXX
+* **Equipo:** XXX
+
 #### Ghast
 
 XXX
+
+* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Habilidades:** XXX
+* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Desventajas:** XXX
+* **Ventajas:** XXX
+* **Capacidades especiales:**
+  * **XXX:** XXX
+* **Equipo:** XXX
 
 #### Zoog
 
@@ -208,6 +228,8 @@ Los zoogs son una raza inteligente que recuerda a un roedor de gran tamaño (cas
 En sus bosques natales viven en comunidades tribales lideradas por los más ancianos. Son principalmente herbívoros, pero en realidad son omnívoros y tienden a la antropofagia, devorando indistintamente cuerpos reales y proyecciones astrales.
 
 A los zoogs les gustan los objetos caros y raros, el oro y las piedras preciosas, ya que les dan estatus dentro de sus comunidades, lo cual hace que sean sobornables.
+
+\sp
 
 Tienen un terrible miedo a los gatos y no se acercan a los lugares donde haya felinos domésticos.
 
