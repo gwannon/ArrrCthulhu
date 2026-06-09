@@ -193,7 +193,7 @@ Es importante destacar que hay **algunas razas que tienen cambios en las Tierras
 \sp
 
 * Los **gules** de las Tierras del sueño suelen ser más inteligentes y con rasgos más humanos que sus contrapartidas del mundo de la vigilia. De hecho tienes comunidades socialmente avanzadas. Suelen conocer cavernas secretas y excavar túneles que pueden pasar de un mundo a otro, pero son extremadamente reacios a compartir esa información.
-* Los **lengnitas** en nuestro mundo son seres salvajes que dan rienda suelta a sus más bajos instintos, pero en las Tierras del Sueño son esclavos de las bestias lunares y esto hace que su carácter sea totalmente distinto. En este mundo son sumisos, callados y temerosos de todo, sobre todo de sus amos.
+* Los pocos **lengnitas** que hay en nuestro mundo son seres salvajes que dan rienda suelta a sus más bajos instintos, pero en las Tierras del Sueño son esclavos de las bestias lunares y esto hace que su carácter sea totalmente distinto. En este mundo son sumisos, callados y temerosos de todo, sobre todo de sus amos.
 
 #### Bestia lunar
 
@@ -208,17 +208,26 @@ XXX
   * **XXX:** XXX
 * **Equipo:** XXX
 
-#### Ghast
+#### Lívidos
 
-XXX
+Los lívidos son unas criaturas que habitan en las cuevas subterráneas y el submundo de las Tierras del Sueño.
+
+Son humanoides de grandes ojos (para aprovechar la poca luz de las cuevas), sin pelo, sin nariz y sin frente. Su piel es muy pálida, casi albina. Tras vivir generaciones bajo tierra prolongadamente son fotosensibles. Son carnívoros y poseen una gran agilidad y potencia de salto, gracias a sus fuertes y musculosas piernas. Su principal arma a la hora de cazar es el veneno que emplean para debilitar a sus víctimas.
+
+Los lívidos se organizan en manadas y son muy territoriales. Esto le lleva a enfrentarse a otros depredadores subterráneos como gugos o gules por disputas territoriales.
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+
+\sp
+
 * **Habilidades:** XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
 * **Capacidades especiales:**
-  * **XXX:** XXX
+  * **Piel rugosa:** XXX
+  * **Veneno:** XXX
+  * **Grandes saltdores:** XXX
 * **Equipo:** XXX
 
 #### Zoog
@@ -229,7 +238,6 @@ En sus bosques natales viven en comunidades tribales lideradas por los más anci
 
 A los zoogs les gustan los objetos caros y raros, el oro y las piedras preciosas, ya que les dan estatus dentro de sus comunidades, lo cual hace que sean sobornables.
 
-\sp
 
 Tienen un terrible miedo a los gatos y no se acercan a los lugares donde haya felinos domésticos.
 
