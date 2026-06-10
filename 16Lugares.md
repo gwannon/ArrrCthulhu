@@ -50,13 +50,15 @@ XXX
 
 [Dylath-Leen](https://amor-de-otro-mundo.fandom.com/es/wiki/Dylath-Leen) es lo más parecido que va a ver tu mesa a una isla pirata y, seguramente y a pesar de estar en otro mundo, se sentirán un poco como en casa. Es una de las ciudades con peor reputación de las Tierras del Sueño y razón no le falta a los que lo dicen.
 
-Dylath-Leen es también infame por las galeras negras que frecuentan sus puertos. Estas galeras están dirigidas por remeros que nunca son vistos y tripulados por hombres con turbantes que comercian con curiosos rubíes, buscando esclavos y oro. Estos hombre con turbantes son esclavos lengnitas.
+Dylath-Leen es también infame por las galeras negras que frecuentan sus puertos. Estas galeras están dirigidas por remeros que nunca son vistos y tripulados por hombres con turbantes que comercian con curiosos rubíes, buscando esclavos y oro. Estos hombres con turbantes son esclavos lengnitas.
 
 XXX
 
 #### Galeras negras
 
 XXX
+
+La tecnología voladora de las galeras negras de las bestias lunares podría ser considerada como una mejora monstruosa. XXX
 
 #### Bestia lunar
 
@@ -119,7 +121,7 @@ Las rocas y piedras de la montaña no funcionan como imán sin la presencia de l
 
 Si se está una hora buscando activamente entre los restos de naufragios y los objetos atraídos por el imán, se podrá hacer una tirada de botín de d8.
 
-> **Semilla de aventura:** Si la teoría del arma anti navios es cierta, la montaña podría tener unas instalaciones militares de los creadores de la estatua y a las que esta protegía de ataques. Puede haber cualquier cosa en esas instalaciones.
+> **Semilla de aventura:** Si la teoría del arma anti navíos es cierta, la montaña podría tener unas instalaciones militares de los creadores de la estatua y a las que esta protegía de ataques. Puede haber cualquier cosa en esas instalaciones.
 
 \sp
 
@@ -197,16 +199,25 @@ Es importante destacar que hay **algunas razas que tienen cambios en las Tierras
 
 #### Bestia lunar
 
-XXX
+Las bestias lunares son una raza inteligente cuya forma recuerda al de una rana hinchada de tamaño humano sin ojos y con tentáculos en su hocico. Poseen manos y pies palmeados y los tentáculos les sirven como una mezcla de ojos, nariz y oído. La piel de las bestias lunares es viscosa y tiene un color grisáceo, ligeramente azulado.
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+Sociológica y psicológicamente son parecidos a los humanos. Mientras que en el Caribe de 1720 el tema de la esclavitud es una realidad, pero muy controvertida, entre las bestias lunares es algo totalmente aceptado. De hecho esclavizaron hace siglos los lengnitas haciéndose pasar por dioses.
+
+Tienen ciudades en el lado oscuro de la versión la Luna de las tierras del sueño, desde la cual bajan a la tierra empleando unas galeras negras voladoras. Usan esclavos para extraer rubíes de sus minas lunares y los venden en Dylath-Leen usando agente lengnitas como intermediarios (no les gusta mostrarse ante otros seres). Con el dinero de la venta compran esclavos de todo tipo que traen a la luna para trabajar en las minas.
+
+* **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8 
 * **Habilidades:** XXX
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX
+
+\sp
+
 * **Capacidades especiales:**
+  * **Armadura +1:** Su viscosa y resbaladiza piel le proporciona cierta protección.
   * **XXX:** XXX
-* **Equipo:** XXX
+* **Equipo:** Lanza (FUE+d4. +1 Parada, a dos manos)
+* **TPC:** 1d6 
 
 #### Lívidos
 
@@ -217,18 +228,19 @@ Son humanoides de grandes ojos (para aprovechar la poca luz de las cuevas), sin 
 Los lívidos se organizan en manadas y son muy territoriales. Esto le lleva a enfrentarse a otros depredadores subterráneos como gugos o gules por disputas territoriales.
 
 * **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
-
-\sp
-
-* **Habilidades:** XXX
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
+* **Habilidades:** Atletismo d8, Notar d6, Pelear d6, Sigilo d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 7(1)
 * **Ventajas:** XXX
 * **Capacidades especiales:**
-  * **Piel rugosa:** XXX
+  * **Armadura +1:** Su piel rugosa y pálida le proporciona protección.
+  * **Debilidad luz solar:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
+  * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
   * **Veneno:** XXX
-  * **Grandes saltdores:** XXX
+  * **Grandes saltadores:** Como acción de movimiento puede elegir saltar una distancia en línea recta de hasta 6 pasos. Además, añade +4 al daño cuando se abalanza como parte de un ataque salvaje en lugar del +2 habitual siempre que pueda hacer el salto completo de 6 pasos.
 * **Equipo:** XXX
+* **TPC:** 1d6 (manada)
+
+\sp
 
 #### Zoog
 
@@ -242,12 +254,13 @@ A los zoogs les gustan los objetos caros y raros, el oro y las piedras preciosas
 Tienen un terrible miedo a los gatos y no se acercan a los lugares donde haya felinos domésticos.
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d10, Fuerza d4, Vigor d6
-* **Habilidades:** Atletismo d8, Notar d6, Pelear d6, Sigilo d8
+* **Habilidades:** XXX
 * **Paso:** 6; **Parada:** 5; **Dureza:** 2
 * **Desventaja:** Avaricioso (menor)
 * **Capacidades especiales:**
   * **Colmillos:** FUE+d4
   * **Tamaño -3:** Son menudos, miden en torno a los treinta centímetros de largo. Todo ataque dirigido a ellos tiene un -4.
+* **TPC:** 1d4 (manada)
 
 \sp
 
