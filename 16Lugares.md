@@ -54,15 +54,43 @@ Dylath-Leen es también infame por las galeras negras que frecuentan sus puertos
 
 XXX
 
+#### Bestia lunar
+
+XXX
+
 #### Galeras negras
 
 XXX
 
-La tecnología voladora de las galeras negras de las bestias lunares podría ser considerada como una mejora monstruosa. XXX
+\sp
 
-#### Bestia lunar
+\sinc
 
-XXX
+
+|Nombre/Descripción|Semanas|Coste|Parte del barco|
+|---|---|---|---|---|
+|**Tecnología de vuelo de las bestias lunares**|1|400|Popa o Proa|
+
+\conc
+
+La tecnología voladora de las galeras negras de las bestias lunares debe ser considerada como **modificación extraña**. Este sistema  se basa en la gravedad entre la tierra y la luna del Sueño.
+
+En las Tierras del Sueño la Luna onírica está más cerca de la tierra onírica y es mucho mayor. El artilugio que permite volar a las galeras se aprovecha de las fuerzas gravitacionales para hacer salir despedido hacia el cielo a los barcos.
+
+Las fuerzas gravitacionales son tan fuertes que al activarlo el barco empieza a levitar hacia la luna. Sin poder casi maniobrar.
+
+En la Vigilia la luna es más pequeña y está más lejos con lo que al activarse el mecanismo de vuelo, solo se eleva unos pocos metros, con lo que muchas veces la quilla no sale del agua.
+
+Aun así, al haber menores fuerzas actuando contra el barco, este puede maniobrar y un capitán hábil puede usar la ventaja de que su barco es más ligero para sacar ventaja.
+
+* Con viento a favor será mucho más rápido. XXX
+* Puedes pasar por bancos de arena y aguas de sin problema.
+* Puedes tratar de sobrecargar tu barco sin perder velocidad. XXX
+* O todo lo contrario, parecer que no está cargado en absoluto, con lo que los piratas no te seguirán y los jefes de puerto ni querrán revisar tu carga al parecer que vas vacío.
+
+El único problema de esta modificación es que solo funciona de noche con la luna en el cielo. Las opciones de fases lunares y si se ve de día la luna o no, pueden complicar todo esto mucho con lo que solo funciona de noche, desde la página está hasta la salida del sol, y no importa la fase lunar.
+
+Al no salir del agua la quilla y ser de noche, solo una persona muy experta en Navegar podría detectar que pasa algo raro y necesitaría una tirada de Mitos para saber qué se está usando tecnología gravitacional de las bestias lunares.
 
 \sp
 
