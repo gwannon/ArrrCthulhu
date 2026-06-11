@@ -34,15 +34,15 @@ En la Tierra es servido por un pequeño culto conocido como la **Espiga Púrpura
 
 ### Waylunor y Nyarlathotep
 
-Además del culpable de su destierro y aprisionamiento, Nyarlathotep es su carcelero, vigilando en todo momento que no escape de tu trampa infinita y frustrando desde las sombras de todos sus intentos de fuga.
+Además del culpable de su destierro y aprisionamiento, Nyarlathotep es su carcelero, vigilando en todo momento que no escape de su trampa infinita y frustrando desde las sombras todos sus intentos de fuga.
 
-De hecho, solo los más poderosos de los seguidores de Waylunor sabe que Nyarlathotep es el culpable del encierro de la deidad a la que adoran y que el dios de las muchas máscaras está detrás del fracaso de varios intentos de razas sintientes de adoradores de todo universo por liberarlo.
+De hecho, solo los más poderosos de los seguidores de Waylunor saben que Nyarlathotep es el culpable del encierro de la deidad a la que adoran y que el dios de las muchas máscaras está detrás del fracaso de varios intentos por liberarlo de razas sintientes de adoradores de todo universo.
 
 ### Liberar a Waylunor
 
-Tras bastantes intentos infructuosos por sus seguidores, Waylunor ha llegado a la conclusión de que la única forma de liberarse es que el propio Nyarlathotep lo libere de su trampa. No hay más fuerzas cósmicas en el universo «conocido» que puedan liberar a Waylunor. Así pues, la única manera de escapar es llegar a un trato o engañar al dios cósmico de la mentira y eso es casi imposible.
+Tras bastantes intentos infructuosos por parte de sus seguidores, Waylunor llegó a la conclusión de que la única forma es que el propio Nyarlathotep le libere de la trampa en que le metió. Está muy claro que no hay más fuerzas cósmicas en el universo «conocido» que puedan liberar a Waylunor de su prisión, así que solo queda llegar a un trato o engañar al dios cósmico de la mentira. Eso hace de esta tarea algo casi imposible.
 
-Si Waylunor fuera liberado en la tierra, el agujero negro que se formaría atraparía todo el sistema solar siendo no solo la perdición de la raza humana, sino también de otras razas como la serpigente o los yuggothianos. Con lo cual, ambos son grupos que pueden tener interés en que fracasen los intentos de liberación de su señor de la Espiga Púrpura.
+Si Waylunor fuera liberado en la Tierra, el agujero negro que se formaría atraparía todo el sistema solar siendo no solo la perdición de la raza humana, sino también de otras razas que habitan la Tierra como la serpigente o los yuggothianos. Por lo tanto, ambos son grupos pueden tener interés en que fracasen los intentos de liberación del señor de la Espiga Púrpura.
 
 \sp
 
