@@ -50,24 +50,37 @@ XXX
 
 [Dylath-Leen](https://amor-de-otro-mundo.fandom.com/es/wiki/Dylath-Leen) es lo más parecido que va a ver tu mesa a una isla pirata y, seguramente y a pesar de estar en otro mundo, se sentirán un poco como en casa. Es una de las ciudades con peor reputación de las Tierras del Sueño y razón no le falta a los que lo dicen.
 
-Dylath-Leen es también infame por las galeras negras que frecuentan sus puertos. Estas galeras están dirigidas por remeros que nunca son vistos y tripulados por hombres con turbantes que comercian con curiosos rubíes, buscando esclavos y oro. Estos hombres con turbantes son esclavos lengnitas.
-
 XXX
 
-#### Bestia lunar
+#### Galeras negras, lengnitas y bestias lunares
 
-XXX
-
-#### Galeras negras
-
-XXX
+Dylath-Leen es también infame por las galeras negras que frecuentan sus puertos. Estas galeras están dirigidas por remeros que nunca son vistos y tripulados por hombres con turbantes que comercian con curiosos rubíes y que los intercambian por esclavos y oro. Estos hombres con turbantes (y los remeros) son esclavos lengnitas que trabajan como intermediarios para sus amos las bestias lunares.
 
 \sp
 
+Hace siglos las bestias lunares, que viven en la cara oculta de la luna del Sueño, esclavizaron a los lengnitas de las tundras del norte haciéndose pasar por dioses. Cogieron a estos esclavos y los llevaron a sus ciudades lunares y les hicieron trabajar en sus minas de rubíes. Cada cierto tiempo las bestias lunares vuelven a la tierra usando unas galeras negras que pueden volar y moverse por el espacio y venden en Dylath-Leen sus rubíes a cambio de nuevos esclavos para las minas y oro.
+
+Las bestias lunares por su forma alienígena prefieren no relacionarse con las gentes de Dylath-Leen y usan a lengnitas espacialmente hábiles como intermediarios que vendan sus rubíes y compren esclavos. Estos lengnitas usan turbantes para tapar sus cuernos caprinos y ropajes anchos estilo árabe para ocultar sus piernas de cabra.
+
+La llegada de las galeras negras al puerto siempre crea expectación, pero nadie hace muchas preguntas, ya que dejan muy buenos beneficios entre los mercaderes locales y nadie quiere matar a la gallina de los huevos de oro. 
+
+Las malas lenguas hablan de que los hombres con turbantes solo son intermediarios y de que los verdaderos dueños y capitanes de las galeras nunca salen del barco. También se habla de figuras cuadrúpedas parecidas a sapos o ranas que se ven a veces fugazmente en las cubiertas de las galeras negras.
+
+#### Galeras negras
+
+Las galeras negras de las bestias lunares son simples galeras a remos y velas negras que han sido modificadas con tecnología de las bestias lunares para hacer los viajes entre la Tierra Onírica y la Luna Onírica. Además de la capacidad de autopropulsarse fuera de la atmosfera, están preparadas para soportar el vacío del espacio estando las cubiertas inferiores cerradas y conversando el oxígeno y la presión atmosférica.
+
+Su capacidad de vuelo y de viaje espacial solo se usa para ir de la tierra a la luna. Cuando salen o llegan a la tierra suelen hacerlo muy lejos de la costa y de las rutas comerciales para no descubrir su secreto. Esto generar muchos rumores entre los marineros, ya que Dylath-Leen es el único puerto donde atracan, cuando lo normal es que hubiera por lo menos oro puerto conocido donde cargarán los rubíes que venden y donde dejasen los esclavos que compran y el oro que consiguen.
+
+\sp
+
+Así pues, desde el punto de despegue/aterrizaje hasta el puerto de Dylath-Leen, las galeras usan sus velas y los remos son accionados por esclavos para navegar por el mar.
+
+El punto de despegue/aterrizaje (y correspondiente la ruta hasta Dylath-Leen) no siempre es el mismo, va cambiando según la posición de la Luna y la Tierra y es bastante difícil de predecir, con lo que tratar de emboscarlos en lejos de la costa es muy complicado. Sería pura suerte que tu mesa se encontrará con una galera negra en alta mar, lejos del puerto de Dylath-Leen.  
+
 \sinc
 
-
-|Nombre/Descripción|Semanas|Coste|Parte del barco|
+|Modificación extraña|Semanas|Coste|Parte del barco|
 |---|---|---|---|---|
 |**Tecnología de vuelo de las bestias lunares**|1|400|Popa o Proa|
 
@@ -86,6 +99,9 @@ Aun así, al haber menores fuerzas actuando contra el barco, este puede maniobra
 * Con viento a favor será mucho más rápido. XXX
 * Puedes pasar por bancos de arena y aguas de sin problema.
 * Puedes tratar de sobrecargar tu barco sin perder velocidad. XXX
+
+\sp
+
 * O todo lo contrario, parecer que no está cargado en absoluto, con lo que los piratas no te seguirán y los jefes de puerto ni querrán revisar tu carga al parecer que vas vacío.
 
 El único problema de esta modificación es que solo funciona de noche con la luna en el cielo. Las opciones de fases lunares y si se ve de día la luna o no, pueden complicar todo esto mucho con lo que solo funciona de noche, desde la página está hasta la salida del sol, y no importa la fase lunar.
