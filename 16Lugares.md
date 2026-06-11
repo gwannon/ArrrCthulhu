@@ -66,13 +66,17 @@ La llegada de las galeras negras al puerto siempre crea expectación, pero nadie
 
 Las malas lenguas hablan de que los hombres con turbantes solo son intermediarios y de que los verdaderos dueños y capitanes de las galeras nunca salen del barco. También se habla de figuras cuadrúpedas parecidas a sapos o ranas que se ven a veces fugazmente en las cubiertas de las galeras negras.
 
+Se sabe que cumplen los designios de Nyarlathotep a cambio de favores, así que si consigues encontrar una bestia lunar y comunicarte con ella quizas puedas sacar algo de información sobre las actividades del dios oscuro en la zona.
+
 #### Galeras negras
 
 Las galeras negras de las bestias lunares son simples galeras a remos y velas negras que han sido modificadas con tecnología de las bestias lunares para hacer los viajes entre la Tierra Onírica y la Luna Onírica. Además de la capacidad de autopropulsarse fuera de la atmosfera, están preparadas para soportar el vacío del espacio estando las cubiertas inferiores cerradas y conversando el oxígeno y la presión atmosférica.
 
-Su capacidad de vuelo y de viaje espacial solo se usa para ir de la tierra a la luna. Cuando salen o llegan a la tierra suelen hacerlo muy lejos de la costa y de las rutas comerciales para no descubrir su secreto. Esto generar muchos rumores entre los marineros, ya que Dylath-Leen es el único puerto donde atracan, cuando lo normal es que hubiera por lo menos oro puerto conocido donde cargarán los rubíes que venden y donde dejasen los esclavos que compran y el oro que consiguen.
+Su capacidad de vuelo y de viaje espacial solo se usa para ir de la tierra a la luna. Cuando salen o llegan a la tierra suelen hacerlo muy lejos de la costa y de las rutas comerciales para no descubrir su secreto.
 
 \sp
+
+Esto generar muchos rumores entre los marineros, ya que Dylath-Leen es el único puerto donde atracan, cuando lo normal es que hubiera por lo menos oro puerto conocido donde cargarán los rubíes que venden y donde dejasen los esclavos que compran y el oro que consiguen.
 
 Así pues, desde el punto de despegue/aterrizaje hasta el puerto de Dylath-Leen, las galeras usan sus velas y los remos son accionados por esclavos para navegar por el mar.
 
@@ -136,7 +140,7 @@ Toda la montaña se considera terreno difícil debido a la pendiente de la monta
 
 #### La estatua ecuestre en la cima
 
-La estatua ecuestre de las montañas de Imán está muy erosionada por el viento, lo cual denota su antiguedad. Desgraciadamente no se pueden identificar los rasgos de la cara del jinete o las posibles inscripciones que hubiera en ella, lo cual deja muchas dudas sobre el origen e imposibilita su estudio y datación.
+La estatua ecuestre de las montañas de Imán está muy erosionada por el viento, lo cual denota su antigüedad. Desgraciadamente, no se pueden identificar los rasgos de la cara del jinete o las posibles inscripciones que hubiera en ella, lo cual deja muchas dudas sobre el origen e imposibilita su estudio y datación.
 
 La estatua es lo que le da su tremendo poder magnético a la montaña de Imán. Sin esa estatua, las montañas solo sería unos grandes bloques de piedra tierra ricos en elementos férricos.
 
@@ -245,29 +249,36 @@ Es importante destacar que hay **algunas razas que tienen cambios en las Tierras
 
 Las bestias lunares son una raza inteligente cuya forma recuerda al de una rana hinchada de tamaño humano sin ojos y con tentáculos en su hocico. Poseen manos y pies palmeados y los tentáculos les sirven como una mezcla de ojos, nariz y oído. La piel de las bestias lunares es viscosa y tiene un color grisáceo, ligeramente azulado.
 
+![Moonbeast Por Nottsuo](./images/moonbeast_by_nottsuo.jpg)
+
 Sociológica y psicológicamente son parecidos a los humanos. Mientras que en el Caribe de 1720 el tema de la esclavitud es una realidad, pero muy controvertida, entre las bestias lunares es algo totalmente aceptado. De hecho esclavizaron hace siglos los lengnitas haciéndose pasar por dioses.
 
-Tienen ciudades en el lado oscuro de la versión la Luna de las tierras del sueño, desde la cual bajan a la tierra empleando unas galeras negras voladoras. Usan esclavos para extraer rubíes de sus minas lunares y los venden en Dylath-Leen usando agente lengnitas como intermediarios (no les gusta mostrarse ante otros seres). Con el dinero de la venta compran esclavos de todo tipo que traen a la luna para trabajar en las minas.
-
-* **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8 
-* **Habilidades:** XXX
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
-* **Desventajas:** XXX
-* **Ventajas:** XXX
+Tienen ciudades en el lado oscuro de la versión la Luna de las tierras del sueño, desde la cual bajan a la tierra empleando unas galeras negras voladoras. 
 
 \sp
 
+
+Usan esclavos para extraer rubíes de sus minas lunares y los venden en Dylath-Leen usando agente lengnitas como intermediarios (no les gusta mostrarse ante otros seres). Con el dinero de la venta compran esclavos de todo tipo que traen a la luna para trabajar en las minas.
+
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d8, Vigor d6 
+* **Habilidades:** Atléticas d6, Ciencias d4, Intimidar d8, Mitos d8, Notar d8, Pelear d6,
+* **Paso:** 6; **Parada:** 5; **Dureza:** 6(1)
 * **Capacidades especiales:**
+  * **Sentidos alterados:** Las bestias lunares perciben el mundo a través de sus tentáculos de muy variadas formas, olor, sonido/radar, calor, vibraciones y juntan toda esa información de forma que no tienes penalizadores por baja luminosidad, niebla, etc. Pueden detectarte a través de objetos sólidos y, si bien no pueden atacarte a través de las paredes con sus lanzas, sí pueden lanzarte hechizos que necesiten verte.
   * **Armadura +1:** Su viscosa y resbaladiza piel le proporciona cierta protección.
-  * **XXX:** XXX
+  * **Hechizos:** 6 PP, Conoce Marioneta, Gigantismo, Enanismo y 1 hechizo al azar que no sea de combate.
 * **Equipo:** Lanza (FUE+d4. +1 Parada, a dos manos)
-* **TPC:** 1d6 
+* **TPC:** 1d8 
 
 #### Lívidos
 
-Los lívidos son unas criaturas que habitan en las cuevas subterráneas y el submundo de las Tierras del Sueño.
+Los lívidos son unas criaturas que habitan en las cuevas subterráneas y el submundo de las Tierras del Sueño. Son humanoides de grandes ojos (para aprovechar la poca luz de las cuevas), sin pelo, sin nariz y sin frente. Su piel es muy pálida, casi albina. 
 
-Son humanoides de grandes ojos (para aprovechar la poca luz de las cuevas), sin pelo, sin nariz y sin frente. Su piel es muy pálida, casi albina. Tras vivir generaciones bajo tierra prolongadamente son fotosensibles. Son carnívoros y poseen una gran agilidad y potencia de salto, gracias a sus fuertes y musculosas piernas. Su principal arma a la hora de cazar es el veneno que emplean para debilitar a sus víctimas.
+![Ghast Por Nottsuo](./images/ghast_by_nottsuo.jpg)
+
+\sp
+
+Tras vivir generaciones bajo tierra prolongadamente son fotosensibles. Son carnívoros y poseen una gran agilidad y potencia de salto, gracias a sus fuertes y musculosas piernas. Su principal arma a la hora de cazar es el veneno que emplean para debilitar a sus víctimas.
 
 Los lívidos se organizan en manadas y son muy territoriales. Esto le lleva a enfrentarse a otros depredadores subterráneos como gugos o gules por disputas territoriales.
 
@@ -284,8 +295,6 @@ Los lívidos se organizan en manadas y son muy territoriales. Esto le lleva a en
 * **Equipo:** XXX
 * **TPC:** 1d6 (manada)
 
-\sp
-
 #### Zoog
 
 Los zoogs son una raza inteligente que recuerda a un roedor de gran tamaño (casi como un gato) con grandes ojos, bigotes tentaculares y pelaje grisáceo o parduzco.
@@ -294,8 +303,9 @@ En sus bosques natales viven en comunidades tribales lideradas por los más anci
 
 A los zoogs les gustan los objetos caros y raros, el oro y las piedras preciosas, ya que les dan estatus dentro de sus comunidades, lo cual hace que sean sobornables.
 
-
 Tienen un terrible miedo a los gatos y no se acercan a los lugares donde haya felinos domésticos.
+
+\sp
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d10, Fuerza d4, Vigor d6
 * **Habilidades:** XXX
@@ -305,6 +315,8 @@ Tienen un terrible miedo a los gatos y no se acercan a los lugares donde haya fe
   * **Colmillos:** FUE+d4
   * **Tamaño -3:** Son menudos, miden en torno a los treinta centímetros de largo. Todo ataque dirigido a ellos tiene un -4.
 * **TPC:** 1d4 (manada)
+
+\sc
 
 \sp
 
