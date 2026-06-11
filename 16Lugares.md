@@ -98,14 +98,13 @@ Las fuerzas gravitacionales son tan fuertes que al activarlo el barco empieza a 
 
 En la Vigilia la luna es más pequeña y está más lejos con lo que al activarse el mecanismo de vuelo, solo se eleva unos pocos metros, con lo que muchas veces la quilla no sale del agua.
 
+\sp
+
 Aun así, al haber menores fuerzas actuando contra el barco, este puede maniobrar y un capitán hábil puede usar la ventaja de que su barco es más ligero para sacar ventaja.
 
 * Con viento a favor será mucho más rápido. XXX
 * Puedes pasar por bancos de arena y aguas de sin problema.
 * Puedes tratar de sobrecargar tu barco sin perder velocidad. XXX
-
-\sp
-
 * O todo lo contrario, parecer que no está cargado en absoluto, con lo que los piratas no te seguirán y los jefes de puerto ni querrán revisar tu carga al parecer que vas vacío.
 
 El único problema de esta modificación es que solo funciona de noche con la luna en el cielo. Las opciones de fases lunares y si se ve de día la luna o no, pueden complicar todo esto mucho con lo que solo funciona de noche, desde la página está hasta la salida del sol, y no importa la fase lunar.
