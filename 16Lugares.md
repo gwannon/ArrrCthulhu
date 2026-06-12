@@ -32,11 +32,25 @@ Tu mesa navegará principalmente por el Océano Medio, la masa de agua que hay e
 
 ### Celephaïs
 
-_Población:_ XXX habitantes
+_Población:_ 12000 habitantes
 
-_Controlada por:_ XXX
+_Controlada por:_ Rey Kuranes
 
-XXX
+Celephaïs es la ciudad portuaria más importante del país de Ooth-Nargai. Una barrera mágica que cubre la ciudad evita el paso del tiempo, con lo que sus habitantes no envejecen. De hecho, los niños y jóvenes se crían fuera de la ciudad y de su barrera mágica, ya que de lo contrario se crecerían.
+
+La ciudad está rodeada por una muralla decorada con estatuas de bronce. La mayoría de los edificios están construidos con mármol azul celeste y rematados por minaretes. Sobresalen en la ciudad dos edificios, en el centro el templo de Nath-Horthath y luego el Palacio de las Setenta Delicias, tallado en cristal rosado y en el cual reside el rey Kuranes. Kuranes, el fundador de la ciudad y su actual regente, es un soñador que abandona el mundo de la vigilia para vivir totalmente en las Tierras del Sueño.
+
+Por debajo del rey se encuentran los ochenta sacerdotes de Nath-Horthath. Algunos de ellos han vivido más diez mil años de edad. Por último está el resto de la población que principalmente se dedica al comercio por mar.
+
+Aunque no se habla demasiado sobre este aspecto, es evidente que la religión, estructurada en torno a la veneración del gran dios Nath-Horthath, tiene un gran peso en la vida de Celephaïs, ya que el templo ocupa una posición privilegiada. Asimismo, hay un notable "culto al líder", y es que el rey Kuranes goza de una gran popularidad entre la población, por haber sido también quien fundó la ciudad.
+
+\sp
+
+#### Paso del tiempo
+
+Es importante destacar que lo que pasa en Celephaïs es que no nada envejece, ni personas, ni animales ni edificios, pero el tiempo pasa igual. Es decir, que si entras 1 de abril y te tiras una semana en la ciudad, cuando salgas de la ciudad será 7 de abril, pero tú no habrás envejecido ni un solo día, por ejemplo, no te habrá crecido nada el pelo y/o la barba. Si tu mesa cree que puede pasarse meses estudiando un tomo de los Mitos mientras fuera de la ciudad no pasa el tiempo, cuando salgan de la barrera mágica descubrirán su grave error.
+
+Pero si podrían dejar aquí a compañeros heridos de muerte o con enfermedades mortales, incluso maldiciones, para que mientras esté en la ciudad no puedan morir o su maldición no avance. En este caso si podrían estar el tiempo necesario estudiando su enfermedad o su maldición y tratando de librarse de ellas.
 
 ### Serannian
 
@@ -281,17 +295,15 @@ Tras vivir generaciones bajo tierra prolongadamente son fotosensibles. Son carn�
 
 Los lívidos se organizan en manadas y son muy territoriales. Esto le lleva a enfrentarse a otros depredadores subterráneos como gugos o gules por disputas territoriales.
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad d8, Astucia d6, Espíritu d8, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d8, Notar d6, Pelear d6, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 7(1)
-* **Ventajas:** XXX
 * **Capacidades especiales:**
   * **Armadura +1:** Su piel rugosa y pálida le proporciona protección.
   * **Debilidad luz solar:** Sufren un -2 a todas sus tiradas de habilidad a plena luz del día.
   * **Visión nocturna:** No sufren penalización por condiciones de iluminación.
-  * **Veneno:** XXX
+  * **Mordisco venenoso:** FUE+d4. El mordisco del lívido es venenoso, su víctima debe pasar una tirada de Vigor inmediatamente u obtendrá 1 nivel de fatiga. Solo puede usarlo una vez por objetivo y si se pasa la tirada de Vigor se vuelve inmune al veneno de lívido.
   * **Grandes saltadores:** Como acción de movimiento puede elegir saltar una distancia en línea recta de hasta 6 pasos. Además, añade +4 al daño cuando se abalanza como parte de un ataque salvaje en lugar del +2 habitual siempre que pueda hacer el salto completo de 6 pasos.
-* **Equipo:** XXX
 * **TPC:** 1d6 (manada)
 
 #### Zoog

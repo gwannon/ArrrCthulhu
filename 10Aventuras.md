@@ -46,6 +46,8 @@ Damos las gracias y el crédito apropiado a estos increíbles artistas que nos h
 * [river-sstone.png](https://www.freepik.com/free-psd/smooth-river-rock-closeup-study-natures-sculpting_409869467.htm) por tohamina
 * [ghast_by_nottsuo.jpg](https://www.deviantart.com/nottsuo/art/Ghast-687931321) por nottsuo
 * [moonbeast_by_nottsuo.jpg](https://www.deviantart.com/nottsuo/art/MoonBeast-637784282) por nottsuo
+* Diferentes textos, sobre todo de lugares ficticios de las Tierras del Sueño, están basados en los textos de wikis de fans de Lovecraft y los Mitos de Cthulhu:
+    * [Wiki Lovecraft | Fandom](https://hplovecraft.fandom.com/)
 
 \sp
 
