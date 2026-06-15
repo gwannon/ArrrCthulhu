@@ -54,11 +54,22 @@ Pero si podrían dejar aquí a compañeros heridos de muerte o con enfermedades 
 
 ### Serannian
 
-_Población:_ XXX habitantes
+_Población:_ 3000 habitantes
 
-_Controlada por:_ XXX
+_Controlada por:_ Rey Kuranes
+
+Serannian es una ciudad voladora que flota frente a la costa de Ooth-Nargai, cerca de Celephaïs. Es una ciudad en la que destacan sus construcciones de mármol rosa. 
+
+Hay dos formas de acceso a la ciudad:
+
+* XXX
+* De la ciudad de Serannian cuelga una cuerda de oro, que llega hasta la superficie del mar. Si la encuentras colgando en mitad del mar puedes ascender por ella y si consigues llegar hasta el final, entras en la ciudad flotante de Celephaïs. Llegar a la ciudad flotante supone una ascensión de 1,5 km. Subir por ella es una tarea titánica (hay que conseguir 10 avances en tiradas de Atletismo, cada tirada fallada supone 1 de fatiga). La caída supone la muerte asegurada en cuanto pasas la primera tirada de Atletismo.
+
+Al igual que Celephaïs, Serannian está gobernada por el rey Kuranes, quien reside allí durante la mitad del año.
 
 XXX
+
+\sp
 
 ### Dylath-Leen
 
@@ -70,8 +81,6 @@ XXX
 
 Dylath-Leen es también infame por las galeras negras que frecuentan sus puertos. Estas galeras están dirigidas por remeros que nunca son vistos y tripulados por hombres con turbantes que comercian con curiosos rubíes y que los intercambian por esclavos y oro. Estos hombres con turbantes (y los remeros) son esclavos lengnitas que trabajan como intermediarios para sus amos las bestias lunares.
 
-\sp
-
 Hace siglos las bestias lunares, que viven en la cara oculta de la luna del Sueño, esclavizaron a los lengnitas de las tundras del norte haciéndose pasar por dioses. Cogieron a estos esclavos y los llevaron a sus ciudades lunares y les hicieron trabajar en sus minas de rubíes. Cada cierto tiempo las bestias lunares vuelven a la tierra usando unas galeras negras que pueden volar y moverse por el espacio y venden en Dylath-Leen sus rubíes a cambio de nuevos esclavos para las minas y oro.
 
 Las bestias lunares por su forma alienígena prefieren no relacionarse con las gentes de Dylath-Leen y usan a lengnitas espacialmente hábiles como intermediarios que vendan sus rubíes y compren esclavos. Estos lengnitas usan turbantes para tapar sus cuernos caprinos y ropajes anchos estilo árabe para ocultar sus piernas de cabra.
@@ -80,6 +89,8 @@ La llegada de las galeras negras al puerto siempre crea expectación, pero nadie
 
 Las malas lenguas hablan de que los hombres con turbantes solo son intermediarios y de que los verdaderos dueños y capitanes de las galeras nunca salen del barco. También se habla de figuras cuadrúpedas parecidas a sapos o ranas que se ven a veces fugazmente en las cubiertas de las galeras negras.
 
+\sp
+
 Se sabe que cumplen los designios de Nyarlathotep a cambio de favores, así que si consigues encontrar una bestia lunar y comunicarte con ella quizas puedas sacar algo de información sobre las actividades del dios oscuro en la zona.
 
 #### Galeras negras
@@ -87,8 +98,6 @@ Se sabe que cumplen los designios de Nyarlathotep a cambio de favores, así que 
 Las galeras negras de las bestias lunares son simples galeras a remos y velas negras que han sido modificadas con tecnología de las bestias lunares para hacer los viajes entre la Tierra Onírica y la Luna Onírica. Además de la capacidad de autopropulsarse fuera de la atmosfera, están preparadas para soportar el vacío del espacio estando las cubiertas inferiores cerradas y conversando el oxígeno y la presión atmosférica.
 
 Su capacidad de vuelo y de viaje espacial solo se usa para ir de la tierra a la luna. Cuando salen o llegan a la tierra suelen hacerlo muy lejos de la costa y de las rutas comerciales para no descubrir su secreto.
-
-\sp
 
 Esto generar muchos rumores entre los marineros, ya que Dylath-Leen es el único puerto donde atracan, cuando lo normal es que hubiera por lo menos oro puerto conocido donde cargarán los rubíes que venden y donde dejasen los esclavos que compran y el oro que consiguen.
 
@@ -104,6 +113,8 @@ El punto de despegue/aterrizaje (y correspondiente la ruta hasta Dylath-Leen) no
 
 \conc
 
+\sp
+
 La tecnología voladora de las galeras negras de las bestias lunares debe ser considerada como **modificación extraña**. Este sistema  se basa en la gravedad entre la tierra y la luna del Sueño.
 
 En las Tierras del Sueño la Luna onírica está más cerca de la tierra onírica y es mucho mayor. El artilugio que permite volar a las galeras se aprovecha de las fuerzas gravitacionales para hacer salir despedido hacia el cielo a los barcos.
@@ -111,8 +122,6 @@ En las Tierras del Sueño la Luna onírica está más cerca de la tierra oníric
 Las fuerzas gravitacionales son tan fuertes que al activarlo el barco empieza a levitar hacia la luna. Sin poder casi maniobrar.
 
 En la Vigilia la luna es más pequeña y está más lejos con lo que al activarse el mecanismo de vuelo, solo se eleva unos pocos metros, con lo que muchas veces la quilla no sale del agua.
-
-\sp
 
 Aun así, al haber menores fuerzas actuando contra el barco, este puede maniobrar y un capitán hábil puede usar la ventaja de que su barco es más ligero para sacar ventaja.
 
@@ -314,9 +323,9 @@ En sus bosques natales viven en comunidades tribales lideradas por los más anci
 
 A los zoogs les gustan los objetos caros y raros, el oro y las piedras preciosas, ya que les dan estatus dentro de sus comunidades, lo cual hace que sean sobornables.
 
-Tienen un terrible miedo a los gatos y no se acercan a los lugares donde haya felinos domésticos.
-
 \sp
+
+Tienen un terrible miedo a los gatos y no se acercan a los lugares donde haya felinos domésticos.
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d10, Fuerza d4, Vigor d6
 * **Habilidades:** XXX
