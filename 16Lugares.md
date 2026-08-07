@@ -343,12 +343,13 @@ A los zoogs les gustan los objetos caros y raros, el oro y las piedras preciosas
 Tienen un terrible miedo a los gatos y no se acercan a los lugares donde haya felinos domésticos.
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d10, Fuerza d4, Vigor d6
-* **Habilidades:** XXX
+* **Habilidades:** Atletismo d6, Idioma materno d6, Notar d8, Pelear d6, Sigilo d6, Supervivencia d8
 * **Paso:** 6; **Parada:** 5; **Dureza:** 2
 * **Desventaja:** Avaricioso (menor)
 * **Capacidades especiales:**
   * **Colmillos:** FUE+d4
   * **Tamaño -3:** Son menudos, miden en torno a los treinta centímetros de largo. Todo ataque dirigido a ellos tiene un -4.
+  * **Hechizos:** PP 10, Pueden conocer un par de hechizos no de combate como Xilomancia, Hidromancia, Luz del día o Péndulo de cuarzo 
 * **TPC:** 1d4 (manada)
 
 \sc
