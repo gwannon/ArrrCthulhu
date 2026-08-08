@@ -4,9 +4,9 @@
 
 \conc
 
-Las Islas Turcas y Caicos es un archipiélago de islas situado en el extremo este las Antillas Mayores. Son unas islas pequeñas y prácticamente deshabitadas. 
+Las Islas Turcas y Caicos es un archipiélago de islas situado en el extremo este de las Antillas Mayores. Son unas islas pequeñas y prácticamente deshabitadas. 
 
-En teoría en un territorio dependiente de Bahamas, pero en la realidad se autogestionan y los poderes y las leyes británicas poco efecto tiene en estas islas.
+En teoría es un territorio dependiente de Bahamas, pero en la realidad se autogestionan y los poderes y las leyes británicas poco efecto tienen en estas islas.
 
 Estas islas son, como muchos de los pequeños archipiélagos controlados por los ingleses, un nido de piratas al mismo nivel que las islas Caimán.
 
@@ -26,7 +26,7 @@ XXX
 
 En el centro de las islas hay un pequeño islote donde vive una importante colonia de iguanas de roca. Este islote arenoso está deshabitado y **las iguanas campan y retozan a sus anchas** entre su baja vegetación.
 
-Es bastante famosa entre los barcos piratas por ser una **forma muy rápida, barata y fácil de conseguir carne fresca**. Así que no es raro ver a grupos de piratas corriendo detrás de las iguanas en las playas del islote. De hecho, muchas veces se terminan montando apuestas y concursos por ver quien consigue atrapar antes a una iguana.
+Es bastante famosa entre los barcos piratas por ser una **manera muy rápida, barata y fácil de conseguir carne fresca**. Así que no es raro ver a grupos de piratas corriendo detrás de las iguanas en las playas del islote. De hecho, muchas veces se terminan montando apuestas y concursos por ver quien consigue atrapar antes a una iguana.
 
 \sp
 
@@ -34,7 +34,7 @@ Es bastante famosa entre los barcos piratas por ser una **forma muy rápida, bar
 
 Las iguanas son buenos animales de compañía, así que tampoco es de extrañar que muchas se salven de la cazuela y acaben sueltas en los barcos como mascotas de la tripulación.
 
-> Si necesitas estadísticas de una iguana, puedes usar las del gato domestico del manual básico de SWEA.
+> Si necesitas estadísticas de una iguana, puedes usar las del gato doméstico del manual básico de SWEA.
 
 Ha habido varios intentos de habitar la isla, pero siempre han acabado en la extraña desaparición de sus habitantes. Es por ello que tiene **cierta fama de isla maldita**. 
 
@@ -56,6 +56,26 @@ En las playas de la isla cercanas a las colinas se pueden encontrar esqueletos d
 
 > Estos antiguos campamentos son sitios perfectos para dejar objetos tanto mundanos como pedidos en el tiempo y el espacio. Pueden ser realmente antiguos y de muchísimo valor. Desde objetos de poder, grimorios o mapas del tesoro.
 
-### The hole
+### Los pozos negros
 
-[XXX](https://www.atlasobscura.com/places/the-hole-long-bay-hills-turks-and-caicos-islands)
+También llamados sumideros, son pozos de gran tamaño y profundidad llenos de agua fresca. Fueron creados hace miles de años por el efecto del agua de lluvia sobre la piedra caliza que forma las islas.
+
+Si bien hay pozos negros por todo el archipiélago, la mayoría de los más grandes están en la isla de Providenciales. El más grande todos se conoce como The Hole y se encuentra al este de Providenciales.
+
+La mayoría de los pozos se llenan con agua de lluvia, pero The Hole y el resto de pozos de mayor tamaño de Providenciales dan a una red de túneles subacuáticos no-naturales que llevan hasta el mar, por lo que su agua es salobre.
+
+A diferencia de los cenotes y _blue holes_ de otras partes del Caribe, las tribus de profundos locales no se adentran en ellos y no los usan en sus expediciones tierra adentro.
+
+Para ellos son tabú y bajo ninguna circunstancia entran en ellos. Quizás con una caracola de los Profundos se pudiera pedir como favor, pero la verdad es que a priori no hay nada interesante en ellos, que se sepa.
+
+La realidad es que durante miles de años la red de túneles fue el hogar de un shoggoth superviviente de tiempos pretéritos que mataba a todo aquel profundo que se aventuraba en los túneles submarinos.
+
+Si bien el shoggoth hace siglos que murió o desapareció, el miedo atávico que imprimió en los profundos locales durante generaciones sigue presente en la prohibición de adentrarse en la red de túneles.
+
+La red de túneles tiene una estructura laberíntica con túneles donde un hombre podría ponerse de pie sin problemas y otros donde apenas podría gatear.
+
+\sp
+
+> **Semilla de aventuras:** Las leyendas y rumores de tesoros piratas sumergidos en los pozos son constantes y pueden ser utilizados para atraer a tu mesa a las islas y a explorar los pozos negros.
+
+Solo con ingenios submarinos o hechizos de respirar bajo es agua se pueden explorar estás cavernas subacuáticas, aunque pueden encontrarse bolsas de aire en ciertas partes.
