@@ -98,7 +98,7 @@ Quizás una gramática sacada de la Universidad Santo Tomás de Aquino, de la Un
 
 #### Ritual para a atrapar a un dios exterior
 
-Cualquiera puede realizar este ritual si sabe como, tiene la esencia de su objetivo y esta es lo suficientemente poderosa. 
+Cualquiera puede realizar este ritual, si sabe cómo, tiene la esencia de su objetivo y esta es lo suficientemente poderosa. 
 
 Principalmente, se crea un gigantesco agujero (10x10x10 metros). Dentro del hoyo se monta un altar donde se hace una ceremonia donde se usa la esencia para atraer al dios y encerrarlo en el hoyo que se convierte en una especie de trampa paradimensional. 
 
@@ -116,137 +116,61 @@ El ritual es muy sencillo y podría hacerlo cualquiera con la ventaja Hechicerí
 
 \conc
 
-XXX
+La idea principal de esta campaña en que empiecen con personajes con algunos avances (mínimo Experimentados) y con su propio barco.
 
-### Si empiezas con personajes recién credos
+Si están jugando «El tesoro hundido», en los momentos que Mary Read les dé libertad, tendrán un barco y suficientes avances para que puedas introducirlos en esta campaña y discurrirlas paralelamente. Si la terminan adecuadamente y como es de menor duración, todos los aliados y el poder que consigan podrán usarlo contra la Orden del Gran Cthulhu.
+
+Si ya sabes que vas a jugar esta campaña, es interesante que el nombre de Amanda Limestone empiece a sonar entre posibles nombres de grandes conocedores de los Mitos, quizás vean una carta suya en el despacho de Isadora de la Guía y Arango en su librería o haya hecho anotaciones en algún tomo de los Mitos al que hayan tenido acceso.
+
+### Empezando con personajes nuevos
+
+Si tú idea es empezar está campaña con personajes nuevos, Amanda Limestone se podría convertir en su patrona y mandarles a varios trabajos antes de entrar en materia. Algunas opciones para empezar:
+
+* Puede mandarlos a sumergirse en las aguas de la ciudad sumergida de Port Royale a explorar algunas pasiones submarinas. No van a encontrar grimorio de Bahram el Gauro, pero pueden empezar a conocer los Mitos a través de los Profundos que habitan la zona.
+* Anya Corbitt (El tesoro de la mansión Corbitt) ha pedido ayuda a una conocida de la familia Amanda Limestone que envía a tu mesa.
+* Un extraño coral (El coral surgido del espacio) ha llegado a manos de Amanda y quiere que tú mesa investigue su origen.
+
+Si decides que tu mesa se cree personajes experimentados, aun así le faltaría cierta experiencia con los Mitos y seguramente algún tipo de nave. Eso será algo que tendrás que solucionar a través de Amanda y su dinero y conocimientos de los Mitos.
+
+\sp
+
+### Enter Amanda
+
+Los rumores de que tu mesa participó en relatos salvajes como El Susurros, Se buscan modelos, Cazadores de hueso o sus primeros pasos en la campaña de El tesoro hundido han llegado a oídos de Amanda Limestone. Lo que ha oído es que son un nuevo agente en la zona con las capacidades necesarias para la misión que necesita que se cumpla, capturar al barón Samedí.
 
 XXX
 
 \sp
 
-\sinc
-
-## La captura del avatar
-
-\conc
-
-XXX
-
-Amanda les enseñará el hechizo de Transubstanciación (Anular poderes), pero seguramente que no tienen PP propios para lanzarlo a nivel que exige el poder del Barón Samedí y les entregará a cada jugador un **Coco de Yúcahu** que les dará los PP necesarios para lanzar el hechizo.
-
-> **Coco de Yúcahu:** Uno de cada diez mil cocos es un **Coco de Yúcahu** y son guardados por los behikes como un tesoro. Estos cocos especiales de color blanco, que se cree que están tocados por la deidad taina Yúcahu, dan tantos PP adicionales como Espíritu de aquel que los bebe durante una hora. Si un comodín con Espíritu d6 y de normal tiene 6 PP, bebe uno de estos cocos y recibe 6 PP más. 
-
-XXX
-
-> A pesar de lo que puedan creer, el Barón Samedí nunca va a mentir a tus jugadores, será completamente sincero en todo lo que les diga.
+|12CometaCapturaAvatar.md|
 
 \sp
 
-\sinc
-
-## Entrando en la tierra de los sueños
-
-\conc
-
-XXX
-
-### El paso del Ensueño
-
-El paso del Ensueño es un gigantesco remolino en alta mar entre Haití y Aruba. Es lo suficientemente grande para tragarse un navío de gran tamaño y si entras en un radio de un kilómetro es imposible escapar.
-
-> Si tus jugadores no toman mediciones exactas de la localización del Paso del Sueño, no podrán volver encontrarlo por más que naveguen por estas aguas.
-
-Es una falla entre el sueño y la vigilia que permite pasar de nuestro mundo a las Tierras del Sueño. Por suerte para las gentes del Caribe y para mala suerte de tu mesa, no funciona al revés. Nada del sueño puede salir por esta fisura y casi nada de lo que han entrado ha conseguido volver a nuestro mundo.
-
-Mientras el barco es tragado por el remolino, la tripulación que esté en cubierta pilotando el barco debería tirar FUE para aguantar encima del barco. Si salen despedidos fuera del agua, seguramente acaben perdidos en el tiempo y el espacio. O como mínimo en alguna playa de las costas de la Tierra del sueño.
-
-Cuando pasas al otro lado del remolino acabas en una especie de cementerio de barcos. Está lleno de restos de barcos que no han conseguido sobrevivir de una pieza al viaje.
-
-> Tus jugadores pueden intentar gastar un día buscar tesoros entre los pedios como si fuera un botín d8 pasando un día completo en el edificio, pero no pueden tirar en la tabla de Objetos Perdidos en el tiempo y el espacio. También conseguirán material suficiente para arreglar su barco completamente.
-
-XXX
+|12CometaTierraSueno.md|
 
 \sp
 
-\sinc
-
-## Vuelta a aguas conocidas
-
-\conc
-
-La principal misión en este capítulo es conseguir volver a nuestro mundo, cosa que no es fácil, pero desde luego no imposible. No han entrado como parte del sueño con sus formas oníricas, sino que han entrado con su forma física, así que la única forma de salir es a través de grietas físicas entre ambos mundos.
-
-XXX
-
-### Otras maneras de volver
-
-Otras maneras de volver que tu mesa pueden intentar.
-
-* Si jugaron la aventura de «El yeho», el gugo viene de las Tierras de los Sueños. Quizás puedan encontrar la fisura de la realidad que uso el gugo para entrar en el mundo de la Vigilia.
-* Tal vez puedan usar «Ánfora de viaje por las Tierras del sueño» para volver a su mundo. Tanto si la tienen en su poder como si la encuentran en las Tierras de los Sueños, talvez pueda modificarla para usarla a su gusto.
+|12CometaVuelta.md|
 
 \sp
 
-\sinc
-
-## Negociando con el demonio
-
-\conc
-
-XXX
+|12CometaDemonio.md|
 
 \sp
 
-\sinc
-
-## Robando el grimorio
-
-\conc
-
-Sea como sea y hayan decidido lo que hayan decidido, tu mesa debe conseguir el grimorio que Amanda Limestone consiguió en la ciudad hundida de Port Royal. 
-
-XXX
+|12CometaGrimorio.md|
 
 \sp
 
-\sinc
-
-## La Espiga Púrpura contraataca
-
-\conc
-
-XXX
+|12CometaContraataque.md|
 
 \sp
 
-\sinc
-
-## El enemigo de tu enemigo es tu aliado
-
-\conc
-
-Está claro que la Espiga Púrpura y Amanda Limestone es demasiado para tu mesa, así que deberán negociar con alguien para conseguir poder e intentar derrotar a Amanda Limestone. Pueden intentar recurrir a varias fuerzas:
-
-* La Orden del Gran Cthulhu
-* La hermandad del Sargazo
-* Yuggothianos
-* Otros poderes menores: yithianos, serpigente, brujos vudús o behikes
-
-XXX
+|12CometaAliado.md|
 
 \sp
 
-\sinc
-
-## El gran ritual
-
-\conc
-
-XXX
-
-El Barón Samedí solo existe durante el Fèt Gede y si no son rápidos este desaparecerá y no podrá ayudarlos.
-
-XXX
+|12CometaFinal.md|
 
 \sp
 

@@ -14,6 +14,11 @@ $md = preg_replace_callback("/\|([a-zA-Z0-9]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
+$md = preg_replace_callback("/\|([a-zA-Z0-9]*)\.md\|/", function($matches) {
+  $matches[0] = file_get_contents(__DIR__ . "/../".$matches[1].".md"); 
+  return $matches[0];
+}, $md);
+
 $mkd = Markdown::new();
 $mkd->setContent($md);
 $tags['HTML'] = $mkd->toHtml();
