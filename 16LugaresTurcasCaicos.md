@@ -18,17 +18,25 @@ _Población:_ 100 habitantes
 
 _Controlada por:_ Oficialmente Gran Bretaña
 
-Cockburn Town fue fundada por salineros de Bermuda en 1681 en la isla Gran Turca. 
+Cockburn Town fue fundada por salineros de Bermuda en 1681 en la isla Gran Turca. Pero hoy en día este pequeño asentamiento vive de dar cobijo a piratas y corsarios y de suministrarles todo lo que necesitan.
 
-XXX
+Así que **Cockburn Town** es una mezcla de **almacenes de víveres, pólvora y armas, diques secos donde parchear barcos y locales, donde beber, comer y divertirse**.
+
+Las pocas personas que no se dedicaban a dar servicios a los piratas han ido abandonando la isla. Y los pocos que se hn quedado, como el alcalde Townsend, se han convertido en corruptos, piratas o en borrachos.
+
+Así que no esperes encontrar a personas que se dediquen a las leyes, la enseñanza, el arte o la ciencia. Puedes encontrar algún matasanos que cosa tus heridas, pero desde luego nada de médicos de carrera. Tampoco esperes grandes artesanos de barcos, ni carpinteros navales. 
+
+El pasado salinero de la ciudad aún persiste y los piratas suelen pasarse por Cockburn para conseguir sal en grandes cantidades para conservar su comida mientras están en el mar.
+
+\sp
+
+> La sal es importante para la vida y tiene su valor en la magia. Es por ello que la RCPC vigila las ventas de grandes cantidades de sal, pero las hechas en estas islas quedan fuera de su control. Si tu mesa necesita grandes cantidades de sal para algún tipo de ritual, Cockburn Town es un lugar seguro para comprarla y que la Orden de Cthulhu no se entere.
 
 ### Isla Iguana
 
 En el centro de las islas hay un pequeño islote donde vive una importante colonia de iguanas de roca. Este islote arenoso está deshabitado y **las iguanas campan y retozan a sus anchas** entre su baja vegetación.
 
-Es bastante famosa entre los barcos piratas por ser una **manera muy rápida, barata y fácil de conseguir carne fresca**. Así que no es raro ver a grupos de piratas corriendo detrás de las iguanas en las playas del islote. De hecho, muchas veces se terminan montando apuestas y concursos por ver quien consigue atrapar antes a una iguana.
-
-\sp
+Es bastante famosa entre los barcos piratas por ser una **manera muy rápida, barata y fácil de conseguir carne fresca**.Así que no es raro ver a grupos de piratas corriendo detrás de las iguanas en las playas del islote. De hecho, muchas veces se terminan montando apuestas y concursos por ver quien consigue atrapar antes a una iguana.
 
 [![Bahamas Rock Iguana (Cyclura carinata) - Caudatejake - Own work](./images/Cyclura_carinata2.jpg)](https://en.wikipedia.org/wiki/Turks_and_Caicos_rock_iguana#/media/File:Cyclura_carinata2.jpg "Bahamas Rock Iguana (Cyclura carinata) - Caudatejake - Own work") 
 
