@@ -36,8 +36,22 @@ Los no-comodines creyentes del vudú caerán inmediatamente bajo el influjo del 
 
 La orgía bajo la influencia del avatar puedes durar varios días hasta que los cuerpos de creyentes ya no pueden seguir más o las fuerzas religiosas y policiales toman cartas en el asunto y disuelven a la multitud. En ese momento el avatar abandona el lugar y busca un nuevo cementerio donde seguir las celebraciones.
 
-> Mientras haya alguien celebrándolo el Barón Samedí estará en la tierra. En cuanto terminen las celebraciones, el Barón desaparecerá hasta el año que viene. Así que durante todo el mes de noviembre, el avatar de Nyarlathotep camina entre las gentes de Haití.
+> Mientras haya algún creyente del vudú celebrando el Fèt Gede, el Barón Samedí estará en la tierra. En cuanto terminen las celebraciones, el Barón desaparecerá hasta el año que viene. Así que durante todo el mes de noviembre, el avatar de Nyarlathotep camina entre las gentes de Haití. Intentar estirar artificialmente las celebraciones no funcionará a no ser que se monte unas grandes festividades.
 
 ### Cementerios de Hôpital
 
-XXX
+En Hôpital, la zona central de Saint-Domingue, no hay grandes centros urbanos y por tantos los cementerios son pequeños y están dispersos por todo Hôpital.
+
+Quitando las tumbas y mausoleos del terrateniente local, el resto de enterramientos son pequeñas lápidas o cruces con nombres y fechas que marcan donde está el finado.
+
+\sp
+
+En estos cementerios se cuentan montones de historias de cadáveres desaparecidos o que se levantan y andan y las autoridades religiosas y policiales las achacan a rituales vudú.
+
+> En realidad casi todas las historias extrañas en cementerios son culpa ghules que desentierran los cadáveres para devorarlos.
+
+Incluso en la muerte hay clases sociales y los esclavos a pesar de ser «crustianos» no eran enterrados en los mismos cementerios. Más que cementerios eran fosas comunes ya que las lápidas cuestan dinero y ese honor solo se dejaba a los esclavos más fieles, trabajadores y normalmebte que trabajaban en casa. Los trabajadores del campo iban directamente a las fosas comunes.
+
+En estos cementerios para esclavos es donde se suele celebrar el Fèt Gede. Como son sitios alejados de los núcleos urbanos y mal comunicados la mayoría de ellos claros en la selva eran perfectos para que los practicantes del vudú hicieran sus ritos, especialmente en Todos los Santos.
+
+Es en estos últimos cementerios donde se aparece el Barón Samedí y donde monta sus orgías y es donde aparece los dueños de los esclavos acompañados de guardia y soldados al de unos días cuando desaparecen los esclavos de las plantaciones y nadie sabe dónde están.
