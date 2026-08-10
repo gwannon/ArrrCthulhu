@@ -208,7 +208,9 @@ Navegar no por estas aguas no es fácil. Para empezar son aguas desconocidas don
 
 > Todas las tiradas de Pilotar para orientarse, leer el tiempo, buscar rutas, etc. reciben un -2 a la tirada. Si pasan el suficiente tiempo en estas aguas y compran mapas, contratan marinos locales o cosas similares podrás quitarles este negativo.
 
-XXX
+Los encuentros con otros barcos son normales y aunque existe la piratería, no es muy común a no ser que tu mesa sean los piratas.
+
+Los monstruos y los sucesos extraños de los mares de la Vigilia pueden ser usados casi sin cambios en los mares del Sueño. Sin embargo, hemos creado sus propias tablas de encuentros en los mares del Sueño. Pero si te quedas sin eventos del Sueño, puedes recurrir a las de la Vigilia.
 
 \sp
 
