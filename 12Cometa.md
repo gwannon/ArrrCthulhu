@@ -126,9 +126,9 @@ Si ya sabes que vas a jugar esta campaña, es interesante que el nombre de Amand
 
 Si tú idea es empezar está campaña con personajes nuevos, Amanda Limestone se podría convertir en su patrona y mandarles a varios trabajos antes de entrar en materia. Algunas opciones para empezar:
 
-* Puede mandarlos a sumergirse en las aguas de la ciudad sumergida de Port Royale a explorar algunas pasiones submarinas. No van a encontrar grimorio de Bahram el Gauro, pero pueden empezar a conocer los Mitos a través de los Profundos que habitan la zona.
+* Puede mandarlos a sumergirse en las aguas de la ciudad sumergida de Port Royal a explorar algunas pasiones submarinas. No van a encontrar grimorio de Bahram el Gauro, pero pueden empezar a conocer los Mitos a través de los Profundos que habitan la zona.
 * Anya Corbitt (El tesoro de la mansión Corbitt) ha pedido ayuda a una conocida de la familia Amanda Limestone que envía a tu mesa.
-* Un extraño coral (El coral surgido del espacio) ha llegado a manos de Amanda y quiere que tú mesa investigue su origen.
+* Un extraño coral (El coral surgido del espacio) ha llegado a manos de Amanda y quiere que tu mesa investigue su origen.
 
 Si decides que tu mesa se cree personajes experimentados, aun así le faltaría cierta experiencia con los Mitos y seguramente algún tipo de nave. Eso será algo que tendrás que solucionar a través de Amanda y su dinero y conocimientos de los Mitos.
 

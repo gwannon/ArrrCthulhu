@@ -106,7 +106,7 @@ El punto de despegue/aterrizaje (y correspondiente la ruta hasta Dylath-Leen) no
 
 \conc
 
-La tecnología voladora de las galeras negras de las bestias lunares debe ser considerada como **modificación extraña**. Este sistema  se basa en la gravedad entre la tierra y la luna del Sueño.
+La tecnología voladora de las galeras negras de las bestias lunares debe ser considerada como **modificación extraña**. Este sistema se basa en la gravedad entre la tierra y la luna del Sueño.
 
 En las Tierras del Sueño la Luna onírica está más cerca de la tierra onírica y es mucho mayor. El artilugio que permite volar a las galeras se aprovecha de las fuerzas gravitacionales para hacer salir despedido hacia el cielo a los barcos.
 
@@ -123,7 +123,7 @@ Aun así, al haber menores fuerzas actuando contra el barco, este puede maniobra
 * Puedes tratar de sobrecargar tu barco sin perder velocidad. XXX
 * O todo lo contrario, parecer que no está cargado en absoluto, con lo que los piratas no te seguirán y los jefes de puerto ni querrán revisar tu carga al parecer que vas vacío.
 
-El único problema de esta modificación es que solo funciona de noche con la luna en el cielo. Las opciones de fases lunares y si se ve de día la luna o no, pueden complicar todo esto mucho con lo que solo funciona de noche, desde la página está hasta la salida del sol, y no importa la fase lunar.
+El único problema de esta modificación es que solo funciona de noche con la luna en el cielo. Las opciones de fases lunares y si se ve de día la luna o no, pueden complicar todo esto mucho con lo que solo funciona de noche, desde la puesta hasta la salida del sol, y no importa la fase lunar.
 
 Al no salir del agua la quilla y ser de noche, solo una persona muy experta en Navegar podría detectar que pasa algo raro y necesitaría una tirada de Mitos para saber qué se está usando tecnología gravitacional de las bestias lunares.
 

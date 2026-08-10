@@ -1,11 +1,3 @@
-### Kingston
-
-_Población: 28.000_
-
-_Controlada por: Gran Bretaña_
-
-XXX
-
 ### Kumina
 
 XXX

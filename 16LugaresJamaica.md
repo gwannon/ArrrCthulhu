@@ -50,7 +50,35 @@ _Población: 28.000_
 
 _Controlada por: Gran Bretaña_
 
-XXX
+Aquí tienes un nueva localización que tu mesa puede visitar cuanto esté en la vibrante y ruidosa ciudad de Kingston.
+
+#### El Correo semanal de Jamaica
+
+ El recién fundado [Correo semanal de Jamaica](https://en.wikipedia.org/wiki/Weekly_Jamaica_Courant) (1718) es, a diferencia de La verdad de La Habana, un periódico serio que trata noticias del Reino Unido y de las Indias Occidentales.
+
+Nunca trata temas escabrosos, ni cotilleos, ni matanzas, ni sucesos extraños. Solo artículos serios e importantes, con fuentes contrastadas y siguiendo lo que dicta la ética periodística.
+
+Su precio es muy superior a La verdad de La Habana y solo los más ricos de Kingston se lo pueden permitir su compra todas las semanas. Además es normal guardar cada ejemplar para encuadernarlos y guardarlos en sus bibliotecas. Otra característica es que solo se usa el inglés y normalmente con un vocabulario muy culto.
+
+Esto hace que, al contrario que LVH, las clases más bajas no tengan acceso a sus publicaciones, que no leen ni intercambian.
+
+Las oficinas y la imprenta del periódico están situados en los bajos del centro de Kingston, con lo que sus redactores y su editora Helen Baldwin (viuda de Robert Baldwin, el creador del periódico), están cerca de donde se generan muchas de sus noticias
+
+El edificio tiene dos plantas, una para la dirección, escritura y maquetación del periódico y la inferior para la imprenta.
+
+La línea editorial del periódico es muy clara y no esconden. Son probritánicos, antiespañoles, ultraliberales en lo económico y conservadores en todo lo demás.
+
+Hernando de Villalba recibe todas las semanas este periódico resumido y comentado por su secretario junto con el resto de periódicos europeos que le llegan de ultramar.
+
+Tener contactos en el periódico, puede ofrecer cierta información confidencial con antelación que para un pirata pudiera ser interesante, como la llegada de algún nuevo cargo militar a la zona o la contratación de algún cazapirata para limpiar las aguas de los territorios británicos en el Caribe.
+
+\sp
+
+> Si demuestras un dominio de la lengua de Shakespeare alto (inglés d8 o más) conocimientos de economía, leyes, artes (d8 o más en Humanidades) podrían comprar tus artículos por unos 50 doblones. No son unos grandes ingresos, pero piensa que podrías publicar algún artículo que la opinión pública de Kingston tome como verdadera y eso es algo que algún momento puede ser muy interesante. Si tu mesa consigue publicar 5 artículos bajo el mismo nombre, tendrán la suficiente confianza en ellos como para publicar lo que sea creyéndose todo lo que escriban y sin revisar las fuentes.
+
+Aunque solo tiene unos pocos años de vida, poder acceder a sus ejemplares antiguos podría dar información muy interesante, sobre todo de la RCPC cuyas actividades sigue el periódico con mucho interés.
+
+El tabloide cuenta también con secciones de ofertas de trabajo y de noticias de descubrimientos científicos hechos o qué atañen a la economía de Jamaica, como nuevos procedimientos de extracción de melaza o nuevas especies descubiertas.
 
 ### Kumina
 
