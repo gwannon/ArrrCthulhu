@@ -796,6 +796,7 @@ section:first-of-type > h2 {
   margin-bottom: 40px;
   max-width: 490px;
   line-height: 120%;
+  font-size: 27px;
 }
 
 section:first-of-type > img {
