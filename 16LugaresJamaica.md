@@ -94,7 +94,7 @@ Sin embargo, los protestantes ingleses no tenían tanto interés en salvar las a
 
 Es por ello que en Jamaica los Kongo pudieron seguir con su religión y sus ritos, mientras no afectaran a la productividad de su trabajo.
 
-XXX
+Todo lo anterior hace que los poblados de cimarrones con mayoría Congo, son comunidades muy unidas, fuertes y exitosas a las que los caza-esclavos y soldados ingleses no se atreven a acercarse. Sin embargo, son sitios perfectos para los fuera de la ley que necesitan comida, madera o espadas. A su vez estas comunidades se aprovisionan de productos que no pueden obtener de forma normal como pólvora.
 
 > Estas creencias irían evolucionando con los años en la kumina en el siglo XIX que luego sería la base de la religión rastafari.
 
@@ -102,6 +102,4 @@ XXX
 
 La música, y en especial el canto y la percusión, son fundamentales en los ritos religiosos de los Kongo. Y los expertos consideran que en estas expresiones musicales serían unas de las fuentes de las que bebería el _Reggae_, el estilo musical por excelencia de Jamaica, en el siglo XX.
 
-XXX
-
-> Por unos 300 doblones y una semana de entrenamiento musical intensivo, mejorará el valor de Interpretar del personaje en un nivel de dado cuando toque un instrumento musical. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance. 
+> Por unos 300 doblones y una semana de entrenamiento musical intensivo, mejorará el valor de Interpretar del personaje en un nivel de dado cuando toque un instrumento musical. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance. Los dueños de las plantaciones no van a permitir a tu mesa acercarse a los esclavos y mucho menos que les paguen por sus enseñanzas. Es por eso que la única forma de mejorar tus capacidades musicales es acercarte a las comunidades cimarrones y buscar un maestro de música.
