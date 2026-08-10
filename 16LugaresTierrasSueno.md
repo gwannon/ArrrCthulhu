@@ -64,21 +64,33 @@ Al igual que Celephaïs, Serannian está gobernada por el rey Kuranes, quien res
 
 ### Dylath-Leen
 
-[Dylath-Leen](https://amor-de-otro-mundo.fandom.com/es/wiki/Dylath-Leen) es lo más parecido que va a ver tu mesa a una isla pirata y, seguramente y a pesar de estar en otro mundo, se sentirán un poco como en casa. Es una de las ciudades con peor reputación de las Tierras del Sueño y razón no le falta a los que lo dicen.
+[Dylath-Leen](https://amor-de-otro-mundo.fandom.com/es/wiki/Dylath-Leen) es lo más parecido que va a ver tu mesa a una isla pirata y, seguramente y a pesar de estar en otro mundo, se sentirán un poco como en casa. Es una de las ciudades con peor reputación de las Tierras del Sueño y razón no les falta a los que lo dicen.
 
-XXX
+Su puerto es conocido como la Bahía de los Muelles y está compuesto de más de cien muelles de todo tipo de tamaño y forma para dar cabida a todo tipo de navíos de los mares del Sueño independientemente de su forma y tamaño. Por lo menos, un 25% de los muelles están siempre en uso.
+
+Pero a diferencia de sitios como Tortuga o Barbados, a los que tu mesa estará acostumbrado, el comercio es tan grande que las grandes fortunas comerciales se mezclan en sus calles con marineros borrachos de todas las Tierras del Sueño.
+
+\sp
+
+La gente viste desde levitas, capas y pantalones, hasta turbantes, túnicas o caftanes y en las calles se pueden escuchar idiomas de todos los países del Sueño y la Vigilia.
+
+Desde el mar se pueden ver las murallas y las torres delgadas y angulosas construidas de basalto negro que caracterizan la silueta de la ciudad.
+
+La ciudad es muy antigua y a diferencia de las ciudades portuarias del Caribe, las casas son altas y de piedra, no bajas y de madera, incluso las más pobres. Lo que si hay son grandes avenidas en las zonas ricas y nuevas y callejones sucios y oscuros en las partes más viejas y pobres.
+
+La ciudad no tiene una figura gobernante clara, sino que es regida por las casas más ricas de la ciudad, tanto nobiliarias como comerciales. 
 
 #### Galeras negras, lengnitas y bestias lunares
 
 Dylath-Leen es también infame por las galeras negras que frecuentan sus puertos. Estas galeras están dirigidas por remeros que nunca son vistos y tripulados por hombres con turbantes que comercian con curiosos rubíes y que los intercambian por esclavos y oro. Estos hombres con turbantes (y los remeros) son esclavos lengnitas que trabajan como intermediarios para sus amos las bestias lunares.
-
-\sp
 
 Hace siglos las bestias lunares, que viven en la cara oculta de la luna del Sueño, esclavizaron a los lengnitas de las tundras del norte haciéndose pasar por dioses. Cogieron a estos esclavos y los llevaron a sus ciudades lunares y les hicieron trabajar en sus minas de rubíes. Cada cierto tiempo las bestias lunares vuelven a la tierra usando unas galeras negras que pueden volar y moverse por el espacio y venden en Dylath-Leen sus rubíes a cambio de nuevos esclavos para las minas y oro.
 
 Las bestias lunares por su forma alienígena prefieren no relacionarse con las gentes de Dylath-Leen y usan a lengnitas espacialmente hábiles como intermediarios que vendan sus rubíes y compren esclavos. Estos lengnitas usan turbantes para tapar sus cuernos caprinos y ropajes anchos estilo árabe para ocultar sus piernas de cabra.
 
 La llegada de las galeras negras al puerto siempre crea expectación, pero nadie hace muchas preguntas, ya que dejan muy buenos beneficios entre los mercaderes locales y nadie quiere matar a la gallina de los huevos de oro. 
+
+\sp
 
 Las malas lenguas hablan de que los hombres con turbantes solo son intermediarios y de que los verdaderos dueños y capitanes de las galeras nunca salen del barco. También se habla de figuras cuadrúpedas parecidas a sapos o ranas que se ven a veces fugazmente en las cubiertas de las galeras negras.
 
@@ -90,13 +102,15 @@ Las galeras negras de las bestias lunares son simples galeras a remos y velas ne
 
 Su capacidad de vuelo y de viaje espacial solo se usa para ir de la tierra a la luna. Cuando salen o llegan a la tierra suelen hacerlo muy lejos de la costa y de las rutas comerciales para no descubrir su secreto.
 
-\sp
-
 Esto generar muchos rumores entre los marineros, ya que Dylath-Leen es el único puerto donde atracan, cuando lo normal es que hubiera por lo menos oro puerto conocido donde cargarán los rubíes que venden y donde dejasen los esclavos que compran y el oro que consiguen.
 
 Así pues, desde el punto de despegue/aterrizaje hasta el puerto de Dylath-Leen, las galeras usan sus velas y los remos son accionados por esclavos para navegar por el mar.
 
 El punto de despegue/aterrizaje (y correspondiente la ruta hasta Dylath-Leen) no siempre es el mismo, va cambiando según la posición de la Luna y la Tierra y es bastante difícil de predecir, con lo que tratar de emboscarlos en lejos de la costa es muy complicado. Sería pura suerte que tu mesa se encontrará con una galera negra en alta mar, lejos del puerto de Dylath-Leen.  
+
+La tecnología voladora de las galeras negras de las bestias lunares debe ser considerada como **modificación extraña**. 
+
+\sp
 
 \sinc
 
@@ -106,7 +120,7 @@ El punto de despegue/aterrizaje (y correspondiente la ruta hasta Dylath-Leen) no
 
 \conc
 
-La tecnología voladora de las galeras negras de las bestias lunares debe ser considerada como **modificación extraña**. Este sistema se basa en la gravedad entre la tierra y la luna del Sueño.
+Este sistema se basa en la gravedad entre la tierra y la luna del Sueño.
 
 En las Tierras del Sueño la Luna onírica está más cerca de la tierra onírica y es mucho mayor. El artilugio que permite volar a las galeras se aprovecha de las fuerzas gravitacionales para hacer salir despedido hacia el cielo a los barcos.
 
@@ -114,20 +128,18 @@ Las fuerzas gravitacionales son tan fuertes que al activarlo el barco empieza a 
 
 En la Vigilia la luna es más pequeña y está más lejos con lo que al activarse el mecanismo de vuelo, solo se eleva unos pocos metros, con lo que muchas veces la quilla no sale del agua.
 
-\sp
+Aun así, al haber menores fuerzas actuando contra el barco, este puede maniobrar y un capitán hábil puede usar la capacidad de que su barco es más ligero para obtener una de estas ventajas.
 
-Aun así, al haber menores fuerzas actuando contra el barco, este puede maniobrar y un capitán hábil puede usar la ventaja de que su barco es más ligero para sacar ventaja.
-
-* Con viento a favor será mucho más rápido. XXX
+* Con viento a favor será mucho más rápido. En trayectos cortos como combates y persecuciones esta ventaja no tiene mucha efectividad, pero durante viajes largos (1 semana mínimo) y con buen tiempo y viento a favor puede reducir el tiempo de viaje a la mitad.
 * Puedes pasar por bancos de arena y aguas de sin problema.
-* Puedes tratar de sobrecargar tu barco sin perder velocidad. XXX
+* Puedes tratar de sobrecargar tu barco sin perder velocidad. La capacidad de carga no aumenta, no puedes meter más barriles en la bodega de las que puedes llevar normalmente, pero digamos que puedes llevar productos más pesados como sal, metales procesados o mineral en bruto sin ningún tipo de penalización. 
 * O todo lo contrario, parecer que no está cargado en absoluto, con lo que los piratas no te seguirán y los jefes de puerto ni querrán revisar tu carga al parecer que vas vacío.
+
+\sp
 
 El único problema de esta modificación es que solo funciona de noche con la luna en el cielo. Las opciones de fases lunares y si se ve de día la luna o no, pueden complicar todo esto mucho con lo que solo funciona de noche, desde la puesta hasta la salida del sol, y no importa la fase lunar.
 
 Al no salir del agua la quilla y ser de noche, solo una persona muy experta en Navegar podría detectar que pasa algo raro y necesitaría una tirada de Mitos para saber qué se está usando tecnología gravitacional de las bestias lunares.
-
-\sp
 
 ### La Montaña del Imán
 
@@ -143,11 +155,11 @@ La montaña de piedra ferrosa, gracias a la estatua ecuestre, es un gigantesco y
 
 Todo barco con componentes metálicos que entre en el radio de 5 km. de las montañas del imán entra en su zona de atracción y no puede escapar de su zona magnetizada a no ser que se pase una tirada de Pilotar -4. 
 
+\sp
+
 Si se falla, se acerca un kilómetro a la isla y para escapar hay que superar una tirada de pilotar -5 (4 + 1 por cada kilómetro). Si falla de nuevo, se acerca otro km hasta llegar a distancia de recibir daño y si se pasa la tirada, recupera un kilómetro.
 
 La montaña produce 3d6 de daño a todos los barcos que se acerquen a rango de 0.5 km. El daño es producido por todos las piezas de metal arrancadas y los arrecifes contra los que es atraído. El daño se repite cada 5 minutos hasta que lo destruye contra los arrecifes.
-
-\sp
 
 Dentro de este rango de 0.5 km, cada PJ puede tratar de evitar que dos de sus objetos metálicos se vayan volando haciendo una tirada de FUE enfrentada contra d10. Si se pasa, durante 5 minutos se puede usar en objeto sin problema. Si falla el objeto sale volando de sus manos. Si los objetos son soltados, salen volando y se pierden.
 
@@ -162,10 +174,10 @@ La estatua es lo que le da su tremendo poder magnético a la montaña de Imán. 
 Hay varias teorías sobre el origen de la estatua, siendo todas posibles en mayor o meno medida.
 
 * Pudiera ser que contenga encerrado en su interior la esencia de algún primigenio o dios exterior menor relacionado con el magnetismo. Quien le dio la forma ecuestre es un misterio, quizás sea un chiste del dios arquetípico Nodens que no podemos entender.
-* Otra teoría es que sean algún tipo de ingenio de serpigente, yuggothianos e, incluso, yithianos para extraer materiales magnéticos. Seguramente en origen tendría una forma más eficaz como una esfera para maximizar su poder y con el tiempo alguien tallo la esfera para creaar una estatua ecuestre (aunque sea extremadamente dura para usar martillo y cincel). Sobre porque abandonaron el ingenio magnético es un misterio. Puede que la radiación electromagnética fuera peligrosa u otra raza destruyó el asentamiento y abandonó allí la esfera.
 
 \sp
 
+* Otra teoría es que sean algún tipo de ingenio de serpigente, yuggothianos e, incluso, yithianos para extraer materiales magnéticos. Seguramente en origen tendría una forma más eficaz como una esfera para maximizar su poder y con el tiempo alguien tallo la esfera para creaar una estatua ecuestre (aunque sea extremadamente dura para usar martillo y cincel). Sobre porque abandonaron el ingenio magnético es un misterio. Puede que la radiación electromagnética fuera peligrosa u otra raza destruyó el asentamiento y abandonó allí la esfera.
 * La tercera y, quizás, más acertada es que sea algún tipo de trampa o arma creada por alguna raza para destruir a sus enemigos. Un objeto tan poderoso podría destruir flotas enteras de naves (incluso especiales) haciéndolas estrellarse contra la montaña. De alguna manera la estatua acabo en esta montaña o quizás se puso en su ubicación actual para proteger algo debajo de la montaña.
 
 #### Destruyendo la estatua ecuestre
@@ -178,6 +190,8 @@ La estatua pesa casi 3 toneladas, así que otra opción sería tratar de moverla
 
 > **Recompensa de cordura (+1):** Destruir la estatua salvará muchas vidas en el futuro y ese acto debería recompensarse con un +1 a Cordura, sobre todo si se conoce los devastadores efectos magnéticos de la estatua y los miles de muertes que ha provocado.
 
+\sp
+
 #### Saqueo de la isla
 
 Las rocas y piedras de la montaña no funcionan como imán sin la presencia de la estatua ecuestre. Son altamente ferrosas, pero dejan de ser magnéticas al alejarse de la isla. Pasa lo mismo con los objetos metálicos atraídos a la montaña.
@@ -185,8 +199,6 @@ Las rocas y piedras de la montaña no funcionan como imán sin la presencia de l
 Si se está una hora buscando activamente entre los restos de naufragios y los objetos atraídos por el imán, se podrá hacer una tirada de botín de d8.
 
 > **Semilla de aventura:** Si la teoría del arma anti navíos es cierta, la montaña podría tener unas instalaciones militares de los creadores de la estatua y a las que esta protegía de ataques. Puede haber cualquier cosa en esas instalaciones.
-
-\sp
 
 ### Navegar por los mares de las Tierras del Sueño
 
