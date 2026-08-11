@@ -1,9 +1,21 @@
-### Navegar por los mares de las Tierras del Sueño
+### Enter Amanda
 
-Tu mesa va a navegar por el Oceano Medio, la estrecha masa de agua entre el continente del este y del oeste. Los puntos más alejados que deberían poder visitar son Serannian en el norte, ya en el Mar Cereniano, y Dylath-Leen, al sur en el Mar Austral. Esa distancia podría recorrerse en 3 semanas. Puedes tomar esto como referencia para el tiempo que puede durar la travesía que quiera hacer tus PJ.
-
-Navegar no por estas aguas no es fácil. Para empezar son aguas desconocidas donde tu mesa no sabe como interpretar las señales atmosféricas, no conoce las corrientes, ni la geografía, además, al principio al menos, no tendrán mapas. Las estrellas son las mismas, pero con ciertos cambios, con lo que orientarse se dificulta mucho.
-
-> Todas las tiradas de Pilotar para orientarse, leer el tiempo, buscar rutas, etc. reciben un -2 a la tirada. Si pasan el suficiente tiempo en estas aguas y compran mapas, contratan marinos locales o cosas similares podrás quitarles este negativo.
+Los rumores de que tu mesa participó en relatos salvajes como «El Susurros», Se buscan modelos, Cazadores de hueso o sus primeros pasos en la campaña de El tesoro hundido han llegado a oídos de Amanda Limestone. Lo que ha oído es que son un nuevo agente en la zona con las capacidades necesarias para la misión que necesita que se cumpla, capturar al barón Samedí.
 
 XXX
+
+---
+
+## La captura del avatar
+
+\conc
+
+XXX
+
+Amanda les enseñará el hechizo de Transubstanciación (Anular poderes), pero seguramente que no tienen PP propios para lanzarlo a nivel que exige el poder del Barón Samedí y les entregará a cada jugador un **Coco de Yúcahu** que les dará los PP necesarios para lanzar el hechizo.
+
+> **Coco de Yúcahu:** Uno de cada diez mil cocos es un **Coco de Yúcahu** y son guardados por los behikes como un tesoro. Estos cocos especiales de color blanco, que se cree que están tocados por la deidad taina Yúcahu, dan tantos PP adicionales como Espíritu de aquel que los bebe durante una hora. Si un comodín con Espíritu d6 y de normal tiene 6 PP, bebe uno de estos cocos y recibe 6 PP más. 
+
+XXX
+
+> A pesar de lo que puedan creer, el Barón Samedí nunca va a mentir a tus jugadores, será completamente sincero en todo lo que les diga.

@@ -124,7 +124,7 @@ Si ya sabes que vas a jugar esta campaña, es interesante que el nombre de Amand
 
 ### Empezando con personajes nuevos
 
-Si tú idea es empezar está campaña con personajes nuevos, Amanda Limestone se podría convertir en su patrona y mandarles a varios trabajos antes de entrar en materia. Algunas opciones para empezar:
+Si tu idea es empezar está campaña con personajes nuevos, Amanda Limestone se podría convertir en su patrona y mandarles a varios trabajos antes de entrar en materia. Algunas opciones para empezar:
 
 * Puede mandarlos a sumergirse en las aguas de la ciudad sumergida de Port Royal a explorar algunas pasiones submarinas. No van a encontrar grimorio de Bahram el Gauro, pero pueden empezar a conocer los Mitos a través de los Profundos que habitan la zona.
 * Anya Corbitt (El tesoro de la mansión Corbitt) ha pedido ayuda a una conocida de la familia Amanda Limestone que envía a tu mesa.
@@ -136,7 +136,7 @@ Si decides que tu mesa se cree personajes experimentados, aun así le faltaría 
 
 ### Enter Amanda
 
-Los rumores de que tu mesa participó en relatos salvajes como El Susurros, Se buscan modelos, Cazadores de hueso o sus primeros pasos en la campaña de El tesoro hundido han llegado a oídos de Amanda Limestone. Lo que ha oído es que son un nuevo agente en la zona con las capacidades necesarias para la misión que necesita que se cumpla, capturar al barón Samedí.
+Los rumores de que tu mesa participó en relatos salvajes como «El Susurros», Se buscan modelos, Cazadores de hueso o sus primeros pasos en la campaña de El tesoro hundido han llegado a oídos de Amanda Limestone. Lo que ha oído es que son un nuevo agente en la zona con las capacidades necesarias para la misión que necesita que se cumpla, capturar al barón Samedí.
 
 XXX
 

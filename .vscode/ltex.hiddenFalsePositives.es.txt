@@ -263,3 +263,12 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBahamas Rock Iguana (Cyclura carinata) - Caudatejake - Own work\\E$"}
 {"rule":"REAL","sentence":"^\\QSon principalmente herbívoros, pero en realidad son omnívoros y tienden a la antropofagia, devorando indistintamente cuerpos reales y proyecciones astrales.\\E$"}
 {"rule":"PRESENT","sentence":"^\\QSi bien el shoggoth hace siglos que murió o desapareció, el miedo atávico que imprimió en los profundos locales durante generaciones sigue presente en la prohibición de adentrarse en la red de túneles.\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|12CometaCapturaAvatar.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|12CometaFinal.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|12CometaAliado.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|12CometaContraataque.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|12CometaGrimorio.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|12CometaDemonio.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|12CometaVuelta.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|12CometaTierraSueno.md|\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QLos rumores de que tu mesa participó en relatos salvajes como «El Susurros», Se buscan modelos, Cazadores de hueso o sus primeros pasos en la campaña de El tesoro hundido han llegado a oídos de Amanda Limestone.\\E$"}
