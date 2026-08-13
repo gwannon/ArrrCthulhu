@@ -39,9 +39,33 @@ Deberías dejarles una semana para prepararlo todo, es decir que llegarían a la
 
 A pesar de lo que dice el título no va a ser tan fácil como dice la famosa frase de «Campo de sueños». Tendrán que buscarse la forma de mover la información muy deprisa y que sea lo suficientemente atractiva para reunir a multitudes.
 
-XXX
+Lo primero de todo es que tendrán que buscar una excusa para explicar la gran cantidad de bebida, comida y tabaco que va a haber en la fiesta.
 
 \sp
+
+Normalmente en las celebraciones la gente lleva lo que puede y se comparte, pero en esta ocasión tiene que haber mucho de todo para que venga gente de todas partes. Necesitan una excusa para explicar todo eso, si no la gente recelará pensando que es una trampa de sus amos o de la Iglesia. Tampoco tiene que ser muy elaborada, pero mínimamente creíble.
+
+* Pueden hacer correr el rumor de que todo esto lo paga algún esclavo huido/liberado que ha triunfado y quiere devolver a la comunidad que lo vio nacer con una gran celebración.
+* XXX
+* La opción más mágica, pero que si la visten bien, puede ser muy funcional, es que todos estos presentes son un regalo del propio Barón Samedí que considera que los habitantes de la zona son dignos de estos. Necesitarán la ayuda de un hombre santo o una sacerdotisa vudú.
+
+Sea como sea lo siguiente debería propagar la historia para que vengan gentes de todas las poblaciones cercanas. Esto puede implicar desde pagar a niños y adolescentes para que pregonen el mensaje por los poblados colindantes, a hablar con buhoneros itinerantes y que lo cuenten por donde pasen o a ir a los bebederos cercanos e invitar a la gente mientras contáis vuestra historia.
+
+XXX
+
+Por **mecanizar toda la fiesta**, deberías **darles fichas cuando hagan cosas que permitan que la gente conozca y quiera asistir** al cementerio y deberías **quitarles fichas cuando fallen** en sus intentos o hagan acciones que perjudiquen sus posibilidades de atraer gente.
+
+En general que sean ellos los que acierten o fracasen. No les quites fichas por cosas que no controlan como que un cura de las cercanías se entera de sus planes y en el sermón del domingo habla de que son herejes y blasfemos. Otra cosa es que traten de sobornar al cura para que predique en su favor y este considera que no es suficiente soborno o que son unos herejes, en ese caso es culpa suya y deberían perder fichas.
+
+**No deberían obtener más de 2 fichas por día** que estén trabajando en el proyecto. Por tanto, si tienen una semana, es bastante factible conseguir una buena cantidad de fichas.
+
+\sp
+
+Si consiguen **8 fichas** (o rellenar un reloj de 8 espacios, si lo prefieres), debería ser suficiente para **llenar el cementerio de gente** y poder atraer a su objetivo.
+
+Las ideas que tengan **no tienen problema de dinero, pero si de tiempo y de disponibilidad** y eso es algo que debes tener en cuenta al permitir o no ciertas opciones de «promoción del evento». Por mucho dinero que tengas no puedes imprimir panfletos publicitarios a tiempo.
+
+> Podrían hacer uso de la magia para conseguir llevar a gente. Por ejemplo, usar Hipnosis (Marioneta) con los jefes de las plantaciones para que ordenen a sus esclavos que vayan a las celebraciones, pero eso dejaría muchas preguntas cuando terminará el Fèt Gede y la falta de respuestas seguramente tendrá como consecuencias más latigazos de los normales. Recuerda que Saint-Domingue es uno de los puntos más brutales y crueles en temas de castigos a los esclavos de todo el Caribe.
 
 ## Cerrando la trampa
 
