@@ -26,6 +26,8 @@ Así que manipulará los mapas y las brújulas para dirigirse al paso del Ensue�
 
 \sp
 
+[![Nyarlathotep por Nottsuo](./images/nyarlathotep.jpg "Nyarlathotep por Nottsuo")](https://www.deviantart.com/nottsuo/art/Nyarlathotep-595869247 "Nyarlathotep por Nottsuo")
+
 Una vez en el sueño tendrás varias aventuras mientras buscan la manera de volver con su prisionero.
 
 Los hechizos que lo mantienen atrapados no se han debilitado en la Tierra de los sueños como creía, pero el viaje le dará tiempo para explicar el plan real de la Espiga, porque deben ayudarle y rentarles para que se unan a él.
@@ -40,11 +42,11 @@ A partir de aquí la aventura se puede bifurcar entre varias opciones.
 
 El siguiente paso sería conseguir el grimorio de Bahram el Gauro que está hundido en una antigua mansión de Port Royal. Si lo hacen por su cuenta, tras encontrar el grimorio, la propia Amanda les tenderá una trampa para quitárselo. Si lo hace con Amanda, esta les tratará de matar en una fiesta/bacanal en su honor.
 
+\sp
+
 Sea como sea, si consiguen escapar, el Barón Samedí escapará con ellos, pero el grimorio será imposible llevárselos. Amanda es demasiado poderosa para enfrentarse a ella. 
 
 Por su parte, Amanda está contra la espada y la pared. Sin el barón Samedí no puede hacer el gran ritual tal y como tenía pensado, pero tiene una segunda opción que hace el ritual mucho más complejo, pero igual de efectivo. Si ha encontrado el grimorio de Bahram el Gauro, se podrá a montar el ritual un ritual más complejo con una forma de esencia de peor calidad, pero aún válida, los **Vasos canopos del Faraón negro**.
-
-\sp
 
 En este punto deberán volver a decidir que hacen teniendo en cuenta toda la nueva información que tienen. Si paran el ritual, si intentan robar el grimorio, si destierran al Nyarlathotep, si llegan a un trato con él, …
 
@@ -120,7 +122,7 @@ La idea principal de esta campaña en que empiecen con personajes con algunos av
 
 Si están jugando «El tesoro hundido», en los momentos que Mary Read les dé libertad, tendrán un barco y suficientes avances para que puedas introducirlos en esta campaña y discurrirlas paralelamente. Si la terminan adecuadamente y como es de menor duración, todos los aliados y el poder que consigan podrán usarlo contra la Orden del Gran Cthulhu.
 
-Si ya sabes que vas a jugar esta campaña, es interesante que el nombre de Amanda Limestone empiece a sonar entre posibles nombres de grandes conocedores de los Mitos, quizás vean una carta suya en el despacho de Isadora de la Guía y Arango en su librería o haya hecho anotaciones en algún tomo de los Mitos al que hayan tenido acceso.
+Sabiendo que vas a jugar esta campaña, es interesante que el nombre de Amanda Limestone empiece a sonar entre posibles nombres de grandes conocedores de los Mitos. Quizás vean una carta suya en el despacho de Isadora de la Guía y Arango en su librería o haya hecho anotaciones en algún tomo de los Mitos al que hayan tenido acceso.
 
 ### Empezando con personajes nuevos
 

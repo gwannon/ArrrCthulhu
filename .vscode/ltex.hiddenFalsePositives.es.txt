@@ -272,3 +272,8 @@
 {"rule":"SEPARADO","sentence":"^\\Q|12CometaVuelta.md|\\E$"}
 {"rule":"SEPARADO","sentence":"^\\Q|12CometaTierraSueno.md|\\E$"}
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QLos rumores de que tu mesa participó en relatos salvajes como «El Susurros», Se buscan modelos, Cazadores de hueso o sus primeros pasos en la campaña de El tesoro hundido han llegado a oídos de Amanda Limestone.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QDejarles montar una fiesta, puede ser una sesión muy divertida con algunas escenas interesantes que se salen de las habituales historias de piratas, además es interesante porque dará oportunidad de lucirse tanto a personajes físicos, como mentales y sociales, ya que hay tareas para todos.\\E$"}
+{"rule":"FORM","sentence":"^\\QTendrán que hacerlo de forma clandestina para que ni el gobierno, ni la iglesia, ni los terratenientes puedan intentar boicotearlo.\\E$"}
+{"rule":"FORM","sentence":"^\\QLo más lógico es que de alguna manera puedan montar una tremenda fiesta en algún cementerio de forma que se llene de gente el 1 de noviembre y el barón haga su aparición.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPuede mandarlos a sumergirse en las aguas de la ciudad sumergida de Port Royal a explorar algunas pasiones submarinas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi están jugando «El tesoro hundido», en los momentos que Mary Read les dé libertad, tendrán un barco y suficientes avances para que puedas introducirlos en esta campaña y discurrirlas paralelamente.\\E$"}

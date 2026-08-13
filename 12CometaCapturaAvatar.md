@@ -26,10 +26,10 @@ Lo más lógico es que de alguna manera puedan montar una tremenda fiesta en alg
 
 \sp
 
-* Necesitarán **grandes cantidades de ron, tabaco y comida** para que la fiesta se desmadre lo suficiente. En principio solo es gastar dinero y mover material, pero deberá hacerse de forma secreta o atraerá miradas indiscretas.
+* Necesitarán **grandes cantidades de ron, tabaco y comida** para que la fiesta se desmadre lo suficiente. En principio solo es gastar dinero y mover material a través de la jungla.
 * Tendrán que **dar a conocer el evento y conseguir atraer a gente** de varios kilómetros a la redonda. Esta, quizás, sea la tarea más complicada.
 * Tendrán que **hacerlo de forma clandestina** para que ni el gobierno, ni la iglesia, ni los terratenientes puedan intentar boicotearlo. Ayudaría mucho tener el visto bueno de los sacerdotes o sacerdotisas vudú locales. Aunque tendrán que mentirles en cuanto al objetivo de la fiesta, porque no se tomarían bien que se usará para atrapar a una de sus deidades.
-* No debería ser muy normal, pero puede pasar que alguna **otra celebración tenga una fama repentina**, por cosas, como un duelo a muerto entre dos personas, algún milagro raro obrado en ese cementerio como un cuerpo incorrupto, etc. Esta opción sería para meter un extra de dificultad a esta parte de la misión.
+* No debería ser muy normal, pero puede pasar que alguna **otra celebración tenga una fama repentina**, por cosas, como un duelo a muerte entre dos personas, algún milagro raro obrado en ese cementerio como un cuerpo incorrupto, etc. Esta opción sería para meter un extra de dificultad a esta parte de la misión.
 
 Deberías dejarles una semana para prepararlo todo, es decir que llegarían a la zona de Hôpital hacia el 25 de octubre.
 
@@ -37,7 +37,7 @@ Deberías dejarles una semana para prepararlo todo, es decir que llegarían a la
 
 #### Si lo construyes ellos vendrán.
 
-A pesar de lo que dice el título no va a ser tan fácil como dice la famosa frase de «Campo de sueños». Tendrán que buscarse la forma de mover la información muy deprisa y que sea lo suficientemente atractiva para reunir a multitudes.
+A pesar de lo que dice el título no va a ser tan fácil como dice la famosa frase de «Campo de sueños». Tendrán que buscarse la manera de mover la información muy deprisa y que sea lo suficientemente atractiva para reunir a multitudes.
 
 Lo primero de todo es que tendrán que buscar una excusa para explicar la gran cantidad de bebida, comida y tabaco que va a haber en la fiesta.
 
@@ -57,10 +57,10 @@ Una vez organizado y difundido el evento hay varias cosas que pueden tratar de h
 
 \sp
 
-* Lo principal sería **llevar las vituallas al cementerio**, decorarlo para la ocasión y hacerlo todo sin que nadie se entere, Iglesia, terratenientes y gobernantes locales. Aunque pueda parecer que el Sigilo es lo importante, en realidad va a ser un tema de **Intimidar/Persuadir para sobornar a guardas, vendedores, ...**
+* Lo principal sería **llevar las vituallas al cementerio**, decorarlo para la ocasión y hacerlo todo sin que nadie se entere, Iglesia, terratenientes y gobernantes locales. Aunque pueda parecer que el Sigilo es lo importante, en realidad va a ser un tema de **Intimidar/Persuadir para sobornar a guardas, vendedores, …**
 * **Limpiar los caminos de acceso al cementerio** o incluso crear una pista forestal ayudaría a que gente mayor o con dificultades de movimiento pudiera acceder. Esto es trabajo y quizás alguna tirada de **Vigor, para evitar coger alguna fiebre de la selva**. 
 * **Lanzar rumores** de que va a haber algo especial, como una pelea entre varias personas que se la han jurado. Este trabajo es una combinación de **Persuadir para convencer a la gente o de Interpretar para contar una historia cautivadora** en los abrevaderos locales. 
-* **Contratar grupos de música.** Si la música puede oírse a varios kilómetros de distancia traerá a la gente de alrededor, pero también podría atraer visitantes indeseables. Está es una cuestión meramente económica, pero si tu mesa tiene algún amante de la música, podría tirar **Interpretar para crear alguna pieza musical pegadiza**.
+* **Contratar grupos de música.** Si la música puede oírse a varios kilómetros de distancia traerá a la gente de alrededor, pero también podría atraer visitantes indeseables. Esta es una cuestión meramente económica, pero si tu mesa tiene algún amante de la música, podría tirar **Interpretar para crear alguna pieza musical pegadiza**.
 * Aunque el cementerio tendrá mucha actividad de limpieza de decoración los días anteriores por parte de las familias de los difuntos, hacer **un esfuerzo extra de limpieza y decoración** harán correr rumores sobre lo que va a pasar el Día de todos los Santos.
 * Igual no es necesario, pero montar algún tipo de medida de seguridad como cubos de arena en caso de incendios, podría ser interesante.
 
@@ -69,6 +69,7 @@ Por **mecanizar toda la fiesta**, deberías **darles fichas cuando hagan cosas q
 
 En general que sean ellos los que acierten o fracasen. No les quites fichas por cosas que no controlan como que un cura de las cercanías se entera de sus planes y en el sermón del domingo habla de que son herejes y blasfemos. 
 
+\sp
 
 Otra cosa es que traten de sobornar al cura para que predique en su favor y este considera que no es suficiente soborno o que son unos herejes, en ese caso es culpa suya y deberían perder fichas.
 
@@ -79,8 +80,6 @@ Si consiguen **8 fichas** (o rellenar un reloj de 8 espacios, si lo prefieres), 
 Las ideas que tengan **no tienen problema de dinero, pero si de tiempo y de disponibilidad** y eso es algo que debes tener en cuenta al permitir o no ciertas opciones de «promoción del evento». Por mucho dinero que tengas no puedes imprimir panfletos publicitarios a tiempo.
 
 > Podrían hacer uso de la magia para conseguir llevar a gente. Por ejemplo, usar Hipnosis (Marioneta) con los jefes de las plantaciones para que ordenen a sus esclavos que vayan a las celebraciones, pero eso dejaría muchas preguntas cuando terminará el Fèt Gede y la falta de respuestas seguramente tendrá como consecuencias más latigazos de los normales. Recuerda que Saint-Domingue es uno de los puntos más brutales y crueles en temas de castigos a los esclavos de todo el Caribe.
-
-\sc
 
 ## Cerrando la trampa
 
