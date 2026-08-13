@@ -46,12 +46,24 @@ Lo primero de todo es que tendrán que buscar una excusa para explicar la gran c
 Normalmente en las celebraciones la gente lleva lo que puede y se comparte, pero en esta ocasión tiene que haber mucho de todo para que venga gente de todas partes. Necesitan una excusa para explicar todo eso, si no la gente recelará pensando que es una trampa de sus amos o de la Iglesia. Tampoco tiene que ser muy elaborada, pero mínimamente creíble.
 
 * Pueden hacer correr el rumor de que todo esto lo paga algún esclavo huido/liberado que ha triunfado y quiere devolver a la comunidad que lo vio nacer con una gran celebración.
-* XXX
+* Puede ser un plan que han montado los españoles o los ingleses para desestabilizar la zona y crear problemas al gobierno francés. De hecho, no sería de extrañar que los predicadores ingleses protestantes de la costa norte bajaran al hacia esta zona para predicar sus creencias y llevar comida, bebida y regalos para atraer a los locales.
 * La opción más mágica, pero que si la visten bien, puede ser muy funcional, es que todos estos presentes son un regalo del propio Barón Samedí que considera que los habitantes de la zona son dignos de estos. Necesitarán la ayuda de un hombre santo o una sacerdotisa vudú.
+* Hacerse pasar por el Barón Samedí u otros loas y hacer apariciones en el cementerio podría hacer que el interés por asistir al Fèt Gede en ese cementerio aumente. El disfraz es sencillo y con un poco de pirotecnia, luces y espejos podrían quedar una aparición muy resultona.
+* Y si no se les ocurre nada, puedes pedirles una tirada de Humanidades para encontrar alguna de las ideas anteriores.  
 
 Sea como sea lo siguiente debería propagar la historia para que vengan gentes de todas las poblaciones cercanas. Esto puede implicar desde pagar a niños y adolescentes para que pregonen el mensaje por los poblados colindantes, a hablar con buhoneros itinerantes y que lo cuenten por donde pasen o a ir a los bebederos cercanos e invitar a la gente mientras contáis vuestra historia.
 
-XXX
+Una vez organizado y difundido el evento hay varias cosas que pueden tratar de hacer para mejorar la asistencia.
+
+\sp
+
+* Lo principal sería llevar las vituallas al cementerio, decorarlo para la ocasión y hacerlo todo sin que nadie se entere, Iglesia, terratenientes y gobernantes locales. Aunque pueda parecer que el Sigilo es lo importante, en realidad va a ser un tema de Intimidar/Persuadir para sobornar a guardas, vendedores, ...
+* Limpiar los caminos de acceso al cementerio o incluso crear una pista forestal ayudaría a que gente mayor o con dificultades de movimiento pudiera acceder. Esto es trabajo y quizás alguna tirada de Vigor, para evitar coger alguna fiebre de la selva. 
+* Lanzar rumores de que va a haber algo especial, como una pelea entre varias personas que se la han jurado. Este trabajo es una combinación de Persuadir para convencer a la gente o de Interpretar para contar una historia cautivadora en los abrevaderos locales. 
+* Contratar grupos de música. Si la música puede oírse a varios kilómetros de distancia traerá a la gente de alrededor, pero también podría atraer visitantes indeseables.  
+* XXX
+* Igual no es necesario, pero montar algún tipo de medida de seguridad como cubos de arena en caso de incendios, podría ser interesante.
+
 
 Por **mecanizar toda la fiesta**, deberías **darles fichas cuando hagan cosas que permitan que la gente conozca y quiera asistir** al cementerio y deberías **quitarles fichas cuando fallen** en sus intentos o hagan acciones que perjudiquen sus posibilidades de atraer gente.
 
@@ -66,6 +78,8 @@ Si consiguen **8 fichas** (o rellenar un reloj de 8 espacios, si lo prefieres), 
 Las ideas que tengan **no tienen problema de dinero, pero si de tiempo y de disponibilidad** y eso es algo que debes tener en cuenta al permitir o no ciertas opciones de «promoción del evento». Por mucho dinero que tengas no puedes imprimir panfletos publicitarios a tiempo.
 
 > Podrían hacer uso de la magia para conseguir llevar a gente. Por ejemplo, usar Hipnosis (Marioneta) con los jefes de las plantaciones para que ordenen a sus esclavos que vayan a las celebraciones, pero eso dejaría muchas preguntas cuando terminará el Fèt Gede y la falta de respuestas seguramente tendrá como consecuencias más latigazos de los normales. Recuerda que Saint-Domingue es uno de los puntos más brutales y crueles en temas de castigos a los esclavos de todo el Caribe.
+
+\sc
 
 ## Cerrando la trampa
 
