@@ -1,10 +1,17 @@
-Una vez organizado y difundido el evento hay varias cosas que pueden tratar de hacer para mejorar la asistencia.
+\sinc
 
-\sp
+## La captura del avatar
 
-* Lo principal sería llevar las vituallas al cementerio, decorarlo para la ocasión y hacerlo todo sin que nadie se entere, Iglesia, terratenientes y gobernantes locales. Aunque pueda parecer que el Sigilo es lo importante, en realidad va a ser un tema de Intimidar/Persuadir para sobornar a guardas, vendedores, ...
-* Limpiar los caminos de acceso al cementerio o incluso crear una pista forestal ayudaría a que gente mayor o con dificultades de movimiento pudiera acceder. Esto es trabajo y quizás alguna tirada de Vigor, para evitar coger alguna fiebre de la selva. 
-* Lanzar rumores de que va a haber algo especial, como una pelea entre varias personas que se la han jurado. Este trabajo es una combinación de Persuadir para convencer a la gente o de Interpretar para contar una historia cautivadora en los abrevaderos locales. 
-* Contratar grupos de música. Si la música puede oírse a varios kilómetros de distancia traerá a la gente de alrededor, pero también podría atraer visitantes indeseables.  
-* XXX
-* Igual no es necesario, pero montar algún tipo de medida de seguridad como cubos de arena en caso de incendios, podría ser interesante.
+\conc
+
+XXX
+
+El mejor momento para poder encontrar al Barón Samedí debería ser claramente el Día de Todos los Santos (1 de noviembre) y el Día de los Difuntos (2 de noviembre), después ya se vuelve más complicado.
+
+XXX
+
+Amanda les enseñará el hechizo de Transubstanciación (Anular poderes), pero seguramente que no tienen PP propios para lanzarlo a nivel que exige el poder del Barón Samedí y les entregará a cada jugador un **Coco de Yúcahu** que les dará los PP necesarios para lanzar el hechizo.
+
+> **Coco de Yúcahu:** Uno de cada diez mil cocos es un **Coco de Yúcahu** y son guardados por los behikes como un tesoro. Estos cocos especiales de color blanco, que se cree que están tocados por la deidad taina Yúcahu, dan tantos PP adicionales como Espíritu de aquel que los bebe durante una hora. Si un comodín con Espíritu d6 y de normal tiene 6 PP, bebe uno de estos cocos y recibe 6 PP más. 
+
+XXX

@@ -57,21 +57,22 @@ Una vez organizado y difundido el evento hay varias cosas que pueden tratar de h
 
 \sp
 
-* Lo principal sería llevar las vituallas al cementerio, decorarlo para la ocasión y hacerlo todo sin que nadie se entere, Iglesia, terratenientes y gobernantes locales. Aunque pueda parecer que el Sigilo es lo importante, en realidad va a ser un tema de Intimidar/Persuadir para sobornar a guardas, vendedores, ...
-* Limpiar los caminos de acceso al cementerio o incluso crear una pista forestal ayudaría a que gente mayor o con dificultades de movimiento pudiera acceder. Esto es trabajo y quizás alguna tirada de Vigor, para evitar coger alguna fiebre de la selva. 
-* Lanzar rumores de que va a haber algo especial, como una pelea entre varias personas que se la han jurado. Este trabajo es una combinación de Persuadir para convencer a la gente o de Interpretar para contar una historia cautivadora en los abrevaderos locales. 
-* Contratar grupos de música. Si la música puede oírse a varios kilómetros de distancia traerá a la gente de alrededor, pero también podría atraer visitantes indeseables.  
-* XXX
+* Lo principal sería **llevar las vituallas al cementerio**, decorarlo para la ocasión y hacerlo todo sin que nadie se entere, Iglesia, terratenientes y gobernantes locales. Aunque pueda parecer que el Sigilo es lo importante, en realidad va a ser un tema de **Intimidar/Persuadir para sobornar a guardas, vendedores, ...**
+* **Limpiar los caminos de acceso al cementerio** o incluso crear una pista forestal ayudaría a que gente mayor o con dificultades de movimiento pudiera acceder. Esto es trabajo y quizás alguna tirada de **Vigor, para evitar coger alguna fiebre de la selva**. 
+* **Lanzar rumores** de que va a haber algo especial, como una pelea entre varias personas que se la han jurado. Este trabajo es una combinación de **Persuadir para convencer a la gente o de Interpretar para contar una historia cautivadora** en los abrevaderos locales. 
+* **Contratar grupos de música.** Si la música puede oírse a varios kilómetros de distancia traerá a la gente de alrededor, pero también podría atraer visitantes indeseables. Está es una cuestión meramente económica, pero si tu mesa tiene algún amante de la música, podría tirar **Interpretar para crear alguna pieza musical pegadiza**.
+* Aunque el cementerio tendrá mucha actividad de limpieza de decoración los días anteriores por parte de las familias de los difuntos, hacer **un esfuerzo extra de limpieza y decoración** harán correr rumores sobre lo que va a pasar el Día de todos los Santos.
 * Igual no es necesario, pero montar algún tipo de medida de seguridad como cubos de arena en caso de incendios, podría ser interesante.
 
 
 Por **mecanizar toda la fiesta**, deberías **darles fichas cuando hagan cosas que permitan que la gente conozca y quiera asistir** al cementerio y deberías **quitarles fichas cuando fallen** en sus intentos o hagan acciones que perjudiquen sus posibilidades de atraer gente.
 
-En general que sean ellos los que acierten o fracasen. No les quites fichas por cosas que no controlan como que un cura de las cercanías se entera de sus planes y en el sermón del domingo habla de que son herejes y blasfemos. Otra cosa es que traten de sobornar al cura para que predique en su favor y este considera que no es suficiente soborno o que son unos herejes, en ese caso es culpa suya y deberían perder fichas.
+En general que sean ellos los que acierten o fracasen. No les quites fichas por cosas que no controlan como que un cura de las cercanías se entera de sus planes y en el sermón del domingo habla de que son herejes y blasfemos. 
+
+
+Otra cosa es que traten de sobornar al cura para que predique en su favor y este considera que no es suficiente soborno o que son unos herejes, en ese caso es culpa suya y deberían perder fichas.
 
 **No deberían obtener más de 2 fichas por día** que estén trabajando en el proyecto. Por tanto, si tienen una semana, es bastante factible conseguir una buena cantidad de fichas.
-
-\sp
 
 Si consiguen **8 fichas** (o rellenar un reloj de 8 espacios, si lo prefieres), debería ser suficiente para **llenar el cementerio de gente** y poder atraer a su objetivo.
 
