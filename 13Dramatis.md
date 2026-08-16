@@ -27,7 +27,7 @@ La RCPC y más en concreto la Orden del Gran Cthulhu han estado investigando y h
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Desventajas:** Secreto (mayor, líder de la Espiga Púrpura de Waylunor), Vengativa
 * **Ventajas:** Afinidad mágica, Asquerosamente Rica, Canalización, Trasfondo arcano (Hechicería primigenia), Esencia de Waylunor, Nuevos poderes x3, Puntos de poder x2, Subidón de poder
-* **Hechizos:** 36 PP, Incineración de Cthugha, XXX, Exorcizar, XXX, Hipnosis, Augurios del soñador, Toque de Waylunor, Don de Ithaqua, XXX. Puede saber cualquier ritual, pero serán versiones europeizadas de ellos, por ejemplo, en vez de Adivinación con Mandiocas, ella lo hace con Manzanas.
+* **Hechizos:** 36 PP, Incineración de Cthugha, Transubstanciación, Exorcizar, Círculo de invocación, Hipnosis, Augurios del soñador, Toque de Waylunor, Don de Ithaqua, XXX. Puede saber cualquier ritual, pero serán versiones europeizadas de ellos, por ejemplo, en vez de Adivinación con Mandiocas, ella lo hace con Manzanas.
 * **Equipo:** Ropajes caros, daga escondida (FUE+d4), 2 cocos de Yúcahu, 
 
 **Sugerencia de interpretación:** Como Amanda debes exudar confianza y seguridad, ni la más mínima señal de duda debe cruzar tu semblante. Sabes en todo momento lo que hay que hacer y cómo hacerlo y si no lo sabes, tomas una decisión con la convicción de que no habrá el mínimo fallo. Esta confianza te viene de saber que estás tocada por la divinidad y es por ese aplomo que tus seguidores y seguidoras irán y harán lo que les digas. Toca cambia cuando pierdes el control y la ira y la sed de sangre se apodera de ti. En esos momentos solo puedes gritar maldiciones y destilar odio a tus enemigos.
