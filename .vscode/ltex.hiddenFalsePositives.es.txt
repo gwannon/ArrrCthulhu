@@ -277,3 +277,9 @@
 {"rule":"FORM","sentence":"^\\QLo más lógico es que de alguna manera puedan montar una tremenda fiesta en algún cementerio de forma que se llene de gente el 1 de noviembre y el barón haga su aparición.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPuede mandarlos a sumergirse en las aguas de la ciudad sumergida de Port Royal a explorar algunas pasiones submarinas.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi están jugando «El tesoro hundido», en los momentos que Mary Read les dé libertad, tendrán un barco y suficientes avances para que puedas introducirlos en esta campaña y discurrirlas paralelamente.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDesde hace siglos, aunque eso no signifique nada para un profundo, dos clanes, uno de la tribu Throd s’uhn (Corriente del Golfo) y otro de la tribu Uh’e kn’a (Corriente de las Antillas), llevan peleándose por unas fumarolas submarinas que expulsan pepitas oro.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QDesde hace siglos, aunque eso no signifique nada para un profundo, dos clanes, uno de la tribu Throd s’uhn (Corriente del Golfo) y otro de la tribu Uh’e kn’a (Corriente de las Antillas), llevan peleándose por unas fumarolas submarinas que expulsan pepitas oro.\\E$"}
+{"rule":"COMILLAS_TIPOGRAFICAS","sentence":"^\\QA día de hoy el clan de M'nthesk de la corriente del golfo controla las fumarolas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QA día de hoy el clan de M'nthesk de la corriente del golfo controla las fumarolas.\\E$"}
+{"rule":"COMILLAS_TIPOGRAFICAS","sentence":"^\\QPor si parte los Kap'atuul de la corriente de las Antillas se están armando para tomar por la fuerza el territorio de las fumarolas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPor si parte los Kap'atuul de la corriente de las Antillas se están armando para tomar por la fuerza el territorio de las fumarolas.\\E$"}
