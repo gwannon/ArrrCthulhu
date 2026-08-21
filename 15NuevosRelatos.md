@@ -132,4 +132,16 @@ Tu mesa o los marineros de su barco descubren delante del barco una zona de unos
 
 Si tienen experiencia de otros encuentros con profundos (tirada de Tácticas), suena a emboscada, pero las burbujas están delante no debajo del barco.
 
+Si se acercan, hasta no estar muy cerca no los detectarán y en caso de hacerlo algunos de los profundos se darán la vuelta y les harán señas de que se vayan. Es curioso que la pelea sea más interesante que matar humanos.
+
+#### Dulce amor de hibridación
+
+Mientras los dos grupos de profundos están atentos al duelo, dos figuras se escabullen entre los corales cercanos hasta unas zonas de fumarolas subterráneas.
+
+Todavía llevan restos de ropa y aún tienen ciertos rasgos humanos. Eso supone que son híbridos que han recibido la llamada del mar, pero todavía no han hecho la transformación total. 
+
+Parece que estaban siendo bastante cariñosos los unos con otros y si tu mesa se acerca a ver qué pasa uno de los profundos meterá la mano en una de las fumarolas hasta sacar algo. El brazo que ha metido está totaalmente quemado, pero el profundo aparece no notarlo. Les ofrecerá unas pepitas de oro todavía incandescentes haciendo señas de que se vayan y no alerten al resto de profundos.
+
+> La situación debe ser bastante rara. Todo debe parecerles extraño, los profundos que los ignoran y solo se preocupan por el duelo la pareja de amantes, cosa que nunca habían visto, ya que se supone que los profundos no tienen relaciones románticas con otros profundos. Incluso cuando todavía son humanos son Solitarios y huraños evitando las relaciones interpersonales. Pero lo que no deben olvidar es que hay oro y parece que mucho en las fumarolas.
+
 XXX
