@@ -125,7 +125,6 @@ Las ideas que tengan **no tienen problema de dinero, pero si de tiempo y de disp
 
 > Podrían hacer uso de la magia para conseguir llevar a gente. Por ejemplo, usar Hipnosis (Marioneta) con los jefes de las plantaciones para que ordenen a sus esclavos que vayan a las celebraciones, pero eso dejaría muchas preguntas cuando terminará el Fèt Gede y la falta de respuestas seguramente tendrá como consecuencias más latigazos de los normales. Recuerda que Saint-Domingue es uno de los puntos más brutales y crueles en temas de castigos a los esclavos de todo el Caribe.
 
-<<<<<<< HEAD
 \sp
 
 ### Cerrando la trampa
@@ -137,9 +136,6 @@ Si no te quieres complicar, puedes hacer que tu mesa simplemente lance el hechiz
 Si quieres algo más complicado, puedes pedirles algún tipo de estrategia para llevarle a un punto exacto, rodearle, lanzarle la maldición e inmovilizarlo de alguna manera.
 
 #### Posible formas de hacer la trampa
-=======
-## Cerrando la trampa
->>>>>>> f3ed18dd27cf020ec7c17b4f6a9c65252f4394ee
 
 XXX
 
