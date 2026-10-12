@@ -1,3 +1,11 @@
+### Enter Amanda
+
+Los rumores de que tu mesa participó en relatos salvajes como «El Susurros», Se buscan modelos, Cazadores de hueso o sus primeros pasos en la campaña de El tesoro hundido han llegado a oídos de Amanda Limestone. Lo que ha oído es que son un nuevo agente en la zona con las capacidades necesarias para la misión que necesita que se cumpla, capturar al barón Samedí.
+
+XXX
+
+---
+
 ### Cerrando la trampa
 
 Una vez puesta la trampa y haber conseguido que el barón entre en ella, hay que cerrarla para evitar que se escape.
@@ -14,12 +22,28 @@ XXX
 
 XXX
 
-#### De vuelta al barco
+---
+
+\sinc
+
+## Entrando en la tierra de los sueños
+
+\conc
 
 XXX
 
-Durante la vuelta al barco, el barón no va a intentar nada. Está muy débil y todavía no tiene información suficiente para poder elaborar algún tipo de plan de escape o una estrategia de contraataque.
+### El paso del Ensueño
 
-Simplemente tratará de hablar con tu mesa y sacar la máxima información posible, también intentará de observar como se relacionan tus jugadores y tratará de buscar puntos débiles que aprovechar.
+El paso del Ensueño es un gigantesco remolino en alta mar entre Haití y Aruba. Es lo suficientemente grande para tragarse un navío de gran tamaño y si entras en un radio de un kilómetro es imposible escapar.
 
-> A pesar de lo que puedan creer, el Barón Samedí nunca va a mentir a tus jugadores, será completamente sincero en todo lo que les diga.
+> Si tus jugadores no toman mediciones exactas de la localización del Paso del Sueño, no podrán volver encontrarlo por más que naveguen por estas aguas.
+
+Es una falla entre el sueño y la vigilia que permite pasar de nuestro mundo a las Tierras del Sueño. Por suerte para las gentes del Caribe y para mala suerte de tu mesa, no funciona al revés. Nada del sueño puede salir por esta fisura y casi nada de lo que han entrado ha conseguido volver a nuestro mundo.
+
+Mientras el barco es tragado por el remolino, la tripulación que esté en cubierta pilotando el barco debería tirar FUE para aguantar encima del barco. Si salen despedidos fuera del agua, seguramente acaben perdidos en el tiempo y el espacio. O como mínimo en alguna playa de las costas de la Tierra del sueño.
+
+Cuando pasas al otro lado del remolino acabas en una especie de cementerio de barcos. Está lleno de restos de barcos que no han conseguido sobrevivir de una pieza al viaje.
+
+> Tus jugadores pueden intentar gastar un día buscar tesoros entre los pedios como si fuera un botín d8 pasando un día completo en el edificio, pero no pueden tirar en la tabla de Objetos Perdidos en el tiempo y el espacio. También conseguirán material suficiente para arreglar su barco completamente.
+
+XXX

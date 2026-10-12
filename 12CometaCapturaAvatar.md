@@ -34,7 +34,7 @@ El mejor momento para poder encontrar al Barón Samedí debería ser claramente 
 
 ### Aprendiendo el hechizo 
 
-Lo primero que deberán hacer será aprender el hechizo. El hechizo llamado Transubstanciación (Anular poderes) con la modificación de poder de hacerlo **en grupo** y poder usarlo contra seres de poder muy superior. El objetivo es anular la conexión del barón con el dio oscuro que es lo que de da sus poderes. El hechizo lo convertirá en humano durante un tiempo y podrá ser apresado.
+Lo primero que deberán hacer será aprender el hechizo. El hechizo llamado Transubstanciación (Anular poderes) con la modificación de poder de hacerlo **en grupo** y poder usarlo contra seres de poder muy superior. El objetivo es anular la conexión del barón con el dios oscuro que es lo que le da sus poderes. El hechizo lo convertirá en humano durante un tiempo y podrá ser apresado.
 
 Aprender este hechizo no tiene coste alguno en avances de personaje y como todos los PJ tiene Hechicería primigenia pueden aprenderlo sin problemas.
 
@@ -42,7 +42,7 @@ Aprender este hechizo no tiene coste alguno en avances de personaje y como todos
 
 Durante una semana de día y noche practicarán el hechizo en los jardines traseros, lejos de miradas indiscretas. Entrenarán el hechizo contra un ser de los Mitos invocado por Amanda con Círculo de invocación (Invocación de aliados). Según vayan mejorando irá invocando seres de más poder.
 
-**En grupo:** Si desean hacer un hechizo en grupo, este será más poderoso, pero coordinarse para hacerlo conjuntamente será más complicado. Todos los integrantes del grupo deberían tirar y el elegido como principal deberá pasar la tirada sino el hechizo fallará. El resto sumarán sus avances a la tirada conseguida con el principal, pero si fallan la tirada negarán un avance o el éxito en la tirada del principal. El coste PP de aquellos que no sean el principal será el doble del normal.
+**En grupo:** Si desean hacer un hechizo en grupo, este será más poderoso, pero coordinarse para hacerlo conjuntamente será más complicado. Todos los integrantes del grupo deberían tirar y el elegido como principal deberá pasar la tirada, si no, el hechizo fallará. El resto sumarán sus avances a la tirada conseguida con el principal, pero si fallan la tirada negarán un avance o el éxito en la tirada del principal. El coste PP de aquellos que no sean el principal será el doble del normal.
 
 > Si lo deseas una aventura de entrenamiento para tener nivel experimentado sea capturar un ser con el entrenar.
 
@@ -145,10 +145,14 @@ XXX
 
 #### De vuelta al barco
 
-XXX
+El regreso al barco será fácil, sin ningún tipo de incidente que un buen soborno o un poco de labia pueda resolver.
+
+Quizás una patrulla de guardas quiera revisar la carga que llevan en el carro en que llevan al Barrón o quiera revisar los papeles del «esclavo huido» que están devolviendo a sus amos.
 
 Durante la vuelta al barco, el barón no va a intentar nada. Está muy débil y todavía no tiene información suficiente para poder elaborar algún tipo de plan de escape o una estrategia de contraataque.
 
 Simplemente tratará de hablar con tu mesa y sacar la máxima información posible, también intentará de observar como se relacionan tus jugadores y tratará de buscar puntos débiles que aprovechar.
+
+Déjales claro que el barón no les quita ojo de encima y aunque le tapen la cabeza con un saco o cosas simples lares, tendrán la desagradable sensación de que les sigue observando.
 
 > A pesar de lo que puedan creer, el Barón Samedí nunca va a mentir a tus jugadores, será completamente sincero en todo lo que les diga.
