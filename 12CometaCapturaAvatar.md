@@ -125,8 +125,6 @@ Las ideas que tengan **no tienen problema de dinero, pero si de tiempo y de disp
 
 > Podrían hacer uso de la magia para conseguir llevar a gente. Por ejemplo, usar Hipnosis (Marioneta) con los jefes de las plantaciones para que ordenen a sus esclavos que vayan a las celebraciones, pero eso dejaría muchas preguntas cuando terminará el Fèt Gede y la falta de respuestas seguramente tendrá como consecuencias más latigazos de los normales. Recuerda que Saint-Domingue es uno de los puntos más brutales y crueles en temas de castigos a los esclavos de todo el Caribe.
 
-\sp
-
 ### Cerrando la trampa
 
 Una vez puesto el cebo y haber conseguido que el barón se acerque a olerlo, hay que montar la trampa y activarla en el momento adecuado.
@@ -139,7 +137,9 @@ Si quieres algo más complicado, puedes pedirles algún tipo de estrategia para 
 
 Este tipo de cementerios para el pueblo llano y los esclavos son laberintos de lápidas y cruces entre troncos de árboles, pedruscos y vegetación. No hay grandes mausoleos ni criptas con lo que las posibilidades de esconderse en ellas o atraer a tu víctima dentro son muy escasas.
 
-Así que es complicado acercarse sin ser visto y poder atraer al barón a alguna parte del camposanto alejada del resto de festejantes. Además, el barón busca estar rodeado de todos esos creyentes del vudú que bailan, cantan y beben en grandes grupos. En general, no se irá a lugares apartados si no hay posibiliades de buen alcohol, buen tabaco o prácticas sexuales de cualquier tipo. La sexualidad del barón es muy amplia y acepta todo tipo de proposiciones.  
+Así que es complicado acercarse sin ser visto y poder atraer al barón a alguna parte del camposanto alejada del resto de festejantes. Además, el barón busca estar rodeado de todos esos creyentes del vudú que bailan, cantan y beben en grandes grupos. En general, no se irá a lugares apartados si no hay posibiliades de buen alcohol, buen tabaco o prácticas sexuales de cualquier tipo. La sexualidad del barón es muy amplia y acepta todo tipo de proposiciones.
+
+\sp
 
 También pueden crear un grupo de personas más interesante si tienen o contratan a suficiente gente y cuando eñl barón esté dentro del grupo ordenarles a todos irse y quedarse ellos solos frente al avatar.
 
@@ -160,6 +160,8 @@ El regreso al barco será fácil, sin ningún tipo de incidente que un buen sobo
 Quizás una patrulla de guardas quiera revisar la carga que llevan en el carro en que llevan al Barrón o quiera revisar los papeles del «esclavo huido» que están devolviendo a sus amos.
 
 Durante la vuelta al barco, el barón no va a intentar nada. Está muy débil y todavía no tiene información suficiente para poder elaborar algún tipo de plan de escape o una estrategia de contraataque.
+
+\sp
 
 Simplemente tratará de hablar con tu mesa y sacar la máxima información posible, también intentará de observar como se relacionan tus jugadores y tratará de buscar puntos débiles que aprovechar.
 
