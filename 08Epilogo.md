@@ -236,16 +236,16 @@ Si quieres saber la opinión de otras personas, aquí tienes algunas reseñas qu
 
 ## Otros proyectos que te pueden interesar
 
+[![Contra la Espiga Púrpura](./images/metasAventuras2.jpg "Una campaña para ¡Arrr! Cthulhu donde te enfrentarás al dios exterior Waylunor y su culto de adoradores.")](https://arrrcthulhu.com/pdf/?aventuras=yes "Una campaña para ¡Arrr! Cthulhu donde te enfrentarás al dios exterior Waylunor y su culto de adoradores.")
+
+**[Contra la Espiga Púrpura - Una campaña para ¡Arrr! Cthulhu donde te enfrentarás al dios exterior Waylunor y su culto de adoradores.](https://arrrcthulhu.com/pdf/?aventuras=yes)**
+
+&nbsp;
+
+&nbsp;
+
 [![OPERACIÓN: Tras El Mundo Perdido](./images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios")
 
 **[OPERACIÓN: Tras El Mundo Perdido - Una campaña donde lucharás contra nazis a lomos de dinosaurios.](https://mundoperdido.gwannon.com/pdf/)**
-
-&nbsp;
-
-&nbsp;
-
-[![¡Arrr! Cthulhu](./images/1001ghules.jpg "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")](https://1001ghules.gwannon.com/pdf/ "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")
-
-**[Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)**
 
 \conc
