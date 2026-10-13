@@ -137,7 +137,17 @@ Si quieres algo más complicado, puedes pedirles algún tipo de estrategia para 
 
 #### Posibles formas de hacer la trampa
 
-XXX
+Este tipo de cementerios para el pueblo llano y los esclavos son laberintos de lápidas y cruces entre troncos de árboles, pedruscos y vegetación. No hay grandes mausoleos ni criptas con lo que las posibilidades de esconderse en ellas o atraer a tu víctima dentro son muy escasas.
+
+Así que es complicado acercarse sin ser visto y poder atraer al barón a alguna parte del camposanto alejada del resto de festejantes. Además, el barón busca estar rodeado de todos esos creyentes del vudú que bailan, cantan y beben en grandes grupos. En general, no se irá a lugares apartados si no hay posibiliades de buen alcohol, buen tabaco o prácticas sexuales de cualquier tipo. La sexualidad del barón es muy amplia y acepta todo tipo de proposiciones.  
+
+También pueden crear un grupo de personas más interesante si tienen o contratan a suficiente gente y cuando eñl barón esté dentro del grupo ordenarles a todos irse y quedarse ellos solos frente al avatar.
+
+Otra opción sería dispersar a la multitud con disparos, explosiones o fuego y mientras los asistentes huyen despavoridos, rodear al barón y lanzarle el hechizo de captura. Aquí se arriesgan a que ser detectados y a que el barón huya ante sus narices.
+
+Si desde principio o porque sus planes se van al garete, tienen que lanzar el hechizo rodeados de fieles, deberán defenderse de sus ataques mientras terminan el ritual de captura. El barón no puede controlar a toda la muchedumbre, pero sí a los más fanáticos y enardecidos por el alcohol y la música.
+
+> Puedes hacer que un «Pescador / Agricultor» (Apartado «Secuaces y criaturas» del libro básico de ¡Arrr! Cthulhu) por cada personaje se acerque a ellos con intenciones hostiles antes o durante el ritual.
 
 #### Lanzar el hechizo
 
