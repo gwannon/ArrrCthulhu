@@ -8,7 +8,7 @@ Estén en el puerto que estén, siempre que sea medianamente grande como La Haba
 
 Déjales por lo menos medio día para buscar información sobre ella entre sus contactos y en los periódicos locales, incluso en la Verdad de La Habana. Si consiguen algún éxito en sus tiradas, estás son algunas cosas extras que pueden averiguar por cada avance:
 
-* Se sabe que es rica, pero realmente es extremadamente rica. Se cree que tiene una importante flota de mercantes bajo su bando y algunos barcos de guerra mercenarios. para defender sus barcos.
+* Se sabe que es rica, pero realmente es extremadamente rica. Se cree que tiene una importante flota de mercantes bajo su bando y algunos barcos de guerra mercenarios para defender sus barcos.
 * XXX
 
 Si algunos fallos, puedes meterles información falsa como que: 
