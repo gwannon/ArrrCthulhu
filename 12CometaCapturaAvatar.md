@@ -56,7 +56,7 @@ Mientras les enseña el hechizo de Transubstanciación (Anular poderes), se perc
 
 \sp
 
-> ![Coco de Yúcahu](./images/white-coconut.png) **Coco de Yúcahu:** Uno de cada diez mil cocos es un Coco de Yúcahu y son guardados por los behikes como un tesoro. Estos cocos especiales de color blanco, que se cree que están tocados por la deidad taina Yúcahu, **dan tantos PP adicionales como Espíritu de aquel que los bebe hasta que haya pasado un ciclo lunar entero (4 semanas)**. Si un comodín con Espíritu d6 y de normal tiene 6 PP, bebe uno de estos cocos y recibe 6 PP más. Durante esas 4 semanas los PP del personaje son tan reales como si fueran fruto, por ejemplo, de una ventaja.
+> ![Coco de Yúcahu](./images/white-coconut.png) **Coco de Yúcahu:** Uno de cada diez mil cocos es un Coco de Yúcahu y son guardados por los behikes como un tesoro. Estos cocos especiales de color blanco, que se cree que están tocados por la deidad taina Yúcahu, **dan tantos PP adicionales como Espíritu de aquel que los bebe hasta que haya pasado un ciclo lunar entero (3 semanas)**. Si un comodín con Espíritu d6 y de normal tiene 6 PP, bebe uno de estos cocos y recibe 6 PP más. Durante esas 3 semanas los PP del personaje son tan reales como si fueran fruto, por ejemplo, de una ventaja.
 
 Si parte de tu mesa no quiere aprender el ritual, puedes montarle una pequeña aventura en la parte hundida de Port Royal que no tendrá éxito en su búsqueda del ritual, pero le tendrá entretenidos. 
 
@@ -185,11 +185,13 @@ Esos jugadores tendrán la decisión de devolver o no sus poderes al barón Same
 
 Tus jugadores habrán consumido, casi seguro, los cocos de Yúcahu y puedes quemar esos PP extras que dan el coco para hacer permanente las anulaciones de poderes del barón.
 
-Eso supone que en unas 4 semanas los PP de los cocos desaparecerán y la anulación de poder desaparecerá.
+Eso supone que en unas 3 semanas los PP de los cocos desaparecerán y la anulación de poder desaparecerá.
 
 \sp
 
-Eso también pone una cuenta atrás de 4 semanas para que tus jugadores terminen la campaña. Recuerda que el paso por la Tierra de los Sueños te permitirá decidir si cuentan esas semanas o no en las 4 semanas hasta que el barón recuperé sus poderes.
+Esto también pone una cuenta atrás de 3 semanas para que tus jugadores terminen la campaña. Recuerda que el paso por la Tierra de los Sueños sí cuenta en esas 3 semanas hasta que el barón recuperé sus poderes. Esta cuenta atrás no coincidirá con el fin del Fèt Gede (y la desaparición del barón) porque el fin de esta festividad no corre durante la estancia en la Tierra de los sueños. 
+
+Esto añadirá tensión extra a la campaña porque el barón podría recuperar sus poderes antes de haber desterrado a Nyarlathotep o de desaparecer. Con sus poderes recuperados la balanza de poder de tu mesa y otros elementos de la campaña puede cambiar drásticamente.
 
 #### De vuelta al barco
 
