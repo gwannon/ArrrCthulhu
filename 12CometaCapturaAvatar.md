@@ -103,10 +103,11 @@ Esto puede implicar desde pagar a niños y adolescentes para que pregonen el men
 
 Una vez organizado y difundido el evento hay varias cosas que pueden tratar de hacer para mejorar la asistencia.
 
+* **Limpiar los caminos de acceso al cementerio** o incluso crear una pista forestal ayudaría a que gente mayor o con dificultades de movimiento pudiera acceder. Esto es trabajo y quizás alguna tirada de **Vigor, para evitar coger alguna fiebre de la selva**. 
+
 \sp
 
 * Lo principal sería **llevar las vituallas al cementerio**, decorarlo para la ocasión y hacerlo todo sin que nadie se entere, Iglesia, terratenientes y gobernantes locales. Aunque pueda parecer que el Sigilo es lo importante, en realidad va a ser un tema de **Intimidar/Persuadir para sobornar a guardas, vendedores, …**
-* **Limpiar los caminos de acceso al cementerio** o incluso crear una pista forestal ayudaría a que gente mayor o con dificultades de movimiento pudiera acceder. Esto es trabajo y quizás alguna tirada de **Vigor, para evitar coger alguna fiebre de la selva**. 
 * **Lanzar rumores** de que va a haber algo especial, como una pelea entre varias personas que se la han jurado. Este trabajo es una combinación de **Persuadir para convencer a la gente o de Interpretar para contar una historia cautivadora** en los abrevaderos locales. 
 * **Contratar grupos de música.** Si la música puede oírse a varios kilómetros de distancia traerá a la gente de alrededor, pero también podría atraer visitantes indeseables. Esta es una cuestión meramente económica, pero si tu mesa tiene algún amante de la música, podría tirar **Interpretar para crear alguna pieza musical pegadiza**.
 * Aunque el cementerio tendrá mucha actividad de limpieza de decoración los días anteriores por parte de las familias de los difuntos, hacer **un esfuerzo extra de limpieza y decoración** harán correr rumores sobre lo que va a pasar el Día de todos los Santos.
@@ -116,9 +117,9 @@ Por **mecanizar toda la fiesta**, deberías **darles fichas cuando hagan cosas q
 
 En general que sean ellos los que acierten o fracasen. No les quites fichas por cosas que no controlan como que un cura de las cercanías se entera de sus planes y en el sermón del domingo habla de que son herejes y blasfemos. 
 
-\sp
-
 Otra cosa es que traten de sobornar al cura para que predique en su favor y este considera que no es suficiente soborno o que son unos herejes, en ese caso es culpa suya y deberían perder fichas.
+
+\sp
 
 **No deberían obtener más de 2 fichas por día** que estén trabajando en el proyecto. Por tanto, si tienen una semana, es bastante factible conseguir una buena cantidad de fichas.
 
@@ -140,9 +141,11 @@ Si quieres algo más complicado, puedes pedirles algún tipo de estrategia para 
 
 Este tipo de cementerios para el pueblo llano y los esclavos son laberintos de lápidas y cruces entre troncos de árboles, pedruscos y vegetación. No hay grandes mausoleos ni criptas con lo que las posibilidades de esconderse en ellas o atraer a tu víctima dentro son muy escasas.
 
+Así que es complicado acercarse sin ser visto y poder atraer al barón a alguna parte del camposanto alejada del resto de festejantes. Además, el barón busca estar rodeado de todos esos creyentes del vudú que bailan, cantan y beben en grandes grupos.
+
 \sp
 
-Así que es complicado acercarse sin ser visto y poder atraer al barón a alguna parte del camposanto alejada del resto de festejantes. Además, el barón busca estar rodeado de todos esos creyentes del vudú que bailan, cantan y beben en grandes grupos. En general, no se irá a lugares apartados si no hay posibilidades de buen alcohol, buen tabaco o prácticas sexuales de cualquier tipo. La sexualidad del barón es muy amplia y acepta todo tipo de proposiciones.
+En general, no se irá a lugares apartados si no hay posibilidades de buen alcohol, buen tabaco o prácticas sexuales de cualquier tipo. La sexualidad del barón es muy amplia y acepta todo tipo de proposiciones.
 
 También pueden crear un grupo de personas más interesante si tienen o contratan a suficiente gente y cuando el barón esté dentro del grupo ordenarles a todos irse y quedarse ellos solos frente al avatar.
 
@@ -150,7 +153,7 @@ Otra opción sería dispersar a la multitud con disparos, explosiones o fuego y 
 
 Si desde principio o porque sus planes se van al garete, tienen que lanzar el hechizo rodeado de fieles, deberán defenderse de sus ataques mientras terminan el ritual de captura. El barón no puede controlar a toda la muchedumbre, pero sí a los más fanáticos y enardecidos por el alcohol y la música.
 
-> Puedes hacer que un «Pescador / Agricultor» (Apartado «Secuaces y criaturas» del libro básico de ¡Arrr! Cthulhu) por cada personaje se acerque a ellos con intenciones hostiles antes o durante el ritual.
+Puedes hacer que un «Pescador / Agricultor» (Apartado «Secuaces y criaturas» del libro básico de ¡Arrr! Cthulhu) por cada personaje se acerque a ellos con intenciones hostiles antes o durante el ritual.
 
 #### Lanzar el hechizo
 
@@ -158,9 +161,9 @@ El barón Samedí tiene tres poderes principales que deben ser anulados. Tiene u
 
 La **lengua**, su poder principal, le sirve para convencerte de lo que quiera y que hagas lo que te ordene. Sus **ojos y sus oídos**, otro de sus poderes, le permiten ver y oír todo sin restricciones y como nada escapa a sus sentidos, puede ver patrones de lucha, puntos débiles, vías de escape. Su último poder son sus **tripas**, una intuición sobrehumana que le ayuda a escapar de trampas, emboscadas, saber si le mienten, etc.
 
-\sp
-
 Así que deberán planificar muy bien el orden al anular los poderes del barón. Ya que la primera ronda podrían cogerle por sorpresa, difícil con sus tripas, pero no imposible. Pero los siguientes turnos podrá usar sus poderes no anulados para contraatacar.
+
+\sp
 
 Así que deberían tener un plan de ataque preparado y algún tipo de defensa a ser posible.
 
@@ -172,7 +175,21 @@ Cómo parte de la esencia de Nyarlathotep tiene ciertos poderes de muy bajo nive
 
 De este último poder Amanda Limestone no tiene conocimiento y no ha preparado a tus jugadores para anularlo. Estas capacidades las usará más tarde para engañar a tu mesa y llevarlos a la Tierra de los Sueños, donde cree que los hechizos de anulación tendrán menos poder y podrá deshacerlo.
 
-XXX
+Cuando lancen sus hechizos de Anular poderes debes tener algunas cosas en cuenta.
+
+* El barón Samedí podemos decir que usa un trasfondo arcano distinto del de tus jugadores con lo tu mesa tira con un -2 al lanzar el hechizo.
+* Cada poder del barón supone gastar un fijo de 8 PP para lanzar el hechizo de anulación.
+* Solo es necesario quemar los PP de un jugador para hacer el hechizo de anulación permanente. Eso supone que de normal 3 jugadores deberán quemar sus PP para anular un poder del barón.
+
+Esos jugadores tendrán la decisión de devolver o no sus poderes al barón Samedí y deberían ser el objetivo principal de las maquinaciones del barón, pero no únicos.
+
+Tus jugadores habrán consumido, casi seguro, los cocos de Yúcahu y puedes quemar esos PP extras que dan el coco para hacer permanente las anulaciones de poderes del barón.
+
+Eso supone que en unas 4 semanas los PP de los cocos desaparecerán y la anulación de poder desaparecerá.
+
+\sp
+
+Eso también pone una cuenta atrás de 4 semanas para que tus jugadores terminen la campaña. Recuerda que el paso por la Tierra de los Sueños te permitirá decidir si cuentan esas semanas o no en las 4 semanas hasta que el barón recuperé sus poderes.
 
 #### De vuelta al barco
 
@@ -183,8 +200,6 @@ Quizás una patrulla de guardas quiera revisar la carga que llevan en el carro e
 Durante la vuelta al barco, el barón no va a intentar nada. Está muy débil y todavía no tiene información suficiente para poder elaborar algún tipo de plan de escape o una estrategia de contraataque.
 
 Simplemente tratará de hablar con tu mesa y sacar la máxima información posible, también intentará de observar como se relacionan tus jugadores y tratará de buscar puntos débiles que aprovechar.
-
-\sp
 
 Déjales claro que el barón no les quita ojo de encima y aunque le tapen la cabeza con un saco o cosas similares, tendrán la desagradable sensación de que les sigue observando.
 
