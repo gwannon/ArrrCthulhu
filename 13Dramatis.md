@@ -117,12 +117,16 @@ XXX
 
 XXX
 
-* **Atributos:** Agilidad dXXX, Astucia dXXX, Espíritu dXXX, Fuerza dXXX, Vigor dXXX
+* **Atributos:** Agilidad d12, Astucia dXXX, Espíritu d12+4, Fuerza d12, Vigor d12
 * **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma criollo dXXX, Idioma cthulhunés d6, Idioma Francés dXXX, Idioma Inglés dXXX, Idioma Persa dXXX, Mitos de Cthulhu dXXX, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX, Trasfondo arcano (Hechicería primigenia)
-* **Hechizos:** XXX PP, XXX
+* **Capacidades especiales:**
+  * **Ojos y oídos:** XXX
+  * **Tripas:** XXX
+  * **Lengua:** XXX
+  * **Alterar realidad:** XXX
 * **Equipo:** XXX
 
 **Sugerencia de interpretación:** Eres una especie de dios Baco caribeño, un dios del desenfreno y los bajos instintos que aparece solo un mes al año. Aunque hayas perdido la mayor aparte de tus poderes aún puedes sacar los vicios y las perversiones de la gente que te rodea. Bebes, cantas, gritas, insultas, intimidas y seduces a la gente de tu alrededor. Los excesos son lo tuyo, así que no te prives de nada con nadie.
