@@ -183,11 +183,11 @@ Cuando lancen sus hechizos de Anular poderes debes tener algunas cosas en cuenta
 
 Esos jugadores tendrán la decisión de devolver o no sus poderes al barón Samedí y deberían ser el objetivo principal de las maquinaciones del barón, pero no únicos.
 
-Tus jugadores habrán consumido, casi seguro, los cocos de Yúcahu y puedes quemar esos PP extras que dan el coco para hacer permanente las anulaciones de poderes del barón.
-
-Eso supone que en unas 3 semanas los PP de los cocos desaparecerán y la anulación de poder desaparecerá.
+Tus jugadores habrán consumido, casi seguro, los cocos de Yúcahu y puedes quemar esos PP extras que dan el coco para hacer permanente las anulaciones de poderes del barón o los suyos propios.
 
 \sp
+
+Eso supone que en unas 3 semanas los PP de los cocos desaparecerán y la anulación de poder desaparecerá a no ser que quemen sus propios PP, si pueden quemar tantos PP que igual tienen menos. Un personaje puede asumir la quema de PP de otro si participo en la anulación.
 
 Esto también pone una cuenta atrás de 3 semanas para que tus jugadores terminen la campaña. Recuerda que el paso por la Tierra de los Sueños sí cuenta en esas 3 semanas hasta que el barón recuperé sus poderes. Esta cuenta atrás no coincidirá con el fin del Fèt Gede (y la desaparición del barón) porque el fin de esta festividad no corre durante la estancia en la Tierra de los sueños. 
 

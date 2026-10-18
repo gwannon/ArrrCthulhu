@@ -111,22 +111,22 @@ XXX
 
 \sinc
 
-## Barón Samedí humanizado (comodín)
+## Barón Samedí (comodín)
 
 \conc
 
 XXX
 
-* **Atributos:** Agilidad d12, Astucia dXXX, Espíritu d12+4, Fuerza d12, Vigor d12
-* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma criollo dXXX, Idioma cthulhunés d6, Idioma Francés dXXX, Idioma Inglés dXXX, Idioma Persa dXXX, Mitos de Cthulhu dXXX, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** XXX; **Dureza:** XXX
+* **Atributos:** Agilidad d12, Astucia d10, Espíritu d12+4, Fuerza d12, Vigor d12
+* **Habilidades:** Atletismo d4, Conocimientos Generales dXXX, Idioma criollo d10, Idioma cthulhunés d6, Idioma Francés d8, Idioma Inglés d6, Idioma Persa d6, Mitos de Cthulhu d6, Notar d4, Persuadir d4, Pelear d12, Sigilo d4
+* **Paso:** 6; **Parada:** 8; **Dureza:** 8
 * **Desventajas:** XXX
-* **Ventajas:** XXX, Trasfondo arcano (Hechicería primigenia)
+* **Ventajas:** XXX, Trasfondo arcano (Esencia de Nyarlathotep)
 * **Capacidades especiales:**
-  * **Ojos y oídos:** XXX
-  * **Tripas:** XXX
-  * **Lengua:** XXX
+  * **Ojos y oídos (anulado):** XXX
+  * **Tripas (anulado):** XXX
+  * **Lengua (anulado):** XXX
   * **Alterar realidad:** XXX
-* **Equipo:** XXX
+* **Equipo:** Sombrero de copa con adornos de calaveras, gran gabardina de cuero negra, suministro infinito de ron y cigarros
 
 **Sugerencia de interpretación:** Eres una especie de dios Baco caribeño, un dios del desenfreno y los bajos instintos que aparece solo un mes al año. Aunque hayas perdido la mayor aparte de tus poderes aún puedes sacar los vicios y las perversiones de la gente que te rodea. Bebes, cantas, gritas, insultas, intimidas y seduces a la gente de tu alrededor. Los excesos son lo tuyo, así que no te prives de nada con nadie.
