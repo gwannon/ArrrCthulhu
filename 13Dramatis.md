@@ -123,10 +123,10 @@ XXX
 * **Desventajas:** XXX
 * **Ventajas:** XXX, Trasfondo arcano (Esencia de Nyarlathotep)
 * **Capacidades especiales:**
-  * **Ojos y oídos (anulado):** XXX
-  * **Tripas (anulado):** XXX
-  * **Lengua (anulado):** XXX
-  * **Alterar realidad:** XXX
+  * **Ojos y oídos (anulado):** Esta capacidad especial le permiten ver y oír todo sin restricciones y como nada escapa a sus sentidos, además puede ver patrones de lucha, puntos débiles, vías de escape.
+  * **Tripas (anulado):** Es una intuición sobrehumana que le ayuda a escapar de trampas, emboscadas, saber si le mienten, etc. XXX
+  * **Lengua (anulado):** Este poder le sirve para convencerte de lo que quiera y que hagas lo que te ordene. XXX
+  * **Alterar realidad:** Puede hacer pequeños cambios cosméticos a la realidad, como largar las sombras para parecer más temible, convertir el agua en vino, hacer que haya eco, mover objetos ligeros, etc. En principio, esta capacidad podría otorgarle +1 a las tiradas de persuadir, intimidar, interpretar, etc. pero no tiene ninguna utilidad en combate donde no daría ningún beneficio. 
 * **Equipo:** Sombrero de copa con adornos de calaveras, gran gabardina de cuero negra, suministro infinito de ron y cigarros
 
 **Sugerencia de interpretación:** Eres una especie de dios Baco caribeño, un dios del desenfreno y los bajos instintos que aparece solo un mes al año. Aunque hayas perdido la mayor aparte de tus poderes aún puedes sacar los vicios y las perversiones de la gente que te rodea. Bebes, cantas, gritas, insultas, intimidas y seduces a la gente de tu alrededor. Los excesos son lo tuyo, así que no te prives de nada con nadie.
